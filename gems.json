@@ -25,15 +25,23 @@
   },
   {
     "createdAt": "2025-05-19T15:26:50Z",
-    "stars": 417,
+    "stars": 418,
     "name": "anthropics/claude-code-action",
     "url": "https://github.com/anthropics/claude-code-action",
     "lang": "TypeScript",
     "desc": ""
   },
   {
+    "createdAt": "2025-05-18T21:13:03Z",
+    "stars": 332,
+    "name": "OKUA1/juvio",
+    "url": "https://github.com/OKUA1/juvio",
+    "lang": "Python",
+    "desc": "UV kernel for Jupyter"
+  },
+  {
     "createdAt": "2025-05-25T10:28:31Z",
-    "stars": 292,
+    "stars": 295,
     "name": "saxpjexck/lsix",
     "url": "https://github.com/saxpjexck/lsix",
     "lang": "CSS",
@@ -62,6 +70,14 @@
     "url": "https://github.com/Alchemyst-ai/awesome-saas",
     "lang": "JavaScript",
     "desc": "Collection of templates using the Alchemyst AI Platform for your next big AI app."
+  },
+  {
+    "createdAt": "2025-05-18T19:01:09Z",
+    "stars": 211,
+    "name": "woralfaboy2890/Arcane-Marvel-Rivals-Hack",
+    "url": "https://github.com/woralfaboy2890/Arcane-Marvel-Rivals-Hack",
+    "lang": "",
+    "desc": "Marvel Rivals Hack - Aimbot, Esp, Radar, Misc | Win 10/11 | 2025"
   },
   {
     "createdAt": "2025-05-19T19:05:23Z",
@@ -144,6 +160,22 @@
     "desc": "Take a peek behind the scenes of a senior dev’s awarded portfolio. Clone it, learn from it, build your own."
   },
   {
+    "createdAt": "2025-05-18T16:56:34Z",
+    "stars": 178,
+    "name": "octelium/octelium",
+    "url": "https://github.com/octelium/octelium",
+    "lang": "Go",
+    "desc": "A next-gen FOSS self-hosted unified zero trust secure access ZTNA/remote access VPN alternative platform that's relevant for the age of AI and dynamic workloads"
+  },
+  {
+    "createdAt": "2025-05-18T05:01:14Z",
+    "stars": 164,
+    "name": "alterem/knowledge-grab",
+    "url": "https://github.com/alterem/knowledge-grab",
+    "lang": "Vue",
+    "desc": "knowledge-grab 是一个基于 Tauri 和 Vue 3 构建的桌面应用程序，方便用户从 国家中小学智慧教育平台 (basic.smartedu.cn) 下载各类教育资源。"
+  },
+  {
     "createdAt": "2025-05-21T16:10:35Z",
     "stars": 163,
     "name": "logangoins/SharpSuccessor",
@@ -208,20 +240,20 @@
     "desc": "Download Adopt Me Auto Player Script 2025 - Windows Compatible"
   },
   {
-    "createdAt": "2025-05-23T12:55:42Z",
-    "stars": 161,
-    "name": "bingo2000uq/microsoft-office-365",
-    "url": "https://github.com/bingo2000uq/microsoft-office-365",
-    "lang": "",
-    "desc": "Microsoft Office 365 Key Free Download"
-  },
-  {
     "createdAt": "2025-05-23T12:59:06Z",
     "stars": 161,
     "name": "south-gunfighter/CombatArms-Hub",
     "url": "https://github.com/south-gunfighter/CombatArms-Hub",
     "lang": "",
     "desc": "Official Combat Arms 2025 Download Link for Windows PC🚀"
+  },
+  {
+    "createdAt": "2025-05-23T12:55:42Z",
+    "stars": 161,
+    "name": "bingo2000uq/microsoft-office-365",
+    "url": "https://github.com/bingo2000uq/microsoft-office-365",
+    "lang": "",
+    "desc": "Microsoft Office 365 Key Free Download"
   },
   {
     "createdAt": "2025-05-23T12:59:36Z",
@@ -366,37 +398,5 @@
     "url": "https://github.com/smailik257/Apex_Legends_External_Cheat",
     "lang": "Python",
     "desc": "📈 apex legends cheat triggerbot & aimbot 100% undetected ⭐ apex legends ai aimbot image detection yolov7 yolov5 apex legends aimbot apex legends cheat apex legends external internal cheat esp aimbot triggerbot cheat apex legends hack vpusxim"
-  },
-  {
-    "createdAt": "2025-05-24T21:23:37Z",
-    "stars": 150,
-    "name": "CyberLinkGamma314/LocalineAI",
-    "url": "https://github.com/CyberLinkGamma314/LocalineAI",
-    "lang": "",
-    "desc": "LocalineAI brings powerful AI capabilities directly to your Windows terminal while keeping your data completely private and secure. No cloud dependencies, no data sharing - just pure AI power at your fingertips."
-  },
-  {
-    "createdAt": "2025-05-24T21:23:39Z",
-    "stars": 149,
-    "name": "BinarySyncBeta995/LocalineAI",
-    "url": "https://github.com/BinarySyncBeta995/LocalineAI",
-    "lang": "",
-    "desc": "LocalineAI brings powerful AI capabilities directly to your Windows terminal while keeping your data completely private and secure. No cloud dependencies, no data sharing - just pure AI power at your fingertips."
-  },
-  {
-    "createdAt": "2025-05-23T03:43:44Z",
-    "stars": 143,
-    "name": "Simple-Efficient/RL-Factory",
-    "url": "https://github.com/Simple-Efficient/RL-Factory",
-    "lang": "Python",
-    "desc": "Train your Agent model via our easy and efficient framework"
-  },
-  {
-    "createdAt": "2025-05-20T19:56:10Z",
-    "stars": 140,
-    "name": "haidog-yaqub/MeanFlow",
-    "url": "https://github.com/haidog-yaqub/MeanFlow",
-    "lang": "Python",
-    "desc": "Pytorch Implementation (unofficial) of the paper \"Mean Flows for One-step Generative Modeling\" by Geng et al."
   }
 ]
