@@ -1,0 +1,28 @@
+name: Update gems.json daily
+
+on:
+  schedule:
+    # 22:00 UTC = 08:00 AEST (+10) next day
+    - cron:  '0 22 * * *'
+  workflow_dispatch:     # manual trigger button
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # gh CLI is pre-installed on GitHub runners; jq is too.
+      # Authenticate gh with the workflow’s ephemeral token.
+      - name: Run gems.sh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # gh reads this automatically
+        run: ./gems.sh
+
+      # Auto-commit any change to gems.json
+      - name: Commit & push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: daily update gems.json"
+
