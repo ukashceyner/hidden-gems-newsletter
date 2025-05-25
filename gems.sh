@@ -8,7 +8,13 @@ STAR_MIN=50          # minimum stars
 LIMIT=50             # how many repos to fetch
 # ───────────────────────────────────────────────────────────
 
-START=$(date -v-"$DAYS_BACK"d +%Y-%m-%d)   # macOS; on Linux use: START=$(date -d "$DAYS_BACK days ago" +%Y-%m-%d)
+# Compute YYYY-MM-DD for N days ago on both macOS (BSD date) and Linux (GNU date)
+if date -v-1d >/dev/null 2>&1; then              # BSD (macOS)
+  START=$(date -v-"$DAYS_BACK"d +%Y-%m-%d)
+else                                             # GNU (Linux / GitHub runner)
+  START=$(date -d "$DAYS_BACK days ago" +%Y-%m-%d)
+fi
+
 
 gh search repos \
   --created=">=$START" \
