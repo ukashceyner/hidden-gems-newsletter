@@ -1,51 +1,43 @@
 [
   {
-    "createdAt": "2025-05-21T08:19:42Z",
-    "stars": 720,
-    "name": "Gen-Verse/MMaDA",
-    "url": "https://github.com/Gen-Verse/MMaDA",
-    "lang": "Python",
-    "desc": "MMaDA - Open-Sourced Multimodal Large Diffusion Language Models"
-  },
-  {
     "createdAt": "2025-05-25T10:28:31Z",
-    "stars": 672,
+    "stars": 989,
     "name": "saxpjexck/lsix",
     "url": "https://github.com/saxpjexck/lsix",
     "lang": "CSS",
     "desc": ""
   },
   {
+    "createdAt": "2025-05-21T08:19:42Z",
+    "stars": 779,
+    "name": "Gen-Verse/MMaDA",
+    "url": "https://github.com/Gen-Verse/MMaDA",
+    "lang": "Python",
+    "desc": "MMaDA - Open-Sourced Multimodal Large Diffusion Language Models"
+  },
+  {
     "createdAt": "2025-05-20T03:02:15Z",
-    "stars": 576,
+    "stars": 625,
     "name": "SkyworkAI/DeepResearchAgent",
     "url": "https://github.com/SkyworkAI/DeepResearchAgent",
     "lang": "Fluent",
     "desc": ""
   },
   {
-    "createdAt": "2025-05-19T15:26:50Z",
-    "stars": 495,
-    "name": "anthropics/claude-code-action",
-    "url": "https://github.com/anthropics/claude-code-action",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-05-19T05:03:45Z",
-    "stars": 486,
-    "name": "wassupjay/n8n-free-templates",
-    "url": "https://github.com/wassupjay/n8n-free-templates",
-    "lang": "",
-    "desc": " A curated set of 200 plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production."
-  },
-  {
     "createdAt": "2025-05-23T03:43:44Z",
-    "stars": 351,
+    "stars": 562,
     "name": "Simple-Efficient/RL-Factory",
     "url": "https://github.com/Simple-Efficient/RL-Factory",
     "lang": "Python",
     "desc": "Train your Agent model via our easy and efficient framework"
+  },
+  {
+    "createdAt": "2025-05-21T18:45:29Z",
+    "stars": 441,
+    "name": "logscore/Nimbus",
+    "url": "https://github.com/logscore/Nimbus",
+    "lang": "TypeScript",
+    "desc": "An open source alternative to Google Drive, One Drive, iCloud, etc."
   },
   {
     "createdAt": "2025-05-24T21:23:36Z",
@@ -80,128 +72,88 @@
     "desc": "LocalineAI brings powerful AI capabilities directly to your Windows terminal while keeping your data completely private and secure. No cloud dependencies, no data sharing - just pure AI power at your fingertips."
   },
   {
-    "createdAt": "2025-05-19T10:12:17Z",
-    "stars": 240,
-    "name": "HdShare/WAuxiliary_Plugin",
-    "url": "https://github.com/HdShare/WAuxiliary_Plugin",
-    "lang": "Java",
-    "desc": "WeChat Auxiliary Plugin"
-  },
-  {
-    "createdAt": "2025-05-19T12:33:47Z",
-    "stars": 226,
-    "name": "luis22d/Salnet-Controll",
-    "url": "https://github.com/luis22d/Salnet-Controll",
-    "lang": "C#",
-    "desc": "Salnet RAT"
-  },
-  {
-    "createdAt": "2025-05-20T15:36:48Z",
-    "stars": 226,
-    "name": "Alchemyst-ai/awesome-saas",
-    "url": "https://github.com/Alchemyst-ai/awesome-saas",
-    "lang": "JavaScript",
-    "desc": "Collection of templates using the Alchemyst AI Platform for your next big AI app."
-  },
-  {
-    "createdAt": "2025-05-21T18:45:29Z",
-    "stars": 217,
-    "name": "logscore/Nimbus",
-    "url": "https://github.com/logscore/Nimbus",
-    "lang": "TypeScript",
-    "desc": "An open source alternative to Google Drive, One Drive, iCloud, etc."
-  },
-  {
-    "createdAt": "2025-05-23T16:22:43Z",
-    "stars": 213,
-    "name": "yarlson/lnk",
-    "url": "https://github.com/yarlson/lnk",
-    "lang": "Go",
-    "desc": "🔗 Git-native dotfiles management that doesn't suck."
-  },
-  {
     "createdAt": "2025-05-21T16:10:35Z",
-    "stars": 211,
+    "stars": 243,
     "name": "logangoins/SharpSuccessor",
     "url": "https://github.com/logangoins/SharpSuccessor",
     "lang": "C#",
     "desc": "SharpSuccessor is a .NET Proof of Concept (POC) for fully weaponizing Yuval Gordon’s (@YuG0rd) BadSuccessor attack from Akamai."
   },
   {
-    "createdAt": "2025-05-22T07:58:12Z",
-    "stars": 210,
-    "name": "liujuntao123/smart-mermaid",
-    "url": "https://github.com/liujuntao123/smart-mermaid",
+    "createdAt": "2025-05-20T15:36:48Z",
+    "stars": 233,
+    "name": "Alchemyst-ai/awesome-saas",
+    "url": "https://github.com/Alchemyst-ai/awesome-saas",
     "lang": "JavaScript",
-    "desc": "一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。"
+    "desc": "Collection of templates using the Alchemyst AI Platform for your next big AI app."
   },
   {
-    "createdAt": "2025-05-19T19:23:32Z",
-    "stars": 210,
-    "name": "nunomaduro/pokio",
-    "url": "https://github.com/nunomaduro/pokio",
-    "lang": "PHP",
-    "desc": "Pokio is a dead simple Asynchronous API for PHP."
-  },
-  {
-    "createdAt": "2025-05-19T19:05:23Z",
-    "stars": 207,
-    "name": "ferstskyfall94/Fortnite-2025-Arcane",
-    "url": "https://github.com/ferstskyfall94/Fortnite-2025-Arcane",
-    "lang": "",
-    "desc": "Fortnite Hack! Aimbot+Wallhack+Spoofer | Win 10-11 | Fortnite Cheats | Full Free"
-  },
-  {
-    "createdAt": "2025-05-19T16:34:11Z",
-    "stars": 202,
-    "name": "valetnoob/spoofer-hwid",
-    "url": "https://github.com/valetnoob/spoofer-hwid",
-    "lang": "Python",
-    "desc": "hwid spoofer hwid changer 🔑︎ disk, guid, mac, gpu, pc-name, win-id, efi, smbios spoofing fortnite warzone apex rust escape from tarkov and all eac be games hwid spoof hwid changer hwid spoof hwid changer hwid spoof hwid changer hwid  mkxfzon"
-  },
-  {
-    "createdAt": "2025-05-19T13:16:39Z",
-    "stars": 201,
-    "name": "AntoineW/AW-2025-Portfolio",
-    "url": "https://github.com/AntoineW/AW-2025-Portfolio",
-    "lang": "Astro",
-    "desc": "Take a peek behind the scenes of a senior dev’s awarded portfolio. Clone it, learn from it, build your own."
-  },
-  {
-    "createdAt": "2025-05-19T16:33:00Z",
-    "stars": 199,
-    "name": "wargunreberry9492/Discord-image-logger",
-    "url": "https://github.com/wargunreberry9492/Discord-image-logger",
-    "lang": "Python",
-    "desc": "discord image logger 🔥 updated 2024 🔥 a logger that logs people that click on open image in browser on discord. discord ip logger discord image logger discord image grabber discord grabber discord image stealer discord stealer discord ip grabber discord ip stealer discord image logger discord image logger discord image grabber qwesofqsu"
-  },
-  {
-    "createdAt": "2025-05-19T16:33:46Z",
-    "stars": 199,
-    "name": "odinokiyorelfanta9/Blank-Grabber",
-    "url": "https://github.com/odinokiyorelfanta9/Blank-Grabber",
-    "lang": "Python",
-    "desc": "grabber 🔥 blank grabber 🔥 updated 2024 🔥 blank password grabber written in python. cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber miwuop"
+    "createdAt": "2025-05-23T16:22:43Z",
+    "stars": 232,
+    "name": "yarlson/lnk",
+    "url": "https://github.com/yarlson/lnk",
+    "lang": "Go",
+    "desc": "🔗 Git-native dotfiles management that doesn't suck."
   },
   {
     "createdAt": "2025-05-22T10:36:18Z",
-    "stars": 185,
+    "stars": 229,
     "name": "SeanHeelan/o3_finds_cve-2025-37899",
     "url": "https://github.com/SeanHeelan/o3_finds_cve-2025-37899",
     "lang": "",
     "desc": "Artefacts for blog post on finding CVE-2025-37899 with o3"
   },
   {
+    "createdAt": "2025-05-22T07:58:12Z",
+    "stars": 216,
+    "name": "liujuntao123/smart-mermaid",
+    "url": "https://github.com/liujuntao123/smart-mermaid",
+    "lang": "JavaScript",
+    "desc": "一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。"
+  },
+  {
+    "createdAt": "2025-05-25T16:45:42Z",
+    "stars": 210,
+    "name": "jedisct1/yes-rs",
+    "url": "https://github.com/jedisct1/yes-rs",
+    "lang": "Rust",
+    "desc": "🚀 A blazingly fast, memory-safe rewrite of the classic Unix 'yes' command. Written in Rust! 🦀"
+  },
+  {
+    "createdAt": "2025-05-23T05:59:32Z",
+    "stars": 206,
+    "name": "DreamTechAI/Direct3D-S2",
+    "url": "https://github.com/DreamTechAI/Direct3D-S2",
+    "lang": "",
+    "desc": "Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention"
+  },
+  {
     "createdAt": "2025-05-20T19:56:10Z",
-    "stars": 172,
+    "stars": 194,
     "name": "haidog-yaqub/MeanFlow",
     "url": "https://github.com/haidog-yaqub/MeanFlow",
     "lang": "Python",
     "desc": "Pytorch Implementation (unofficial) of the paper \"Mean Flows for One-step Generative Modeling\" by Geng et al."
   },
   {
+    "createdAt": "2025-05-22T19:42:55Z",
+    "stars": 190,
+    "name": "jz5/FORM-UDPGothic",
+    "url": "https://github.com/jz5/FORM-UDPGothic",
+    "lang": "HTML",
+    "desc": "帳票 UDPゴシック。BIZ UDPゴシックと 99.99%同じ。"
+  },
+  {
+    "createdAt": "2025-05-23T22:15:54Z",
+    "stars": 190,
+    "name": "ross39/new_bloom_filter_repo",
+    "url": "https://github.com/ross39/new_bloom_filter_repo",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-05-23T18:58:19Z",
-    "stars": 169,
+    "stars": 177,
     "name": "Lakr233/Sentry",
     "url": "https://github.com/Lakr233/Sentry",
     "lang": "Swift",
@@ -209,194 +161,242 @@
   },
   {
     "createdAt": "2025-05-21T21:53:47Z",
-    "stars": 156,
+    "stars": 161,
     "name": "dexter-xD/NxLite",
     "url": "https://github.com/dexter-xD/NxLite",
     "lang": "C",
     "desc": "Lightning-fast HTTP server built in C"
   },
   {
-    "createdAt": "2025-05-23T13:00:09Z",
-    "stars": 154,
-    "name": "mrdok918/RobloxFruit-Mod",
-    "url": "https://github.com/mrdok918/RobloxFruit-Mod",
+    "createdAt": "2025-05-23T08:03:39Z",
+    "stars": 160,
+    "name": "MiniMax-AI/One-RL-to-See-Them-All",
+    "url": "https://github.com/MiniMax-AI/One-RL-to-See-Them-All",
     "lang": "",
-    "desc": "Free Roblox Blox Fruits Script: Easy Download for Windows in 2025 Version🌐"
+    "desc": "One RL to See Them All: Visual Triple Unified Reinforcement Learning"
   },
   {
-    "createdAt": "2025-05-23T12:53:28Z",
+    "createdAt": "2025-05-20T18:33:36Z",
     "stars": 154,
-    "name": "crystalgoose-2000/v7-Marvel-Cheat-Suite",
-    "url": "https://github.com/crystalgoose-2000/v7-Marvel-Cheat-Suite",
+    "name": "rtadewald/Agents-Prompts",
+    "url": "https://github.com/rtadewald/Agents-Prompts",
     "lang": "",
-    "desc": "Marvel Rivals Cheats Trainer Free Download 2025"
+    "desc": ""
   },
   {
-    "createdAt": "2025-05-23T13:01:37Z",
-    "stars": 154,
-    "name": "ijseven-loedeil/Combat-Arms-Hub",
-    "url": "https://github.com/ijseven-loedeil/Combat-Arms-Hub",
-    "lang": "",
-    "desc": "Official Combat Arms Download 2025 for Windows – Secure and Fast! 🚀"
-  },
-  {
-    "createdAt": "2025-05-23T13:02:36Z",
-    "stars": 154,
-    "name": "makaroon2000kw/Age-Of-Water-Hack",
-    "url": "https://github.com/makaroon2000kw/Age-Of-Water-Hack",
-    "lang": "",
-    "desc": "Safe and Easy Age of Water Hack Tool for Windows in 2025 💻"
-  },
-  {
-    "createdAt": "2025-05-23T12:56:51Z",
-    "stars": 154,
-    "name": "malanrad-magic/fisch-script-gui",
-    "url": "https://github.com/malanrad-magic/fisch-script-gui",
-    "lang": "",
-    "desc": "Fisch Roblox Script GUI Free Download - Official 2025 Release"
-  },
-  {
-    "createdAt": "2025-05-23T12:59:52Z",
-    "stars": 154,
-    "name": "manimal-100fi/davinci-free-download",
-    "url": "https://github.com/manimal-100fi/davinci-free-download",
-    "lang": "",
-    "desc": "Latest DaVinci Resolve Studio Crack Full Free"
-  },
-  {
-    "createdAt": "2025-05-23T13:01:22Z",
-    "stars": 154,
-    "name": "stackerman908/adoptmescript",
-    "url": "https://github.com/stackerman908/adoptmescript",
-    "lang": "",
-    "desc": "Download Adopt Me Auto Player Script 2025 - Windows Compatible"
-  },
-  {
-    "createdAt": "2025-05-23T12:55:42Z",
-    "stars": 154,
-    "name": "bingo2000uq/microsoft-office-365",
-    "url": "https://github.com/bingo2000uq/microsoft-office-365",
-    "lang": "",
-    "desc": "Microsoft Office 365 Key Free Download"
-  },
-  {
-    "createdAt": "2025-05-23T12:59:06Z",
-    "stars": 154,
-    "name": "south-gunfighter/CombatArms-Hub",
-    "url": "https://github.com/south-gunfighter/CombatArms-Hub",
-    "lang": "",
-    "desc": "Official Combat Arms 2025 Download Link for Windows PC🚀"
-  },
-  {
-    "createdAt": "2025-05-23T12:59:36Z",
-    "stars": 154,
-    "name": "bessone198/Ultimate-BeamNG-Pack",
-    "url": "https://github.com/bessone198/Ultimate-BeamNG-Pack",
-    "lang": "",
-    "desc": "Explore New 500+ Mods for BeamNG.drive: Windows Downloads 2025 🌟"
-  },
-  {
-    "createdAt": "2025-05-23T12:56:34Z",
-    "stars": 154,
-    "name": "eding-100/sea-of-thieves-cheats",
-    "url": "https://github.com/eding-100/sea-of-thieves-cheats",
-    "lang": "",
-    "desc": "Best Sea of Thieves Exploit Hack Free"
-  },
-  {
-    "createdAt": "2025-05-23T12:56:01Z",
-    "stars": 154,
-    "name": "masterawp966/LostArk-Cheat",
-    "url": "https://github.com/masterawp966/LostArk-Cheat",
-    "lang": "",
-    "desc": "Get Your Lost Ark 2025 Hack Download for Windows Today – Fully Functional"
-  },
-  {
-    "createdAt": "2025-05-23T13:01:33Z",
-    "stars": 154,
-    "name": "bre98kekofmeister/Lustful-Goddess-Hack",
-    "url": "https://github.com/bre98kekofmeister/Lustful-Goddess-Hack",
-    "lang": "",
-    "desc": "Download Lust Goddess Ultimate Hack 2025 Edition for Windows – Step-by-Step 🛡️"
-  },
-  {
-    "createdAt": "2025-05-23T13:02:05Z",
-    "stars": 154,
-    "name": "sumerbraumd3/Thieves-Exploit",
-    "url": "https://github.com/sumerbraumd3/Thieves-Exploit",
-    "lang": "",
-    "desc": "Download Sea of Thieves Hack 2025 for Windows-Free & Unlimited Access ⚓"
-  },
-  {
-    "createdAt": "2025-05-23T13:02:29Z",
-    "stars": 154,
-    "name": "mulhala-ploxomne/black-ops-6-cheats",
-    "url": "https://github.com/mulhala-ploxomne/black-ops-6-cheats",
-    "lang": "",
-    "desc": "Black Ops 6 Hack Tool Download 2025 No Password"
-  },
-  {
-    "createdAt": "2025-05-23T12:59:04Z",
-    "stars": 154,
-    "name": "darkhorse45player/Miside-Adult",
-    "url": "https://github.com/darkhorse45player/Miside-Adult",
-    "lang": "",
-    "desc": "Get Free Miside Adult Mode Pack Download on Windows 2025📥"
-  },
-  {
-    "createdAt": "2025-05-23T12:56:09Z",
-    "stars": 154,
-    "name": "pixelspy5gy/OverWatch2-Hack",
-    "url": "https://github.com/pixelspy5gy/OverWatch2-Hack",
-    "lang": "",
-    "desc": "Best OW2 Hacks Download for Windows Gamers in 2025: Pro Tips⚡"
-  },
-  {
-    "createdAt": "2025-05-23T12:54:12Z",
-    "stars": 154,
-    "name": "ladyluck90m/Warzone-Unlock-All-Tools",
-    "url": "https://github.com/ladyluck90m/Warzone-Unlock-All-Tools",
-    "lang": "",
-    "desc": "Warzone Unlock All Tools Free Download"
-  },
-  {
-    "createdAt": "2025-05-23T13:03:49Z",
-    "stars": 154,
-    "name": "childishguy30a/v3-10-Path-of-Exile-Legit",
-    "url": "https://github.com/childishguy30a/v3-10-Path-of-Exile-Legit",
-    "lang": "",
-    "desc": "Download Path of Exile Hack Tool 2025 - Working & Undetected for Windows"
-  },
-  {
-    "createdAt": "2025-05-23T13:04:20Z",
+    "createdAt": "2025-05-24T10:07:52Z",
     "stars": 153,
-    "name": "everalon672/labrust",
-    "url": "https://github.com/everalon672/labrust",
-    "lang": "",
-    "desc": "Rust Cheats 2025 Full Version, no ban"
+    "name": "Dhaxor/super-utils-plus",
+    "url": "https://github.com/Dhaxor/super-utils-plus",
+    "lang": "TypeScript",
+    "desc": ""
   },
   {
-    "createdAt": "2025-05-22T19:42:55Z",
+    "createdAt": "2025-05-22T11:38:42Z",
     "stars": 153,
-    "name": "jz5/FORM-UDPGothic",
-    "url": "https://github.com/jz5/FORM-UDPGothic",
-    "lang": "HTML",
-    "desc": "帳票 UDPゴシック。BIZ UDPゴシックと 99.99%同じ。"
+    "name": "dvlab-research/Jenga",
+    "url": "https://github.com/dvlab-research/Jenga",
+    "lang": "Python",
+    "desc": "Official Implementation: Training-Free Efficient Video Generation via Dynamic Token Carving"
   },
   {
-    "createdAt": "2025-05-23T13:03:53Z",
-    "stars": 153,
-    "name": "ferst708/ARK-Hack-Tool",
-    "url": "https://github.com/ferst708/ARK-Hack-Tool",
-    "lang": "",
-    "desc": "Secure and Free: ARK Survival Evolved Hack Download for Windows Users 2025 🔒"
+    "createdAt": "2025-05-21T05:42:48Z",
+    "stars": 140,
+    "name": "TheBlindM/Tyan",
+    "url": "https://github.com/TheBlindM/Tyan",
+    "lang": "Rust",
+    "desc": ""
   },
   {
-    "createdAt": "2025-05-23T13:04:32Z",
-    "stars": 153,
-    "name": "montpozitivchik631/Fallout76-Hack",
-    "url": "https://github.com/montpozitivchik631/Fallout76-Hack",
+    "createdAt": "2025-05-26T04:15:49Z",
+    "stars": 137,
+    "name": "GtxFury/FlyClash-Android",
+    "url": "https://github.com/GtxFury/FlyClash-Android",
     "lang": "",
-    "desc": "Free Fallout 76 Cheat Download: 2025 Version for Windows PC 🚀"
+    "desc": "FlyClash客户端安卓版本"
+  },
+  {
+    "createdAt": "2025-05-20T06:36:06Z",
+    "stars": 136,
+    "name": "bloom42/markdown-ninja",
+    "url": "https://github.com/bloom42/markdown-ninja",
+    "lang": "Go",
+    "desc": "Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja"
+  },
+  {
+    "createdAt": "2025-05-20T10:31:39Z",
+    "stars": 132,
+    "name": "123xiao/Cloudflare-SQL-to-API",
+    "url": "https://github.com/123xiao/Cloudflare-SQL-to-API",
+    "lang": "Vue",
+    "desc": "这是一个基于 Cloudflare Workers 和 D1 数据库的应用，可以通过编写 SQL 查询快速创建 REST API 接口。"
+  },
+  {
+    "createdAt": "2025-05-23T08:43:24Z",
+    "stars": 131,
+    "name": "Tongyi-Zhiwen/QwenLong-L1",
+    "url": "https://github.com/Tongyi-Zhiwen/QwenLong-L1",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-21T12:56:18Z",
+    "stars": 129,
+    "name": "saidsurucu/yargi-mcp",
+    "url": "https://github.com/saidsurucu/yargi-mcp",
+    "lang": "Python",
+    "desc": "MCP Server For Turkish Legal Databases"
+  },
+  {
+    "createdAt": "2025-05-26T12:35:33Z",
+    "stars": 122,
+    "name": "0xsline/GeminiImageApp",
+    "url": "https://github.com/0xsline/GeminiImageApp",
+    "lang": "Python",
+    "desc": "基于 Google Gemini AI 的全功能图像处理应用"
+  },
+  {
+    "createdAt": "2025-05-20T16:07:06Z",
+    "stars": 118,
+    "name": "raphaeliyamu/machine-translation-nlp-african-languages-v2",
+    "url": "https://github.com/raphaeliyamu/machine-translation-nlp-african-languages-v2",
+    "lang": "TeX",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-20T05:19:13Z",
+    "stars": 118,
+    "name": "raphaeliyamu/machine-translation-for-african-languages",
+    "url": "https://github.com/raphaeliyamu/machine-translation-for-african-languages",
+    "lang": "TeX",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-20T16:21:08Z",
+    "stars": 118,
+    "name": "raphaeliyamu/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding",
+    "url": "https://github.com/raphaeliyamu/Emotion-Aware-NLP-Leveraging-Deep-Learning-for-Contextual-Sentiment-Understanding",
+    "lang": "TeX",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-25T01:10:58Z",
+    "stars": 116,
+    "name": "Qinyu-Allen-Zhao/DiSA",
+    "url": "https://github.com/Qinyu-Allen-Zhao/DiSA",
+    "lang": "Jupyter Notebook",
+    "desc": "Official Implementation of Diffusion Step Annealing (DiSA) in Autoregressive Image Generation"
+  },
+  {
+    "createdAt": "2025-05-22T23:30:05Z",
+    "stars": 104,
+    "name": "BundlerBullet/BundlerBullet",
+    "url": "https://github.com/BundlerBullet/BundlerBullet",
+    "lang": "",
+    "desc": "BBullet - A Raydium & pump.fun bundler."
+  },
+  {
+    "createdAt": "2025-05-23T21:58:51Z",
+    "stars": 103,
+    "name": "acoyfellow/userdo",
+    "url": "https://github.com/acoyfellow/userdo",
+    "lang": "TypeScript",
+    "desc": "A simple, secure, and ergonomic Durable Object for user authentication, management, and per-user key-value (KV) storage on Cloudflare Workers."
+  },
+  {
+    "createdAt": "2025-05-20T08:14:34Z",
+    "stars": 102,
+    "name": "agistry-dev/agistry-sdk-v2",
+    "url": "https://github.com/agistry-dev/agistry-sdk-v2",
+    "lang": "TypeScript",
+    "desc": "Decentralized adapter registry for AI agent-tool interfacing "
+  },
+  {
+    "createdAt": "2025-05-22T05:10:25Z",
+    "stars": 100,
+    "name": "starowo/Odysseia-Main",
+    "url": "https://github.com/starowo/Odysseia-Main",
+    "lang": "Python",
+    "desc": "类脑主要维护bot"
+  },
+  {
+    "createdAt": "2025-05-25T14:05:45Z",
+    "stars": 98,
+    "name": "neverbiasu/ComfyUI-BAGEL",
+    "url": "https://github.com/neverbiasu/ComfyUI-BAGEL",
+    "lang": "Python",
+    "desc": "A ComfyUI extention for BAGEL(Unified Model for Multimodal Understanding and Generation)"
+  },
+  {
+    "createdAt": "2025-05-22T15:44:59Z",
+    "stars": 96,
+    "name": "byJoey/idx-free",
+    "url": "https://github.com/byJoey/idx-free",
+    "lang": "Shell",
+    "desc": "视频教程"
+  },
+  {
+    "createdAt": "2025-05-26T11:27:35Z",
+    "stars": 96,
+    "name": "p2r3/HTTPortal",
+    "url": "https://github.com/p2r3/HTTPortal",
+    "lang": "Squirrel",
+    "desc": "HTTP/1.1 implementation in Portal 2"
+  },
+  {
+    "createdAt": "2025-05-24T17:13:01Z",
+    "stars": 89,
+    "name": "Innei/photo-gallery",
+    "url": "https://github.com/Innei/photo-gallery",
+    "lang": "TypeScript",
+    "desc": "Capturing beautiful moments in life, documenting daily warmth and emotions through my lens."
+  },
+  {
+    "createdAt": "2025-05-21T21:34:59Z",
+    "stars": 86,
+    "name": "hanyang1999/discrete-diffusion-papers",
+    "url": "https://github.com/hanyang1999/discrete-diffusion-papers",
+    "lang": "",
+    "desc": "A collection of papers on discrete diffusion models"
+  },
+  {
+    "createdAt": "2025-05-22T07:16:43Z",
+    "stars": 84,
+    "name": "hydropix/TranslateBookWithLLM",
+    "url": "https://github.com/hydropix/TranslateBookWithLLM",
+    "lang": "Python",
+    "desc": "A python script designed to translate large amounts of text with an LLM and the Ollama API"
+  },
+  {
+    "createdAt": "2025-05-20T20:01:13Z",
+    "stars": 81,
+    "name": "RobViren/kvoicewalk",
+    "url": "https://github.com/RobViren/kvoicewalk",
+    "lang": "Python",
+    "desc": "A random walk voice style cloning application for Kokoro text to speech"
+  },
+  {
+    "createdAt": "2025-05-20T16:25:00Z",
+    "stars": 81,
+    "name": "oureveryday/VMPUnpacker",
+    "url": "https://github.com/oureveryday/VMPUnpacker",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-23T12:42:53Z",
+    "stars": 80,
+    "name": "cybrly/badsuccessor",
+    "url": "https://github.com/cybrly/badsuccessor",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-21T03:56:04Z",
+    "stars": 79,
+    "name": "AMAP-ML/UniVG-R1",
+    "url": "https://github.com/AMAP-ML/UniVG-R1",
+    "lang": "Python",
+    "desc": "UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning"
   }
 ]
