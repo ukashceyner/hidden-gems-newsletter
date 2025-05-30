@@ -1,15 +1,23 @@
 [
   {
     "createdAt": "2025-05-25T10:28:31Z",
-    "stars": 1189,
+    "stars": 1253,
     "name": "saxpjexck/lsix",
     "url": "https://github.com/saxpjexck/lsix",
     "lang": "CSS",
     "desc": ""
   },
   {
+    "createdAt": "2025-05-28T19:14:08Z",
+    "stars": 963,
+    "name": "safety-research/circuit-tracer",
+    "url": "https://github.com/safety-research/circuit-tracer",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-05-23T03:43:44Z",
-    "stars": 733,
+    "stars": 767,
     "name": "Simple-Efficient/RL-Factory",
     "url": "https://github.com/Simple-Efficient/RL-Factory",
     "lang": "Python",
@@ -17,7 +25,7 @@
   },
   {
     "createdAt": "2025-05-26T11:24:20Z",
-    "stars": 554,
+    "stars": 647,
     "name": "Tencent-Hunyuan/HunyuanVideo-Avatar",
     "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar",
     "lang": "Python",
@@ -25,35 +33,51 @@
   },
   {
     "createdAt": "2025-05-27T03:17:14Z",
-    "stars": 353,
+    "stars": 377,
     "name": "aizhimou/jav-play",
     "url": "https://github.com/aizhimou/jav-play",
     "lang": "TypeScript",
     "desc": "Play video directly in JAVDB"
   },
   {
-    "createdAt": "2025-05-28T06:38:57Z",
-    "stars": 317,
-    "name": "linux-do/cdk",
-    "url": "https://github.com/linux-do/cdk",
+    "createdAt": "2025-05-27T16:01:08Z",
+    "stars": 357,
+    "name": "Olow304/memvid",
+    "url": "https://github.com/Olow304/memvid",
+    "lang": "Python",
+    "desc": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed."
+  },
+  {
+    "createdAt": "2025-05-26T04:15:49Z",
+    "stars": 347,
+    "name": "GtxFury/FlyClash-Android",
+    "url": "https://github.com/GtxFury/FlyClash-Android",
     "lang": "",
-    "desc": "LINUX DO CD key"
+    "desc": "FlyClash客户端安卓版本"
   },
   {
     "createdAt": "2025-05-23T16:22:43Z",
-    "stars": 309,
+    "stars": 343,
     "name": "yarlson/lnk",
     "url": "https://github.com/yarlson/lnk",
     "lang": "Go",
     "desc": "🔗 Git-native dotfiles management that doesn't suck."
   },
   {
-    "createdAt": "2025-05-28T19:14:08Z",
-    "stars": 291,
-    "name": "safety-research/circuit-tracer",
-    "url": "https://github.com/safety-research/circuit-tracer",
-    "lang": "JavaScript",
-    "desc": ""
+    "createdAt": "2025-05-28T06:38:57Z",
+    "stars": 340,
+    "name": "linux-do/cdk",
+    "url": "https://github.com/linux-do/cdk",
+    "lang": "",
+    "desc": "LINUX DO CD key"
+  },
+  {
+    "createdAt": "2025-05-27T18:25:49Z",
+    "stars": 307,
+    "name": "HazyResearch/Megakernels",
+    "url": "https://github.com/HazyResearch/Megakernels",
+    "lang": "Python",
+    "desc": "kernels, of the mega variety"
   },
   {
     "createdAt": "2025-05-24T21:23:36Z",
@@ -80,6 +104,22 @@
     "desc": "LocalineAI brings powerful AI capabilities directly to your Windows terminal while keeping your data completely private and secure. No cloud dependencies, no data sharing - just pure AI power at your fingertips."
   },
   {
+    "createdAt": "2025-05-23T05:59:32Z",
+    "stars": 283,
+    "name": "DreamTechAI/Direct3D-S2",
+    "url": "https://github.com/DreamTechAI/Direct3D-S2",
+    "lang": "Python",
+    "desc": "Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention"
+  },
+  {
+    "createdAt": "2025-05-28T11:27:18Z",
+    "stars": 275,
+    "name": "alibaba/ROLL",
+    "url": "https://github.com/alibaba/ROLL",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-05-24T21:23:48Z",
     "stars": 268,
     "name": "NanoNetGamma531/LocalineAI",
@@ -88,248 +128,232 @@
     "desc": "LocalineAI brings powerful AI capabilities directly to your Windows terminal while keeping your data completely private and secure. No cloud dependencies, no data sharing - just pure AI power at your fingertips."
   },
   {
-    "createdAt": "2025-05-27T18:25:49Z",
-    "stars": 266,
-    "name": "HazyResearch/Megakernels",
-    "url": "https://github.com/HazyResearch/Megakernels",
-    "lang": "Python",
-    "desc": "kernels, of the mega variety"
-  },
-  {
-    "createdAt": "2025-05-23T05:59:32Z",
-    "stars": 264,
-    "name": "DreamTechAI/Direct3D-S2",
-    "url": "https://github.com/DreamTechAI/Direct3D-S2",
-    "lang": "",
-    "desc": "Direct3D‑S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention"
-  },
-  {
-    "createdAt": "2025-05-26T04:15:49Z",
-    "stars": 255,
-    "name": "GtxFury/FlyClash-Android",
-    "url": "https://github.com/GtxFury/FlyClash-Android",
-    "lang": "",
-    "desc": "FlyClash客户端安卓版本"
-  },
-  {
-    "createdAt": "2025-05-22T10:36:18Z",
-    "stars": 253,
-    "name": "SeanHeelan/o3_finds_cve-2025-37899",
-    "url": "https://github.com/SeanHeelan/o3_finds_cve-2025-37899",
-    "lang": "",
-    "desc": "Artefacts for blog post on finding CVE-2025-37899 with o3"
-  },
-  {
-    "createdAt": "2025-05-25T16:45:42Z",
-    "stars": 246,
-    "name": "jedisct1/yes-rs",
-    "url": "https://github.com/jedisct1/yes-rs",
-    "lang": "Rust",
-    "desc": "🚀 A blazingly fast, memory-safe rewrite of the classic Unix 'yes' command. Written in Rust! 🦀"
-  },
-  {
-    "createdAt": "2025-05-22T07:58:12Z",
-    "stars": 228,
-    "name": "liujuntao123/smart-mermaid",
-    "url": "https://github.com/liujuntao123/smart-mermaid",
-    "lang": "JavaScript",
-    "desc": "一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。"
-  },
-  {
-    "createdAt": "2025-05-23T18:58:19Z",
-    "stars": 223,
-    "name": "Lakr233/Sentry",
-    "url": "https://github.com/Lakr233/Sentry",
-    "lang": "Swift",
-    "desc": "A powerful macOS security monitoring application that detects unauthorized access attempts and records video evidence for you."
-  },
-  {
-    "createdAt": "2025-05-23T22:15:54Z",
-    "stars": 223,
-    "name": "ross39/new_bloom_filter_repo",
-    "url": "https://github.com/ross39/new_bloom_filter_repo",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-05-22T19:42:55Z",
-    "stars": 218,
-    "name": "jz5/FORM-UDPGothic",
-    "url": "https://github.com/jz5/FORM-UDPGothic",
-    "lang": "HTML",
-    "desc": "帳票 UDPゴシック。BIZ UDPゴシックと 99.99%同じ。"
-  },
-  {
-    "createdAt": "2025-05-26T03:46:41Z",
-    "stars": 213,
-    "name": "jina-ai/correlations",
-    "url": "https://github.com/jina-ai/correlations",
-    "lang": "HTML",
-    "desc": "Simple UI for debugging correlations of text embeddings"
-  },
-  {
-    "createdAt": "2025-05-23T08:03:39Z",
-    "stars": 209,
-    "name": "MiniMax-AI/One-RL-to-See-Them-All",
-    "url": "https://github.com/MiniMax-AI/One-RL-to-See-Them-All",
-    "lang": "",
-    "desc": "One RL to See Them All: Visual Triple Unified Reinforcement Learning"
-  },
-  {
-    "createdAt": "2025-05-23T08:43:24Z",
-    "stars": 191,
-    "name": "Tongyi-Zhiwen/QwenLong-L1",
-    "url": "https://github.com/Tongyi-Zhiwen/QwenLong-L1",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-05-27T16:01:08Z",
-    "stars": 184,
-    "name": "Olow304/memvid",
-    "url": "https://github.com/Olow304/memvid",
-    "lang": "Python",
-    "desc": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed."
-  },
-  {
-    "createdAt": "2025-05-27T03:18:41Z",
-    "stars": 174,
-    "name": "Tencent-Hunyuan/HunyuanPortrait",
-    "url": "https://github.com/Tencent-Hunyuan/HunyuanPortrait",
-    "lang": "Python",
-    "desc": "HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation"
-  },
-  {
-    "createdAt": "2025-05-26T12:35:33Z",
-    "stars": 173,
-    "name": "0xsline/GeminiImageApp",
-    "url": "https://github.com/0xsline/GeminiImageApp",
-    "lang": "Python",
-    "desc": "基于 Google Gemini AI 的全功能图像处理应用"
-  },
-  {
-    "createdAt": "2025-05-26T11:27:35Z",
-    "stars": 172,
-    "name": "p2r3/HTTPortal",
-    "url": "https://github.com/p2r3/HTTPortal",
-    "lang": "Squirrel",
-    "desc": "HTTP/1.1 implementation in Portal 2"
-  },
-  {
-    "createdAt": "2025-05-27T09:50:22Z",
-    "stars": 170,
-    "name": "ruixin31/Rethink_RLVR",
-    "url": "https://github.com/ruixin31/Rethink_RLVR",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-05-22T11:38:42Z",
-    "stars": 168,
-    "name": "dvlab-research/Jenga",
-    "url": "https://github.com/dvlab-research/Jenga",
-    "lang": "Python",
-    "desc": "Official Implementation: Training-Free Efficient Video Generation via Dynamic Token Carving"
-  },
-  {
-    "createdAt": "2025-05-24T10:07:52Z",
-    "stars": 158,
-    "name": "Dhaxor/super-utils-plus",
-    "url": "https://github.com/Dhaxor/super-utils-plus",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-05-27T03:47:47Z",
-    "stars": 152,
-    "name": "hexdocom/lemonai",
-    "url": "https://github.com/hexdocom/lemonai",
-    "lang": "JavaScript",
-    "desc": "The world's first Full-Stack Open-Source General AI Agent"
-  },
-  {
-    "createdAt": "2025-05-26T16:06:11Z",
-    "stars": 144,
-    "name": "tuanpb99/cf-worker-telegram",
-    "url": "https://github.com/tuanpb99/cf-worker-telegram",
-    "lang": "JavaScript",
-    "desc": "A Cloudflare Worker that acts as a transparent proxy for the Telegram Bot API. Useful for bypassing network restrictions or as a middleware for your Telegram bot."
-  },
-  {
-    "createdAt": "2025-05-25T14:05:45Z",
-    "stars": 138,
-    "name": "neverbiasu/ComfyUI-BAGEL",
-    "url": "https://github.com/neverbiasu/ComfyUI-BAGEL",
-    "lang": "Python",
-    "desc": "A ComfyUI extention for BAGEL(Unified Model for Multimodal Understanding and Generation)"
-  },
-  {
-    "createdAt": "2025-05-27T02:07:28Z",
-    "stars": 133,
-    "name": "Chain-Fox/Chain-Fox",
-    "url": "https://github.com/Chain-Fox/Chain-Fox",
-    "lang": "Rust",
-    "desc": "Chain-Fox: An all-in-one platform with automatic security detection ability for blockchains and smart contracts"
-  },
-  {
-    "createdAt": "2025-05-27T00:39:39Z",
-    "stars": 133,
-    "name": "devflowinc/uzi",
-    "url": "https://github.com/devflowinc/uzi",
-    "lang": "Go",
-    "desc": "CLI for running large numbers of coding agents in parallel with git worktrees"
-  },
-  {
-    "createdAt": "2025-05-28T06:20:21Z",
-    "stars": 130,
-    "name": "Jskeaaa/cursor_pro",
-    "url": "https://github.com/Jskeaaa/cursor_pro",
-    "lang": "HTML",
-    "desc": "免费用户cursor突破claude-3.7的限制。仅供学习，给个星星"
-  },
-  {
-    "createdAt": "2025-05-25T01:10:58Z",
-    "stars": 125,
-    "name": "Qinyu-Allen-Zhao/DiSA",
-    "url": "https://github.com/Qinyu-Allen-Zhao/DiSA",
-    "lang": "Jupyter Notebook",
-    "desc": "Official Implementation of Diffusion Step Annealing (DiSA) in Autoregressive Image Generation"
-  },
-  {
     "createdAt": "2025-05-28T10:03:27Z",
-    "stars": 120,
+    "stars": 262,
     "name": "hubingkang/vocabulary-corpus",
     "url": "https://github.com/hubingkang/vocabulary-corpus",
     "lang": "TypeScript",
     "desc": "44000+ 词汇语料库"
   },
   {
+    "createdAt": "2025-05-25T16:45:42Z",
+    "stars": 254,
+    "name": "jedisct1/yes-rs",
+    "url": "https://github.com/jedisct1/yes-rs",
+    "lang": "Rust",
+    "desc": "🚀 A blazingly fast, memory-safe rewrite of the classic Unix 'yes' command. Written in Rust! 🦀"
+  },
+  {
+    "createdAt": "2025-05-29T17:40:20Z",
+    "stars": 238,
+    "name": "muthuishere/mcp-server-bash-sdk",
+    "url": "https://github.com/muthuishere/mcp-server-bash-sdk",
+    "lang": "Shell",
+    "desc": "Yes Mcp server in bash"
+  },
+  {
+    "createdAt": "2025-05-26T03:46:41Z",
+    "stars": 236,
+    "name": "jina-ai/correlations",
+    "url": "https://github.com/jina-ai/correlations",
+    "lang": "HTML",
+    "desc": "Simple UI for debugging correlations of text embeddings"
+  },
+  {
+    "createdAt": "2025-05-23T18:58:19Z",
+    "stars": 232,
+    "name": "Lakr233/Sentry",
+    "url": "https://github.com/Lakr233/Sentry",
+    "lang": "Swift",
+    "desc": "A powerful macOS security monitoring application that detects unauthorized access attempts and records video evidence for you."
+  },
+  {
+    "createdAt": "2025-05-23T08:03:39Z",
+    "stars": 229,
+    "name": "MiniMax-AI/One-RL-to-See-Them-All",
+    "url": "https://github.com/MiniMax-AI/One-RL-to-See-Them-All",
+    "lang": "",
+    "desc": "One RL to See Them All: Visual Triple Unified Reinforcement Learning"
+  },
+  {
+    "createdAt": "2025-05-23T22:15:54Z",
+    "stars": 224,
+    "name": "ross39/new_bloom_filter_repo",
+    "url": "https://github.com/ross39/new_bloom_filter_repo",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-23T14:25:57Z",
+    "stars": 219,
+    "name": "jennyzzt/dgm",
+    "url": "https://github.com/jennyzzt/dgm",
+    "lang": "Python",
+    "desc": "Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents"
+  },
+  {
+    "createdAt": "2025-05-23T08:43:24Z",
+    "stars": 202,
+    "name": "Tongyi-Zhiwen/QwenLong-L1",
+    "url": "https://github.com/Tongyi-Zhiwen/QwenLong-L1",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-27T03:47:47Z",
+    "stars": 198,
+    "name": "hexdocom/lemonai",
+    "url": "https://github.com/hexdocom/lemonai",
+    "lang": "JavaScript",
+    "desc": "The world's first Full-Stack Open-Source General AI Agent"
+  },
+  {
+    "createdAt": "2025-05-27T09:50:22Z",
+    "stars": 193,
+    "name": "ruixin31/Rethink_RLVR",
+    "url": "https://github.com/ruixin31/Rethink_RLVR",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-27T03:18:41Z",
+    "stars": 184,
+    "name": "Tencent-Hunyuan/HunyuanPortrait",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanPortrait",
+    "lang": "Python",
+    "desc": "HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation"
+  },
+  {
+    "createdAt": "2025-05-26T11:27:35Z",
+    "stars": 183,
+    "name": "p2r3/HTTPortal",
+    "url": "https://github.com/p2r3/HTTPortal",
+    "lang": "Squirrel",
+    "desc": "HTTP/1.1 implementation in Portal 2"
+  },
+  {
+    "createdAt": "2025-05-26T12:35:33Z",
+    "stars": 179,
+    "name": "0xsline/GeminiImageApp",
+    "url": "https://github.com/0xsline/GeminiImageApp",
+    "lang": "Python",
+    "desc": "基于 Google Gemini AI 的全功能图像处理应用"
+  },
+  {
+    "createdAt": "2025-05-27T02:07:28Z",
+    "stars": 174,
+    "name": "Chain-Fox/Chain-Fox",
+    "url": "https://github.com/Chain-Fox/Chain-Fox",
+    "lang": "Rust",
+    "desc": "Chain-Fox: An all-in-one platform with automatic security detection ability for blockchains and smart contracts"
+  },
+  {
+    "createdAt": "2025-05-24T10:07:52Z",
+    "stars": 159,
+    "name": "Dhaxor/super-utils-plus",
+    "url": "https://github.com/Dhaxor/super-utils-plus",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-26T16:06:11Z",
+    "stars": 156,
+    "name": "tuanpb99/cf-worker-telegram",
+    "url": "https://github.com/tuanpb99/cf-worker-telegram",
+    "lang": "JavaScript",
+    "desc": "A Cloudflare Worker that acts as a transparent proxy for the Telegram Bot API. Useful for bypassing network restrictions or as a middleware for your Telegram bot."
+  },
+  {
+    "createdAt": "2025-05-27T00:39:39Z",
+    "stars": 149,
+    "name": "devflowinc/uzi",
+    "url": "https://github.com/devflowinc/uzi",
+    "lang": "HTML",
+    "desc": "CLI for running large numbers of coding agents in parallel with git worktrees"
+  },
+  {
+    "createdAt": "2025-05-26T20:01:31Z",
+    "stars": 148,
+    "name": "goforj/godump",
+    "url": "https://github.com/goforj/godump",
+    "lang": "Go",
+    "desc": "A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper."
+  },
+  {
+    "createdAt": "2025-05-26T10:01:37Z",
+    "stars": 148,
+    "name": "liuyulet/lana",
+    "url": "https://github.com/liuyulet/lana",
+    "lang": "Vue",
+    "desc": "Lightweight IoT platform"
+  },
+  {
+    "createdAt": "2025-05-29T12:12:41Z",
+    "stars": 144,
+    "name": "browser-use/vibetest-use",
+    "url": "https://github.com/browser-use/vibetest-use",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-28T06:20:21Z",
+    "stars": 143,
+    "name": "Jskeaaa/cursor_pro",
+    "url": "https://github.com/Jskeaaa/cursor_pro",
+    "lang": "Python",
+    "desc": "免费用户cursor突破claude-3.7的限制。仅供学习，给个星星"
+  },
+  {
+    "createdAt": "2025-05-25T14:05:45Z",
+    "stars": 140,
+    "name": "neverbiasu/ComfyUI-BAGEL",
+    "url": "https://github.com/neverbiasu/ComfyUI-BAGEL",
+    "lang": "Python",
+    "desc": "A ComfyUI extention for BAGEL(Unified Model for Multimodal Understanding and Generation)"
+  },
+  {
     "createdAt": "2025-05-24T00:42:00Z",
-    "stars": 117,
+    "stars": 130,
     "name": "showlab/OmniConsistency",
     "url": "https://github.com/showlab/OmniConsistency",
     "lang": "Python",
     "desc": "The official code implementation of the paper \"OmniConsistency: Learning Style-Agnostic Consistency from Paired Stylization Data.\""
   },
   {
+    "createdAt": "2025-05-26T19:44:44Z",
+    "stars": 129,
+    "name": "x86byte/Obfusk8",
+    "url": "https://github.com/x86byte/Obfusk8",
+    "lang": "C++",
+    "desc": "Obfusk8: C++17-Based Obfuscation Library"
+  },
+  {
+    "createdAt": "2025-05-25T08:32:50Z",
+    "stars": 128,
+    "name": "trianglesplatting/triangle-splatting",
+    "url": "https://github.com/trianglesplatting/triangle-splatting",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-25T01:10:58Z",
+    "stars": 128,
+    "name": "Qinyu-Allen-Zhao/DiSA",
+    "url": "https://github.com/Qinyu-Allen-Zhao/DiSA",
+    "lang": "Jupyter Notebook",
+    "desc": "Official Implementation of Diffusion Step Annealing (DiSA) in Autoregressive Image Generation"
+  },
+  {
     "createdAt": "2025-05-26T14:23:55Z",
-    "stars": 116,
+    "stars": 125,
     "name": "shiyi11yi/Sub-Hub",
     "url": "https://github.com/shiyi11yi/Sub-Hub",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-05-22T04:32:56Z",
-    "stars": 115,
-    "name": "azrilaiman2003/augment-vip",
-    "url": "https://github.com/azrilaiman2003/augment-vip",
-    "lang": "Shell",
-    "desc": "remove augmentcode free trial account limit"
-  },
-  {
     "createdAt": "2025-05-23T21:58:51Z",
-    "stars": 115,
+    "stars": 120,
     "name": "acoyfellow/userdo",
     "url": "https://github.com/acoyfellow/userdo",
     "lang": "TypeScript",
@@ -337,66 +361,42 @@
   },
   {
     "createdAt": "2025-05-24T17:13:01Z",
-    "stars": 113,
+    "stars": 119,
     "name": "Innei/photo-gallery",
     "url": "https://github.com/Innei/photo-gallery",
     "lang": "TypeScript",
     "desc": "Capturing beautiful moments in life, documenting daily warmth and emotions through my lens."
   },
   {
-    "createdAt": "2025-05-26T10:01:37Z",
-    "stars": 111,
-    "name": "liuyulet/lana",
-    "url": "https://github.com/liuyulet/lana",
-    "lang": "Vue",
-    "desc": "Lightweight IoT platform"
-  },
-  {
-    "createdAt": "2025-05-26T19:44:44Z",
-    "stars": 110,
-    "name": "x86byte/Obfusk8",
-    "url": "https://github.com/x86byte/Obfusk8",
-    "lang": "C++",
-    "desc": "Obfusk8: C++17-Based Obfuscation Library"
-  },
-  {
-    "createdAt": "2025-05-22T23:30:05Z",
-    "stars": 106,
-    "name": "BundlerBullet/BundlerBullet",
-    "url": "https://github.com/BundlerBullet/BundlerBullet",
-    "lang": "",
-    "desc": "BBullet - A Raydium & pump.fun bundler."
-  },
-  {
-    "createdAt": "2025-05-22T05:10:25Z",
-    "stars": 99,
-    "name": "starowo/Odysseia-Main",
-    "url": "https://github.com/starowo/Odysseia-Main",
-    "lang": "Python",
-    "desc": "类脑主要维护bot"
-  },
-  {
-    "createdAt": "2025-05-22T15:44:59Z",
-    "stars": 98,
-    "name": "byJoey/idx-free",
-    "url": "https://github.com/byJoey/idx-free",
-    "lang": "Shell",
-    "desc": "视频教程"
-  },
-  {
     "createdAt": "2025-05-26T22:31:57Z",
-    "stars": 96,
+    "stars": 105,
     "name": "VITA-Group/VLM-3R",
     "url": "https://github.com/VITA-Group/VLM-3R",
     "lang": "Python",
     "desc": "VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction"
   },
   {
-    "createdAt": "2025-05-26T20:01:31Z",
-    "stars": 90,
-    "name": "goforj/godump",
-    "url": "https://github.com/goforj/godump",
-    "lang": "Go",
-    "desc": "A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper."
+    "createdAt": "2025-05-26T21:37:34Z",
+    "stars": 104,
+    "name": "murtaza-nasir/pdf3md",
+    "url": "https://github.com/murtaza-nasir/pdf3md",
+    "lang": "JavaScript",
+    "desc": "A modern, user-friendly web application that converts PDF documents to clean, formatted Markdown text."
+  },
+  {
+    "createdAt": "2025-05-29T15:32:42Z",
+    "stars": 98,
+    "name": "Lewis-Stuart-11/MikeBot",
+    "url": "https://github.com/Lewis-Stuart-11/MikeBot",
+    "lang": "",
+    "desc": "Code and explanation for all the models/technologies used in the ComputerPhile MikeBot video"
+  },
+  {
+    "createdAt": "2025-05-29T06:40:28Z",
+    "stars": 95,
+    "name": "XiaomiMiMo/MiMo-VL",
+    "url": "https://github.com/XiaomiMiMo/MiMo-VL",
+    "lang": "",
+    "desc": ""
   }
 ]
