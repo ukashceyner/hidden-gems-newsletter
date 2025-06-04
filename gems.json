@@ -1,55 +1,47 @@
 [
   {
     "createdAt": "2025-05-28T19:14:08Z",
-    "stars": 1551,
+    "stars": 1612,
     "name": "safety-research/circuit-tracer",
     "url": "https://github.com/safety-research/circuit-tracer",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-05-27T16:01:08Z",
-    "stars": 724,
-    "name": "Olow304/memvid",
-    "url": "https://github.com/Olow304/memvid",
-    "lang": "Python",
-    "desc": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed."
-  },
-  {
-    "createdAt": "2025-05-28T11:27:18Z",
-    "stars": 560,
-    "name": "alibaba/ROLL",
-    "url": "https://github.com/alibaba/ROLL",
-    "lang": "Python",
-    "desc": "An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models"
-  },
-  {
     "createdAt": "2025-06-01T14:49:07Z",
-    "stars": 529,
+    "stars": 802,
     "name": "TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025",
     "url": "https://github.com/TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025",
     "lang": "",
     "desc": "Telegram Members Adding Software. Scrape more than 10k Telegram members and add members to your group. And many more features."
   },
   {
-    "createdAt": "2025-05-27T03:17:14Z",
-    "stars": 405,
-    "name": "aizhimou/jav-play",
-    "url": "https://github.com/aizhimou/jav-play",
-    "lang": "TypeScript",
-    "desc": "Play video directly in JAVDB"
+    "createdAt": "2025-05-28T11:27:18Z",
+    "stars": 597,
+    "name": "alibaba/ROLL",
+    "url": "https://github.com/alibaba/ROLL",
+    "lang": "Python",
+    "desc": "An Efficient and User-Friendly Scaling Library for Reinforcement Learning with Large Language Models"
   },
   {
     "createdAt": "2025-05-31T18:49:43Z",
-    "stars": 403,
+    "stars": 488,
     "name": "teorth/analysis",
     "url": "https://github.com/teorth/analysis",
     "lang": "Lean",
     "desc": "A Lean companion to Analysis I"
   },
   {
+    "createdAt": "2025-05-29T02:59:56Z",
+    "stars": 478,
+    "name": "Minidoracat/mcp-feedback-enhanced",
+    "url": "https://github.com/Minidoracat/mcp-feedback-enhanced",
+    "lang": "Python",
+    "desc": "Interactive User Feedback MCP"
+  },
+  {
     "createdAt": "2025-05-28T06:20:21Z",
-    "stars": 392,
+    "stars": 422,
     "name": "Jskeaaa/cursor_pro",
     "url": "https://github.com/Jskeaaa/cursor_pro",
     "lang": "Python",
@@ -57,63 +49,63 @@
   },
   {
     "createdAt": "2025-05-29T17:40:20Z",
-    "stars": 379,
+    "stars": 390,
     "name": "muthuishere/mcp-server-bash-sdk",
     "url": "https://github.com/muthuishere/mcp-server-bash-sdk",
     "lang": "Shell",
     "desc": "Yes Mcp server in bash"
   },
   {
-    "createdAt": "2025-05-27T02:07:28Z",
-    "stars": 371,
-    "name": "Chain-Fox/Chain-Fox",
-    "url": "https://github.com/Chain-Fox/Chain-Fox",
-    "lang": "Rust",
-    "desc": "Chain-Fox: An all-in-one platform with automatic security detection ability for blockchains and smart contracts"
-  },
-  {
     "createdAt": "2025-05-30T03:51:36Z",
-    "stars": 360,
+    "stars": 377,
     "name": "rounak/PhoneAgent",
     "url": "https://github.com/rounak/PhoneAgent",
     "lang": "Swift",
     "desc": ""
   },
   {
-    "createdAt": "2025-05-28T06:38:57Z",
-    "stars": 358,
-    "name": "linux-do/cdk",
-    "url": "https://github.com/linux-do/cdk",
-    "lang": "",
-    "desc": "LINUX DO CD key"
-  },
-  {
-    "createdAt": "2025-05-27T18:25:49Z",
-    "stars": 338,
-    "name": "HazyResearch/Megakernels",
-    "url": "https://github.com/HazyResearch/Megakernels",
-    "lang": "Python",
-    "desc": "kernels, of the mega variety"
-  },
-  {
     "createdAt": "2025-05-29T02:51:30Z",
-    "stars": 297,
+    "stars": 374,
     "name": "ZeroHawkeye/wordZero",
     "url": "https://github.com/ZeroHawkeye/wordZero",
     "lang": "Go",
     "desc": ""
   },
   {
-    "createdAt": "2025-05-29T02:59:56Z",
-    "stars": 289,
-    "name": "Minidoracat/mcp-feedback-enhanced",
-    "url": "https://github.com/Minidoracat/mcp-feedback-enhanced",
-    "lang": "Python",
-    "desc": "Interactive User Feedback MCP"
+    "createdAt": "2025-05-28T06:38:57Z",
+    "stars": 359,
+    "name": "linux-do/cdk",
+    "url": "https://github.com/linux-do/cdk",
+    "lang": "",
+    "desc": "LINUX DO CD key"
+  },
+  {
+    "createdAt": "2025-05-31T10:12:36Z",
+    "stars": 344,
+    "name": "allenv0/AirPosture",
+    "url": "https://github.com/allenv0/AirPosture",
+    "lang": "Swift",
+    "desc": "Turn your AirPods into a posture coach on macOS"
+  },
+  {
+    "createdAt": "2025-05-31T20:25:18Z",
+    "stars": 307,
+    "name": "MikeWang000000/FakeHTTP",
+    "url": "https://github.com/MikeWang000000/FakeHTTP",
+    "lang": "C",
+    "desc": "Obfuscate all your TCP connections into HTTP protocol."
+  },
+  {
+    "createdAt": "2025-05-30T16:31:25Z",
+    "stars": 303,
+    "name": "tpde2/tpde",
+    "url": "https://github.com/tpde2/tpde",
+    "lang": "LLVM",
+    "desc": "A fast framework for writing baseline compiler back-ends in C++"
   },
   {
     "createdAt": "2025-05-28T10:03:27Z",
-    "stars": 278,
+    "stars": 281,
     "name": "hubingkang/vocabulary-corpus",
     "url": "https://github.com/hubingkang/vocabulary-corpus",
     "lang": "TypeScript",
@@ -121,47 +113,15 @@
   },
   {
     "createdAt": "2025-05-29T23:18:30Z",
-    "stars": 274,
+    "stars": 273,
     "name": "merlavik08/stake-june-monthly-bonus",
     "url": "https://github.com/merlavik08/stake-june-monthly-bonus",
     "lang": "",
     "desc": "Stake June Monthly Bonus ! Enjoy a 350% Bonus on Stake, with no wagering requirements . Withdraw your full balance instantly—perfect for maximizing your earnings. Ideal for both new and experienced players looking to increase their bankroll. Don’t miss this exclusive offer!"
   },
   {
-    "createdAt": "2025-05-31T20:25:18Z",
-    "stars": 271,
-    "name": "MikeWang000000/FakeHTTP",
-    "url": "https://github.com/MikeWang000000/FakeHTTP",
-    "lang": "C",
-    "desc": "Obfuscate all your TCP connections into HTTP protocol."
-  },
-  {
-    "createdAt": "2025-05-27T03:47:47Z",
-    "stars": 260,
-    "name": "hexdocom/lemonai",
-    "url": "https://github.com/hexdocom/lemonai",
-    "lang": "JavaScript",
-    "desc": "The world's first Full-Stack Open-Source General AI Agent"
-  },
-  {
-    "createdAt": "2025-05-30T16:31:25Z",
-    "stars": 249,
-    "name": "tpde2/tpde",
-    "url": "https://github.com/tpde2/tpde",
-    "lang": "LLVM",
-    "desc": "A fast framework for writing baseline compiler back-ends in C++"
-  },
-  {
-    "createdAt": "2025-05-27T00:39:39Z",
-    "stars": 236,
-    "name": "devflowinc/uzi",
-    "url": "https://github.com/devflowinc/uzi",
-    "lang": "Go",
-    "desc": "CLI for running large numbers of coding agents in parallel with git worktrees"
-  },
-  {
     "createdAt": "2025-06-02T06:30:29Z",
-    "stars": 234,
+    "stars": 255,
     "name": "lixiasky/vanta",
     "url": "https://github.com/lixiasky/vanta",
     "lang": "Go",
@@ -169,71 +129,71 @@
   },
   {
     "createdAt": "2025-05-28T22:50:20Z",
-    "stars": 230,
+    "stars": 244,
     "name": "sohzm/cheating-daddy",
     "url": "https://github.com/sohzm/cheating-daddy",
     "lang": "JavaScript",
     "desc": "a free and opensource app that lets you gain an unfair advantage"
   },
   {
-    "createdAt": "2025-05-27T09:50:22Z",
-    "stars": 225,
-    "name": "ruixin31/Rethink_RLVR",
-    "url": "https://github.com/ruixin31/Rethink_RLVR",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-05-27T03:18:41Z",
-    "stars": 212,
-    "name": "Tencent-Hunyuan/HunyuanPortrait",
-    "url": "https://github.com/Tencent-Hunyuan/HunyuanPortrait",
-    "lang": "Python",
-    "desc": "HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation"
-  },
-  {
-    "createdAt": "2025-05-29T12:12:41Z",
-    "stars": 209,
-    "name": "browser-use/vibetest-use",
-    "url": "https://github.com/browser-use/vibetest-use",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-05-27T04:36:03Z",
-    "stars": 209,
-    "name": "aubler/SelfyAI",
-    "url": "https://github.com/aubler/SelfyAI",
-    "lang": "TypeScript",
-    "desc": "Tokenize The Virtual Agents Onchain"
+    "createdAt": "2025-06-02T15:45:03Z",
+    "stars": 240,
+    "name": "neocanable/garlic",
+    "url": "https://github.com/neocanable/garlic",
+    "lang": "C",
+    "desc": "Java decompiler written in C"
   },
   {
     "createdAt": "2025-05-28T08:08:31Z",
-    "stars": 202,
+    "stars": 224,
     "name": "lybzzb/MPWLedClock",
     "url": "https://github.com/lybzzb/MPWLedClock",
     "lang": "Python",
     "desc": "基于安信可ESP-C3-12F模组，搭配WS2812矩阵灯珠，用于显示当前时间"
   },
   {
+    "createdAt": "2025-05-29T12:12:41Z",
+    "stars": 223,
+    "name": "browser-use/vibetest-use",
+    "url": "https://github.com/browser-use/vibetest-use",
+    "lang": "Python",
+    "desc": "Vibetest MCP - automated QA testing using Browser-Use agents"
+  },
+  {
+    "createdAt": "2025-06-02T10:14:35Z",
+    "stars": 217,
+    "name": "aki66938/xhs-toolkit",
+    "url": "https://github.com/aki66938/xhs-toolkit",
+    "lang": "Python",
+    "desc": "🌺 小红书MCP工具包 - 支持与AI客户端集成的智能内容创作和发布工具"
+  },
+  {
     "createdAt": "2025-06-01T16:49:40Z",
-    "stars": 194,
+    "stars": 210,
     "name": "rudrodip/nexfaster",
     "url": "https://github.com/rudrodip/nexfaster",
     "lang": "TypeScript",
     "desc": "React Router integration within Next.js for client-side routing"
   },
   {
-    "createdAt": "2025-05-31T10:12:36Z",
-    "stars": 193,
-    "name": "allenv0/AirPosture",
-    "url": "https://github.com/allenv0/AirPosture",
-    "lang": "Swift",
-    "desc": "Turn your AirPods into a posture coach on macOS"
+    "createdAt": "2025-05-29T06:40:28Z",
+    "stars": 203,
+    "name": "XiaomiMiMo/MiMo-VL",
+    "url": "https://github.com/XiaomiMiMo/MiMo-VL",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-05-30T17:58:19Z",
+    "stars": 199,
+    "name": "mendableai/firesearch",
+    "url": "https://github.com/mendableai/firesearch",
+    "lang": "TypeScript",
+    "desc": ""
   },
   {
     "createdAt": "2025-05-29T22:20:11Z",
-    "stars": 185,
+    "stars": 199,
     "name": "t3dotgg/SnitchBench",
     "url": "https://github.com/t3dotgg/SnitchBench",
     "lang": "TypeScript",
@@ -241,31 +201,15 @@
   },
   {
     "createdAt": "2025-05-30T12:26:56Z",
-    "stars": 182,
+    "stars": 187,
     "name": "Dimillian/AppRouter",
     "url": "https://github.com/Dimillian/AppRouter",
     "lang": "Swift",
     "desc": "A simple router for SwiftUI apps"
   },
   {
-    "createdAt": "2025-05-29T06:40:28Z",
-    "stars": 177,
-    "name": "XiaomiMiMo/MiMo-VL",
-    "url": "https://github.com/XiaomiMiMo/MiMo-VL",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-02T10:14:35Z",
-    "stars": 164,
-    "name": "aki66938/xhs-toolkit",
-    "url": "https://github.com/aki66938/xhs-toolkit",
-    "lang": "Python",
-    "desc": "🌺 小红书MCP工具包 - 支持与AI客户端集成的智能内容创作和发布工具"
-  },
-  {
     "createdAt": "2025-05-29T16:56:50Z",
-    "stars": 163,
+    "stars": 186,
     "name": "ryoppippi/ccusage",
     "url": "https://github.com/ryoppippi/ccusage",
     "lang": "TypeScript",
@@ -273,107 +217,163 @@
   },
   {
     "createdAt": "2025-05-29T15:32:42Z",
-    "stars": 160,
+    "stars": 166,
     "name": "Lewis-Stuart-11/MikeBot",
     "url": "https://github.com/Lewis-Stuart-11/MikeBot",
     "lang": "",
     "desc": "Code and explanation for all the models/technologies used in the ComputerPhile MikeBot video"
   },
   {
-    "createdAt": "2025-05-31T13:00:09Z",
-    "stars": 158,
-    "name": "volution/punchcard-key-backup",
-    "url": "https://github.com/volution/punchcard-key-backup",
-    "lang": "HTML",
-    "desc": "pckb -- backup 128 bits to physical medium"
-  },
-  {
-    "createdAt": "2025-05-29T06:13:50Z",
-    "stars": 151,
-    "name": "zhom/donutbrowser",
-    "url": "https://github.com/zhom/donutbrowser",
-    "lang": "Rust",
-    "desc": "Simple Yet Powerful Browser Orchestrator 🍩"
-  },
-  {
-    "createdAt": "2025-05-29T22:40:36Z",
-    "stars": 150,
-    "name": "diankun-wu/Spatial-MLLM",
-    "url": "https://github.com/diankun-wu/Spatial-MLLM",
-    "lang": "Python",
-    "desc": "Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence"
-  },
-  {
-    "createdAt": "2025-06-01T18:32:51Z",
-    "stars": 141,
-    "name": "robb/FolderIconGenerator",
-    "url": "https://github.com/robb/FolderIconGenerator",
-    "lang": "Swift",
-    "desc": "Generate macOS folder icons from SF Symbols"
+    "createdAt": "2025-05-31T00:08:49Z",
+    "stars": 165,
+    "name": "openai/openai-agents-js",
+    "url": "https://github.com/openai/openai-agents-js",
+    "lang": "TypeScript",
+    "desc": "A lightweight, powerful framework for multi-agent workflows and voice agents"
   },
   {
     "createdAt": "2025-05-29T07:23:50Z",
-    "stars": 141,
+    "stars": 164,
     "name": "vber/free-augmentcode",
     "url": "https://github.com/vber/free-augmentcode",
     "lang": "Python",
     "desc": "用于无限续杯AugmentCode VSCode插件.A tool that allows you to use the AugmentCode  VSCode plugin indefinitely."
   },
   {
-    "createdAt": "2025-05-28T22:37:40Z",
-    "stars": 139,
-    "name": "Lyntharadu/Mev-Bot_SOLANA",
-    "url": "https://github.com/Lyntharadu/Mev-Bot_SOLANA",
-    "lang": "JavaScript",
-    "desc": "🌫 Smart Solana MEV bot — runs in-browser or locally. Instantly analyzes transactions, snags profitable trades on Pump.FUN, Jupiter, and Raydium. Fully automated, lightning-fast, and tuned for top results."
-  },
-  {
-    "createdAt": "2025-05-28T07:47:38Z",
-    "stars": 138,
-    "name": "sanshao85/mcp-feedback-collector",
-    "url": "https://github.com/sanshao85/mcp-feedback-collector",
-    "lang": "Python",
-    "desc": "一个现代化的 Model Context Protocol (MCP) 服务器，为AI助手提供交互式用户反馈收集功能。"
-  },
-  {
     "createdAt": "2025-06-02T15:16:41Z",
-    "stars": 136,
+    "stars": 163,
     "name": "charlieclark/thiings-grid",
     "url": "https://github.com/charlieclark/thiings-grid",
     "lang": "TypeScript",
     "desc": "A high-performance, infinite scrolling grid component for React that provides smooth touch/mouse interactions with momentum-based scrolling."
   },
   {
+    "createdAt": "2025-06-04T14:11:31Z",
+    "stars": 161,
+    "name": "ElusionCheats/warzone-cheat",
+    "url": "https://github.com/ElusionCheats/warzone-cheat",
+    "lang": "Python",
+    "desc": "Warzone Cheat is a powerful and feature-rich educational project designed to demonstrate how cheats can be built for Call of Duty: Warzone. Includes fully functional modules such as Aimbot, ESP, Wallhack, Triggerbot, and No Recoil. Each module is built to be customizable, with code optimized for low latency"
+  },
+  {
+    "createdAt": "2025-05-31T13:00:09Z",
+    "stars": 161,
+    "name": "volution/punchcard-key-backup",
+    "url": "https://github.com/volution/punchcard-key-backup",
+    "lang": "HTML",
+    "desc": "pckb -- backup 128 bits to physical medium"
+  },
+  {
+    "createdAt": "2025-05-29T22:40:36Z",
+    "stars": 157,
+    "name": "diankun-wu/Spatial-MLLM",
+    "url": "https://github.com/diankun-wu/Spatial-MLLM",
+    "lang": "Python",
+    "desc": "Official implementation of Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence"
+  },
+  {
+    "createdAt": "2025-05-29T06:13:50Z",
+    "stars": 156,
+    "name": "zhom/donutbrowser",
+    "url": "https://github.com/zhom/donutbrowser",
+    "lang": "Rust",
+    "desc": "Simple Yet Powerful Browser Orchestrator 🍩"
+  },
+  {
+    "createdAt": "2025-05-28T07:47:38Z",
+    "stars": 154,
+    "name": "sanshao85/mcp-feedback-collector",
+    "url": "https://github.com/sanshao85/mcp-feedback-collector",
+    "lang": "Python",
+    "desc": "一个现代化的 Model Context Protocol (MCP) 服务器，为AI助手提供交互式用户反馈收集功能。"
+  },
+  {
     "createdAt": "2025-05-30T05:23:44Z",
-    "stars": 134,
+    "stars": 149,
     "name": "QingyangZhang/Label-Free-RLVR",
     "url": "https://github.com/QingyangZhang/Label-Free-RLVR",
     "lang": "",
     "desc": ""
   },
   {
+    "createdAt": "2025-06-01T18:32:51Z",
+    "stars": 147,
+    "name": "robb/FolderIconGenerator",
+    "url": "https://github.com/robb/FolderIconGenerator",
+    "lang": "Swift",
+    "desc": "Generate macOS folder icons from SF Symbols"
+  },
+  {
+    "createdAt": "2025-05-28T22:37:40Z",
+    "stars": 142,
+    "name": "Lyntharadu/Mev-Bot_SOLANA",
+    "url": "https://github.com/Lyntharadu/Mev-Bot_SOLANA",
+    "lang": "JavaScript",
+    "desc": "🌫 Smart Solana MEV bot — runs in-browser or locally. Instantly analyzes transactions, snags profitable trades on Pump.FUN, Jupiter, and Raydium. Fully automated, lightning-fast, and tuned for top results."
+  },
+  {
+    "createdAt": "2025-06-01T16:48:04Z",
+    "stars": 137,
+    "name": "langtalks/swe-agent",
+    "url": "https://github.com/langtalks/swe-agent",
+    "lang": "Python",
+    "desc": "🤖 AI-powered software engineering multi-agent system with researcher and developer agents that automate code implementation through intelligent planning and execution. Built with LangGraph multi-agent workflows"
+  },
+  {
+    "createdAt": "2025-06-03T11:48:45Z",
+    "stars": 133,
+    "name": "collidingScopes/3d-model-playground",
+    "url": "https://github.com/collidingScopes/3d-model-playground",
+    "lang": "JavaScript",
+    "desc": "Control 3D models using hand gestures and voice commands in real-time. Threejs / mediapipe computer vision"
+  },
+  {
+    "createdAt": "2025-05-31T12:38:24Z",
+    "stars": 130,
+    "name": "devnen/Chatterbox-TTS-Server",
+    "url": "https://github.com/devnen/Chatterbox-TTS-Server",
+    "lang": "Python",
+    "desc": "Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, large text processing, and GPU/CPU execution."
+  },
+  {
     "createdAt": "2025-05-30T03:40:05Z",
-    "stars": 127,
+    "stars": 130,
     "name": "altendorfme/yadnsb",
     "url": "https://github.com/altendorfme/yadnsb",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-05-31T18:16:57Z",
+    "createdAt": "2025-05-30T02:41:07Z",
     "stars": 126,
+    "name": "zhaochen0110/Awesome_Think_With_Images",
+    "url": "https://github.com/zhaochen0110/Awesome_Think_With_Images",
+    "lang": "",
+    "desc": "Resources and paper list for \"Thinking with Images for LVLMs\". This repository accompanies our survey on how LVLMs can leverage visual information for complex reasoning, planning, and generation."
+  },
+  {
+    "createdAt": "2025-05-31T18:16:57Z",
+    "stars": 125,
     "name": "AruzhanleyalessandroovDaQ682/Ethereum-Balance-Checkerz",
     "url": "https://github.com/AruzhanleyalessandroovDaQ682/Ethereum-Balance-Checkerz",
     "lang": "",
     "desc": "This C# application checks the balances of Ethereum wallet addresses and saves them in the high_balance.txt fil1e if they are above a cerztain amount."
   },
   {
-    "createdAt": "2025-06-02T15:45:03Z",
+    "createdAt": "2025-06-01T22:07:20Z",
     "stars": 123,
-    "name": "neocanable/garlic",
-    "url": "https://github.com/neocanable/garlic",
-    "lang": "C",
-    "desc": "Java decompiler written in C"
+    "name": "bowang-lab/BioReason",
+    "url": "https://github.com/bowang-lab/BioReason",
+    "lang": "Python",
+    "desc": "BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model"
+  },
+  {
+    "createdAt": "2025-05-28T06:19:06Z",
+    "stars": 121,
+    "name": "Alibaba-NLP/VRAG",
+    "url": "https://github.com/Alibaba-NLP/VRAG",
+    "lang": "Python",
+    "desc": "Repo for \"VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning\""
   },
   {
     "createdAt": "2025-05-29T01:01:56Z",
@@ -385,18 +385,18 @@
   },
   {
     "createdAt": "2025-05-29T10:08:30Z",
-    "stars": 113,
+    "stars": 118,
     "name": "rs-4/expo-auto-resizing-input",
     "url": "https://github.com/rs-4/expo-auto-resizing-input",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-05-27T02:31:59Z",
-    "stars": 111,
-    "name": "zitian-gao/one-shot-em",
-    "url": "https://github.com/zitian-gao/one-shot-em",
-    "lang": "Python",
-    "desc": "One-shot Entropy Minimization"
+    "createdAt": "2025-06-01T02:45:03Z",
+    "stars": 116,
+    "name": "hyepartners-gmail/vibevideo-mcp",
+    "url": "https://github.com/hyepartners-gmail/vibevideo-mcp",
+    "lang": "TypeScript",
+    "desc": "Agent MCP for ffmpeg"
   }
 ]
