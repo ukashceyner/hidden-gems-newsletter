@@ -8,44 +8,28 @@
     "desc": "Telegram Members Adding Software. Scrape more than 10k Telegram members and add members to your group. And many more features."
   },
   {
-    "createdAt": "2025-05-31T18:49:43Z",
-    "stars": 567,
-    "name": "teorth/analysis",
-    "url": "https://github.com/teorth/analysis",
-    "lang": "Lean",
-    "desc": "A Lean companion to Analysis I"
-  },
-  {
-    "createdAt": "2025-05-31T10:12:36Z",
-    "stars": 471,
-    "name": "allenv0/AirPosture",
-    "url": "https://github.com/allenv0/AirPosture",
-    "lang": "Swift",
-    "desc": "Turn your AirPods into a posture coach on macOS (🚧 WIP)"
-  },
-  {
     "createdAt": "2025-06-05T06:29:27Z",
-    "stars": 466,
+    "stars": 471,
     "name": "l-portet/tiktok-warmup-bot",
     "url": "https://github.com/l-portet/tiktok-warmup-bot",
     "lang": "JavaScript",
     "desc": "♨️  Warming up TikTok accounts, one swipe at a time"
   },
   {
+    "createdAt": "2025-06-08T00:11:28Z",
+    "stars": 451,
+    "name": "supermemoryai/supermemory-mcp",
+    "url": "https://github.com/supermemoryai/supermemory-mcp",
+    "lang": "TypeScript",
+    "desc": "Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up."
+  },
+  {
     "createdAt": "2025-06-05T08:07:26Z",
-    "stars": 416,
+    "stars": 451,
     "name": "QwenLM/Qwen3-Embedding",
     "url": "https://github.com/QwenLM/Qwen3-Embedding",
     "lang": "Python",
     "desc": ""
-  },
-  {
-    "createdAt": "2025-05-31T20:25:18Z",
-    "stars": 355,
-    "name": "MikeWang000000/FakeHTTP",
-    "url": "https://github.com/MikeWang000000/FakeHTTP",
-    "lang": "C",
-    "desc": "Obfuscate all your TCP connections into HTTP protocol."
   },
   {
     "createdAt": "2025-06-06T22:00:11Z",
@@ -57,39 +41,39 @@
   },
   {
     "createdAt": "2025-06-01T14:53:08Z",
-    "stars": 303,
+    "stars": 313,
     "name": "11cafe/jaaz",
     "url": "https://github.com/11cafe/jaaz",
     "lang": "TypeScript",
     "desc": "AI design agent, local alternative for Lovart. AI agent with ability to design, edit and generate images, posters, storyboards, etc."
   },
   {
-    "createdAt": "2025-06-02T15:45:03Z",
-    "stars": 296,
-    "name": "neocanable/garlic",
-    "url": "https://github.com/neocanable/garlic",
-    "lang": "C",
-    "desc": "Java decompiler written in C"
-  },
-  {
-    "createdAt": "2025-05-31T00:08:49Z",
-    "stars": 296,
-    "name": "openai/openai-agents-js",
-    "url": "https://github.com/openai/openai-agents-js",
-    "lang": "TypeScript",
-    "desc": "A lightweight, powerful framework for multi-agent workflows and voice agents"
-  },
-  {
     "createdAt": "2025-06-05T13:27:12Z",
-    "stars": 286,
+    "stars": 311,
     "name": "wey-gu/py-pglite",
     "url": "https://github.com/wey-gu/py-pglite",
     "lang": "Python",
     "desc": "PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite."
   },
   {
+    "createdAt": "2025-06-01T17:38:15Z",
+    "stars": 311,
+    "name": "JAMESYJL/ShapeLLM-Omni",
+    "url": "https://github.com/JAMESYJL/ShapeLLM-Omni",
+    "lang": "Python",
+    "desc": "A Native Multimodal LLM for 3D Generation and Understanding"
+  },
+  {
+    "createdAt": "2025-06-02T15:45:03Z",
+    "stars": 303,
+    "name": "neocanable/garlic",
+    "url": "https://github.com/neocanable/garlic",
+    "lang": "C",
+    "desc": "Java decompiler written in C"
+  },
+  {
     "createdAt": "2025-06-02T06:30:29Z",
-    "stars": 277,
+    "stars": 281,
     "name": "lixiasky/vanta",
     "url": "https://github.com/lixiasky/vanta",
     "lang": "Go",
@@ -104,40 +88,48 @@
     "desc": "Warzone Cheat is a powerful and feature-rich educational project designed to demonstrate how cheats can be built for Call of Duty: Warzone. Includes fully functional modules such as Aimbot, ESP, Wallhack, Triggerbot, and No Recoil. Each module is built to be customizable, with code optimized for low latency"
   },
   {
-    "createdAt": "2025-06-01T17:38:15Z",
-    "stars": 248,
-    "name": "JAMESYJL/ShapeLLM-Omni",
-    "url": "https://github.com/JAMESYJL/ShapeLLM-Omni",
+    "createdAt": "2025-06-01T16:48:04Z",
+    "stars": 265,
+    "name": "langtalks/swe-agent",
+    "url": "https://github.com/langtalks/swe-agent",
     "lang": "Python",
-    "desc": "A Native Multimodal LLM for 3D Generation and Understanding"
+    "desc": "🤖 AI-powered software engineering multi-agent system with researcher and developer agents that automate code implementation through intelligent planning and execution. Built with LangGraph multi-agent workflows"
   },
   {
-    "createdAt": "2025-06-02T10:14:35Z",
-    "stars": 242,
-    "name": "aki66938/xhs-toolkit",
-    "url": "https://github.com/aki66938/xhs-toolkit",
+    "createdAt": "2025-06-03T06:25:31Z",
+    "stars": 251,
+    "name": "Yuliang-Liu/MonkeyOCR",
+    "url": "https://github.com/Yuliang-Liu/MonkeyOCR",
     "lang": "Python",
-    "desc": "📕 小红书MCP工具包 - 支持与AI客户端集成的智能内容创作和发布工具"
-  },
-  {
-    "createdAt": "2025-06-05T15:01:24Z",
-    "stars": 239,
-    "name": "ScalingIntelligence/tokasaurus",
-    "url": "https://github.com/ScalingIntelligence/tokasaurus",
-    "lang": "Python",
-    "desc": ""
+    "desc": "A lightweight LMM-based Document Parsing Model"
   },
   {
     "createdAt": "2025-06-02T15:42:27Z",
-    "stars": 239,
+    "stars": 251,
     "name": "BotRandomness/NET-NES",
     "url": "https://github.com/BotRandomness/NET-NES",
     "lang": "C#",
     "desc": "NET-NES, a NES emulator, written in C#."
   },
   {
+    "createdAt": "2025-06-05T15:01:24Z",
+    "stars": 251,
+    "name": "ScalingIntelligence/tokasaurus",
+    "url": "https://github.com/ScalingIntelligence/tokasaurus",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-02T10:14:35Z",
+    "stars": 246,
+    "name": "aki66938/xhs-toolkit",
+    "url": "https://github.com/aki66938/xhs-toolkit",
+    "lang": "Python",
+    "desc": "📕 小红书MCP工具包 - 支持与AI客户端集成的智能内容创作和发布工具"
+  },
+  {
     "createdAt": "2025-06-01T16:49:40Z",
-    "stars": 226,
+    "stars": 232,
     "name": "rudrodip/nexfaster",
     "url": "https://github.com/rudrodip/nexfaster",
     "lang": "TypeScript",
@@ -176,20 +168,20 @@
     "desc": "The SparkChain Network Bot is an advanced automation tool designed for the SparkChain blockchain ecosystem, enabling lightning-fast transactions, smart contract automation, and cross-chain interoperability. Built for developers and traders, it offers seamless integration with decentralized applications (dApps) and DeFi protocols."
   },
   {
+    "createdAt": "2025-06-07T00:31:13Z",
+    "stars": 203,
+    "name": "8090-inc/top-coder-challenge",
+    "url": "https://github.com/8090-inc/top-coder-challenge",
+    "lang": "Shell",
+    "desc": "go the distance"
+  },
+  {
     "createdAt": "2025-06-03T13:10:49Z",
     "stars": 203,
     "name": "Graveyard-Gravestones/Gradient-Network-Bot",
     "url": "https://github.com/Graveyard-Gravestones/Gradient-Network-Bot",
     "lang": "",
     "desc": "The Gradient Network Bot is a next-generation automation solution that combines machine learning with blockchain technology to deliver intelligent, adaptive operations across decentralized networks. Designed specifically for the Gradient ecosystem, it offers predictive analytics and self-optimizing transaction routing."
-  },
-  {
-    "createdAt": "2025-05-31T12:38:24Z",
-    "stars": 202,
-    "name": "devnen/Chatterbox-TTS-Server",
-    "url": "https://github.com/devnen/Chatterbox-TTS-Server",
-    "lang": "Python",
-    "desc": "Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale text processing. Runs accelerated on NVIDIA (CUDA), AMD (ROCm), and CPU."
   },
   {
     "createdAt": "2025-06-03T13:23:45Z",
@@ -200,20 +192,44 @@
     "desc": "The Gata Network Bot is a cutting-edge automation solution designed specifically for the Gata blockchain ecosystem. It provides powerful tools for decentralized finance (DeFi) operations, cross-chain asset management, and smart contract interactions with enterprise-grade security."
   },
   {
-    "createdAt": "2025-06-01T16:48:04Z",
-    "stars": 199,
-    "name": "langtalks/swe-agent",
-    "url": "https://github.com/langtalks/swe-agent",
-    "lang": "Python",
-    "desc": "🤖 AI-powered software engineering multi-agent system with researcher and developer agents that automate code implementation through intelligent planning and execution. Built with LangGraph multi-agent workflows"
-  },
-  {
     "createdAt": "2025-06-02T18:14:50Z",
     "stars": 197,
     "name": "Lebogang-tech/3DOS-Network-Bot",
     "url": "https://github.com/Lebogang-tech/3DOS-Network-Bot",
     "lang": "",
     "desc": "Professional-grade automation tool for 3DOS Network - a decentralized cloud computing platform that rewards users for contributing unused GPU/CPU resources to AI training and rendering tasks."
+  },
+  {
+    "createdAt": "2025-06-06T20:59:50Z",
+    "stars": 198,
+    "name": "mufasaYC/Dragula",
+    "url": "https://github.com/mufasaYC/Dragula",
+    "lang": "Swift",
+    "desc": "A delightfully flexible and smooth drag-and-drop Swift package for building reorderable interfaces in SwiftUI"
+  },
+  {
+    "createdAt": "2025-06-04T11:41:58Z",
+    "stars": 196,
+    "name": "2-fly-4-ai/awesome-shadcnui",
+    "url": "https://github.com/2-fly-4-ai/awesome-shadcnui",
+    "lang": "",
+    "desc": "The largest list online of awesome things related to shadcn/ui"
+  },
+  {
+    "createdAt": "2025-06-05T11:15:03Z",
+    "stars": 196,
+    "name": "fluxions-ai/vui",
+    "url": "https://github.com/fluxions-ai/vui",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-04T17:48:29Z",
+    "stars": 194,
+    "name": "Quentin-Anthony/nanoMPI",
+    "url": "https://github.com/Quentin-Anthony/nanoMPI",
+    "lang": "C",
+    "desc": "Simple MPI implementation for prototyping or learning"
   },
   {
     "createdAt": "2025-06-02T18:23:20Z",
@@ -232,120 +248,96 @@
     "desc": "Professional VPN node automation for Depined Network - the decentralized privacy platform that rewards users for sharing bandwidth as secure exit nodes. Earn crypto while enhancing global internet privacy."
   },
   {
-    "createdAt": "2025-06-03T06:25:31Z",
-    "stars": 191,
-    "name": "Yuliang-Liu/MonkeyOCR",
-    "url": "https://github.com/Yuliang-Liu/MonkeyOCR",
+    "createdAt": "2025-06-06T11:39:09Z",
+    "stars": 192,
+    "name": "GalaxyGeneralRobotics/OpenWBT",
+    "url": "https://github.com/GalaxyGeneralRobotics/OpenWBT",
     "lang": "Python",
-    "desc": "A lightweight LMM-based Document Parsing Model"
-  },
-  {
-    "createdAt": "2025-06-04T11:41:58Z",
-    "stars": 190,
-    "name": "2-fly-4-ai/awesome-shadcnui",
-    "url": "https://github.com/2-fly-4-ai/awesome-shadcnui",
-    "lang": "",
-    "desc": "The largest list online of awesome things related to shadcn/ui"
-  },
-  {
-    "createdAt": "2025-06-04T17:48:29Z",
-    "stars": 188,
-    "name": "Quentin-Anthony/nanoMPI",
-    "url": "https://github.com/Quentin-Anthony/nanoMPI",
-    "lang": "C",
-    "desc": "Simple MPI implementation for prototyping or learning"
-  },
-  {
-    "createdAt": "2025-06-05T07:35:25Z",
-    "stars": 181,
-    "name": "memononen/Skribidi",
-    "url": "https://github.com/memononen/Skribidi",
-    "lang": "C",
-    "desc": "Nimble bidirectional text stack for UIs"
-  },
-  {
-    "createdAt": "2025-06-05T11:15:03Z",
-    "stars": 178,
-    "name": "fluxions-ai/vui",
-    "url": "https://github.com/fluxions-ai/vui",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-05T02:20:58Z",
-    "stars": 174,
-    "name": "assetnote/newtowner",
-    "url": "https://github.com/assetnote/newtowner",
-    "lang": "Go",
-    "desc": "Abuse trust-boundaries to bypass firewalls and network controls"
-  },
-  {
-    "createdAt": "2025-06-02T15:16:41Z",
-    "stars": 175,
-    "name": "charlieclark/thiings-grid",
-    "url": "https://github.com/charlieclark/thiings-grid",
-    "lang": "TypeScript",
-    "desc": "A high-performance, infinite scrolling grid component for React that provides smooth touch/mouse interactions with momentum-based scrolling."
-  },
-  {
-    "createdAt": "2025-06-01T02:45:03Z",
-    "stars": 172,
-    "name": "hyepartners-gmail/vibevideo-mcp",
-    "url": "https://github.com/hyepartners-gmail/vibevideo-mcp",
-    "lang": "TypeScript",
-    "desc": "Agent MCP for ffmpeg"
-  },
-  {
-    "createdAt": "2025-05-31T13:00:09Z",
-    "stars": 169,
-    "name": "volution/punchcard-key-backup",
-    "url": "https://github.com/volution/punchcard-key-backup",
-    "lang": "HTML",
-    "desc": "pckb -- backup 128 bits to physical medium"
-  },
-  {
-    "createdAt": "2025-06-03T23:10:47Z",
-    "stars": 167,
-    "name": "foreveryh/langgraph-deep-research",
-    "url": "https://github.com/foreveryh/langgraph-deep-research",
-    "lang": "Jupyter Notebook",
-    "desc": ""
+    "desc": "Official implementation of OpenWBT."
   },
   {
     "createdAt": "2025-06-06T07:21:10Z",
-    "stars": 160,
+    "stars": 192,
     "name": "CharlieLZ/flux-kontext-template",
     "url": "https://github.com/CharlieLZ/flux-kontext-template",
     "lang": "TypeScript",
     "desc": "生财有术特供，flux-kontext开源仓库，套壳模板"
   },
   {
-    "createdAt": "2025-06-06T20:59:50Z",
-    "stars": 158,
-    "name": "mufasaYC/Dragula",
-    "url": "https://github.com/mufasaYC/Dragula",
-    "lang": "Swift",
-    "desc": "A delightfully flexible and smooth drag-and-drop Swift package for building reorderable interfaces in SwiftUI"
+    "createdAt": "2025-06-05T07:35:25Z",
+    "stars": 190,
+    "name": "memononen/Skribidi",
+    "url": "https://github.com/memononen/Skribidi",
+    "lang": "C",
+    "desc": "Nimble bidirectional text stack for UIs"
   },
   {
-    "createdAt": "2025-06-01T18:32:51Z",
-    "stars": 158,
-    "name": "robb/FolderIconGenerator",
-    "url": "https://github.com/robb/FolderIconGenerator",
-    "lang": "Swift",
-    "desc": "Generate macOS folder icons from SF Symbols"
+    "createdAt": "2025-06-03T23:10:47Z",
+    "stars": 183,
+    "name": "foreveryh/langgraph-deep-research",
+    "url": "https://github.com/foreveryh/langgraph-deep-research",
+    "lang": "Jupyter Notebook",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-01T02:45:03Z",
+    "stars": 181,
+    "name": "hyepartners-gmail/vibevideo-mcp",
+    "url": "https://github.com/hyepartners-gmail/vibevideo-mcp",
+    "lang": "TypeScript",
+    "desc": "Agent MCP for ffmpeg"
+  },
+  {
+    "createdAt": "2025-06-02T15:16:41Z",
+    "stars": 180,
+    "name": "charlieclark/thiings-grid",
+    "url": "https://github.com/charlieclark/thiings-grid",
+    "lang": "TypeScript",
+    "desc": "A high-performance, infinite scrolling grid component for React that provides smooth touch/mouse interactions with momentum-based scrolling."
+  },
+  {
+    "createdAt": "2025-06-05T02:20:58Z",
+    "stars": 179,
+    "name": "assetnote/newtowner",
+    "url": "https://github.com/assetnote/newtowner",
+    "lang": "Go",
+    "desc": "Abuse trust-boundaries to bypass firewalls and network controls"
+  },
+  {
+    "createdAt": "2025-06-01T12:31:57Z",
+    "stars": 160,
+    "name": "ashwwwin/automation-mcp",
+    "url": "https://github.com/ashwwwin/automation-mcp",
+    "lang": "TypeScript",
+    "desc": "Control your Mac with detailed mouse, keyboard, screen, and window management capabilities."
   },
   {
     "createdAt": "2025-06-01T22:07:20Z",
-    "stars": 154,
+    "stars": 160,
     "name": "bowang-lab/BioReason",
     "url": "https://github.com/bowang-lab/BioReason",
     "lang": "Python",
     "desc": "BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model"
   },
   {
+    "createdAt": "2025-06-01T18:32:51Z",
+    "stars": 159,
+    "name": "robb/FolderIconGenerator",
+    "url": "https://github.com/robb/FolderIconGenerator",
+    "lang": "Swift",
+    "desc": "Generate macOS folder icons from SF Symbols"
+  },
+  {
+    "createdAt": "2025-06-04T04:56:57Z",
+    "stars": 159,
+    "name": "Trans-N-ai/swama",
+    "url": "https://github.com/Trans-N-ai/swama",
+    "lang": "Swift",
+    "desc": "High-performance MLX-based LLM inference engine for macOS with native Swift implementation"
+  },
+  {
     "createdAt": "2025-06-03T11:48:45Z",
-    "stars": 150,
+    "stars": 152,
     "name": "collidingScopes/3d-model-playground",
     "url": "https://github.com/collidingScopes/3d-model-playground",
     "lang": "JavaScript",
@@ -353,19 +345,19 @@
   },
   {
     "createdAt": "2025-06-01T15:03:25Z",
-    "stars": 148,
+    "stars": 152,
     "name": "tech-notes-hub/tech-notes",
     "url": "https://github.com/tech-notes-hub/tech-notes",
     "lang": "TypeScript",
     "desc": "Tech Notes Hub: All-in-one technical notes & code snippets - covering design patterns, algorithms, data structures, AWS, and more. A centralized knowledge base for learning, reference, and daily use."
   },
   {
-    "createdAt": "2025-06-01T12:31:57Z",
-    "stars": 138,
-    "name": "ashwwwin/automation-mcp",
-    "url": "https://github.com/ashwwwin/automation-mcp",
-    "lang": "TypeScript",
-    "desc": "Control your Mac with detailed mouse, keyboard, screen, and window management capabilities."
+    "createdAt": "2025-06-01T19:03:42Z",
+    "stars": 142,
+    "name": "dth99/DevOps-Learn-By-Doing",
+    "url": "https://github.com/dth99/DevOps-Learn-By-Doing",
+    "lang": "",
+    "desc": "From Linux to Kubernetes: a curated, community-driven collection of free DevOps labs, challenges, and end-to-end projects—learn by doing and build real-world skills, not just read theory."
   },
   {
     "createdAt": "2025-06-06T17:10:22Z",
@@ -376,27 +368,35 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-05-31T01:54:35Z",
-    "stars": 136,
-    "name": "NeekChaw/RIPER-5",
-    "url": "https://github.com/NeekChaw/RIPER-5",
-    "lang": "",
-    "desc": "神级Cursor Rule"
+    "createdAt": "2025-06-02T21:01:37Z",
+    "stars": 131,
+    "name": "Brut-Security/BrutDroid",
+    "url": "https://github.com/Brut-Security/BrutDroid",
+    "lang": "JavaScript",
+    "desc": "BrutDroid — Android Emulator Automation Toolkit"
   },
   {
-    "createdAt": "2025-06-01T19:03:42Z",
-    "stars": 135,
-    "name": "dth99/DevOps-Learn-By-Doing",
-    "url": "https://github.com/dth99/DevOps-Learn-By-Doing",
-    "lang": "",
-    "desc": "From Linux to Kubernetes: a curated, community-driven collection of free DevOps labs, challenges, and end-to-end projects—learn by doing and build real-world skills, not just read theory."
-  },
-  {
-    "createdAt": "2025-06-04T04:56:57Z",
+    "createdAt": "2025-06-07T06:09:38Z",
     "stars": 130,
-    "name": "Trans-N-ai/swama",
-    "url": "https://github.com/Trans-N-ai/swama",
+    "name": "udeth/godex",
+    "url": "https://github.com/udeth/godex",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-03T03:40:43Z",
+    "stars": 129,
+    "name": "simonbs/TextDiffing",
+    "url": "https://github.com/simonbs/TextDiffing",
     "lang": "Swift",
-    "desc": "High-performance MLX-based LLM inference engine for macOS with native Swift implementation"
+    "desc": "🧬 TextDiffing helps you create an AttributedString / NSAttributedString to visualize differences between texts."
+  },
+  {
+    "createdAt": "2025-06-03T15:27:42Z",
+    "stars": 127,
+    "name": "Vchitect/DCM",
+    "url": "https://github.com/Vchitect/DCM",
+    "lang": "Python",
+    "desc": "DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation"
   }
 ]
