@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-06-08T00:11:28Z",
-    "stars": 764,
+    "stars": 839,
     "name": "supermemoryai/supermemory-mcp",
     "url": "https://github.com/supermemoryai/supermemory-mcp",
     "lang": "TypeScript",
@@ -9,27 +9,59 @@
   },
   {
     "createdAt": "2025-06-05T08:07:26Z",
-    "stars": 542,
+    "stars": 608,
     "name": "QwenLM/Qwen3-Embedding",
     "url": "https://github.com/QwenLM/Qwen3-Embedding",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-06-03T06:25:31Z",
+    "stars": 590,
+    "name": "Yuliang-Liu/MonkeyOCR",
+    "url": "https://github.com/Yuliang-Liu/MonkeyOCR",
+    "lang": "Python",
+    "desc": "A lightweight LMM-based Document Parsing Model"
+  },
+  {
+    "createdAt": "2025-06-09T17:22:49Z",
+    "stars": 490,
+    "name": "TelegramScraper/Telegram-Scraper",
+    "url": "https://github.com/TelegramScraper/Telegram-Scraper",
+    "lang": "",
+    "desc": "A powerful Python tool that allows you to scrape over 10k members and messages from any groups / channels. Features include real-time scraping and much more!"
+  },
+  {
     "createdAt": "2025-06-05T06:29:27Z",
-    "stars": 474,
+    "stars": 476,
     "name": "l-portet/tiktok-warmup-bot",
     "url": "https://github.com/l-portet/tiktok-warmup-bot",
     "lang": "JavaScript",
     "desc": "♨️  Warming up TikTok accounts, one swipe at a time"
   },
   {
-    "createdAt": "2025-06-03T06:25:31Z",
-    "stars": 387,
-    "name": "Yuliang-Liu/MonkeyOCR",
-    "url": "https://github.com/Yuliang-Liu/MonkeyOCR",
+    "createdAt": "2025-06-08T15:36:50Z",
+    "stars": 425,
+    "name": "BeehiveInnovations/gemini-mcp-server",
+    "url": "https://github.com/BeehiveInnovations/gemini-mcp-server",
     "lang": "Python",
-    "desc": "A lightweight LMM-based Document Parsing Model"
+    "desc": "The power of Gemini + Claude Code working as one. Augments Claude's extended thinking with Gemini's perspective."
+  },
+  {
+    "createdAt": "2025-06-06T11:39:09Z",
+    "stars": 396,
+    "name": "GalaxyGeneralRobotics/OpenWBT",
+    "url": "https://github.com/GalaxyGeneralRobotics/OpenWBT",
+    "lang": "Python",
+    "desc": "Official implementation of OpenWBT."
+  },
+  {
+    "createdAt": "2025-06-05T13:27:12Z",
+    "stars": 344,
+    "name": "wey-gu/py-pglite",
+    "url": "https://github.com/wey-gu/py-pglite",
+    "lang": "Python",
+    "desc": "PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite."
   },
   {
     "createdAt": "2025-06-06T22:00:11Z",
@@ -40,68 +72,44 @@
     "desc": "Apex Cheat is an undetected Apex Legends Cheat including Apex Aimbot, ESP overlays, and a full HWID Spoofer. Ideal for personal use and studying how Apex Legends Aimbot systems and cheat tools are built and executed in live environments."
   },
   {
-    "createdAt": "2025-06-05T13:27:12Z",
-    "stars": 333,
-    "name": "wey-gu/py-pglite",
-    "url": "https://github.com/wey-gu/py-pglite",
+    "createdAt": "2025-06-06T07:21:10Z",
+    "stars": 300,
+    "name": "CharlieLZ/flux-kontext-template",
+    "url": "https://github.com/CharlieLZ/flux-kontext-template",
+    "lang": "TypeScript",
+    "desc": "生财有术特供，flux-kontext开源仓库，套壳模板"
+  },
+  {
+    "createdAt": "2025-06-09T07:00:17Z",
+    "stars": 289,
+    "name": "pubg-undetected/pubg-cheat",
+    "url": "https://github.com/pubg-undetected/pubg-cheat",
     "lang": "Python",
-    "desc": "PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite."
-  },
-  {
-    "createdAt": "2025-06-02T15:45:03Z",
-    "stars": 315,
-    "name": "neocanable/garlic",
-    "url": "https://github.com/neocanable/garlic",
-    "lang": "C",
-    "desc": "Java decompiler written in C"
-  },
-  {
-    "createdAt": "2025-06-02T06:30:29Z",
-    "stars": 284,
-    "name": "lixiasky/vanta",
-    "url": "https://github.com/lixiasky/vanta",
-    "lang": "Go",
-    "desc": "A lightweight protocol-aware packet analyzer and behavioral exporter. Created as a personal response to global academic freedom challenges."
+    "desc": "PUBG Cheat is a powerful, undetected and educational toolkit featuring PUBG Aimbot, ESP, Wallhack, Radar, No Recoil, and HWID Spoofer. Designed for Windows 10/11 with support for Streamer Mode, it's ideal for security research and understanding PUBG internals"
   },
   {
     "createdAt": "2025-06-05T15:01:24Z",
-    "stars": 275,
+    "stars": 287,
     "name": "ScalingIntelligence/tokasaurus",
     "url": "https://github.com/ScalingIntelligence/tokasaurus",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-06T11:39:09Z",
-    "stars": 273,
-    "name": "GalaxyGeneralRobotics/OpenWBT",
-    "url": "https://github.com/GalaxyGeneralRobotics/OpenWBT",
-    "lang": "Python",
-    "desc": "Official implementation of OpenWBT."
-  },
-  {
     "createdAt": "2025-06-04T14:11:31Z",
-    "stars": 268,
+    "stars": 270,
     "name": "ElusionCheats/warzone-cheat",
     "url": "https://github.com/ElusionCheats/warzone-cheat",
     "lang": "Python",
     "desc": "Warzone Cheat is a powerful and feature-rich educational project designed to demonstrate how cheats can be built for Call of Duty: Warzone. Includes fully functional modules such as Aimbot, ESP, Wallhack, Triggerbot, and No Recoil. Each module is built to be customizable, with code optimized for low latency"
   },
   {
-    "createdAt": "2025-06-02T15:42:27Z",
-    "stars": 263,
-    "name": "BotRandomness/NET-NES",
-    "url": "https://github.com/BotRandomness/NET-NES",
-    "lang": "C#",
-    "desc": "NET-NES, a NES emulator, written in C#."
-  },
-  {
-    "createdAt": "2025-06-02T10:14:35Z",
-    "stars": 251,
-    "name": "aki66938/xhs-toolkit",
-    "url": "https://github.com/aki66938/xhs-toolkit",
+    "createdAt": "2025-06-05T11:15:03Z",
+    "stars": 264,
+    "name": "fluxions-ai/vui",
+    "url": "https://github.com/fluxions-ai/vui",
     "lang": "Python",
-    "desc": "📕 小红书MCP工具包 - 支持与AI客户端集成的智能内容创作和发布工具"
+    "desc": ""
   },
   {
     "createdAt": "2025-06-08T19:16:16Z",
@@ -112,52 +120,52 @@
     "desc": "Rust Cheat is the ultimate tool for Rust players, offering advanced features like Aimbot, Visuals, and Miscellaneous utilities. With compatibility across Windows 10/11, undetected status, and seamless integration, Rust Cheat enhances your gameplay by improving accuracy, awareness, and convenience. Become a pro in Rust with Rust Aimbot!"
   },
   {
-    "createdAt": "2025-06-08T15:36:50Z",
-    "stars": 228,
-    "name": "BeehiveInnovations/gemini-mcp-server",
-    "url": "https://github.com/BeehiveInnovations/gemini-mcp-server",
-    "lang": "Python",
-    "desc": "The power of Gemini + Claude Code in one. Augments Claude's extended thinking with Gemini's perspective."
-  },
-  {
-    "createdAt": "2025-06-06T07:21:10Z",
-    "stars": 226,
-    "name": "CharlieLZ/flux-kontext-template",
-    "url": "https://github.com/CharlieLZ/flux-kontext-template",
-    "lang": "TypeScript",
-    "desc": "生财有术特供，flux-kontext开源仓库，套壳模板"
-  },
-  {
-    "createdAt": "2025-06-05T11:15:03Z",
-    "stars": 222,
-    "name": "fluxions-ai/vui",
-    "url": "https://github.com/fluxions-ai/vui",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-07T00:31:13Z",
-    "stars": 220,
-    "name": "8090-inc/top-coder-challenge",
-    "url": "https://github.com/8090-inc/top-coder-challenge",
-    "lang": "Shell",
-    "desc": "go the distance"
-  },
-  {
     "createdAt": "2025-06-06T20:59:50Z",
-    "stars": 219,
+    "stars": 230,
     "name": "mufasaYC/Dragula",
     "url": "https://github.com/mufasaYC/Dragula",
     "lang": "Swift",
     "desc": "A delightfully flexible and smooth drag-and-drop Swift package for building reorderable interfaces in SwiftUI"
   },
   {
+    "createdAt": "2025-06-07T00:31:13Z",
+    "stars": 228,
+    "name": "8090-inc/top-coder-challenge",
+    "url": "https://github.com/8090-inc/top-coder-challenge",
+    "lang": "Shell",
+    "desc": "go the distance"
+  },
+  {
+    "createdAt": "2025-06-09T05:33:40Z",
+    "stars": 227,
+    "name": "guandeh17/Self-Forcing",
+    "url": "https://github.com/guandeh17/Self-Forcing",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-09T22:30:48Z",
+    "stars": 219,
+    "name": "lucasromerodb/liquid-glass-effect-macos",
+    "url": "https://github.com/lucasromerodb/liquid-glass-effect-macos",
+    "lang": "HTML",
+    "desc": "Demo here"
+  },
+  {
     "createdAt": "2025-06-03T12:27:51Z",
-    "stars": 217,
+    "stars": 218,
     "name": "Graveyard-Gravestones/KiteAI-Bot",
     "url": "https://github.com/Graveyard-Gravestones/KiteAI-Bot",
     "lang": "",
     "desc": "Professional algorithmic trading solution for Kite AI - the decentralized AI prediction market that leverages machine learning to analyze crypto markets and execute high-probability trades automatically."
+  },
+  {
+    "createdAt": "2025-06-09T06:13:50Z",
+    "stars": 215,
+    "name": "wgsxm/PartCrafter",
+    "url": "https://github.com/wgsxm/PartCrafter",
+    "lang": "",
+    "desc": "PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers"
   },
   {
     "createdAt": "2025-06-03T12:39:12Z",
@@ -176,12 +184,36 @@
     "desc": "A high-performance automation tool for interacting with the Openledger blockchain network. Designed for traders, developers, and DeFi enthusiasts, this bot streamlines trading, staking, and asset management with secure, low-latency execution."
   },
   {
+    "createdAt": "2025-06-04T17:48:29Z",
+    "stars": 210,
+    "name": "Quentin-Anthony/nanoMPI",
+    "url": "https://github.com/Quentin-Anthony/nanoMPI",
+    "lang": "C",
+    "desc": "Simple MPI implementation for prototyping or learning"
+  },
+  {
     "createdAt": "2025-06-03T13:03:15Z",
     "stars": 210,
     "name": "Graveyard-Gravestones/SparkChain-Network-Bot",
     "url": "https://github.com/Graveyard-Gravestones/SparkChain-Network-Bot",
     "lang": "",
     "desc": "The SparkChain Network Bot is an advanced automation tool designed for the SparkChain blockchain ecosystem, enabling lightning-fast transactions, smart contract automation, and cross-chain interoperability. Built for developers and traders, it offers seamless integration with decentralized applications (dApps) and DeFi protocols."
+  },
+  {
+    "createdAt": "2025-06-04T11:41:58Z",
+    "stars": 205,
+    "name": "2-fly-4-ai/awesome-shadcnui",
+    "url": "https://github.com/2-fly-4-ai/awesome-shadcnui",
+    "lang": "",
+    "desc": "The largest list online of awesome things related to shadcn/ui"
+  },
+  {
+    "createdAt": "2025-06-05T02:20:58Z",
+    "stars": 204,
+    "name": "assetnote/newtowner",
+    "url": "https://github.com/assetnote/newtowner",
+    "lang": "Go",
+    "desc": "Abuse trust-boundaries to bypass firewalls and network controls"
   },
   {
     "createdAt": "2025-06-03T13:10:49Z",
@@ -192,20 +224,12 @@
     "desc": "The Gradient Network Bot is a next-generation automation solution that combines machine learning with blockchain technology to deliver intelligent, adaptive operations across decentralized networks. Designed specifically for the Gradient ecosystem, it offers predictive analytics and self-optimizing transaction routing."
   },
   {
-    "createdAt": "2025-06-04T17:48:29Z",
-    "stars": 202,
-    "name": "Quentin-Anthony/nanoMPI",
-    "url": "https://github.com/Quentin-Anthony/nanoMPI",
+    "createdAt": "2025-06-05T07:35:25Z",
+    "stars": 199,
+    "name": "memononen/Skribidi",
+    "url": "https://github.com/memononen/Skribidi",
     "lang": "C",
-    "desc": "Simple MPI implementation for prototyping or learning"
-  },
-  {
-    "createdAt": "2025-06-04T11:41:58Z",
-    "stars": 200,
-    "name": "2-fly-4-ai/awesome-shadcnui",
-    "url": "https://github.com/2-fly-4-ai/awesome-shadcnui",
-    "lang": "",
-    "desc": "The largest list online of awesome things related to shadcn/ui"
+    "desc": "Nimble bidirectional text stack for UIs"
   },
   {
     "createdAt": "2025-06-03T13:23:45Z",
@@ -216,96 +240,40 @@
     "desc": "The Gata Network Bot is a cutting-edge automation solution designed specifically for the Gata blockchain ecosystem. It provides powerful tools for decentralized finance (DeFi) operations, cross-chain asset management, and smart contract interactions with enterprise-grade security."
   },
   {
-    "createdAt": "2025-06-02T18:14:50Z",
-    "stars": 197,
-    "name": "Lebogang-tech/3DOS-Network-Bot",
-    "url": "https://github.com/Lebogang-tech/3DOS-Network-Bot",
-    "lang": "",
-    "desc": "Professional-grade automation tool for 3DOS Network - a decentralized cloud computing platform that rewards users for contributing unused GPU/CPU resources to AI training and rendering tasks."
-  },
-  {
-    "createdAt": "2025-06-05T07:35:25Z",
-    "stars": 196,
-    "name": "memononen/Skribidi",
-    "url": "https://github.com/memononen/Skribidi",
-    "lang": "C",
-    "desc": "Nimble bidirectional text stack for UIs"
-  },
-  {
-    "createdAt": "2025-06-02T18:23:20Z",
-    "stars": 193,
-    "name": "Yondz77/Coresky-Network",
-    "url": "https://github.com/Yondz77/Coresky-Network",
-    "lang": "",
-    "desc": "Advanced AI node management system for Coresky Network - the decentralized AI training platform that compensates users for contributing GPU resources to machine learning projects."
-  },
-  {
-    "createdAt": "2025-06-02T18:28:49Z",
-    "stars": 192,
-    "name": "Yondz77/Depined-Network-bot",
-    "url": "https://github.com/Yondz77/Depined-Network-bot",
-    "lang": "",
-    "desc": "Professional VPN node automation for Depined Network - the decentralized privacy platform that rewards users for sharing bandwidth as secure exit nodes. Earn crypto while enhancing global internet privacy."
-  },
-  {
     "createdAt": "2025-06-03T23:10:47Z",
-    "stars": 188,
+    "stars": 192,
     "name": "foreveryh/langgraph-deep-research",
     "url": "https://github.com/foreveryh/langgraph-deep-research",
     "lang": "Jupyter Notebook",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-05T02:20:58Z",
-    "stars": 186,
-    "name": "assetnote/newtowner",
-    "url": "https://github.com/assetnote/newtowner",
-    "lang": "Go",
-    "desc": "Abuse trust-boundaries to bypass firewalls and network controls"
-  },
-  {
-    "createdAt": "2025-06-02T15:16:41Z",
-    "stars": 183,
-    "name": "charlieclark/thiings-grid",
-    "url": "https://github.com/charlieclark/thiings-grid",
-    "lang": "TypeScript",
-    "desc": "A high-performance, infinite scrolling grid component for React that provides smooth touch/mouse interactions with momentum-based scrolling."
-  },
-  {
-    "createdAt": "2025-06-04T04:56:57Z",
-    "stars": 165,
-    "name": "Trans-N-ai/swama",
-    "url": "https://github.com/Trans-N-ai/swama",
-    "lang": "Swift",
-    "desc": "High-performance MLX-based LLM inference engine for macOS with native Swift implementation"
+    "createdAt": "2025-06-07T06:40:11Z",
+    "stars": 184,
+    "name": "zhaijie1314521/free-cursor",
+    "url": "https://github.com/zhaijie1314521/free-cursor",
+    "lang": "",
+    "desc": "世面上唯一一款免费、无需任何梯子环境、虚拟机环境、浏览器环境旧能保持cursor pro试用永久不掉的软件"
   },
   {
     "createdAt": "2025-06-05T09:52:40Z",
-    "stars": 154,
+    "stars": 175,
     "name": "fairpm/fair-plugin",
     "url": "https://github.com/fairpm/fair-plugin",
     "lang": "PHP",
     "desc": "FAIR plugin"
   },
   {
-    "createdAt": "2025-06-03T11:48:45Z",
-    "stars": 152,
-    "name": "collidingScopes/3d-model-playground",
-    "url": "https://github.com/collidingScopes/3d-model-playground",
-    "lang": "JavaScript",
-    "desc": "Control 3D models using hand gestures and voice commands in real-time. Threejs / mediapipe computer vision"
-  },
-  {
-    "createdAt": "2025-06-02T21:01:37Z",
-    "stars": 143,
-    "name": "Brut-Security/BrutDroid",
-    "url": "https://github.com/Brut-Security/BrutDroid",
-    "lang": "JavaScript",
-    "desc": "BrutDroid — Android Emulator Automation Toolkit"
+    "createdAt": "2025-06-04T04:56:57Z",
+    "stars": 169,
+    "name": "Trans-N-ai/swama",
+    "url": "https://github.com/Trans-N-ai/swama",
+    "lang": "Swift",
+    "desc": "High-performance MLX-based LLM inference engine for macOS with native Swift implementation"
   },
   {
     "createdAt": "2025-06-05T01:06:56Z",
-    "stars": 142,
+    "stars": 164,
     "name": "WangHelin1997/CapSpeech",
     "url": "https://github.com/WangHelin1997/CapSpeech",
     "lang": "Jupyter Notebook",
@@ -313,11 +281,75 @@
   },
   {
     "createdAt": "2025-06-04T02:42:56Z",
-    "stars": 141,
+    "stars": 163,
     "name": "gstory0404/Cinetry",
     "url": "https://github.com/gstory0404/Cinetry",
     "lang": "",
     "desc": "Cinetry播放器，Jellyfin、Emby、CMS数据导入，服务器一键切换，多服务器数据聚合搜索，支持Andorid、iOS、Windows、macOS、Linux"
+  },
+  {
+    "createdAt": "2025-06-09T05:48:15Z",
+    "stars": 160,
+    "name": "hemanth/paws-on-mcp",
+    "url": "https://github.com/hemanth/paws-on-mcp",
+    "lang": "Python",
+    "desc": "A comprehensive Model Context Protocol (MCP) server implementing the latest specification."
+  },
+  {
+    "createdAt": "2025-06-07T11:21:19Z",
+    "stars": 159,
+    "name": "tyreme/GrassBot",
+    "url": "https://github.com/tyreme/GrassBot",
+    "lang": "Python",
+    "desc": "bot for automated grass farming"
+  },
+  {
+    "createdAt": "2025-06-08T21:22:15Z",
+    "stars": 155,
+    "name": "ludoguenet/laravel-zap",
+    "url": "https://github.com/ludoguenet/laravel-zap",
+    "lang": "PHP",
+    "desc": "Lightning-fast schedule management for Laravel"
+  },
+  {
+    "createdAt": "2025-06-03T11:48:45Z",
+    "stars": 154,
+    "name": "collidingScopes/3d-model-playground",
+    "url": "https://github.com/collidingScopes/3d-model-playground",
+    "lang": "JavaScript",
+    "desc": "Control 3D models using hand gestures and voice commands in real-time. Threejs / mediapipe computer vision"
+  },
+  {
+    "createdAt": "2025-06-05T13:19:45Z",
+    "stars": 154,
+    "name": "chainguard-dev/kaniko",
+    "url": "https://github.com/chainguard-dev/kaniko",
+    "lang": "Go",
+    "desc": "Build Container Images In Kubernetes"
+  },
+  {
+    "createdAt": "2025-06-05T22:25:46Z",
+    "stars": 153,
+    "name": "conimade/quant_trade",
+    "url": "https://github.com/conimade/quant_trade",
+    "lang": "Python",
+    "desc": "量化代码"
+  },
+  {
+    "createdAt": "2025-06-04T09:34:55Z",
+    "stars": 144,
+    "name": "AIDotNet/auto-prompt",
+    "url": "https://github.com/AIDotNet/auto-prompt",
+    "lang": "TypeScript",
+    "desc": "AI Prompt Optimization Platform is a professional prompt engineering tool designed to help users optimize AI model prompts, enhancing the effectiveness and accuracy of AI interactions. The platform integrates intelligent optimization algorithms, deep reasoning analysis, visualization debugging tools, and community sharing features, providing compre"
+  },
+  {
+    "createdAt": "2025-06-03T15:27:42Z",
+    "stars": 138,
+    "name": "Vchitect/DCM",
+    "url": "https://github.com/Vchitect/DCM",
+    "lang": "Python",
+    "desc": "DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation"
   },
   {
     "createdAt": "2025-06-06T17:10:22Z",
@@ -328,36 +360,28 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-06-05T13:19:45Z",
-    "stars": 137,
-    "name": "chainguard-dev/kaniko",
-    "url": "https://github.com/chainguard-dev/kaniko",
-    "lang": "Go",
-    "desc": "Build Container Images In Kubernetes"
-  },
-  {
-    "createdAt": "2025-06-03T15:27:42Z",
-    "stars": 135,
-    "name": "Vchitect/DCM",
-    "url": "https://github.com/Vchitect/DCM",
+    "createdAt": "2025-06-03T11:33:27Z",
+    "stars": 132,
+    "name": "manthanguptaa/water",
+    "url": "https://github.com/manthanguptaa/water",
     "lang": "Python",
-    "desc": "DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation"
-  },
-  {
-    "createdAt": "2025-06-05T22:25:46Z",
-    "stars": 134,
-    "name": "conimade/quant_trade",
-    "url": "https://github.com/conimade/quant_trade",
-    "lang": "Python",
-    "desc": "量化代码"
+    "desc": "A multi-agent orchestration framework that works with any agent framework"
   },
   {
     "createdAt": "2025-06-03T03:40:43Z",
-    "stars": 131,
+    "stars": 132,
     "name": "simonbs/TextDiffing",
     "url": "https://github.com/simonbs/TextDiffing",
     "lang": "Swift",
     "desc": "🧬 TextDiffing helps you create an AttributedString / NSAttributedString to visualize differences between texts."
+  },
+  {
+    "createdAt": "2025-06-06T12:20:04Z",
+    "stars": 129,
+    "name": "OpenAiTx/OpenAiTx",
+    "url": "https://github.com/OpenAiTx/OpenAiTx",
+    "lang": "C#",
+    "desc": "OpenAiTx auto 20 languages translate for GitHub project"
   },
   {
     "createdAt": "2025-06-07T06:09:38Z",
@@ -368,35 +392,11 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-06-04T09:34:55Z",
-    "stars": 128,
-    "name": "AIDotNet/auto-prompt",
-    "url": "https://github.com/AIDotNet/auto-prompt",
-    "lang": "TypeScript",
-    "desc": "AI Prompt Optimization Platform is a professional prompt engineering tool designed to help users optimize AI model prompts, enhancing the effectiveness and accuracy of AI interactions. The platform integrates intelligent optimization algorithms, deep reasoning analysis, visualization debugging tools, and community sharing features, providing compre"
-  },
-  {
-    "createdAt": "2025-06-02T02:39:22Z",
-    "stars": 125,
-    "name": "OpenRobotLab/AnySplat",
-    "url": "https://github.com/OpenRobotLab/AnySplat",
-    "lang": "",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-06-03T09:41:49Z",
     "stars": 125,
     "name": "gregorojstersek/behavioral-interview-list-of-questions",
     "url": "https://github.com/gregorojstersek/behavioral-interview-list-of-questions",
     "lang": "",
     "desc": ""
-  },
-  {
-    "createdAt": "2025-06-05T14:26:08Z",
-    "stars": 122,
-    "name": "mswjs/playwright",
-    "url": "https://github.com/mswjs/playwright",
-    "lang": "TypeScript",
-    "desc": "Mock Service Worker binding for Playwright."
   }
 ]
