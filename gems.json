@@ -1,23 +1,23 @@
 [
   {
-    "createdAt": "2025-06-08T00:11:28Z",
-    "stars": 871,
-    "name": "supermemoryai/supermemory-mcp",
-    "url": "https://github.com/supermemoryai/supermemory-mcp",
-    "lang": "TypeScript",
-    "desc": "Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up."
-  },
-  {
-    "createdAt": "2025-06-05T08:07:26Z",
-    "stars": 656,
-    "name": "QwenLM/Qwen3-Embedding",
-    "url": "https://github.com/QwenLM/Qwen3-Embedding",
-    "lang": "Python",
+    "createdAt": "2025-06-11T05:50:39Z",
+    "stars": 1582,
+    "name": "AasishPokhrel/shit",
+    "url": "https://github.com/AasishPokhrel/shit",
+    "lang": "",
     "desc": ""
   },
   {
+    "createdAt": "2025-06-11T23:35:02Z",
+    "stars": 1345,
+    "name": "OpenListTeam/OpenList",
+    "url": "https://github.com/OpenListTeam/OpenList",
+    "lang": "Go",
+    "desc": "A new AList Fork to Anti Trust Crisis"
+  },
+  {
     "createdAt": "2025-06-10T22:48:35Z",
-    "stars": 596,
+    "stars": 1078,
     "name": "rdev/liquid-glass-react",
     "url": "https://github.com/rdev/liquid-glass-react",
     "lang": "TypeScript",
@@ -25,111 +25,167 @@
   },
   {
     "createdAt": "2025-06-08T15:36:50Z",
-    "stars": 548,
-    "name": "BeehiveInnovations/gemini-mcp-server",
-    "url": "https://github.com/BeehiveInnovations/gemini-mcp-server",
+    "stars": 962,
+    "name": "BeehiveInnovations/zen-mcp-server",
+    "url": "https://github.com/BeehiveInnovations/zen-mcp-server",
     "lang": "Python",
-    "desc": "The power of Gemini + Claude Code working as one. Augments Claude's extended thinking with Gemini's perspective."
+    "desc": "The power of Claude Code + [Gemini Pro / Flash / O3 / O3-Mini / All Of The Above] working as one."
   },
   {
-    "createdAt": "2025-06-06T11:39:09Z",
-    "stars": 495,
-    "name": "GalaxyGeneralRobotics/OpenWBT",
-    "url": "https://github.com/GalaxyGeneralRobotics/OpenWBT",
-    "lang": "Python",
-    "desc": "Official implementation of OpenWBT."
-  },
-  {
-    "createdAt": "2025-06-05T06:29:27Z",
-    "stars": 482,
-    "name": "l-portet/tiktok-warmup-bot",
-    "url": "https://github.com/l-portet/tiktok-warmup-bot",
-    "lang": "JavaScript",
-    "desc": "♨️  Warming up TikTok accounts, one swipe at a time"
-  },
-  {
-    "createdAt": "2025-06-09T22:30:48Z",
-    "stars": 426,
-    "name": "lucasromerodb/liquid-glass-effect-macos",
-    "url": "https://github.com/lucasromerodb/liquid-glass-effect-macos",
-    "lang": "HTML",
-    "desc": "Demo here"
-  },
-  {
-    "createdAt": "2025-06-06T07:21:10Z",
-    "stars": 379,
-    "name": "CharlieLZ/flux-kontext-template",
-    "url": "https://github.com/CharlieLZ/flux-kontext-template",
+    "createdAt": "2025-06-08T00:11:28Z",
+    "stars": 887,
+    "name": "supermemoryai/supermemory-mcp",
+    "url": "https://github.com/supermemoryai/supermemory-mcp",
     "lang": "TypeScript",
-    "desc": "生财有术特供，flux-kontext开源仓库，套壳模板"
+    "desc": "Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up."
+  },
+  {
+    "createdAt": "2025-06-05T08:07:26Z",
+    "stars": 685,
+    "name": "QwenLM/Qwen3-Embedding",
+    "url": "https://github.com/QwenLM/Qwen3-Embedding",
+    "lang": "Python",
+    "desc": ""
   },
   {
     "createdAt": "2025-06-09T05:33:40Z",
-    "stars": 355,
+    "stars": 545,
     "name": "guandeh17/Self-Forcing",
     "url": "https://github.com/guandeh17/Self-Forcing",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-05T13:27:12Z",
-    "stars": 346,
-    "name": "wey-gu/py-pglite",
-    "url": "https://github.com/wey-gu/py-pglite",
+    "createdAt": "2025-06-06T11:39:09Z",
+    "stars": 520,
+    "name": "GalaxyGeneralRobotics/OpenWBT",
+    "url": "https://github.com/GalaxyGeneralRobotics/OpenWBT",
     "lang": "Python",
-    "desc": "PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite."
+    "desc": "Official implementation of OpenWBT."
+  },
+  {
+    "createdAt": "2025-06-09T22:30:48Z",
+    "stars": 488,
+    "name": "lucasromerodb/liquid-glass-effect-macos",
+    "url": "https://github.com/lucasromerodb/liquid-glass-effect-macos",
+    "lang": "HTML",
+    "desc": "Demo here"
   },
   {
     "createdAt": "2025-06-10T14:19:48Z",
-    "stars": 344,
+    "stars": 485,
     "name": "multigres/multigres",
     "url": "https://github.com/multigres/multigres",
     "lang": "",
     "desc": "Vitess for Postgres"
   },
   {
-    "createdAt": "2025-06-05T11:15:03Z",
-    "stars": 341,
-    "name": "fluxions-ai/vui",
-    "url": "https://github.com/fluxions-ai/vui",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-09T01:23:09Z",
-    "stars": 307,
-    "name": "ios12checker/Windows-Maintenance-Tool",
-    "url": "https://github.com/ios12checker/Windows-Maintenance-Tool",
-    "lang": "Batchfile",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-05T15:01:24Z",
-    "stars": 301,
-    "name": "ScalingIntelligence/tokasaurus",
-    "url": "https://github.com/ScalingIntelligence/tokasaurus",
-    "lang": "Python",
-    "desc": ""
+    "createdAt": "2025-06-05T06:29:27Z",
+    "stars": 483,
+    "name": "l-portet/tiktok-warmup-bot",
+    "url": "https://github.com/l-portet/tiktok-warmup-bot",
+    "lang": "JavaScript",
+    "desc": "♨️  Warming up TikTok accounts, one swipe at a time"
   },
   {
     "createdAt": "2025-06-09T06:13:50Z",
-    "stars": 290,
+    "stars": 475,
     "name": "wgsxm/PartCrafter",
     "url": "https://github.com/wgsxm/PartCrafter",
     "lang": "",
     "desc": "PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers"
   },
   {
+    "createdAt": "2025-06-06T07:21:10Z",
+    "stars": 466,
+    "name": "CharlieLZ/flux-kontext-template",
+    "url": "https://github.com/CharlieLZ/flux-kontext-template",
+    "lang": "TypeScript",
+    "desc": "生财有术特供，flux-kontext开源仓库，套壳模板"
+  },
+  {
+    "createdAt": "2025-06-09T01:23:09Z",
+    "stars": 427,
+    "name": "ios12checker/Windows-Maintenance-Tool",
+    "url": "https://github.com/ios12checker/Windows-Maintenance-Tool",
+    "lang": "Batchfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-05T11:15:03Z",
+    "stars": 361,
+    "name": "fluxions-ai/vui",
+    "url": "https://github.com/fluxions-ai/vui",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-05T13:27:12Z",
+    "stars": 355,
+    "name": "wey-gu/py-pglite",
+    "url": "https://github.com/wey-gu/py-pglite",
+    "lang": "Python",
+    "desc": "PGlite wrapper in Python for testing. Test your app with Postgres just as lite as SQLite."
+  },
+  {
+    "createdAt": "2025-06-11T09:54:16Z",
+    "stars": 353,
+    "name": "shuding/liquid-glass",
+    "url": "https://github.com/shuding/liquid-glass",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-05T15:01:24Z",
+    "stars": 310,
+    "name": "ScalingIntelligence/tokasaurus",
+    "url": "https://github.com/ScalingIntelligence/tokasaurus",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-06T14:32:34Z",
+    "stars": 288,
+    "name": "mendableai/fire-enrich",
+    "url": "https://github.com/mendableai/fire-enrich",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-06-09T05:48:15Z",
-    "stars": 246,
+    "stars": 278,
     "name": "hemanth/paws-on-mcp",
     "url": "https://github.com/hemanth/paws-on-mcp",
     "lang": "Python",
     "desc": "A comprehensive Model Context Protocol (MCP) server implementing the latest specification."
   },
   {
+    "createdAt": "2025-06-07T06:40:11Z",
+    "stars": 262,
+    "name": "zhaijie1314521/free-cursor",
+    "url": "https://github.com/zhaijie1314521/free-cursor",
+    "lang": "",
+    "desc": "世面上唯一一款免费、无需任何梯子环境、虚拟机环境、浏览器环境旧能保持cursor pro试用永久不掉的软件"
+  },
+  {
+    "createdAt": "2025-06-11T05:19:13Z",
+    "stars": 254,
+    "name": "NodeSeekDev/nlist",
+    "url": "https://github.com/NodeSeekDev/nlist",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-06T21:06:30Z",
+    "stars": 253,
+    "name": "openai/openai-testing-agent-demo",
+    "url": "https://github.com/openai/openai-testing-agent-demo",
+    "lang": "TypeScript",
+    "desc": "Demo of a UI testing agent using the OpenAI CUA model and the Responses API."
+  },
+  {
     "createdAt": "2025-06-06T20:59:50Z",
-    "stars": 237,
+    "stars": 238,
     "name": "mufasaYC/Dragula",
     "url": "https://github.com/mufasaYC/Dragula",
     "lang": "Swift",
@@ -137,47 +193,15 @@
   },
   {
     "createdAt": "2025-06-07T00:31:13Z",
-    "stars": 231,
+    "stars": 234,
     "name": "8090-inc/top-coder-challenge",
     "url": "https://github.com/8090-inc/top-coder-challenge",
     "lang": "Shell",
     "desc": "go the distance"
   },
   {
-    "createdAt": "2025-06-07T06:40:11Z",
-    "stars": 229,
-    "name": "zhaijie1314521/free-cursor",
-    "url": "https://github.com/zhaijie1314521/free-cursor",
-    "lang": "",
-    "desc": "世面上唯一一款免费、无需任何梯子环境、虚拟机环境、浏览器环境旧能保持cursor pro试用永久不掉的软件"
-  },
-  {
-    "createdAt": "2025-06-04T11:41:58Z",
-    "stars": 221,
-    "name": "2-fly-4-ai/awesome-shadcnui",
-    "url": "https://github.com/2-fly-4-ai/awesome-shadcnui",
-    "lang": "",
-    "desc": "The largest list online of awesome things related to shadcn/ui"
-  },
-  {
-    "createdAt": "2025-06-05T07:35:25Z",
-    "stars": 219,
-    "name": "memononen/Skribidi",
-    "url": "https://github.com/memononen/Skribidi",
-    "lang": "C",
-    "desc": "Nimble bidirectional text stack for UIs"
-  },
-  {
-    "createdAt": "2025-06-04T17:48:29Z",
-    "stars": 216,
-    "name": "Quentin-Anthony/nanoMPI",
-    "url": "https://github.com/Quentin-Anthony/nanoMPI",
-    "lang": "C",
-    "desc": "Simple MPI implementation for prototyping or learning"
-  },
-  {
     "createdAt": "2025-06-05T02:20:58Z",
-    "stars": 209,
+    "stars": 230,
     "name": "assetnote/newtowner",
     "url": "https://github.com/assetnote/newtowner",
     "lang": "Go",
@@ -185,99 +209,99 @@
   },
   {
     "createdAt": "2025-06-05T01:06:56Z",
-    "stars": 199,
+    "stars": 228,
     "name": "WangHelin1997/CapSpeech",
     "url": "https://github.com/WangHelin1997/CapSpeech",
     "lang": "Jupyter Notebook",
     "desc": "CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech"
   },
   {
-    "createdAt": "2025-06-05T09:52:40Z",
-    "stars": 190,
-    "name": "fairpm/fair-plugin",
-    "url": "https://github.com/fairpm/fair-plugin",
-    "lang": "PHP",
-    "desc": "FAIR plugin"
-  },
-  {
-    "createdAt": "2025-06-08T21:22:15Z",
-    "stars": 187,
-    "name": "ludoguenet/laravel-zap",
-    "url": "https://github.com/ludoguenet/laravel-zap",
-    "lang": "PHP",
-    "desc": "Lightning-fast schedule management for Laravel"
-  },
-  {
-    "createdAt": "2025-06-04T09:34:55Z",
-    "stars": 185,
-    "name": "AIDotNet/auto-prompt",
-    "url": "https://github.com/AIDotNet/auto-prompt",
-    "lang": "TypeScript",
-    "desc": "AI Prompt Optimization Platform is a professional prompt engineering tool designed to help users optimize AI model prompts, enhancing the effectiveness and accuracy of AI interactions. The platform integrates intelligent optimization algorithms, deep reasoning analysis, visualization debugging tools, and community sharing features, providing compre"
-  },
-  {
-    "createdAt": "2025-06-11T05:19:13Z",
-    "stars": 185,
-    "name": "NodeSeekDev/nlist",
-    "url": "https://github.com/NodeSeekDev/nlist",
-    "lang": "Go",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-04T02:42:56Z",
-    "stars": 184,
-    "name": "gstory0404/Cinetry",
-    "url": "https://github.com/gstory0404/Cinetry",
-    "lang": "",
-    "desc": "Cinetry播放器，Jellyfin、Emby、CMS数据导入，服务器一键切换，多服务器数据聚合搜索，支持Andorid、iOS、Windows、macOS、Linux"
+    "createdAt": "2025-06-05T07:35:25Z",
+    "stars": 222,
+    "name": "memononen/Skribidi",
+    "url": "https://github.com/memononen/Skribidi",
+    "lang": "C",
+    "desc": "Nimble bidirectional text stack for UIs"
   },
   {
     "createdAt": "2025-06-09T05:50:54Z",
-    "stars": 180,
+    "stars": 214,
     "name": "NVNTLabs/switch2-SDEX2M2",
     "url": "https://github.com/NVNTLabs/switch2-SDEX2M2",
     "lang": "",
     "desc": "Micro SD Express to M.2 NVME Adapter for Nintendo Switch 2"
   },
   {
-    "createdAt": "2025-06-05T22:25:46Z",
-    "stars": 179,
-    "name": "conimade/quant_trade",
-    "url": "https://github.com/conimade/quant_trade",
-    "lang": "Python",
-    "desc": "量化代码"
+    "createdAt": "2025-06-08T21:22:15Z",
+    "stars": 212,
+    "name": "ludoguenet/laravel-zap",
+    "url": "https://github.com/ludoguenet/laravel-zap",
+    "lang": "PHP",
+    "desc": "Lightning-fast schedule management for Laravel"
   },
   {
     "createdAt": "2025-06-09T15:11:41Z",
-    "stars": 179,
+    "stars": 212,
     "name": "nishimoto265/Claude-Code-Communication",
     "url": "https://github.com/nishimoto265/Claude-Code-Communication",
     "lang": "Shell",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-04T04:56:57Z",
-    "stars": 175,
-    "name": "Trans-N-ai/swama",
-    "url": "https://github.com/Trans-N-ai/swama",
-    "lang": "Swift",
-    "desc": "High-performance MLX-based LLM inference engine for macOS with native Swift implementation"
+    "createdAt": "2025-06-11T16:14:21Z",
+    "stars": 208,
+    "name": "midudev/landing-gta-vi",
+    "url": "https://github.com/midudev/landing-gta-vi",
+    "lang": "Astro",
+    "desc": "Landing page de GTA VI para fines educativos"
   },
   {
-    "createdAt": "2025-06-11T09:54:16Z",
-    "stars": 170,
-    "name": "shuding/liquid-glass",
-    "url": "https://github.com/shuding/liquid-glass",
+    "createdAt": "2025-06-05T22:25:46Z",
+    "stars": 198,
+    "name": "conimade/quant_trade",
+    "url": "https://github.com/conimade/quant_trade",
+    "lang": "Python",
+    "desc": "量化代码"
+  },
+  {
+    "createdAt": "2025-06-05T09:52:40Z",
+    "stars": 195,
+    "name": "fairpm/fair-plugin",
+    "url": "https://github.com/fairpm/fair-plugin",
+    "lang": "PHP",
+    "desc": "FAIR plugin"
+  },
+  {
+    "createdAt": "2025-06-08T11:56:50Z",
+    "stars": 180,
+    "name": "ezshine/twitterxdownload",
+    "url": "https://github.com/ezshine/twitterxdownload",
     "lang": "JavaScript",
-    "desc": ""
+    "desc": "a powerful twitter video downloader and twitter marketing tool."
+  },
+  {
+    "createdAt": "2025-06-11T06:47:57Z",
+    "stars": 177,
+    "name": "perrypixel/10x-Tool-Calls",
+    "url": "https://github.com/perrypixel/10x-Tool-Calls",
+    "lang": "Python",
+    "desc": "10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests."
   },
   {
     "createdAt": "2025-06-05T13:19:45Z",
-    "stars": 166,
+    "stars": 175,
     "name": "chainguard-dev/kaniko",
     "url": "https://github.com/chainguard-dev/kaniko",
     "lang": "Go",
     "desc": "Build Container Images In Kubernetes"
+  },
+  {
+    "createdAt": "2025-06-09T16:22:14Z",
+    "stars": 166,
+    "name": "GeeeekExplorer/nano-vllm",
+    "url": "https://github.com/GeeeekExplorer/nano-vllm",
+    "lang": "Python",
+    "desc": "Nano vLLM"
   },
   {
     "createdAt": "2025-06-06T22:00:11Z",
@@ -288,20 +312,52 @@
     "desc": "Apex Cheat is an undetected Apex Legends Cheat including Apex Aimbot, ESP overlays, and a full HWID Spoofer. Ideal for personal use and studying how Apex Legends Aimbot systems and cheat tools are built and executed in live environments."
   },
   {
-    "createdAt": "2025-06-07T11:21:19Z",
-    "stars": 143,
-    "name": "tyreme/GrassBot",
-    "url": "https://github.com/tyreme/GrassBot",
-    "lang": "Python",
-    "desc": "bot for automated grass farming"
+    "createdAt": "2025-06-09T09:07:06Z",
+    "stars": 154,
+    "name": "hangwin/mcp-chrome",
+    "url": "https://github.com/hangwin/mcp-chrome",
+    "lang": "TypeScript",
+    "desc": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search."
+  },
+  {
+    "createdAt": "2025-06-06T22:27:22Z",
+    "stars": 151,
+    "name": "mapbox/mcp-server",
+    "url": "https://github.com/mapbox/mcp-server",
+    "lang": "TypeScript",
+    "desc": "Mapbox Model Context Protocol (MCP) server"
+  },
+  {
+    "createdAt": "2025-06-09T19:29:16Z",
+    "stars": 148,
+    "name": "rudrankriyam/Foundation-Models-Framework-Example",
+    "url": "https://github.com/rudrankriyam/Foundation-Models-Framework-Example",
+    "lang": "Swift",
+    "desc": "Example apps for Foundation Models Framework in iOS 26 and macOS 26"
   },
   {
     "createdAt": "2025-06-06T12:20:04Z",
-    "stars": 139,
+    "stars": 144,
     "name": "OpenAiTx/OpenAiTx",
     "url": "https://github.com/OpenAiTx/OpenAiTx",
     "lang": "C#",
     "desc": "Automatically AI translate for GitHub project into 20 languages"
+  },
+  {
+    "createdAt": "2025-06-07T16:08:00Z",
+    "stars": 143,
+    "name": "disler/infinite-agentic-loop",
+    "url": "https://github.com/disler/infinite-agentic-loop",
+    "lang": "HTML",
+    "desc": "An experimental project demonstrating Infinite Agentic Loop in a two prompt system using Claude Code."
+  },
+  {
+    "createdAt": "2025-06-07T06:11:54Z",
+    "stars": 138,
+    "name": "revfactory/claude-code-mastering",
+    "url": "https://github.com/revfactory/claude-code-mastering",
+    "lang": "JavaScript",
+    "desc": ""
   },
   {
     "createdAt": "2025-06-06T17:10:22Z",
@@ -312,28 +368,20 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-06-04T14:11:31Z",
-    "stars": 134,
-    "name": "ElusionCheats/warzone-cheat",
-    "url": "https://github.com/ElusionCheats/warzone-cheat",
-    "lang": "Python",
-    "desc": "Warzone Cheat is a powerful and feature-rich educational project designed to demonstrate how cheats can be built for Call of Duty: Warzone. Includes fully functional modules such as Aimbot, ESP, Wallhack, Triggerbot, and No Recoil. Each module is built to be customizable, with code optimized for low latency"
-  },
-  {
-    "createdAt": "2025-06-09T19:29:16Z",
-    "stars": 133,
-    "name": "rudrankriyam/Foundation-Models-Framework-Example",
-    "url": "https://github.com/rudrankriyam/Foundation-Models-Framework-Example",
-    "lang": "Swift",
-    "desc": "Example apps for Foundation Models Framework in iOS 26 and macOS 26"
-  },
-  {
-    "createdAt": "2025-06-07T06:11:54Z",
+    "createdAt": "2025-06-05T05:16:03Z",
     "stars": 131,
-    "name": "revfactory/claude-code-mastering",
-    "url": "https://github.com/revfactory/claude-code-mastering",
-    "lang": "JavaScript",
-    "desc": ""
+    "name": "Afilmory/Afilmory",
+    "url": "https://github.com/Afilmory/Afilmory",
+    "lang": "TypeScript",
+    "desc": "A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory."
+  },
+  {
+    "createdAt": "2025-06-05T14:26:08Z",
+    "stars": 129,
+    "name": "mswjs/playwright",
+    "url": "https://github.com/mswjs/playwright",
+    "lang": "TypeScript",
+    "desc": "Mock Service Worker binding for Playwright."
   },
   {
     "createdAt": "2025-06-07T06:09:38Z",
@@ -344,59 +392,11 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-06-05T14:26:08Z",
-    "stars": 127,
-    "name": "mswjs/playwright",
-    "url": "https://github.com/mswjs/playwright",
-    "lang": "TypeScript",
-    "desc": "Mock Service Worker binding for Playwright."
-  },
-  {
-    "createdAt": "2025-06-11T16:14:21Z",
+    "createdAt": "2025-06-07T11:21:19Z",
     "stars": 126,
-    "name": "midudev/landing-gta-vi",
-    "url": "https://github.com/midudev/landing-gta-vi",
-    "lang": "Astro",
-    "desc": "Landing page de GTA VI para fines educativos"
-  },
-  {
-    "createdAt": "2025-06-07T16:08:00Z",
-    "stars": 124,
-    "name": "disler/infinite-agentic-loop",
-    "url": "https://github.com/disler/infinite-agentic-loop",
-    "lang": "HTML",
-    "desc": "An experimental project demonstrating Infinite Agentic Loop in a two prompt system using Claude Code."
-  },
-  {
-    "createdAt": "2025-06-05T19:41:28Z",
-    "stars": 123,
-    "name": "dkorecko/Ticky",
-    "url": "https://github.com/dkorecko/Ticky",
-    "lang": "HTML",
-    "desc": "Modern and free Kanban board app"
-  },
-  {
-    "createdAt": "2025-06-08T00:08:11Z",
-    "stars": 117,
-    "name": "Shivam5022/Interview-Experiences",
-    "url": "https://github.com/Shivam5022/Interview-Experiences",
-    "lang": "",
-    "desc": "Shivam's Interview Experiences"
-  },
-  {
-    "createdAt": "2025-06-06T22:27:22Z",
-    "stars": 115,
-    "name": "mapbox/mcp-server",
-    "url": "https://github.com/mapbox/mcp-server",
-    "lang": "TypeScript",
-    "desc": "Mapbox Model Context Protocol (MCP) server"
-  },
-  {
-    "createdAt": "2025-06-05T06:39:22Z",
-    "stars": 111,
-    "name": "zjyz20240101/pycharm-portable-rev",
-    "url": "https://github.com/zjyz20240101/pycharm-portable-rev",
-    "lang": "Go",
-    "desc": "Portable PyCharm"
+    "name": "tyreme/GrassBot",
+    "url": "https://github.com/tyreme/GrassBot",
+    "lang": "Python",
+    "desc": "bot for automated grass farming"
   }
 ]
