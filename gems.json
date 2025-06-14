@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-06-11T23:35:02Z",
-    "stars": 3242,
+    "stars": 4415,
     "name": "OpenListTeam/OpenList",
     "url": "https://github.com/OpenListTeam/OpenList",
     "lang": "Go",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-06-11T05:50:39Z",
-    "stars": 2322,
+    "stars": 2666,
     "name": "AasishPokhrel/shit",
     "url": "https://github.com/AasishPokhrel/shit",
     "lang": "",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-06-08T15:36:50Z",
-    "stars": 1352,
+    "stars": 1574,
     "name": "BeehiveInnovations/zen-mcp-server",
     "url": "https://github.com/BeehiveInnovations/zen-mcp-server",
     "lang": "Python",
@@ -25,7 +25,7 @@
   },
   {
     "createdAt": "2025-06-10T22:48:35Z",
-    "stars": 1328,
+    "stars": 1453,
     "name": "rdev/liquid-glass-react",
     "url": "https://github.com/rdev/liquid-glass-react",
     "lang": "TypeScript",
@@ -33,31 +33,31 @@
   },
   {
     "createdAt": "2025-06-09T05:33:40Z",
-    "stars": 984,
+    "stars": 1313,
     "name": "guandeh17/Self-Forcing",
     "url": "https://github.com/guandeh17/Self-Forcing",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-08T00:11:28Z",
-    "stars": 910,
-    "name": "supermemoryai/supermemory-mcp",
-    "url": "https://github.com/supermemoryai/supermemory-mcp",
-    "lang": "TypeScript",
-    "desc": "Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up."
-  },
-  {
     "createdAt": "2025-06-09T16:22:14Z",
-    "stars": 910,
+    "stars": 1105,
     "name": "GeeeekExplorer/nano-vllm",
     "url": "https://github.com/GeeeekExplorer/nano-vllm",
     "lang": "Python",
     "desc": "Nano vLLM"
   },
   {
+    "createdAt": "2025-06-08T00:11:28Z",
+    "stars": 933,
+    "name": "supermemoryai/supermemory-mcp",
+    "url": "https://github.com/supermemoryai/supermemory-mcp",
+    "lang": "TypeScript",
+    "desc": "Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up."
+  },
+  {
     "createdAt": "2025-06-09T06:13:50Z",
-    "stars": 716,
+    "stars": 881,
     "name": "wgsxm/PartCrafter",
     "url": "https://github.com/wgsxm/PartCrafter",
     "lang": "",
@@ -65,79 +65,63 @@
   },
   {
     "createdAt": "2025-06-10T14:19:48Z",
-    "stars": 541,
+    "stars": 622,
     "name": "multigres/multigres",
     "url": "https://github.com/multigres/multigres",
     "lang": "",
     "desc": "Vitess for Postgres"
   },
   {
-    "createdAt": "2025-06-06T11:39:09Z",
-    "stars": 534,
-    "name": "GalaxyGeneralRobotics/OpenWBT",
-    "url": "https://github.com/GalaxyGeneralRobotics/OpenWBT",
-    "lang": "Python",
-    "desc": "Official implementation of OpenWBT."
-  },
-  {
-    "createdAt": "2025-06-09T22:30:48Z",
-    "stars": 504,
-    "name": "lucasromerodb/liquid-glass-effect-macos",
-    "url": "https://github.com/lucasromerodb/liquid-glass-effect-macos",
-    "lang": "HTML",
-    "desc": "Demo here"
-  },
-  {
-    "createdAt": "2025-06-06T07:21:10Z",
-    "stars": 498,
-    "name": "CharlieLZ/flux-kontext-template",
-    "url": "https://github.com/CharlieLZ/flux-kontext-template",
-    "lang": "TypeScript",
-    "desc": "生财有术特供，flux-kontext开源仓库，套壳模板"
-  },
-  {
     "createdAt": "2025-06-09T01:23:09Z",
-    "stars": 493,
+    "stars": 531,
     "name": "ios12checker/Windows-Maintenance-Tool",
     "url": "https://github.com/ios12checker/Windows-Maintenance-Tool",
     "lang": "Batchfile",
     "desc": ""
   },
   {
+    "createdAt": "2025-06-09T22:30:48Z",
+    "stars": 513,
+    "name": "lucasromerodb/liquid-glass-effect-macos",
+    "url": "https://github.com/lucasromerodb/liquid-glass-effect-macos",
+    "lang": "HTML",
+    "desc": "Demo here"
+  },
+  {
     "createdAt": "2025-06-11T09:54:16Z",
-    "stars": 426,
+    "stars": 445,
     "name": "shuding/liquid-glass",
     "url": "https://github.com/shuding/liquid-glass",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-06T21:06:30Z",
-    "stars": 405,
-    "name": "openai/openai-testing-agent-demo",
-    "url": "https://github.com/openai/openai-testing-agent-demo",
-    "lang": "TypeScript",
-    "desc": "Demo of a UI testing agent using the OpenAI CUA model and the Responses API."
-  },
-  {
-    "createdAt": "2025-06-06T14:32:34Z",
-    "stars": 351,
-    "name": "mendableai/fire-enrich",
-    "url": "https://github.com/mendableai/fire-enrich",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-06-12T11:10:14Z",
-    "stars": 322,
+    "stars": 387,
     "name": "steipete/agent-rules",
     "url": "https://github.com/steipete/agent-rules",
     "lang": "Shell",
     "desc": "Rules and Knowledge to work better with agents such as Claude Code or Cursor"
   },
   {
+    "createdAt": "2025-06-13T15:45:50Z",
+    "stars": 365,
+    "name": "Tencent-Hunyuan/Hunyuan3D-2.1",
+    "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1",
+    "lang": "Python",
+    "desc": "From Images to High-Fidelity 3D Assets with Production-Ready PBR Material"
+  },
+  {
+    "createdAt": "2025-06-09T09:07:06Z",
+    "stars": 342,
+    "name": "hangwin/mcp-chrome",
+    "url": "https://github.com/hangwin/mcp-chrome",
+    "lang": "TypeScript",
+    "desc": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search."
+  },
+  {
     "createdAt": "2025-06-07T06:40:11Z",
-    "stars": 295,
+    "stars": 315,
     "name": "zhaijie1314521/free-cursor",
     "url": "https://github.com/zhaijie1314521/free-cursor",
     "lang": "",
@@ -145,43 +129,67 @@
   },
   {
     "createdAt": "2025-06-09T05:48:15Z",
-    "stars": 289,
+    "stars": 295,
     "name": "hemanth/paws-on-mcp",
     "url": "https://github.com/hemanth/paws-on-mcp",
     "lang": "Python",
     "desc": "A comprehensive Model Context Protocol (MCP) server implementing the latest specification."
   },
   {
-    "createdAt": "2025-06-11T05:19:13Z",
-    "stars": 270,
-    "name": "NodeSeekDev/nlist",
-    "url": "https://github.com/NodeSeekDev/nlist",
-    "lang": "Go",
-    "desc": ""
+    "createdAt": "2025-06-11T14:46:04Z",
+    "stars": 286,
+    "name": "justjavac/herlang",
+    "url": "https://github.com/justjavac/herlang",
+    "lang": "Rust",
+    "desc": "Her Programming Language written in Rust."
   },
   {
     "createdAt": "2025-06-11T16:14:21Z",
-    "stars": 259,
+    "stars": 278,
     "name": "midudev/landing-gta-vi",
     "url": "https://github.com/midudev/landing-gta-vi",
     "lang": "Astro",
     "desc": "Landing page de GTA VI para fines educativos"
   },
   {
+    "createdAt": "2025-06-11T05:19:13Z",
+    "stars": 277,
+    "name": "NodeSeekDev/nlist",
+    "url": "https://github.com/NodeSeekDev/nlist",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-06-08T11:56:50Z",
-    "stars": 256,
+    "stars": 275,
     "name": "ezshine/twitterxdownload",
     "url": "https://github.com/ezshine/twitterxdownload",
     "lang": "JavaScript",
     "desc": "a powerful twitter video downloader and twitter marketing tool."
   },
   {
-    "createdAt": "2025-06-06T20:59:50Z",
-    "stars": 240,
-    "name": "mufasaYC/Dragula",
-    "url": "https://github.com/mufasaYC/Dragula",
-    "lang": "Swift",
-    "desc": "A delightfully flexible and smooth drag-and-drop Swift package for building reorderable interfaces in SwiftUI"
+    "createdAt": "2025-06-09T15:11:41Z",
+    "stars": 244,
+    "name": "nishimoto265/Claude-Code-Communication",
+    "url": "https://github.com/nishimoto265/Claude-Code-Communication",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-08T21:22:15Z",
+    "stars": 239,
+    "name": "ludoguenet/laravel-zap",
+    "url": "https://github.com/ludoguenet/laravel-zap",
+    "lang": "PHP",
+    "desc": "Lightning-fast schedule management for Laravel"
+  },
+  {
+    "createdAt": "2025-06-09T05:50:54Z",
+    "stars": 235,
+    "name": "NVNTLabs/switch2-SDEX2M2",
+    "url": "https://github.com/NVNTLabs/switch2-SDEX2M2",
+    "lang": "",
+    "desc": "Micro SD Express to M.2 NVME Adapter for Nintendo Switch 2"
   },
   {
     "createdAt": "2025-06-07T00:31:13Z",
@@ -192,148 +200,124 @@
     "desc": "go the distance"
   },
   {
-    "createdAt": "2025-06-08T21:22:15Z",
-    "stars": 230,
-    "name": "ludoguenet/laravel-zap",
-    "url": "https://github.com/ludoguenet/laravel-zap",
-    "lang": "PHP",
-    "desc": "Lightning-fast schedule management for Laravel"
-  },
-  {
-    "createdAt": "2025-06-09T05:50:54Z",
-    "stars": 228,
-    "name": "NVNTLabs/switch2-SDEX2M2",
-    "url": "https://github.com/NVNTLabs/switch2-SDEX2M2",
-    "lang": "",
-    "desc": "Micro SD Express to M.2 NVME Adapter for Nintendo Switch 2"
-  },
-  {
-    "createdAt": "2025-06-09T15:11:41Z",
-    "stars": 228,
-    "name": "nishimoto265/Claude-Code-Communication",
-    "url": "https://github.com/nishimoto265/Claude-Code-Communication",
-    "lang": "Shell",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-11T14:46:04Z",
-    "stars": 223,
-    "name": "justjavac/herlang",
-    "url": "https://github.com/justjavac/herlang",
-    "lang": "Rust",
-    "desc": "Her Programming Language written in Rust."
-  },
-  {
-    "createdAt": "2025-06-06T16:04:32Z",
-    "stars": 214,
-    "name": "tbphp/gpt-load",
-    "url": "https://github.com/tbphp/gpt-load",
-    "lang": "Go",
-    "desc": "一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go."
-  },
-  {
     "createdAt": "2025-06-11T06:47:57Z",
-    "stars": 197,
+    "stars": 212,
     "name": "perrypixel/10x-Tool-Calls",
     "url": "https://github.com/perrypixel/10x-Tool-Calls",
     "lang": "Python",
     "desc": "10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests."
   },
   {
+    "createdAt": "2025-06-09T03:31:49Z",
+    "stars": 204,
+    "name": "MicrosoftDocs/mcp",
+    "url": "https://github.com/MicrosoftDocs/mcp",
+    "lang": "",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-06-09T19:29:16Z",
-    "stars": 189,
+    "stars": 203,
     "name": "rudrankriyam/Foundation-Models-Framework-Example",
     "url": "https://github.com/rudrankriyam/Foundation-Models-Framework-Example",
     "lang": "Swift",
     "desc": "Example apps for Foundation Models Framework in iOS 26 and macOS 26"
   },
   {
-    "createdAt": "2025-06-09T09:07:06Z",
-    "stars": 180,
-    "name": "hangwin/mcp-chrome",
-    "url": "https://github.com/hangwin/mcp-chrome",
-    "lang": "TypeScript",
-    "desc": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search."
-  },
-  {
-    "createdAt": "2025-06-06T22:27:22Z",
-    "stars": 166,
-    "name": "mapbox/mcp-server",
-    "url": "https://github.com/mapbox/mcp-server",
-    "lang": "TypeScript",
-    "desc": "Mapbox Model Context Protocol (MCP) server"
-  },
-  {
-    "createdAt": "2025-06-06T22:00:11Z",
-    "stars": 155,
-    "name": "apex-undetected/Apex-Cheat",
-    "url": "https://github.com/apex-undetected/Apex-Cheat",
+    "createdAt": "2025-06-13T20:21:29Z",
+    "stars": 187,
+    "name": "valorant-undetected/valorant-best-cheat",
+    "url": "https://github.com/valorant-undetected/valorant-best-cheat",
     "lang": "Python",
-    "desc": "Apex Cheat is an undetected Apex Legends Cheat including Apex Aimbot, ESP overlays, and a full HWID Spoofer. Ideal for personal use and studying how Apex Legends Aimbot systems and cheat tools are built and executed in live environments."
-  },
-  {
-    "createdAt": "2025-06-07T16:08:00Z",
-    "stars": 151,
-    "name": "disler/infinite-agentic-loop",
-    "url": "https://github.com/disler/infinite-agentic-loop",
-    "lang": "HTML",
-    "desc": "An experimental project demonstrating Infinite Agentic Loop in a two prompt system using Claude Code."
-  },
-  {
-    "createdAt": "2025-06-06T12:20:04Z",
-    "stars": 146,
-    "name": "OpenAiTx/OpenAiTx",
-    "url": "https://github.com/OpenAiTx/OpenAiTx",
-    "lang": "C#",
-    "desc": "Automatically AI translate for GitHub project into 20 languages"
+    "desc": "Valorant Cheat includes undetected ESP, a legit-mode aimbot, radar, unlock all, and a secure HWID spoofer. Full StreamerMode support, modular code, and prediction-based aim system make it ideal for security researchers and cheat developers on Windows 10/11."
   },
   {
     "createdAt": "2025-06-07T04:15:04Z",
-    "stars": 146,
+    "stars": 175,
     "name": "dai-motoki/haconiwa",
     "url": "https://github.com/dai-motoki/haconiwa",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-07T06:11:54Z",
-    "stars": 143,
-    "name": "revfactory/claude-code-mastering",
-    "url": "https://github.com/revfactory/claude-code-mastering",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-06T17:10:22Z",
-    "stars": 137,
-    "name": "jychen6688/slint_music_player",
-    "url": "https://github.com/jychen6688/slint_music_player",
-    "lang": "Slint",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-07T12:17:08Z",
-    "stars": 136,
-    "name": "nonamev-ls/SCIE_MCE",
-    "url": "https://github.com/nonamev-ls/SCIE_MCE",
-    "lang": "Python",
-    "desc": "Major Color Extract using SWASA and S-CIELAB"
-  },
-  {
     "createdAt": "2025-06-11T13:15:50Z",
-    "stars": 135,
+    "stars": 172,
     "name": "pickles4evaaaa/bibliotheca",
     "url": "https://github.com/pickles4evaaaa/bibliotheca",
     "lang": "Python",
     "desc": "Track your reading habits, log books, and visualize your library—all in your own space."
   },
   {
+    "createdAt": "2025-06-11T21:33:43Z",
+    "stars": 168,
+    "name": "anthropics/claude-code-sdk-python",
+    "url": "https://github.com/anthropics/claude-code-sdk-python",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-07T12:17:08Z",
+    "stars": 160,
+    "name": "nonamev-ls/SCIE_MCE",
+    "url": "https://github.com/nonamev-ls/SCIE_MCE",
+    "lang": "Python",
+    "desc": "Major Color Extract using SWASA and S-CIELAB"
+  },
+  {
+    "createdAt": "2025-06-07T16:08:00Z",
+    "stars": 160,
+    "name": "disler/infinite-agentic-loop",
+    "url": "https://github.com/disler/infinite-agentic-loop",
+    "lang": "HTML",
+    "desc": "An experimental project demonstrating Infinite Agentic Loop in a two prompt system using Claude Code."
+  },
+  {
+    "createdAt": "2025-06-13T01:27:43Z",
+    "stars": 147,
+    "name": "Continual-Intelligence/SEAL",
+    "url": "https://github.com/Continual-Intelligence/SEAL",
+    "lang": "Python",
+    "desc": "Self-Adapting Language Models"
+  },
+  {
+    "createdAt": "2025-06-07T06:11:54Z",
+    "stars": 145,
+    "name": "revfactory/claude-code-mastering",
+    "url": "https://github.com/revfactory/claude-code-mastering",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-06-10T02:59:30Z",
-    "stars": 135,
+    "stars": 139,
     "name": "PallavAg/Apple-Intelligence-Chat",
     "url": "https://github.com/PallavAg/Apple-Intelligence-Chat",
     "lang": "Swift",
     "desc": "Chat with Apple Intelligence using the Foundation Models Framework"
+  },
+  {
+    "createdAt": "2025-06-08T14:11:56Z",
+    "stars": 136,
+    "name": "Techwolf12/qrkey",
+    "url": "https://github.com/Techwolf12/qrkey",
+    "lang": "Go",
+    "desc": "qrkey is a command-line tool for generating and recovering QR codes from files for offline private key backup."
+  },
+  {
+    "createdAt": "2025-06-10T23:22:34Z",
+    "stars": 134,
+    "name": "RaiAnsar/claude_code-gemini-mcp",
+    "url": "https://github.com/RaiAnsar/claude_code-gemini-mcp",
+    "lang": "Python",
+    "desc": "Simplified Gemini for Claude Code. "
+  },
+  {
+    "createdAt": "2025-06-10T14:55:40Z",
+    "stars": 131,
+    "name": "ktiays/GlassExplorer",
+    "url": "https://github.com/ktiays/GlassExplorer",
+    "lang": "Swift",
+    "desc": "iOS 26 private glass effect explorer."
   },
   {
     "createdAt": "2025-06-07T06:09:38Z",
@@ -344,40 +328,32 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-06-06T05:29:48Z",
-    "stars": 129,
-    "name": "johansan/notebook-navigator",
-    "url": "https://github.com/johansan/notebook-navigator",
-    "lang": "TypeScript",
-    "desc": "Replace the default file explorer with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options."
-  },
-  {
-    "createdAt": "2025-06-10T23:22:34Z",
+    "createdAt": "2025-06-11T09:43:04Z",
     "stars": 128,
-    "name": "RaiAnsar/claude_code-gemini-mcp",
-    "url": "https://github.com/RaiAnsar/claude_code-gemini-mcp",
-    "lang": "Python",
-    "desc": "Simplified Gemini for Claude Code. "
-  },
-  {
-    "createdAt": "2025-06-10T14:55:40Z",
-    "stars": 127,
-    "name": "ktiays/GlassExplorer",
-    "url": "https://github.com/ktiays/GlassExplorer",
-    "lang": "Swift",
-    "desc": "iOS 26 private glass effect explorer."
+    "name": "archisvaze/liquid-glass",
+    "url": "https://github.com/archisvaze/liquid-glass",
+    "lang": "HTML",
+    "desc": ""
   },
   {
     "createdAt": "2025-06-10T10:50:28Z",
-    "stars": 123,
+    "stars": 128,
     "name": "SaadAhla/dark-kill",
     "url": "https://github.com/SaadAhla/dark-kill",
     "lang": "C++",
     "desc": "A user-mode code and its rootkit that will Kill EDR Processes permanently by leveraging the power of Process Creation Blocking Kernel Callback Routine registering and ZwTerminateProcess. "
   },
   {
+    "createdAt": "2025-06-08T13:20:56Z",
+    "stars": 127,
+    "name": "UCYBERS/Awesome-Blackhat-Tools",
+    "url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
+    "lang": "",
+    "desc": "A curated list of tools officially presented at Black Hat events"
+  },
+  {
     "createdAt": "2025-06-08T00:08:11Z",
-    "stars": 123,
+    "stars": 125,
     "name": "Shivam5022/Interview-Experiences",
     "url": "https://github.com/Shivam5022/Interview-Experiences",
     "lang": "",
@@ -385,18 +361,42 @@
   },
   {
     "createdAt": "2025-06-10T12:06:11Z",
-    "stars": 121,
+    "stars": 124,
     "name": "HdShare/NullAvatar",
     "url": "https://github.com/HdShare/NullAvatar",
     "lang": "Kotlin",
     "desc": "NullAvatar Source"
   },
   {
-    "createdAt": "2025-06-07T11:45:35Z",
-    "stars": 113,
-    "name": "tyreme/MonadTestnet-Bot",
-    "url": "https://github.com/tyreme/MonadTestnet-Bot",
+    "createdAt": "2025-06-13T18:26:56Z",
+    "stars": 123,
+    "name": "rajivharlalka/filedb",
+    "url": "https://github.com/rajivharlalka/filedb",
+    "lang": "Zig",
+    "desc": "Disk Based Key-Value Store Inspired by Bitcask "
+  },
+  {
+    "createdAt": "2025-06-07T15:45:42Z",
+    "stars": 121,
+    "name": "jiegec/Termony",
+    "url": "https://github.com/jiegec/Termony",
+    "lang": "C++",
+    "desc": "Termux for HarmonyOS Computer. Working in Progress."
+  },
+  {
+    "createdAt": "2025-06-11T13:36:28Z",
+    "stars": 120,
+    "name": "nvidia-cosmos/cosmos-predict2",
+    "url": "https://github.com/nvidia-cosmos/cosmos-predict2",
     "lang": "Python",
-    "desc": "Monad testnet farm bot"
+    "desc": "Cosmos-Predict2 is a collection of general-purpose world foundation models for Physical AI that can be fine-tuned into customized world models for downstream applications."
+  },
+  {
+    "createdAt": "2025-06-09T06:41:52Z",
+    "stars": 118,
+    "name": "UniFlowMatch/UFM",
+    "url": "https://github.com/UniFlowMatch/UFM",
+    "lang": "Python",
+    "desc": "UFM: A Unified Dense Image Correspondence Estimator for both Optical Flow & Wide Baseline Matching Tasks. Matches any pair of images."
   }
 ]
