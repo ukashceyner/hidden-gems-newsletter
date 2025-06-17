@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-06-11T23:35:02Z",
-    "stars": 5846,
+    "stars": 6624,
     "name": "OpenListTeam/OpenList",
     "url": "https://github.com/OpenListTeam/OpenList",
     "lang": "Go",
@@ -9,55 +9,39 @@
   },
   {
     "createdAt": "2025-06-11T05:50:39Z",
-    "stars": 3083,
+    "stars": 3192,
     "name": "AasishPokhrel/shit",
     "url": "https://github.com/AasishPokhrel/shit",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-09T05:33:40Z",
-    "stars": 1941,
-    "name": "guandeh17/Self-Forcing",
-    "url": "https://github.com/guandeh17/Self-Forcing",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-06-10T22:48:35Z",
-    "stars": 1756,
+    "stars": 2024,
     "name": "rdev/liquid-glass-react",
     "url": "https://github.com/rdev/liquid-glass-react",
     "lang": "TypeScript",
     "desc": "Apple's Liquid Glass effect for React"
   },
   {
-    "createdAt": "2025-06-09T16:22:14Z",
-    "stars": 1442,
-    "name": "GeeeekExplorer/nano-vllm",
-    "url": "https://github.com/GeeeekExplorer/nano-vllm",
-    "lang": "Python",
-    "desc": "Nano vLLM"
-  },
-  {
-    "createdAt": "2025-06-09T06:13:50Z",
-    "stars": 1281,
-    "name": "wgsxm/PartCrafter",
-    "url": "https://github.com/wgsxm/PartCrafter",
-    "lang": "",
-    "desc": "PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers"
-  },
-  {
     "createdAt": "2025-06-12T11:10:14Z",
-    "stars": 908,
+    "stars": 1192,
     "name": "steipete/agent-rules",
     "url": "https://github.com/steipete/agent-rules",
     "lang": "Shell",
     "desc": "Rules and Knowledge to work better with agents such as Claude Code or Cursor"
   },
   {
+    "createdAt": "2025-06-16T17:33:44Z",
+    "stars": 1033,
+    "name": "NirDiamant/agents-towards-production",
+    "url": "https://github.com/NirDiamant/agents-towards-production",
+    "lang": "Jupyter Notebook",
+    "desc": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches."
+  },
+  {
     "createdAt": "2025-06-13T15:45:50Z",
-    "stars": 757,
+    "stars": 911,
     "name": "Tencent-Hunyuan/Hunyuan3D-2.1",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1",
     "lang": "Python",
@@ -65,39 +49,23 @@
   },
   {
     "createdAt": "2025-06-10T14:19:48Z",
-    "stars": 705,
+    "stars": 743,
     "name": "multigres/multigres",
     "url": "https://github.com/multigres/multigres",
     "lang": "",
     "desc": "Vitess for Postgres"
   },
   {
-    "createdAt": "2025-06-09T01:23:09Z",
-    "stars": 621,
-    "name": "ios12checker/Windows-Maintenance-Tool",
-    "url": "https://github.com/ios12checker/Windows-Maintenance-Tool",
-    "lang": "Batchfile",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-09T09:07:06Z",
-    "stars": 602,
-    "name": "hangwin/mcp-chrome",
-    "url": "https://github.com/hangwin/mcp-chrome",
-    "lang": "TypeScript",
-    "desc": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search."
-  },
-  {
-    "createdAt": "2025-06-09T22:30:48Z",
-    "stars": 531,
-    "name": "lucasromerodb/liquid-glass-effect-macos",
-    "url": "https://github.com/lucasromerodb/liquid-glass-effect-macos",
-    "lang": "HTML",
-    "desc": "Demo here"
+    "createdAt": "2025-06-14T08:54:06Z",
+    "stars": 577,
+    "name": "MiniMax-AI/MiniMax-M1",
+    "url": "https://github.com/MiniMax-AI/MiniMax-M1",
+    "lang": "Python",
+    "desc": "MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model."
   },
   {
     "createdAt": "2025-06-11T09:54:16Z",
-    "stars": 480,
+    "stars": 501,
     "name": "shuding/liquid-glass",
     "url": "https://github.com/shuding/liquid-glass",
     "lang": "JavaScript",
@@ -105,7 +73,7 @@
   },
   {
     "createdAt": "2025-06-11T21:33:43Z",
-    "stars": 373,
+    "stars": 448,
     "name": "anthropics/claude-code-sdk-python",
     "url": "https://github.com/anthropics/claude-code-sdk-python",
     "lang": "Python",
@@ -113,75 +81,83 @@
   },
   {
     "createdAt": "2025-06-11T14:46:04Z",
-    "stars": 355,
+    "stars": 381,
     "name": "justjavac/herlang",
     "url": "https://github.com/justjavac/herlang",
     "lang": "Rust",
     "desc": "Her Programming Language written in Rust."
   },
   {
-    "createdAt": "2025-06-11T16:14:21Z",
-    "stars": 314,
-    "name": "midudev/landing-gta-vi",
-    "url": "https://github.com/midudev/landing-gta-vi",
-    "lang": "Astro",
-    "desc": "Landing page de GTA VI para fines educativos"
-  },
-  {
-    "createdAt": "2025-06-09T05:48:15Z",
-    "stars": 309,
-    "name": "hemanth/paws-on-mcp",
-    "url": "https://github.com/hemanth/paws-on-mcp",
-    "lang": "Python",
-    "desc": "A comprehensive Model Context Protocol (MCP) server implementing the latest specification."
-  },
-  {
-    "createdAt": "2025-06-09T03:31:49Z",
-    "stars": 294,
-    "name": "MicrosoftDocs/mcp",
-    "url": "https://github.com/MicrosoftDocs/mcp",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-11T05:19:13Z",
-    "stars": 287,
-    "name": "NodeSeekDev/nlist",
-    "url": "https://github.com/NodeSeekDev/nlist",
-    "lang": "Go",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-13T01:27:43Z",
-    "stars": 277,
-    "name": "Continual-Intelligence/SEAL",
-    "url": "https://github.com/Continual-Intelligence/SEAL",
-    "lang": "Python",
-    "desc": "Self-Adapting Language Models"
-  },
-  {
-    "createdAt": "2025-06-09T15:11:41Z",
-    "stars": 270,
-    "name": "nishimoto265/Claude-Code-Communication",
-    "url": "https://github.com/nishimoto265/Claude-Code-Communication",
-    "lang": "Shell",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-06-11T06:47:57Z",
-    "stars": 263,
+    "stars": 361,
     "name": "perrypixel/10x-Tool-Calls",
     "url": "https://github.com/perrypixel/10x-Tool-Calls",
     "lang": "Python",
     "desc": "10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests."
   },
   {
-    "createdAt": "2025-06-09T05:50:54Z",
-    "stars": 249,
-    "name": "NVNTLabs/switch2-SDEX2M2",
-    "url": "https://github.com/NVNTLabs/switch2-SDEX2M2",
+    "createdAt": "2025-06-15T17:28:56Z",
+    "stars": 352,
+    "name": "gety-ai/apple-on-device-openai",
+    "url": "https://github.com/gety-ai/apple-on-device-openai",
+    "lang": "Swift",
+    "desc": "OpenAI-compatible API server for Apple on-device models"
+  },
+  {
+    "createdAt": "2025-06-13T01:27:43Z",
+    "stars": 324,
+    "name": "Continual-Intelligence/SEAL",
+    "url": "https://github.com/Continual-Intelligence/SEAL",
+    "lang": "Python",
+    "desc": "Self-Adapting Language Models"
+  },
+  {
+    "createdAt": "2025-06-11T16:14:21Z",
+    "stars": 319,
+    "name": "midudev/landing-gta-vi",
+    "url": "https://github.com/midudev/landing-gta-vi",
+    "lang": "Astro",
+    "desc": "Landing page de GTA VI para fines educativos"
+  },
+  {
+    "createdAt": "2025-06-11T05:19:13Z",
+    "stars": 292,
+    "name": "NodeSeekDev/nlist",
+    "url": "https://github.com/NodeSeekDev/nlist",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-13T12:15:14Z",
+    "stars": 286,
+    "name": "mverschu/CVE-2025-33073",
+    "url": "https://github.com/mverschu/CVE-2025-33073",
+    "lang": "Python",
+    "desc": "PoC Exploit for the NTLM reflection SMB flaw."
+  },
+  {
+    "createdAt": "2025-06-14T16:07:53Z",
+    "stars": 275,
+    "name": "HeyNina101/generative_ai_project",
+    "url": "https://github.com/HeyNina101/generative_ai_project",
     "lang": "",
-    "desc": "Micro SD Express to M.2 NVME Adapter for Nintendo Switch 2"
+    "desc": "A production-ready template to kickstart your Generative AI projects with structure and scalability in mind."
+  },
+  {
+    "createdAt": "2025-06-11T13:15:50Z",
+    "stars": 270,
+    "name": "pickles4evaaaa/bibliotheca",
+    "url": "https://github.com/pickles4evaaaa/bibliotheca",
+    "lang": "Python",
+    "desc": "Track your reading habits, log books, and visualize your library—all in your own space."
+  },
+  {
+    "createdAt": "2025-06-17T10:04:31Z",
+    "stars": 240,
+    "name": "ScrapeEmAll/Telegram-Scraper",
+    "url": "https://github.com/ScrapeEmAll/Telegram-Scraper",
+    "lang": "Python",
+    "desc": "A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data export capabilities."
   },
   {
     "createdAt": "2025-06-13T20:21:29Z",
@@ -192,56 +168,40 @@
     "desc": "Valorant Cheat includes undetected ESP, a legit-mode aimbot, radar, unlock all, and a secure HWID spoofer. Full StreamerMode support, modular code, and prediction-based aim system make it ideal for security researchers and cheat developers on Windows 10/11."
   },
   {
-    "createdAt": "2025-06-09T19:29:16Z",
-    "stars": 230,
-    "name": "rudrankriyam/Foundation-Models-Framework-Example",
-    "url": "https://github.com/rudrankriyam/Foundation-Models-Framework-Example",
-    "lang": "Swift",
-    "desc": "Example apps for Foundation Models Framework in iOS 26 and macOS 26"
-  },
-  {
-    "createdAt": "2025-06-13T12:15:14Z",
+    "createdAt": "2025-06-16T14:46:05Z",
     "stars": 221,
-    "name": "mverschu/CVE-2025-33073",
-    "url": "https://github.com/mverschu/CVE-2025-33073",
+    "name": "MoonshotAI/Kimi-Dev",
+    "url": "https://github.com/MoonshotAI/Kimi-Dev",
     "lang": "Python",
-    "desc": "PoC Exploit for the NTLM reflection SMB flaw."
-  },
-  {
-    "createdAt": "2025-06-15T17:28:56Z",
-    "stars": 217,
-    "name": "gety-ai/apple-on-device-openai",
-    "url": "https://github.com/gety-ai/apple-on-device-openai",
-    "lang": "Swift",
-    "desc": "OpenAI-compatible API server for Apple on-device models"
-  },
-  {
-    "createdAt": "2025-06-11T13:15:50Z",
-    "stars": 210,
-    "name": "pickles4evaaaa/bibliotheca",
-    "url": "https://github.com/pickles4evaaaa/bibliotheca",
-    "lang": "Python",
-    "desc": "Track your reading habits, log books, and visualize your library—all in your own space."
-  },
-  {
-    "createdAt": "2025-06-14T16:07:53Z",
-    "stars": 210,
-    "name": "HeyNina101/generative_ai_project",
-    "url": "https://github.com/HeyNina101/generative_ai_project",
-    "lang": "",
-    "desc": "A production-ready template to kickstart your Generative AI projects with structure and scalability in mind."
+    "desc": "open-source coding LLM for software engineering tasks"
   },
   {
     "createdAt": "2025-06-14T03:33:17Z",
-    "stars": 174,
+    "stars": 203,
     "name": "ccbikai/ssh-ai-chat",
     "url": "https://github.com/ccbikai/ssh-ai-chat",
     "lang": "TypeScript",
     "desc": "Chat with AI over SSH."
   },
   {
+    "createdAt": "2025-06-11T13:36:28Z",
+    "stars": 187,
+    "name": "nvidia-cosmos/cosmos-predict2",
+    "url": "https://github.com/nvidia-cosmos/cosmos-predict2",
+    "lang": "Python",
+    "desc": "Cosmos-Predict2 is a collection of general-purpose world foundation models for Physical AI that can be fine-tuned into customized world models for downstream applications."
+  },
+  {
+    "createdAt": "2025-06-13T20:21:47Z",
+    "stars": 174,
+    "name": "noghartt/container-compose",
+    "url": "https://github.com/noghartt/container-compose",
+    "lang": "Rust",
+    "desc": "A docker-compose like tool for Apple Containers"
+  },
+  {
     "createdAt": "2025-06-13T18:26:56Z",
-    "stars": 170,
+    "stars": 173,
     "name": "rajivharlalka/filedb",
     "url": "https://github.com/rajivharlalka/filedb",
     "lang": "Zig",
@@ -249,79 +209,127 @@
   },
   {
     "createdAt": "2025-06-10T02:59:30Z",
-    "stars": 168,
+    "stars": 173,
     "name": "PallavAg/Apple-Intelligence-Chat",
     "url": "https://github.com/PallavAg/Apple-Intelligence-Chat",
     "lang": "Swift",
     "desc": "Chat with Apple Intelligence using the Foundation Models Framework"
   },
   {
-    "createdAt": "2025-06-11T13:36:28Z",
-    "stars": 158,
-    "name": "nvidia-cosmos/cosmos-predict2",
-    "url": "https://github.com/nvidia-cosmos/cosmos-predict2",
-    "lang": "Python",
-    "desc": "Cosmos-Predict2 is a collection of general-purpose world foundation models for Physical AI that can be fine-tuned into customized world models for downstream applications."
-  },
-  {
-    "createdAt": "2025-06-09T19:37:16Z",
-    "stars": 151,
-    "name": "nv-tlabs/cosmos1-diffusion-renderer",
-    "url": "https://github.com/nv-tlabs/cosmos1-diffusion-renderer",
-    "lang": "Jupyter Notebook",
-    "desc": "DiffusionRenderer (Cosmos): Neural Inverse and Forward Rendering with Video Diffusion Models"
-  },
-  {
-    "createdAt": "2025-06-11T07:06:47Z",
-    "stars": 148,
-    "name": "OpenListTeam/cf-worker-api",
-    "url": "https://github.com/OpenListTeam/cf-worker-api",
-    "lang": "TypeScript",
-    "desc": "OpenList API Token Generator"
-  },
-  {
-    "createdAt": "2025-06-11T09:43:04Z",
-    "stars": 147,
-    "name": "archisvaze/liquid-glass",
-    "url": "https://github.com/archisvaze/liquid-glass",
-    "lang": "HTML",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-10T14:55:40Z",
-    "stars": 147,
-    "name": "ktiays/GlassExplorer",
-    "url": "https://github.com/ktiays/GlassExplorer",
-    "lang": "Swift",
-    "desc": "iOS 26 private glass effect explorer."
-  },
-  {
-    "createdAt": "2025-06-09T10:13:39Z",
-    "stars": 146,
-    "name": "same7ammar/kube-composer",
-    "url": "https://github.com/same7ammar/kube-composer",
-    "lang": "TypeScript",
-    "desc": "Kubernetes YAML Generator and Resource visualization"
-  },
-  {
-    "createdAt": "2025-06-10T23:22:34Z",
-    "stars": 145,
-    "name": "RaiAnsar/claude_code-gemini-mcp",
-    "url": "https://github.com/RaiAnsar/claude_code-gemini-mcp",
-    "lang": "Python",
-    "desc": "Simplified Gemini for Claude Code. "
-  },
-  {
     "createdAt": "2025-06-12T10:07:49Z",
-    "stars": 141,
+    "stars": 173,
     "name": "AnnaGracu/codedongle",
     "url": "https://github.com/AnnaGracu/codedongle",
     "lang": "JavaScript",
     "desc": "Automatically exported from code.google.com/p/asterisk-chan-dongle"
   },
   {
+    "createdAt": "2025-06-11T07:06:47Z",
+    "stars": 172,
+    "name": "OpenListTeam/cf-worker-api",
+    "url": "https://github.com/OpenListTeam/cf-worker-api",
+    "lang": "TypeScript",
+    "desc": "OpenList API Token Generator"
+  },
+  {
+    "createdAt": "2025-06-13T06:47:18Z",
+    "stars": 172,
+    "name": "dslee2022/SignatureKid",
+    "url": "https://github.com/dslee2022/SignatureKid",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-11T09:43:04Z",
+    "stars": 156,
+    "name": "archisvaze/liquid-glass",
+    "url": "https://github.com/archisvaze/liquid-glass",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-16T14:39:53Z",
+    "stars": 156,
+    "name": "iannuttall/claude-sessions",
+    "url": "https://github.com/iannuttall/claude-sessions",
+    "lang": "",
+    "desc": "Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation"
+  },
+  {
+    "createdAt": "2025-06-15T17:56:11Z",
+    "stars": 156,
+    "name": "amantus-ai/vibetunnel",
+    "url": "https://github.com/amantus-ai/vibetunnel",
+    "lang": "Swift",
+    "desc": "Turn any browser into your terminal & command your agents on the go."
+  },
+  {
+    "createdAt": "2025-06-10T14:55:40Z",
+    "stars": 155,
+    "name": "ktiays/GlassExplorer",
+    "url": "https://github.com/ktiays/GlassExplorer",
+    "lang": "Swift",
+    "desc": "iOS 26 private glass effect explorer."
+  },
+  {
+    "createdAt": "2025-06-15T15:54:12Z",
+    "stars": 149,
+    "name": "yuaotian/go-augment-cleaner",
+    "url": "https://github.com/yuaotian/go-augment-cleaner",
+    "lang": "",
+    "desc": "清理Augment缓存和生成设备SessionId"
+  },
+  {
+    "createdAt": "2025-06-10T23:22:34Z",
+    "stars": 148,
+    "name": "RaiAnsar/claude_code-gemini-mcp",
+    "url": "https://github.com/RaiAnsar/claude_code-gemini-mcp",
+    "lang": "Python",
+    "desc": "Simplified Gemini for Claude Code. "
+  },
+  {
+    "createdAt": "2025-06-10T10:41:54Z",
+    "stars": 147,
+    "name": "ByteDance-Seed/SeedVR",
+    "url": "https://github.com/ByteDance-Seed/SeedVR",
+    "lang": "Python",
+    "desc": "Repo for SeedVR2 & SeedVR (CVPR2025 Highlight)"
+  },
+  {
+    "createdAt": "2025-06-10T12:06:11Z",
+    "stars": 147,
+    "name": "HdShare/NullAvatar",
+    "url": "https://github.com/HdShare/NullAvatar",
+    "lang": "Kotlin",
+    "desc": "NullAvatar Source"
+  },
+  {
+    "createdAt": "2025-06-14T19:05:00Z",
+    "stars": 146,
+    "name": "byteom/hinglish-AI-translator",
+    "url": "https://github.com/byteom/hinglish-AI-translator",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-11T19:51:50Z",
+    "stars": 144,
+    "name": "caterpillardev/Web3-Game-GameFi",
+    "url": "https://github.com/caterpillardev/Web3-Game-GameFi",
+    "lang": "TypeScript",
+    "desc": "Web3 games made with Cocos and Phaser- GameFi on BnB, Solana, Sui implemented P2O model supported by AI"
+  },
+  {
+    "createdAt": "2025-06-14T19:47:03Z",
+    "stars": 144,
+    "name": "martinbowling/thinkchain",
+    "url": "https://github.com/martinbowling/thinkchain",
+    "lang": "Python",
+    "desc": "🧠 Advanced Claude streaming interface with interleaved thinking, dynamic tool discovery, and MCP integration. Watch Claude think through problems in real-time while executing tools with live progress updates."
+  },
+  {
     "createdAt": "2025-06-10T04:53:29Z",
-    "stars": 141,
+    "stars": 143,
     "name": "RecaEngine/RECA",
     "url": "https://github.com/RecaEngine/RECA",
     "lang": "Swift",
@@ -329,35 +337,51 @@
   },
   {
     "createdAt": "2025-06-10T10:50:28Z",
-    "stars": 137,
+    "stars": 139,
     "name": "SaadAhla/dark-kill",
     "url": "https://github.com/SaadAhla/dark-kill",
     "lang": "C++",
     "desc": "A user-mode code and its rootkit that will Kill EDR Processes permanently by leveraging the power of Process Creation Blocking Kernel Callback Routine registering and ZwTerminateProcess. "
   },
   {
-    "createdAt": "2025-06-13T20:21:47Z",
-    "stars": 133,
-    "name": "noghartt/container-compose",
-    "url": "https://github.com/noghartt/container-compose",
-    "lang": "Rust",
-    "desc": "A docker-compose like tool for Apple Containers"
+    "createdAt": "2025-06-11T05:46:05Z",
+    "stars": 136,
+    "name": "caterpillardev/web3-match-three-puzzles-game",
+    "url": "https://github.com/caterpillardev/web3-match-three-puzzles-game",
+    "lang": "JavaScript",
+    "desc": "Web3 match-three puzzle game made with Cocos and Phaser on Solana, EVM, Sui and Stage Construction and Level Balancing of Match-3 Puzzle Game"
   },
   {
-    "createdAt": "2025-06-10T12:06:11Z",
-    "stars": 133,
-    "name": "HdShare/NullAvatar",
-    "url": "https://github.com/HdShare/NullAvatar",
-    "lang": "Kotlin",
-    "desc": "NullAvatar Source"
+    "createdAt": "2025-06-10T21:46:10Z",
+    "stars": 136,
+    "name": "sergoncano/hollow-knight-grub-theme",
+    "url": "https://github.com/sergoncano/hollow-knight-grub-theme",
+    "lang": "Shell",
+    "desc": "A theme for GRUB based off Hollow Knight's main menu."
   },
   {
-    "createdAt": "2025-06-10T10:41:54Z",
+    "createdAt": "2025-06-14T09:53:42Z",
     "stars": 131,
-    "name": "ByteDance-Seed/SeedVR",
-    "url": "https://github.com/ByteDance-Seed/SeedVR",
-    "lang": "Python",
-    "desc": "Repo for SeedVR2 & SeedVR (CVPR2025 Highlight)"
+    "name": "syahiidkamil/Software-Engineer-AI-Agent-Atlas",
+    "url": "https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas",
+    "lang": "",
+    "desc": "ATLAS: Software Engineer AI Agent. Living memory persists. Learning compounds.   Every commit evolves it. Professional focus. KISS/YAGNI/DRY and Depend on Context. No overengineering. Clean code and Clean Architecture that works."
+  },
+  {
+    "createdAt": "2025-06-12T11:20:34Z",
+    "stars": 130,
+    "name": "matank001/cursor-security-rules",
+    "url": "https://github.com/matank001/cursor-security-rules",
+    "lang": "",
+    "desc": "This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding practices, control sensitive operations, and reduce risk in AI-assisted development."
+  },
+  {
+    "createdAt": "2025-06-12T05:03:47Z",
+    "stars": 130,
+    "name": "bergice/liquidglass",
+    "url": "https://github.com/bergice/liquidglass",
+    "lang": "HTML",
+    "desc": "Drinking the kool-aid."
   },
   {
     "createdAt": "2025-06-11T09:08:24Z",
@@ -368,35 +392,11 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-06-09T14:57:01Z",
-    "stars": 127,
-    "name": "nvzone/floaterm",
-    "url": "https://github.com/nvzone/floaterm",
-    "lang": "Lua",
-    "desc": "Beautiful floating terminal manager for Neovim"
-  },
-  {
-    "createdAt": "2025-06-13T06:47:18Z",
-    "stars": 127,
-    "name": "dslee2022/SignatureKid",
-    "url": "https://github.com/dslee2022/SignatureKid",
-    "lang": "C++",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-10T21:46:10Z",
+    "createdAt": "2025-06-13T01:49:05Z",
     "stars": 126,
-    "name": "sergoncano/hollow-knight-grub-theme",
-    "url": "https://github.com/sergoncano/hollow-knight-grub-theme",
-    "lang": "Shell",
-    "desc": "A theme for GRUB based off Hollow Knight's main menu."
-  },
-  {
-    "createdAt": "2025-06-09T06:41:52Z",
-    "stars": 125,
-    "name": "UniFlowMatch/UFM",
-    "url": "https://github.com/UniFlowMatch/UFM",
+    "name": "yaldobaoth/OSCP-Scripts",
+    "url": "https://github.com/yaldobaoth/OSCP-Scripts",
     "lang": "Python",
-    "desc": "UFM: A Unified Dense Image Correspondence Estimator for both Optical Flow & Wide Baseline Matching Tasks. Matches any pair of images."
+    "desc": "Quick scripts I developed to streamline OSCP tasks"
   }
 ]
