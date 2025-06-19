@@ -1,402 +1,402 @@
 [
   {
-    "createdAt": "2025-06-11T23:35:02Z",
-    "stars": 7199,
-    "name": "OpenListTeam/OpenList",
-    "url": "https://github.com/OpenListTeam/OpenList",
-    "lang": "Go",
-    "desc": "A new AList Fork to Anti Trust Crisis"
-  },
-  {
-    "createdAt": "2025-06-11T05:50:39Z",
-    "stars": 3246,
-    "name": "AasishPokhrel/shit",
-    "url": "https://github.com/AasishPokhrel/shit",
-    "lang": "",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-06-16T17:33:44Z",
-    "stars": 1847,
+    "stars": 2711,
     "name": "NirDiamant/agents-towards-production",
     "url": "https://github.com/NirDiamant/agents-towards-production",
     "lang": "Jupyter Notebook",
     "desc": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches."
   },
   {
-    "createdAt": "2025-06-12T11:10:14Z",
-    "stars": 1347,
-    "name": "steipete/agent-rules",
-    "url": "https://github.com/steipete/agent-rules",
-    "lang": "Shell",
-    "desc": "Rules and Knowledge to work better with agents such as Claude Code or Cursor"
-  },
-  {
     "createdAt": "2025-06-14T08:54:06Z",
-    "stars": 1307,
+    "stars": 1655,
     "name": "MiniMax-AI/MiniMax-M1",
     "url": "https://github.com/MiniMax-AI/MiniMax-M1",
     "lang": "Python",
     "desc": "MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model."
   },
   {
+    "createdAt": "2025-06-12T11:10:14Z",
+    "stars": 1439,
+    "name": "steipete/agent-rules",
+    "url": "https://github.com/steipete/agent-rules",
+    "lang": "Shell",
+    "desc": "Rules and Knowledge to work better with agents such as Claude Code or Cursor"
+  },
+  {
     "createdAt": "2025-06-13T15:45:50Z",
-    "stars": 984,
+    "stars": 1045,
     "name": "Tencent-Hunyuan/Hunyuan3D-2.1",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1",
     "lang": "Python",
     "desc": "From Images to High-Fidelity 3D Assets with Production-Ready PBR Material"
   },
   {
-    "createdAt": "2025-06-11T13:19:26Z",
-    "stars": 914,
-    "name": "Snouzy/workout-cool",
-    "url": "https://github.com/Snouzy/workout-cool",
-    "lang": "TypeScript",
-    "desc": "🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database."
-  },
-  {
     "createdAt": "2025-06-17T10:04:31Z",
-    "stars": 673,
+    "stars": 863,
     "name": "ScrapeEmAll/Telegram-Scraper",
     "url": "https://github.com/ScrapeEmAll/Telegram-Scraper",
     "lang": "Python",
     "desc": "A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data export capabilities."
   },
   {
-    "createdAt": "2025-06-11T09:54:16Z",
-    "stars": 511,
-    "name": "shuding/liquid-glass",
-    "url": "https://github.com/shuding/liquid-glass",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-11T21:33:43Z",
-    "stars": 481,
-    "name": "anthropics/claude-code-sdk-python",
-    "url": "https://github.com/anthropics/claude-code-sdk-python",
+    "createdAt": "2025-06-19T00:00:05Z",
+    "stars": 526,
+    "name": "Maciek-roboblog/Claude-Code-Usage-Monitor",
+    "url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
     "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-11T06:47:57Z",
-    "stars": 439,
-    "name": "perrypixel/10x-Tool-Calls",
-    "url": "https://github.com/perrypixel/10x-Tool-Calls",
-    "lang": "Python",
-    "desc": "10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests."
+    "desc": "Real-time Claude Code usage monitor with predictions and warnings"
   },
   {
     "createdAt": "2025-06-15T17:28:56Z",
-    "stars": 411,
+    "stars": 428,
     "name": "gety-ai/apple-on-device-openai",
     "url": "https://github.com/gety-ai/apple-on-device-openai",
     "lang": "Swift",
     "desc": "OpenAI-compatible API server for Apple on-device models"
   },
   {
-    "createdAt": "2025-06-11T14:46:04Z",
-    "stars": 402,
-    "name": "justjavac/herlang",
-    "url": "https://github.com/justjavac/herlang",
-    "lang": "Rust",
-    "desc": "Her Programming Language written in Rust."
-  },
-  {
-    "createdAt": "2025-06-13T01:27:43Z",
-    "stars": 375,
-    "name": "Continual-Intelligence/SEAL",
-    "url": "https://github.com/Continual-Intelligence/SEAL",
-    "lang": "Python",
-    "desc": "Self-Adapting Language Models"
-  },
-  {
-    "createdAt": "2025-06-11T16:14:21Z",
-    "stars": 324,
-    "name": "midudev/landing-gta-vi",
-    "url": "https://github.com/midudev/landing-gta-vi",
-    "lang": "Astro",
-    "desc": "Landing page de GTA VI para fines educativos"
-  },
-  {
-    "createdAt": "2025-06-13T12:15:14Z",
-    "stars": 323,
-    "name": "mverschu/CVE-2025-33073",
-    "url": "https://github.com/mverschu/CVE-2025-33073",
-    "lang": "Python",
-    "desc": "PoC Exploit for the NTLM reflection SMB flaw."
-  },
-  {
-    "createdAt": "2025-06-18T14:30:36Z",
-    "stars": 307,
-    "name": "kikus50lovemoney/SelfDiscord",
-    "url": "https://github.com/kikus50lovemoney/SelfDiscord",
-    "lang": "Python",
-    "desc": "discord selfbot selfdiscord discord selfbot ✅ updated latest api update 2024 ✅ discord selfbot in python using discord api. discord self bot discord account automator discord auto responder discord self bot discord account automator discord auto responder discord self bot discord account automator discord auto responder discord self bot twkfztt"
-  },
-  {
-    "createdAt": "2025-06-18T14:31:58Z",
-    "stars": 297,
-    "name": "ulvers-713/spoofer-hwid",
-    "url": "https://github.com/ulvers-713/spoofer-hwid",
-    "lang": "",
-    "desc": "hwid spoofer hwid changer 🔑︎ disk, guid, mac, gpu, pc-name, win-id, efi, smbios spoofing fortnite warzone apex rust escape from tarkov and all eac be games hwid spoof hwid changer hwid spoof hwid changer hwid spoof hwid changer hwid  qdthrgusv"
-  },
-  {
-    "createdAt": "2025-06-16T14:46:05Z",
-    "stars": 297,
-    "name": "MoonshotAI/Kimi-Dev",
-    "url": "https://github.com/MoonshotAI/Kimi-Dev",
-    "lang": "Python",
-    "desc": "open-source coding LLM for software engineering tasks"
-  },
-  {
-    "createdAt": "2025-06-14T16:07:53Z",
-    "stars": 295,
-    "name": "HeyNina101/generative_ai_project",
-    "url": "https://github.com/HeyNina101/generative_ai_project",
-    "lang": "",
-    "desc": "A production-ready template to kickstart your Generative AI projects with structure and scalability in mind."
-  },
-  {
-    "createdAt": "2025-06-11T05:19:13Z",
-    "stars": 295,
-    "name": "NodeSeekDev/nlist",
-    "url": "https://github.com/NodeSeekDev/nlist",
-    "lang": "Go",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-18T14:29:38Z",
-    "stars": 293,
-    "name": "belka7538/Blank-Grabber",
-    "url": "https://github.com/belka7538/Blank-Grabber",
-    "lang": "Python",
-    "desc": "grabber 🔥 blank grabber 🔥 updated 2024 🔥 blank password grabber written in python. cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber sjrbdegbc"
-  },
-  {
-    "createdAt": "2025-06-11T13:15:50Z",
-    "stars": 287,
-    "name": "pickles4evaaaa/bibliotheca",
-    "url": "https://github.com/pickles4evaaaa/bibliotheca",
-    "lang": "HTML",
-    "desc": "Track your reading habits, log books, and visualize your library—all in your own space."
-  },
-  {
     "createdAt": "2025-06-15T21:40:03Z",
-    "stars": 269,
+    "stars": 419,
     "name": "finnvoor/yap",
     "url": "https://github.com/finnvoor/yap",
     "lang": "Swift",
     "desc": "🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26"
   },
   {
-    "createdAt": "2025-06-18T14:22:44Z",
-    "stars": 246,
-    "name": "mubokoxnardur3/ZPhisher-Python",
-    "url": "https://github.com/mubokoxnardur3/ZPhisher-Python",
+    "createdAt": "2025-06-13T01:27:43Z",
+    "stars": 412,
+    "name": "Continual-Intelligence/SEAL",
+    "url": "https://github.com/Continual-Intelligence/SEAL",
     "lang": "Python",
-    "desc": "zphisher python edition 🔥 unflagged 🔥 phishmailer gophish socialphish phishing page generator phishing mail zphish phishmailer phishing template shellphisher blackphish  phishmailer gophish socialphish phishing page generator phishing mail zphish phishmailer phishing template shellphisher rcmslzp"
+    "desc": "Self-Adapting Language Models"
   },
   {
-    "createdAt": "2025-06-18T14:30:29Z",
-    "stars": 246,
-    "name": "toybonniebloody718/python-keylogger",
-    "url": "https://github.com/toybonniebloody718/python-keylogger",
-    "lang": "Python",
-    "desc": "paython keylogger windows keylogger keylogger discord webhook + email 💥 keylogger windows 10/11 linux 💥 python keylogger working on all os. keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger  yazlacb"
-  },
-  {
-    "createdAt": "2025-06-18T14:26:10Z",
-    "stars": 245,
-    "name": "bambinobrokenmetal/Discord-Nitro-Generator",
-    "url": "https://github.com/bambinobrokenmetal/Discord-Nitro-Generator",
-    "lang": "Python",
-    "desc": "🔥 discord nitro generator 🔥 nitro generator & checker ⭐ gens discord nitro codes and checks - discord nitro generator nitro gen bruteforce discord nitro checker discord nitro bruteforcer discord nitro checker discord nitro gen discord nitro generator nitro gen bruteforce discord nitro checker discord nitro bruteforcer hdojv"
-  },
-  {
-    "createdAt": "2025-06-13T20:21:29Z",
-    "stars": 237,
-    "name": "valorant-undetected/ValorantElusion",
-    "url": "https://github.com/valorant-undetected/ValorantElusion",
-    "lang": "Python",
-    "desc": "Valorant Cheat includes undetected ESP, a legit-mode aimbot, radar, unlock all, and a secure HWID spoofer. Full StreamerMode support, modular code, and prediction-based aim system make it ideal for security researchers and cheat developers on Windows 10/11."
-  },
-  {
-    "createdAt": "2025-06-14T03:33:17Z",
-    "stars": 228,
-    "name": "ccbikai/ssh-ai-chat",
-    "url": "https://github.com/ccbikai/ssh-ai-chat",
+    "createdAt": "2025-06-14T03:07:09Z",
+    "stars": 369,
+    "name": "openai/openai-cs-agents-demo",
+    "url": "https://github.com/openai/openai-cs-agents-demo",
     "lang": "TypeScript",
-    "desc": "Chat with AI over SSH."
+    "desc": "Demo of a customer service use case implemented with the OpenAI Agents SDK"
+  },
+  {
+    "createdAt": "2025-06-13T12:15:14Z",
+    "stars": 344,
+    "name": "mverschu/CVE-2025-33073",
+    "url": "https://github.com/mverschu/CVE-2025-33073",
+    "lang": "Python",
+    "desc": "PoC Exploit for the NTLM reflection SMB flaw."
+  },
+  {
+    "createdAt": "2025-06-16T14:46:05Z",
+    "stars": 337,
+    "name": "MoonshotAI/Kimi-Dev",
+    "url": "https://github.com/MoonshotAI/Kimi-Dev",
+    "lang": "Python",
+    "desc": "open-source coding LLM for software engineering tasks"
+  },
+  {
+    "createdAt": "2025-06-19T11:28:33Z",
+    "stars": 334,
+    "name": "ElusionUndetected/warzone-cheat",
+    "url": "https://github.com/ElusionUndetected/warzone-cheat",
+    "lang": "Python",
+    "desc": "Warzone Cheat is the ultimate undetected solution for Call of Duty: Warzone featuring powerful Warzone Aimbot, ESP, No Recoil, 2D Radar, Skinchanger, and HWID Spoofer. Fully compatible with Windows 10/11 and all hardware. Enhance your gameplay and dominate the battlefield effortlessly"
+  },
+  {
+    "createdAt": "2025-06-14T16:07:53Z",
+    "stars": 309,
+    "name": "HeyNina101/generative_ai_project",
+    "url": "https://github.com/HeyNina101/generative_ai_project",
+    "lang": "",
+    "desc": "A production-ready template to kickstart your Generative AI projects with structure and scalability in mind."
   },
   {
     "createdAt": "2025-06-15T17:56:11Z",
-    "stars": 210,
+    "stars": 258,
     "name": "amantus-ai/vibetunnel",
     "url": "https://github.com/amantus-ai/vibetunnel",
     "lang": "Swift",
     "desc": "Turn any browser into your terminal & command your agents on the go."
   },
   {
+    "createdAt": "2025-06-14T03:33:17Z",
+    "stars": 252,
+    "name": "ccbikai/ssh-ai-chat",
+    "url": "https://github.com/ccbikai/ssh-ai-chat",
+    "lang": "TypeScript",
+    "desc": "Chat with AI over SSH."
+  },
+  {
     "createdAt": "2025-06-12T10:07:49Z",
-    "stars": 207,
+    "stars": 242,
     "name": "AnnaGracu/codedongle",
     "url": "https://github.com/AnnaGracu/codedongle",
     "lang": "JavaScript",
     "desc": "Automatically exported from code.google.com/p/asterisk-chan-dongle"
   },
   {
-    "createdAt": "2025-06-11T13:36:28Z",
-    "stars": 206,
-    "name": "nvidia-cosmos/cosmos-predict2",
-    "url": "https://github.com/nvidia-cosmos/cosmos-predict2",
+    "createdAt": "2025-06-13T20:21:29Z",
+    "stars": 238,
+    "name": "valorant-undetected/ValorantElusion",
+    "url": "https://github.com/valorant-undetected/ValorantElusion",
     "lang": "Python",
-    "desc": "Cosmos-Predict2 is a collection of general-purpose world foundation models for Physical AI that can be fine-tuned into customized world models for downstream applications."
+    "desc": "Valorant Cheat includes undetected ESP, a legit-mode aimbot, radar, unlock all, and a secure HWID spoofer. Full StreamerMode support, modular code, and prediction-based aim system make it ideal for security researchers and cheat developers on Windows 10/11."
   },
   {
-    "createdAt": "2025-06-18T14:23:46Z",
-    "stars": 199,
-    "name": "smoochie9274/Creal-Stealer",
-    "url": "https://github.com/smoochie9274/Creal-Stealer",
+    "createdAt": "2025-06-19T13:41:13Z",
+    "stars": 234,
+    "name": "ApexElusion/apex-cheat",
+    "url": "https://github.com/ApexElusion/apex-cheat",
     "lang": "Python",
-    "desc": "stealer grabber grabber cookie grabber grabber 2023 cookie stealer token password 🔥 stealer 🔥 password grabber token stealer cookie password password python stealer password cookie stealer stealer high in token stealer end stealer creal grabber cookie stealer token cookie working stealer password grabber stealer token erucolibsz"
+    "desc": "Apex Cheat is a cutting-edge, undetected tool for Apex Legends featuring Apex Aimbot, ESP, 2D Radar, No Recoil, Skinchanger, and HWID Spoofer. Fully compatible with Windows 10/11 and all hardware. Dominate your enemies with precision, awareness, and customization."
   },
   {
-    "createdAt": "2025-06-18T14:24:49Z",
-    "stars": 198,
-    "name": "prixyelpony69/W4SP-Stealer",
-    "url": "https://github.com/prixyelpony69/W4SP-Stealer",
-    "lang": "Python",
-    "desc": "w4sp stealer 🔥 fixed password grabber - python3 wasp stealer / w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer ysborz"
-  },
-  {
-    "createdAt": "2025-06-18T14:28:20Z",
-    "stars": 194,
-    "name": "stneilikelife384/crypter",
-    "url": "https://github.com/stneilikelife384/crypter",
-    "lang": "Python",
-    "desc": "crypter 🔥 .exe crypter 🔥 crypt / obfuscate your file 🔥 100% fud memory running windows crypter .exe crypter exe cryper fud crypter lime crypter onfuscator .net dotnet c c++ crypter obfuscator  windows crypter .exe crypter exe cryper fud crypter lime crypter onfuscator .net dotnet c c++ crypter obfuscator binder  rqftdc"
-  },
-  {
-    "createdAt": "2025-06-18T14:27:08Z",
-    "stars": 194,
-    "name": "chuckles61toncon/BlackCap-Grabber-NoDualHook",
-    "url": "https://github.com/chuckles61toncon/BlackCap-Grabber-NoDualHook",
-    "lang": "Python",
-    "desc": "grabber 🔥 blackcap grabber 🔥 fixed stealer - dualhook removed - python3 logger blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber wcwzbbh"
-  },
-  {
-    "createdAt": "2025-06-13T20:21:47Z",
-    "stars": 192,
-    "name": "noghartt/container-compose",
-    "url": "https://github.com/noghartt/container-compose",
-    "lang": "Rust",
-    "desc": "A docker-compose like tool for Apple Containers"
+    "createdAt": "2025-06-15T05:12:51Z",
+    "stars": 220,
+    "name": "lunchbox-computer/bento",
+    "url": "https://github.com/lunchbox-computer/bento",
+    "lang": "",
+    "desc": "a computer in a keyboard"
   },
   {
     "createdAt": "2025-06-13T06:47:18Z",
-    "stars": 192,
+    "stars": 205,
     "name": "dslee2022/SignatureKid",
     "url": "https://github.com/dslee2022/SignatureKid",
     "lang": "C++",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-11T07:06:47Z",
-    "stars": 178,
-    "name": "OpenListTeam/cf-worker-api",
-    "url": "https://github.com/OpenListTeam/cf-worker-api",
-    "lang": "TypeScript",
-    "desc": "OpenList API Token Generator"
+    "createdAt": "2025-06-13T20:21:47Z",
+    "stars": 201,
+    "name": "noghartt/container-compose",
+    "url": "https://github.com/noghartt/container-compose",
+    "lang": "Rust",
+    "desc": "A docker-compose like tool for Apple Containers"
+  },
+  {
+    "createdAt": "2025-06-16T06:39:32Z",
+    "stars": 192,
+    "name": "JimmyLefevre/kb",
+    "url": "https://github.com/JimmyLefevre/kb",
+    "lang": "C",
+    "desc": "kb single-header C/C++ libraries"
   },
   {
     "createdAt": "2025-06-13T18:26:56Z",
-    "stars": 174,
+    "stars": 176,
     "name": "rajivharlalka/filedb",
     "url": "https://github.com/rajivharlalka/filedb",
     "lang": "Zig",
     "desc": "Disk Based Key-Value Store Inspired by Bitcask "
   },
   {
-    "createdAt": "2025-06-16T14:39:53Z",
-    "stars": 169,
-    "name": "iannuttall/claude-sessions",
-    "url": "https://github.com/iannuttall/claude-sessions",
-    "lang": "",
-    "desc": "Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation"
-  },
-  {
     "createdAt": "2025-06-15T15:54:12Z",
-    "stars": 166,
+    "stars": 173,
     "name": "yuaotian/go-augment-cleaner",
     "url": "https://github.com/yuaotian/go-augment-cleaner",
     "lang": "",
     "desc": "清理Augment缓存和生成设备SessionId"
   },
   {
-    "createdAt": "2025-06-11T09:43:04Z",
-    "stars": 160,
-    "name": "archisvaze/liquid-glass",
-    "url": "https://github.com/archisvaze/liquid-glass",
-    "lang": "HTML",
+    "createdAt": "2025-06-13T19:07:52Z",
+    "stars": 171,
+    "name": "mendableai/firestarter",
+    "url": "https://github.com/mendableai/firestarter",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-16T14:39:53Z",
+    "stars": 170,
+    "name": "iannuttall/claude-sessions",
+    "url": "https://github.com/iannuttall/claude-sessions",
+    "lang": "",
+    "desc": "Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation"
+  },
+  {
+    "createdAt": "2025-06-13T07:57:56Z",
+    "stars": 169,
+    "name": "tencent-ailab/SongGeneration",
+    "url": "https://github.com/tencent-ailab/SongGeneration",
+    "lang": "Python",
     "desc": ""
   },
   {
     "createdAt": "2025-06-14T19:05:00Z",
-    "stars": 158,
+    "stars": 163,
     "name": "byteom/hinglish-AI-translator",
     "url": "https://github.com/byteom/hinglish-AI-translator",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-14T19:47:03Z",
-    "stars": 154,
-    "name": "martinbowling/thinkchain",
-    "url": "https://github.com/martinbowling/thinkchain",
-    "lang": "Python",
-    "desc": "🧠 Advanced Claude streaming interface with interleaved thinking, dynamic tool discovery, and MCP integration. Watch Claude think through problems in real-time while executing tools with live progress updates."
-  },
-  {
-    "createdAt": "2025-06-18T14:26:14Z",
-    "stars": 150,
-    "name": "themaxlp7386/discord-advertising-tool",
-    "url": "https://github.com/themaxlp7386/discord-advertising-tool",
-    "lang": "Python",
-    "desc": "discord mass dm massdm dm discord discord discord tool advertiser working mass and dm dm discord discord mass discord 🔥 discord mass discord discord discord 24 fingerprints. auto advertiser dm mass supports discord discord auto mass discord dm feb dm dm massdm proxys 🔥 massdm advertising discord massdm discord discord tool rwomds"
-  },
-  {
-    "createdAt": "2025-06-18T14:29:33Z",
-    "stars": 148,
-    "name": "excut-1741/PyPhisher",
-    "url": "https://github.com/excut-1741/PyPhisher",
-    "lang": "Python",
-    "desc": "phisher pyphisher 💥 best phisher in python 💥 phisher written in python for educational purpose. phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website cqjmx"
-  },
-  {
     "createdAt": "2025-06-12T01:38:07Z",
-    "stars": 147,
+    "stars": 161,
     "name": "SiYuan-2002/PrettySQL",
     "url": "https://github.com/SiYuan-2002/PrettySQL",
     "lang": "Java",
     "desc": "PrettySQL 是一款基于 IntelliJ IDEA 的轻量级插件，致力于提升 SQL 开发体验，集成了 SQL 格式美化、高亮表结构提示、SQL检查、数据库文档快速查看等功能，为日常开发中频繁处理 SQL 的用户提供便捷、清晰、可视化的开发辅助。"
   },
   {
-    "createdAt": "2025-06-11T19:51:50Z",
-    "stars": 144,
-    "name": "caterpillardev/Web3-Game-GameFi",
-    "url": "https://github.com/caterpillardev/Web3-Game-GameFi",
-    "lang": "TypeScript",
-    "desc": "Web3 games - baccarat, blackjack made with Cocos and Phaser- GameFi on BnB, Solana, Sui implemented P2O model supported by AI"
+    "createdAt": "2025-06-14T19:47:03Z",
+    "stars": 158,
+    "name": "martinbowling/thinkchain",
+    "url": "https://github.com/martinbowling/thinkchain",
+    "lang": "Python",
+    "desc": "🧠 Advanced Claude streaming interface with interleaved thinking, dynamic tool discovery, and MCP integration. Watch Claude think through problems in real-time while executing tools with live progress updates."
   },
   {
-    "createdAt": "2025-06-13T07:57:56Z",
-    "stars": 143,
-    "name": "tencent-ailab/SongGeneration",
-    "url": "https://github.com/tencent-ailab/SongGeneration",
+    "createdAt": "2025-06-14T09:53:42Z",
+    "stars": 146,
+    "name": "syahiidkamil/Software-Engineer-AI-Agent-Atlas",
+    "url": "https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas",
+    "lang": "",
+    "desc": "ATLAS: Software Engineer AI Agent. Living memory persists. Learning compounds.   Every commit evolves it. Professional focus. KISS/YAGNI/DRY and Depend on Context. No overengineering. Clean code and Clean Architecture that works."
+  },
+  {
+    "createdAt": "2025-06-12T02:04:46Z",
+    "stars": 142,
+    "name": "Snap-gen/Snapgen",
+    "url": "https://github.com/Snap-gen/Snapgen",
+    "lang": "Go",
+    "desc": "SnapGen is a compact, modular AI inference engine designed for rapid model prototyping and deployment."
+  },
+  {
+    "createdAt": "2025-06-12T11:20:34Z",
+    "stars": 141,
+    "name": "matank001/cursor-security-rules",
+    "url": "https://github.com/matank001/cursor-security-rules",
+    "lang": "",
+    "desc": "This repository contains Cursor Security Rules designed to improve the security of both development workflows and AI agent usage within the Cursor environment. These rules aim to enforce safe coding practices, control sensitive operations, and reduce risk in AI-assisted development."
+  },
+  {
+    "createdAt": "2025-06-12T05:03:47Z",
+    "stars": 135,
+    "name": "bergice/liquidglass",
+    "url": "https://github.com/bergice/liquidglass",
+    "lang": "HTML",
+    "desc": "Drinking the kool-aid."
+  },
+  {
+    "createdAt": "2025-06-13T01:49:05Z",
+    "stars": 128,
+    "name": "yaldobaoth/OSCP-Scripts",
+    "url": "https://github.com/yaldobaoth/OSCP-Scripts",
     "lang": "Python",
+    "desc": "Quick scripts I developed to streamline OSCP tasks"
+  },
+  {
+    "createdAt": "2025-06-12T08:34:01Z",
+    "stars": 125,
+    "name": "Zehong-Ma/ComfyUI-MagCache",
+    "url": "https://github.com/Zehong-Ma/ComfyUI-MagCache",
+    "lang": "Python",
+    "desc": "The official code that integrates MagCache (Fast Video Generation with Magnitude-Aware Cache) with ComfyUI."
+  },
+  {
+    "createdAt": "2025-06-12T09:22:54Z",
+    "stars": 123,
+    "name": "rad9800/byor",
+    "url": "https://github.com/rad9800/byor",
+    "lang": "Go",
     "desc": ""
+  },
+  {
+    "createdAt": "2025-06-13T15:03:58Z",
+    "stars": 123,
+    "name": "whynotmake-it/flutter_liquid_glass",
+    "url": "https://github.com/whynotmake-it/flutter_liquid_glass",
+    "lang": "Dart",
+    "desc": "Workspace for liquid glass packages"
+  },
+  {
+    "createdAt": "2025-06-18T07:15:54Z",
+    "stars": 121,
+    "name": "THUDM/slime",
+    "url": "https://github.com/THUDM/slime",
+    "lang": "Python",
+    "desc": "slime is a LLM post-training framework aiming at scaling RL."
+  },
+  {
+    "createdAt": "2025-06-16T07:43:47Z",
+    "stars": 119,
+    "name": "zixuan417/humanoid-general-motion-tracking",
+    "url": "https://github.com/zixuan417/humanoid-general-motion-tracking",
+    "lang": "Python",
+    "desc": "The official codebase of paper \"GMT: General Motion Tracking for Humanoid Whole-Body Control\""
+  },
+  {
+    "createdAt": "2025-06-13T02:41:16Z",
+    "stars": 118,
+    "name": "xid32/SoundMind",
+    "url": "https://github.com/xid32/SoundMind",
+    "lang": "Python",
+    "desc": "We introduce the Audio Logical Reasoning (ALR) dataset, consisting of 6,446 text-audio annotated samples specifically designed for complex reasoning tasks. Building on this resource, we propose SoundMind, a rule-based reinforcement learning (RL) algorithm tailored to endow audio language models (ALMs) with deep bimodal reasoning abilities."
+  },
+  {
+    "createdAt": "2025-06-19T13:53:26Z",
+    "stars": 117,
+    "name": "getAsterisk/claudia",
+    "url": "https://github.com/getAsterisk/claudia",
+    "lang": "TypeScript",
+    "desc": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more."
+  },
+  {
+    "createdAt": "2025-06-14T13:37:25Z",
+    "stars": 116,
+    "name": "Dige945/WHUCS_SoftwareEngineeringData",
+    "url": "https://github.com/Dige945/WHUCS_SoftwareEngineeringData",
+    "lang": "",
+    "desc": "武大软工A4资料(25考试数一数二全的一版)"
+  },
+  {
+    "createdAt": "2025-06-14T17:16:46Z",
+    "stars": 111,
+    "name": "codeprimate/personfromvid",
+    "url": "https://github.com/codeprimate/personfromvid",
+    "lang": "Python",
+    "desc": "AI-powered video frame extraction tool that automatically identifies and extracts high-quality frames containing people, with intelligent pose categorization (standing/sitting/squatting), head orientation detection, and shot type classification. Features GPU acceleration, resumable processing, and extensive configuration options."
+  },
+  {
+    "createdAt": "2025-06-15T04:07:17Z",
+    "stars": 110,
+    "name": "homielab/mountmate",
+    "url": "https://github.com/homielab/mountmate",
+    "lang": "Swift",
+    "desc": "A simple macOS menu bar app to manage external drives"
+  },
+  {
+    "createdAt": "2025-06-16T19:36:53Z",
+    "stars": 107,
+    "name": "kyutai-labs/delayed-streams-modeling",
+    "url": "https://github.com/kyutai-labs/delayed-streams-modeling",
+    "lang": "Rust",
+    "desc": "Delayed Streams Modeling (DSM) is a flexible formulation for streaming, multimodal sequence-to-sequence learning."
+  },
+  {
+    "createdAt": "2025-06-17T18:50:34Z",
+    "stars": 106,
+    "name": "renancaraujo/liquido",
+    "url": "https://github.com/renancaraujo/liquido",
+    "lang": "Dart",
+    "desc": "Liquido is a way to implement the Liquid Glass effect on Flutter-rendered surfaces"
+  },
+  {
+    "createdAt": "2025-06-13T09:36:49Z",
+    "stars": 104,
+    "name": "Ayanami0730/deep_research_bench",
+    "url": "https://github.com/Ayanami0730/deep_research_bench",
+    "lang": "Python",
+    "desc": "DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents"
+  },
+  {
+    "createdAt": "2025-06-16T06:25:46Z",
+    "stars": 104,
+    "name": "LiQiiiii/DLLM-Survey",
+    "url": "https://github.com/LiQiiiii/DLLM-Survey",
+    "lang": "Python",
+    "desc": "[Arxiv] Discrete Diffusion in Large Language and Multimodal Models: A Survey"
   }
 ]
