@@ -1,55 +1,39 @@
 [
   {
     "createdAt": "2025-06-16T17:33:44Z",
-    "stars": 4505,
+    "stars": 5209,
     "name": "NirDiamant/agents-towards-production",
     "url": "https://github.com/NirDiamant/agents-towards-production",
     "lang": "Jupyter Notebook",
     "desc": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches."
   },
   {
-    "createdAt": "2025-06-14T03:07:09Z",
-    "stars": 2115,
-    "name": "openai/openai-cs-agents-demo",
-    "url": "https://github.com/openai/openai-cs-agents-demo",
-    "lang": "TypeScript",
-    "desc": "Demo of a customer service use case implemented with the OpenAI Agents SDK"
-  },
-  {
-    "createdAt": "2025-06-14T08:54:06Z",
-    "stars": 1930,
-    "name": "MiniMax-AI/MiniMax-M1",
-    "url": "https://github.com/MiniMax-AI/MiniMax-M1",
-    "lang": "Python",
-    "desc": "MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model."
-  },
-  {
     "createdAt": "2025-06-19T00:00:05Z",
-    "stars": 1322,
+    "stars": 1651,
     "name": "Maciek-roboblog/Claude-Code-Usage-Monitor",
     "url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
     "lang": "Python",
     "desc": "Real-time Claude Code usage monitor with predictions and warnings"
   },
   {
-    "createdAt": "2025-06-17T10:04:31Z",
-    "stars": 1039,
-    "name": "ScrapeEmAll/Telegram-Scraper",
-    "url": "https://github.com/ScrapeEmAll/Telegram-Scraper",
-    "lang": "Python",
-    "desc": "A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data export capabilities."
-  },
-  {
     "createdAt": "2025-06-19T13:53:26Z",
-    "stars": 1015,
+    "stars": 1180,
     "name": "getAsterisk/claudia",
     "url": "https://github.com/getAsterisk/claudia",
     "lang": "TypeScript",
     "desc": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more."
   },
   {
+    "createdAt": "2025-06-17T10:04:31Z",
+    "stars": 1104,
+    "name": "ScrapeEmAll/Telegram-Scraper",
+    "url": "https://github.com/ScrapeEmAll/Telegram-Scraper",
+    "lang": "Python",
+    "desc": "A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data export capabilities."
+  },
+  {
     "createdAt": "2025-06-15T21:40:03Z",
-    "stars": 578,
+    "stars": 722,
     "name": "finnvoor/yap",
     "url": "https://github.com/finnvoor/yap",
     "lang": "Swift",
@@ -57,15 +41,31 @@
   },
   {
     "createdAt": "2025-06-19T17:04:56Z",
-    "stars": 467,
+    "stars": 572,
     "name": "Any-Distance/any-distance-ios",
     "url": "https://github.com/Any-Distance/any-distance-ios",
     "lang": "Swift",
     "desc": ""
   },
   {
+    "createdAt": "2025-06-21T00:31:31Z",
+    "stars": 547,
+    "name": "muffin3188/Discord-Nitro-Generator",
+    "url": "https://github.com/muffin3188/Discord-Nitro-Generator",
+    "lang": "Python",
+    "desc": "🔥 discord nitro generator 🔥 nitro generator & checker ⭐ gens discord nitro codes and checks - discord nitro generator nitro gen bruteforce discord nitro checker discord nitro bruteforcer discord nitro checker discord nitro gen discord nitro generator nitro gen bruteforce discord nitro checker discord nitro bruteforcer hcmru"
+  },
+  {
+    "createdAt": "2025-06-21T00:33:36Z",
+    "stars": 490,
+    "name": "browneyesnirvana/python-keylogger",
+    "url": "https://github.com/browneyesnirvana/python-keylogger",
+    "lang": "Python",
+    "desc": "paython keylogger windows keylogger keylogger discord webhook + email 💥 keylogger windows 10/11 linux 💥 python keylogger working on all os. keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger  yvppfywd"
+  },
+  {
     "createdAt": "2025-06-15T17:28:56Z",
-    "stars": 466,
+    "stars": 472,
     "name": "gety-ai/apple-on-device-openai",
     "url": "https://github.com/gety-ai/apple-on-device-openai",
     "lang": "Swift",
@@ -73,7 +73,7 @@
   },
   {
     "createdAt": "2025-06-16T06:39:32Z",
-    "stars": 402,
+    "stars": 419,
     "name": "JimmyLefevre/kb",
     "url": "https://github.com/JimmyLefevre/kb",
     "lang": "C",
@@ -81,55 +81,151 @@
   },
   {
     "createdAt": "2025-06-16T14:46:05Z",
-    "stars": 390,
+    "stars": 414,
     "name": "MoonshotAI/Kimi-Dev",
     "url": "https://github.com/MoonshotAI/Kimi-Dev",
     "lang": "Python",
     "desc": "open-source coding LLM for software engineering tasks"
   },
   {
+    "createdAt": "2025-06-21T12:40:39Z",
+    "stars": 400,
+    "name": "Tej-Sharma/horizon-overlay-open-source-cluely",
+    "url": "https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely",
+    "lang": "Swift",
+    "desc": "AI overlays on top of what you are doing"
+  },
+  {
+    "createdAt": "2025-06-21T00:32:42Z",
+    "stars": 397,
+    "name": "blackprincestewart/crypter",
+    "url": "https://github.com/blackprincestewart/crypter",
+    "lang": "Python",
+    "desc": "crypter 🔥 .exe crypter 🔥 crypt / obfuscate your file 🔥 100% fud memory running windows crypter .exe crypter exe cryper fud crypter lime crypter onfuscator .net dotnet c c++ crypter obfuscator  windows crypter .exe crypter exe cryper fud crypter lime crypter onfuscator .net dotnet c c++ crypter obfuscator binder  ltggtwytb"
+  },
+  {
+    "createdAt": "2025-06-22T08:02:17Z",
+    "stars": 385,
+    "name": "OpenCut-app/OpenCut",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "lang": "TypeScript",
+    "desc": "The open-source CapCut alternative"
+  },
+  {
     "createdAt": "2025-06-18T07:15:54Z",
-    "stars": 358,
+    "stars": 380,
     "name": "THUDM/slime",
     "url": "https://github.com/THUDM/slime",
     "lang": "Python",
     "desc": "slime is a LLM post-training framework aiming at scaling RL."
   },
   {
-    "createdAt": "2025-06-14T16:07:53Z",
-    "stars": 335,
-    "name": "HeyNina101/generative_ai_project",
-    "url": "https://github.com/HeyNina101/generative_ai_project",
-    "lang": "",
-    "desc": "A production-ready template to kickstart your Generative AI projects with structure and scalability in mind."
-  },
-  {
     "createdAt": "2025-06-15T17:56:11Z",
-    "stars": 330,
+    "stars": 350,
     "name": "amantus-ai/vibetunnel",
     "url": "https://github.com/amantus-ai/vibetunnel",
     "lang": "Swift",
     "desc": "Turn any browser into your terminal & command your agents on the go."
   },
   {
+    "createdAt": "2025-06-21T17:38:52Z",
+    "stars": 328,
+    "name": "warzone-tool/warzone-cheat",
+    "url": "https://github.com/warzone-tool/warzone-cheat",
+    "lang": "Python",
+    "desc": "Warzone Cheat is the ultimate undetected cheat suite for Call of Duty: Warzone. Features include a fully customizable Warzone aimbot, ESP overlays, wallhack, no recoil, unlock all tool, and HWID spoofing. Streamproof, safe, and optimized for Windows 10/11 and Fullscreen. Dominate with Warzone Cheat and precision Warzone Aimbot now."
+  },
+  {
     "createdAt": "2025-06-15T05:12:51Z",
-    "stars": 291,
+    "stars": 298,
     "name": "lunchbox-computer/bento",
     "url": "https://github.com/lunchbox-computer/bento",
     "lang": "",
     "desc": "a computer in a keyboard"
   },
   {
-    "createdAt": "2025-06-14T03:33:17Z",
-    "stars": 268,
-    "name": "ccbikai/ssh-ai-chat",
-    "url": "https://github.com/ccbikai/ssh-ai-chat",
-    "lang": "TypeScript",
-    "desc": "Chat with AI over SSH."
+    "createdAt": "2025-06-16T14:31:57Z",
+    "stars": 297,
+    "name": "vitali87/code-graph-rag",
+    "url": "https://github.com/vitali87/code-graph-rag",
+    "lang": "Python",
+    "desc": "Search Monorepos and get relevant answers"
+  },
+  {
+    "createdAt": "2025-06-19T18:57:01Z",
+    "stars": 297,
+    "name": "niceguybomjvatake/W4SP-Stealer",
+    "url": "https://github.com/niceguybomjvatake/W4SP-Stealer",
+    "lang": "Python",
+    "desc": "w4sp stealer 🔥 fixed password grabber - python3 wasp stealer / w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer w4sp stealer ltmcne"
+  },
+  {
+    "createdAt": "2025-06-19T18:56:39Z",
+    "stars": 296,
+    "name": "luxutiousman9341/Creal-Stealer",
+    "url": "https://github.com/luxutiousman9341/Creal-Stealer",
+    "lang": "Python",
+    "desc": "stealer grabber grabber cookie grabber grabber 2023 cookie stealer token password 🔥 stealer 🔥 password grabber token stealer cookie password password python stealer password cookie stealer stealer high in token stealer end stealer creal grabber cookie stealer token cookie working stealer password grabber stealer token ojowgr"
+  },
+  {
+    "createdAt": "2025-06-21T00:34:27Z",
+    "stars": 296,
+    "name": "starletkarasik4/spoofer-hwid",
+    "url": "https://github.com/starletkarasik4/spoofer-hwid",
+    "lang": "Python",
+    "desc": "hwid spoofer hwid changer 🔑︎ disk, guid, mac, gpu, pc-name, win-id, efi, smbios spoofing fortnite warzone apex rust escape from tarkov and all eac be games hwid spoof hwid changer hwid spoof hwid changer hwid spoof hwid changer hwid  ndkgrn"
+  },
+  {
+    "createdAt": "2025-06-21T00:34:35Z",
+    "stars": 295,
+    "name": "castlethepunisher/TikTok-viewbot",
+    "url": "https://github.com/castlethepunisher/TikTok-viewbot",
+    "lang": "Python",
+    "desc": "🔥 tiktok viewbot 500+ per second 🔥 tiktok view bot views bot tiktok viewbot tiktok view bot views bot tiktok viewbot tiktok view bot views bot tiktok viewbot tiktok view bot views bot tiktok viewbot tiktok view bot views bot tiktok viewbot  falfegfr"
+  },
+  {
+    "createdAt": "2025-06-21T00:33:13Z",
+    "stars": 295,
+    "name": "demonxaocasey6/Blank-Grabber",
+    "url": "https://github.com/demonxaocasey6/Blank-Grabber",
+    "lang": "Python",
+    "desc": "grabber 🔥 blank grabber 🔥 updated 2024 🔥 blank password grabber written in python. cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber hpqozl"
+  },
+  {
+    "createdAt": "2025-06-19T18:56:18Z",
+    "stars": 293,
+    "name": "igores82prostotoxa/ZPhisher-Python",
+    "url": "https://github.com/igores82prostotoxa/ZPhisher-Python",
+    "lang": "Python",
+    "desc": "zphisher python edition 🔥 unflagged 🔥 phishmailer gophish socialphish phishing page generator phishing mail zphish phishmailer phishing template shellphisher blackphish  phishmailer gophish socialphish phishing page generator phishing mail zphish phishmailer phishing template shellphisher bxnlqq"
+  },
+  {
+    "createdAt": "2025-06-21T00:32:07Z",
+    "stars": 292,
+    "name": "heelinsendless40/tiktok-bot",
+    "url": "https://github.com/heelinsendless40/tiktok-bot",
+    "lang": "",
+    "desc": "tiktok bot tiktok botting 🔥 tiktok follower 🔥 tiktok likes 🔥 tiktok views tiktok automater tiktok aio quiwaklrc"
+  },
+  {
+    "createdAt": "2025-06-21T00:31:58Z",
+    "stars": 290,
+    "name": "dor8tonimantana/BlackCap-Grabber-NoDualHook",
+    "url": "https://github.com/dor8tonimantana/BlackCap-Grabber-NoDualHook",
+    "lang": "Python",
+    "desc": "grabber 🔥 blackcap grabber 🔥 fixed stealer - dualhook removed - python3 logger blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber pevnrzdh"
+  },
+  {
+    "createdAt": "2025-06-21T00:33:08Z",
+    "stars": 272,
+    "name": "forgetful70kotuk/PyPhisher",
+    "url": "https://github.com/forgetful70kotuk/PyPhisher",
+    "lang": "",
+    "desc": "phisher pyphisher 💥 best phisher in python 💥 phisher written in python for educational purpose. phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website psgoa"
   },
   {
     "createdAt": "2025-06-18T18:36:51Z",
-    "stars": 243,
+    "stars": 261,
     "name": "NickTikhonov/snap-ql",
     "url": "https://github.com/NickTikhonov/snap-ql",
     "lang": "TypeScript",
@@ -137,7 +233,7 @@
   },
   {
     "createdAt": "2025-06-16T19:36:53Z",
-    "stars": 239,
+    "stars": 258,
     "name": "kyutai-labs/delayed-streams-modeling",
     "url": "https://github.com/kyutai-labs/delayed-streams-modeling",
     "lang": "Python",
@@ -152,6 +248,14 @@
     "desc": "PUBG Cheat is a stealthy, undetected external cheats with ESP, HWID spoofing, no spread, recoil control, and a smart PUBG aimbot. Fully streamproof and compatible with Windows 10/11, Fullscreen, and StreamerMode. Dominate with PUBG Cheat and precision PUBG Aimbot today"
   },
   {
+    "createdAt": "2025-06-16T19:34:02Z",
+    "stars": 211,
+    "name": "WhatDreamsCost/Spline-Path-Control",
+    "url": "https://github.com/WhatDreamsCost/Spline-Path-Control",
+    "lang": "JavaScript",
+    "desc": "Create shapes that follow a spline path. Import background image, edit splines, and export as a shape on a white background for use in VACE."
+  },
+  {
     "createdAt": "2025-06-17T04:02:43Z",
     "stars": 201,
     "name": "Axarb/NFTIAI",
@@ -160,100 +264,132 @@
     "desc": "NFTI AI — NFTI your AI Agents & Virtual IP. Bridging intelligent agents, MCP protocols, and RWA to create a new era of digital sovereignty."
   },
   {
-    "createdAt": "2025-06-21T12:40:39Z",
-    "stars": 197,
-    "name": "Tej-Sharma/horizon-overlay",
-    "url": "https://github.com/Tej-Sharma/horizon-overlay",
-    "lang": "Swift",
-    "desc": "AI overlays on top of what you are doing"
+    "createdAt": "2025-06-21T01:00:39Z",
+    "stars": 198,
+    "name": "weesebloodmoney4/discord-advertising-tool",
+    "url": "https://github.com/weesebloodmoney4/discord-advertising-tool",
+    "lang": "Python",
+    "desc": "discord mass dm massdm dm discord discord discord tool advertiser working mass and dm dm discord discord mass discord 🔥 discord mass discord discord discord 24 fingerprints. auto advertiser dm mass supports discord discord auto mass discord dm feb dm dm massdm proxys 🔥 massdm advertising discord massdm discord discord tool dhgdl"
   },
   {
-    "createdAt": "2025-06-16T14:31:57Z",
-    "stars": 187,
-    "name": "vitali87/code-graph-rag",
-    "url": "https://github.com/vitali87/code-graph-rag",
+    "createdAt": "2025-06-21T00:32:21Z",
+    "stars": 198,
+    "name": "bingomatteopowell7/gmail-gen",
+    "url": "https://github.com/bingomatteopowell7/gmail-gen",
     "lang": "Python",
-    "desc": "Search Monorepos and get relevant answers"
+    "desc": "gmail acc generator 💥 2024 fast mass mails 💥 gmail generator with sms verification using sms-activate.org. gmail gen gmail generator mass gmail gen mass gmail generator gmail gen gmail generator mass gmail gen mass gmail generator gmail gen gmail generator mass gmail gen mass gmail generator gmail gen gmail generator mass gmail gen covwty"
+  },
+  {
+    "createdAt": "2025-06-21T00:32:02Z",
+    "stars": 197,
+    "name": "loxnes5946/YouTube-viewbot",
+    "url": "https://github.com/loxnes5946/YouTube-viewbot",
+    "lang": "Python",
+    "desc": "🔥 youtube viewbot 🔥 fast multithread view bot, bot youtube views youtube viewbot youtube view bot youtube viewbot youtube view bot youtube viewbot youtube view bot youtube views youtube viewbot youtube view bot youtube viewbot youtube view bot youtube viewbot youtube view bot phrtn"
   },
   {
     "createdAt": "2025-06-15T15:54:12Z",
-    "stars": 186,
+    "stars": 190,
     "name": "yuaotian/go-augment-cleaner",
     "url": "https://github.com/yuaotian/go-augment-cleaner",
     "lang": "",
     "desc": "清理Augment缓存和生成设备SessionId"
   },
   {
+    "createdAt": "2025-06-15T09:08:41Z",
+    "stars": 181,
+    "name": "xiao-zaiyi/illa-helper",
+    "url": "https://github.com/xiao-zaiyi/illa-helper",
+    "lang": "TypeScript",
+    "desc": "浸入式学语言助手 (Immersive Language Learning Assistant)"
+  },
+  {
     "createdAt": "2025-06-16T14:39:53Z",
-    "stars": 175,
+    "stars": 179,
     "name": "iannuttall/claude-sessions",
     "url": "https://github.com/iannuttall/claude-sessions",
     "lang": "",
     "desc": "Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation"
   },
   {
-    "createdAt": "2025-06-14T19:05:00Z",
-    "stars": 165,
-    "name": "byteom/hinglish-AI-translator",
-    "url": "https://github.com/byteom/hinglish-AI-translator",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-14T19:47:03Z",
-    "stars": 163,
-    "name": "martinbowling/thinkchain",
-    "url": "https://github.com/martinbowling/thinkchain",
-    "lang": "Python",
-    "desc": "🧠 Advanced Claude streaming interface with interleaved thinking, dynamic tool discovery, and MCP integration. Watch Claude think through problems in real-time while executing tools with live progress updates."
-  },
-  {
-    "createdAt": "2025-06-15T04:07:17Z",
-    "stars": 158,
-    "name": "homielab/mountmate",
-    "url": "https://github.com/homielab/mountmate",
-    "lang": "Swift",
-    "desc": "A simple macOS menu bar app to manage external drives"
-  },
-  {
     "createdAt": "2025-06-18T12:43:35Z",
-    "stars": 152,
+    "stars": 166,
     "name": "NtDallas/MemLoader",
     "url": "https://github.com/NtDallas/MemLoader",
     "lang": "C++",
     "desc": "Run native PE or .NET executables entirely in-memory. Build the loader as an .exe or .dll—DllMain is Cobalt Strike UDRL-compatible"
   },
   {
-    "createdAt": "2025-06-14T09:53:42Z",
-    "stars": 151,
-    "name": "syahiidkamil/Software-Engineer-AI-Agent-Atlas",
-    "url": "https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas",
-    "lang": "",
-    "desc": "ATLAS: Software Engineer AI Agent. Living memory persists. Learning compounds.   Every commit evolves it. Professional focus. KISS/YAGNI/DRY and Depend on Context. No overengineering. Clean code and Clean Architecture that works."
+    "createdAt": "2025-06-15T04:07:17Z",
+    "stars": 163,
+    "name": "homielab/mountmate",
+    "url": "https://github.com/homielab/mountmate",
+    "lang": "Swift",
+    "desc": "A simple macOS menu bar app to manage external drives"
   },
   {
     "createdAt": "2025-06-16T07:19:05Z",
-    "stars": 143,
+    "stars": 155,
     "name": "SebastienZh/StockTradebyZ",
     "url": "https://github.com/SebastienZh/StockTradebyZ",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-06-19T18:56:45Z",
+    "stars": 150,
+    "name": "monk-1033/SpotifyStreamingBot",
+    "url": "https://github.com/monk-1033/SpotifyStreamingBot",
+    "lang": "Python",
+    "desc": "spotify stream bot 💥 updated feb 2024 💥 spotify streamer bot can stream thousands of sonds per second. spotify streaming bot spotify streamer bot spotify streaming bot spotify streamer bot spotify streaming bot spotify streamer bot spotify streaming bot spotify streamer bot spotify streaming koxuah"
+  },
+  {
+    "createdAt": "2025-06-21T00:33:26Z",
+    "stars": 149,
+    "name": "desazdurex/discord-booster-tool",
+    "url": "https://github.com/desazdurex/discord-booster-tool",
+    "lang": "Python",
+    "desc": "discord boost bot discord boost bot discord boost tool ✅ updated feb 2024 ✅ discord boosting tool made with python (tokens supported) discord boost tool discord server boost discord boosting tool discord boost tool discord server boost discord boosting tool discord boost tool discord server nhdqemyfq"
+  },
+  {
     "createdAt": "2025-06-16T07:43:47Z",
-    "stars": 142,
+    "stars": 149,
     "name": "zixuan417/humanoid-general-motion-tracking",
     "url": "https://github.com/zixuan417/humanoid-general-motion-tracking",
     "lang": "Python",
     "desc": "The official codebase of paper \"GMT: General Motion Tracking for Humanoid Whole-Body Control\""
   },
   {
-    "createdAt": "2025-06-15T09:08:41Z",
-    "stars": 137,
-    "name": "xiao-zaiyi/illa-helper",
-    "url": "https://github.com/xiao-zaiyi/illa-helper",
-    "lang": "TypeScript",
-    "desc": "浸入式学语言助手 (Immersive Language Learning Assistant)"
+    "createdAt": "2025-06-21T00:34:31Z",
+    "stars": 148,
+    "name": "dinorahgolden872/discord-invite-joiner",
+    "url": "https://github.com/dinorahgolden872/discord-invite-joiner",
+    "lang": "Python",
+    "desc": "discord invite joiner 💥 latest api update 2024 feb 💥 discord invite joiner for joining tokens to a discord server invite. discord invite joiner discord token joiner discord mass token joiner discord invite joiner discord token joiner discord mass token joiner discord invite joiner discord token joiner discord mass token joiner xpgxowbi"
+  },
+  {
+    "createdAt": "2025-06-21T00:31:45Z",
+    "stars": 148,
+    "name": "soldier82silver/fake-usdt-sender",
+    "url": "https://github.com/soldier82silver/fake-usdt-sender",
+    "lang": "Python",
+    "desc": "fake usdt sender 🔥 working 2024 🔥 flash usdt send fake usdt tron chain usdt sender fake usdt tether usd fake sender usdt sender fake flash usdt sender send usdt tron chain flash tether usd coin usdt sender fake usdt sender usdt sender fake flash usdt sender usdt sender fake tether stable coin sender usdt fake sglyvgsksi"
+  },
+  {
+    "createdAt": "2025-06-17T18:50:34Z",
+    "stars": 134,
+    "name": "renancaraujo/liquido",
+    "url": "https://github.com/renancaraujo/liquido",
+    "lang": "Dart",
+    "desc": "Liquido is a way to implement the Liquid Glass effect on Flutter-rendered surfaces"
+  },
+  {
+    "createdAt": "2025-06-16T16:24:46Z",
+    "stars": 133,
+    "name": "ictnlp/Stream-Omni",
+    "url": "https://github.com/ictnlp/Stream-Omni",
+    "lang": "Python",
+    "desc": "Stream-Omni is a GPT-4o-like language-vision-speech chatbot that simultaneously supports interaction across various modality combinations."
   },
   {
     "createdAt": "2025-06-20T06:27:05Z",
@@ -262,141 +398,5 @@
     "url": "https://github.com/r6sx-tools/r6-cheat",
     "lang": "Python",
     "desc": "R6 Cheat is an advanced undetected tool for Rainbow Six Siege X featuring R6S Aimbot, ESP, recoil control, HWID Spoofer, and streamproof overlays. This Rainbow Six Siege X Cheat ensures tactical advantage with full customization, fullscreen support, and stealth operations."
-  },
-  {
-    "createdAt": "2025-06-16T16:24:46Z",
-    "stars": 129,
-    "name": "ictnlp/Stream-Omni",
-    "url": "https://github.com/ictnlp/Stream-Omni",
-    "lang": "Python",
-    "desc": "Stream-Omni is a GPT-4o-like language-vision-speech chatbot that simultaneously supports interaction across various modality combinations."
-  },
-  {
-    "createdAt": "2025-06-17T18:50:34Z",
-    "stars": 129,
-    "name": "renancaraujo/liquido",
-    "url": "https://github.com/renancaraujo/liquido",
-    "lang": "Dart",
-    "desc": "Liquido is a way to implement the Liquid Glass effect on Flutter-rendered surfaces"
-  },
-  {
-    "createdAt": "2025-06-16T06:25:46Z",
-    "stars": 117,
-    "name": "LiQiiiii/DLLM-Survey",
-    "url": "https://github.com/LiQiiiii/DLLM-Survey",
-    "lang": "Python",
-    "desc": "[Arxiv] Discrete Diffusion in Large Language and Multimodal Models: A Survey"
-  },
-  {
-    "createdAt": "2025-06-14T17:16:46Z",
-    "stars": 116,
-    "name": "codeprimate/personfromvid",
-    "url": "https://github.com/codeprimate/personfromvid",
-    "lang": "Python",
-    "desc": "AI-powered video frame extraction tool that automatically identifies and extracts high-quality frames containing people, with intelligent pose categorization (standing/sitting/squatting), head orientation detection, and shot type classification. Features GPU acceleration, resumable processing, and extensive configuration options."
-  },
-  {
-    "createdAt": "2025-06-14T13:37:25Z",
-    "stars": 115,
-    "name": "Dige945/WHUCS_SoftwareEngineeringData",
-    "url": "https://github.com/Dige945/WHUCS_SoftwareEngineeringData",
-    "lang": "",
-    "desc": "武大软工A4资料(25考试数一数二全的一版)"
-  },
-  {
-    "createdAt": "2025-06-18T05:53:23Z",
-    "stars": 111,
-    "name": "Trae-AI/stream-to-river",
-    "url": "https://github.com/Trae-AI/stream-to-river",
-    "lang": "Go",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-17T17:31:24Z",
-    "stars": 100,
-    "name": "valorant-undetected/valorant-safe-cheat",
-    "url": "https://github.com/valorant-undetected/valorant-safe-cheat",
-    "lang": "Python",
-    "desc": "Valorant Cheat includes undetected ESP, a legit-mode aimbot, radar, unlock all, and a secure HWID spoofer. Full StreamerMode support, modular code, and prediction-based aim system make it ideal for security researchers and cheat developers on Windows 10/11."
-  },
-  {
-    "createdAt": "2025-06-17T17:06:44Z",
-    "stars": 99,
-    "name": "Web3Marshal/AITrading",
-    "url": "https://github.com/Web3Marshal/AITrading",
-    "lang": "HTML",
-    "desc": "AI Trading Bot Algorithm Built on The Ethereum Network"
-  },
-  {
-    "createdAt": "2025-06-15T04:48:55Z",
-    "stars": 98,
-    "name": "Mmohet/EfficiencyTool",
-    "url": "https://github.com/Mmohet/EfficiencyTool",
-    "lang": "Swift",
-    "desc": "A bash script wrapped with Swift to send pids to efficiency core"
-  },
-  {
-    "createdAt": "2025-06-21T17:38:52Z",
-    "stars": 95,
-    "name": "warzone-tool/warzone-cheat",
-    "url": "https://github.com/warzone-tool/warzone-cheat",
-    "lang": "Python",
-    "desc": "Warzone Cheat is the ultimate undetected cheat suite for Call of Duty: Warzone. Features include a fully customizable Warzone aimbot, ESP overlays, wallhack, no recoil, unlock all tool, and HWID spoofing. Streamproof, safe, and optimized for Windows 10/11 and Fullscreen. Dominate with Warzone Cheat and precision Warzone Aimbot now."
-  },
-  {
-    "createdAt": "2025-06-16T19:34:02Z",
-    "stars": 95,
-    "name": "WhatDreamsCost/Spline-Path-Control",
-    "url": "https://github.com/WhatDreamsCost/Spline-Path-Control",
-    "lang": "JavaScript",
-    "desc": "Create shapes that follow a spline path. Import background image, edit splines, and export as a shape on a white background for use in VACE."
-  },
-  {
-    "createdAt": "2025-06-17T17:36:25Z",
-    "stars": 92,
-    "name": "Neuralk-AI/TabBench",
-    "url": "https://github.com/Neuralk-AI/TabBench",
-    "lang": "Jupyter Notebook",
-    "desc": "A Tabular Machine Learning Benchmark for Industrial Tasks"
-  },
-  {
-    "createdAt": "2025-06-17T08:43:34Z",
-    "stars": 92,
-    "name": "KyvithadzQd/Mev-Bot-AI",
-    "url": "https://github.com/KyvithadzQd/Mev-Bot-AI",
-    "lang": "",
-    "desc": "CryptoAlgo AI Trading Bot: An advanced, fully automated tool for trading on Ethereum and Binance Smart Chain. Mev./Bot Leverages cross-DEX arbitrage, swing trading, and grid trading strategies with a user-friendly interface. Minimize gas costs and protect against MEV exploits. Start trading at mevbot.online!"
-  },
-  {
-    "createdAt": "2025-06-20T16:37:19Z",
-    "stars": 91,
-    "name": "Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board",
-    "url": "https://github.com/Hodgins1135/LaoNvYouXi_Gold-digger_Message-Board",
-    "lang": "",
-    "desc": "捞女游戏 留言板补档 欢迎补充"
-  },
-  {
-    "createdAt": "2025-06-15T20:32:26Z",
-    "stars": 90,
-    "name": "andrea9293/mcp-documentation-server",
-    "url": "https://github.com/andrea9293/mcp-documentation-server",
-    "lang": "JavaScript",
-    "desc": "MCP Documentation Server - Bridge the AI Knowledge Gap.  ✨ Features: Document management • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup  🎯 Perfect for: New frameworks • API docs • Internal guides"
-  },
-  {
-    "createdAt": "2025-06-14T20:30:44Z",
-    "stars": 89,
-    "name": "r-morato/RM-Homelab",
-    "url": "https://github.com/r-morato/RM-Homelab",
-    "lang": "",
-    "desc": "Journey Through Building and Maintaining My Homelab"
-  },
-  {
-    "createdAt": "2025-06-14T05:15:27Z",
-    "stars": 88,
-    "name": "ghuntley/atlassian-rovo-source-code-z80-dump",
-    "url": "https://github.com/ghuntley/atlassian-rovo-source-code-z80-dump",
-    "lang": "Python",
-    "desc": "Complete reverse engineering of Atlassian ACLI Rovo Dev binary - extracted source code, system prompts, and technical analysis"
   }
 ]
