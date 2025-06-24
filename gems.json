@@ -1,15 +1,7 @@
 [
   {
-    "createdAt": "2025-06-16T17:33:44Z",
-    "stars": 5484,
-    "name": "NirDiamant/agents-towards-production",
-    "url": "https://github.com/NirDiamant/agents-towards-production",
-    "lang": "Jupyter Notebook",
-    "desc": " This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches."
-  },
-  {
     "createdAt": "2025-06-22T08:02:17Z",
-    "stars": 2055,
+    "stars": 3794,
     "name": "OpenCut-app/OpenCut",
     "url": "https://github.com/OpenCut-app/OpenCut",
     "lang": "TypeScript",
@@ -17,7 +9,7 @@
   },
   {
     "createdAt": "2025-06-19T00:00:05Z",
-    "stars": 1818,
+    "stars": 1937,
     "name": "Maciek-roboblog/Claude-Code-Usage-Monitor",
     "url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
     "lang": "Python",
@@ -25,15 +17,23 @@
   },
   {
     "createdAt": "2025-06-19T13:53:26Z",
-    "stars": 1452,
+    "stars": 1760,
     "name": "getAsterisk/claudia",
     "url": "https://github.com/getAsterisk/claudia",
     "lang": "TypeScript",
     "desc": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more."
   },
   {
+    "createdAt": "2025-06-22T12:03:53Z",
+    "stars": 894,
+    "name": "NomenAK/SuperClaude",
+    "url": "https://github.com/NomenAK/SuperClaude",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-06-17T10:04:31Z",
-    "stars": 1167,
+    "stars": 794,
     "name": "ScrapeEmAll/Telegram-Scraper",
     "url": "https://github.com/ScrapeEmAll/Telegram-Scraper",
     "lang": "Python",
@@ -41,7 +41,7 @@
   },
   {
     "createdAt": "2025-06-19T17:04:56Z",
-    "stars": 645,
+    "stars": 686,
     "name": "Any-Distance/any-distance-ios",
     "url": "https://github.com/Any-Distance/any-distance-ios",
     "lang": "Swift",
@@ -56,6 +56,14 @@
     "desc": "🔥 discord nitro generator 🔥 nitro generator & checker ⭐ gens discord nitro codes and checks - discord nitro generator nitro gen bruteforce discord nitro checker discord nitro bruteforcer discord nitro checker discord nitro gen discord nitro generator nitro gen bruteforce discord nitro checker discord nitro bruteforcer hcmru"
   },
   {
+    "createdAt": "2025-06-21T12:40:39Z",
+    "stars": 500,
+    "name": "Tej-Sharma/horizon-overlay-open-source-cluely",
+    "url": "https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely",
+    "lang": "Swift",
+    "desc": "AI overlays on top of what you are doing"
+  },
+  {
     "createdAt": "2025-06-21T00:33:36Z",
     "stars": 490,
     "name": "browneyesnirvana/python-keylogger",
@@ -64,72 +72,32 @@
     "desc": "paython keylogger windows keylogger keylogger discord webhook + email 💥 keylogger windows 10/11 linux 💥 python keylogger working on all os. keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger  yvppfywd"
   },
   {
-    "createdAt": "2025-06-21T12:40:39Z",
-    "stars": 466,
-    "name": "Tej-Sharma/horizon-overlay-open-source-cluely",
-    "url": "https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely",
-    "lang": "Swift",
-    "desc": "AI overlays on top of what you are doing"
-  },
-  {
-    "createdAt": "2025-06-16T14:46:05Z",
-    "stars": 443,
-    "name": "MoonshotAI/Kimi-Dev",
-    "url": "https://github.com/MoonshotAI/Kimi-Dev",
-    "lang": "Python",
-    "desc": "open-source coding LLM for software engineering tasks"
-  },
-  {
-    "createdAt": "2025-06-16T06:39:32Z",
-    "stars": 430,
-    "name": "JimmyLefevre/kb",
-    "url": "https://github.com/JimmyLefevre/kb",
-    "lang": "C",
-    "desc": "kb single-header C/C++ libraries"
-  },
-  {
     "createdAt": "2025-06-18T07:15:54Z",
-    "stars": 421,
+    "stars": 436,
     "name": "THUDM/slime",
     "url": "https://github.com/THUDM/slime",
     "lang": "Python",
     "desc": "slime is a LLM post-training framework aiming at scaling RL."
   },
   {
-    "createdAt": "2025-06-22T12:03:53Z",
-    "stars": 398,
-    "name": "NomenAK/SuperClaude",
-    "url": "https://github.com/NomenAK/SuperClaude",
-    "lang": "Shell",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-06-21T00:32:42Z",
-    "stars": 397,
+    "stars": 399,
     "name": "blackprincestewart/crypter",
     "url": "https://github.com/blackprincestewart/crypter",
     "lang": "Python",
     "desc": "crypter 🔥 .exe crypter 🔥 crypt / obfuscate your file 🔥 100% fud memory running windows crypter .exe crypter exe cryper fud crypter lime crypter onfuscator .net dotnet c c++ crypter obfuscator  windows crypter .exe crypter exe cryper fud crypter lime crypter onfuscator .net dotnet c c++ crypter obfuscator binder  ltggtwytb"
   },
   {
-    "createdAt": "2025-06-16T14:31:57Z",
-    "stars": 361,
-    "name": "vitali87/code-graph-rag",
-    "url": "https://github.com/vitali87/code-graph-rag",
-    "lang": "Python",
-    "desc": "Search Monorepos and get relevant answers"
-  },
-  {
-    "createdAt": "2025-06-21T17:38:52Z",
-    "stars": 328,
-    "name": "warzone-tool/warzone-cheat",
-    "url": "https://github.com/warzone-tool/warzone-cheat",
-    "lang": "Python",
-    "desc": "Warzone Cheat - Unlock Victory with Advanced Aimbot and ESP Features Dominate Call of Duty: Warzone like never before using cutting-edge tools designed to elevate your gameplay. Our Warzone Cheat offers precision Aimbot and powerful ESP features"
+    "createdAt": "2025-06-18T18:36:51Z",
+    "stars": 324,
+    "name": "NickTikhonov/snap-ql",
+    "url": "https://github.com/NickTikhonov/snap-ql",
+    "lang": "TypeScript",
+    "desc": "AI-powered Postgres Client"
   },
   {
     "createdAt": "2025-06-19T18:57:01Z",
-    "stars": 297,
+    "stars": 300,
     "name": "niceguybomjvatake/W4SP-Stealer",
     "url": "https://github.com/niceguybomjvatake/W4SP-Stealer",
     "lang": "Python",
@@ -177,27 +145,11 @@
   },
   {
     "createdAt": "2025-06-21T00:31:58Z",
-    "stars": 290,
+    "stars": 291,
     "name": "dor8tonimantana/BlackCap-Grabber-NoDualHook",
     "url": "https://github.com/dor8tonimantana/BlackCap-Grabber-NoDualHook",
     "lang": "Python",
     "desc": "grabber 🔥 blackcap grabber 🔥 fixed stealer - dualhook removed - python3 logger blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber pevnrzdh"
-  },
-  {
-    "createdAt": "2025-06-18T18:36:51Z",
-    "stars": 283,
-    "name": "NickTikhonov/snap-ql",
-    "url": "https://github.com/NickTikhonov/snap-ql",
-    "lang": "TypeScript",
-    "desc": "AI-powered Postgres Client"
-  },
-  {
-    "createdAt": "2025-06-16T19:36:53Z",
-    "stars": 279,
-    "name": "kyutai-labs/delayed-streams-modeling",
-    "url": "https://github.com/kyutai-labs/delayed-streams-modeling",
-    "lang": "Python",
-    "desc": "Delayed Streams Modeling (DSM) is a flexible formulation for streaming, multimodal sequence-to-sequence learning."
   },
   {
     "createdAt": "2025-06-21T00:33:08Z",
@@ -208,36 +160,28 @@
     "desc": "phisher pyphisher 💥 best phisher in python 💥 phisher written in python for educational purpose. phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website psgoa"
   },
   {
-    "createdAt": "2025-06-16T19:34:02Z",
-    "stars": 267,
-    "name": "WhatDreamsCost/Spline-Path-Control",
-    "url": "https://github.com/WhatDreamsCost/Spline-Path-Control",
-    "lang": "JavaScript",
-    "desc": "Create shapes that follow a spline path. Import background image, edit splines, and export for use in VACE."
-  },
-  {
-    "createdAt": "2025-06-21T01:20:21Z",
-    "stars": 213,
-    "name": "pubgundetected/Undetected-PUBG-cheat",
-    "url": "https://github.com/pubgundetected/Undetected-PUBG-cheat",
+    "createdAt": "2025-06-18T03:30:07Z",
+    "stars": 240,
+    "name": "ChenxinAn-fdu/POLARIS",
+    "url": "https://github.com/ChenxinAn-fdu/POLARIS",
     "lang": "Python",
-    "desc": "PUBG Cheat - Dominate Battlegrounds with Advanced Aimbot and ESP Features  Take your PlayerUnknown’s Battlegrounds experience to the next level with our cutting-edge tools designed to enhance your gameplay. Our PUBG Cheat offers powerful features like precision Aimbot and comprehensive ESP"
+    "desc": "Scaling RL on advanced reasoning models"
   },
   {
     "createdAt": "2025-06-17T04:02:43Z",
-    "stars": 201,
+    "stars": 206,
     "name": "Axarb/NFTIAI",
     "url": "https://github.com/Axarb/NFTIAI",
     "lang": "TypeScript",
     "desc": "NFTI AI — NFTI your AI Agents & Virtual IP. Bridging intelligent agents, MCP protocols, and RWA to create a new era of digital sovereignty."
   },
   {
-    "createdAt": "2025-06-18T03:30:07Z",
+    "createdAt": "2025-06-21T17:38:52Z",
     "stars": 201,
-    "name": "ChenxinAn-fdu/POLARIS",
-    "url": "https://github.com/ChenxinAn-fdu/POLARIS",
+    "name": "warzone-tool/warzone-cheat",
+    "url": "https://github.com/warzone-tool/warzone-cheat",
     "lang": "Python",
-    "desc": "Scaling RL on advanced reasoning models"
+    "desc": "Warzone Cheat - Unlock Victory with Advanced Aimbot and ESP Features Dominate Call of Duty: Warzone like never before using cutting-edge tools designed to elevate your gameplay. Our Warzone Cheat offers precision Aimbot and powerful ESP features"
   },
   {
     "createdAt": "2025-06-21T00:32:21Z",
@@ -249,19 +193,11 @@
   },
   {
     "createdAt": "2025-06-21T01:00:39Z",
-    "stars": 198,
+    "stars": 197,
     "name": "weesebloodmoney4/discord-advertising-tool",
     "url": "https://github.com/weesebloodmoney4/discord-advertising-tool",
     "lang": "Python",
     "desc": "discord mass dm massdm dm discord discord discord tool advertiser working mass and dm dm discord discord mass discord 🔥 discord mass discord discord discord 24 fingerprints. auto advertiser dm mass supports discord discord auto mass discord dm feb dm dm massdm proxys 🔥 massdm advertising discord massdm discord discord tool dhgdl"
-  },
-  {
-    "createdAt": "2025-06-16T14:39:53Z",
-    "stars": 198,
-    "name": "iannuttall/claude-sessions",
-    "url": "https://github.com/iannuttall/claude-sessions",
-    "lang": "",
-    "desc": "Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation"
   },
   {
     "createdAt": "2025-06-21T00:32:02Z",
@@ -273,59 +209,59 @@
   },
   {
     "createdAt": "2025-06-18T12:43:35Z",
-    "stars": 189,
+    "stars": 197,
     "name": "NtDallas/MemLoader",
     "url": "https://github.com/NtDallas/MemLoader",
     "lang": "C++",
     "desc": "Run native PE or .NET executables entirely in-memory. Build the loader as an .exe or .dll—DllMain is Cobalt Strike UDRL-compatible"
   },
   {
-    "createdAt": "2025-06-16T07:19:05Z",
-    "stars": 171,
-    "name": "SebastienZh/StockTradebyZ",
-    "url": "https://github.com/SebastienZh/StockTradebyZ",
+    "createdAt": "2025-06-24T10:23:41Z",
+    "stars": 190,
+    "name": "TgSurfer/Telegram-Member-Adder-Cloner-Scraper-And-Over-43-Functions",
+    "url": "https://github.com/TgSurfer/Telegram-Member-Adder-Cloner-Scraper-And-Over-43-Functions",
     "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-17T07:32:46Z",
-    "stars": 166,
-    "name": "LLMotion/spyder-osint",
-    "url": "https://github.com/LLMotion/spyder-osint",
-    "lang": "Python",
-    "desc": "An universal open-source intelligence (OSINT) research tool"
-  },
-  {
-    "createdAt": "2025-06-18T21:03:35Z",
-    "stars": 159,
-    "name": "anthropic-experimental/agentic-misalignment",
-    "url": "https://github.com/anthropic-experimental/agentic-misalignment",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-16T07:43:47Z",
-    "stars": 159,
-    "name": "zixuan417/humanoid-general-motion-tracking",
-    "url": "https://github.com/zixuan417/humanoid-general-motion-tracking",
-    "lang": "Python",
-    "desc": "The official codebase of paper \"GMT: General Motion Tracking for Humanoid Whole-Body Control\""
+    "desc": "Telegram Members Adding Software/Script for free. Scrape more than 10k Telegram members and add members to your group."
   },
   {
     "createdAt": "2025-06-18T10:57:10Z",
-    "stars": 158,
+    "stars": 178,
     "name": "call0dotco/Call",
     "url": "https://github.com/call0dotco/Call",
     "lang": "TypeScript",
     "desc": "open-source AI-native alternative to Google Meet and Zoom."
   },
   {
-    "createdAt": "2025-06-17T07:30:27Z",
-    "stars": 157,
-    "name": "LLMotion/MonadTestnet-bot",
-    "url": "https://github.com/LLMotion/MonadTestnet-bot",
+    "createdAt": "2025-06-18T21:03:35Z",
+    "stars": 175,
+    "name": "anthropic-experimental/agentic-misalignment",
+    "url": "https://github.com/anthropic-experimental/agentic-misalignment",
     "lang": "Python",
-    "desc": "Monad testnet farm bot"
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-19T12:57:48Z",
+    "stars": 160,
+    "name": "izabera/bitwise-challenge-2048",
+    "url": "https://github.com/izabera/bitwise-challenge-2048",
+    "lang": "Shell",
+    "desc": "2048 with only 64 bits of state"
+  },
+  {
+    "createdAt": "2025-06-20T12:33:14Z",
+    "stars": 155,
+    "name": "panyanyany/Twocast",
+    "url": "https://github.com/panyanyany/Twocast",
+    "lang": "TypeScript",
+    "desc": "AI Podcast Generator for bilingual episodes, Multi Languages, Alternative to NotebookLLM；真人对话AI播客生成器，多语言，多音色"
+  },
+  {
+    "createdAt": "2025-06-20T16:33:48Z",
+    "stars": 151,
+    "name": "joeythepepe/gold-digger-game-archive",
+    "url": "https://github.com/joeythepepe/gold-digger-game-archive",
+    "lang": "",
+    "desc": "Archive of deleted user stories from the Steam game \"捞女游戏\" (Gold Digger Game) 🎯 为被删除的爱情故事留档，为真实经历发声"
   },
   {
     "createdAt": "2025-06-21T00:33:26Z",
@@ -344,14 +280,6 @@
     "desc": "fake usdt sender 🔥 working 2024 🔥 flash usdt send fake usdt tron chain usdt sender fake usdt tether usd fake sender usdt sender fake flash usdt sender send usdt tron chain flash tether usd coin usdt sender fake usdt sender usdt sender fake flash usdt sender usdt sender fake tether stable coin sender usdt fake sglyvgsksi"
   },
   {
-    "createdAt": "2025-06-16T16:24:46Z",
-    "stars": 149,
-    "name": "ictnlp/Stream-Omni",
-    "url": "https://github.com/ictnlp/Stream-Omni",
-    "lang": "Python",
-    "desc": "Stream-Omni is a GPT-4o-like language-vision-speech chatbot that simultaneously supports interaction across various modality combinations."
-  },
-  {
     "createdAt": "2025-06-21T00:34:31Z",
     "stars": 148,
     "name": "dinorahgolden872/discord-invite-joiner",
@@ -360,28 +288,28 @@
     "desc": "discord invite joiner 💥 latest api update 2024 feb 💥 discord invite joiner for joining tokens to a discord server invite. discord invite joiner discord token joiner discord mass token joiner discord invite joiner discord token joiner discord mass token joiner discord invite joiner discord token joiner discord mass token joiner xpgxowbi"
   },
   {
-    "createdAt": "2025-06-19T12:57:48Z",
-    "stars": 147,
-    "name": "izabera/bitwise-challenge-2048",
-    "url": "https://github.com/izabera/bitwise-challenge-2048",
-    "lang": "Shell",
-    "desc": "2048 with only 64 bits of state"
-  },
-  {
     "createdAt": "2025-06-17T18:50:34Z",
-    "stars": 139,
+    "stars": 145,
     "name": "renancaraujo/liquido",
     "url": "https://github.com/renancaraujo/liquido",
     "lang": "Dart",
     "desc": "Liquido is a way to implement the Liquid Glass effect on Flutter-rendered surfaces"
   },
   {
-    "createdAt": "2025-06-20T16:33:48Z",
-    "stars": 135,
-    "name": "joeythepepe/gold-digger-game-archive",
-    "url": "https://github.com/joeythepepe/gold-digger-game-archive",
-    "lang": "",
-    "desc": "Archive of deleted user stories from the Steam game \"捞女游戏\" (Gold Digger Game) 🎯 为被删除的爱情故事留档，为真实经历发声"
+    "createdAt": "2025-06-18T04:17:30Z",
+    "stars": 144,
+    "name": "oDaiSuno/ScholAI",
+    "url": "https://github.com/oDaiSuno/ScholAI",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-21T02:24:19Z",
+    "stars": 139,
+    "name": "KOBA789/human-in-the-loop",
+    "url": "https://github.com/KOBA789/human-in-the-loop",
+    "lang": "Rust",
+    "desc": "An MCP (Model Context Protocol) server that allows AI assistants to ask questions to humans via Discord."
   },
   {
     "createdAt": "2025-06-20T06:27:05Z",
@@ -392,11 +320,83 @@
     "desc": "R6 Cheat is an advanced undetected tool for Rainbow Six Siege X featuring R6S Aimbot, ESP, recoil control, HWID Spoofer, and streamproof overlays. This Rainbow Six Siege X Cheat ensures tactical advantage with full customization, fullscreen support, and stealth operations."
   },
   {
-    "createdAt": "2025-06-16T06:25:46Z",
-    "stars": 132,
-    "name": "LiQiiiii/DLLM-Survey",
-    "url": "https://github.com/LiQiiiii/DLLM-Survey",
+    "createdAt": "2025-06-22T02:36:04Z",
+    "stars": 131,
+    "name": "betomoedano/snapai",
+    "url": "https://github.com/betomoedano/snapai",
+    "lang": "TypeScript",
+    "desc": "AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models."
+  },
+  {
+    "createdAt": "2025-06-21T17:21:45Z",
+    "stars": 128,
+    "name": "michaelshimeles/youpac-ai",
+    "url": "https://github.com/michaelshimeles/youpac-ai",
+    "lang": "TypeScript",
+    "desc": "#1 HackAI hackathon winning project"
+  },
+  {
+    "createdAt": "2025-06-18T05:53:23Z",
+    "stars": 124,
+    "name": "Trae-AI/stream-to-river",
+    "url": "https://github.com/Trae-AI/stream-to-river",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-21T01:20:21Z",
+    "stars": 121,
+    "name": "pubgundetected/Undetected-PUBG-cheat",
+    "url": "https://github.com/pubgundetected/Undetected-PUBG-cheat",
     "lang": "Python",
-    "desc": "[Arxiv] Discrete Diffusion in Large Language and Multimodal Models: A Survey"
+    "desc": "PUBG Cheat - Dominate Battlegrounds with Advanced Aimbot and ESP Features  Take your PlayerUnknown’s Battlegrounds experience to the next level with our cutting-edge tools designed to enhance your gameplay. Our PUBG Cheat offers powerful features like precision Aimbot and comprehensive ESP"
+  },
+  {
+    "createdAt": "2025-06-17T05:27:41Z",
+    "stars": 120,
+    "name": "VoiceNGO/img-responsive",
+    "url": "https://github.com/VoiceNGO/img-responsive",
+    "lang": "JavaScript",
+    "desc": "Responsive images"
+  },
+  {
+    "createdAt": "2025-06-19T11:16:24Z",
+    "stars": 117,
+    "name": "aadya940/autoresume",
+    "url": "https://github.com/aadya940/autoresume",
+    "lang": "Python",
+    "desc": "An Open Source Resume Builder and LaTeX Code Editor with AI Capabilities."
+  },
+  {
+    "createdAt": "2025-06-20T13:15:21Z",
+    "stars": 115,
+    "name": "SakanaAI/RLT",
+    "url": "https://github.com/SakanaAI/RLT",
+    "lang": "Python",
+    "desc": "Training teachers with reinforcement learning able to make LLMs learn how to reason for test time scaling."
+  },
+  {
+    "createdAt": "2025-06-17T02:00:05Z",
+    "stars": 109,
+    "name": "sy-vendor/Gobi",
+    "url": "https://github.com/sy-vendor/Gobi",
+    "lang": "Go",
+    "desc": "Gobi 是一个用 Go 编写的轻量级嵌入式报表和 BI 引擎，专为中小型项目设计，支持图表展示、数据导出和多数据源，一键嵌入系统，快速上线业务洞察功能。"
+  },
+  {
+    "createdAt": "2025-06-20T15:39:47Z",
+    "stars": 107,
+    "name": "JimLiu/agent-translator",
+    "url": "https://github.com/JimLiu/agent-translator",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-21T14:43:36Z",
+    "stars": 106,
+    "name": "iMoonLab/yolov13",
+    "url": "https://github.com/iMoonLab/yolov13",
+    "lang": "Python",
+    "desc": "Implementation of \"YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception\"."
   }
 ]
