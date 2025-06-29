@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-06-22T08:02:17Z",
-    "stars": 6010,
+    "stars": 6091,
     "name": "OpenCut-app/OpenCut",
     "url": "https://github.com/OpenCut-app/OpenCut",
     "lang": "TypeScript",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-06-22T12:03:53Z",
-    "stars": 4005,
+    "stars": 4163,
     "name": "NomenAK/SuperClaude",
     "url": "https://github.com/NomenAK/SuperClaude",
     "lang": "Shell",
@@ -17,23 +17,15 @@
   },
   {
     "createdAt": "2025-06-24T10:23:41Z",
-    "stars": 717,
+    "stars": 794,
     "name": "TgSurfer/Telegram-Member-Adder-Cloner-Scraper-And-Over-43-Functions",
     "url": "https://github.com/TgSurfer/Telegram-Member-Adder-Cloner-Scraper-And-Over-43-Functions",
     "lang": "Python",
     "desc": "Telegram Members Adding Software/Script for free. Scrape more than 10k Telegram members and add members to your group."
   },
   {
-    "createdAt": "2025-06-21T12:40:39Z",
-    "stars": 542,
-    "name": "Tej-Sharma/horizon-overlay-open-source-cluely",
-    "url": "https://github.com/Tej-Sharma/horizon-overlay-open-source-cluely",
-    "lang": "Swift",
-    "desc": "AI overlays on top of what you are doing"
-  },
-  {
     "createdAt": "2025-06-27T23:24:02Z",
-    "stars": 453,
+    "stars": 676,
     "name": "rizethereum/claude-code-requirements-builder",
     "url": "https://github.com/rizethereum/claude-code-requirements-builder",
     "lang": "",
@@ -41,7 +33,7 @@
   },
   {
     "createdAt": "2025-06-26T00:15:05Z",
-    "stars": 385,
+    "stars": 456,
     "name": "anthropics/dxt",
     "url": "https://github.com/anthropics/dxt",
     "lang": "TypeScript",
@@ -49,55 +41,63 @@
   },
   {
     "createdAt": "2025-06-26T07:29:06Z",
-    "stars": 334,
+    "stars": 361,
     "name": "e6a5/zenta",
     "url": "https://github.com/e6a5/zenta",
     "lang": "Go",
     "desc": "zenta - mindfulness for terminal users 🧘‍♂️"
   },
   {
+    "createdAt": "2025-06-27T01:02:27Z",
+    "stars": 343,
+    "name": "Tencent-Hunyuan/Hunyuan-A13B",
+    "url": "https://github.com/Tencent-Hunyuan/Hunyuan-A13B",
+    "lang": "Python",
+    "desc": "Tencent Hunyuan A13B (short as Hunyuan-A13B), an innovative and open-source LLM built on a fine-grained MoE architecture."
+  },
+  {
+    "createdAt": "2025-06-23T08:56:38Z",
+    "stars": 321,
+    "name": "DeepWism/DeepWism-R2",
+    "url": "https://github.com/DeepWism/DeepWism-R2",
+    "lang": "",
+    "desc": "DeepWism R2 is a next-generation AGI system built on the T3CEDS framework (Thin-Thick-Thin Crowd Entropy Dynamics System), which redefines intelligence as a process of entropy reduction rather than attention modeling."
+  },
+  {
+    "createdAt": "2025-06-23T11:44:35Z",
+    "stars": 315,
+    "name": "johnson7788/MultiAgentPPT",
+    "url": "https://github.com/johnson7788/MultiAgentPPT",
+    "lang": "Python",
+    "desc": "MultiAgentPPT 是一个集成了 A2A（Ask-to-Answer）+ MCP（Multi-agent Control Protocol）+ ADK（Agent Development Kit） 架构的智能化演示文稿生成系统，支持通过多智能体协作和流式并发机制"
+  },
+  {
     "createdAt": "2025-06-25T07:22:00Z",
-    "stars": 308,
+    "stars": 313,
     "name": "Kwai-Keye/Keye",
     "url": "https://github.com/Kwai-Keye/Keye",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-21T14:43:36Z",
-    "stars": 288,
-    "name": "iMoonLab/yolov13",
-    "url": "https://github.com/iMoonLab/yolov13",
-    "lang": "Python",
-    "desc": "Implementation of \"YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception\"."
-  },
-  {
-    "createdAt": "2025-06-21T00:33:36Z",
-    "stars": 260,
-    "name": "browneyesnirvana/python-keylogger",
-    "url": "https://github.com/browneyesnirvana/python-keylogger",
-    "lang": "Python",
-    "desc": "paython keylogger windows keylogger keylogger discord webhook + email 💥 keylogger windows 10/11 linux 💥 python keylogger working on all os. keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger  yvppfywd"
-  },
-  {
     "createdAt": "2025-06-26T23:14:09Z",
-    "stars": 247,
+    "stars": 255,
     "name": "pacocoursey/xslt",
     "url": "https://github.com/pacocoursey/xslt",
     "lang": "XSLT",
     "desc": "Native web build system (XML+XSLT)"
   },
   {
-    "createdAt": "2025-06-21T06:42:39Z",
+    "createdAt": "2025-06-22T08:22:30Z",
     "stars": 246,
-    "name": "soroushdeimi/sush-core",
-    "url": "https://github.com/soroushdeimi/sush-core",
-    "lang": "Python",
-    "desc": ""
+    "name": "dulikaifazr/Free-Cursor",
+    "url": "https://github.com/dulikaifazr/Free-Cursor",
+    "lang": "",
+    "desc": "世面上唯一一款免费、无需任何梯子环境、虚拟机环境、浏览器环境就能保持cursor pro试用状态的软件"
   },
   {
     "createdAt": "2025-06-24T10:16:03Z",
-    "stars": 234,
+    "stars": 239,
     "name": "reylinux/Dark-Transparent-Tablet-Dashboard",
     "url": "https://github.com/reylinux/Dark-Transparent-Tablet-Dashboard",
     "lang": "",
@@ -105,35 +105,35 @@
   },
   {
     "createdAt": "2025-06-22T02:36:04Z",
-    "stars": 224,
+    "stars": 233,
     "name": "betomoedano/snapai",
     "url": "https://github.com/betomoedano/snapai",
     "lang": "TypeScript",
     "desc": "AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models."
   },
   {
+    "createdAt": "2025-06-28T12:37:37Z",
+    "stars": 229,
+    "name": "apex-legend-cheat/ApexUltimateSoftware",
+    "url": "https://github.com/apex-legend-cheat/ApexUltimateSoftware",
+    "lang": "C++",
+    "desc": "Apex Cheat is a powerful, undetected toolset for serious players looking to improve their performance in Apex Legends. With customizable features like aimbot, ESP, and triggerbot, this Apex Legends cheat helps you stay ahead without compromising stealth or control. Perfect for competitive players who want an edge"
+  },
+  {
     "createdAt": "2025-06-22T20:04:28Z",
-    "stars": 218,
+    "stars": 219,
     "name": "houyuanchen111/LINO_UniPS",
     "url": "https://github.com/houyuanchen111/LINO_UniPS",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-27T01:02:27Z",
-    "stars": 201,
-    "name": "Tencent-Hunyuan/Hunyuan-A13B",
-    "url": "https://github.com/Tencent-Hunyuan/Hunyuan-A13B",
-    "lang": "Python",
-    "desc": "Tencent Hunyuan A13B (short as Hunyuan-A13B), an innovative and open-source LLM built on a fine-grained MoE architecture."
-  },
-  {
-    "createdAt": "2025-06-21T17:38:52Z",
-    "stars": 199,
-    "name": "warzone-tool/warzone-cheat",
-    "url": "https://github.com/warzone-tool/warzone-cheat",
-    "lang": "Python",
-    "desc": "Warzone Cheat - Unlock Victory with Advanced Aimbot and ESP Features Dominate Call of Duty: Warzone like never before using cutting-edge tools designed to elevate your gameplay. Our Warzone Cheat offers precision Aimbot and powerful ESP features"
+    "createdAt": "2025-06-28T22:05:34Z",
+    "stars": 211,
+    "name": "kaniini/wayback",
+    "url": "https://github.com/kaniini/wayback",
+    "lang": "C",
+    "desc": "experimental X11 compatibility layer"
   },
   {
     "createdAt": "2025-06-27T19:04:08Z",
@@ -144,259 +144,259 @@
     "desc": "Warzone Cheat: Unlock your full potential with this undetected Aimbot features. Featuring the most advanced Warzone Aimbot, ESP, Radar, Skinchanger, and Unlock All Tool. Dominate every lobby with safe, precise, and user-friendly enhancements. Join thousands of players upgrading their Warzone experience."
   },
   {
-    "createdAt": "2025-06-22T08:22:30Z",
-    "stars": 197,
-    "name": "dulikaifazr/Free-Cursor",
-    "url": "https://github.com/dulikaifazr/Free-Cursor",
-    "lang": "",
-    "desc": "世面上唯一一款免费、无需任何梯子环境、虚拟机环境、浏览器环境就能保持cursor pro试用状态的软件"
-  },
-  {
     "createdAt": "2025-06-23T22:06:37Z",
-    "stars": 192,
+    "stars": 194,
     "name": "Gsunshine/meanflow",
     "url": "https://github.com/Gsunshine/meanflow",
     "lang": "Python",
     "desc": "JAX implementation of MeanFlow"
   },
   {
-    "createdAt": "2025-06-23T11:44:35Z",
-    "stars": 184,
-    "name": "johnson7788/MultiAgentPPT",
-    "url": "https://github.com/johnson7788/MultiAgentPPT",
-    "lang": "Python",
-    "desc": "MultiAgentPPT 是一个集成了 A2A（Ask-to-Answer）+ MCP（Multi-agent Control Protocol）+ ADK（Agent Development Kit） 架构的智能化演示文稿生成系统，支持通过多智能体协作和流式并发机制"
-  },
-  {
     "createdAt": "2025-06-26T21:18:04Z",
-    "stars": 178,
+    "stars": 189,
     "name": "obie/claude-on-rails",
     "url": "https://github.com/obie/claude-on-rails",
     "lang": "Ruby",
     "desc": "A development framework for Ruby on Rails developers using Claude Code, inspired by SuperClaude"
   },
   {
-    "createdAt": "2025-06-22T12:14:36Z",
-    "stars": 167,
-    "name": "Sakura-sx/typr",
-    "url": "https://github.com/Sakura-sx/typr",
-    "lang": "Python",
-    "desc": "TUI typing test with a word selection algorithm inspired by keybr"
-  },
-  {
     "createdAt": "2025-06-22T11:27:58Z",
-    "stars": 166,
+    "stars": 179,
     "name": "DocAMYMEI/CRATES",
     "url": "https://github.com/DocAMYMEI/CRATES",
     "lang": "Jupyter Notebook",
     "desc": "Crypto & Cross‑Asset Event Study Toolkit — Cross‑Asset Event Study Analysis Repository"
   },
   {
-    "createdAt": "2025-06-21T00:32:07Z",
-    "stars": 166,
-    "name": "heelinsendless40/tiktok-bot",
-    "url": "https://github.com/heelinsendless40/tiktok-bot",
-    "lang": "",
-    "desc": "tiktok bot tiktok botting 🔥 tiktok follower 🔥 tiktok likes 🔥 tiktok views tiktok automater tiktok aio quiwaklrc"
-  },
-  {
-    "createdAt": "2025-06-21T17:21:45Z",
-    "stars": 161,
-    "name": "michaelshimeles/youpac-ai",
-    "url": "https://github.com/michaelshimeles/youpac-ai",
-    "lang": "TypeScript",
-    "desc": "#1 HackAI hackathon winning project"
-  },
-  {
-    "createdAt": "2025-06-25T07:00:47Z",
-    "stars": 159,
-    "name": "Dimillian/FoundationChat",
-    "url": "https://github.com/Dimillian/FoundationChat",
-    "lang": "Swift",
-    "desc": "A chat app with iOS 26 Foundation Models"
-  },
-  {
-    "createdAt": "2025-06-21T00:33:08Z",
-    "stars": 159,
-    "name": "forgetful70kotuk/PyPhisher",
-    "url": "https://github.com/forgetful70kotuk/PyPhisher",
-    "lang": "",
-    "desc": "phisher pyphisher 💥 best phisher in python 💥 phisher written in python for educational purpose. phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website psgoa"
-  },
-  {
-    "createdAt": "2025-06-21T02:24:19Z",
-    "stars": 158,
-    "name": "KOBA789/human-in-the-loop",
-    "url": "https://github.com/KOBA789/human-in-the-loop",
-    "lang": "Rust",
-    "desc": "An MCP (Model Context Protocol) server that allows AI assistants to ask questions to humans via Discord."
-  },
-  {
     "createdAt": "2025-06-26T08:03:24Z",
-    "stars": 156,
+    "stars": 179,
     "name": "shinshin86/oh-my-logo",
     "url": "https://github.com/shinshin86/oh-my-logo",
     "lang": "TypeScript",
     "desc": "Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI."
   },
   {
-    "createdAt": "2025-06-28T12:37:37Z",
-    "stars": 154,
-    "name": "apex-legend-cheat/ApexUltimateSoftware",
-    "url": "https://github.com/apex-legend-cheat/ApexUltimateSoftware",
-    "lang": "C++",
-    "desc": "Apex Cheat is a powerful, undetected toolset for serious players looking to improve their performance in Apex Legends. With customizable features like aimbot, ESP, and triggerbot, this Apex Legends cheat helps you stay ahead without compromising stealth or control. Perfect for competitive players who want an edge"
-  },
-  {
     "createdAt": "2025-06-26T22:02:05Z",
-    "stars": 148,
+    "stars": 178,
     "name": "SketechWorld/Sketech",
     "url": "https://github.com/SketechWorld/Sketech",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-22T17:31:28Z",
-    "stars": 142,
-    "name": "fuergaosi233/claude-code-proxy",
-    "url": "https://github.com/fuergaosi233/claude-code-proxy",
+    "createdAt": "2025-06-22T12:14:36Z",
+    "stars": 169,
+    "name": "Sakura-sx/typr",
+    "url": "https://github.com/Sakura-sx/typr",
     "lang": "Python",
-    "desc": "Claude Code to OpenAI API Proxy"
+    "desc": "TUI typing test with a word selection algorithm inspired by keybr"
   },
   {
-    "createdAt": "2025-06-22T03:31:23Z",
-    "stars": 141,
-    "name": "DreamLayer-AI/DreamLayer",
-    "url": "https://github.com/DreamLayer-AI/DreamLayer",
-    "lang": "",
-    "desc": "Most intuitive Stable Diffusion WebUI for AI artists, developers & researchers"
+    "createdAt": "2025-06-26T07:04:27Z",
+    "stars": 169,
+    "name": "Iamshankhadeep/ccseva",
+    "url": "https://github.com/Iamshankhadeep/ccseva",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-25T07:00:47Z",
+    "stars": 167,
+    "name": "Dimillian/FoundationChat",
+    "url": "https://github.com/Dimillian/FoundationChat",
+    "lang": "Swift",
+    "desc": "A chat app with iOS 26 Foundation Models"
   },
   {
     "createdAt": "2025-06-22T08:52:50Z",
-    "stars": 134,
+    "stars": 161,
     "name": "FreedomIntelligence/ShareGPT-4o-Image",
     "url": "https://github.com/FreedomIntelligence/ShareGPT-4o-Image",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-23T08:56:38Z",
-    "stars": 128,
-    "name": "DeepWism/DeepWism-R2",
-    "url": "https://github.com/DeepWism/DeepWism-R2",
-    "lang": "",
-    "desc": "DeepWism R2 is a next-generation AGI system built on the T3CEDS framework (Thin-Thick-Thin Crowd Entropy Dynamics System), which redefines intelligence as a process of entropy reduction rather than attention modeling."
-  },
-  {
-    "createdAt": "2025-06-21T00:32:21Z",
-    "stars": 127,
-    "name": "bingomatteopowell7/gmail-gen",
-    "url": "https://github.com/bingomatteopowell7/gmail-gen",
-    "lang": "Python",
-    "desc": "gmail acc generator 💥 2024 fast mass mails 💥 gmail generator with sms verification using sms-activate.org. gmail gen gmail generator mass gmail gen mass gmail generator gmail gen gmail generator mass gmail gen mass gmail generator gmail gen gmail generator mass gmail gen mass gmail generator gmail gen gmail generator mass gmail gen covwty"
-  },
-  {
-    "createdAt": "2025-06-21T01:20:21Z",
-    "stars": 121,
-    "name": "pubgundetected/Undetected-PUBG-cheat",
-    "url": "https://github.com/pubgundetected/Undetected-PUBG-cheat",
-    "lang": "Python",
-    "desc": "PUBG Cheat - Dominate Battlegrounds with Advanced Aimbot and ESP Features  Take your PlayerUnknown’s Battlegrounds experience to the next level with our cutting-edge tools designed to enhance your gameplay. Our PUBG Cheat offers powerful features like precision Aimbot and comprehensive ESP"
-  },
-  {
     "createdAt": "2025-06-27T17:20:56Z",
-    "stars": 120,
+    "stars": 156,
     "name": "lovisdotio/workflow-comfyui-single-image-to-lora-flux",
     "url": "https://github.com/lovisdotio/workflow-comfyui-single-image-to-lora-flux",
     "lang": "",
     "desc": "Single image to Lora Model for Flux in ComfyUI using Llm and Flux Kontext"
   },
   {
-    "createdAt": "2025-06-21T01:00:39Z",
-    "stars": 119,
-    "name": "weesebloodmoney4/discord-advertising-tool",
-    "url": "https://github.com/weesebloodmoney4/discord-advertising-tool",
+    "createdAt": "2025-06-22T17:31:28Z",
+    "stars": 147,
+    "name": "fuergaosi233/claude-code-proxy",
+    "url": "https://github.com/fuergaosi233/claude-code-proxy",
     "lang": "Python",
-    "desc": "discord mass dm massdm dm discord discord discord tool advertiser working mass and dm dm discord discord mass discord 🔥 discord mass discord discord discord 24 fingerprints. auto advertiser dm mass supports discord discord auto mass discord dm feb dm dm massdm proxys 🔥 massdm advertising discord massdm discord discord tool dhgdl"
+    "desc": "Claude Code to OpenAI API Proxy"
   },
   {
-    "createdAt": "2025-06-25T14:28:10Z",
-    "stars": 115,
-    "name": "yevh/rust-security-handbook",
-    "url": "https://github.com/yevh/rust-security-handbook",
+    "createdAt": "2025-06-29T12:29:35Z",
+    "stars": 146,
+    "name": "cheats-warzone/warzone-cheat",
+    "url": "https://github.com/cheats-warzone/warzone-cheat",
+    "lang": "C++",
+    "desc": "Warzone Cheat is the ultimate tool for dominating Call of Duty: Warzone. Featuring a powerful Warzone aimbot, advanced Warzone ESP, and undetected Warzone wallhack, it gives you the edge with safe, customizable, and high-performance Warzone cheats"
+  },
+  {
+    "createdAt": "2025-06-22T03:31:23Z",
+    "stars": 142,
+    "name": "DreamLayer-AI/DreamLayer",
+    "url": "https://github.com/DreamLayer-AI/DreamLayer",
     "lang": "",
-    "desc": "A 10-chapter handbook for writing actually secure Rust: type-safety, panic-proofing & more."
+    "desc": "Most intuitive Stable Diffusion WebUI for AI artists, developers & researchers"
   },
   {
     "createdAt": "2025-06-26T13:13:41Z",
-    "stars": 108,
+    "stars": 136,
     "name": "joaoviictorti/hypnus",
     "url": "https://github.com/joaoviictorti/hypnus",
     "lang": "Rust",
     "desc": "Memory Obfuscation in Rust"
   },
   {
-    "createdAt": "2025-06-24T07:16:05Z",
-    "stars": 105,
-    "name": "fabriziosalmi/certmate",
-    "url": "https://github.com/fabriziosalmi/certmate",
-    "lang": "HTML",
-    "desc": "SSL Certificate Management System (API + UI)"
-  },
-  {
-    "createdAt": "2025-06-21T00:39:18Z",
-    "stars": 102,
-    "name": "instantlyeasy/claude-code-sdk-ts",
-    "url": "https://github.com/instantlyeasy/claude-code-sdk-ts",
-    "lang": "TypeScript",
-    "desc": "Fluent, chainable TypeScript SDK: configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write'). Multi-level logging plus live onMessage/onToolUse callbacks give deep, CLI-compatible observability."
-  },
-  {
-    "createdAt": "2025-06-25T16:40:22Z",
-    "stars": 98,
-    "name": "Done-0/fuck-u-code",
-    "url": "https://github.com/Done-0/fuck-u-code",
-    "lang": "Go",
-    "desc": "屎山代码检测器，评估代码的”屎山等级“，并输出美观的终端报告。"
+    "createdAt": "2025-06-25T14:28:10Z",
+    "stars": 130,
+    "name": "yevh/rust-security-handbook",
+    "url": "https://github.com/yevh/rust-security-handbook",
+    "lang": "",
+    "desc": "A 10-chapter handbook for writing actually secure Rust: type-safety, panic-proofing & more."
   },
   {
     "createdAt": "2025-06-24T16:07:19Z",
-    "stars": 97,
+    "stars": 128,
     "name": "LYL1015/JarvisArt",
     "url": "https://github.com/LYL1015/JarvisArt",
     "lang": "",
     "desc": "JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent"
   },
   {
-    "createdAt": "2025-06-22T08:19:57Z",
-    "stars": 95,
-    "name": "MrRobotoGit/DiscoveryLastFM",
-    "url": "https://github.com/MrRobotoGit/DiscoveryLastFM",
-    "lang": "Python",
-    "desc": "Discovers and download via torrent new music. Based on Last.fm listening history and automatically queues downloads via Lidarr or Headphones  API"
+    "createdAt": "2025-06-23T06:50:54Z",
+    "stars": 123,
+    "name": "anima-x/anima-x",
+    "url": "https://github.com/anima-x/anima-x",
+    "lang": "",
+    "desc": "Official Implementation of [AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models]"
   },
   {
-    "createdAt": "2025-06-26T01:37:50Z",
-    "stars": 95,
-    "name": "indragiek/Context",
-    "url": "https://github.com/indragiek/Context",
-    "lang": "Swift",
-    "desc": "Native macOS client for Model Context Protocol (MCP)"
+    "createdAt": "2025-06-23T09:52:51Z",
+    "stars": 120,
+    "name": "BandarLabs/coderunner",
+    "url": "https://github.com/BandarLabs/coderunner",
+    "lang": "Python",
+    "desc": "A secure local sandbox to run LLM-generated code using Apple containers"
+  },
+  {
+    "createdAt": "2025-06-24T07:16:05Z",
+    "stars": 112,
+    "name": "fabriziosalmi/certmate",
+    "url": "https://github.com/fabriziosalmi/certmate",
+    "lang": "HTML",
+    "desc": "SSL Certificate Management System (API + UI)"
+  },
+  {
+    "createdAt": "2025-06-24T03:35:18Z",
+    "stars": 111,
+    "name": "runjiali-rl/vmem",
+    "url": "https://github.com/runjiali-rl/vmem",
+    "lang": "Python",
+    "desc": "[ICCV 2025] Implementation of VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory"
   },
   {
     "createdAt": "2025-06-23T04:32:59Z",
-    "stars": 93,
+    "stars": 108,
     "name": "alibaba-damo-academy/WorldVLA",
     "url": "https://github.com/alibaba-damo-academy/WorldVLA",
     "lang": "Python",
     "desc": "WorldVLA: Towards Autoregressive Action World Model"
   },
   {
-    "createdAt": "2025-06-21T05:20:09Z",
-    "stars": 92,
-    "name": "hdm/ctail",
-    "url": "https://github.com/hdm/ctail",
+    "createdAt": "2025-06-25T16:40:22Z",
+    "stars": 105,
+    "name": "Done-0/fuck-u-code",
+    "url": "https://github.com/Done-0/fuck-u-code",
     "lang": "Go",
-    "desc": "Tail Certificate Transparency logs and extract hostnames"
+    "desc": "屎山代码检测器，评估代码的”屎山等级“，并输出美观的终端报告。"
+  },
+  {
+    "createdAt": "2025-06-26T17:51:02Z",
+    "stars": 99,
+    "name": "acelin0121/MRAM-based-AI-accelerator",
+    "url": "https://github.com/acelin0121/MRAM-based-AI-accelerator",
+    "lang": "SystemVerilog",
+    "desc": "MRAM-Based AI accelerator"
+  },
+  {
+    "createdAt": "2025-06-26T01:37:50Z",
+    "stars": 99,
+    "name": "indragiek/Context",
+    "url": "https://github.com/indragiek/Context",
+    "lang": "Swift",
+    "desc": "Native macOS client for Model Context Protocol (MCP)"
+  },
+  {
+    "createdAt": "2025-06-22T08:19:57Z",
+    "stars": 96,
+    "name": "MrRobotoGit/DiscoveryLastFM",
+    "url": "https://github.com/MrRobotoGit/DiscoveryLastFM",
+    "lang": "Python",
+    "desc": "Discovers and download via torrent new music. Based on Last.fm listening history and automatically queues downloads via Lidarr or Headphones  API"
+  },
+  {
+    "createdAt": "2025-06-24T10:26:28Z",
+    "stars": 92,
+    "name": "tobilg/awesome-cloudflare-containers",
+    "url": "https://github.com/tobilg/awesome-cloudflare-containers",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-06-22T20:34:23Z",
+    "stars": 91,
+    "name": "PaulJPhilp/EffectPatterns",
+    "url": "https://github.com/PaulJPhilp/EffectPatterns",
+    "lang": "MDX",
+    "desc": "A community-driven knowledge base of practical patterns for Effect-TS."
+  },
+  {
+    "createdAt": "2025-06-25T06:57:54Z",
+    "stars": 87,
+    "name": "vet-run/vet",
+    "url": "https://github.com/vet-run/vet",
+    "lang": "Shell",
+    "desc": "vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit approval to execute. Promoting a safer, more transparent way to handle remote code execution."
+  },
+  {
+    "createdAt": "2025-06-25T03:03:00Z",
+    "stars": 87,
+    "name": "baaivision/UniVLA",
+    "url": "https://github.com/baaivision/UniVLA",
+    "lang": "Python",
+    "desc": "Unified Vision-Language-Action Model"
+  },
+  {
+    "createdAt": "2025-06-24T06:07:36Z",
+    "stars": 83,
+    "name": "Mortd3kay/liquid-glass-compose",
+    "url": "https://github.com/Mortd3kay/liquid-glass-compose",
+    "lang": "Kotlin",
+    "desc": "✨ Glass morphism library for Jetpack Compose with AGSL shaders (Android 13+). Supports blur, distortion, shadows, and more."
+  },
+  {
+    "createdAt": "2025-06-23T08:12:13Z",
+    "stars": 82,
+    "name": "megh-bari/frontend-design-resources",
+    "url": "https://github.com/megh-bari/frontend-design-resources",
+    "lang": "",
+    "desc": "All-in-one resource kit for frontend devs & designer"
+  },
+  {
+    "createdAt": "2025-06-23T22:38:41Z",
+    "stars": 81,
+    "name": "areweai/tsgram-mcp",
+    "url": "https://github.com/areweai/tsgram-mcp",
+    "lang": "JavaScript",
+    "desc": "TSGram - Telegram MCP Server for local Claude Code integration - debug and vibe code on the go!"
   }
 ]
