@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-06-30T14:31:21Z",
-    "stars": 3771,
+    "stars": 3850,
     "name": "stan-smith/FossFLOW",
     "url": "https://github.com/stan-smith/FossFLOW",
     "lang": "TypeScript",
@@ -9,15 +9,23 @@
   },
   {
     "createdAt": "2025-07-02T20:28:49Z",
-    "stars": 2773,
+    "stars": 3208,
     "name": "pickle-com/glass",
     "url": "https://github.com/pickle-com/glass",
     "lang": "JavaScript",
     "desc": ""
   },
   {
+    "createdAt": "2025-07-05T20:40:24Z",
+    "stars": 2149,
+    "name": "HW-whistleblower/True-Story-of-Pangu",
+    "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
+    "lang": "",
+    "desc": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。"
+  },
+  {
     "createdAt": "2025-07-02T11:54:47Z",
-    "stars": 965,
+    "stars": 1613,
     "name": "coleam00/context-engineering-intro",
     "url": "https://github.com/coleam00/context-engineering-intro",
     "lang": "",
@@ -25,39 +33,31 @@
   },
   {
     "createdAt": "2025-06-29T00:16:36Z",
-    "stars": 957,
+    "stars": 1043,
     "name": "davidkimai/Context-Engineering",
     "url": "https://github.com/davidkimai/Context-Engineering",
     "lang": "Python",
     "desc": "\"Context engineering is the delicate art and science of filling the context window with just the right information for the next step.\" — Andrej Karpathy. A practical, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization."
   },
   {
-    "createdAt": "2025-06-29T13:09:26Z",
-    "stars": 617,
-    "name": "yoshiko-pg/reviewit",
-    "url": "https://github.com/yoshiko-pg/reviewit",
-    "lang": "TypeScript",
-    "desc": "A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view"
-  },
-  {
-    "createdAt": "2025-06-28T08:44:06Z",
-    "stars": 592,
-    "name": "THUDM/GLM-4.1V-Thinking",
-    "url": "https://github.com/THUDM/GLM-4.1V-Thinking",
-    "lang": "Python",
-    "desc": "GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning."
-  },
-  {
     "createdAt": "2025-07-02T04:09:37Z",
-    "stars": 540,
+    "stars": 897,
     "name": "farzaa/gemini-bball",
     "url": "https://github.com/farzaa/gemini-bball",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-06-29T13:09:26Z",
+    "stars": 630,
+    "name": "yoshiko-pg/reviewit",
+    "url": "https://github.com/yoshiko-pg/reviewit",
+    "lang": "TypeScript",
+    "desc": "A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view"
+  },
+  {
     "createdAt": "2025-06-30T02:26:57Z",
-    "stars": 505,
+    "stars": 572,
     "name": "MeiGen-AI/PosterCraft",
     "url": "https://github.com/MeiGen-AI/PosterCraft",
     "lang": "Python",
@@ -65,63 +65,47 @@
   },
   {
     "createdAt": "2025-07-02T18:05:24Z",
-    "stars": 477,
+    "stars": 524,
     "name": "ZZZSimulator/ZSim",
     "url": "https://github.com/ZZZSimulator/ZSim",
     "lang": "Python",
     "desc": "绝区零模拟仿真程序，可使用定制化手法，计算伤害。"
   },
   {
-    "createdAt": "2025-06-28T22:05:34Z",
-    "stars": 475,
-    "name": "kaniini/wayback",
-    "url": "https://github.com/kaniini/wayback",
-    "lang": "C",
-    "desc": "experimental X11 compatibility layer"
-  },
-  {
-    "createdAt": "2025-06-30T11:32:49Z",
-    "stars": 433,
-    "name": "Younghusband/huawei-od-active-manage",
-    "url": "https://github.com/Younghusband/huawei-od-active-manage",
-    "lang": "",
-    "desc": "华为式主动管理"
-  },
-  {
-    "createdAt": "2025-07-01T04:13:54Z",
-    "stars": 423,
-    "name": "apple/ml-diffucoder",
-    "url": "https://github.com/apple/ml-diffucoder",
-    "lang": "Python",
-    "desc": "DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation"
-  },
-  {
     "createdAt": "2025-07-02T01:09:02Z",
-    "stars": 421,
+    "stars": 480,
     "name": "awwaiid/gremllm",
     "url": "https://github.com/awwaiid/gremllm",
     "lang": "Python",
     "desc": "A slight upgrade to the Gremlins in your code"
   },
   {
+    "createdAt": "2025-07-01T04:13:54Z",
+    "stars": 460,
+    "name": "apple/ml-diffucoder",
+    "url": "https://github.com/apple/ml-diffucoder",
+    "lang": "Python",
+    "desc": "DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation"
+  },
+  {
+    "createdAt": "2025-06-30T11:32:49Z",
+    "stars": 440,
+    "name": "Younghusband/huawei-od-active-manage",
+    "url": "https://github.com/Younghusband/huawei-od-active-manage",
+    "lang": "",
+    "desc": "华为式主动管理"
+  },
+  {
     "createdAt": "2025-07-03T03:48:51Z",
-    "stars": 417,
+    "stars": 438,
     "name": "contraptionco/postcard",
     "url": "https://github.com/contraptionco/postcard",
     "lang": "Ruby",
     "desc": "Personal website + newsletter as an alternative to social media."
   },
   {
-    "createdAt": "2025-06-28T17:59:09Z",
-    "stars": 326,
-    "name": "TheAhmadOsman/4o-ghibli-at-home",
-    "url": "https://github.com/TheAhmadOsman/4o-ghibli-at-home",
-    "lang": "JavaScript",
-    "desc": "The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy."
-  },
-  {
     "createdAt": "2025-07-01T09:01:12Z",
-    "stars": 313,
+    "stars": 413,
     "name": "sajjadabd/freenet",
     "url": "https://github.com/sajjadabd/freenet",
     "lang": "Python",
@@ -129,23 +113,23 @@
   },
   {
     "createdAt": "2025-07-01T23:34:31Z",
-    "stars": 309,
+    "stars": 345,
     "name": "c4pt0r/gmailtail",
     "url": "https://github.com/c4pt0r/gmailtail",
     "lang": "Python",
     "desc": "tail -f your gmail"
   },
   {
-    "createdAt": "2025-06-28T10:31:00Z",
-    "stars": 288,
-    "name": "Qteam-official/ICMPTunnel",
-    "url": "https://github.com/Qteam-official/ICMPTunnel",
-    "lang": "Shell",
-    "desc": ""
+    "createdAt": "2025-07-04T15:51:31Z",
+    "stars": 284,
+    "name": "tikel1/HA-isometric-animated-picture-card",
+    "url": "https://github.com/tikel1/HA-isometric-animated-picture-card",
+    "lang": "JavaScript",
+    "desc": "Custom Lovelace cards that let Home-Assistant picture-elements play WebM (or PNG) animations whose frame or loop speed updates in real time from any entity state. Including an AI workflow that turns any room photo into a live picture-elements scene"
   },
   {
     "createdAt": "2025-06-30T15:33:16Z",
-    "stars": 276,
+    "stars": 277,
     "name": "Tevrinodt6aXTD/Mev-Trading-Bot",
     "url": "https://github.com/Tevrinodt6aXTD/Mev-Trading-Bot",
     "lang": "HTML",
@@ -153,15 +137,39 @@
   },
   {
     "createdAt": "2025-07-02T13:50:17Z",
-    "stars": 219,
+    "stars": 247,
     "name": "wessamlauf/homeassistant-frosted-glass-themes",
     "url": "https://github.com/wessamlauf/homeassistant-frosted-glass-themes",
     "lang": "",
     "desc": "Frosted Glass Theme for Home Assistant - Light and Dark version"
   },
   {
+    "createdAt": "2025-07-02T11:04:30Z",
+    "stars": 244,
+    "name": "peterkrueck/Claude-Code-Development-Kit",
+    "url": "https://github.com/peterkrueck/Claude-Code-Development-Kit",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-04T07:36:22Z",
+    "stars": 238,
+    "name": "maciej-trebacz/tower-of-time-game",
+    "url": "https://github.com/maciej-trebacz/tower-of-time-game",
+    "lang": "TypeScript",
+    "desc": "Vibe coded Tower Defense type of game made for a game jam"
+  },
+  {
+    "createdAt": "2025-07-05T00:58:38Z",
+    "stars": 221,
+    "name": "leroiduflow/Wallsync",
+    "url": "https://github.com/leroiduflow/Wallsync",
+    "lang": "",
+    "desc": "A place where all wallpapers can be found .... magic!!!"
+  },
+  {
     "createdAt": "2025-06-29T06:45:11Z",
-    "stars": 190,
+    "stars": 212,
     "name": "jamubc/gemini-mcp-tool",
     "url": "https://github.com/jamubc/gemini-mcp-tool",
     "lang": "JavaScript",
@@ -169,7 +177,7 @@
   },
   {
     "createdAt": "2025-07-01T11:26:15Z",
-    "stars": 189,
+    "stars": 199,
     "name": "pr0v3rbs/CVE-2025-32463_chwoot",
     "url": "https://github.com/pr0v3rbs/CVE-2025-32463_chwoot",
     "lang": "Shell",
@@ -177,43 +185,51 @@
   },
   {
     "createdAt": "2025-06-30T15:25:02Z",
-    "stars": 180,
+    "stars": 198,
     "name": "SakanaAI/treequest",
     "url": "https://github.com/SakanaAI/treequest",
     "lang": "Python",
     "desc": "A Tree Search Library with Flexible API for LLM Inference-Time Scaling"
   },
   {
-    "createdAt": "2025-07-04T07:36:22Z",
+    "createdAt": "2025-07-01T11:07:51Z",
+    "stars": 181,
+    "name": "DeepWism/DeepWism-miRNA",
+    "url": "https://github.com/DeepWism/DeepWism-miRNA",
+    "lang": "",
+    "desc": "A L4 innovative AGI System Empowering miRNA Drug Discovery"
+  },
+  {
+    "createdAt": "2025-07-05T18:41:42Z",
+    "stars": 179,
+    "name": "terryso/claude-auto-resume",
+    "url": "https://github.com/terryso/claude-auto-resume",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-05T16:25:34Z",
+    "stars": 175,
+    "name": "salukiDew/MonadTestnet-Bot",
+    "url": "https://github.com/salukiDew/MonadTestnet-Bot",
+    "lang": "Python",
+    "desc": "A bot for automated Monad Testnet farm"
+  },
+  {
+    "createdAt": "2025-07-05T16:08:53Z",
     "stars": 173,
-    "name": "maciej-trebacz/tower-of-time-game",
-    "url": "https://github.com/maciej-trebacz/tower-of-time-game",
-    "lang": "TypeScript",
-    "desc": "Vibe coded Tower Defense type of game made for a game jam"
-  },
-  {
-    "createdAt": "2025-06-28T09:10:38Z",
-    "stars": 167,
-    "name": "cmriat/l0",
-    "url": "https://github.com/cmriat/l0",
+    "name": "salukiDew/grass-bot",
+    "url": "https://github.com/salukiDew/grass-bot",
     "lang": "Python",
-    "desc": "A scalable, end-to-end training pipeline for general-purpose agents"
+    "desc": "bot for automated grass farming"
   },
   {
-    "createdAt": "2025-06-28T09:36:09Z",
+    "createdAt": "2025-07-03T13:25:07Z",
     "stars": 151,
-    "name": "HVision-NKU/DepthAnythingAC",
-    "url": "https://github.com/HVision-NKU/DepthAnythingAC",
+    "name": "liuff19/LangScene-X",
+    "url": "https://github.com/liuff19/LangScene-X",
     "lang": "Python",
-    "desc": "Official code for the paper: Depth Anything At Any Condition"
-  },
-  {
-    "createdAt": "2025-06-28T08:52:08Z",
-    "stars": 147,
-    "name": "PancakeTAS/lsfg-vk",
-    "url": "https://github.com/PancakeTAS/lsfg-vk",
-    "lang": "C++",
-    "desc": "Lossless Scaling Frame Generation on Linux via DXVK/Vulkan"
+    "desc": "[ICCV 2025] LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion"
   },
   {
     "createdAt": "2025-07-03T16:03:09Z",
@@ -224,36 +240,60 @@
     "desc": "TradeMaster AI: A revolutionary, hands-free trading platform for Ethereum and Binance Smart Chain. Harnesses innovative arbitrage, momentum, and range-bound strategies with a sleek interface. Lowers transaction costs and defends against MEV threats. "
   },
   {
-    "createdAt": "2025-07-01T11:07:51Z",
-    "stars": 133,
-    "name": "DeepWism/DeepWism-miRNA",
-    "url": "https://github.com/DeepWism/DeepWism-miRNA",
-    "lang": "",
-    "desc": "A L4 innovative AGI System Empowering miRNA Drug Discovery"
-  },
-  {
     "createdAt": "2025-06-30T07:08:36Z",
-    "stars": 132,
+    "stars": 143,
     "name": "Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-",
     "url": "https://github.com/Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-",
     "lang": "",
     "desc": "This checklist is designed to help you systematically prepare and polish academic papers for top conferences and journals (e.g., ICML, NeurIPS, CVPR). It incorporates widely recommended best practices, formatting standards, and common reviewer expectations."
   },
   {
+    "createdAt": "2025-06-30T06:33:18Z",
+    "stars": 141,
+    "name": "CN-makers/LongAnimation",
+    "url": "https://github.com/CN-makers/LongAnimation",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-03T18:16:14Z",
+    "stars": 139,
+    "name": "teddynote-lab/langconnect-client",
+    "url": "https://github.com/teddynote-lab/langconnect-client",
+    "lang": "TypeScript",
+    "desc": "A Modern GUI Interface for Vector Database Management(Supports MCP integration)"
+  },
+  {
     "createdAt": "2025-06-30T09:08:21Z",
-    "stars": 124,
+    "stars": 135,
     "name": "senereone/PRNet",
     "url": "https://github.com/senereone/PRNet",
     "lang": "Python",
     "desc": "PRNet is an end-to-end method of recovering the visual content of perceptually encrypted images, without any manual work or knowing any prior knowledge of the encryption scheme."
   },
   {
-    "createdAt": "2025-06-28T16:16:35Z",
-    "stars": 123,
-    "name": "octra-labs/octra_pre_client",
-    "url": "https://github.com/octra-labs/octra_pre_client",
+    "createdAt": "2025-06-30T13:41:12Z",
+    "stars": 131,
+    "name": "Calligrapher2025/Calligrapher",
+    "url": "https://github.com/Calligrapher2025/Calligrapher",
     "lang": "Python",
-    "desc": "a terminal wallet reminiscent of DOS-era TUI interfaces — but built with modern asynchronous architecture"
+    "desc": "Calligrapher: Freestyle Text Image Customization"
+  },
+  {
+    "createdAt": "2025-07-05T14:35:32Z",
+    "stars": 125,
+    "name": "24imepuza/rust-cheat",
+    "url": "https://github.com/24imepuza/rust-cheat",
+    "lang": "C++",
+    "desc": "Rust Cheat provides undetected tools like Rust aimbot, Rust ESP, and Rust wallhack to dominate enemies and farm faster. Featuring no recoil, loot ESP, and HWID spoofer, it gives you a tactical edge in any server. Stay safe, stay ahead, and control the Rust battlefield effortlessly"
+  },
+  {
+    "createdAt": "2025-06-30T03:37:35Z",
+    "stars": 123,
+    "name": "JohnsonJiang1996/Awesome-VLA4AD",
+    "url": "https://github.com/JohnsonJiang1996/Awesome-VLA4AD",
+    "lang": "",
+    "desc": "A List of Vision–Language–Action models for Autonomous Driving (VLA4AD) resources, serving as the companion repository to the survey paper “A Survey on Vision–Language–Action Models for Autonomous Driving”."
   },
   {
     "createdAt": "2025-07-01T09:18:53Z",
@@ -264,40 +304,24 @@
     "desc": "A modern browser extension template with sidepanel support, built with WXT + Tailwind CSS 4.0 + shadcn/ui."
   },
   {
-    "createdAt": "2025-07-03T13:25:07Z",
-    "stars": 114,
-    "name": "liuff19/LangScene-X",
-    "url": "https://github.com/liuff19/LangScene-X",
-    "lang": "Python",
-    "desc": "[ICCV 2025] LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion"
+    "createdAt": "2025-07-04T09:21:41Z",
+    "stars": 121,
+    "name": "devdacian/ai-auditor-primers",
+    "url": "https://github.com/devdacian/ai-auditor-primers",
+    "lang": "",
+    "desc": "Primers for Specialist AI Smart Contract Auditors"
   },
   {
-    "createdAt": "2025-06-30T06:33:18Z",
-    "stars": 113,
-    "name": "CN-makers/LongAnimation",
-    "url": "https://github.com/CN-makers/LongAnimation",
-    "lang": "Python",
+    "createdAt": "2025-07-05T03:07:12Z",
+    "stars": 114,
+    "name": "HonestyAGI/LLM-Fingerprint",
+    "url": "https://github.com/HonestyAGI/LLM-Fingerprint",
+    "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-28T18:58:07Z",
-    "stars": 113,
-    "name": "GVCoder09/NoDPI4Android",
-    "url": "https://github.com/GVCoder09/NoDPI4Android",
-    "lang": "Python",
-    "desc": "NoDPI4Android is an Android app for bypassing the DPI (Deep Packet Inspection) "
-  },
-  {
-    "createdAt": "2025-06-30T03:37:35Z",
-    "stars": 111,
-    "name": "JohnsonJiang1996/Awesome-VLA4AD",
-    "url": "https://github.com/JohnsonJiang1996/Awesome-VLA4AD",
-    "lang": "",
-    "desc": "A List of Vision–Language–Action models for Autonomous Driving (VLA4AD) resources, serving as the companion repository to the survey paper “A Survey on Vision–Language–Action Models for Autonomous Driving”."
-  },
-  {
     "createdAt": "2025-06-29T19:02:19Z",
-    "stars": 109,
+    "stars": 112,
     "name": "GeeDook/mirava",
     "url": "https://github.com/GeeDook/mirava",
     "lang": "HTML",
@@ -312,64 +336,48 @@
     "desc": "Quantum Stressor X1 - A powerful Free IP Stresser & IP Booter by https://nightmare-stresser.co. Features 18 Layer 4 and 6 Layer 7 methods powered by the Nightmare Stresser API, with API key authentication and attack controls for cinematic network testing. Use responsibly."
   },
   {
-    "createdAt": "2025-06-28T01:46:46Z",
-    "stars": 103,
-    "name": "Dicklesworthstone/claude_code_agent_farm",
-    "url": "https://github.com/Dicklesworthstone/claude_code_agent_farm",
-    "lang": "Shell",
+    "createdAt": "2025-07-05T14:13:43Z",
+    "stars": 106,
+    "name": "50qiput/warzone-cheat",
+    "url": "https://github.com/50qiput/warzone-cheat",
+    "lang": "C++",
+    "desc": "Warzone Cheat offers undetected and powerful tools like warzone aimbot, ESP, and wallhack for total domination in Call of Duty: Warzone. Unlock advanced features, gain tactical advantage, and stay safe with built-in HWID spoofer. Join now and rise above with the best Warzone cheats available."
+  },
+  {
+    "createdAt": "2025-06-30T14:03:25Z",
+    "stars": 105,
+    "name": "xhdr0618/Awesome-ai4protein",
+    "url": "https://github.com/xhdr0618/Awesome-ai4protein",
+    "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-28T13:57:02Z",
+    "createdAt": "2025-07-05T16:31:25Z",
     "stars": 103,
-    "name": "Lynnette177/GirlHook",
-    "url": "https://github.com/Lynnette177/GirlHook",
-    "lang": "C++",
-    "desc": "GirlHook is a Lua-scriptable ART hook framework designed for dynamic method interception and gadget-level instrumentation on Android. G.I.R.L. stands for Gadget-Injection Runtime for Lua, highlighting its modular native core and script-driven flexibility. GirlHook是一个轻量化的运行LUA脚本的Android Hook框架"
+    "name": "salukiDew/DawnBot",
+    "url": "https://github.com/salukiDew/DawnBot",
+    "lang": "Python",
+    "desc": "Bot for Dawn validator auto farm"
   },
   {
     "createdAt": "2025-06-30T21:53:02Z",
-    "stars": 101,
+    "stars": 103,
     "name": "KyleAMathews/tanstack-start-db-electric-starter",
     "url": "https://github.com/KyleAMathews/tanstack-start-db-electric-starter",
     "lang": "TypeScript",
     "desc": "A TanStack Start/DB & Electric starter"
   },
   {
-    "createdAt": "2025-07-04T09:21:41Z",
-    "stars": 100,
-    "name": "devdacian/ai-auditor-primers",
-    "url": "https://github.com/devdacian/ai-auditor-primers",
-    "lang": "",
-    "desc": "Primers for Specialist AI Smart Contract Auditors"
-  },
-  {
-    "createdAt": "2025-06-28T06:33:53Z",
-    "stars": 97,
-    "name": "MightyDillah/apple-doc-mcp",
-    "url": "https://github.com/MightyDillah/apple-doc-mcp",
-    "lang": "JavaScript",
-    "desc": "\"MCP server providing seamless access to Apple Developer Documentation with smart search and wildcard support"
-  },
-  {
-    "createdAt": "2025-07-01T09:18:46Z",
-    "stars": 95,
-    "name": "carlnehm/vocode-core",
-    "url": "https://github.com/carlnehm/vocode-core",
-    "lang": "Python",
+    "createdAt": "2025-07-03T04:20:30Z",
+    "stars": 102,
+    "name": "tingxifa/claude_proxy",
+    "url": "https://github.com/tingxifa/claude_proxy",
+    "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-30T07:55:29Z",
-    "stars": 95,
-    "name": "ltzheng/SimpleTIR",
-    "url": "https://github.com/ltzheng/SimpleTIR",
-    "lang": "Python",
-    "desc": "End-to-End Reinforcement Learning for Multi-Turn Tool-Integrated Reasoning"
-  },
-  {
     "createdAt": "2025-07-04T23:22:00Z",
-    "stars": 95,
+    "stars": 102,
     "name": "SmPremium/Telegram-Members-Adder-Marketing-Tool-Scraper-Forwarder-Many-More-Features",
     "url": "https://github.com/SmPremium/Telegram-Members-Adder-Marketing-Tool-Scraper-Forwarder-Many-More-Features",
     "lang": "",
@@ -377,26 +385,18 @@
   },
   {
     "createdAt": "2025-07-03T03:24:04Z",
-    "stars": 95,
+    "stars": 100,
     "name": "TopChina/proxy-list",
     "url": "https://github.com/TopChina/proxy-list",
     "lang": "",
     "desc": "Free proxy list HTTP, Socks4 and Socks5 open proxy lists"
   },
   {
-    "createdAt": "2025-07-01T05:59:56Z",
-    "stars": 94,
-    "name": "carlnehm/ai-pdf-chatbot-langchain",
-    "url": "https://github.com/carlnehm/ai-pdf-chatbot-langchain",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-30T20:31:50Z",
-    "stars": 94,
-    "name": "ajsahidhasan124/php-bypass-shells",
-    "url": "https://github.com/ajsahidhasan124/php-bypass-shells",
-    "lang": "PHP",
-    "desc": "Advanced PHP Bypass Shells Collection | Disable_Functions, WAF & Open_basedir Bypass"
+    "createdAt": "2025-07-05T08:18:59Z",
+    "stars": 98,
+    "name": "maftuh23/sqllite-api-wilayah-indonesia",
+    "url": "https://github.com/maftuh23/sqllite-api-wilayah-indonesia",
+    "lang": "",
+    "desc": "Database SQLite wilayah Indonesia (provinsi, kabupaten, kecamatan, desa)."
   }
 ]
