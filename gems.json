@@ -1,7 +1,15 @@
 [
   {
+    "createdAt": "2025-07-05T20:40:24Z",
+    "stars": 6633,
+    "name": "HW-whistleblower/True-Story-of-Pangu",
+    "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
+    "lang": "",
+    "desc": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。"
+  },
+  {
     "createdAt": "2025-06-30T14:31:21Z",
-    "stars": 3850,
+    "stars": 3978,
     "name": "stan-smith/FossFLOW",
     "url": "https://github.com/stan-smith/FossFLOW",
     "lang": "TypeScript",
@@ -9,55 +17,39 @@
   },
   {
     "createdAt": "2025-07-02T20:28:49Z",
-    "stars": 3208,
+    "stars": 3586,
     "name": "pickle-com/glass",
     "url": "https://github.com/pickle-com/glass",
     "lang": "JavaScript",
-    "desc": ""
+    "desc": "Digital Mind Extension"
   },
   {
-    "createdAt": "2025-07-05T20:40:24Z",
-    "stars": 2149,
-    "name": "HW-whistleblower/True-Story-of-Pangu",
-    "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
-    "lang": "",
-    "desc": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。"
+    "createdAt": "2025-07-04T14:34:38Z",
+    "stars": 2982,
+    "name": "jackjackbits/bitchat",
+    "url": "https://github.com/jackjackbits/bitchat",
+    "lang": "Swift",
+    "desc": "bluetooth mesh chat, IRC vibes"
   },
   {
     "createdAt": "2025-07-02T11:54:47Z",
-    "stars": 1613,
+    "stars": 2872,
     "name": "coleam00/context-engineering-intro",
     "url": "https://github.com/coleam00/context-engineering-intro",
     "lang": "",
     "desc": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!"
   },
   {
-    "createdAt": "2025-06-29T00:16:36Z",
-    "stars": 1043,
-    "name": "davidkimai/Context-Engineering",
-    "url": "https://github.com/davidkimai/Context-Engineering",
-    "lang": "Python",
-    "desc": "\"Context engineering is the delicate art and science of filling the context window with just the right information for the next step.\" — Andrej Karpathy. A practical, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization."
-  },
-  {
     "createdAt": "2025-07-02T04:09:37Z",
-    "stars": 897,
+    "stars": 991,
     "name": "farzaa/gemini-bball",
     "url": "https://github.com/farzaa/gemini-bball",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-06-29T13:09:26Z",
-    "stars": 630,
-    "name": "yoshiko-pg/reviewit",
-    "url": "https://github.com/yoshiko-pg/reviewit",
-    "lang": "TypeScript",
-    "desc": "A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view"
-  },
-  {
     "createdAt": "2025-06-30T02:26:57Z",
-    "stars": 572,
+    "stars": 676,
     "name": "MeiGen-AI/PosterCraft",
     "url": "https://github.com/MeiGen-AI/PosterCraft",
     "lang": "Python",
@@ -65,15 +57,23 @@
   },
   {
     "createdAt": "2025-07-02T18:05:24Z",
-    "stars": 524,
+    "stars": 555,
     "name": "ZZZSimulator/ZSim",
     "url": "https://github.com/ZZZSimulator/ZSim",
     "lang": "Python",
     "desc": "绝区零模拟仿真程序，可使用定制化手法，计算伤害。"
   },
   {
+    "createdAt": "2025-07-06T04:45:58Z",
+    "stars": 516,
+    "name": "zanfranceschi/rinha-de-backend-2025",
+    "url": "https://github.com/zanfranceschi/rinha-de-backend-2025",
+    "lang": "JavaScript",
+    "desc": "Rinha de Backend - Terceira Edição"
+  },
+  {
     "createdAt": "2025-07-02T01:09:02Z",
-    "stars": 480,
+    "stars": 516,
     "name": "awwaiid/gremllm",
     "url": "https://github.com/awwaiid/gremllm",
     "lang": "Python",
@@ -81,39 +81,55 @@
   },
   {
     "createdAt": "2025-07-01T04:13:54Z",
-    "stars": 460,
+    "stars": 497,
     "name": "apple/ml-diffucoder",
     "url": "https://github.com/apple/ml-diffucoder",
     "lang": "Python",
     "desc": "DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation"
   },
   {
-    "createdAt": "2025-06-30T11:32:49Z",
-    "stars": 440,
-    "name": "Younghusband/huawei-od-active-manage",
-    "url": "https://github.com/Younghusband/huawei-od-active-manage",
-    "lang": "",
-    "desc": "华为式主动管理"
-  },
-  {
-    "createdAt": "2025-07-03T03:48:51Z",
-    "stars": 438,
-    "name": "contraptionco/postcard",
-    "url": "https://github.com/contraptionco/postcard",
-    "lang": "Ruby",
-    "desc": "Personal website + newsletter as an alternative to social media."
-  },
-  {
     "createdAt": "2025-07-01T09:01:12Z",
-    "stars": 413,
+    "stars": 456,
     "name": "sajjadabd/freenet",
     "url": "https://github.com/sajjadabd/freenet",
     "lang": "Python",
     "desc": "connect freely to the internet"
   },
   {
+    "createdAt": "2025-07-03T03:48:51Z",
+    "stars": 454,
+    "name": "contraptionco/postcard",
+    "url": "https://github.com/contraptionco/postcard",
+    "lang": "Ruby",
+    "desc": "Personal website + newsletter as an alternative to social media."
+  },
+  {
+    "createdAt": "2025-06-30T11:32:49Z",
+    "stars": 450,
+    "name": "Younghusband/huawei-od-active-manage",
+    "url": "https://github.com/Younghusband/huawei-od-active-manage",
+    "lang": "",
+    "desc": "华为式主动管理"
+  },
+  {
+    "createdAt": "2025-07-02T11:04:30Z",
+    "stars": 406,
+    "name": "peterkrueck/Claude-Code-Development-Kit",
+    "url": "https://github.com/peterkrueck/Claude-Code-Development-Kit",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-06T09:51:27Z",
+    "stars": 389,
+    "name": "MemTensor/MemOS",
+    "url": "https://github.com/MemTensor/MemOS",
+    "lang": "Python",
+    "desc": "MemOS (Preview) | Intelligence Begins with Memory"
+  },
+  {
     "createdAt": "2025-07-01T23:34:31Z",
-    "stars": 345,
+    "stars": 372,
     "name": "c4pt0r/gmailtail",
     "url": "https://github.com/c4pt0r/gmailtail",
     "lang": "Python",
@@ -121,11 +137,27 @@
   },
   {
     "createdAt": "2025-07-04T15:51:31Z",
-    "stars": 284,
+    "stars": 357,
     "name": "tikel1/HA-isometric-animated-picture-card",
     "url": "https://github.com/tikel1/HA-isometric-animated-picture-card",
     "lang": "JavaScript",
     "desc": "Custom Lovelace cards that let Home-Assistant picture-elements play WebM (or PNG) animations whose frame or loop speed updates in real time from any entity state. Including an AI workflow that turns any room photo into a live picture-elements scene"
+  },
+  {
+    "createdAt": "2025-07-05T18:41:42Z",
+    "stars": 313,
+    "name": "terryso/claude-auto-resume",
+    "url": "https://github.com/terryso/claude-auto-resume",
+    "lang": "Shell",
+    "desc": "A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted."
+  },
+  {
+    "createdAt": "2025-07-04T07:36:22Z",
+    "stars": 286,
+    "name": "maciej-trebacz/tower-of-time-game",
+    "url": "https://github.com/maciej-trebacz/tower-of-time-game",
+    "lang": "TypeScript",
+    "desc": "Vibe coded Tower Defense type of game made for a game jam"
   },
   {
     "createdAt": "2025-06-30T15:33:16Z",
@@ -136,80 +168,80 @@
     "desc": "My Local MEV Trading Bot.Use CodePen to run it."
   },
   {
-    "createdAt": "2025-07-02T13:50:17Z",
-    "stars": 247,
-    "name": "wessamlauf/homeassistant-frosted-glass-themes",
-    "url": "https://github.com/wessamlauf/homeassistant-frosted-glass-themes",
-    "lang": "",
-    "desc": "Frosted Glass Theme for Home Assistant - Light and Dark version"
-  },
-  {
-    "createdAt": "2025-07-02T11:04:30Z",
-    "stars": 244,
-    "name": "peterkrueck/Claude-Code-Development-Kit",
-    "url": "https://github.com/peterkrueck/Claude-Code-Development-Kit",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-04T07:36:22Z",
-    "stars": 238,
-    "name": "maciej-trebacz/tower-of-time-game",
-    "url": "https://github.com/maciej-trebacz/tower-of-time-game",
-    "lang": "TypeScript",
-    "desc": "Vibe coded Tower Defense type of game made for a game jam"
-  },
-  {
     "createdAt": "2025-07-05T00:58:38Z",
-    "stars": 221,
+    "stars": 271,
     "name": "leroiduflow/Wallsync",
     "url": "https://github.com/leroiduflow/Wallsync",
     "lang": "",
     "desc": "A place where all wallpapers can be found .... magic!!!"
   },
   {
-    "createdAt": "2025-06-29T06:45:11Z",
-    "stars": 212,
-    "name": "jamubc/gemini-mcp-tool",
-    "url": "https://github.com/jamubc/gemini-mcp-tool",
-    "lang": "JavaScript",
-    "desc": "MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding"
-  },
-  {
-    "createdAt": "2025-07-01T11:26:15Z",
-    "stars": 199,
-    "name": "pr0v3rbs/CVE-2025-32463_chwoot",
-    "url": "https://github.com/pr0v3rbs/CVE-2025-32463_chwoot",
-    "lang": "Shell",
-    "desc": "Escalation of Privilege to the root through sudo binary with chroot option. CVE-2025-32463"
+    "createdAt": "2025-07-02T13:50:17Z",
+    "stars": 266,
+    "name": "wessamlauf/homeassistant-frosted-glass-themes",
+    "url": "https://github.com/wessamlauf/homeassistant-frosted-glass-themes",
+    "lang": "",
+    "desc": "✨ Beautiful and modern Theme for Home Assistant "
   },
   {
     "createdAt": "2025-06-30T15:25:02Z",
-    "stars": 198,
+    "stars": 255,
     "name": "SakanaAI/treequest",
     "url": "https://github.com/SakanaAI/treequest",
     "lang": "Python",
     "desc": "A Tree Search Library with Flexible API for LLM Inference-Time Scaling"
   },
   {
+    "createdAt": "2025-07-05T03:07:12Z",
+    "stars": 233,
+    "name": "HonestyAGI/LLM-Fingerprint",
+    "url": "https://github.com/HonestyAGI/LLM-Fingerprint",
+    "lang": "",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-07-01T11:07:51Z",
-    "stars": 181,
+    "stars": 224,
     "name": "DeepWism/DeepWism-miRNA",
     "url": "https://github.com/DeepWism/DeepWism-miRNA",
     "lang": "",
     "desc": "A L4 innovative AGI System Empowering miRNA Drug Discovery"
   },
   {
-    "createdAt": "2025-07-05T18:41:42Z",
-    "stars": 179,
-    "name": "terryso/claude-auto-resume",
-    "url": "https://github.com/terryso/claude-auto-resume",
+    "createdAt": "2025-07-05T17:18:38Z",
+    "stars": 218,
+    "name": "salukiDew/Gift-Buyer-Tg",
+    "url": "https://github.com/salukiDew/Gift-Buyer-Tg",
+    "lang": "Python",
+    "desc": "A universal bot for automatically sniping and buying Telegram gifts, with many useful features"
+  },
+  {
+    "createdAt": "2025-07-01T11:26:15Z",
+    "stars": 217,
+    "name": "pr0v3rbs/CVE-2025-32463_chwoot",
+    "url": "https://github.com/pr0v3rbs/CVE-2025-32463_chwoot",
     "lang": "Shell",
-    "desc": ""
+    "desc": "Escalation of Privilege to the root through sudo binary with chroot option. CVE-2025-32463"
+  },
+  {
+    "createdAt": "2025-07-03T13:25:07Z",
+    "stars": 188,
+    "name": "liuff19/LangScene-X",
+    "url": "https://github.com/liuff19/LangScene-X",
+    "lang": "Python",
+    "desc": "[ICCV 2025] LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion"
+  },
+  {
+    "createdAt": "2025-07-03T18:16:14Z",
+    "stars": 180,
+    "name": "teddynote-lab/langconnect-client",
+    "url": "https://github.com/teddynote-lab/langconnect-client",
+    "lang": "TypeScript",
+    "desc": "A Modern GUI Interface for Vector Database Management(Supports MCP integration)"
   },
   {
     "createdAt": "2025-07-05T16:25:34Z",
-    "stars": 175,
+    "stars": 177,
     "name": "salukiDew/MonadTestnet-Bot",
     "url": "https://github.com/salukiDew/MonadTestnet-Bot",
     "lang": "Python",
@@ -224,76 +256,92 @@
     "desc": "bot for automated grass farming"
   },
   {
-    "createdAt": "2025-07-03T13:25:07Z",
-    "stars": 151,
-    "name": "liuff19/LangScene-X",
-    "url": "https://github.com/liuff19/LangScene-X",
-    "lang": "Python",
-    "desc": "[ICCV 2025] LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion"
+    "createdAt": "2025-07-05T05:28:16Z",
+    "stars": 166,
+    "name": "RonitSachdev/ccundo",
+    "url": "https://github.com/RonitSachdev/ccundo",
+    "lang": "JavaScript",
+    "desc": "ccundo seamlessly integrates with Claude Code to provide granular undo functionality. It reads directly from Claude Code's session files to track file operations and allows you to selectively revert changes with full preview and cascading safety."
   },
   {
-    "createdAt": "2025-07-03T16:03:09Z",
-    "stars": 146,
-    "name": "470WALI/AI-Trading-Bot",
-    "url": "https://github.com/470WALI/AI-Trading-Bot",
+    "createdAt": "2025-07-05T08:18:59Z",
+    "stars": 159,
+    "name": "maftuh23/sqllite-api-wilayah-indonesia",
+    "url": "https://github.com/maftuh23/sqllite-api-wilayah-indonesia",
     "lang": "",
-    "desc": "TradeMaster AI: A revolutionary, hands-free trading platform for Ethereum and Binance Smart Chain. Harnesses innovative arbitrage, momentum, and range-bound strategies with a sleek interface. Lowers transaction costs and defends against MEV threats. "
-  },
-  {
-    "createdAt": "2025-06-30T07:08:36Z",
-    "stars": 143,
-    "name": "Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-",
-    "url": "https://github.com/Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-",
-    "lang": "",
-    "desc": "This checklist is designed to help you systematically prepare and polish academic papers for top conferences and journals (e.g., ICML, NeurIPS, CVPR). It incorporates widely recommended best practices, formatting standards, and common reviewer expectations."
+    "desc": "Database SQLite wilayah Indonesia (provinsi, kabupaten, kecamatan, desa) berdasarkan BPS (Badan Pusat Statistik) "
   },
   {
     "createdAt": "2025-06-30T06:33:18Z",
-    "stars": 141,
+    "stars": 157,
     "name": "CN-makers/LongAnimation",
     "url": "https://github.com/CN-makers/LongAnimation",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-03T18:16:14Z",
-    "stars": 139,
-    "name": "teddynote-lab/langconnect-client",
-    "url": "https://github.com/teddynote-lab/langconnect-client",
-    "lang": "TypeScript",
-    "desc": "A Modern GUI Interface for Vector Database Management(Supports MCP integration)"
-  },
-  {
-    "createdAt": "2025-06-30T09:08:21Z",
-    "stars": 135,
-    "name": "senereone/PRNet",
-    "url": "https://github.com/senereone/PRNet",
-    "lang": "Python",
-    "desc": "PRNet is an end-to-end method of recovering the visual content of perceptually encrypted images, without any manual work or knowing any prior knowledge of the encryption scheme."
-  },
-  {
     "createdAt": "2025-06-30T13:41:12Z",
-    "stars": 131,
+    "stars": 155,
     "name": "Calligrapher2025/Calligrapher",
     "url": "https://github.com/Calligrapher2025/Calligrapher",
     "lang": "Python",
     "desc": "Calligrapher: Freestyle Text Image Customization"
   },
   {
-    "createdAt": "2025-07-05T14:35:32Z",
-    "stars": 125,
-    "name": "24imepuza/rust-cheat",
-    "url": "https://github.com/24imepuza/rust-cheat",
-    "lang": "C++",
-    "desc": "Rust Cheat provides undetected tools like Rust aimbot, Rust ESP, and Rust wallhack to dominate enemies and farm faster. Featuring no recoil, loot ESP, and HWID spoofer, it gives you a tactical edge in any server. Stay safe, stay ahead, and control the Rust battlefield effortlessly"
+    "createdAt": "2025-07-05T17:08:49Z",
+    "stars": 151,
+    "name": "bytillo/spyder-osint",
+    "url": "https://github.com/bytillo/spyder-osint",
+    "lang": "Python",
+    "desc": "An universal open-source intelligence (OSINT) research tool that performs searches using large global databases."
+  },
+  {
+    "createdAt": "2025-06-30T07:08:36Z",
+    "stars": 150,
+    "name": "Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-",
+    "url": "https://github.com/Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-",
+    "lang": "",
+    "desc": "This checklist is designed to help you systematically prepare and polish academic papers for top conferences and journals (e.g., ICML, NeurIPS, CVPR). It incorporates widely recommended best practices, formatting standards, and common reviewer expectations."
+  },
+  {
+    "createdAt": "2025-07-03T16:03:09Z",
+    "stars": 147,
+    "name": "470WALI/AI-Trading-Bot",
+    "url": "https://github.com/470WALI/AI-Trading-Bot",
+    "lang": "",
+    "desc": "TradeMaster AI: A revolutionary, hands-free trading platform for Ethereum and Binance Smart Chain. Harnesses innovative arbitrage, momentum, and range-bound strategies with a sleek interface. Lowers transaction costs and defends against MEV threats. "
   },
   {
     "createdAt": "2025-06-30T03:37:35Z",
-    "stars": 123,
+    "stars": 144,
     "name": "JohnsonJiang1996/Awesome-VLA4AD",
     "url": "https://github.com/JohnsonJiang1996/Awesome-VLA4AD",
     "lang": "",
     "desc": "A List of Vision–Language–Action models for Autonomous Driving (VLA4AD) resources, serving as the companion repository to the survey paper “A Survey on Vision–Language–Action Models for Autonomous Driving”."
+  },
+  {
+    "createdAt": "2025-06-30T09:08:21Z",
+    "stars": 140,
+    "name": "senereone/PRNet",
+    "url": "https://github.com/senereone/PRNet",
+    "lang": "Python",
+    "desc": "PRNet is an end-to-end method of recovering the visual content of perceptually encrypted images, without any manual work or knowing any prior knowledge of the encryption scheme."
+  },
+  {
+    "createdAt": "2025-07-04T23:16:20Z",
+    "stars": 132,
+    "name": "supermemoryai/llm-bridge",
+    "url": "https://github.com/supermemoryai/llm-bridge",
+    "lang": "TypeScript",
+    "desc": "Interoperability between input formats of various LLMs, with observability, error handling, etc. built in."
+  },
+  {
+    "createdAt": "2025-07-04T09:21:41Z",
+    "stars": 131,
+    "name": "devdacian/ai-auditor-primers",
+    "url": "https://github.com/devdacian/ai-auditor-primers",
+    "lang": "",
+    "desc": "Primers for Specialist AI Smart Contract Auditors"
   },
   {
     "createdAt": "2025-07-01T09:18:53Z",
@@ -304,99 +352,51 @@
     "desc": "A modern browser extension template with sidepanel support, built with WXT + Tailwind CSS 4.0 + shadcn/ui."
   },
   {
-    "createdAt": "2025-07-04T09:21:41Z",
-    "stars": 121,
-    "name": "devdacian/ai-auditor-primers",
-    "url": "https://github.com/devdacian/ai-auditor-primers",
+    "createdAt": "2025-07-03T21:40:08Z",
+    "stars": 118,
+    "name": "LiteReality/LiteReality",
+    "url": "https://github.com/LiteReality/LiteReality",
     "lang": "",
-    "desc": "Primers for Specialist AI Smart Contract Auditors"
-  },
-  {
-    "createdAt": "2025-07-05T03:07:12Z",
-    "stars": 114,
-    "name": "HonestyAGI/LLM-Fingerprint",
-    "url": "https://github.com/HonestyAGI/LLM-Fingerprint",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-06-29T19:02:19Z",
-    "stars": 112,
-    "name": "GeeDook/mirava",
-    "url": "https://github.com/GeeDook/mirava",
-    "lang": "HTML",
-    "desc": "Mirava is a curated list of Iranian package mirrors, providing reliable and fast access to essential software resources within Iran."
-  },
-  {
-    "createdAt": "2025-07-04T02:18:14Z",
-    "stars": 108,
-    "name": "franksaves/free-ip-stresser",
-    "url": "https://github.com/franksaves/free-ip-stresser",
-    "lang": "Python",
-    "desc": "Quantum Stressor X1 - A powerful Free IP Stresser & IP Booter by https://nightmare-stresser.co. Features 18 Layer 4 and 6 Layer 7 methods powered by the Nightmare Stresser API, with API key authentication and attack controls for cinematic network testing. Use responsibly."
-  },
-  {
-    "createdAt": "2025-07-05T14:13:43Z",
-    "stars": 106,
-    "name": "50qiput/warzone-cheat",
-    "url": "https://github.com/50qiput/warzone-cheat",
-    "lang": "C++",
-    "desc": "Warzone Cheat offers undetected and powerful tools like warzone aimbot, ESP, and wallhack for total domination in Call of Duty: Warzone. Unlock advanced features, gain tactical advantage, and stay safe with built-in HWID spoofer. Join now and rise above with the best Warzone cheats available."
-  },
-  {
-    "createdAt": "2025-06-30T14:03:25Z",
-    "stars": 105,
-    "name": "xhdr0618/Awesome-ai4protein",
-    "url": "https://github.com/xhdr0618/Awesome-ai4protein",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-05T16:31:25Z",
-    "stars": 103,
-    "name": "salukiDew/DawnBot",
-    "url": "https://github.com/salukiDew/DawnBot",
-    "lang": "Python",
-    "desc": "Bot for Dawn validator auto farm"
-  },
-  {
-    "createdAt": "2025-06-30T21:53:02Z",
-    "stars": 103,
-    "name": "KyleAMathews/tanstack-start-db-electric-starter",
-    "url": "https://github.com/KyleAMathews/tanstack-start-db-electric-starter",
-    "lang": "TypeScript",
-    "desc": "A TanStack Start/DB & Electric starter"
+    "desc": "LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans"
   },
   {
     "createdAt": "2025-07-03T04:20:30Z",
-    "stars": 102,
+    "stars": 111,
     "name": "tingxifa/claude_proxy",
     "url": "https://github.com/tingxifa/claude_proxy",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-04T23:22:00Z",
-    "stars": 102,
-    "name": "SmPremium/Telegram-Members-Adder-Marketing-Tool-Scraper-Forwarder-Many-More-Features",
-    "url": "https://github.com/SmPremium/Telegram-Members-Adder-Marketing-Tool-Scraper-Forwarder-Many-More-Features",
-    "lang": "",
-    "desc": "A powerful all-in-one Telegram marketing tool designed to automate your growth. Features include member scraping, auto-adding, bulk messaging, message forwarding, and much more—perfect for scaling outreach and managing campaigns efficiently."
+    "createdAt": "2025-07-02T11:37:04Z",
+    "stars": 110,
+    "name": "golioth/tinymcp",
+    "url": "https://github.com/golioth/tinymcp",
+    "lang": "Go",
+    "desc": "Let LLMs control embedded devices via the Model Context Protocol."
   },
   {
-    "createdAt": "2025-07-03T03:24:04Z",
-    "stars": 100,
-    "name": "TopChina/proxy-list",
-    "url": "https://github.com/TopChina/proxy-list",
-    "lang": "",
-    "desc": "Free proxy list HTTP, Socks4 and Socks5 open proxy lists"
+    "createdAt": "2025-07-03T15:03:40Z",
+    "stars": 110,
+    "name": "maxDcb/DreamWalkers",
+    "url": "https://github.com/maxDcb/DreamWalkers",
+    "lang": "C",
+    "desc": "Reflective shellcode loaderwith advanced call stack spoofing and .NET support."
   },
   {
-    "createdAt": "2025-07-05T08:18:59Z",
-    "stars": 98,
-    "name": "maftuh23/sqllite-api-wilayah-indonesia",
-    "url": "https://github.com/maftuh23/sqllite-api-wilayah-indonesia",
+    "createdAt": "2025-07-04T02:18:14Z",
+    "stars": 109,
+    "name": "franksaves/free-ip-stresser",
+    "url": "https://github.com/franksaves/free-ip-stresser",
+    "lang": "Python",
+    "desc": "Quantum Stressor X1 - A powerful Free IP Stresser & IP Booter by https://nightmare-stresser.co. Features 18 Layer 4 and 6 Layer 7 methods powered by the Nightmare Stresser API, with API key authentication and attack controls for cinematic network testing. Use responsibly."
+  },
+  {
+    "createdAt": "2025-06-30T14:03:25Z",
+    "stars": 108,
+    "name": "xhdr0618/Awesome-ai4protein",
+    "url": "https://github.com/xhdr0618/Awesome-ai4protein",
     "lang": "",
-    "desc": "Database SQLite wilayah Indonesia (provinsi, kabupaten, kecamatan, desa)."
+    "desc": ""
   }
 ]
