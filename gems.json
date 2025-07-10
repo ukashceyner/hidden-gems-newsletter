@@ -1,55 +1,39 @@
 [
   {
     "createdAt": "2025-07-04T14:34:38Z",
-    "stars": 10963,
-    "name": "jackjackbits/bitchat",
-    "url": "https://github.com/jackjackbits/bitchat",
+    "stars": 14458,
+    "name": "permissionlesstech/bitchat",
+    "url": "https://github.com/permissionlesstech/bitchat",
     "lang": "Swift",
     "desc": "bluetooth mesh chat, IRC vibes"
   },
   {
     "createdAt": "2025-07-05T20:40:24Z",
-    "stars": 10144,
+    "stars": 10533,
     "name": "HW-whistleblower/True-Story-of-Pangu",
     "url": "https://github.com/HW-whistleblower/True-Story-of-Pangu",
     "lang": "",
     "desc": "诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。"
   },
   {
-    "createdAt": "2025-07-02T11:54:47Z",
-    "stars": 4189,
-    "name": "coleam00/context-engineering-intro",
-    "url": "https://github.com/coleam00/context-engineering-intro",
-    "lang": "",
-    "desc": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!"
-  },
-  {
-    "createdAt": "2025-07-02T20:28:49Z",
-    "stars": 3918,
-    "name": "pickle-com/glass",
-    "url": "https://github.com/pickle-com/glass",
-    "lang": "JavaScript",
-    "desc": "Digital Mind Extension"
-  },
-  {
-    "createdAt": "2025-07-02T04:09:37Z",
-    "stars": 1031,
-    "name": "farzaa/gemini-bball",
-    "url": "https://github.com/farzaa/gemini-bball",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-07-06T09:51:27Z",
-    "stars": 912,
+    "stars": 1153,
     "name": "MemTensor/MemOS",
     "url": "https://github.com/MemTensor/MemOS",
     "lang": "Python",
     "desc": "MemOS (Preview) | Intelligence Begins with Memory"
   },
   {
+    "createdAt": "2025-07-08T18:36:23Z",
+    "stars": 1020,
+    "name": "permissionlesstech/bitchat-android",
+    "url": "https://github.com/permissionlesstech/bitchat-android",
+    "lang": "Kotlin",
+    "desc": "bluetooth mesh chat, IRC vibes"
+  },
+  {
     "createdAt": "2025-07-07T14:47:21Z",
-    "stars": 856,
+    "stars": 946,
     "name": "knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang",
     "url": "https://github.com/knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang",
     "lang": "",
@@ -57,63 +41,31 @@
   },
   {
     "createdAt": "2025-07-06T04:45:58Z",
-    "stars": 720,
+    "stars": 768,
     "name": "zanfranceschi/rinha-de-backend-2025",
     "url": "https://github.com/zanfranceschi/rinha-de-backend-2025",
     "lang": "JavaScript",
     "desc": "Rinha de Backend - Terceira Edição"
   },
   {
-    "createdAt": "2025-07-08T18:36:23Z",
-    "stars": 610,
-    "name": "callebtc/bitchat-android",
-    "url": "https://github.com/callebtc/bitchat-android",
-    "lang": "Kotlin",
-    "desc": "bluetooth mesh chat, IRC vibes"
-  },
-  {
     "createdAt": "2025-07-05T17:08:49Z",
-    "stars": 574,
+    "stars": 580,
     "name": "bytillo/spyder-osint",
     "url": "https://github.com/bytillo/spyder-osint",
     "lang": "Python",
     "desc": "An universal open-source intelligence (OSINT) research tool that performs searches using large global databases."
   },
   {
-    "createdAt": "2025-07-02T18:05:24Z",
-    "stars": 574,
-    "name": "ZZZSimulator/ZSim",
-    "url": "https://github.com/ZZZSimulator/ZSim",
-    "lang": "Python",
-    "desc": "绝区零模拟仿真程序，可使用定制化手法，计算伤害。"
-  },
-  {
-    "createdAt": "2025-07-02T01:09:02Z",
-    "stars": 548,
-    "name": "awwaiid/gremllm",
-    "url": "https://github.com/awwaiid/gremllm",
-    "lang": "Python",
-    "desc": "A slight upgrade to the Gremlins in your code"
-  },
-  {
     "createdAt": "2025-07-03T03:48:51Z",
-    "stars": 475,
+    "stars": 488,
     "name": "contraptionco/postcard",
     "url": "https://github.com/contraptionco/postcard",
     "lang": "Ruby",
     "desc": "Personal website + newsletter as an alternative to social media."
   },
   {
-    "createdAt": "2025-07-02T11:04:30Z",
-    "stars": 457,
-    "name": "peterkrueck/Claude-Code-Development-Kit",
-    "url": "https://github.com/peterkrueck/Claude-Code-Development-Kit",
-    "lang": "",
-    "desc": "My personal Claude Code Development Kit. If you've questions reach out to me on LinkedIn @peterkrueck"
-  },
-  {
     "createdAt": "2025-07-04T15:51:31Z",
-    "stars": 390,
+    "stars": 402,
     "name": "tikel1/HA-isometric-animated-picture-card",
     "url": "https://github.com/tikel1/HA-isometric-animated-picture-card",
     "lang": "JavaScript",
@@ -121,15 +73,23 @@
   },
   {
     "createdAt": "2025-07-05T18:41:42Z",
-    "stars": 383,
+    "stars": 396,
     "name": "terryso/claude-auto-resume",
     "url": "https://github.com/terryso/claude-auto-resume",
     "lang": "Shell",
     "desc": "A shell script utility that automatically resumes Claude CLI tasks when usage limits are lifted."
   },
   {
+    "createdAt": "2025-07-09T15:42:58Z",
+    "stars": 340,
+    "name": "QiuChenly/CoreInject",
+    "url": "https://github.com/QiuChenly/CoreInject",
+    "lang": "JavaScript",
+    "desc": "美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！"
+  },
+  {
     "createdAt": "2025-07-05T00:58:38Z",
-    "stars": 313,
+    "stars": 324,
     "name": "leroiduflow/Wallsync",
     "url": "https://github.com/leroiduflow/Wallsync",
     "lang": "",
@@ -137,87 +97,143 @@
   },
   {
     "createdAt": "2025-07-04T07:36:22Z",
-    "stars": 307,
+    "stars": 317,
     "name": "maciej-trebacz/tower-of-time-game",
     "url": "https://github.com/maciej-trebacz/tower-of-time-game",
     "lang": "TypeScript",
     "desc": "Vibe coded Tower Defense type of game made for a game jam"
   },
   {
-    "createdAt": "2025-07-02T13:50:17Z",
-    "stars": 278,
-    "name": "wessamlauf/homeassistant-frosted-glass-themes",
-    "url": "https://github.com/wessamlauf/homeassistant-frosted-glass-themes",
-    "lang": "",
-    "desc": "✨ Beautiful and modern Theme for Home Assistant "
-  },
-  {
     "createdAt": "2025-07-05T05:28:16Z",
-    "stars": 274,
+    "stars": 312,
     "name": "RonitSachdev/ccundo",
     "url": "https://github.com/RonitSachdev/ccundo",
     "lang": "JavaScript",
     "desc": "ccundo seamlessly integrates with Claude Code to provide granular undo functionality. It reads directly from Claude Code's session files to track file operations and allows you to selectively revert changes with full preview and cascading safety."
   },
   {
+    "createdAt": "2025-07-09T07:56:18Z",
+    "stars": 278,
+    "name": "iosifache/annas-mcp",
+    "url": "https://github.com/iosifache/annas-mcp",
+    "lang": "Go",
+    "desc": "MCP server and CLI tool for searching and downloading documents from Anna's Archive"
+  },
+  {
     "createdAt": "2025-07-03T13:25:07Z",
-    "stars": 223,
+    "stars": 229,
     "name": "liuff19/LangScene-X",
     "url": "https://github.com/liuff19/LangScene-X",
     "lang": "Python",
     "desc": "[ICCV 2025] LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion"
   },
   {
-    "createdAt": "2025-07-03T18:16:14Z",
-    "stars": 207,
-    "name": "teddynote-lab/langconnect-client",
-    "url": "https://github.com/teddynote-lab/langconnect-client",
-    "lang": "TypeScript",
-    "desc": "A Modern GUI Interface for Vector Database Management(Supports MCP integration)"
-  },
-  {
     "createdAt": "2025-07-05T08:18:59Z",
-    "stars": 204,
+    "stars": 220,
     "name": "maftuh23/sqllite-api-wilayah-indonesia",
     "url": "https://github.com/maftuh23/sqllite-api-wilayah-indonesia",
     "lang": "",
     "desc": "Database SQLite wilayah Indonesia (provinsi, kabupaten, kecamatan, desa) berdasarkan BPS (Badan Pusat Statistik) "
   },
   {
+    "createdAt": "2025-07-03T18:16:14Z",
+    "stars": 212,
+    "name": "teddynote-lab/langconnect-client",
+    "url": "https://github.com/teddynote-lab/langconnect-client",
+    "lang": "TypeScript",
+    "desc": "A Modern GUI Interface for Vector Database Management(Supports MCP integration)"
+  },
+  {
     "createdAt": "2025-07-04T23:16:20Z",
-    "stars": 184,
+    "stars": 201,
     "name": "supermemoryai/llm-bridge",
     "url": "https://github.com/supermemoryai/llm-bridge",
     "lang": "TypeScript",
     "desc": "Interoperability between input formats of various LLMs, with observability, error handling, etc. built in."
   },
   {
-    "createdAt": "2025-07-05T16:30:09Z",
-    "stars": 159,
-    "name": "disler/claude-code-hooks-mastery",
-    "url": "https://github.com/disler/claude-code-hooks-mastery",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-07-04T01:26:26Z",
-    "stars": 152,
+    "stars": 182,
     "name": "davila7/claude-code-templates",
     "url": "https://github.com/davila7/claude-code-templates",
     "lang": "JavaScript",
     "desc": "Claude Code setup templates for Python, JavaScript, Go, Rust and more"
   },
   {
+    "createdAt": "2025-07-05T16:30:09Z",
+    "stars": 181,
+    "name": "disler/claude-code-hooks-mastery",
+    "url": "https://github.com/disler/claude-code-hooks-mastery",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-04T21:30:03Z",
+    "stars": 178,
+    "name": "UrbanCircles/scribe",
+    "url": "https://github.com/UrbanCircles/scribe",
+    "lang": "C++",
+    "desc": "Simple, reliable, distraction free writer to nudge you towards a better life story. It'll show your receipts."
+  },
+  {
+    "createdAt": "2025-07-03T21:40:08Z",
+    "stars": 176,
+    "name": "LiteReality/LiteReality",
+    "url": "https://github.com/LiteReality/LiteReality",
+    "lang": "",
+    "desc": "LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans"
+  },
+  {
+    "createdAt": "2025-07-09T14:33:44Z",
+    "stars": 176,
+    "name": "braindotcode/grass-bot",
+    "url": "https://github.com/braindotcode/grass-bot",
+    "lang": "Python",
+    "desc": "bot for automated grass farming"
+  },
+  {
+    "createdAt": "2025-07-09T14:45:56Z",
+    "stars": 166,
+    "name": "NetherlandsDev/MonadTestnet-Bot",
+    "url": "https://github.com/NetherlandsDev/MonadTestnet-Bot",
+    "lang": "Python",
+    "desc": "A bot for automated Monad Testnet farm"
+  },
+  {
     "createdAt": "2025-07-03T08:32:43Z",
-    "stars": 148,
+    "stars": 161,
     "name": "Open-X-Humanoid/TienKung-Lab",
     "url": "https://github.com/Open-X-Humanoid/TienKung-Lab",
     "lang": "Python",
     "desc": "Tien Kung-Lab: Direct IsaacLab Workflow for Legged Robots"
   },
   {
+    "createdAt": "2025-07-06T09:34:05Z",
+    "stars": 160,
+    "name": "lidangzzz/AI-Coding-Style-Guides",
+    "url": "https://github.com/lidangzzz/AI-Coding-Style-Guides",
+    "lang": "JavaScript",
+    "desc": "A set of coding style guidelines for Vibe Coding or SWE-Agents that maximize efficiency and improve human readability."
+  },
+  {
+    "createdAt": "2025-07-06T06:44:07Z",
+    "stars": 157,
+    "name": "MDKAIF302/SecArchive",
+    "url": "https://github.com/MDKAIF302/SecArchive",
+    "lang": "",
+    "desc": "🥷 SecArchive - Cybersecurity Resource Collection  A curated archive of high-quality resources for learning cybersecurity, bug bounty, ethical hacking, and penetration testing. "
+  },
+  {
+    "createdAt": "2025-07-06T03:02:23Z",
+    "stars": 154,
+    "name": "sigridjineth/muvera-py",
+    "url": "https://github.com/sigridjineth/muvera-py",
+    "lang": "Python",
+    "desc": "Python Implementation of MUVERA (Multi-Vector Retrieval via Fixed Dimensional Encodings)"
+  },
+  {
     "createdAt": "2025-07-03T15:03:40Z",
-    "stars": 148,
+    "stars": 151,
     "name": "maxDcb/DreamWalkers",
     "url": "https://github.com/maxDcb/DreamWalkers",
     "lang": "C",
@@ -225,155 +241,131 @@
   },
   {
     "createdAt": "2025-07-03T16:03:09Z",
-    "stars": 147,
+    "stars": 148,
     "name": "470WALI/AI-Trading-Bot",
     "url": "https://github.com/470WALI/AI-Trading-Bot",
     "lang": "",
     "desc": "TradeMaster AI: A revolutionary, hands-free trading platform for Ethereum and Binance Smart Chain. Harnesses innovative arbitrage, momentum, and range-bound strategies with a sleek interface. Lowers transaction costs and defends against MEV threats. "
   },
   {
-    "createdAt": "2025-07-06T09:34:05Z",
-    "stars": 147,
-    "name": "lidangzzz/AI-Coding-Style-Guides",
-    "url": "https://github.com/lidangzzz/AI-Coding-Style-Guides",
-    "lang": "JavaScript",
-    "desc": "A set of coding style guidelines for Vibe Coding or SWE-Agents that maximize efficiency and improve human readability."
-  },
-  {
-    "createdAt": "2025-07-03T21:40:08Z",
-    "stars": 143,
-    "name": "LiteReality/LiteReality",
-    "url": "https://github.com/LiteReality/LiteReality",
-    "lang": "",
-    "desc": "LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans"
-  },
-  {
     "createdAt": "2025-07-04T09:21:41Z",
-    "stars": 142,
+    "stars": 146,
     "name": "devdacian/ai-auditor-primers",
     "url": "https://github.com/devdacian/ai-auditor-primers",
     "lang": "",
     "desc": "Primers for Specialist AI Smart Contract Auditors"
   },
   {
-    "createdAt": "2025-07-02T05:13:16Z",
-    "stars": 140,
-    "name": "xxiaouw/SteamSmartBuy",
-    "url": "https://github.com/xxiaouw/SteamSmartBuy",
-    "lang": "Jupyter Notebook",
-    "desc": "An intelligent Steam deal analytics dashboard leveraging Python, MySQL, and Power BI to surface the most worthwhile discounts."
-  },
-  {
-    "createdAt": "2025-07-06T06:44:07Z",
-    "stars": 139,
-    "name": "MDKAIF302/SecArchive",
-    "url": "https://github.com/MDKAIF302/SecArchive",
-    "lang": "",
-    "desc": "🥷 SecArchive - Cybersecurity Resource Collection  A curated archive of high-quality resources for learning cybersecurity, bug bounty, ethical hacking, and penetration testing. "
-  },
-  {
-    "createdAt": "2025-07-02T11:37:04Z",
-    "stars": 137,
-    "name": "golioth/tinymcp",
-    "url": "https://github.com/golioth/tinymcp",
-    "lang": "Go",
-    "desc": "Let LLMs control embedded devices via the Model Context Protocol."
-  },
-  {
-    "createdAt": "2025-07-08T22:31:10Z",
-    "stars": 134,
-    "name": "skitSkills/TikTok-Scraper-Video-Downloader-Auto-Reporter-2025",
-    "url": "https://github.com/skitSkills/TikTok-Scraper-Video-Downloader-Auto-Reporter-2025",
-    "lang": "Python",
-    "desc": "An All-In-1 TikTok marketing bot for scraping, Download videos without watermarks and auto-reporter"
-  },
-  {
-    "createdAt": "2025-07-06T03:02:23Z",
-    "stars": 131,
-    "name": "sigridjineth/muvera-py",
-    "url": "https://github.com/sigridjineth/muvera-py",
-    "lang": "Python",
-    "desc": "Python Implementation of MUVERA (Multi-Vector Retrieval via Fixed Dimensional Encodings)"
-  },
-  {
     "createdAt": "2025-07-06T18:09:11Z",
-    "stars": 131,
+    "stars": 145,
     "name": "leesh3288/CVE-2025-32023",
     "url": "https://github.com/leesh3288/CVE-2025-32023",
     "lang": "Python",
     "desc": "PoC & Exploit for CVE-2025-32023 / PlaidCTF 2025 \"Zerodeo\""
   },
   {
-    "createdAt": "2025-07-07T19:16:10Z",
-    "stars": 129,
-    "name": "inliver233/Ai-Novel-Editor",
-    "url": "https://github.com/inliver233/Ai-Novel-Editor",
-    "lang": "Python",
-    "desc": "使用python+pyqt6实现的ai辅助小说编辑器"
-  },
-  {
-    "createdAt": "2025-07-05T15:25:11Z",
-    "stars": 128,
-    "name": "jsmmth/MorphModalKit",
-    "url": "https://github.com/jsmmth/MorphModalKit",
-    "lang": "Swift",
-    "desc": "Simple Morphable, Stackable Modals"
-  },
-  {
     "createdAt": "2025-07-07T19:16:03Z",
-    "stars": 125,
+    "stars": 142,
     "name": "itsyebekhe/PSG",
     "url": "https://github.com/itsyebekhe/PSG",
     "lang": "HTML",
     "desc": "Proxy Subscription Generator"
   },
   {
-    "createdAt": "2025-07-03T04:20:30Z",
-    "stars": 122,
-    "name": "tingxifa/claude_proxy",
-    "url": "https://github.com/tingxifa/claude_proxy",
-    "lang": "TypeScript",
-    "desc": "这是一个部署在 Cloudflare Workers 上的 TypeScript 项目，它充当一个代理服务器，能够将 Claude API 格式的请求无缝转换为 OpenAI API 格式。这使得任何与 Claude API 兼容的客户端（例如官方的 @anthropic-ai/claude-code CLI）都能够与任何支持 OpenAI API 格式的服务进行通信，如 Google Gemini, Groq, Ollama 等。"
-  },
-  {
-    "createdAt": "2025-07-02T11:34:31Z",
-    "stars": 120,
-    "name": "aibox22/readmeX",
-    "url": "https://github.com/aibox22/readmeX",
-    "lang": "Python",
-    "desc": "An AI Powered README and Interactive Wiki Generator for Any Projects. AI驱动的README及交互式Wiki生成工具，面向中文的开源DeepWiki。"
-  },
-  {
-    "createdAt": "2025-07-02T07:20:20Z",
-    "stars": 118,
-    "name": "kh4sh3i/CVE-2025-32463",
-    "url": "https://github.com/kh4sh3i/CVE-2025-32463",
-    "lang": "Shell",
-    "desc": "Local Privilege Escalation to Root via Sudo chroot in Linux"
-  },
-  {
     "createdAt": "2025-07-04T20:37:11Z",
-    "stars": 115,
+    "stars": 140,
     "name": "ahmedbna/ui",
     "url": "https://github.com/ahmedbna/ui",
     "lang": "TypeScript",
     "desc": "BNA UI - Expo, React Native components library"
   },
   {
+    "createdAt": "2025-07-05T15:25:11Z",
+    "stars": 137,
+    "name": "jsmmth/MorphModalKit",
+    "url": "https://github.com/jsmmth/MorphModalKit",
+    "lang": "Swift",
+    "desc": "Simple Morphable, Stackable Modals"
+  },
+  {
+    "createdAt": "2025-07-08T15:26:04Z",
+    "stars": 133,
+    "name": "Wh04m1001/CVE-2025-48799",
+    "url": "https://github.com/Wh04m1001/CVE-2025-48799",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-08T22:31:10Z",
+    "stars": 133,
+    "name": "skitSkills/TikTok-Scraper-Video-Downloader-Auto-Reporter-2025",
+    "url": "https://github.com/skitSkills/TikTok-Scraper-Video-Downloader-Auto-Reporter-2025",
+    "lang": "Python",
+    "desc": "An All-In-1 TikTok marketing bot for scraping, Download videos without watermarks and auto-reporter"
+  },
+  {
+    "createdAt": "2025-07-07T19:16:10Z",
+    "stars": 132,
+    "name": "inliver233/Ai-Novel-Editor",
+    "url": "https://github.com/inliver233/Ai-Novel-Editor",
+    "lang": "Python",
+    "desc": "使用python+pyqt6实现的ai辅助小说编辑器"
+  },
+  {
+    "createdAt": "2025-07-03T03:24:04Z",
+    "stars": 128,
+    "name": "TopChina/proxy-list",
+    "url": "https://github.com/TopChina/proxy-list",
+    "lang": "",
+    "desc": "Free proxy list HTTP, Socks4 and Socks5 open proxy lists"
+  },
+  {
+    "createdAt": "2025-07-03T04:20:30Z",
+    "stars": 127,
+    "name": "tingxifa/claude_proxy",
+    "url": "https://github.com/tingxifa/claude_proxy",
+    "lang": "TypeScript",
+    "desc": "这是一个部署在 Cloudflare Workers 上的 TypeScript 项目，它充当一个代理服务器，能够将 Claude API 格式的请求无缝转换为 OpenAI API 格式。这使得任何与 Claude API 兼容的客户端（例如官方的 @anthropic-ai/claude-code CLI）都能够与任何支持 OpenAI API 格式的服务进行通信，如 Google Gemini, Groq, Ollama 等。"
+  },
+  {
     "createdAt": "2025-07-07T17:36:41Z",
-    "stars": 113,
+    "stars": 127,
     "name": "Jstudner/jcorp-nomad",
     "url": "https://github.com/Jstudner/jcorp-nomad",
     "lang": "HTML",
     "desc": "An extremely compact offline media server for Movies, Shows, Books, and Music."
   },
   {
+    "createdAt": "2025-07-06T07:02:48Z",
+    "stars": 125,
+    "name": "rizkimuhammada/cosmic-ui",
+    "url": "https://github.com/rizkimuhammada/cosmic-ui",
+    "lang": "TypeScript",
+    "desc": "A collection of Sci-Fi themed components and futuristic design elements for modern web applications."
+  },
+  {
     "createdAt": "2025-07-06T08:48:12Z",
-    "stars": 113,
+    "stars": 121,
     "name": "hellokaton/just-icon",
     "url": "https://github.com/hellokaton/just-icon",
     "lang": "Go",
     "desc": "AI-powered icon generation CLI tool"
+  },
+  {
+    "createdAt": "2025-07-08T11:40:49Z",
+    "stars": 113,
+    "name": "xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More",
+    "url": "https://github.com/xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More",
+    "lang": "Python",
+    "desc": "A powerful all-in-1 Telegram marketing tool designed to automate your growth. Features include member scraping, auto-adding, bulk messaging, message forwarding and much more - perfect for marketing."
+  },
+  {
+    "createdAt": "2025-07-06T22:56:52Z",
+    "stars": 112,
+    "name": "VictoriaMetrics/VictoriaLogs",
+    "url": "https://github.com/VictoriaMetrics/VictoriaLogs",
+    "lang": "Go",
+    "desc": "Fast and easy to use database for logs, which can efficiently handle terabytes of logs"
   },
   {
     "createdAt": "2025-07-04T02:18:14Z",
@@ -384,19 +376,27 @@
     "desc": "Quantum Stressor X1 - A powerful Free IP Stresser & IP Booter by https://nightmare-stresser.co. Features 18 Layer 4 and 6 Layer 7 methods powered by the Nightmare Stresser API, with API key authentication and attack controls for cinematic network testing. Use responsibly."
   },
   {
-    "createdAt": "2025-07-03T03:24:04Z",
+    "createdAt": "2025-07-06T08:42:07Z",
     "stars": 110,
-    "name": "TopChina/proxy-list",
-    "url": "https://github.com/TopChina/proxy-list",
+    "name": "sjtu-sai-agents/X-Master",
+    "url": "https://github.com/sjtu-sai-agents/X-Master",
     "lang": "",
-    "desc": "Free proxy list HTTP, Socks4 and Socks5 open proxy lists"
+    "desc": "Official implementation of X-Master, a general-purpose tool-augmented reasoning agent."
   },
   {
-    "createdAt": "2025-07-05T05:23:51Z",
-    "stars": 108,
-    "name": "sammwyy/MiniLaunch",
-    "url": "https://github.com/sammwyy/MiniLaunch",
-    "lang": "Java",
-    "desc": "A simple and minimalist launcher for Minecraft."
+    "createdAt": "2025-07-03T10:05:58Z",
+    "stars": 110,
+    "name": "oDaiSuno/jetbrainsai2api",
+    "url": "https://github.com/oDaiSuno/jetbrainsai2api",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-05T09:22:35Z",
+    "stars": 109,
+    "name": "FBalint/button",
+    "url": "https://github.com/FBalint/button",
+    "lang": "CSS",
+    "desc": "A pressable 3D style button"
   }
 ]
