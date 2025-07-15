@@ -1,23 +1,15 @@
 [
   {
     "createdAt": "2025-07-08T18:36:23Z",
-    "stars": 1773,
+    "stars": 1909,
     "name": "permissionlesstech/bitchat-android",
     "url": "https://github.com/permissionlesstech/bitchat-android",
     "lang": "Kotlin",
     "desc": "bluetooth mesh chat, IRC vibes"
   },
   {
-    "createdAt": "2025-07-07T14:47:21Z",
-    "stars": 1026,
-    "name": "knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang",
-    "url": "https://github.com/knemik97/Manifesto-against-the-Plagiarist-Yunhe-Wang",
-    "lang": "",
-    "desc": "讨贼王云鹤檄文"
-  },
-  {
     "createdAt": "2025-07-11T09:17:44Z",
-    "stars": 698,
+    "stars": 861,
     "name": "LLM-Red-Team/kimi-cc",
     "url": "https://github.com/LLM-Red-Team/kimi-cc",
     "lang": "Shell",
@@ -25,378 +17,386 @@
   },
   {
     "createdAt": "2025-07-09T15:42:58Z",
-    "stars": 506,
+    "stars": 538,
     "name": "QiuChenly/CoreInject",
     "url": "https://github.com/QiuChenly/CoreInject",
     "lang": "JavaScript",
     "desc": "美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！"
   },
   {
-    "createdAt": "2025-07-08T14:18:54Z",
-    "stars": 419,
-    "name": "NVlabs/Long-RL",
-    "url": "https://github.com/NVlabs/Long-RL",
-    "lang": "Python",
-    "desc": "Long-RL: Scaling RL to Long Sequences"
-  },
-  {
-    "createdAt": "2025-07-09T17:11:52Z",
-    "stars": 389,
-    "name": "Quentin-Anthony/torch-profiling-tutorial",
-    "url": "https://github.com/Quentin-Anthony/torch-profiling-tutorial",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-09T07:56:18Z",
-    "stars": 384,
-    "name": "iosifache/annas-mcp",
-    "url": "https://github.com/iosifache/annas-mcp",
-    "lang": "Go",
-    "desc": "MCP server and CLI tool for searching and downloading documents from Anna's Archive"
-  },
-  {
-    "createdAt": "2025-07-10T13:41:33Z",
-    "stars": 280,
-    "name": "ComposioHQ/grok-cli",
-    "url": "https://github.com/ComposioHQ/grok-cli",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-07T15:47:03Z",
-    "stars": 271,
-    "name": "shuding/legid",
-    "url": "https://github.com/shuding/legid",
-    "lang": "TypeScript",
-    "desc": "A library for generating safe, legit and random URL-compat IDs."
-  },
-  {
-    "createdAt": "2025-07-11T00:39:10Z",
-    "stars": 271,
-    "name": "goombalab/hnet",
-    "url": "https://github.com/goombalab/hnet",
-    "lang": "Python",
-    "desc": "H-Net: Hierarchical Network with Dynamic Chunking"
-  },
-  {
-    "createdAt": "2025-07-11T07:54:13Z",
-    "stars": 246,
-    "name": "qawe68/warzone-cheat",
-    "url": "https://github.com/qawe68/warzone-cheat",
-    "lang": "C++",
-    "desc": "Warzone Cheat is the top undetected cheat for Call of Duty: Warzone. With advanced aimbot, ESP, wallhack, unlock-all, and HWID Spoofer, you’ll dominate every match. Stay secure and climb the ranks fast. Thousands of users, 100% satisfaction. Join now and unlock your full potential."
-  },
-  {
-    "createdAt": "2025-07-09T00:59:13Z",
-    "stars": 244,
-    "name": "jtang613/GhidrAssistMCP",
-    "url": "https://github.com/jtang613/GhidrAssistMCP",
-    "lang": "Java",
-    "desc": "An MCP extension for Ghidra"
-  },
-  {
-    "createdAt": "2025-07-07T17:36:41Z",
-    "stars": 235,
-    "name": "Jstudner/jcorp-nomad",
-    "url": "https://github.com/Jstudner/jcorp-nomad",
-    "lang": "HTML",
-    "desc": "An extremely compact offline media server for Movies, Shows, Books, and Music."
-  },
-  {
-    "createdAt": "2025-07-14T01:44:12Z",
-    "stars": 214,
-    "name": "ShilohEye/bitchat-terminal",
-    "url": "https://github.com/ShilohEye/bitchat-terminal",
-    "lang": "Rust",
-    "desc": "bluetooth mesh chat, IRC vibes"
-  },
-  {
-    "createdAt": "2025-07-07T18:48:50Z",
-    "stars": 195,
-    "name": "DavidHDev/vue-bits",
-    "url": "https://github.com/DavidHDev/vue-bits",
-    "lang": "Vue",
-    "desc": "An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites."
-  },
-  {
-    "createdAt": "2025-07-11T11:04:28Z",
-    "stars": 194,
-    "name": "xXJSONDeruloXx/decky-lossless-scaling-vk",
-    "url": "https://github.com/xXJSONDeruloXx/decky-lossless-scaling-vk",
-    "lang": "Python",
-    "desc": "Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux"
-  },
-  {
-    "createdAt": "2025-07-07T07:50:47Z",
-    "stars": 190,
-    "name": "huggingface/screenenv",
-    "url": "https://github.com/huggingface/screenenv",
-    "lang": "Python",
-    "desc": "A powerful Python library for creating and managing isolated desktop environments using Docker containers."
-  },
-  {
-    "createdAt": "2025-07-14T10:10:59Z",
-    "stars": 183,
-    "name": "acuraNJoyer/Gift-Buyer-Tg",
-    "url": "https://github.com/acuraNJoyer/Gift-Buyer-Tg",
-    "lang": "Python",
-    "desc": "A bot that searches for available gifts and purchases them based on your criteria. Supports integration with Telegram."
-  },
-  {
-    "createdAt": "2025-07-11T01:50:13Z",
-    "stars": 179,
-    "name": "dsekz/chrome-x-browser-validation-header",
-    "url": "https://github.com/dsekz/chrome-x-browser-validation-header",
-    "lang": "Python",
-    "desc": "Reverse engineering and generation toolkit for Chrome's private x-browser-validation header, used for integrity."
-  },
-  {
-    "createdAt": "2025-07-09T14:33:44Z",
-    "stars": 176,
-    "name": "braindotcode/grass-bot",
-    "url": "https://github.com/braindotcode/grass-bot",
-    "lang": "Python",
-    "desc": "bot for automated grass farming"
-  },
-  {
-    "createdAt": "2025-07-07T19:16:03Z",
-    "stars": 168,
-    "name": "itsyebekhe/PSG",
-    "url": "https://github.com/itsyebekhe/PSG",
-    "lang": "HTML",
-    "desc": "Proxy Subscription Generator"
-  },
-  {
-    "createdAt": "2025-07-09T14:45:56Z",
-    "stars": 167,
-    "name": "NetherlandsDev/MonadTestnet-Bot",
-    "url": "https://github.com/NetherlandsDev/MonadTestnet-Bot",
-    "lang": "Python",
-    "desc": "A bot for automated Monad Testnet farm"
-  },
-  {
-    "createdAt": "2025-07-07T07:44:54Z",
-    "stars": 162,
-    "name": "bentoml/llm-inference-handbook",
-    "url": "https://github.com/bentoml/llm-inference-handbook",
-    "lang": "TypeScript",
-    "desc": "Everything you need to know about LLM inference"
-  },
-  {
-    "createdAt": "2025-07-08T15:26:04Z",
-    "stars": 162,
-    "name": "Wh04m1001/CVE-2025-48799",
-    "url": "https://github.com/Wh04m1001/CVE-2025-48799",
-    "lang": "C++",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-07T12:21:34Z",
-    "stars": 162,
-    "name": "cogwheel0/luci-mobile",
-    "url": "https://github.com/cogwheel0/luci-mobile",
-    "lang": "Dart",
-    "desc": "Remotely manage your OpenWrt router. Monitor clients, interfaces, and status."
-  },
-  {
-    "createdAt": "2025-07-10T05:12:02Z",
-    "stars": 152,
-    "name": "mouredev/hello-bash-shell",
-    "url": "https://github.com/mouredev/hello-bash-shell",
+    "createdAt": "2025-07-08T14:19:49Z",
+    "stars": 467,
+    "name": "R3V01UX/crypto-mcp-server",
+    "url": "https://github.com/R3V01UX/crypto-mcp-server",
     "lang": "",
-    "desc": "Curso para aprender a trabajar con Bash (Bourne-again shell), línea de comandos, terminal y scripting desde cero."
+    "desc": "A powerful MCP for cryptocurrency market data, cross-platform trading, arbitrage, kline (candlestick) analysis, portfolio analysis, and more. Supports multi-exchange, multi-account, and advanced multi-strategy analytics (MACD, Bollinger Bands, KDJ, EMA, etc.). Built on CCXT for robust exchange integration."
   },
   {
-    "createdAt": "2025-07-11T21:40:21Z",
-    "stars": 151,
-    "name": "jackjackbits/sunday",
-    "url": "https://github.com/jackjackbits/sunday",
-    "lang": "Swift",
-    "desc": "track your D"
-  },
-  {
-    "createdAt": "2025-07-13T14:22:28Z",
-    "stars": 143,
-    "name": "graphitemaster/detour",
-    "url": "https://github.com/graphitemaster/detour",
-    "lang": "C",
-    "desc": "A detour through the Linux dynamic linker"
-  },
-  {
-    "createdAt": "2025-07-09T20:04:38Z",
-    "stars": 141,
-    "name": "Lianues/LMArenaBridge",
-    "url": "https://github.com/Lianues/LMArenaBridge",
-    "lang": "Python",
-    "desc": "LMArenaBridge 是一个强大的开源工具，它充当一座桥梁，让你能通过任何兼容 OpenAI API 的应用程序（例如各类AI聊天客户端、编程插件等）来使用 [LMArena.ai](https://lmarena.ai/) 网站上提供的海量先进测试大语言模型。"
-  },
-  {
-    "createdAt": "2025-07-14T07:18:02Z",
-    "stars": 140,
-    "name": "oxc-project/tsgolint",
-    "url": "https://github.com/oxc-project/tsgolint",
-    "lang": "Go",
-    "desc": "Type aware linting for oxlint"
-  },
-  {
-    "createdAt": "2025-07-07T19:16:10Z",
-    "stars": 139,
-    "name": "inliver233/Ai-Novel-Editor",
-    "url": "https://github.com/inliver233/Ai-Novel-Editor",
-    "lang": "Python",
-    "desc": "使用python+pyqt6实现的ai辅助小说编辑器"
-  },
-  {
-    "createdAt": "2025-07-10T07:17:46Z",
-    "stars": 139,
-    "name": "fish2018/pansou",
-    "url": "https://github.com/fish2018/pansou",
-    "lang": "Go",
-    "desc": "网盘资源链接搜索工具，目前接入TG搜索和8个网盘搜索引擎"
-  },
-  {
-    "createdAt": "2025-07-11T12:37:35Z",
-    "stars": 136,
-    "name": "Idov31/NovaHypervisor",
-    "url": "https://github.com/Idov31/NovaHypervisor",
-    "lang": "C++",
-    "desc": "NovaHypervisor is a defensive x64 Intel host based hypervisor. The goal of this project is to protect against kernel based attacks (either via Bring Your Own Vulnerable Driver (BYOVD) or other means) by safeguarding defense products (AntiVirus / Endpoint Protection) and kernel memory structures and preventing unauthorized access to kernel memory."
-  },
-  {
-    "createdAt": "2025-07-08T22:31:10Z",
-    "stars": 133,
-    "name": "skitSkills/TikTok-Scraper-Video-Downloader-Auto-Reporter-2025",
-    "url": "https://github.com/skitSkills/TikTok-Scraper-Video-Downloader-Auto-Reporter-2025",
-    "lang": "Python",
-    "desc": "An All-In-1 TikTok marketing bot for scraping, Download videos without watermarks and auto-reporter"
-  },
-  {
-    "createdAt": "2025-07-08T20:00:49Z",
-    "stars": 129,
-    "name": "Quad9DNS/quad9-domains-top500",
-    "url": "https://github.com/Quad9DNS/quad9-domains-top500",
+    "createdAt": "2025-07-08T14:37:37Z",
+    "stars": 466,
+    "name": "R3V01UX/NodeGo-Bot",
+    "url": "https://github.com/R3V01UX/NodeGo-Bot",
     "lang": "",
-    "desc": "Top 500 DNS domains seen on the Quad9 recursive resolver array each day"
+    "desc": "Automate farming nodego.ai with our auto bot! 🚀 Farm supports multi-account, full automation, and an intuitive interface. Perfect for mining, earning NodeGo Points, and crypto airdrops. Easy to set up and secure. Start maximizing your airdrop efficiently today! 🌱"
   },
   {
-    "createdAt": "2025-07-09T10:34:38Z",
-    "stars": 124,
-    "name": "antirez/historical-redis-versions",
-    "url": "https://github.com/antirez/historical-redis-versions",
-    "lang": "C",
-    "desc": "Very early versions of Redis with some backstory in the README"
+    "createdAt": "2025-07-08T14:11:10Z",
+    "stars": 466,
+    "name": "R3V01UX/Koi-Farm",
+    "url": "https://github.com/R3V01UX/Koi-Farm",
+    "lang": "",
+    "desc": "Koi Farm, a koi breeding game"
   },
   {
-    "createdAt": "2025-07-13T12:17:05Z",
-    "stars": 123,
-    "name": "denuvosanctuary/steam-ticket-generator",
-    "url": "https://github.com/denuvosanctuary/steam-ticket-generator",
-    "lang": "Rust",
+    "createdAt": "2025-07-08T14:28:52Z",
+    "stars": 466,
+    "name": "R3V01UX/YouTube-Viewer",
+    "url": "https://github.com/R3V01UX/YouTube-Viewer",
+    "lang": "",
+    "desc": "A multithreaded view bot for YouTube"
+  },
+  {
+    "createdAt": "2025-07-08T09:20:39Z",
+    "stars": 462,
+    "name": "Livia09716/Resolume",
+    "url": "https://github.com/Livia09716/Resolume",
+    "lang": "",
+    "desc": "RES"
+  },
+  {
+    "createdAt": "2025-07-08T19:36:23Z",
+    "stars": 462,
+    "name": "Brian-loop/ClickerforTG",
+    "url": "https://github.com/Brian-loop/ClickerforTG",
+    "lang": "",
+    "desc": "clicker"
+  },
+  {
+    "createdAt": "2025-07-08T19:41:51Z",
+    "stars": 462,
+    "name": "Brian-loop/solana-wallet-generator",
+    "url": "https://github.com/Brian-loop/solana-wallet-generator",
+    "lang": "",
+    "desc": "solana-wallet-generator"
+  },
+  {
+    "createdAt": "2025-07-08T19:38:44Z",
+    "stars": 462,
+    "name": "Brian-loop/OKX-TG-CLICKER",
+    "url": "https://github.com/Brian-loop/OKX-TG-CLICKER",
+    "lang": "",
+    "desc": "OKX-TG-CLICKER"
+  },
+  {
+    "createdAt": "2025-07-08T19:17:51Z",
+    "stars": 462,
+    "name": "BielGaming/BOTcrypto",
+    "url": "https://github.com/BielGaming/BOTcrypto",
+    "lang": "",
+    "desc": "BOT"
+  },
+  {
+    "createdAt": "2025-07-08T19:45:29Z",
+    "stars": 462,
+    "name": "Brian-loop/MytonWallet",
+    "url": "https://github.com/Brian-loop/MytonWallet",
+    "lang": "",
+    "desc": "my-ton"
+  },
+  {
+    "createdAt": "2025-07-08T19:32:04Z",
+    "stars": 462,
+    "name": "Brian-loop/GeminiTG",
+    "url": "https://github.com/Brian-loop/GeminiTG",
+    "lang": "",
+    "desc": "qwe"
+  },
+  {
+    "createdAt": "2025-07-08T09:06:56Z",
+    "stars": 462,
+    "name": "Livia09716/G-helper",
+    "url": "https://github.com/Livia09716/G-helper",
+    "lang": "",
+    "desc": "G-helper"
+  },
+  {
+    "createdAt": "2025-07-08T19:08:16Z",
+    "stars": 462,
+    "name": "BielGaming/GIFT_TG",
+    "url": "https://github.com/BielGaming/GIFT_TG",
+    "lang": "",
+    "desc": "Telegram"
+  },
+  {
+    "createdAt": "2025-07-08T19:49:00Z",
+    "stars": 462,
+    "name": "Brian-loop/BRwallet",
+    "url": "https://github.com/Brian-loop/BRwallet",
+    "lang": "",
+    "desc": "wallet"
+  },
+  {
+    "createdAt": "2025-07-08T19:13:52Z",
+    "stars": 462,
+    "name": "BielGaming/TG-botOrders",
+    "url": "https://github.com/BielGaming/TG-botOrders",
+    "lang": "",
+    "desc": "TGBOT"
+  },
+  {
+    "createdAt": "2025-07-14T18:15:28Z",
+    "stars": 461,
+    "name": "AgustinBianchi88/UltraSearch",
+    "url": "https://github.com/AgustinBianchi88/UltraSearch",
+    "lang": "",
+    "desc": "Download UltraSearch - Fast File Search Tool with Advanced Indexing and Instant Results for Windows 2025"
+  },
+  {
+    "createdAt": "2025-07-08T20:10:27Z",
+    "stars": 461,
+    "name": "CesarFKS/Crypto_Signal",
+    "url": "https://github.com/CesarFKS/Crypto_Signal",
+    "lang": "",
+    "desc": "signal"
+  },
+  {
+    "createdAt": "2025-07-08T20:13:29Z",
+    "stars": 461,
+    "name": "CesarFKS/Backpack",
+    "url": "https://github.com/CesarFKS/Backpack",
+    "lang": "",
+    "desc": "qwe"
+  },
+  {
+    "createdAt": "2025-07-08T19:04:23Z",
+    "stars": 461,
+    "name": "BielGaming/AItrading",
+    "url": "https://github.com/BielGaming/AItrading",
+    "lang": "",
+    "desc": "Trading"
+  },
+  {
+    "createdAt": "2025-07-14T18:13:38Z",
+    "stars": 461,
+    "name": "mywinli/CryptoDragon",
+    "url": "https://github.com/mywinli/CryptoDragon",
+    "lang": "",
+    "desc": "Download CryptoDragon Trainer Hack 2025 – Unlimited Resources, Auto-Battle & Dragon Evolution Cheats"
+  },
+  {
+    "createdAt": "2025-07-08T20:20:08Z",
+    "stars": 461,
+    "name": "CesarFKS/Crypto-Trading",
+    "url": "https://github.com/CesarFKS/Crypto-Trading",
+    "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-07T09:10:01Z",
-    "stars": 121,
-    "name": "fladdict/vibe-logger",
-    "url": "https://github.com/fladdict/vibe-logger",
-    "lang": "Python",
-    "desc": "Logger system for Generative AI era."
-  },
-  {
-    "createdAt": "2025-07-10T19:22:49Z",
-    "stars": 120,
-    "name": "ColinQiyangLi/qc",
-    "url": "https://github.com/ColinQiyangLi/qc",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-08T16:14:40Z",
-    "stars": 115,
-    "name": "coleam00/remote-mcp-server-with-auth",
-    "url": "https://github.com/coleam00/remote-mcp-server-with-auth",
-    "lang": "TypeScript",
-    "desc": "Template for a remote MCP server with GitHub OAuth - following best practices for building MCP servers so you can take this as a starting point for any MCP server you want to build!"
-  },
-  {
-    "createdAt": "2025-07-08T11:40:49Z",
-    "stars": 114,
-    "name": "xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More",
-    "url": "https://github.com/xjskf3783/Telegram-Members-Adder-Forwarder-Scraper-Much-More",
-    "lang": "Python",
-    "desc": "A powerful all-in-1 Telegram marketing tool designed to automate your growth. Features include member scraping, auto-adding, bulk messaging, message forwarding and much more - perfect for marketing."
-  },
-  {
-    "createdAt": "2025-07-09T08:22:48Z",
-    "stars": 113,
-    "name": "Poll-The-People/awesome-rag",
-    "url": "https://github.com/Poll-The-People/awesome-rag",
+    "createdAt": "2025-07-14T18:16:53Z",
+    "stars": 460,
+    "name": "Alehhhhh/GalFi-Galactic-Finance",
+    "url": "https://github.com/Alehhhhh/GalFi-Galactic-Finance",
     "lang": "",
-    "desc": "awesome-rag: a collection of awesome thing related to Retrieval-Augmented Generation"
+    "desc": "Download GalFi Galactic Finance Trainer - Ultimate Space Economy Hack & Strategy Guide 2025"
   },
   {
-    "createdAt": "2025-07-11T15:42:44Z",
-    "stars": 112,
-    "name": "Ravish-Vishwakarma/Youtube-Skip-Add",
-    "url": "https://github.com/Ravish-Vishwakarma/Youtube-Skip-Add",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-11T04:36:38Z",
-    "stars": 108,
-    "name": "dahlia/upyo",
-    "url": "https://github.com/dahlia/upyo",
-    "lang": "TypeScript",
-    "desc": "Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers.  It works on Node.js, Deno, Bun, and edge functions."
-  },
-  {
-    "createdAt": "2025-07-08T06:44:22Z",
-    "stars": 105,
-    "name": "d0ctorsec/WebGoatVulnerabilityRangeCodeAudit",
-    "url": "https://github.com/d0ctorsec/WebGoatVulnerabilityRangeCodeAudit",
+    "createdAt": "2025-07-14T18:20:10Z",
+    "stars": 460,
+    "name": "Anyanboys/ESETSmartSecurityPremium",
+    "url": "https://github.com/Anyanboys/ESETSmartSecurityPremium",
     "lang": "",
-    "desc": "6万字奶爸级WebGoat8.X代码审计大全，全文均可复现，适合刚学完JAVASE准备开始代码审计的师傅🌟"
+    "desc": "Download ESET Smart Security Premium 2025 - Advanced Antivirus, Firewall, Ransomware Protection & Privacy Tools for Ultimate Cybersecurity"
   },
   {
-    "createdAt": "2025-07-08T13:03:34Z",
-    "stars": 104,
-    "name": "PhilGoud/H265-batch-encoder",
-    "url": "https://github.com/PhilGoud/H265-batch-encoder",
-    "lang": "Shell",
-    "desc": " Video Re-encoding Script"
+    "createdAt": "2025-07-14T18:20:12Z",
+    "stars": 460,
+    "name": "AnyeshSaras/BONK--Arena",
+    "url": "https://github.com/AnyeshSaras/BONK--Arena",
+    "lang": "",
+    "desc": "Download BONK! Arena Trainer Hack 2025 - Unlimited Coins, Free Skins, God Mode & More Cheats"
   },
   {
-    "createdAt": "2025-07-07T17:52:31Z",
-    "stars": 104,
-    "name": "hellangleZ/Agent-MemoryForge",
-    "url": "https://github.com/hellangleZ/Agent-MemoryForge",
-    "lang": "Python",
-    "desc": "A complete 7-layer intelligent memory system for AI Agents with multi-modal memory fusion also support  context_engineering"
+    "createdAt": "2025-07-14T18:19:23Z",
+    "stars": 460,
+    "name": "Animesh11-code/Nomstead",
+    "url": "https://github.com/Animesh11-code/Nomstead",
+    "lang": "",
+    "desc": "Download Nomstead Trainer Hack - Unlimited Resources, God Mode & Speed Boost for 2025"
   },
   {
-    "createdAt": "2025-07-14T06:08:45Z",
-    "stars": 102,
-    "name": "24imepuza/apex-cheat",
-    "url": "https://github.com/24imepuza/apex-cheat",
-    "lang": "C++",
-    "desc": "Apex Cheat is a premium, undetected cheat for Apex Legends featuring advanced aimbot, ESP, wallhack, Unlock All, and HWID Spoofer. Dominate every lobby, unlock all cosmetics and heirlooms, and play safely with anti-ban protection. Join thousands of users taking over the Apex Games."
+    "createdAt": "2025-07-14T18:19:01Z",
+    "stars": 460,
+    "name": "Atom159/Suit-for-Hire",
+    "url": "https://github.com/Atom159/Suit-for-Hire",
+    "lang": "",
+    "desc": "Download Suit for Hire - Professional Suit Rental & Styling Service for Events, Weddings & Business 2025"
   },
   {
-    "createdAt": "2025-07-07T09:06:25Z",
-    "stars": 101,
-    "name": "OpenRobotLab/StreamVLN",
-    "url": "https://github.com/OpenRobotLab/StreamVLN",
-    "lang": "Python",
-    "desc": "Official implementation of the paper: \"StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling\""
+    "createdAt": "2025-07-14T18:19:05Z",
+    "stars": 460,
+    "name": "andrewe153/McAfeeTotalProtection",
+    "url": "https://github.com/andrewe153/McAfeeTotalProtection",
+    "lang": "",
+    "desc": "Download McAfee Total Protection 2025 – Advanced Antivirus, VPN, Identity Theft Protection & Real-Time Security for Ultimate Online Safety"
   },
   {
-    "createdAt": "2025-07-09T18:53:13Z",
-    "stars": 100,
-    "name": "shahshlok/vim-coach.nvim",
-    "url": "https://github.com/shahshlok/vim-coach.nvim",
-    "lang": "Lua",
-    "desc": "Your Personal Coach for Neovim"
+    "createdAt": "2025-07-14T18:20:49Z",
+    "stars": 460,
+    "name": "Aryan20-code/WinToUSB",
+    "url": "https://github.com/Aryan20-code/WinToUSB",
+    "lang": "",
+    "desc": "Download Create Bootable Windows USB Drives with WinToUSB - Clone, Install, and Run Windows from USB in 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:20:17Z",
+    "stars": 460,
+    "name": "AIToolsHubs/BCN-Garden",
+    "url": "https://github.com/AIToolsHubs/BCN-Garden",
+    "lang": "",
+    "desc": "Download BCN Garden Trainer Hack 2025 - Unlimited Resources, Auto Harvest & More Cheats"
+  },
+  {
+    "createdAt": "2025-07-14T18:17:07Z",
+    "stars": 460,
+    "name": "PissPie/Smadav-Antivirus-Pro",
+    "url": "https://github.com/PissPie/Smadav-Antivirus-Pro",
+    "lang": "",
+    "desc": "Download Smadav Antivirus Pro 2025 - USB Protection, Real-Time Scanner, Lightweight Antivirus & Second Layer Defense for Windows"
+  },
+  {
+    "createdAt": "2025-07-14T18:17:15Z",
+    "stars": 460,
+    "name": "aliloubir/Aiarty-Image-Matting",
+    "url": "https://github.com/aliloubir/Aiarty-Image-Matting",
+    "lang": "",
+    "desc": "Download Aiarty Image Matting - Advanced AI-Powered Background Removal & Foreground Extraction Tool 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:19:14Z",
+    "stars": 460,
+    "name": "Verovie/Forest-Knight",
+    "url": "https://github.com/Verovie/Forest-Knight",
+    "lang": "",
+    "desc": "Download Forest Knight Trainer - Unlimited Gold, Energy & Resources Hack 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:18:56Z",
+    "stars": 460,
+    "name": "andrew1233388/Gods-Unchained",
+    "url": "https://github.com/andrew1233388/Gods-Unchained",
+    "lang": "",
+    "desc": "Download Gods Unchained Auto Play Bot & Card Hack Trainer - Ultimate Deck Builder & Strategy Cheat Tool 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:17:17Z",
+    "stars": 460,
+    "name": "Quantxm02/AdobeInDesign",
+    "url": "https://github.com/Quantxm02/AdobeInDesign",
+    "lang": "",
+    "desc": "Download Adobe InDesign 2025: Advanced Layout Design, Typography Tools, PDF Export, and Creative Cloud Integration for Professional Publishing"
+  },
+  {
+    "createdAt": "2025-07-14T18:20:14Z",
+    "stars": 460,
+    "name": "ar0823723437474/KMSAutoNetActivator",
+    "url": "https://github.com/ar0823723437474/KMSAutoNetActivator",
+    "lang": "",
+    "desc": "Download KMSAutoNetActivator - Reliable Windows & Office Activation Tool with KMS Technology for Free in 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:16:59Z",
+    "stars": 460,
+    "name": "alejshadows/Glarysoft-File-Recovery-Pro",
+    "url": "https://github.com/alejshadows/Glarysoft-File-Recovery-Pro",
+    "lang": "",
+    "desc": "Download Glarysoft File Recovery Pro 2025 - Recover Deleted Files, Photos, Videos & Lost Data from HDD, SSD, USB & More"
+  },
+  {
+    "createdAt": "2025-07-14T18:20:42Z",
+    "stars": 460,
+    "name": "ArtaZDX/MultisimProfessional",
+    "url": "https://github.com/ArtaZDX/MultisimProfessional",
+    "lang": "",
+    "desc": "Download MultisimProfessional 2025 - Advanced Circuit Design & Simulation Software for Electronics Engineers"
+  },
+  {
+    "createdAt": "2025-07-14T18:19:13Z",
+    "stars": 460,
+    "name": "Xavi-art/Little-Nightmares-Enhanced-Edition",
+    "url": "https://github.com/Xavi-art/Little-Nightmares-Enhanced-Edition",
+    "lang": "",
+    "desc": "Download Little Nightmares Enhanced Edition Trainer Hack - Unlimited Health, Stamina, Stealth Mode & More Cheats 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:20:27Z",
+    "stars": 460,
+    "name": "aravindkumarwith/CakewalkbyBandLab",
+    "url": "https://github.com/aravindkumarwith/CakewalkbyBandLab",
+    "lang": "",
+    "desc": "Download Cakewalk by BandLab - Free Professional DAW for Music Production with MIDI Editing, Audio Recording, and Mixing Tools 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:19:06Z",
+    "stars": 460,
+    "name": "androi123s/MagicCraft",
+    "url": "https://github.com/androi123s/MagicCraft",
+    "lang": "",
+    "desc": "Download MagicCraft - Advanced Spellcasting, Enchanting & Magical Crafting System for Minecraft 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:20:21Z",
+    "stars": 460,
+    "name": "AravKumar7777/LMMS",
+    "url": "https://github.com/AravKumar7777/LMMS",
+    "lang": "",
+    "desc": "Download LMMS - Free, Open-Source Digital Audio Workstation for Music Production with MIDI Support, VST Plugins, and Beat Creation Tools in 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:17:33Z",
+    "stars": 460,
+    "name": "Alvinegargo098/InPageProfessional",
+    "url": "https://github.com/Alvinegargo098/InPageProfessional",
+    "lang": "",
+    "desc": "Download InPageProfessional - Advanced In-Page SEO Optimization, Content Analysis & Performance Boosting Tool for Websites 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:19:17Z",
+    "stars": 460,
+    "name": "Anidin84/Sheepfarm",
+    "url": "https://github.com/Anidin84/Sheepfarm",
+    "lang": "",
+    "desc": "Download Sheepfarm Trainer Hack 2025 - Unlimited Coins, Speed Boost & More Cheats"
+  },
+  {
+    "createdAt": "2025-07-14T18:17:04Z",
+    "stars": 460,
+    "name": "Pipabinks/Zipwave",
+    "url": "https://github.com/Pipabinks/Zipwave",
+    "lang": "",
+    "desc": "Download Zipware - Advanced File Compression and Archiving Tool with High-Speed ZIP Extraction, Encryption, and Multi-Format Support in 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:17:24Z",
+    "stars": 460,
+    "name": "AlphaXNdaaku/Basepoker",
+    "url": "https://github.com/AlphaXNdaaku/Basepoker",
+    "lang": "",
+    "desc": "Download Basepoker - Open-Source Poker Framework with Real-Time Analytics, Multi-Table Tournaments & Custom Rule Engine 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:18:44Z",
+    "stars": 460,
+    "name": "Yeahboi12356/Avast-Cleanup-Premium",
+    "url": "https://github.com/Yeahboi12356/Avast-Cleanup-Premium",
+    "lang": "",
+    "desc": "Download Avast Cleanup Premium 2025 - Boost PC Performance, Clean Junk Files, Fix Registry Errors & Optimize System Speed"
+  },
+  {
+    "createdAt": "2025-07-14T18:22:55Z",
+    "stars": 459,
+    "name": "Bamfosamuel946/SophosHome",
+    "url": "https://github.com/Bamfosamuel946/SophosHome",
+    "lang": "",
+    "desc": "Download Sophos Home - Advanced Cybersecurity for Home Users in 2025 | Free Antivirus, Parental Controls & Real-Time Threat Protection"
   }
 ]
