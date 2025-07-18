@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-07-11T09:17:44Z",
-    "stars": 1070,
+    "stars": 1130,
     "name": "LLM-Red-Team/kimi-cc",
     "url": "https://github.com/LLM-Red-Team/kimi-cc",
     "lang": "Shell",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-07-16T06:14:09Z",
-    "stars": 845,
+    "stars": 1119,
     "name": "Jackywine/Bella",
     "url": "https://github.com/Jackywine/Bella",
     "lang": "JavaScript",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-07-15T21:25:41Z",
-    "stars": 680,
+    "stars": 773,
     "name": "Doriandarko/make-it-heavy",
     "url": "https://github.com/Doriandarko/make-it-heavy",
     "lang": "Python",
@@ -25,23 +25,87 @@
   },
   {
     "createdAt": "2025-07-15T11:46:31Z",
-    "stars": 522,
+    "stars": 614,
     "name": "untitleduico/react",
     "url": "https://github.com/untitleduico/react",
     "lang": "TypeScript",
     "desc": "Untitled UI React is the world’s largest collection of open-source React components built with Tailwind CSS and React Aria. Just copy, paste, and build."
   },
   {
-    "createdAt": "2025-07-10T05:12:02Z",
-    "stars": 465,
-    "name": "mouredev/hello-bash-shell",
-    "url": "https://github.com/mouredev/hello-bash-shell",
-    "lang": "",
-    "desc": "Curso para aprender a trabajar con Bash (Bourne-again shell), línea de comandos, terminal y scripting desde cero."
+    "createdAt": "2025-07-16T08:13:41Z",
+    "stars": 503,
+    "name": "dingyufei615/ai-goofish-monitor",
+    "url": "https://github.com/dingyufei615/ai-goofish-monitor",
+    "lang": "Python",
+    "desc": "一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。"
+  },
+  {
+    "createdAt": "2025-07-11T00:39:10Z",
+    "stars": 434,
+    "name": "goombalab/hnet",
+    "url": "https://github.com/goombalab/hnet",
+    "lang": "Python",
+    "desc": "H-Net: Hierarchical Network with Dynamic Chunking"
+  },
+  {
+    "createdAt": "2025-07-14T10:11:32Z",
+    "stars": 395,
+    "name": "Wei-Shaw/claude-relay-service",
+    "url": "https://github.com/Wei-Shaw/claude-relay-service",
+    "lang": "JavaScript",
+    "desc": "可自建Claude code镜像服务，支持多账户切换、自定义API密钥、隐私安全、能有效规避封号，OAuth集成可快捷添加账号池。"
+  },
+  {
+    "createdAt": "2025-07-11T11:04:28Z",
+    "stars": 388,
+    "name": "xXJSONDeruloXx/decky-lossless-scaling-vk",
+    "url": "https://github.com/xXJSONDeruloXx/decky-lossless-scaling-vk",
+    "lang": "Python",
+    "desc": "Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux"
+  },
+  {
+    "createdAt": "2025-07-14T01:44:12Z",
+    "stars": 366,
+    "name": "ShilohEye/bitchat-terminal",
+    "url": "https://github.com/ShilohEye/bitchat-terminal",
+    "lang": "Rust",
+    "desc": "bluetooth mesh chat, IRC vibes"
+  },
+  {
+    "createdAt": "2025-07-15T16:53:39Z",
+    "stars": 343,
+    "name": "chiphuyen/sniffly",
+    "url": "https://github.com/chiphuyen/sniffly",
+    "lang": "Python",
+    "desc": "Claude Code dashboard with usage stats, error analysis, and sharable feature"
+  },
+  {
+    "createdAt": "2025-07-14T07:18:02Z",
+    "stars": 319,
+    "name": "oxc-project/tsgolint",
+    "url": "https://github.com/oxc-project/tsgolint",
+    "lang": "Go",
+    "desc": "Type aware linting for oxlint"
+  },
+  {
+    "createdAt": "2025-07-17T17:19:00Z",
+    "stars": 302,
+    "name": "fogsightai/fogsight",
+    "url": "https://github.com/fogsightai/fogsight",
+    "lang": "JavaScript",
+    "desc": "Fogsight is an AI agent and animation engine powered by Large Language Models."
+  },
+  {
+    "createdAt": "2025-07-14T10:39:05Z",
+    "stars": 283,
+    "name": "ebogdum/callfs",
+    "url": "https://github.com/ebogdum/callfs",
+    "lang": "Go",
+    "desc": "CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer networks"
   },
   {
     "createdAt": "2025-07-14T18:15:28Z",
-    "stars": 443,
+    "stars": 282,
     "name": "AgustinBianchi88/UltraSearch",
     "url": "https://github.com/AgustinBianchi88/UltraSearch",
     "lang": "",
@@ -49,47 +113,39 @@
   },
   {
     "createdAt": "2025-07-14T18:13:38Z",
-    "stars": 443,
+    "stars": 282,
     "name": "mywinli/CryptoDragon",
     "url": "https://github.com/mywinli/CryptoDragon",
     "lang": "",
     "desc": "Download CryptoDragon Trainer Hack 2025 – Unlimited Resources, Auto-Battle & Dragon Evolution Cheats"
   },
   {
-    "createdAt": "2025-07-14T18:20:10Z",
-    "stars": 442,
-    "name": "Anyanboys/ESETSmartSecurityPremium",
-    "url": "https://github.com/Anyanboys/ESETSmartSecurityPremium",
-    "lang": "",
-    "desc": "Download ESET Smart Security Premium 2025 - Advanced Antivirus, Firewall, Ransomware Protection & Privacy Tools for Ultimate Cybersecurity"
-  },
-  {
     "createdAt": "2025-07-14T18:20:12Z",
-    "stars": 442,
+    "stars": 281,
     "name": "AnyeshSaras/BONK--Arena",
     "url": "https://github.com/AnyeshSaras/BONK--Arena",
     "lang": "",
     "desc": "Download BONK! Arena Trainer Hack 2025 - Unlimited Coins, Free Skins, God Mode & More Cheats"
   },
   {
+    "createdAt": "2025-07-14T18:20:10Z",
+    "stars": 281,
+    "name": "Anyanboys/ESETSmartSecurityPremium",
+    "url": "https://github.com/Anyanboys/ESETSmartSecurityPremium",
+    "lang": "",
+    "desc": "Download ESET Smart Security Premium 2025 - Advanced Antivirus, Firewall, Ransomware Protection & Privacy Tools for Ultimate Cybersecurity"
+  },
+  {
     "createdAt": "2025-07-14T18:19:23Z",
-    "stars": 442,
+    "stars": 281,
     "name": "Animesh11-code/Nomstead",
     "url": "https://github.com/Animesh11-code/Nomstead",
     "lang": "",
     "desc": "Download Nomstead Trainer Hack - Unlimited Resources, God Mode & Speed Boost for 2025"
   },
   {
-    "createdAt": "2025-07-14T18:19:01Z",
-    "stars": 442,
-    "name": "Atom159/Suit-for-Hire",
-    "url": "https://github.com/Atom159/Suit-for-Hire",
-    "lang": "",
-    "desc": "Download Suit for Hire - Professional Suit Rental & Styling Service for Events, Weddings & Business 2025"
-  },
-  {
     "createdAt": "2025-07-14T18:19:05Z",
-    "stars": 442,
+    "stars": 281,
     "name": "andrewe153/McAfeeTotalProtection",
     "url": "https://github.com/andrewe153/McAfeeTotalProtection",
     "lang": "",
@@ -97,95 +153,111 @@
   },
   {
     "createdAt": "2025-07-14T18:17:07Z",
-    "stars": 442,
+    "stars": 281,
     "name": "PissPie/Smadav-Antivirus-Pro",
     "url": "https://github.com/PissPie/Smadav-Antivirus-Pro",
     "lang": "",
     "desc": "Download Smadav Antivirus Pro 2025 - USB Protection, Real-Time Scanner, Lightweight Antivirus & Second Layer Defense for Windows"
   },
   {
+    "createdAt": "2025-07-14T18:30:27Z",
+    "stars": 281,
+    "name": "andrewflik/XMedia-Recode",
+    "url": "https://github.com/andrewflik/XMedia-Recode",
+    "lang": "",
+    "desc": "Download XMedia Recode - Powerful Video and Audio Converter with Advanced Editing Tools | 2025 Update"
+  },
+  {
     "createdAt": "2025-07-14T18:26:24Z",
-    "stars": 441,
+    "stars": 280,
     "name": "calmehoney/Tenorshare-UltData",
     "url": "https://github.com/calmehoney/Tenorshare-UltData",
     "lang": "",
     "desc": "Download Tenorshare UltData - Best Data Recovery Software to Recover Lost Photos, Videos, Contacts & Files in 2025"
   },
   {
-    "createdAt": "2025-07-14T18:26:54Z",
-    "stars": 441,
-    "name": "chetan436/uTorrentpro",
-    "url": "https://github.com/chetan436/uTorrentpro",
-    "lang": "",
-    "desc": "Download uTorrent Pro - Fast, Lightweight Torrent Client with Advanced Download Management & Streaming in 2025"
-  },
-  {
     "createdAt": "2025-07-14T18:25:46Z",
-    "stars": 441,
+    "stars": 280,
     "name": "bruhenrique2453/Telamon-Cleaner",
     "url": "https://github.com/bruhenrique2453/Telamon-Cleaner",
     "lang": "",
     "desc": "Download Telamon Cleaner - Advanced Cleaning Solution for Dust-Free Environments & Surface Sanitization 2025"
   },
   {
-    "createdAt": "2025-07-14T18:25:47Z",
-    "stars": 441,
-    "name": "Angeline221/Gnome-Mines",
-    "url": "https://github.com/Angeline221/Gnome-Mines",
-    "lang": "",
-    "desc": "Download Gnome Mines Trainer Hack 2025 – Ultimate Cheat Tool for Unlimited Lives, Auto-Solve & Custom Difficulty"
-  },
-  {
     "createdAt": "2025-07-14T18:25:06Z",
-    "stars": 441,
+    "stars": 280,
     "name": "BonBonn-glitch/Voicemod-Pro",
     "url": "https://github.com/BonBonn-glitch/Voicemod-Pro",
     "lang": "",
     "desc": "Download Voicemod Pro - Real-Time Voice Changer & Soundboard with AI Effects for Streaming, Gaming, and Content Creation in 2025"
   },
   {
-    "createdAt": "2025-07-14T18:27:48Z",
-    "stars": 441,
-    "name": "Dafezagu/Hallmark-Card-Studio-Deluxe",
-    "url": "https://github.com/Dafezagu/Hallmark-Card-Studio-Deluxe",
-    "lang": "",
-    "desc": "Download Hallmark Card Studio Deluxe 2025 - Create Custom Greeting Cards with Professional Templates, Photo Editing & Print Tools"
-  },
-  {
     "createdAt": "2025-07-14T18:22:07Z",
-    "stars": 441,
+    "stars": 280,
     "name": "Aesa1019/PowerArchiver",
     "url": "https://github.com/Aesa1019/PowerArchiver",
     "lang": "",
     "desc": "Download PowerArchiver 2025 - Advanced File Compression, Encryption, and Backup Tool with ZIP, RAR, and Cloud Support"
   },
   {
-    "createdAt": "2025-07-14T18:21:27Z",
-    "stars": 441,
-    "name": "atharva8164/iSumsoft-Cloner",
-    "url": "https://github.com/atharva8164/iSumsoft-Cloner",
+    "createdAt": "2025-07-14T18:30:02Z",
+    "stars": 280,
+    "name": "devas93/Morning-Moon-Village",
+    "url": "https://github.com/devas93/Morning-Moon-Village",
     "lang": "",
-    "desc": "Download iSumsoft Cloner - Best Windows Data Cloning Tool for HDD, SSD, and Partitions in 2025"
+    "desc": "Download Morning Moon Village Trainer Hack – Unlimited Resources, Free Purchases & God Mode Cheat 2025"
   },
   {
-    "createdAt": "2025-07-14T18:21:09Z",
-    "stars": 441,
-    "name": "ashishofflineA1/CyberLink-ColorDirector-Ultra",
-    "url": "https://github.com/ashishofflineA1/CyberLink-ColorDirector-Ultra",
+    "createdAt": "2025-07-14T18:30:27Z",
+    "stars": 280,
+    "name": "786DC/KasperskyTotalSecurity",
+    "url": "https://github.com/786DC/KasperskyTotalSecurity",
     "lang": "",
-    "desc": "Download CyberLink ColorDirector Ultra 2025 - Professional Color Grading & Video Enhancement Software with AI-Powered Tools"
+    "desc": "Download Kaspersky Total Security 2025 - Advanced Antivirus Protection, Privacy Tools, VPN, Password Manager & Parental Control for Ultimate Cybersecurity"
   },
   {
-    "createdAt": "2025-07-14T18:21:55Z",
-    "stars": 441,
-    "name": "Awokunle41/Surfer",
-    "url": "https://github.com/Awokunle41/Surfer",
+    "createdAt": "2025-07-14T18:29:58Z",
+    "stars": 280,
+    "name": "definal/Forgotten-Runiverse",
+    "url": "https://github.com/definal/Forgotten-Runiverse",
     "lang": "",
-    "desc": "Download Surfer SEO Optimization Tool 2025 - AI-Powered Content Editor, Keyword Research, and SERP Analysis for Top Rankings"
+    "desc": "Download Forgotten Runiverse Trainer Hack 2025 - Auto Farm, Unlimited Resources & More"
+  },
+  {
+    "createdAt": "2025-07-14T18:28:30Z",
+    "stars": 280,
+    "name": "DMdesarrollo/qBittorrent",
+    "url": "https://github.com/DMdesarrollo/qBittorrent",
+    "lang": "",
+    "desc": "Download qBittorrent - Free and Open-Source BitTorrent Client with Advanced Features in 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:28:38Z",
+    "stars": 280,
+    "name": "David-208/MicrosoftOffice",
+    "url": "https://github.com/David-208/MicrosoftOffice",
+    "lang": "",
+    "desc": "Download Microsoft Office 365 Productivity Suite: Word, Excel, PowerPoint, Outlook, Teams & More - Essential Tools for 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:31:04Z",
+    "stars": 280,
+    "name": "Sli956-pop/YT-Saver",
+    "url": "https://github.com/Sli956-pop/YT-Saver",
+    "lang": "",
+    "desc": "Download YouTube Video & Audio Downloader - Fast, Secure & Free YT Saver Tool for 2025"
+  },
+  {
+    "createdAt": "2025-07-14T18:29:59Z",
+    "stars": 280,
+    "name": "definal/Teorex-Inpaint",
+    "url": "https://github.com/definal/Teorex-Inpaint",
+    "lang": "",
+    "desc": "Download Teorex Inpaint - AI-Powered Photo Restoration, Object Removal & Background Repair Tool | 2025"
   },
   {
     "createdAt": "2025-07-14T18:27:05Z",
-    "stars": 441,
+    "stars": 280,
     "name": "chezx55/MapleStory-Universe",
     "url": "https://github.com/chezx55/MapleStory-Universe",
     "lang": "",
@@ -193,95 +265,87 @@
   },
   {
     "createdAt": "2025-07-14T18:25:50Z",
-    "stars": 441,
+    "stars": 280,
     "name": "Bubxzyi/3D-Youtube-Downloader",
     "url": "https://github.com/Bubxzyi/3D-Youtube-Downloader",
     "lang": "",
     "desc": "Download 3D YouTube Downloader – Download High-Quality 3D Videos, 360° VR, and 8K Content from YouTube in 2025"
   },
   {
+    "createdAt": "2025-07-14T18:21:55Z",
+    "stars": 280,
+    "name": "Awokunle41/Surfer",
+    "url": "https://github.com/Awokunle41/Surfer",
+    "lang": "",
+    "desc": "Download Surfer SEO Optimization Tool 2025 - AI-Powered Content Editor, Keyword Research, and SERP Analysis for Top Rankings"
+  },
+  {
     "createdAt": "2025-07-14T18:25:45Z",
-    "stars": 441,
+    "stars": 280,
     "name": "AhmedSaad35/Survarium",
     "url": "https://github.com/AhmedSaad35/Survarium",
     "lang": "",
     "desc": "Download Survarium Trainer Hack 2025 - Unlimited Ammo, God Mode, ESP & More Cheats"
   },
   {
-    "createdAt": "2025-07-14T18:21:26Z",
-    "stars": 441,
-    "name": "ATHIRAN-801/Telegram",
-    "url": "https://github.com/ATHIRAN-801/Telegram",
-    "lang": "",
-    "desc": "Download Telegram Bot Development: Secure Messaging, API Integration, Bots, Stickers & Channels - Ultimate Guide 2025"
-  },
-  {
-    "createdAt": "2025-07-14T18:20:58Z",
-    "stars": 441,
-    "name": "asdasdasdasdasdadas33/MaxthonCloudBrowser",
-    "url": "https://github.com/asdasdasdasdasdadas33/MaxthonCloudBrowser",
-    "lang": "",
-    "desc": "Download Maxthon Cloud Browser - Fast, Secure, and Feature-Rich Web Browsing with Cloud Sync and AI Tools in 2025"
-  },
-  {
-    "createdAt": "2025-07-14T18:22:31Z",
-    "stars": 441,
-    "name": "ayushanb/BitwigStudio",
-    "url": "https://github.com/ayushanb/BitwigStudio",
-    "lang": "",
-    "desc": "Download Bitwig Studio 2025 - Advanced Music Production DAW with Modular Synths, Clip Launcher, and Hybrid Workflow"
-  },
-  {
     "createdAt": "2025-07-14T18:22:39Z",
-    "stars": 441,
+    "stars": 280,
     "name": "Pro8552/BitDegree-Play---Earn-Crypto",
     "url": "https://github.com/Pro8552/BitDegree-Play---Earn-Crypto",
     "lang": "",
     "desc": "Download BitDegree Play & Earn Crypto Trainer 2025 – Learn Blockchain, Hack Challenges & Earn Rewards"
   },
   {
-    "createdAt": "2025-07-14T18:26:24Z",
-    "stars": 441,
-    "name": "caristizabalkestrel/Numara-Calculator",
-    "url": "https://github.com/caristizabalkestrel/Numara-Calculator",
+    "createdAt": "2025-07-14T18:29:41Z",
+    "stars": 280,
+    "name": "deandddd/USB-Hidden-Recovery",
+    "url": "https://github.com/deandddd/USB-Hidden-Recovery",
     "lang": "",
-    "desc": "Download Numara Calculator - Advanced Number Calculation Tool with Arithmetic, Algebra, and Statistics Functions for 2025"
+    "desc": "Download USB Hidden Recovery Tool - Secure Data Extraction, Stealth Mode & Emergency Backup for Windows/Linux 2025"
   },
   {
     "createdAt": "2025-07-14T18:24:48Z",
-    "stars": 441,
+    "stars": 280,
     "name": "Nana-Kwame025/Wise-Care-365-Pro",
     "url": "https://github.com/Nana-Kwame025/Wise-Care-365-Pro",
     "lang": "",
     "desc": "Download Wise Care 365 Pro - Advanced PC Optimization, Cleaning, and Privacy Protection Software 2025"
   },
   {
-    "createdAt": "2025-07-14T18:30:27Z",
-    "stars": 441,
-    "name": "andrewflik/XMedia-Recode",
-    "url": "https://github.com/andrewflik/XMedia-Recode",
-    "lang": "",
-    "desc": "Download XMedia Recode - Powerful Video and Audio Converter with Advanced Editing Tools | 2025 Update"
-  },
-  {
-    "createdAt": "2025-07-14T18:21:20Z",
-    "stars": 441,
-    "name": "ataha2001/Monsterra",
-    "url": "https://github.com/ataha2001/Monsterra",
-    "lang": "",
-    "desc": "Download Monsterra Trainer Hack 2025 - Unlimited Resources, Auto-Battle & Advanced Cheats for Dominating the Game"
-  },
-  {
     "createdAt": "2025-07-14T18:26:07Z",
-    "stars": 441,
+    "stars": 280,
     "name": "byandrexito/MAC-Address-Scanner",
     "url": "https://github.com/byandrexito/MAC-Address-Scanner",
     "lang": "",
     "desc": "Download MAC Address Scanner Tool - Scan, Identify, and Manage Network Devices with Advanced MAC Detection in 2025"
   },
   {
+    "createdAt": "2025-07-14T18:21:20Z",
+    "stars": 280,
+    "name": "ataha2001/Monsterra",
+    "url": "https://github.com/ataha2001/Monsterra",
+    "lang": "",
+    "desc": "Download Monsterra Trainer Hack 2025 - Unlimited Resources, Auto-Battle & Advanced Cheats for Dominating the Game"
+  },
+  {
+    "createdAt": "2025-07-14T18:24:04Z",
+    "stars": 280,
+    "name": "BhalalaAbhishek/Glary-Utilities-Pro",
+    "url": "https://github.com/BhalalaAbhishek/Glary-Utilities-Pro",
+    "lang": "",
+    "desc": "Download Glary Utilities Pro 2025 - Advanced PC Optimization, Cleaner, and Speed Booster for Windows"
+  },
+  {
+    "createdAt": "2025-07-14T18:28:58Z",
+    "stars": 280,
+    "name": "dbhopatkar/Duplicate-File-Finder-Professional",
+    "url": "https://github.com/dbhopatkar/Duplicate-File-Finder-Professional",
+    "lang": "",
+    "desc": "Download Duplicate File Finder Professional 2025 - Fast, Secure & Advanced Tool to Find & Remove Duplicate Files Efficiently"
+  },
+  {
     "createdAt": "2025-07-14T18:24:44Z",
-    "stars": 441,
+    "stars": 280,
     "name": "kawidu12/Grapher",
     "url": "https://github.com/kawidu12/Grapher",
     "lang": "",
@@ -289,7 +353,7 @@
   },
   {
     "createdAt": "2025-07-14T18:20:31Z",
-    "stars": 441,
+    "stars": 280,
     "name": "ArielNina7/Active-UNDELETE-Ultimate",
     "url": "https://github.com/ArielNina7/Active-UNDELETE-Ultimate",
     "lang": "",
@@ -297,106 +361,42 @@
   },
   {
     "createdAt": "2025-07-14T18:24:24Z",
-    "stars": 441,
+    "stars": 280,
     "name": "biruhato2/CapCut",
     "url": "https://github.com/biruhato2/CapCut",
     "lang": "",
     "desc": "Download CapCut Video Editor - Advanced Editing Tools, AI Effects, Templates & 4K Export for 2025"
   },
   {
+    "createdAt": "2025-07-14T18:29:34Z",
+    "stars": 280,
+    "name": "deandddd/Agisoft-PhotoScan-Professional",
+    "url": "https://github.com/deandddd/Agisoft-PhotoScan-Professional",
+    "lang": "",
+    "desc": "Download Agisoft PhotoScan Professional - Advanced Photogrammetry Software for 3D Modeling, Orthophoto Generation, and Point Cloud Processing in 2025"
+  },
+  {
     "createdAt": "2025-07-14T18:27:11Z",
-    "stars": 441,
+    "stars": 280,
     "name": "Cicimelati/Winaero-WEI-Tool",
     "url": "https://github.com/Cicimelati/Winaero-WEI-Tool",
     "lang": "",
     "desc": "Download Winaero WEI Tool - Windows Experience Index Assessment Tool for Windows 10 & 11 in 2025"
   },
   {
-    "createdAt": "2025-07-14T18:27:38Z",
-    "stars": 441,
-    "name": "Cosco31/DuckDuckGoBrowser",
-    "url": "https://github.com/Cosco31/DuckDuckGoBrowser",
+    "createdAt": "2025-07-14T18:29:34Z",
+    "stars": 280,
+    "name": "deandddd/VectorMagicDesktopEdition",
+    "url": "https://github.com/deandddd/VectorMagicDesktopEdition",
     "lang": "",
-    "desc": "Download DuckDuckGo Privacy Browser: Fast, Secure & Ad-Free Private Browsing with Tracker Blocking, Encryption & More in 2025"
+    "desc": "Download VectorMagic Desktop Edition 2025 – Advanced AI-Powered Vectorization, Image Tracing, and SVG Conversion Tool for Professional Designers"
   },
   {
-    "createdAt": "2025-07-14T18:27:00Z",
-    "stars": 441,
-    "name": "chetan436/Microsoft-PowerPoint",
-    "url": "https://github.com/chetan436/Microsoft-PowerPoint",
+    "createdAt": "2025-07-14T18:29:32Z",
+    "stars": 280,
+    "name": "deandddd/InternetDownloadManager-IDM-",
+    "url": "https://github.com/deandddd/InternetDownloadManager-IDM-",
     "lang": "",
-    "desc": "Download Microsoft PowerPoint 2025 - Advanced Presentation Design, AI-Powered Tools, Real-Time Collaboration, and Animation Effects for Professional Slides"
-  },
-  {
-    "createdAt": "2025-07-14T18:27:37Z",
-    "stars": 441,
-    "name": "fatalpoop420/VoicemodPro",
-    "url": "https://github.com/fatalpoop420/VoicemodPro",
-    "lang": "",
-    "desc": "Download VoicemodPro - Real-Time Voice Changer, Soundboard & AI Voice Effects for Streamers & Gamers 2025"
-  },
-  {
-    "createdAt": "2025-07-14T18:22:47Z",
-    "stars": 441,
-    "name": "azurass/BraveBrowser",
-    "url": "https://github.com/azurass/BraveBrowser",
-    "lang": "",
-    "desc": "Download BraveBrowser - Fast, Secure, Privacy-Focused Web Browser with Ad-Blocking & Crypto Rewards in 2025"
-  },
-  {
-    "createdAt": "2025-07-14T18:25:25Z",
-    "stars": 441,
-    "name": "ABDERREZAK2441/PowerISO",
-    "url": "https://github.com/ABDERREZAK2441/PowerISO",
-    "lang": "",
-    "desc": "Download PowerISO 2025: CD/DVD/BD Image Editing, Burning, Converting, and Backup Software for Windows"
-  },
-  {
-    "createdAt": "2025-07-14T18:26:05Z",
-    "stars": 441,
-    "name": "Byron255/BootRacer-Premium",
-    "url": "https://github.com/Byron255/BootRacer-Premium",
-    "lang": "",
-    "desc": "Download BootRacer Premium - Fast Windows Boot Optimization Tool with SSD & HDD Tweaks for 2025"
-  },
-  {
-    "createdAt": "2025-07-14T18:22:13Z",
-    "stars": 441,
-    "name": "Ayman2716/PeaZip",
-    "url": "https://github.com/Ayman2716/PeaZip",
-    "lang": "",
-    "desc": "Download PeaZip - Free Open-Source File Archiver for ZIP, RAR, 7Z with AES Encryption and File Management Tools 2025"
-  },
-  {
-    "createdAt": "2025-07-14T18:30:02Z",
-    "stars": 440,
-    "name": "devas93/Morning-Moon-Village",
-    "url": "https://github.com/devas93/Morning-Moon-Village",
-    "lang": "",
-    "desc": "Download Morning Moon Village Trainer Hack – Unlimited Resources, Free Purchases & God Mode Cheat 2025"
-  },
-  {
-    "createdAt": "2025-07-14T18:28:36Z",
-    "stars": 440,
-    "name": "Davi8968/AbletonLive",
-    "url": "https://github.com/Davi8968/AbletonLive",
-    "lang": "",
-    "desc": "Download Ultimate Guide to Ableton Live 2025: DAW Features, Music Production Tools, MIDI Editing, Audio Effects, and Live Performance"
-  },
-  {
-    "createdAt": "2025-07-14T18:30:27Z",
-    "stars": 440,
-    "name": "786DC/KasperskyTotalSecurity",
-    "url": "https://github.com/786DC/KasperskyTotalSecurity",
-    "lang": "",
-    "desc": "Download Kaspersky Total Security 2025 - Advanced Antivirus Protection, Privacy Tools, VPN, Password Manager & Parental Control for Ultimate Cybersecurity"
-  },
-  {
-    "createdAt": "2025-07-14T18:28:30Z",
-    "stars": 440,
-    "name": "DMdesarrollo/qBittorrent",
-    "url": "https://github.com/DMdesarrollo/qBittorrent",
-    "lang": "",
-    "desc": "Download qBittorrent - Free and Open-Source BitTorrent Client with Advanced Features in 2025"
+    "desc": "Download Internet Download Manager (IDM) 2025 - Accelerate Downloads, Schedule Tasks, Resume Broken Downloads, and Boost Speed with Advanced File Segmentation"
   }
 ]
