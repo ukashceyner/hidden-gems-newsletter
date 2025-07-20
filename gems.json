@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-07-16T06:14:09Z",
-    "stars": 1238,
+    "stars": 2173,
     "name": "Jackywine/Bella",
     "url": "https://github.com/Jackywine/Bella",
     "lang": "JavaScript",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-07-15T21:25:41Z",
-    "stars": 843,
+    "stars": 884,
     "name": "Doriandarko/make-it-heavy",
     "url": "https://github.com/Doriandarko/make-it-heavy",
     "lang": "Python",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-07-16T08:13:41Z",
-    "stars": 664,
+    "stars": 697,
     "name": "dingyufei615/ai-goofish-monitor",
     "url": "https://github.com/dingyufei615/ai-goofish-monitor",
     "lang": "Python",
@@ -25,7 +25,7 @@
   },
   {
     "createdAt": "2025-07-15T11:46:31Z",
-    "stars": 651,
+    "stars": 686,
     "name": "untitleduico/react",
     "url": "https://github.com/untitleduico/react",
     "lang": "TypeScript",
@@ -33,7 +33,7 @@
   },
   {
     "createdAt": "2025-07-14T10:11:32Z",
-    "stars": 441,
+    "stars": 459,
     "name": "Wei-Shaw/claude-relay-service",
     "url": "https://github.com/Wei-Shaw/claude-relay-service",
     "lang": "JavaScript",
@@ -41,47 +41,71 @@
   },
   {
     "createdAt": "2025-07-17T17:19:00Z",
-    "stars": 380,
+    "stars": 420,
     "name": "fogsightai/fogsight",
     "url": "https://github.com/fogsightai/fogsight",
     "lang": "JavaScript",
     "desc": "Fogsight is an AI agent and animation engine powered by Large Language Models."
   },
   {
-    "createdAt": "2025-07-14T01:44:12Z",
-    "stars": 374,
-    "name": "ShilohEye/bitchat-terminal",
-    "url": "https://github.com/ShilohEye/bitchat-terminal",
-    "lang": "Rust",
-    "desc": "bluetooth mesh chat, IRC vibes"
-  },
-  {
     "createdAt": "2025-07-15T16:53:39Z",
-    "stars": 371,
+    "stars": 384,
     "name": "chiphuyen/sniffly",
     "url": "https://github.com/chiphuyen/sniffly",
     "lang": "Python",
     "desc": "Claude Code dashboard with usage stats, error analysis, and sharable feature"
   },
   {
-    "createdAt": "2025-07-14T07:18:02Z",
-    "stars": 326,
-    "name": "oxc-project/tsgolint",
-    "url": "https://github.com/oxc-project/tsgolint",
-    "lang": "Go",
-    "desc": "Type aware linting for oxlint"
+    "createdAt": "2025-07-14T01:44:12Z",
+    "stars": 381,
+    "name": "ShilohEye/bitchat-terminal",
+    "url": "https://github.com/ShilohEye/bitchat-terminal",
+    "lang": "Rust",
+    "desc": "bluetooth mesh chat, IRC vibes"
   },
   {
     "createdAt": "2025-07-15T16:46:34Z",
-    "stars": 307,
+    "stars": 346,
     "name": "Quovanewordy0JP/Mev-Bot-Uniswap",
     "url": "https://github.com/Quovanewordy0JP/Mev-Bot-Uniswap",
     "lang": "Solidity",
     "desc": "🚀 Open-Source (Ethereum - MEV) Sandwich. Bot 🍔 A beginner-friendly tool for automatic Uniswap .arbitrage.! Achieved 8.43% daily gains on April 19, 2025. Dive into DeFi and try it now! ✨"
   },
   {
+    "createdAt": "2025-07-16T09:41:37Z",
+    "stars": 338,
+    "name": "yyfz/Pi3",
+    "url": "https://github.com/yyfz/Pi3",
+    "lang": "Python",
+    "desc": "Code of π^3: Scalable Permutation-Equivariant Visual Geometry Learning"
+  },
+  {
+    "createdAt": "2025-07-14T07:18:02Z",
+    "stars": 334,
+    "name": "oxc-project/tsgolint",
+    "url": "https://github.com/oxc-project/tsgolint",
+    "lang": "Go",
+    "desc": "Type aware linting for oxlint"
+  },
+  {
+    "createdAt": "2025-07-18T12:21:29Z",
+    "stars": 315,
+    "name": "aw31/openai-imo-2025-proofs",
+    "url": "https://github.com/aw31/openai-imo-2025-proofs",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-14T04:34:17Z",
+    "stars": 312,
+    "name": "wzzheng/StreamVGGT",
+    "url": "https://github.com/wzzheng/StreamVGGT",
+    "lang": "Python",
+    "desc": "Code for Streaming 4D Visual Geometry Transformer"
+  },
+  {
     "createdAt": "2025-07-14T10:39:05Z",
-    "stars": 293,
+    "stars": 311,
     "name": "ebogdum/callfs",
     "url": "https://github.com/ebogdum/callfs",
     "lang": "Go",
@@ -89,23 +113,15 @@
   },
   {
     "createdAt": "2025-07-15T17:02:22Z",
-    "stars": 292,
+    "stars": 300,
     "name": "mendableai/firegeo",
     "url": "https://github.com/mendableai/firegeo",
     "lang": "TypeScript",
     "desc": "🔥 GEO-powered SaaS starter built with Firecrawl for brand monitoring, auth, and billing"
   },
   {
-    "createdAt": "2025-07-14T04:34:17Z",
-    "stars": 291,
-    "name": "wzzheng/StreamVGGT",
-    "url": "https://github.com/wzzheng/StreamVGGT",
-    "lang": "Python",
-    "desc": "Code for Streaming 4D Visual Geometry Transformer"
-  },
-  {
     "createdAt": "2025-07-13T12:17:05Z",
-    "stars": 286,
+    "stars": 294,
     "name": "denuvosanctuary/steam-ticket-generator",
     "url": "https://github.com/denuvosanctuary/steam-ticket-generator",
     "lang": "Rust",
@@ -126,6 +142,14 @@
     "url": "https://github.com/mywinli/CryptoDragon",
     "lang": "",
     "desc": "Download CryptoDragon Trainer Hack 2025 – Unlimited Resources, Auto-Battle & Dragon Evolution Cheats"
+  },
+  {
+    "createdAt": "2025-07-14T18:25:06Z",
+    "stars": 281,
+    "name": "BonBonn-glitch/Voicemod-Pro",
+    "url": "https://github.com/BonBonn-glitch/Voicemod-Pro",
+    "lang": "",
+    "desc": "Download Voicemod Pro - Real-Time Voice Changer & Soundboard with AI Effects for Streaming, Gaming, and Content Creation in 2025"
   },
   {
     "createdAt": "2025-07-14T18:20:12Z",
@@ -192,12 +216,12 @@
     "desc": "Download Telamon Cleaner - Advanced Cleaning Solution for Dust-Free Environments & Surface Sanitization 2025"
   },
   {
-    "createdAt": "2025-07-14T18:25:06Z",
+    "createdAt": "2025-07-14T18:30:02Z",
     "stars": 280,
-    "name": "BonBonn-glitch/Voicemod-Pro",
-    "url": "https://github.com/BonBonn-glitch/Voicemod-Pro",
+    "name": "devas93/Morning-Moon-Village",
+    "url": "https://github.com/devas93/Morning-Moon-Village",
     "lang": "",
-    "desc": "Download Voicemod Pro - Real-Time Voice Changer & Soundboard with AI Effects for Streaming, Gaming, and Content Creation in 2025"
+    "desc": "Download Morning Moon Village Trainer Hack – Unlimited Resources, Free Purchases & God Mode Cheat 2025"
   },
   {
     "createdAt": "2025-07-14T18:22:07Z",
@@ -206,14 +230,6 @@
     "url": "https://github.com/Aesa1019/PowerArchiver",
     "lang": "",
     "desc": "Download PowerArchiver 2025 - Advanced File Compression, Encryption, and Backup Tool with ZIP, RAR, and Cloud Support"
-  },
-  {
-    "createdAt": "2025-07-14T18:30:02Z",
-    "stars": 280,
-    "name": "devas93/Morning-Moon-Village",
-    "url": "https://github.com/devas93/Morning-Moon-Village",
-    "lang": "",
-    "desc": "Download Morning Moon Village Trainer Hack – Unlimited Resources, Free Purchases & God Mode Cheat 2025"
   },
   {
     "createdAt": "2025-07-14T18:30:27Z",
@@ -382,21 +398,5 @@
     "url": "https://github.com/deandddd/Agisoft-PhotoScan-Professional",
     "lang": "",
     "desc": "Download Agisoft PhotoScan Professional - Advanced Photogrammetry Software for 3D Modeling, Orthophoto Generation, and Point Cloud Processing in 2025"
-  },
-  {
-    "createdAt": "2025-07-14T18:27:11Z",
-    "stars": 280,
-    "name": "Cicimelati/Winaero-WEI-Tool",
-    "url": "https://github.com/Cicimelati/Winaero-WEI-Tool",
-    "lang": "",
-    "desc": "Download Winaero WEI Tool - Windows Experience Index Assessment Tool for Windows 10 & 11 in 2025"
-  },
-  {
-    "createdAt": "2025-07-14T18:29:34Z",
-    "stars": 280,
-    "name": "deandddd/VectorMagicDesktopEdition",
-    "url": "https://github.com/deandddd/VectorMagicDesktopEdition",
-    "lang": "",
-    "desc": "Download VectorMagic Desktop Edition 2025 – Advanced AI-Powered Vectorization, Image Tracing, and SVG Conversion Tool for Professional Designers"
   }
 ]
