@@ -1,39 +1,63 @@
 [
   {
     "createdAt": "2025-07-16T06:14:09Z",
-    "stars": 2173,
+    "stars": 3076,
     "name": "Jackywine/Bella",
     "url": "https://github.com/Jackywine/Bella",
     "lang": "JavaScript",
+    "desc": "Bella is best"
+  },
+  {
+    "createdAt": "2025-07-21T05:55:02Z",
+    "stars": 1201,
+    "name": "KrishKrosh/TrackWeight",
+    "url": "https://github.com/KrishKrosh/TrackWeight",
+    "lang": "Swift",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-15T21:25:41Z",
-    "stars": 884,
-    "name": "Doriandarko/make-it-heavy",
-    "url": "https://github.com/Doriandarko/make-it-heavy",
-    "lang": "Python",
-    "desc": "A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query."
-  },
-  {
     "createdAt": "2025-07-16T08:13:41Z",
-    "stars": 697,
+    "stars": 1167,
     "name": "dingyufei615/ai-goofish-monitor",
     "url": "https://github.com/dingyufei615/ai-goofish-monitor",
     "lang": "Python",
     "desc": "一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。"
   },
   {
+    "createdAt": "2025-07-15T21:25:41Z",
+    "stars": 900,
+    "name": "Doriandarko/make-it-heavy",
+    "url": "https://github.com/Doriandarko/make-it-heavy",
+    "lang": "Python",
+    "desc": "A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query."
+  },
+  {
     "createdAt": "2025-07-15T11:46:31Z",
-    "stars": 686,
+    "stars": 714,
     "name": "untitleduico/react",
     "url": "https://github.com/untitleduico/react",
     "lang": "TypeScript",
     "desc": "Untitled UI React is the world’s largest collection of open-source React components built with Tailwind CSS and React Aria. Just copy, paste, and build."
   },
   {
+    "createdAt": "2025-07-15T17:28:54Z",
+    "stars": 654,
+    "name": "bugthesystem/Flux",
+    "url": "https://github.com/bugthesystem/Flux",
+    "lang": "Rust",
+    "desc": "[Experimental] Flux is a high-performance message transport library for Rust that implements patterns inspired by LMAX Disruptor and Aeron. It provides lock-free inter-process communication (IPC), UDP transport, and reliable UDP with optimized memory management for applications with low latency requirements."
+  },
+  {
+    "createdAt": "2025-07-16T09:41:37Z",
+    "stars": 569,
+    "name": "yyfz/Pi3",
+    "url": "https://github.com/yyfz/Pi3",
+    "lang": "Python",
+    "desc": "Code of π^3: Scalable Permutation-Equivariant Visual Geometry Learning"
+  },
+  {
     "createdAt": "2025-07-14T10:11:32Z",
-    "stars": 459,
+    "stars": 497,
     "name": "Wei-Shaw/claude-relay-service",
     "url": "https://github.com/Wei-Shaw/claude-relay-service",
     "lang": "JavaScript",
@@ -41,7 +65,7 @@
   },
   {
     "createdAt": "2025-07-17T17:19:00Z",
-    "stars": 420,
+    "stars": 480,
     "name": "fogsightai/fogsight",
     "url": "https://github.com/fogsightai/fogsight",
     "lang": "JavaScript",
@@ -49,7 +73,7 @@
   },
   {
     "createdAt": "2025-07-15T16:53:39Z",
-    "stars": 384,
+    "stars": 405,
     "name": "chiphuyen/sniffly",
     "url": "https://github.com/chiphuyen/sniffly",
     "lang": "Python",
@@ -57,47 +81,39 @@
   },
   {
     "createdAt": "2025-07-14T01:44:12Z",
-    "stars": 381,
+    "stars": 382,
     "name": "ShilohEye/bitchat-terminal",
     "url": "https://github.com/ShilohEye/bitchat-terminal",
     "lang": "Rust",
     "desc": "bluetooth mesh chat, IRC vibes"
   },
   {
-    "createdAt": "2025-07-15T16:46:34Z",
-    "stars": 346,
-    "name": "Quovanewordy0JP/Mev-Bot-Uniswap",
-    "url": "https://github.com/Quovanewordy0JP/Mev-Bot-Uniswap",
-    "lang": "Solidity",
-    "desc": "🚀 Open-Source (Ethereum - MEV) Sandwich. Bot 🍔 A beginner-friendly tool for automatic Uniswap .arbitrage.! Achieved 8.43% daily gains on April 19, 2025. Dive into DeFi and try it now! ✨"
-  },
-  {
-    "createdAt": "2025-07-16T09:41:37Z",
-    "stars": 338,
-    "name": "yyfz/Pi3",
-    "url": "https://github.com/yyfz/Pi3",
-    "lang": "Python",
-    "desc": "Code of π^3: Scalable Permutation-Equivariant Visual Geometry Learning"
-  },
-  {
-    "createdAt": "2025-07-14T07:18:02Z",
-    "stars": 334,
-    "name": "oxc-project/tsgolint",
-    "url": "https://github.com/oxc-project/tsgolint",
-    "lang": "Go",
-    "desc": "Type aware linting for oxlint"
-  },
-  {
     "createdAt": "2025-07-18T12:21:29Z",
-    "stars": 315,
+    "stars": 377,
     "name": "aw31/openai-imo-2025-proofs",
     "url": "https://github.com/aw31/openai-imo-2025-proofs",
     "lang": "",
     "desc": ""
   },
   {
+    "createdAt": "2025-07-14T07:18:02Z",
+    "stars": 347,
+    "name": "oxc-project/tsgolint",
+    "url": "https://github.com/oxc-project/tsgolint",
+    "lang": "Go",
+    "desc": "Type aware linting for oxlint"
+  },
+  {
+    "createdAt": "2025-07-15T16:46:34Z",
+    "stars": 347,
+    "name": "Quovanewordy0JP/Mev-Bot-Uniswap",
+    "url": "https://github.com/Quovanewordy0JP/Mev-Bot-Uniswap",
+    "lang": "Solidity",
+    "desc": "🚀 Open-Source (Ethereum - MEV) Sandwich. Bot 🍔 A beginner-friendly tool for automatic Uniswap .arbitrage.! Achieved 8.43% daily gains on April 19, 2025. Dive into DeFi and try it now! ✨"
+  },
+  {
     "createdAt": "2025-07-14T04:34:17Z",
-    "stars": 312,
+    "stars": 338,
     "name": "wzzheng/StreamVGGT",
     "url": "https://github.com/wzzheng/StreamVGGT",
     "lang": "Python",
@@ -105,7 +121,7 @@
   },
   {
     "createdAt": "2025-07-14T10:39:05Z",
-    "stars": 311,
+    "stars": 325,
     "name": "ebogdum/callfs",
     "url": "https://github.com/ebogdum/callfs",
     "lang": "Go",
@@ -113,19 +129,27 @@
   },
   {
     "createdAt": "2025-07-15T17:02:22Z",
-    "stars": 300,
+    "stars": 318,
     "name": "mendableai/firegeo",
     "url": "https://github.com/mendableai/firegeo",
     "lang": "TypeScript",
     "desc": "🔥 GEO-powered SaaS starter built with Firecrawl for brand monitoring, auth, and billing"
   },
   {
-    "createdAt": "2025-07-13T12:17:05Z",
-    "stars": 294,
-    "name": "denuvosanctuary/steam-ticket-generator",
-    "url": "https://github.com/denuvosanctuary/steam-ticket-generator",
-    "lang": "Rust",
-    "desc": ""
+    "createdAt": "2025-07-17T05:22:40Z",
+    "stars": 299,
+    "name": "Intelligent-Internet/CommonGround",
+    "url": "https://github.com/Intelligent-Internet/CommonGround",
+    "lang": "Python",
+    "desc": "An open-source application for building, observing, and collaborating with teams of AI agents."
+  },
+  {
+    "createdAt": "2025-07-14T07:57:39Z",
+    "stars": 289,
+    "name": "superagent-ai/grok-cli",
+    "url": "https://github.com/superagent-ai/grok-cli",
+    "lang": "TypeScript",
+    "desc": "An open-source AI agent that brings the power of Grok directly into your terminal."
   },
   {
     "createdAt": "2025-07-14T18:15:28Z",
@@ -374,29 +398,5 @@
     "url": "https://github.com/kawidu12/Grapher",
     "lang": "",
     "desc": "Download Grapher - Advanced Graph Visualization, Data Analysis, and Real-Time Plotting Tool for Developers 2025"
-  },
-  {
-    "createdAt": "2025-07-14T18:20:31Z",
-    "stars": 280,
-    "name": "ArielNina7/Active-UNDELETE-Ultimate",
-    "url": "https://github.com/ArielNina7/Active-UNDELETE-Ultimate",
-    "lang": "",
-    "desc": "Download Active UNDELETE Ultimate 2025 - Recover Deleted Files, Photos, Documents & Partitions with Advanced Data Restoration"
-  },
-  {
-    "createdAt": "2025-07-14T18:24:24Z",
-    "stars": 280,
-    "name": "biruhato2/CapCut",
-    "url": "https://github.com/biruhato2/CapCut",
-    "lang": "",
-    "desc": "Download CapCut Video Editor - Advanced Editing Tools, AI Effects, Templates & 4K Export for 2025"
-  },
-  {
-    "createdAt": "2025-07-14T18:29:34Z",
-    "stars": 280,
-    "name": "deandddd/Agisoft-PhotoScan-Professional",
-    "url": "https://github.com/deandddd/Agisoft-PhotoScan-Professional",
-    "lang": "",
-    "desc": "Download Agisoft PhotoScan Professional - Advanced Photogrammetry Software for 3D Modeling, Orthophoto Generation, and Point Cloud Processing in 2025"
   }
 ]
