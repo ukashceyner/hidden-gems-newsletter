@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-07-16T06:14:09Z",
-    "stars": 3076,
+    "stars": 3878,
     "name": "Jackywine/Bella",
     "url": "https://github.com/Jackywine/Bella",
     "lang": "JavaScript",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-07-21T05:55:02Z",
-    "stars": 1201,
+    "stars": 2470,
     "name": "KrishKrosh/TrackWeight",
     "url": "https://github.com/KrishKrosh/TrackWeight",
     "lang": "Swift",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-07-16T08:13:41Z",
-    "stars": 1167,
+    "stars": 1834,
     "name": "dingyufei615/ai-goofish-monitor",
     "url": "https://github.com/dingyufei615/ai-goofish-monitor",
     "lang": "Python",
@@ -25,7 +25,7 @@
   },
   {
     "createdAt": "2025-07-15T21:25:41Z",
-    "stars": 900,
+    "stars": 907,
     "name": "Doriandarko/make-it-heavy",
     "url": "https://github.com/Doriandarko/make-it-heavy",
     "lang": "Python",
@@ -33,103 +33,71 @@
   },
   {
     "createdAt": "2025-07-15T11:46:31Z",
-    "stars": 714,
+    "stars": 736,
     "name": "untitleduico/react",
     "url": "https://github.com/untitleduico/react",
     "lang": "TypeScript",
     "desc": "Untitled UI React is the world’s largest collection of open-source React components built with Tailwind CSS and React Aria. Just copy, paste, and build."
   },
   {
-    "createdAt": "2025-07-15T17:28:54Z",
-    "stars": 654,
-    "name": "bugthesystem/Flux",
-    "url": "https://github.com/bugthesystem/Flux",
-    "lang": "Rust",
-    "desc": "[Experimental] Flux is a high-performance message transport library for Rust that implements patterns inspired by LMAX Disruptor and Aeron. It provides lock-free inter-process communication (IPC), UDP transport, and reliable UDP with optimized memory management for applications with low latency requirements."
-  },
-  {
     "createdAt": "2025-07-16T09:41:37Z",
-    "stars": 569,
+    "stars": 706,
     "name": "yyfz/Pi3",
     "url": "https://github.com/yyfz/Pi3",
     "lang": "Python",
     "desc": "Code of π^3: Scalable Permutation-Equivariant Visual Geometry Learning"
   },
   {
-    "createdAt": "2025-07-14T10:11:32Z",
-    "stars": 497,
-    "name": "Wei-Shaw/claude-relay-service",
-    "url": "https://github.com/Wei-Shaw/claude-relay-service",
-    "lang": "JavaScript",
-    "desc": "可自建Claude code镜像服务，支持多账户切换、自定义API密钥、隐私安全、能有效规避封号，OAuth集成可快捷添加账号池。"
+    "createdAt": "2025-07-15T17:28:54Z",
+    "stars": 695,
+    "name": "bugthesystem/Flux",
+    "url": "https://github.com/bugthesystem/Flux",
+    "lang": "Rust",
+    "desc": "[Experimental] Flux is a high-performance message transport library for Rust that implements patterns inspired by LMAX Disruptor and Aeron. It provides lock-free inter-process communication (IPC), UDP transport, and reliable UDP with optimized memory management for applications with low latency requirements."
+  },
+  {
+    "createdAt": "2025-07-16T02:59:53Z",
+    "stars": 549,
+    "name": "jd-opensource/joyagent-jdgenie",
+    "url": "https://github.com/jd-opensource/joyagent-jdgenie",
+    "lang": "Java",
+    "desc": "开源的端到端产品级通用智能体"
+  },
+  {
+    "createdAt": "2025-07-21T17:36:52Z",
+    "stars": 515,
+    "name": "tidwall/pogocache",
+    "url": "https://github.com/tidwall/pogocache",
+    "lang": "C",
+    "desc": "Fast caching software with a focus on low latency and cpu efficiency."
   },
   {
     "createdAt": "2025-07-17T17:19:00Z",
-    "stars": 480,
+    "stars": 512,
     "name": "fogsightai/fogsight",
     "url": "https://github.com/fogsightai/fogsight",
     "lang": "JavaScript",
     "desc": "Fogsight is an AI agent and animation engine powered by Large Language Models."
   },
   {
-    "createdAt": "2025-07-15T16:53:39Z",
-    "stars": 405,
-    "name": "chiphuyen/sniffly",
-    "url": "https://github.com/chiphuyen/sniffly",
-    "lang": "Python",
-    "desc": "Claude Code dashboard with usage stats, error analysis, and sharable feature"
-  },
-  {
-    "createdAt": "2025-07-14T01:44:12Z",
-    "stars": 382,
-    "name": "ShilohEye/bitchat-terminal",
-    "url": "https://github.com/ShilohEye/bitchat-terminal",
-    "lang": "Rust",
-    "desc": "bluetooth mesh chat, IRC vibes"
-  },
-  {
     "createdAt": "2025-07-18T12:21:29Z",
-    "stars": 377,
+    "stars": 426,
     "name": "aw31/openai-imo-2025-proofs",
     "url": "https://github.com/aw31/openai-imo-2025-proofs",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-14T07:18:02Z",
-    "stars": 347,
-    "name": "oxc-project/tsgolint",
-    "url": "https://github.com/oxc-project/tsgolint",
-    "lang": "Go",
-    "desc": "Type aware linting for oxlint"
-  },
-  {
-    "createdAt": "2025-07-15T16:46:34Z",
-    "stars": 347,
-    "name": "Quovanewordy0JP/Mev-Bot-Uniswap",
-    "url": "https://github.com/Quovanewordy0JP/Mev-Bot-Uniswap",
-    "lang": "Solidity",
-    "desc": "🚀 Open-Source (Ethereum - MEV) Sandwich. Bot 🍔 A beginner-friendly tool for automatic Uniswap .arbitrage.! Achieved 8.43% daily gains on April 19, 2025. Dive into DeFi and try it now! ✨"
-  },
-  {
-    "createdAt": "2025-07-14T04:34:17Z",
-    "stars": 338,
-    "name": "wzzheng/StreamVGGT",
-    "url": "https://github.com/wzzheng/StreamVGGT",
+    "createdAt": "2025-07-15T16:53:39Z",
+    "stars": 413,
+    "name": "chiphuyen/sniffly",
+    "url": "https://github.com/chiphuyen/sniffly",
     "lang": "Python",
-    "desc": "Code for Streaming 4D Visual Geometry Transformer"
-  },
-  {
-    "createdAt": "2025-07-14T10:39:05Z",
-    "stars": 325,
-    "name": "ebogdum/callfs",
-    "url": "https://github.com/ebogdum/callfs",
-    "lang": "Go",
-    "desc": "CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer networks"
+    "desc": "Claude Code dashboard with usage stats, error analysis, and sharable feature"
   },
   {
     "createdAt": "2025-07-15T17:02:22Z",
-    "stars": 318,
+    "stars": 328,
     "name": "mendableai/firegeo",
     "url": "https://github.com/mendableai/firegeo",
     "lang": "TypeScript",
@@ -137,266 +105,298 @@
   },
   {
     "createdAt": "2025-07-17T05:22:40Z",
-    "stars": 299,
+    "stars": 318,
     "name": "Intelligent-Internet/CommonGround",
     "url": "https://github.com/Intelligent-Internet/CommonGround",
     "lang": "Python",
     "desc": "An open-source application for building, observing, and collaborating with teams of AI agents."
   },
   {
-    "createdAt": "2025-07-14T07:57:39Z",
-    "stars": 289,
-    "name": "superagent-ai/grok-cli",
-    "url": "https://github.com/superagent-ai/grok-cli",
+    "createdAt": "2025-07-17T19:05:32Z",
+    "stars": 286,
+    "name": "dvlab-research/VisionThink",
+    "url": "https://github.com/dvlab-research/VisionThink",
+    "lang": "Python",
+    "desc": "Efficient Reasoning Vision Language Models"
+  },
+  {
+    "createdAt": "2025-07-22T06:43:11Z",
+    "stars": 281,
+    "name": "lzrrtcyldruklnvo/apex-cheat",
+    "url": "https://github.com/lzrrtcyldruklnvo/apex-cheat",
+    "lang": "C++",
+    "desc": "Apex Cheat gives you the edge in Apex Legends with powerful tools like Aimbot , ESP , Wallhack , and more. Silent aim, adjustable FOV, bone selection, and full enemy tracking help you dominate every match. Stay undetected with advanced anti-detection features."
+  },
+  {
+    "createdAt": "2025-07-15T03:11:27Z",
+    "stars": 275,
+    "name": "fakerybakery/claude-code-kimi-groq",
+    "url": "https://github.com/fakerybakery/claude-code-kimi-groq",
+    "lang": "Python",
+    "desc": "A basic proxy to use Kimi K2 on Claude Code through Groq"
+  },
+  {
+    "createdAt": "2025-07-17T07:50:29Z",
+    "stars": 271,
+    "name": "huhusmang/Subscription-Management",
+    "url": "https://github.com/huhusmang/Subscription-Management",
     "lang": "TypeScript",
-    "desc": "An open-source AI agent that brings the power of Grok directly into your terminal."
+    "desc": ""
   },
   {
-    "createdAt": "2025-07-14T18:15:28Z",
-    "stars": 282,
-    "name": "AgustinBianchi88/UltraSearch",
-    "url": "https://github.com/AgustinBianchi88/UltraSearch",
-    "lang": "",
-    "desc": "Download UltraSearch - Fast File Search Tool with Advanced Indexing and Instant Results for Windows 2025"
+    "createdAt": "2025-07-17T06:32:25Z",
+    "stars": 267,
+    "name": "ascorbic/am-i-vibing",
+    "url": "https://github.com/ascorbic/am-i-vibing",
+    "lang": "TypeScript",
+    "desc": "Detect agentic coding environments and AI editors"
   },
   {
-    "createdAt": "2025-07-14T18:13:38Z",
-    "stars": 282,
-    "name": "mywinli/CryptoDragon",
-    "url": "https://github.com/mywinli/CryptoDragon",
+    "createdAt": "2025-07-21T11:49:58Z",
+    "stars": 258,
+    "name": "metapromptjc/People-Inside-Prompts",
+    "url": "https://github.com/metapromptjc/People-Inside-Prompts",
     "lang": "",
-    "desc": "Download CryptoDragon Trainer Hack 2025 – Unlimited Resources, Auto-Battle & Dragon Evolution Cheats"
+    "desc": ""
   },
   {
-    "createdAt": "2025-07-14T18:25:06Z",
-    "stars": 281,
-    "name": "BonBonn-glitch/Voicemod-Pro",
-    "url": "https://github.com/BonBonn-glitch/Voicemod-Pro",
-    "lang": "",
-    "desc": "Download Voicemod Pro - Real-Time Voice Changer & Soundboard with AI Effects for Streaming, Gaming, and Content Creation in 2025"
+    "createdAt": "2025-07-15T00:30:52Z",
+    "stars": 243,
+    "name": "seraui/seraui",
+    "url": "https://github.com/seraui/seraui",
+    "lang": "TypeScript",
+    "desc": "A helpful UI library for design engineers. Use cool animations and components with just a copy and paste. Free and open source"
   },
   {
-    "createdAt": "2025-07-14T18:20:12Z",
-    "stars": 281,
-    "name": "AnyeshSaras/BONK--Arena",
-    "url": "https://github.com/AnyeshSaras/BONK--Arena",
-    "lang": "",
-    "desc": "Download BONK! Arena Trainer Hack 2025 - Unlimited Coins, Free Skins, God Mode & More Cheats"
+    "createdAt": "2025-07-20T07:05:56Z",
+    "stars": 231,
+    "name": "justlovemaki/Gemini-CLI-2-API",
+    "url": "https://github.com/justlovemaki/Gemini-CLI-2-API",
+    "lang": "JavaScript",
+    "desc": "GeminiCli2API：本地代理Gemini CLI，兼容OpenAI API，每日千次免费请求。通过API轻松接入任何客户端，让AI开发更高效！"
   },
   {
-    "createdAt": "2025-07-14T18:20:10Z",
-    "stars": 281,
-    "name": "Anyanboys/ESETSmartSecurityPremium",
-    "url": "https://github.com/Anyanboys/ESETSmartSecurityPremium",
-    "lang": "",
-    "desc": "Download ESET Smart Security Premium 2025 - Advanced Antivirus, Firewall, Ransomware Protection & Privacy Tools for Ultimate Cybersecurity"
+    "createdAt": "2025-07-18T02:40:42Z",
+    "stars": 218,
+    "name": "jd-opensource/OxyGent",
+    "url": "https://github.com/jd-opensource/OxyGent",
+    "lang": "Python",
+    "desc": "Multi-agent collaboration framework"
   },
   {
-    "createdAt": "2025-07-14T18:19:23Z",
-    "stars": 281,
-    "name": "Animesh11-code/Nomstead",
-    "url": "https://github.com/Animesh11-code/Nomstead",
-    "lang": "",
-    "desc": "Download Nomstead Trainer Hack - Unlimited Resources, God Mode & Speed Boost for 2025"
+    "createdAt": "2025-07-18T04:26:45Z",
+    "stars": 204,
+    "name": "ElusionCheats/warzone-cheats",
+    "url": "https://github.com/ElusionCheats/warzone-cheats",
+    "lang": "C++",
+    "desc": "Warzone Cheats is your undetected cheat for Call of Duty Warzone. Featuring customizable aimbot, full ESP wallhack, item ESP, Unlock All Tool, and HWID Spoofer. Secure and updated, it's the ultimate cheat to dominate lobbies, earn wins, and collect rewards faster than ever before."
   },
   {
-    "createdAt": "2025-07-14T18:19:05Z",
-    "stars": 281,
-    "name": "andrewe153/McAfeeTotalProtection",
-    "url": "https://github.com/andrewe153/McAfeeTotalProtection",
-    "lang": "",
-    "desc": "Download McAfee Total Protection 2025 – Advanced Antivirus, VPN, Identity Theft Protection & Real-Time Security for Ultimate Online Safety"
+    "createdAt": "2025-07-19T04:28:02Z",
+    "stars": 198,
+    "name": "realtime-ai/blastoff-llm",
+    "url": "https://github.com/realtime-ai/blastoff-llm",
+    "lang": "Python",
+    "desc": "a super fast llm response using small llm model to prefix large llm model"
   },
   {
-    "createdAt": "2025-07-14T18:17:07Z",
-    "stars": 281,
-    "name": "PissPie/Smadav-Antivirus-Pro",
-    "url": "https://github.com/PissPie/Smadav-Antivirus-Pro",
-    "lang": "",
-    "desc": "Download Smadav Antivirus Pro 2025 - USB Protection, Real-Time Scanner, Lightweight Antivirus & Second Layer Defense for Windows"
+    "createdAt": "2025-07-20T18:40:50Z",
+    "stars": 195,
+    "name": "99Fendrithh7hBY/Smart-Contract",
+    "url": "https://github.com/99Fendrithh7hBY/Smart-Contract",
+    "lang": "JavaScript",
+    "desc": "Ethereum Bot Trading Contract"
   },
   {
-    "createdAt": "2025-07-14T18:30:27Z",
-    "stars": 281,
-    "name": "andrewflik/XMedia-Recode",
-    "url": "https://github.com/andrewflik/XMedia-Recode",
-    "lang": "",
-    "desc": "Download XMedia Recode - Powerful Video and Audio Converter with Advanced Editing Tools | 2025 Update"
+    "createdAt": "2025-07-18T15:14:25Z",
+    "stars": 181,
+    "name": "Halthorkj1009oA/Mev-Sandwich-Bot",
+    "url": "https://github.com/Halthorkj1009oA/Mev-Sandwich-Bot",
+    "lang": "Solidity",
+    "desc": "✌️ The my source code for my Uniswap MEVbot. Complete instructions, usage guidelines, and access details are available in the README"
   },
   {
-    "createdAt": "2025-07-14T18:26:24Z",
-    "stars": 280,
-    "name": "calmehoney/Tenorshare-UltData",
-    "url": "https://github.com/calmehoney/Tenorshare-UltData",
-    "lang": "",
-    "desc": "Download Tenorshare UltData - Best Data Recovery Software to Recover Lost Photos, Videos, Contacts & Files in 2025"
+    "createdAt": "2025-07-16T15:14:02Z",
+    "stars": 176,
+    "name": "MrAminiDev/LenaTunnel",
+    "url": "https://github.com/MrAminiDev/LenaTunnel",
+    "lang": "Shell",
+    "desc": " Lena is a blazing-fast and lightweight tunnel powered by VxLAN — the smart choice for stable and secure connectivity."
   },
   {
-    "createdAt": "2025-07-14T18:25:46Z",
-    "stars": 280,
-    "name": "bruhenrique2453/Telamon-Cleaner",
-    "url": "https://github.com/bruhenrique2453/Telamon-Cleaner",
-    "lang": "",
-    "desc": "Download Telamon Cleaner - Advanced Cleaning Solution for Dust-Free Environments & Surface Sanitization 2025"
+    "createdAt": "2025-07-16T21:08:27Z",
+    "stars": 169,
+    "name": "vercel/v0-sdk",
+    "url": "https://github.com/vercel/v0-sdk",
+    "lang": "TypeScript",
+    "desc": "SDK for the v0 Platform API"
   },
   {
-    "createdAt": "2025-07-14T18:30:02Z",
-    "stars": 280,
-    "name": "devas93/Morning-Moon-Village",
-    "url": "https://github.com/devas93/Morning-Moon-Village",
-    "lang": "",
-    "desc": "Download Morning Moon Village Trainer Hack – Unlimited Resources, Free Purchases & God Mode Cheat 2025"
+    "createdAt": "2025-07-21T08:37:36Z",
+    "stars": 167,
+    "name": "24imepuza/r6-cheat",
+    "url": "https://github.com/24imepuza/r6-cheat",
+    "lang": "C++",
+    "desc": "R6 Cheat with Aimbot, ESP, Wallhack and No Recoil features for Rainbow Six Siege X. Get advanced aimbot, clean ESP, unlock all tool, and a robust HWID spoofer, it’s built for both legit players and ragers. Stay undetected, climb ranks, and win every match with ease. Compatible with all editions and platforms."
   },
   {
-    "createdAt": "2025-07-14T18:22:07Z",
-    "stars": 280,
-    "name": "Aesa1019/PowerArchiver",
-    "url": "https://github.com/Aesa1019/PowerArchiver",
-    "lang": "",
-    "desc": "Download PowerArchiver 2025 - Advanced File Compression, Encryption, and Backup Tool with ZIP, RAR, and Cloud Support"
+    "createdAt": "2025-07-18T16:32:32Z",
+    "stars": 164,
+    "name": "Pimzino/claude-code-spec-workflow",
+    "url": "https://github.com/Pimzino/claude-code-spec-workflow",
+    "lang": "TypeScript",
+    "desc": "Automated spec-driven workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation."
   },
   {
-    "createdAt": "2025-07-14T18:30:27Z",
-    "stars": 280,
-    "name": "786DC/KasperskyTotalSecurity",
-    "url": "https://github.com/786DC/KasperskyTotalSecurity",
-    "lang": "",
-    "desc": "Download Kaspersky Total Security 2025 - Advanced Antivirus Protection, Privacy Tools, VPN, Password Manager & Parental Control for Ultimate Cybersecurity"
+    "createdAt": "2025-07-17T02:29:35Z",
+    "stars": 164,
+    "name": "kyxiaxiang/GateSentinel",
+    "url": "https://github.com/kyxiaxiang/GateSentinel",
+    "lang": "JavaScript",
+    "desc": "GateSentinel 是一个现代化的 C2 (Command and Control) 框架，专为安全研究和渗透测试设计。该项目采用 Go 语言开发服务端，C 语言开发客户端，提供了强大的远程控制和管理功能。"
   },
   {
-    "createdAt": "2025-07-14T18:29:58Z",
-    "stars": 280,
-    "name": "definal/Forgotten-Runiverse",
-    "url": "https://github.com/definal/Forgotten-Runiverse",
-    "lang": "",
-    "desc": "Download Forgotten Runiverse Trainer Hack 2025 - Auto Farm, Unlimited Resources & More"
+    "createdAt": "2025-07-15T06:06:15Z",
+    "stars": 158,
+    "name": "kiliczsh/claude-cmd",
+    "url": "https://github.com/kiliczsh/claude-cmd",
+    "lang": "TypeScript",
+    "desc": "Claude Code Commands Manager"
   },
   {
-    "createdAt": "2025-07-14T18:28:30Z",
-    "stars": 280,
-    "name": "DMdesarrollo/qBittorrent",
-    "url": "https://github.com/DMdesarrollo/qBittorrent",
+    "createdAt": "2025-07-17T04:41:37Z",
+    "stars": 156,
+    "name": "gotalab/claude-code-spec",
+    "url": "https://github.com/gotalab/claude-code-spec",
     "lang": "",
-    "desc": "Download qBittorrent - Free and Open-Source BitTorrent Client with Advanced Features in 2025"
+    "desc": ""
   },
   {
-    "createdAt": "2025-07-14T18:28:38Z",
-    "stars": 280,
-    "name": "David-208/MicrosoftOffice",
-    "url": "https://github.com/David-208/MicrosoftOffice",
-    "lang": "",
-    "desc": "Download Microsoft Office 365 Productivity Suite: Word, Excel, PowerPoint, Outlook, Teams & More - Essential Tools for 2025"
+    "createdAt": "2025-07-16T21:28:59Z",
+    "stars": 155,
+    "name": "buildermethods/agent-os",
+    "url": "https://github.com/buildermethods/agent-os",
+    "lang": "Shell",
+    "desc": "Agent OS is a system for better planning and executing software development tasks with your AI agents."
   },
   {
-    "createdAt": "2025-07-14T18:31:04Z",
-    "stars": 280,
-    "name": "Sli956-pop/YT-Saver",
-    "url": "https://github.com/Sli956-pop/YT-Saver",
-    "lang": "",
-    "desc": "Download YouTube Video & Audio Downloader - Fast, Secure & Free YT Saver Tool for 2025"
+    "createdAt": "2025-07-16T16:07:51Z",
+    "stars": 146,
+    "name": "adrianhajdin/ai-resume-analyzer",
+    "url": "https://github.com/adrianhajdin/ai-resume-analyzer",
+    "lang": "JavaScript",
+    "desc": "AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. All wrapped in a clean, reusable UI."
   },
   {
-    "createdAt": "2025-07-14T18:29:59Z",
-    "stars": 280,
-    "name": "definal/Teorex-Inpaint",
-    "url": "https://github.com/definal/Teorex-Inpaint",
-    "lang": "",
-    "desc": "Download Teorex Inpaint - AI-Powered Photo Restoration, Object Removal & Background Repair Tool | 2025"
+    "createdAt": "2025-07-18T14:00:55Z",
+    "stars": 141,
+    "name": "hiteshchoudhary/python-udemy",
+    "url": "https://github.com/hiteshchoudhary/python-udemy",
+    "lang": "Python",
+    "desc": "python-udemy"
   },
   {
-    "createdAt": "2025-07-14T18:27:05Z",
-    "stars": 280,
-    "name": "chezx55/MapleStory-Universe",
-    "url": "https://github.com/chezx55/MapleStory-Universe",
-    "lang": "",
-    "desc": "Download MapleStory Universe Trainer Hack 2025 - Auto Farm, God Mode, Speed Hack & More"
+    "createdAt": "2025-07-18T01:45:07Z",
+    "stars": 129,
+    "name": "jadechoghari/roomi",
+    "url": "https://github.com/jadechoghari/roomi",
+    "lang": "Python",
+    "desc": "Open-source autonomous cleaning & housekeeping robot"
   },
   {
-    "createdAt": "2025-07-14T18:25:50Z",
-    "stars": 280,
-    "name": "Bubxzyi/3D-Youtube-Downloader",
-    "url": "https://github.com/Bubxzyi/3D-Youtube-Downloader",
-    "lang": "",
-    "desc": "Download 3D YouTube Downloader – Download High-Quality 3D Videos, 360° VR, and 8K Content from YouTube in 2025"
+    "createdAt": "2025-07-21T13:48:37Z",
+    "stars": 127,
+    "name": "soltanali0/CVE-2025-53770-Exploit",
+    "url": "https://github.com/soltanali0/CVE-2025-53770-Exploit",
+    "lang": "Python",
+    "desc": "SharePoint WebPart Injection Exploit Tool"
   },
   {
-    "createdAt": "2025-07-14T18:21:55Z",
-    "stars": 280,
-    "name": "Awokunle41/Surfer",
-    "url": "https://github.com/Awokunle41/Surfer",
+    "createdAt": "2025-07-17T11:53:21Z",
+    "stars": 126,
+    "name": "valeoai/Franca",
+    "url": "https://github.com/valeoai/Franca",
     "lang": "",
-    "desc": "Download Surfer SEO Optimization Tool 2025 - AI-Powered Content Editor, Keyword Research, and SERP Analysis for Top Rankings"
+    "desc": "Official code of Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning"
   },
   {
-    "createdAt": "2025-07-14T18:25:45Z",
-    "stars": 280,
-    "name": "AhmedSaad35/Survarium",
-    "url": "https://github.com/AhmedSaad35/Survarium",
-    "lang": "",
-    "desc": "Download Survarium Trainer Hack 2025 - Unlimited Ammo, God Mode, ESP & More Cheats"
+    "createdAt": "2025-07-15T20:56:56Z",
+    "stars": 122,
+    "name": "fal-ai-community/infinite-kanvas",
+    "url": "https://github.com/fal-ai-community/infinite-kanvas",
+    "lang": "TypeScript",
+    "desc": "An infinite canvas image editor using fal.ai"
   },
   {
-    "createdAt": "2025-07-14T18:22:39Z",
-    "stars": 280,
-    "name": "Pro8552/BitDegree-Play---Earn-Crypto",
-    "url": "https://github.com/Pro8552/BitDegree-Play---Earn-Crypto",
-    "lang": "",
-    "desc": "Download BitDegree Play & Earn Crypto Trainer 2025 – Learn Blockchain, Hack Challenges & Earn Rewards"
+    "createdAt": "2025-07-17T15:47:17Z",
+    "stars": 119,
+    "name": "alex-ilgayev/MCPSpy",
+    "url": "https://github.com/alex-ilgayev/MCPSpy",
+    "lang": "C",
+    "desc": "MCP Monitoring with eBPF"
   },
   {
-    "createdAt": "2025-07-14T18:29:41Z",
-    "stars": 280,
-    "name": "deandddd/USB-Hidden-Recovery",
-    "url": "https://github.com/deandddd/USB-Hidden-Recovery",
+    "createdAt": "2025-07-16T21:51:10Z",
+    "stars": 116,
+    "name": "TidorP/MLJobSearch2025",
+    "url": "https://github.com/TidorP/MLJobSearch2025",
     "lang": "",
-    "desc": "Download USB Hidden Recovery Tool - Secure Data Extraction, Stealth Mode & Emergency Backup for Windows/Linux 2025"
+    "desc": "ML Companies Tier List and Interview Questions"
   },
   {
-    "createdAt": "2025-07-14T18:24:48Z",
-    "stars": 280,
-    "name": "Nana-Kwame025/Wise-Care-365-Pro",
-    "url": "https://github.com/Nana-Kwame025/Wise-Care-365-Pro",
-    "lang": "",
-    "desc": "Download Wise Care 365 Pro - Advanced PC Optimization, Cleaning, and Privacy Protection Software 2025"
+    "createdAt": "2025-07-15T14:31:42Z",
+    "stars": 114,
+    "name": "cruzyjapan/Gemini-CLI-UI",
+    "url": "https://github.com/cruzyjapan/Gemini-CLI-UI",
+    "lang": "JavaScript",
+    "desc": "A responsive web-based UI that provides an intuitive interface for Google's Gemini CLI, enabling AI-assisted coding from any device. Features include interactive chat, integrated   terminal, file explorer with live editing, Git integration, and session management. "
   },
   {
-    "createdAt": "2025-07-14T18:26:07Z",
-    "stars": 280,
-    "name": "byandrexito/MAC-Address-Scanner",
-    "url": "https://github.com/byandrexito/MAC-Address-Scanner",
-    "lang": "",
-    "desc": "Download MAC Address Scanner Tool - Scan, Identify, and Manage Network Devices with Advanced MAC Detection in 2025"
+    "createdAt": "2025-07-19T17:27:04Z",
+    "stars": 113,
+    "name": "Caliel666/lsfg-vk-ui",
+    "url": "https://github.com/Caliel666/lsfg-vk-ui",
+    "lang": "Rust",
+    "desc": "non official gtk GUI for lsfg-vk by pancake"
   },
   {
-    "createdAt": "2025-07-14T18:21:20Z",
-    "stars": 280,
-    "name": "ataha2001/Monsterra",
-    "url": "https://github.com/ataha2001/Monsterra",
-    "lang": "",
-    "desc": "Download Monsterra Trainer Hack 2025 - Unlimited Resources, Auto-Battle & Advanced Cheats for Dominating the Game"
+    "createdAt": "2025-07-15T06:40:39Z",
+    "stars": 110,
+    "name": "kimsungwhee/apple-docs-mcp",
+    "url": "https://github.com/kimsungwhee/apple-docs-mcp",
+    "lang": "TypeScript",
+    "desc": "MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swift/Objective-C APIs & code examples in Claude, Cursor & AI assistants"
   },
   {
-    "createdAt": "2025-07-14T18:24:04Z",
-    "stars": 280,
-    "name": "BhalalaAbhishek/Glary-Utilities-Pro",
-    "url": "https://github.com/BhalalaAbhishek/Glary-Utilities-Pro",
-    "lang": "",
-    "desc": "Download Glary Utilities Pro 2025 - Advanced PC Optimization, Cleaner, and Speed Booster for Windows"
+    "createdAt": "2025-07-21T02:28:53Z",
+    "stars": 110,
+    "name": "yl4579/DMOSpeech2",
+    "url": "https://github.com/yl4579/DMOSpeech2",
+    "lang": "Python",
+    "desc": ""
   },
   {
-    "createdAt": "2025-07-14T18:28:58Z",
-    "stars": 280,
-    "name": "dbhopatkar/Duplicate-File-Finder-Professional",
-    "url": "https://github.com/dbhopatkar/Duplicate-File-Finder-Professional",
-    "lang": "",
-    "desc": "Download Duplicate File Finder Professional 2025 - Fast, Secure & Advanced Tool to Find & Remove Duplicate Files Efficiently"
+    "createdAt": "2025-07-17T08:07:13Z",
+    "stars": 106,
+    "name": "OleFredrik1/remoteKrbRelayx",
+    "url": "https://github.com/OleFredrik1/remoteKrbRelayx",
+    "lang": "Python",
+    "desc": "A tool for coercing and relaying Kerberos authentication over DCOM and RPC."
   },
   {
-    "createdAt": "2025-07-14T18:24:44Z",
-    "stars": 280,
-    "name": "kawidu12/Grapher",
-    "url": "https://github.com/kawidu12/Grapher",
-    "lang": "",
-    "desc": "Download Grapher - Advanced Graph Visualization, Data Analysis, and Real-Time Plotting Tool for Developers 2025"
+    "createdAt": "2025-07-17T16:26:20Z",
+    "stars": 104,
+    "name": "midday-ai/zuno",
+    "url": "https://github.com/midday-ai/zuno",
+    "lang": "TypeScript",
+    "desc": "A unified API that provides a thin layer over multiple ERP systems."
+  },
+  {
+    "createdAt": "2025-07-20T14:10:52Z",
+    "stars": 102,
+    "name": "DanielJamesTronca/SleepChartKit",
+    "url": "https://github.com/DanielJamesTronca/SleepChartKit",
+    "lang": "Swift",
+    "desc": "A production-ready, high-fidelity reproduction of Apple's detailed sleep analysis chart, built with pure SwiftUI."
   }
 ]
