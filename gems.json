@@ -1,15 +1,7 @@
 [
   {
-    "createdAt": "2025-07-16T06:14:09Z",
-    "stars": 4308,
-    "name": "Jackywine/Bella",
-    "url": "https://github.com/Jackywine/Bella",
-    "lang": "JavaScript",
-    "desc": "Bella is best"
-  },
-  {
     "createdAt": "2025-07-21T05:55:02Z",
-    "stars": 3341,
+    "stars": 4504,
     "name": "KrishKrosh/TrackWeight",
     "url": "https://github.com/KrishKrosh/TrackWeight",
     "lang": "Swift",
@@ -17,39 +9,15 @@
   },
   {
     "createdAt": "2025-07-20T05:25:27Z",
-    "stars": 2462,
+    "stars": 3579,
     "name": "boson-ai/higgs-audio",
     "url": "https://github.com/boson-ai/higgs-audio",
     "lang": "Python",
     "desc": "Text-audio foundation model from Boson AI"
   },
   {
-    "createdAt": "2025-07-16T08:13:41Z",
-    "stars": 2425,
-    "name": "dingyufei615/ai-goofish-monitor",
-    "url": "https://github.com/dingyufei615/ai-goofish-monitor",
-    "lang": "Python",
-    "desc": "一个基于 Playwright 和AI过滤分析的闲鱼多任务实时监控与智能分析工具，配备了功能完善的 Web 管理界面。"
-  },
-  {
-    "createdAt": "2025-07-16T02:59:53Z",
-    "stars": 869,
-    "name": "jd-opensource/joyagent-jdgenie",
-    "url": "https://github.com/jd-opensource/joyagent-jdgenie",
-    "lang": "Java",
-    "desc": "开源的端到端产品级通用智能体"
-  },
-  {
-    "createdAt": "2025-07-16T09:41:37Z",
-    "stars": 779,
-    "name": "yyfz/Pi3",
-    "url": "https://github.com/yyfz/Pi3",
-    "lang": "Python",
-    "desc": "Code of π^3: Scalable Permutation-Equivariant Visual Geometry Learning"
-  },
-  {
     "createdAt": "2025-07-21T17:36:52Z",
-    "stars": 712,
+    "stars": 882,
     "name": "tidwall/pogocache",
     "url": "https://github.com/tidwall/pogocache",
     "lang": "C",
@@ -57,7 +25,7 @@
   },
   {
     "createdAt": "2025-07-17T17:19:00Z",
-    "stars": 585,
+    "stars": 683,
     "name": "fogsightai/fogsight",
     "url": "https://github.com/fogsightai/fogsight",
     "lang": "JavaScript",
@@ -65,7 +33,7 @@
   },
   {
     "createdAt": "2025-07-18T12:21:29Z",
-    "stars": 435,
+    "stars": 440,
     "name": "aw31/openai-imo-2025-proofs",
     "url": "https://github.com/aw31/openai-imo-2025-proofs",
     "lang": "",
@@ -73,15 +41,31 @@
   },
   {
     "createdAt": "2025-07-18T02:40:42Z",
-    "stars": 367,
+    "stars": 415,
     "name": "jd-opensource/OxyGent",
     "url": "https://github.com/jd-opensource/OxyGent",
     "lang": "Python",
     "desc": "Multi-agent collaboration framework"
   },
   {
+    "createdAt": "2025-07-18T16:32:32Z",
+    "stars": 406,
+    "name": "Pimzino/claude-code-spec-workflow",
+    "url": "https://github.com/Pimzino/claude-code-spec-workflow",
+    "lang": "TypeScript",
+    "desc": "Automated spec-driven workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation."
+  },
+  {
+    "createdAt": "2025-07-18T15:14:25Z",
+    "stars": 349,
+    "name": "Halthorkj1009oA/Mev-Sandwich-Bot",
+    "url": "https://github.com/Halthorkj1009oA/Mev-Sandwich-Bot",
+    "lang": "Solidity",
+    "desc": "✌️ The my source code for my Uniswap MEVbot. Complete instructions, usage guidelines, and access details are available in the README"
+  },
+  {
     "createdAt": "2025-07-17T05:22:40Z",
-    "stars": 328,
+    "stars": 331,
     "name": "Intelligent-Internet/CommonGround",
     "url": "https://github.com/Intelligent-Internet/CommonGround",
     "lang": "Python",
@@ -89,7 +73,7 @@
   },
   {
     "createdAt": "2025-07-21T11:49:58Z",
-    "stars": 310,
+    "stars": 325,
     "name": "metapromptjc/People-Inside-Prompts",
     "url": "https://github.com/metapromptjc/People-Inside-Prompts",
     "lang": "",
@@ -97,15 +81,31 @@
   },
   {
     "createdAt": "2025-07-17T19:05:32Z",
-    "stars": 303,
+    "stars": 315,
     "name": "dvlab-research/VisionThink",
     "url": "https://github.com/dvlab-research/VisionThink",
     "lang": "Python",
     "desc": "Efficient Reasoning Vision Language Models"
   },
   {
+    "createdAt": "2025-07-21T06:16:38Z",
+    "stars": 310,
+    "name": "bukkbeek/GodotPixelRenderer",
+    "url": "https://github.com/bukkbeek/GodotPixelRenderer",
+    "lang": "GDScript",
+    "desc": "Complete 3D to Pixel Toolkit for Godot"
+  },
+  {
+    "createdAt": "2025-07-23T11:48:20Z",
+    "stars": 294,
+    "name": "IHATEGIVINGAUSERNAME/theProtector",
+    "url": "https://github.com/IHATEGIVINGAUSERNAME/theProtector",
+    "lang": "Shell",
+    "desc": "Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response"
+  },
+  {
     "createdAt": "2025-07-17T07:50:29Z",
-    "stars": 284,
+    "stars": 291,
     "name": "huhusmang/Subscription-Management",
     "url": "https://github.com/huhusmang/Subscription-Management",
     "lang": "TypeScript",
@@ -113,55 +113,47 @@
   },
   {
     "createdAt": "2025-07-17T06:32:25Z",
-    "stars": 280,
+    "stars": 289,
     "name": "ascorbic/am-i-vibing",
     "url": "https://github.com/ascorbic/am-i-vibing",
     "lang": "TypeScript",
     "desc": "Detect agentic coding environments and AI editors"
   },
   {
-    "createdAt": "2025-07-18T15:14:25Z",
-    "stars": 270,
-    "name": "Halthorkj1009oA/Mev-Sandwich-Bot",
-    "url": "https://github.com/Halthorkj1009oA/Mev-Sandwich-Bot",
-    "lang": "Solidity",
-    "desc": "✌️ The my source code for my Uniswap MEVbot. Complete instructions, usage guidelines, and access details are available in the README"
-  },
-  {
-    "createdAt": "2025-07-18T16:32:32Z",
-    "stars": 269,
-    "name": "Pimzino/claude-code-spec-workflow",
-    "url": "https://github.com/Pimzino/claude-code-spec-workflow",
-    "lang": "TypeScript",
-    "desc": "Automated spec-driven workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation."
-  },
-  {
-    "createdAt": "2025-07-16T21:28:59Z",
-    "stars": 259,
-    "name": "buildermethods/agent-os",
-    "url": "https://github.com/buildermethods/agent-os",
-    "lang": "Shell",
-    "desc": "Agent OS is a system for better planning and executing software development tasks with your AI agents."
-  },
-  {
     "createdAt": "2025-07-20T07:05:56Z",
-    "stars": 257,
+    "stars": 277,
     "name": "justlovemaki/Gemini-CLI-2-API",
     "url": "https://github.com/justlovemaki/Gemini-CLI-2-API",
     "lang": "JavaScript",
     "desc": "GeminiCli2API：本地代理Gemini CLI，兼容OpenAI API，每日千次免费请求。通过API轻松接入任何客户端，让AI开发更高效！"
   },
   {
-    "createdAt": "2025-07-21T06:16:38Z",
-    "stars": 211,
-    "name": "bukkbeek/GodotPixelRenderer",
-    "url": "https://github.com/bukkbeek/GodotPixelRenderer",
-    "lang": "GDScript",
-    "desc": "Complete 3D to Pixel Toolkit for Godot"
+    "createdAt": "2025-07-19T09:57:43Z",
+    "stars": 266,
+    "name": "vivoblueos/kernel",
+    "url": "https://github.com/vivoblueos/kernel",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-22T22:38:32Z",
+    "stars": 239,
+    "name": "scottvr/wtffmpeg",
+    "url": "https://github.com/scottvr/wtffmpeg",
+    "lang": "Python",
+    "desc": "a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line"
+  },
+  {
+    "createdAt": "2025-07-20T18:06:36Z",
+    "stars": 236,
+    "name": "Aveldorb7BP2/MEV-BOT.blog",
+    "url": "https://github.com/Aveldorb7BP2/MEV-BOT.blog",
+    "lang": "",
+    "desc": "Explore MEV (Miner Extractable Value) bot development with our comprehensive guide. From setup to deployment, learn how to create profitable MEV bots with AI-powered assistance. Features live tutorials, source code, and step-by-step instructions."
   },
   {
     "createdAt": "2025-07-17T04:41:37Z",
-    "stars": 206,
+    "stars": 226,
     "name": "gotalab/claude-code-spec",
     "url": "https://github.com/gotalab/claude-code-spec",
     "lang": "",
@@ -169,159 +161,159 @@
   },
   {
     "createdAt": "2025-07-19T04:28:02Z",
-    "stars": 205,
+    "stars": 214,
     "name": "realtime-ai/blastoff-llm",
     "url": "https://github.com/realtime-ai/blastoff-llm",
     "lang": "Python",
     "desc": "a super fast llm response using small llm model to prefix large llm model"
   },
   {
-    "createdAt": "2025-07-22T22:38:32Z",
-    "stars": 205,
-    "name": "scottvr/wtffmpeg",
-    "url": "https://github.com/scottvr/wtffmpeg",
-    "lang": "Python",
-    "desc": "a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line"
-  },
-  {
-    "createdAt": "2025-07-16T15:14:02Z",
-    "stars": 178,
-    "name": "MrAminiDev/LenaTunnel",
-    "url": "https://github.com/MrAminiDev/LenaTunnel",
-    "lang": "Shell",
-    "desc": " Lena is a blazing-fast and lightweight tunnel powered by VxLAN — the smart choice for stable and secure connectivity."
-  },
-  {
-    "createdAt": "2025-07-17T02:29:35Z",
-    "stars": 175,
-    "name": "kyxiaxiang/GateSentinel",
-    "url": "https://github.com/kyxiaxiang/GateSentinel",
-    "lang": "JavaScript",
-    "desc": "GateSentinel 是一个现代化的 C2 (Command and Control) 框架，专为安全研究和渗透测试设计。该项目采用 Go 语言开发服务端，C 语言开发客户端，提供了强大的远程控制和管理功能。"
-  },
-  {
-    "createdAt": "2025-07-16T21:08:27Z",
-    "stars": 172,
-    "name": "vercel/v0-sdk",
-    "url": "https://github.com/vercel/v0-sdk",
-    "lang": "TypeScript",
-    "desc": "SDK for the v0 Platform API"
-  },
-  {
     "createdAt": "2025-07-21T13:48:37Z",
-    "stars": 171,
+    "stars": 196,
     "name": "soltanali0/CVE-2025-53770-Exploit",
     "url": "https://github.com/soltanali0/CVE-2025-53770-Exploit",
     "lang": "Python",
     "desc": "SharePoint WebPart Injection Exploit Tool"
   },
   {
+    "createdAt": "2025-07-17T02:29:35Z",
+    "stars": 181,
+    "name": "kyxiaxiang/GateSentinel",
+    "url": "https://github.com/kyxiaxiang/GateSentinel",
+    "lang": "JavaScript",
+    "desc": "GateSentinel 是一个现代化的 C2 (Command and Control) 框架，专为安全研究和渗透测试设计。该项目采用 Go 语言开发服务端，C 语言开发客户端，提供了强大的远程控制和管理功能。"
+  },
+  {
     "createdAt": "2025-07-17T15:47:17Z",
-    "stars": 156,
+    "stars": 173,
     "name": "alex-ilgayev/MCPSpy",
     "url": "https://github.com/alex-ilgayev/MCPSpy",
     "lang": "C",
     "desc": "MCP Monitoring with eBPF"
   },
   {
-    "createdAt": "2025-07-20T18:06:36Z",
-    "stars": 156,
-    "name": "Aveldorb7BP2/MEV-BOT.blog",
-    "url": "https://github.com/Aveldorb7BP2/MEV-BOT.blog",
-    "lang": "",
-    "desc": "Explore MEV (Miner Extractable Value) bot development with our comprehensive guide. From setup to deployment, learn how to create profitable MEV bots with AI-powered assistance. Features live tutorials, source code, and step-by-step instructions."
-  },
-  {
-    "createdAt": "2025-07-16T16:07:51Z",
-    "stars": 155,
-    "name": "adrianhajdin/ai-resume-analyzer",
-    "url": "https://github.com/adrianhajdin/ai-resume-analyzer",
-    "lang": "JavaScript",
-    "desc": "AI-powered Resume Analyzer built with React & Puter.js. Includes seamless auth, upload and store resumes, and match candidates to jobs using smart AI evaluations. All wrapped in a clean, reusable UI."
-  },
-  {
-    "createdAt": "2025-07-17T11:53:21Z",
-    "stars": 152,
-    "name": "valeoai/Franca",
-    "url": "https://github.com/valeoai/Franca",
-    "lang": "",
-    "desc": "Official code of Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning"
-  },
-  {
-    "createdAt": "2025-07-18T14:00:55Z",
-    "stars": 148,
-    "name": "hiteshchoudhary/python-udemy",
-    "url": "https://github.com/hiteshchoudhary/python-udemy",
-    "lang": "Python",
-    "desc": "python-udemy"
-  },
-  {
     "createdAt": "2025-07-18T01:45:07Z",
-    "stars": 138,
+    "stars": 167,
     "name": "jadechoghari/roomi",
     "url": "https://github.com/jadechoghari/roomi",
     "lang": "Python",
     "desc": "Open-source autonomous cleaning & housekeeping robot"
   },
   {
+    "createdAt": "2025-07-17T11:53:21Z",
+    "stars": 163,
+    "name": "valeoai/Franca",
+    "url": "https://github.com/valeoai/Franca",
+    "lang": "Python",
+    "desc": "Official code of Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning"
+  },
+  {
+    "createdAt": "2025-07-18T14:00:55Z",
+    "stars": 156,
+    "name": "hiteshchoudhary/python-udemy",
+    "url": "https://github.com/hiteshchoudhary/python-udemy",
+    "lang": "Python",
+    "desc": "python-udemy"
+  },
+  {
     "createdAt": "2025-07-21T02:28:53Z",
-    "stars": 137,
+    "stars": 146,
     "name": "yl4579/DMOSpeech2",
     "url": "https://github.com/yl4579/DMOSpeech2",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-16T12:26:52Z",
-    "stars": 131,
-    "name": "G-1nOnly/Dens3R",
-    "url": "https://github.com/G-1nOnly/Dens3R",
-    "lang": "",
-    "desc": "Official Implementation of \"Dens3R: A Foundation Model for 3D Geometry Prediction\""
-  },
-  {
-    "createdAt": "2025-07-16T16:48:00Z",
-    "stars": 127,
-    "name": "googleanalytics/google-analytics-mcp",
-    "url": "https://github.com/googleanalytics/google-analytics-mcp",
+    "createdAt": "2025-07-20T05:22:22Z",
+    "stars": 135,
+    "name": "lyang36/IMO25",
+    "url": "https://github.com/lyang36/IMO25",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-19T17:27:04Z",
-    "stars": 126,
-    "name": "Caliel666/lsfg-vk-ui",
-    "url": "https://github.com/Caliel666/lsfg-vk-ui",
-    "lang": "Rust",
-    "desc": "non official gtk GUI for lsfg-vk by pancake"
+    "createdAt": "2025-07-21T08:37:36Z",
+    "stars": 133,
+    "name": "24imepuza/r6-cheat",
+    "url": "https://github.com/24imepuza/r6-cheat",
+    "lang": "C++",
+    "desc": "R6 Cheat with Aimbot, ESP, Wallhack and No Recoil features for Rainbow Six Siege X. Get advanced aimbot, clean ESP, unlock all tool, and a robust HWID spoofer, it’s built for both legit players and ragers. Stay undetected, climb ranks, and win every match with ease. Compatible with all editions and platforms."
   },
   {
-    "createdAt": "2025-07-16T21:51:10Z",
-    "stars": 120,
-    "name": "TidorP/MLJobSearch2025",
-    "url": "https://github.com/TidorP/MLJobSearch2025",
+    "createdAt": "2025-07-18T06:22:12Z",
+    "stars": 132,
+    "name": "feiskyer/claude-code-settings",
+    "url": "https://github.com/feiskyer/claude-code-settings",
     "lang": "",
-    "desc": "ML Companies Tier List and Interview Questions"
-  },
-  {
-    "createdAt": "2025-07-20T11:35:59Z",
-    "stars": 114,
-    "name": "patrick-kidger/tinyio",
-    "url": "https://github.com/patrick-kidger/tinyio",
-    "lang": "Python",
-    "desc": "Ever used asyncio and wished you hadn't? A tiny (~200 lines) event loop for Python."
+    "desc": "Claude Code settings and commands for vibe coding"
   },
   {
     "createdAt": "2025-07-20T14:10:52Z",
-    "stars": 111,
+    "stars": 129,
     "name": "DanielJamesTronca/SleepChartKit",
     "url": "https://github.com/DanielJamesTronca/SleepChartKit",
     "lang": "Swift",
     "desc": "A production-ready, high-fidelity reproduction of Apple's detailed sleep analysis chart, built with pure SwiftUI."
   },
   {
+    "createdAt": "2025-07-19T17:27:04Z",
+    "stars": 128,
+    "name": "Caliel666/lsfg-vk-ui",
+    "url": "https://github.com/Caliel666/lsfg-vk-ui",
+    "lang": "Rust",
+    "desc": "non official gtk GUI for lsfg-vk by pancake"
+  },
+  {
+    "createdAt": "2025-07-20T11:35:59Z",
+    "stars": 126,
+    "name": "patrick-kidger/tinyio",
+    "url": "https://github.com/patrick-kidger/tinyio",
+    "lang": "Python",
+    "desc": "Ever used asyncio and wished you hadn't? A tiny (~200 lines) event loop for Python."
+  },
+  {
+    "createdAt": "2025-07-17T07:28:45Z",
+    "stars": 120,
+    "name": "MRSHABAN45/SHABAN-MD",
+    "url": "https://github.com/MRSHABAN45/SHABAN-MD",
+    "lang": "JavaScript",
+    "desc": "✧〖Best Whatsapp Bot 𝕍5 𝔸𝕟𝕥𝕚𝕓𝕒𝕟 Heroku & WhatsApp Account 2025 𝐍𝐄𝐖 𝕎𝕙𝕒𝕥𝕤𝔸𝕡𝕡 𝔹𝕠𝕥〗✧"
+  },
+  {
+    "createdAt": "2025-07-17T07:27:11Z",
+    "stars": 116,
+    "name": "Fantasy-AMAP/fantasy-portrait",
+    "url": "https://github.com/Fantasy-AMAP/fantasy-portrait",
+    "lang": "",
+    "desc": "FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers"
+  },
+  {
+    "createdAt": "2025-07-17T03:00:32Z",
+    "stars": 113,
+    "name": "vaibhav-mattoo/bitchat-tui",
+    "url": "https://github.com/vaibhav-mattoo/bitchat-tui",
+    "lang": "Rust",
+    "desc": "🔒 Secure, anonymous, peer-to-peer (P2P) Bluetooth chat in your terminal. An off-grid, encrypted TUI messenger built with Rust."
+  },
+  {
+    "createdAt": "2025-07-23T20:23:52Z",
+    "stars": 112,
+    "name": "ElusnCheat/warzone-cheat-aimbot-esp",
+    "url": "https://github.com/ElusnCheat/warzone-cheat-aimbot-esp",
+    "lang": "C++",
+    "desc": "Unlock the best undetected Warzone Cheat with aimbot, ESP, wallhack, and unlock all tool. Dominate Call of Duty: Warzone using powerful Warzone cheats including Warzone aimbot, Warzone ESP, and Warzone wallhack. Safe, updated, and 100% positive reviews. Join now for access and elevate your gameplay."
+  },
+  {
+    "createdAt": "2025-07-19T15:28:19Z",
+    "stars": 112,
+    "name": "MorDavid/BruteForceAI",
+    "url": "https://github.com/MorDavid/BruteForceAI",
+    "lang": "Python",
+    "desc": "Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks"
+  },
+  {
     "createdAt": "2025-07-17T08:07:13Z",
-    "stars": 109,
+    "stars": 110,
     "name": "OleFredrik1/remoteKrbRelayx",
     "url": "https://github.com/OleFredrik1/remoteKrbRelayx",
     "lang": "Python",
@@ -329,74 +321,82 @@
   },
   {
     "createdAt": "2025-07-21T04:30:50Z",
-    "stars": 107,
+    "stars": 108,
     "name": "OctopusTakopi/binance_l3_est",
     "url": "https://github.com/OctopusTakopi/binance_l3_est",
     "lang": "Rust",
     "desc": "Uses L2 data's change in time to estimate a L3 order book microstructure on Binance"
   },
   {
-    "createdAt": "2025-07-17T07:27:11Z",
-    "stars": 107,
-    "name": "Fantasy-AMAP/fantasy-portrait",
-    "url": "https://github.com/Fantasy-AMAP/fantasy-portrait",
-    "lang": "",
-    "desc": "FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers"
-  },
-  {
-    "createdAt": "2025-07-17T16:26:20Z",
-    "stars": 105,
-    "name": "midday-ai/zuno",
-    "url": "https://github.com/midday-ai/zuno",
-    "lang": "TypeScript",
-    "desc": "A unified API that provides a thin layer over multiple ERP systems."
-  },
-  {
-    "createdAt": "2025-07-19T15:28:19Z",
-    "stars": 105,
-    "name": "MorDavid/BruteForceAI",
-    "url": "https://github.com/MorDavid/BruteForceAI",
+    "createdAt": "2025-07-17T06:21:26Z",
+    "stars": 108,
+    "name": "ZJU-REAL/GUI-G2",
+    "url": "https://github.com/ZJU-REAL/GUI-G2",
     "lang": "Python",
-    "desc": "Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks"
-  },
-  {
-    "createdAt": "2025-07-16T12:38:37Z",
-    "stars": 104,
-    "name": "bigattichouse/waitlock",
-    "url": "https://github.com/bigattichouse/waitlock",
-    "lang": "Shell",
-    "desc": "Linux commandline tool to provide mutex/semaphore process safety for long running bash/sh operations."
+    "desc": "A Gaussian dense reward framework for GUI grounding training "
   },
   {
     "createdAt": "2025-07-20T11:15:56Z",
-    "stars": 103,
+    "stars": 108,
     "name": "VersusControl/devops-ai-guidelines",
     "url": "https://github.com/VersusControl/devops-ai-guidelines",
     "lang": "",
     "desc": "🚀 First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines"
   },
   {
+    "createdAt": "2025-07-17T16:26:20Z",
+    "stars": 106,
+    "name": "midday-ai/zuno",
+    "url": "https://github.com/midday-ai/zuno",
+    "lang": "TypeScript",
+    "desc": "A unified API that provides a thin layer over multiple ERP systems."
+  },
+  {
     "createdAt": "2025-07-19T06:56:13Z",
-    "stars": 102,
+    "stars": 103,
     "name": "Johnsheng1/cf-ai-TGbot",
     "url": "https://github.com/Johnsheng1/cf-ai-TGbot",
     "lang": "JavaScript",
     "desc": "CF-ai-TGbot is a customizable Telegram bot powered by Node.js, integrating Cloudflare AI Gateway for smart, context-aware conversations. 🌐🤖"
   },
   {
-    "createdAt": "2025-07-17T03:00:32Z",
-    "stars": 102,
-    "name": "vaibhav-mattoo/bitchat-tui",
-    "url": "https://github.com/vaibhav-mattoo/bitchat-tui",
-    "lang": "Rust",
-    "desc": "🔒 Secure, anonymous, peer-to-peer (P2P) Bluetooth chat in your terminal. An off-grid, encrypted TUI messenger built with Rust."
+    "createdAt": "2025-07-21T05:00:40Z",
+    "stars": 101,
+    "name": "rtecCyberSec/RAITrigger",
+    "url": "https://github.com/rtecCyberSec/RAITrigger",
+    "lang": "C#",
+    "desc": "Local SYSTEM auth trigger for relaying"
   },
   {
-    "createdAt": "2025-07-16T17:47:23Z",
-    "stars": 99,
-    "name": "jasonkneen/kiro",
-    "url": "https://github.com/jasonkneen/kiro",
+    "createdAt": "2025-07-17T16:27:13Z",
+    "stars": 100,
+    "name": "AI-Biotechnology-Bioinformatics/Research_Internship_2025",
+    "url": "https://github.com/AI-Biotechnology-Bioinformatics/Research_Internship_2025",
     "lang": "",
-    "desc": "Complete System Prompts for Kiro IDE by Amazon"
+    "desc": "Research Internship 2025"
+  },
+  {
+    "createdAt": "2025-07-20T13:00:27Z",
+    "stars": 99,
+    "name": "praveen-sripati/nexus",
+    "url": "https://github.com/praveen-sripati/nexus",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-21T07:19:11Z",
+    "stars": 97,
+    "name": "evilAdan0s/RedTeamInterview",
+    "url": "https://github.com/evilAdan0s/RedTeamInterview",
+    "lang": "",
+    "desc": "自己收集和编制的红队面试题，不定期更新"
+  },
+  {
+    "createdAt": "2025-07-21T13:14:36Z",
+    "stars": 91,
+    "name": "qvr/nonraid",
+    "url": "https://github.com/qvr/nonraid",
+    "lang": "C",
+    "desc": "NonRAID - unRAID storage array kernel driver fork"
   }
 ]
