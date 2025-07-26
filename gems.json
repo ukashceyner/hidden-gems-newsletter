@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-07-21T05:55:02Z",
-    "stars": 5421,
+    "stars": 5623,
     "name": "KrishKrosh/TrackWeight",
     "url": "https://github.com/KrishKrosh/TrackWeight",
     "lang": "Swift",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-07-20T05:25:27Z",
-    "stars": 4496,
+    "stars": 5118,
     "name": "boson-ai/higgs-audio",
     "url": "https://github.com/boson-ai/higgs-audio",
     "lang": "Python",
@@ -17,39 +17,23 @@
   },
   {
     "createdAt": "2025-07-21T17:36:52Z",
-    "stars": 1029,
+    "stars": 1107,
     "name": "tidwall/pogocache",
     "url": "https://github.com/tidwall/pogocache",
     "lang": "C",
     "desc": "Fast caching software with a focus on low latency and cpu efficiency."
   },
   {
-    "createdAt": "2025-07-18T16:32:32Z",
-    "stars": 566,
-    "name": "Pimzino/claude-code-spec-workflow",
-    "url": "https://github.com/Pimzino/claude-code-spec-workflow",
-    "lang": "TypeScript",
-    "desc": "Automated spec-driven workflow for Claude Code. Transform feature ideas into complete implementations through Requirements → Design → Tasks → Implementation."
-  },
-  {
-    "createdAt": "2025-07-18T02:40:42Z",
-    "stars": 457,
-    "name": "jd-opensource/OxyGent",
-    "url": "https://github.com/jd-opensource/OxyGent",
-    "lang": "Python",
-    "desc": "Multi-agent collaboration framework"
-  },
-  {
-    "createdAt": "2025-07-18T12:21:29Z",
-    "stars": 443,
-    "name": "aw31/openai-imo-2025-proofs",
-    "url": "https://github.com/aw31/openai-imo-2025-proofs",
+    "createdAt": "2025-07-25T11:06:39Z",
+    "stars": 691,
+    "name": "iannuttall/claude-agents",
+    "url": "https://github.com/iannuttall/claude-agents",
     "lang": "",
-    "desc": ""
+    "desc": "Custom subagents to use with Claude Code."
   },
   {
     "createdAt": "2025-07-19T09:57:43Z",
-    "stars": 401,
+    "stars": 468,
     "name": "vivoblueos/kernel",
     "url": "https://github.com/vivoblueos/kernel",
     "lang": "Rust",
@@ -57,67 +41,83 @@
   },
   {
     "createdAt": "2025-07-23T11:48:20Z",
-    "stars": 349,
+    "stars": 375,
     "name": "IHATEGIVINGAUSERNAME/theProtector",
     "url": "https://github.com/IHATEGIVINGAUSERNAME/theProtector",
     "lang": "Shell",
     "desc": "Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response"
   },
   {
-    "createdAt": "2025-07-21T11:49:58Z",
-    "stars": 331,
-    "name": "metapromptjc/People-Inside-Prompts",
-    "url": "https://github.com/metapromptjc/People-Inside-Prompts",
-    "lang": "",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-07-21T06:16:38Z",
-    "stars": 329,
+    "stars": 348,
     "name": "bukkbeek/GodotPixelRenderer",
     "url": "https://github.com/bukkbeek/GodotPixelRenderer",
     "lang": "GDScript",
     "desc": "Complete 3D to Pixel Toolkit [Built using Godot Engine]"
   },
   {
-    "createdAt": "2025-07-25T11:06:39Z",
-    "stars": 297,
-    "name": "iannuttall/claude-agents",
-    "url": "https://github.com/iannuttall/claude-agents",
+    "createdAt": "2025-07-21T11:49:58Z",
+    "stars": 336,
+    "name": "metapromptjc/People-Inside-Prompts",
+    "url": "https://github.com/metapromptjc/People-Inside-Prompts",
     "lang": "",
-    "desc": "Custom subagents to use with Claude Code."
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-22T04:01:45Z",
+    "stars": 324,
+    "name": "neiltron/apple-health-mcp",
+    "url": "https://github.com/neiltron/apple-health-mcp",
+    "lang": "TypeScript",
+    "desc": "MCP server for querying Apple Health data with natural language and SQL"
   },
   {
     "createdAt": "2025-07-20T07:05:56Z",
-    "stars": 288,
+    "stars": 296,
     "name": "justlovemaki/Gemini-CLI-2-API",
     "url": "https://github.com/justlovemaki/Gemini-CLI-2-API",
     "lang": "JavaScript",
     "desc": "GeminiCli2API：本地代理Gemini CLI，兼容OpenAI API，每日千次免费请求。通过API轻松接入任何客户端，让AI开发更高效！"
   },
   {
-    "createdAt": "2025-07-18T15:14:25Z",
-    "stars": 283,
-    "name": "Halthorkj1009oA/Mev-Sandwich-Bot",
-    "url": "https://github.com/Halthorkj1009oA/Mev-Sandwich-Bot",
-    "lang": "Solidity",
-    "desc": "✌️ The my source code for my Uniswap MEVbot. Complete instructions, usage guidelines, and access details are available in the README"
+    "createdAt": "2025-07-20T21:16:29Z",
+    "stars": 294,
+    "name": "nuance-dev/Web",
+    "url": "https://github.com/nuance-dev/Web",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-20T05:22:22Z",
+    "stars": 272,
+    "name": "lyang36/IMO25",
+    "url": "https://github.com/lyang36/IMO25",
+    "lang": "Python",
+    "desc": ""
   },
   {
     "createdAt": "2025-07-22T22:38:32Z",
-    "stars": 260,
+    "stars": 268,
     "name": "scottvr/wtffmpeg",
     "url": "https://github.com/scottvr/wtffmpeg",
     "lang": "Python",
     "desc": "a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line"
   },
   {
-    "createdAt": "2025-07-20T05:22:22Z",
-    "stars": 222,
-    "name": "lyang36/IMO25",
-    "url": "https://github.com/lyang36/IMO25",
+    "createdAt": "2025-07-21T07:34:10Z",
+    "stars": 243,
+    "name": "Kodezi/Chronos",
+    "url": "https://github.com/Kodezi/Chronos",
     "lang": "Python",
-    "desc": ""
+    "desc": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS."
+  },
+  {
+    "createdAt": "2025-07-21T13:48:37Z",
+    "stars": 220,
+    "name": "soltanali0/CVE-2025-53770-Exploit",
+    "url": "https://github.com/soltanali0/CVE-2025-53770-Exploit",
+    "lang": "Python",
+    "desc": "SharePoint WebPart Injection Exploit Tool"
   },
   {
     "createdAt": "2025-07-19T04:28:02Z",
@@ -128,28 +128,20 @@
     "desc": "a super fast llm response using small llm model to prefix large llm model"
   },
   {
-    "createdAt": "2025-07-21T13:48:37Z",
-    "stars": 217,
-    "name": "soltanali0/CVE-2025-53770-Exploit",
-    "url": "https://github.com/soltanali0/CVE-2025-53770-Exploit",
+    "createdAt": "2025-07-23T13:54:57Z",
+    "stars": 211,
+    "name": "withneural/neuralagent",
+    "url": "https://github.com/withneural/neuralagent",
     "lang": "Python",
-    "desc": "SharePoint WebPart Injection Exploit Tool"
+    "desc": "The AI Agent That Lives On Your Desktop And Uses It Like You Do!"
   },
   {
-    "createdAt": "2025-07-22T04:01:45Z",
-    "stars": 215,
-    "name": "neiltron/apple-health-mcp",
-    "url": "https://github.com/neiltron/apple-health-mcp",
+    "createdAt": "2025-07-19T10:46:53Z",
+    "stars": 200,
+    "name": "851235550/how-to-buy-house",
+    "url": "https://github.com/851235550/how-to-buy-house",
     "lang": "TypeScript",
-    "desc": "MCP server for querying Apple Health data with natural language and SQL"
-  },
-  {
-    "createdAt": "2025-07-18T01:45:07Z",
-    "stars": 197,
-    "name": "jadechoghari/roomi",
-    "url": "https://github.com/jadechoghari/roomi",
-    "lang": "Python",
-    "desc": "Open-source autonomous cleaning & housekeeping robot"
+    "desc": "根据国家统计局资料整理房价走势"
   },
   {
     "createdAt": "2025-07-20T18:06:36Z",
@@ -160,36 +152,76 @@
     "desc": "Explore MEV (Miner Extractable Value) bot development with our comprehensive guide. From setup to deployment, learn how to create profitable MEV bots with AI-powered assistance. Features live tutorials, source code, and step-by-step instructions."
   },
   {
-    "createdAt": "2025-07-18T14:00:55Z",
-    "stars": 163,
-    "name": "hiteshchoudhary/python-udemy",
-    "url": "https://github.com/hiteshchoudhary/python-udemy",
+    "createdAt": "2025-07-23T22:22:31Z",
+    "stars": 177,
+    "name": "LegNeato/rust-gpu-chimera",
+    "url": "https://github.com/LegNeato/rust-gpu-chimera",
+    "lang": "Rust",
+    "desc": "Demo project showing a single Rust codebase running on CPU and directly on GPUs"
+  },
+  {
+    "createdAt": "2025-07-21T16:19:44Z",
+    "stars": 168,
+    "name": "jenissimo/unfake.js",
+    "url": "https://github.com/jenissimo/unfake.js",
+    "lang": "JavaScript",
+    "desc": "Fix AI Art. Pixel-perfect."
+  },
+  {
+    "createdAt": "2025-07-19T15:28:19Z",
+    "stars": 166,
+    "name": "MorDavid/BruteForceAI",
+    "url": "https://github.com/MorDavid/BruteForceAI",
     "lang": "Python",
-    "desc": "python-udemy"
+    "desc": "Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks"
   },
   {
     "createdAt": "2025-07-21T02:28:53Z",
-    "stars": 155,
+    "stars": 160,
     "name": "yl4579/DMOSpeech2",
     "url": "https://github.com/yl4579/DMOSpeech2",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-20T21:16:29Z",
-    "stars": 153,
-    "name": "nuance-dev/Web",
-    "url": "https://github.com/nuance-dev/Web",
+    "createdAt": "2025-07-20T14:10:52Z",
+    "stars": 138,
+    "name": "DanielJamesTronca/SleepChartKit",
+    "url": "https://github.com/DanielJamesTronca/SleepChartKit",
     "lang": "Swift",
-    "desc": ""
+    "desc": "A production-ready, high-fidelity reproduction of Apple's detailed sleep analysis chart, built with pure SwiftUI."
   },
   {
-    "createdAt": "2025-07-18T06:22:12Z",
-    "stars": 151,
-    "name": "feiskyer/claude-code-settings",
-    "url": "https://github.com/feiskyer/claude-code-settings",
+    "createdAt": "2025-07-23T03:54:43Z",
+    "stars": 138,
+    "name": "hvhghv/se-script",
+    "url": "https://github.com/hvhghv/se-script",
+    "lang": "Shell",
+    "desc": "分享一些个人编写（AI编写）或改良的脚本"
+  },
+  {
+    "createdAt": "2025-07-23T03:18:37Z",
+    "stars": 137,
+    "name": "nearmetips/DailiCode",
+    "url": "https://github.com/nearmetips/DailiCode",
+    "lang": "TypeScript",
+    "desc": "AI agent that is compatible with multiple LLM models"
+  },
+  {
+    "createdAt": "2025-07-20T11:35:59Z",
+    "stars": 136,
+    "name": "patrick-kidger/tinyio",
+    "url": "https://github.com/patrick-kidger/tinyio",
+    "lang": "Python",
+    "desc": "Ever used asyncio and wished you hadn't? A tiny (~200 lines) event loop for Python."
+  },
+  {
+    "createdAt": "2025-07-20T11:15:56Z",
+    "stars": 136,
+    "name": "VersusControl/devops-ai-guidelines",
+    "url": "https://github.com/VersusControl/devops-ai-guidelines",
     "lang": "",
-    "desc": "Claude Code settings and commands for vibe coding"
+    "desc": "🚀 First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines"
   },
   {
     "createdAt": "2025-07-21T08:37:36Z",
@@ -200,92 +232,36 @@
     "desc": "R6 Cheat with Aimbot, ESP, Wallhack and No Recoil features for Rainbow Six Siege X. Get advanced aimbot, clean ESP, unlock all tool, and a robust HWID spoofer, it’s built for both legit players and ragers. Stay undetected, climb ranks, and win every match with ease. Compatible with all editions and platforms."
   },
   {
-    "createdAt": "2025-07-20T14:10:52Z",
-    "stars": 134,
-    "name": "DanielJamesTronca/SleepChartKit",
-    "url": "https://github.com/DanielJamesTronca/SleepChartKit",
-    "lang": "Swift",
-    "desc": "A production-ready, high-fidelity reproduction of Apple's detailed sleep analysis chart, built with pure SwiftUI."
-  },
-  {
-    "createdAt": "2025-07-20T11:35:59Z",
-    "stars": 134,
-    "name": "patrick-kidger/tinyio",
-    "url": "https://github.com/patrick-kidger/tinyio",
-    "lang": "Python",
-    "desc": "Ever used asyncio and wished you hadn't? A tiny (~200 lines) event loop for Python."
-  },
-  {
-    "createdAt": "2025-07-19T10:46:53Z",
-    "stars": 133,
-    "name": "851235550/how-to-buy-house",
-    "url": "https://github.com/851235550/how-to-buy-house",
-    "lang": "TypeScript",
-    "desc": "根据国家统计局资料整理房价走势"
-  },
-  {
     "createdAt": "2025-07-19T17:27:04Z",
-    "stars": 132,
+    "stars": 135,
     "name": "Caliel666/lsfg-vk-ui",
     "url": "https://github.com/Caliel666/lsfg-vk-ui",
     "lang": "Rust",
     "desc": "non official gtk GUI for lsfg-vk by pancake"
   },
   {
-    "createdAt": "2025-07-21T16:19:44Z",
-    "stars": 132,
-    "name": "jenissimo/unfake.js",
-    "url": "https://github.com/jenissimo/unfake.js",
-    "lang": "JavaScript",
-    "desc": "Fix AI Art. Pixel-perfect."
-  },
-  {
-    "createdAt": "2025-07-23T13:54:57Z",
-    "stars": 127,
-    "name": "withneural/neuralagent",
-    "url": "https://github.com/withneural/neuralagent",
-    "lang": "Python",
-    "desc": "The AI Agent That Lives On Your Desktop And Uses It Like You Do!"
-  },
-  {
-    "createdAt": "2025-07-23T03:18:37Z",
-    "stars": 121,
-    "name": "nearmetips/DailiCode",
-    "url": "https://github.com/nearmetips/DailiCode",
-    "lang": "TypeScript",
-    "desc": "AI agent that is compatible with multiple LLM models"
-  },
-  {
-    "createdAt": "2025-07-23T03:54:43Z",
-    "stars": 119,
-    "name": "hvhghv/se-script",
-    "url": "https://github.com/hvhghv/se-script",
-    "lang": "Shell",
-    "desc": "分享一些个人编写（AI编写）或改良的脚本"
-  },
-  {
     "createdAt": "2025-07-20T13:00:27Z",
-    "stars": 118,
+    "stars": 129,
     "name": "praveen-sripati/nexus",
     "url": "https://github.com/praveen-sripati/nexus",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-19T15:28:19Z",
-    "stars": 116,
-    "name": "MorDavid/BruteForceAI",
-    "url": "https://github.com/MorDavid/BruteForceAI",
+    "createdAt": "2025-07-25T04:54:16Z",
+    "stars": 123,
+    "name": "GakkiNoOne/hajimi-king",
+    "url": "https://github.com/GakkiNoOne/hajimi-king",
     "lang": "Python",
-    "desc": "Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks"
+    "desc": "人人都是哈基米大王"
   },
   {
-    "createdAt": "2025-07-20T11:15:56Z",
-    "stars": 114,
-    "name": "VersusControl/devops-ai-guidelines",
-    "url": "https://github.com/VersusControl/devops-ai-guidelines",
+    "createdAt": "2025-07-25T03:11:20Z",
+    "stars": 119,
+    "name": "stepfun-ai/Step3",
+    "url": "https://github.com/stepfun-ai/Step3",
     "lang": "",
-    "desc": "🚀 First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines"
+    "desc": ""
   },
   {
     "createdAt": "2025-07-21T04:30:50Z",
@@ -305,35 +281,67 @@
   },
   {
     "createdAt": "2025-07-19T06:56:13Z",
-    "stars": 109,
+    "stars": 111,
     "name": "Johnsheng1/cf-ai-TGbot",
     "url": "https://github.com/Johnsheng1/cf-ai-TGbot",
     "lang": "JavaScript",
     "desc": "CF-ai-TGbot is a customizable Telegram bot powered by Node.js, integrating Cloudflare AI Gateway for smart, context-aware conversations. 🌐🤖"
   },
   {
+    "createdAt": "2025-07-24T15:05:22Z",
+    "stars": 109,
+    "name": "AstralSightStudios/AstroBox-Public",
+    "url": "https://github.com/AstralSightStudios/AstroBox-Public",
+    "lang": "Rust",
+    "desc": "Public source code for AstroBox"
+  },
+  {
     "createdAt": "2025-07-21T05:00:40Z",
-    "stars": 107,
+    "stars": 108,
     "name": "rtecCyberSec/RAITrigger",
     "url": "https://github.com/rtecCyberSec/RAITrigger",
     "lang": "C#",
     "desc": "Local SYSTEM auth trigger for relaying"
   },
   {
-    "createdAt": "2025-07-21T07:34:10Z",
-    "stars": 104,
-    "name": "Kodezi/Chronos",
-    "url": "https://github.com/Kodezi/Chronos",
-    "lang": "Python",
-    "desc": "Kodezi Chronos Debugging-first language model achieving 65.3% autonomous bug fixing (6-7x better than GPT-4). Research, benchmarks & evaluation framework. Model available Q1 2026 via Kodezi OS."
-  },
-  {
     "createdAt": "2025-07-21T07:19:11Z",
-    "stars": 101,
+    "stars": 102,
     "name": "evilAdan0s/RedTeamInterview",
     "url": "https://github.com/evilAdan0s/RedTeamInterview",
     "lang": "",
     "desc": "自己收集和编制的红队面试题，不定期更新"
+  },
+  {
+    "createdAt": "2025-07-25T08:02:28Z",
+    "stars": 99,
+    "name": "Dimillian/Claude",
+    "url": "https://github.com/Dimillian/Claude",
+    "lang": "",
+    "desc": "My Claude Code Setup"
+  },
+  {
+    "createdAt": "2025-07-24T11:46:13Z",
+    "stars": 96,
+    "name": "CanTakeMore/TikTok-Downloader-Scraper-Reporter-2025",
+    "url": "https://github.com/CanTakeMore/TikTok-Downloader-Scraper-Reporter-2025",
+    "lang": "Python",
+    "desc": "TikTok tool to download any content without watermarks. Scrape endless comments, profile pictures and more! "
+  },
+  {
+    "createdAt": "2025-07-22T22:45:51Z",
+    "stars": 96,
+    "name": "klezVirus/RAIWhateverTrigger",
+    "url": "https://github.com/klezVirus/RAIWhateverTrigger",
+    "lang": "C",
+    "desc": "Local SYSTEM auth trigger for relaying - X"
+  },
+  {
+    "createdAt": "2025-07-21T13:14:36Z",
+    "stars": 95,
+    "name": "qvr/nonraid",
+    "url": "https://github.com/qvr/nonraid",
+    "lang": "C",
+    "desc": "NonRAID - unRAID storage array kernel driver fork"
   },
   {
     "createdAt": "2025-07-25T00:02:50Z",
@@ -344,56 +352,48 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-07-18T13:21:49Z",
-    "stars": 93,
-    "name": "TSCarterJr/UnsecuredAPIKeys-OpenSource",
-    "url": "https://github.com/TSCarterJr/UnsecuredAPIKeys-OpenSource",
-    "lang": "JavaScript",
-    "desc": "The code base behind the [Former] UnsecuredAPIKeys.com"
-  },
-  {
-    "createdAt": "2025-07-21T13:14:36Z",
-    "stars": 92,
-    "name": "qvr/nonraid",
-    "url": "https://github.com/qvr/nonraid",
-    "lang": "C",
-    "desc": "NonRAID - unRAID storage array kernel driver fork"
-  },
-  {
     "createdAt": "2025-07-22T01:23:21Z",
-    "stars": 92,
+    "stars": 93,
     "name": "Jiawei-Yang/DeTok",
     "url": "https://github.com/Jiawei-Yang/DeTok",
     "lang": "Jupyter Notebook",
     "desc": "Official PyTorch Implementation of \"Latent Denoising Makes Good Visual Tokenizers\""
   },
   {
-    "createdAt": "2025-07-22T22:45:51Z",
-    "stars": 91,
-    "name": "klezVirus/RAIWhateverTrigger",
-    "url": "https://github.com/klezVirus/RAIWhateverTrigger",
-    "lang": "C",
-    "desc": "Local SYSTEM auth trigger for relaying - X"
-  },
-  {
-    "createdAt": "2025-07-20T08:21:28Z",
-    "stars": 89,
-    "name": "DownUnderCTF/Challenges_2025_Public",
-    "url": "https://github.com/DownUnderCTF/Challenges_2025_Public",
-    "lang": "GDScript",
-    "desc": "Files + Solutions for DownUnderCTF 2025 Challenges "
-  },
-  {
     "createdAt": "2025-07-22T19:50:15Z",
-    "stars": 88,
+    "stars": 92,
     "name": "traceroot-ai/traceroot",
     "url": "https://github.com/traceroot-ai/traceroot",
     "lang": "TypeScript",
     "desc": "Find the Root Cause in Your Code's Trace"
   },
   {
+    "createdAt": "2025-07-20T08:21:28Z",
+    "stars": 92,
+    "name": "DownUnderCTF/Challenges_2025_Public",
+    "url": "https://github.com/DownUnderCTF/Challenges_2025_Public",
+    "lang": "GDScript",
+    "desc": "Files + Solutions for DownUnderCTF 2025 Challenges "
+  },
+  {
+    "createdAt": "2025-07-24T16:46:04Z",
+    "stars": 91,
+    "name": "EtaPanel-dev/EtaPanel",
+    "url": "https://github.com/EtaPanel-dev/EtaPanel",
+    "lang": "",
+    "desc": "A brand new server maintaince tool, developing at AdventureX 2025 Hackathon"
+  },
+  {
+    "createdAt": "2025-07-21T15:56:31Z",
+    "stars": 91,
+    "name": "ammaarreshi/openjourney",
+    "url": "https://github.com/ammaarreshi/openjourney",
+    "lang": "TypeScript",
+    "desc": "Open-source clone of the MidJourney web interface featuring real AI image and video generation powered by Google's Gemini SDK. Use Imagen 4 to generate images and Veo 2 and 3 for image and text to video with audio."
+  },
+  {
     "createdAt": "2025-07-20T22:26:39Z",
-    "stars": 84,
+    "stars": 90,
     "name": "darknessm427/DNS-Tester",
     "url": "https://github.com/darknessm427/DNS-Tester",
     "lang": "JavaScript",
