@@ -1,31 +1,39 @@
 [
   {
     "createdAt": "2025-07-28T14:42:35Z",
-    "stars": 2277,
+    "stars": 3759,
     "name": "contains-studio/agents",
     "url": "https://github.com/contains-studio/agents",
     "lang": "",
     "desc": "sharing current agents in use"
   },
   {
-    "createdAt": "2025-07-28T08:17:01Z",
-    "stars": 1631,
-    "name": "Wan-Video/Wan2.2",
-    "url": "https://github.com/Wan-Video/Wan2.2",
-    "lang": "Python",
-    "desc": "Wan: Open and Advanced Large-Scale Video Generative Models"
-  },
-  {
     "createdAt": "2025-07-26T17:18:06Z",
-    "stars": 1564,
+    "stars": 2092,
     "name": "vijaythecoder/awesome-claude-agents",
     "url": "https://github.com/vijaythecoder/awesome-claude-agents",
     "lang": "",
     "desc": "An orchestrated sub agent dev team powered by claude code"
   },
   {
+    "createdAt": "2025-07-28T08:17:01Z",
+    "stars": 1910,
+    "name": "Wan-Video/Wan2.2",
+    "url": "https://github.com/Wan-Video/Wan2.2",
+    "lang": "Python",
+    "desc": "Wan: Open and Advanced Large-Scale Video Generative Models"
+  },
+  {
+    "createdAt": "2025-07-24T23:28:14Z",
+    "stars": 1852,
+    "name": "wshobson/agents",
+    "url": "https://github.com/wshobson/agents",
+    "lang": "",
+    "desc": "A collection of production-ready subagents for Claude Code"
+  },
+  {
     "createdAt": "2025-07-25T11:06:39Z",
-    "stars": 1231,
+    "stars": 1332,
     "name": "iannuttall/claude-agents",
     "url": "https://github.com/iannuttall/claude-agents",
     "lang": "",
@@ -33,191 +41,239 @@
   },
   {
     "createdAt": "2025-07-25T02:26:45Z",
-    "stars": 1090,
+    "stars": 1155,
     "name": "davepoon/claude-code-subagents-collection",
     "url": "https://github.com/davepoon/claude-code-subagents-collection",
-    "lang": "",
+    "lang": "JavaScript",
     "desc": "Claude Code Subagents Collection"
   },
   {
-    "createdAt": "2025-07-24T23:28:14Z",
-    "stars": 878,
-    "name": "wshobson/agents",
-    "url": "https://github.com/wshobson/agents",
-    "lang": "",
-    "desc": "A collection of production-ready subagents for Claude Code"
-  },
-  {
     "createdAt": "2025-07-25T03:20:54Z",
-    "stars": 743,
+    "stars": 881,
     "name": "brennercruvinel/CCPlugins",
     "url": "https://github.com/brennercruvinel/CCPlugins",
     "lang": "Python",
     "desc": "Claude Code Plugins that actually save time. Built by a dev tired of typing please act like a senior engineer in every conversation."
   },
   {
-    "createdAt": "2025-07-26T19:06:59Z",
-    "stars": 453,
-    "name": "kn1026/cc",
-    "url": "https://github.com/kn1026/cc",
-    "lang": "",
-    "desc": "claude code system prompt"
-  },
-  {
-    "createdAt": "2025-07-23T11:48:20Z",
-    "stars": 413,
-    "name": "IHATEGIVINGAUSERNAME/theProtector",
-    "url": "https://github.com/IHATEGIVINGAUSERNAME/theProtector",
-    "lang": "Shell",
-    "desc": "Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response"
-  },
-  {
-    "createdAt": "2025-07-23T13:54:57Z",
-    "stars": 395,
-    "name": "withneural/neuralagent",
-    "url": "https://github.com/withneural/neuralagent",
-    "lang": "Python",
-    "desc": "The AI Agent That Lives On Your Desktop And Uses It Like You Do!"
-  },
-  {
-    "createdAt": "2025-07-22T06:47:35Z",
-    "stars": 392,
-    "name": "jkoppel/jj-workshop",
-    "url": "https://github.com/jkoppel/jj-workshop",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-22T04:01:45Z",
-    "stars": 391,
-    "name": "neiltron/apple-health-mcp",
-    "url": "https://github.com/neiltron/apple-health-mcp",
-    "lang": "TypeScript",
-    "desc": "MCP server for querying Apple Health data with natural language and SQL"
-  },
-  {
-    "createdAt": "2025-07-23T22:22:31Z",
-    "stars": 344,
-    "name": "LegNeato/rust-gpu-chimera",
-    "url": "https://github.com/LegNeato/rust-gpu-chimera",
-    "lang": "Rust",
-    "desc": "Demo project showing a single Rust codebase running on CPU and directly on GPUs"
-  },
-  {
-    "createdAt": "2025-07-25T13:22:13Z",
-    "stars": 321,
-    "name": "InternLM/Intern-S1",
-    "url": "https://github.com/InternLM/Intern-S1",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-22T22:38:32Z",
-    "stars": 281,
-    "name": "scottvr/wtffmpeg",
-    "url": "https://github.com/scottvr/wtffmpeg",
-    "lang": "Python",
-    "desc": "a toy that has a local llm spit out ffmpeg commands from natural language prompts on the command-line"
-  },
-  {
-    "createdAt": "2025-07-25T08:02:28Z",
-    "stars": 259,
-    "name": "Dimillian/Claude",
-    "url": "https://github.com/Dimillian/Claude",
-    "lang": "",
-    "desc": "My Claude Code Setup"
-  },
-  {
-    "createdAt": "2025-07-25T03:11:20Z",
-    "stars": 219,
-    "name": "stepfun-ai/Step3",
-    "url": "https://github.com/stepfun-ai/Step3",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-25T04:54:16Z",
-    "stars": 215,
-    "name": "GakkiNoOne/hajimi-king",
-    "url": "https://github.com/GakkiNoOne/hajimi-king",
-    "lang": "Python",
-    "desc": "人人都是哈基米大王"
-  },
-  {
-    "createdAt": "2025-07-27T22:12:35Z",
-    "stars": 194,
-    "name": "babycommando/zuse",
-    "url": "https://github.com/babycommando/zuse",
-    "lang": "Go",
-    "desc": "ZUSE is an irc client for the terminal made in Go with Bubbletea"
-  },
-  {
-    "createdAt": "2025-07-27T15:35:50Z",
-    "stars": 180,
-    "name": "Dravine1vDf7/Multi-Trading-Bot",
-    "url": "https://github.com/Dravine1vDf7/Multi-Trading-Bot",
-    "lang": "",
-    "desc": "Multi-Trading Bot"
-  },
-  {
-    "createdAt": "2025-07-26T10:24:26Z",
-    "stars": 178,
-    "name": "hesreallyhim/awesome-claude-code-agents",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code-agents",
-    "lang": "",
-    "desc": "A curated list of awesome Claude Code Sub-Agents"
-  },
-  {
-    "createdAt": "2025-07-23T03:54:43Z",
-    "stars": 175,
-    "name": "hvhghv/se-script",
-    "url": "https://github.com/hvhghv/se-script",
-    "lang": "Shell",
-    "desc": "分享一些个人编写（AI编写）或改良的脚本"
-  },
-  {
-    "createdAt": "2025-07-23T03:18:37Z",
-    "stars": 149,
-    "name": "nearmetips/DailiCode",
-    "url": "https://github.com/nearmetips/DailiCode",
-    "lang": "TypeScript",
-    "desc": "AI agent that is compatible with multiple LLM models"
-  },
-  {
-    "createdAt": "2025-07-27T17:34:34Z",
-    "stars": 149,
-    "name": "segmentationf4u1t/trae_telemetry_research",
-    "url": "https://github.com/segmentationf4u1t/trae_telemetry_research",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-27T11:29:40Z",
-    "stars": 147,
-    "name": "AizenvoltPrime/claude-setup",
-    "url": "https://github.com/AizenvoltPrime/claude-setup",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-07-28T14:30:53Z",
-    "stars": 147,
+    "stars": 729,
     "name": "jarulraj/periodic-table",
     "url": "https://github.com/jarulraj/periodic-table",
     "lang": "",
     "desc": "A Periodic Table of System Design Principles"
   },
   {
+    "createdAt": "2025-07-29T15:56:02Z",
+    "stars": 578,
+    "name": "eigent-ai/eigent",
+    "url": "https://github.com/eigent-ai/eigent",
+    "lang": "TypeScript",
+    "desc": "Eigent is the World's First Multi-agent Workforce to Unlock Your Exceptional Productivity."
+  },
+  {
+    "createdAt": "2025-07-26T19:06:59Z",
+    "stars": 473,
+    "name": "kn1026/cc",
+    "url": "https://github.com/kn1026/cc",
+    "lang": "",
+    "desc": "claude code system prompt"
+  },
+  {
+    "createdAt": "2025-07-23T13:54:57Z",
+    "stars": 450,
+    "name": "withneural/neuralagent",
+    "url": "https://github.com/withneural/neuralagent",
+    "lang": "Python",
+    "desc": "The AI Agent That Lives On Your Desktop And Uses It Like You Do!"
+  },
+  {
+    "createdAt": "2025-07-23T11:48:20Z",
+    "stars": 418,
+    "name": "IHATEGIVINGAUSERNAME/theProtector",
+    "url": "https://github.com/IHATEGIVINGAUSERNAME/theProtector",
+    "lang": "Shell",
+    "desc": "Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response"
+  },
+  {
+    "createdAt": "2025-07-23T22:22:31Z",
+    "stars": 351,
+    "name": "LegNeato/rust-gpu-chimera",
+    "url": "https://github.com/LegNeato/rust-gpu-chimera",
+    "lang": "Rust",
+    "desc": "Demo project showing a single Rust codebase running on CPU and directly on GPUs"
+  },
+  {
+    "createdAt": "2025-07-29T06:23:12Z",
+    "stars": 344,
+    "name": "zouzhekang/YJYpaper",
+    "url": "https://github.com/zouzhekang/YJYpaper",
+    "lang": "",
+    "desc": "一个用来记录武汉大学杨景媛论文问题的仓库"
+  },
+  {
+    "createdAt": "2025-07-25T13:22:13Z",
+    "stars": 342,
+    "name": "InternLM/Intern-S1",
+    "url": "https://github.com/InternLM/Intern-S1",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-25T08:22:12Z",
+    "stars": 294,
+    "name": "snipeship/ccflare",
+    "url": "https://github.com/snipeship/ccflare",
+    "lang": "TypeScript",
+    "desc": "The ultimate CC proxy"
+  },
+  {
+    "createdAt": "2025-07-24T09:56:15Z",
+    "stars": 280,
+    "name": "classmethod/tsumiki",
+    "url": "https://github.com/classmethod/tsumiki",
+    "lang": "TypeScript",
+    "desc": "tsumiki"
+  },
+  {
+    "createdAt": "2025-07-25T08:02:28Z",
+    "stars": 270,
+    "name": "Dimillian/Claude",
+    "url": "https://github.com/Dimillian/Claude",
+    "lang": "",
+    "desc": "My Claude Code Setup"
+  },
+  {
+    "createdAt": "2025-07-27T15:35:50Z",
+    "stars": 270,
+    "name": "Dravine1vDf7/Multi-Trading-Bot",
+    "url": "https://github.com/Dravine1vDf7/Multi-Trading-Bot",
+    "lang": "",
+    "desc": "Multi-Trading Bot"
+  },
+  {
+    "createdAt": "2025-07-25T04:54:16Z",
+    "stars": 263,
+    "name": "GakkiNoOne/hajimi-king",
+    "url": "https://github.com/GakkiNoOne/hajimi-king",
+    "lang": "Python",
+    "desc": "人人都是哈基米大王"
+  },
+  {
+    "createdAt": "2025-07-26T10:24:26Z",
+    "stars": 244,
+    "name": "hesreallyhim/awesome-claude-code-agents",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code-agents",
+    "lang": "",
+    "desc": "A curated list of awesome Claude Code Sub-Agents"
+  },
+  {
+    "createdAt": "2025-07-25T03:11:20Z",
+    "stars": 239,
+    "name": "stepfun-ai/Step3",
+    "url": "https://github.com/stepfun-ai/Step3",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-29T14:38:05Z",
+    "stars": 224,
+    "name": "ColvoxvadSex/Ethereum-Trading-Bot",
+    "url": "https://github.com/ColvoxvadSex/Ethereum-Trading-Bot",
+    "lang": "",
+    "desc": "Ethereum Trading Bot for Uniswap and Sushiswap"
+  },
+  {
+    "createdAt": "2025-07-27T22:12:35Z",
+    "stars": 215,
+    "name": "babycommando/zuse",
+    "url": "https://github.com/babycommando/zuse",
+    "lang": "Go",
+    "desc": "ZUSE is an irc client for the terminal made in Go with Bubbletea"
+  },
+  {
+    "createdAt": "2025-07-26T16:23:35Z",
+    "stars": 190,
+    "name": "Danau5tin/terminal-bench-rl",
+    "url": "https://github.com/Danau5tin/terminal-bench-rl",
+    "lang": "Python",
+    "desc": "GRPO training code which scales to 32xH100s for long horizon terminal/coding tasks. Base agent is now the top Qwen3 agent on Stanford's TerminalBench leaderboard."
+  },
+  {
+    "createdAt": "2025-07-28T11:42:06Z",
+    "stars": 185,
+    "name": "formulahendry/mcp-server-spec-driven-development",
+    "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
+    "lang": "TypeScript",
+    "desc": "Spec-Driven Development MCP Server, no just Vibe Coding"
+  },
+  {
+    "createdAt": "2025-07-23T03:54:43Z",
+    "stars": 183,
+    "name": "hvhghv/se-script",
+    "url": "https://github.com/hvhghv/se-script",
+    "lang": "Shell",
+    "desc": "分享一些个人编写（AI编写）或改良的脚本"
+  },
+  {
     "createdAt": "2025-07-26T17:34:45Z",
-    "stars": 144,
+    "stars": 166,
     "name": "itMrBoy/resumePolice",
     "url": "https://github.com/itMrBoy/resumePolice",
     "lang": "",
     "desc": "简历警察 🕵️‍♂️ 疯狂逮捕"
   },
   {
+    "createdAt": "2025-07-27T17:34:34Z",
+    "stars": 160,
+    "name": "segmentationf4u1t/trae_telemetry_research",
+    "url": "https://github.com/segmentationf4u1t/trae_telemetry_research",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-23T03:18:37Z",
+    "stars": 156,
+    "name": "nearmetips/DailiCode",
+    "url": "https://github.com/nearmetips/DailiCode",
+    "lang": "TypeScript",
+    "desc": "AI agent that is compatible with multiple LLM models"
+  },
+  {
+    "createdAt": "2025-07-27T11:29:40Z",
+    "stars": 155,
+    "name": "AizenvoltPrime/claude-setup",
+    "url": "https://github.com/AizenvoltPrime/claude-setup",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-27T07:54:46Z",
+    "stars": 150,
+    "name": "QiuChenly/fkOS",
+    "url": "https://github.com/QiuChenly/fkOS",
+    "lang": "",
+    "desc": "fuck os，新时代反版权主义先锋。"
+  },
+  {
+    "createdAt": "2025-07-24T12:43:15Z",
+    "stars": 149,
+    "name": "zexahq/better-auth-starter",
+    "url": "https://github.com/zexahq/better-auth-starter",
+    "lang": "TypeScript",
+    "desc": "A modern Next.js boilerplate with authentication, admin dashboard, and user management built with Better Auth, Drizzle ORM, and PostgreSQL"
+  },
+  {
+    "createdAt": "2025-07-23T06:20:30Z",
+    "stars": 146,
+    "name": "facebookresearch/PhysicsLM4",
+    "url": "https://github.com/facebookresearch/PhysicsLM4",
+    "lang": "HTML",
+    "desc": "Physics of Language Models, Part 4"
+  },
+  {
     "createdAt": "2025-07-24T16:46:04Z",
-    "stars": 143,
+    "stars": 145,
     "name": "EtaPanel-dev/EtaPanel",
     "url": "https://github.com/EtaPanel-dev/EtaPanel",
     "lang": "",
@@ -225,67 +281,67 @@
   },
   {
     "createdAt": "2025-07-24T15:05:22Z",
-    "stars": 143,
+    "stars": 144,
     "name": "AstralSightStudios/AstroBox-Public",
     "url": "https://github.com/AstralSightStudios/AstroBox-Public",
     "lang": "Rust",
     "desc": "Public source code for AstroBox"
   },
   {
-    "createdAt": "2025-07-22T10:04:38Z",
-    "stars": 143,
-    "name": "11firefly11/fir-proxy",
-    "url": "https://github.com/11firefly11/fir-proxy",
-    "lang": "Python",
-    "desc": "一个轮换代理的图形化代理池程序"
-  },
-  {
-    "createdAt": "2025-07-24T12:43:15Z",
-    "stars": 141,
-    "name": "zexahq/better-auth-starter",
-    "url": "https://github.com/zexahq/better-auth-starter",
-    "lang": "TypeScript",
-    "desc": "A modern Next.js boilerplate with authentication, admin dashboard, and user management built with Better Auth, Drizzle ORM, and PostgreSQL"
-  },
-  {
-    "createdAt": "2025-07-27T07:54:46Z",
-    "stars": 137,
-    "name": "QiuChenly/fkOS",
-    "url": "https://github.com/QiuChenly/fkOS",
-    "lang": "",
-    "desc": "fuck os，新时代反版权主义先锋。"
-  },
-  {
-    "createdAt": "2025-07-29T14:38:05Z",
-    "stars": 134,
-    "name": "ColvoxvadSex/Ethereum-Trading-Bot",
-    "url": "https://github.com/ColvoxvadSex/Ethereum-Trading-Bot",
-    "lang": "",
-    "desc": "Ethereum Trading Bot for Uniswap and Sushiswap"
-  },
-  {
     "createdAt": "2025-07-25T08:16:18Z",
-    "stars": 133,
+    "stars": 138,
     "name": "kloudkit/ws-meta",
     "url": "https://github.com/kloudkit/ws-meta",
     "lang": "",
     "desc": "📌 The central hub for Kloud Workspace planning, roadmap, and community discussions"
   },
   {
-    "createdAt": "2025-07-22T16:32:04Z",
-    "stars": 131,
-    "name": "alperdrsnn/clime",
-    "url": "https://github.com/alperdrsnn/clime",
-    "lang": "Go",
-    "desc": "Beautiful Terminal UI for Go"
-  },
-  {
     "createdAt": "2025-07-27T19:06:36Z",
-    "stars": 127,
+    "stars": 136,
     "name": "vvb2060/PackageInstaller",
     "url": "https://github.com/vvb2060/PackageInstaller",
     "lang": "Kotlin",
     "desc": "A lightweight yet powerful package installer for Android."
+  },
+  {
+    "createdAt": "2025-07-23T10:58:05Z",
+    "stars": 132,
+    "name": "mine-ai-xyz/mine-ai",
+    "url": "https://github.com/mine-ai-xyz/mine-ai",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-25T14:57:04Z",
+    "stars": 131,
+    "name": "drizzle-team/fastabase",
+    "url": "https://github.com/drizzle-team/fastabase",
+    "lang": "TypeScript",
+    "desc": "A solution to self-host Supabase on AWS and use PlanetScale Postgres as the database provider."
+  },
+  {
+    "createdAt": "2025-07-27T08:34:26Z",
+    "stars": 129,
+    "name": "chinrain/Api-Conversion",
+    "url": "https://github.com/chinrain/Api-Conversion",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-25T19:08:18Z",
+    "stars": 126,
+    "name": "NicholasSpisak/claude-code-subagents",
+    "url": "https://github.com/NicholasSpisak/claude-code-subagents",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-26T11:16:30Z",
+    "stars": 125,
+    "name": "rasta-mouse/Crystal-Loaders",
+    "url": "https://github.com/rasta-mouse/Crystal-Loaders",
+    "lang": "C",
+    "desc": "A small collection of Crystal Palace PIC loaders designed for use with Cobalt Strike"
   },
   {
     "createdAt": "2025-07-25T00:54:20Z",
@@ -296,107 +352,51 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-07-22T11:08:35Z",
-    "stars": 124,
-    "name": "dongguanting/ARPO",
-    "url": "https://github.com/dongguanting/ARPO",
-    "lang": "Python",
-    "desc": "The official code of “Agentic Reinforced Policy Optimization”, an agentic RL algorithm optimization."
-  },
-  {
-    "createdAt": "2025-07-25T14:57:04Z",
-    "stars": 121,
-    "name": "drizzle-team/fastabase",
-    "url": "https://github.com/drizzle-team/fastabase",
-    "lang": "TypeScript",
-    "desc": "A solution to self-host Supabase on AWS and use PlanetScale Postgres as the database provider."
-  },
-  {
-    "createdAt": "2025-07-26T16:23:35Z",
-    "stars": 121,
-    "name": "Danau5tin/terminal-bench-rl",
-    "url": "https://github.com/Danau5tin/terminal-bench-rl",
-    "lang": "Python",
-    "desc": "GRPO training code which scales to 32xH100s for long horizon terminal/coding tasks. Base agent is now the top Qwen3 agent on Stanford's TerminalBench leaderboard."
-  },
-  {
     "createdAt": "2025-07-23T16:26:52Z",
-    "stars": 120,
+    "stars": 123,
     "name": "wendelmax/v8-rust",
     "url": "https://github.com/wendelmax/v8-rust",
     "lang": "Rust",
     "desc": "Uma engine JavaScript moderna, inspirada no V8 Engine do Google, porém totalmente escrita em Rust."
   },
   {
-    "createdAt": "2025-07-26T11:16:30Z",
-    "stars": 117,
-    "name": "rasta-mouse/Crystal-Loaders",
-    "url": "https://github.com/rasta-mouse/Crystal-Loaders",
-    "lang": "C",
-    "desc": "A small collection of Crystal Palace PIC loaders designed for use with Cobalt Strike"
-  },
-  {
     "createdAt": "2025-07-24T04:29:27Z",
-    "stars": 116,
+    "stars": 121,
     "name": "ryunuri/Elevate3D",
     "url": "https://github.com/ryunuri/Elevate3D",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-07-27T14:48:13Z",
+    "stars": 120,
+    "name": "zhsama/claude-sub-agent",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "lang": "",
+    "desc": "AI-driven development workflow system built on Claude Code Sub-Agents."
+  },
+  {
+    "createdAt": "2025-07-29T11:39:54Z",
+    "stars": 120,
+    "name": "X-Omni-Team/X-Omni",
+    "url": "https://github.com/X-Omni-Team/X-Omni",
+    "lang": "Python",
+    "desc": "Official inference code and LongText-Bench benchmark for our paper X-Omni (https://arxiv.org/pdf/2507.22058)."
+  },
+  {
+    "createdAt": "2025-07-27T22:03:15Z",
+    "stars": 119,
+    "name": "wyhlovecpp/GPT-Image-Edit",
+    "url": "https://github.com/wyhlovecpp/GPT-Image-Edit",
+    "lang": "Python",
+    "desc": "GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset"
+  },
+  {
     "createdAt": "2025-07-25T01:42:21Z",
-    "stars": 115,
+    "stars": 119,
     "name": "tunguyenn99/thu_vien_cua_xom_data",
     "url": "https://github.com/tunguyenn99/thu_vien_cua_xom_data",
     "lang": "",
     "desc": "Thư viện sách của Xóm - Free & Public 😎"
-  },
-  {
-    "createdAt": "2025-07-22T22:45:51Z",
-    "stars": 114,
-    "name": "klezVirus/RAIWhateverTrigger",
-    "url": "https://github.com/klezVirus/RAIWhateverTrigger",
-    "lang": "C",
-    "desc": "Local SYSTEM auth trigger for relaying - X"
-  },
-  {
-    "createdAt": "2025-07-23T20:23:52Z",
-    "stars": 113,
-    "name": "ElusnCheat/warzone-cheat-aimbot-esp",
-    "url": "https://github.com/ElusnCheat/warzone-cheat-aimbot-esp",
-    "lang": "C++",
-    "desc": "Unlock the best undetected Warzone Cheat with aimbot, ESP, wallhack, and unlock all tool. Dominate Call of Duty: Warzone using powerful Warzone cheats including Warzone aimbot, Warzone ESP, and Warzone wallhack. Safe, updated, and 100% positive reviews. Join now for access and elevate your gameplay."
-  },
-  {
-    "createdAt": "2025-07-23T10:58:05Z",
-    "stars": 109,
-    "name": "mine-ai-xyz/mine-ai",
-    "url": "https://github.com/mine-ai-xyz/mine-ai",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-22T02:20:17Z",
-    "stars": 106,
-    "name": "netsky-devel/Prompt-Punk",
-    "url": "https://github.com/netsky-devel/Prompt-Punk",
-    "lang": "Ruby",
-    "desc": "Prompt Punk: AI-powered prompt engineering tool built with Rails 8 and React 18. Optimize and enhance prompts using multi-agent AI with Google Gemini integration for developers and AI enthusiasts."
-  },
-  {
-    "createdAt": "2025-07-23T06:20:30Z",
-    "stars": 105,
-    "name": "facebookresearch/PhysicsLM4",
-    "url": "https://github.com/facebookresearch/PhysicsLM4",
-    "lang": "HTML",
-    "desc": "Physics of Language Models, Part 4"
-  },
-  {
-    "createdAt": "2025-07-27T18:16:58Z",
-    "stars": 105,
-    "name": "0x4D31/finch",
-    "url": "https://github.com/0x4D31/finch",
-    "lang": "Go",
-    "desc": "Fingerprint-aware TLS reverse proxy. Use Finch to outsmart bad traffic—collect client fingerprints (JA3, JA4 +QUIC, JA4H, HTTP/2) and act on them: block, reroute, tarpit, or deceive in real time."
   }
 ]
