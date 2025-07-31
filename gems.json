@@ -1,15 +1,23 @@
 [
   {
     "createdAt": "2025-07-28T14:42:35Z",
-    "stars": 3759,
+    "stars": 4403,
     "name": "contains-studio/agents",
     "url": "https://github.com/contains-studio/agents",
     "lang": "",
     "desc": "sharing current agents in use"
   },
   {
+    "createdAt": "2025-07-24T23:28:14Z",
+    "stars": 3500,
+    "name": "wshobson/agents",
+    "url": "https://github.com/wshobson/agents",
+    "lang": "",
+    "desc": "A collection of production-ready subagents for Claude Code"
+  },
+  {
     "createdAt": "2025-07-26T17:18:06Z",
-    "stars": 2092,
+    "stars": 2320,
     "name": "vijaythecoder/awesome-claude-agents",
     "url": "https://github.com/vijaythecoder/awesome-claude-agents",
     "lang": "",
@@ -17,23 +25,15 @@
   },
   {
     "createdAt": "2025-07-28T08:17:01Z",
-    "stars": 1910,
+    "stars": 2099,
     "name": "Wan-Video/Wan2.2",
     "url": "https://github.com/Wan-Video/Wan2.2",
     "lang": "Python",
     "desc": "Wan: Open and Advanced Large-Scale Video Generative Models"
   },
   {
-    "createdAt": "2025-07-24T23:28:14Z",
-    "stars": 1852,
-    "name": "wshobson/agents",
-    "url": "https://github.com/wshobson/agents",
-    "lang": "",
-    "desc": "A collection of production-ready subagents for Claude Code"
-  },
-  {
     "createdAt": "2025-07-25T11:06:39Z",
-    "stars": 1332,
+    "stars": 1381,
     "name": "iannuttall/claude-agents",
     "url": "https://github.com/iannuttall/claude-agents",
     "lang": "",
@@ -41,7 +41,7 @@
   },
   {
     "createdAt": "2025-07-25T02:26:45Z",
-    "stars": 1155,
+    "stars": 1199,
     "name": "davepoon/claude-code-subagents-collection",
     "url": "https://github.com/davepoon/claude-code-subagents-collection",
     "lang": "JavaScript",
@@ -49,7 +49,7 @@
   },
   {
     "createdAt": "2025-07-25T03:20:54Z",
-    "stars": 881,
+    "stars": 922,
     "name": "brennercruvinel/CCPlugins",
     "url": "https://github.com/brennercruvinel/CCPlugins",
     "lang": "Python",
@@ -57,15 +57,23 @@
   },
   {
     "createdAt": "2025-07-28T14:30:53Z",
-    "stars": 729,
+    "stars": 889,
     "name": "jarulraj/periodic-table",
     "url": "https://github.com/jarulraj/periodic-table",
     "lang": "",
     "desc": "A Periodic Table of System Design Principles"
   },
   {
+    "createdAt": "2025-07-29T06:23:12Z",
+    "stars": 809,
+    "name": "zouzhekang/YJYpaper",
+    "url": "https://github.com/zouzhekang/YJYpaper",
+    "lang": "",
+    "desc": "一个用来记录武汉大学杨景媛论文问题的仓库"
+  },
+  {
     "createdAt": "2025-07-29T15:56:02Z",
-    "stars": 578,
+    "stars": 788,
     "name": "eigent-ai/eigent",
     "url": "https://github.com/eigent-ai/eigent",
     "lang": "TypeScript",
@@ -73,71 +81,79 @@
   },
   {
     "createdAt": "2025-07-26T19:06:59Z",
-    "stars": 473,
+    "stars": 489,
     "name": "kn1026/cc",
     "url": "https://github.com/kn1026/cc",
     "lang": "",
     "desc": "claude code system prompt"
   },
   {
-    "createdAt": "2025-07-23T13:54:57Z",
-    "stars": 450,
-    "name": "withneural/neuralagent",
-    "url": "https://github.com/withneural/neuralagent",
+    "createdAt": "2025-07-27T23:07:53Z",
+    "stars": 421,
+    "name": "hwchase17/deepagents",
+    "url": "https://github.com/hwchase17/deepagents",
     "lang": "Python",
-    "desc": "The AI Agent That Lives On Your Desktop And Uses It Like You Do!"
-  },
-  {
-    "createdAt": "2025-07-23T11:48:20Z",
-    "stars": 418,
-    "name": "IHATEGIVINGAUSERNAME/theProtector",
-    "url": "https://github.com/IHATEGIVINGAUSERNAME/theProtector",
-    "lang": "Shell",
-    "desc": "Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response"
-  },
-  {
-    "createdAt": "2025-07-23T22:22:31Z",
-    "stars": 351,
-    "name": "LegNeato/rust-gpu-chimera",
-    "url": "https://github.com/LegNeato/rust-gpu-chimera",
-    "lang": "Rust",
-    "desc": "Demo project showing a single Rust codebase running on CPU and directly on GPUs"
-  },
-  {
-    "createdAt": "2025-07-29T06:23:12Z",
-    "stars": 344,
-    "name": "zouzhekang/YJYpaper",
-    "url": "https://github.com/zouzhekang/YJYpaper",
-    "lang": "",
-    "desc": "一个用来记录武汉大学杨景媛论文问题的仓库"
-  },
-  {
-    "createdAt": "2025-07-25T13:22:13Z",
-    "stars": 342,
-    "name": "InternLM/Intern-S1",
-    "url": "https://github.com/InternLM/Intern-S1",
-    "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-25T08:22:12Z",
-    "stars": 294,
-    "name": "snipeship/ccflare",
-    "url": "https://github.com/snipeship/ccflare",
-    "lang": "TypeScript",
-    "desc": "The ultimate CC proxy"
-  },
-  {
     "createdAt": "2025-07-24T09:56:15Z",
-    "stars": 280,
+    "stars": 410,
     "name": "classmethod/tsumiki",
     "url": "https://github.com/classmethod/tsumiki",
     "lang": "TypeScript",
     "desc": "tsumiki"
   },
   {
+    "createdAt": "2025-07-25T08:22:12Z",
+    "stars": 405,
+    "name": "snipeship/ccflare",
+    "url": "https://github.com/snipeship/ccflare",
+    "lang": "TypeScript",
+    "desc": "The ultimate CC proxy"
+  },
+  {
+    "createdAt": "2025-07-28T13:04:48Z",
+    "stars": 385,
+    "name": "lst97/claude-code-sub-agents",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "lang": "",
+    "desc": "Collection of specialized AI subagents for Claude Code for personal use."
+  },
+  {
+    "createdAt": "2025-07-25T13:22:13Z",
+    "stars": 352,
+    "name": "InternLM/Intern-S1",
+    "url": "https://github.com/InternLM/Intern-S1",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-25T04:54:16Z",
+    "stars": 288,
+    "name": "GakkiNoOne/hajimi-king",
+    "url": "https://github.com/GakkiNoOne/hajimi-king",
+    "lang": "Python",
+    "desc": "人人都是哈基米大王"
+  },
+  {
+    "createdAt": "2025-07-26T10:24:26Z",
+    "stars": 287,
+    "name": "hesreallyhim/awesome-claude-code-agents",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code-agents",
+    "lang": "",
+    "desc": "A curated list of awesome Claude Code Sub-Agents"
+  },
+  {
+    "createdAt": "2025-07-25T03:11:20Z",
+    "stars": 282,
+    "name": "stepfun-ai/Step3",
+    "url": "https://github.com/stepfun-ai/Step3",
+    "lang": "",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-07-25T08:02:28Z",
-    "stars": 270,
+    "stars": 276,
     "name": "Dimillian/Claude",
     "url": "https://github.com/Dimillian/Claude",
     "lang": "",
@@ -152,28 +168,20 @@
     "desc": "Multi-Trading Bot"
   },
   {
-    "createdAt": "2025-07-25T04:54:16Z",
-    "stars": 263,
-    "name": "GakkiNoOne/hajimi-king",
-    "url": "https://github.com/GakkiNoOne/hajimi-king",
+    "createdAt": "2025-07-24T04:04:11Z",
+    "stars": 247,
+    "name": "zhinianboke/xianyu-auto-reply",
+    "url": "https://github.com/zhinianboke/xianyu-auto-reply",
     "lang": "Python",
-    "desc": "人人都是哈基米大王"
+    "desc": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。"
   },
   {
-    "createdAt": "2025-07-26T10:24:26Z",
-    "stars": 244,
-    "name": "hesreallyhim/awesome-claude-code-agents",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code-agents",
-    "lang": "",
-    "desc": "A curated list of awesome Claude Code Sub-Agents"
-  },
-  {
-    "createdAt": "2025-07-25T03:11:20Z",
-    "stars": 239,
-    "name": "stepfun-ai/Step3",
-    "url": "https://github.com/stepfun-ai/Step3",
-    "lang": "",
-    "desc": ""
+    "createdAt": "2025-07-27T22:12:35Z",
+    "stars": 224,
+    "name": "babycommando/zuse",
+    "url": "https://github.com/babycommando/zuse",
+    "lang": "Go",
+    "desc": "ZUSE is an irc client for the terminal made in Go with Bubbletea"
   },
   {
     "createdAt": "2025-07-29T14:38:05Z",
@@ -184,72 +192,88 @@
     "desc": "Ethereum Trading Bot for Uniswap and Sushiswap"
   },
   {
-    "createdAt": "2025-07-27T22:12:35Z",
-    "stars": 215,
-    "name": "babycommando/zuse",
-    "url": "https://github.com/babycommando/zuse",
-    "lang": "Go",
-    "desc": "ZUSE is an irc client for the terminal made in Go with Bubbletea"
-  },
-  {
-    "createdAt": "2025-07-26T16:23:35Z",
-    "stars": 190,
-    "name": "Danau5tin/terminal-bench-rl",
-    "url": "https://github.com/Danau5tin/terminal-bench-rl",
-    "lang": "Python",
-    "desc": "GRPO training code which scales to 32xH100s for long horizon terminal/coding tasks. Base agent is now the top Qwen3 agent on Stanford's TerminalBench leaderboard."
-  },
-  {
     "createdAt": "2025-07-28T11:42:06Z",
-    "stars": 185,
+    "stars": 223,
     "name": "formulahendry/mcp-server-spec-driven-development",
     "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
     "lang": "TypeScript",
     "desc": "Spec-Driven Development MCP Server, no just Vibe Coding"
   },
   {
-    "createdAt": "2025-07-23T03:54:43Z",
-    "stars": 183,
-    "name": "hvhghv/se-script",
-    "url": "https://github.com/hvhghv/se-script",
-    "lang": "Shell",
-    "desc": "分享一些个人编写（AI编写）或改良的脚本"
+    "createdAt": "2025-07-26T16:23:35Z",
+    "stars": 198,
+    "name": "Danau5tin/terminal-bench-rl",
+    "url": "https://github.com/Danau5tin/terminal-bench-rl",
+    "lang": "Python",
+    "desc": "GRPO training code which scales to 32xH100s for long horizon terminal/coding tasks. Base agent is now the top Qwen3 agent on Stanford's TerminalBench leaderboard."
+  },
+  {
+    "createdAt": "2025-07-29T05:56:00Z",
+    "stars": 189,
+    "name": "InsForge/InsForge",
+    "url": "https://github.com/InsForge/InsForge",
+    "lang": "TypeScript",
+    "desc": "InsForge is the Agent-Native Supabase Alternative. We are building the features of Supabase in an AI-native way, enabling AI agents to build and manage full-stack applications autonomously."
   },
   {
     "createdAt": "2025-07-26T17:34:45Z",
-    "stars": 166,
+    "stars": 186,
     "name": "itMrBoy/resumePolice",
     "url": "https://github.com/itMrBoy/resumePolice",
     "lang": "",
     "desc": "简历警察 🕵️‍♂️ 疯狂逮捕"
   },
   {
+    "createdAt": "2025-07-27T06:01:44Z",
+    "stars": 176,
+    "name": "SkyworkAI/UniPic",
+    "url": "https://github.com/SkyworkAI/UniPic",
+    "lang": "Python",
+    "desc": "Unified Autoregressive Modeling for Visual Understanding and Generation"
+  },
+  {
+    "createdAt": "2025-07-29T11:39:54Z",
+    "stars": 170,
+    "name": "X-Omni-Team/X-Omni",
+    "url": "https://github.com/X-Omni-Team/X-Omni",
+    "lang": "Python",
+    "desc": "Official inference code and LongText-Bench benchmark for our paper X-Omni (https://arxiv.org/pdf/2507.22058)."
+  },
+  {
     "createdAt": "2025-07-27T17:34:34Z",
-    "stars": 160,
+    "stars": 164,
     "name": "segmentationf4u1t/trae_telemetry_research",
     "url": "https://github.com/segmentationf4u1t/trae_telemetry_research",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-23T03:18:37Z",
-    "stars": 156,
-    "name": "nearmetips/DailiCode",
-    "url": "https://github.com/nearmetips/DailiCode",
-    "lang": "TypeScript",
-    "desc": "AI agent that is compatible with multiple LLM models"
-  },
-  {
     "createdAt": "2025-07-27T11:29:40Z",
-    "stars": 155,
+    "stars": 160,
     "name": "AizenvoltPrime/claude-setup",
     "url": "https://github.com/AizenvoltPrime/claude-setup",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-07-27T14:48:13Z",
+    "stars": 156,
+    "name": "zhsama/claude-sub-agent",
+    "url": "https://github.com/zhsama/claude-sub-agent",
+    "lang": "",
+    "desc": "AI-driven development workflow system built on Claude Code Sub-Agents."
+  },
+  {
+    "createdAt": "2025-07-24T15:05:22Z",
+    "stars": 156,
+    "name": "AstralSightStudios/AstroBox-Public",
+    "url": "https://github.com/AstralSightStudios/AstroBox-Public",
+    "lang": "Rust",
+    "desc": "Public source code for AstroBox"
+  },
+  {
     "createdAt": "2025-07-27T07:54:46Z",
-    "stars": 150,
+    "stars": 155,
     "name": "QiuChenly/fkOS",
     "url": "https://github.com/QiuChenly/fkOS",
     "lang": "",
@@ -257,19 +281,11 @@
   },
   {
     "createdAt": "2025-07-24T12:43:15Z",
-    "stars": 149,
+    "stars": 152,
     "name": "zexahq/better-auth-starter",
     "url": "https://github.com/zexahq/better-auth-starter",
     "lang": "TypeScript",
     "desc": "A modern Next.js boilerplate with authentication, admin dashboard, and user management built with Better Auth, Drizzle ORM, and PostgreSQL"
-  },
-  {
-    "createdAt": "2025-07-23T06:20:30Z",
-    "stars": 146,
-    "name": "facebookresearch/PhysicsLM4",
-    "url": "https://github.com/facebookresearch/PhysicsLM4",
-    "lang": "HTML",
-    "desc": "Physics of Language Models, Part 4"
   },
   {
     "createdAt": "2025-07-24T16:46:04Z",
@@ -280,64 +296,88 @@
     "desc": "A brand new server maintaince tool integrated with AI. Developed at AdventureX 2025 Hackathon"
   },
   {
-    "createdAt": "2025-07-24T15:05:22Z",
-    "stars": 144,
-    "name": "AstralSightStudios/AstroBox-Public",
-    "url": "https://github.com/AstralSightStudios/AstroBox-Public",
-    "lang": "Rust",
-    "desc": "Public source code for AstroBox"
+    "createdAt": "2025-07-27T22:03:15Z",
+    "stars": 141,
+    "name": "wyhlovecpp/GPT-Image-Edit",
+    "url": "https://github.com/wyhlovecpp/GPT-Image-Edit",
+    "lang": "Python",
+    "desc": "GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset"
+  },
+  {
+    "createdAt": "2025-07-27T09:22:24Z",
+    "stars": 141,
+    "name": "fenggeliaoai/cozeworkflows",
+    "url": "https://github.com/fenggeliaoai/cozeworkflows",
+    "lang": "",
+    "desc": "coze 的200+工作流合集汇总，一直更新"
   },
   {
     "createdAt": "2025-07-25T08:16:18Z",
-    "stars": 138,
+    "stars": 141,
     "name": "kloudkit/ws-meta",
     "url": "https://github.com/kloudkit/ws-meta",
     "lang": "",
     "desc": "📌 The central hub for Kloud Workspace planning, roadmap, and community discussions"
   },
   {
+    "createdAt": "2025-07-24T20:43:59Z",
+    "stars": 138,
+    "name": "SpecterOps/MSSQLHound",
+    "url": "https://github.com/SpecterOps/MSSQLHound",
+    "lang": "PowerShell",
+    "desc": "PowerShell collector for adding MSSQL attack paths to BloodHound with OpenGraph"
+  },
+  {
     "createdAt": "2025-07-27T19:06:36Z",
-    "stars": 136,
+    "stars": 138,
     "name": "vvb2060/PackageInstaller",
     "url": "https://github.com/vvb2060/PackageInstaller",
     "lang": "Kotlin",
     "desc": "A lightweight yet powerful package installer for Android."
   },
   {
-    "createdAt": "2025-07-23T10:58:05Z",
-    "stars": 132,
-    "name": "mine-ai-xyz/mine-ai",
-    "url": "https://github.com/mine-ai-xyz/mine-ai",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-25T14:57:04Z",
-    "stars": 131,
-    "name": "drizzle-team/fastabase",
-    "url": "https://github.com/drizzle-team/fastabase",
-    "lang": "TypeScript",
-    "desc": "A solution to self-host Supabase on AWS and use PlanetScale Postgres as the database provider."
-  },
-  {
     "createdAt": "2025-07-27T08:34:26Z",
-    "stars": 129,
+    "stars": 135,
     "name": "chinrain/Api-Conversion",
     "url": "https://github.com/chinrain/Api-Conversion",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-25T19:08:18Z",
-    "stars": 126,
-    "name": "NicholasSpisak/claude-code-subagents",
-    "url": "https://github.com/NicholasSpisak/claude-code-subagents",
-    "lang": "",
+    "createdAt": "2025-07-29T06:17:14Z",
+    "stars": 134,
+    "name": "hhftechnology/traefik-log-dashboard",
+    "url": "https://github.com/hhftechnology/traefik-log-dashboard",
+    "lang": "TypeScript",
+    "desc": "A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js."
+  },
+  {
+    "createdAt": "2025-07-31T16:28:45Z",
+    "stars": 133,
+    "name": "DeeForN/Tg-Tools2025",
+    "url": "https://github.com/DeeForN/Tg-Tools2025",
+    "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-07-24T04:29:27Z",
+    "stars": 132,
+    "name": "ryunuri/Elevate3D",
+    "url": "https://github.com/ryunuri/Elevate3D",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-25T14:57:04Z",
+    "stars": 132,
+    "name": "drizzle-team/fastabase",
+    "url": "https://github.com/drizzle-team/fastabase",
+    "lang": "TypeScript",
+    "desc": "A solution to self-host Supabase on AWS and use PlanetScale Postgres as the database provider."
+  },
+  {
     "createdAt": "2025-07-26T11:16:30Z",
-    "stars": 125,
+    "stars": 130,
     "name": "rasta-mouse/Crystal-Loaders",
     "url": "https://github.com/rasta-mouse/Crystal-Loaders",
     "lang": "C",
@@ -345,58 +385,18 @@
   },
   {
     "createdAt": "2025-07-25T00:54:20Z",
-    "stars": 124,
+    "stars": 128,
     "name": "kevin3010/AmazonQuestionsOnReddit",
     "url": "https://github.com/kevin3010/AmazonQuestionsOnReddit",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-23T16:26:52Z",
-    "stars": 123,
-    "name": "wendelmax/v8-rust",
-    "url": "https://github.com/wendelmax/v8-rust",
-    "lang": "Rust",
-    "desc": "Uma engine JavaScript moderna, inspirada no V8 Engine do Google, porém totalmente escrita em Rust."
-  },
-  {
-    "createdAt": "2025-07-24T04:29:27Z",
-    "stars": 121,
-    "name": "ryunuri/Elevate3D",
-    "url": "https://github.com/ryunuri/Elevate3D",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-27T14:48:13Z",
-    "stars": 120,
-    "name": "zhsama/claude-sub-agent",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "lang": "",
-    "desc": "AI-driven development workflow system built on Claude Code Sub-Agents."
-  },
-  {
-    "createdAt": "2025-07-29T11:39:54Z",
-    "stars": 120,
-    "name": "X-Omni-Team/X-Omni",
-    "url": "https://github.com/X-Omni-Team/X-Omni",
-    "lang": "Python",
-    "desc": "Official inference code and LongText-Bench benchmark for our paper X-Omni (https://arxiv.org/pdf/2507.22058)."
-  },
-  {
-    "createdAt": "2025-07-27T22:03:15Z",
-    "stars": 119,
-    "name": "wyhlovecpp/GPT-Image-Edit",
-    "url": "https://github.com/wyhlovecpp/GPT-Image-Edit",
-    "lang": "Python",
-    "desc": "GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset"
-  },
-  {
-    "createdAt": "2025-07-25T01:42:21Z",
-    "stars": 119,
-    "name": "tunguyenn99/thu_vien_cua_xom_data",
-    "url": "https://github.com/tunguyenn99/thu_vien_cua_xom_data",
-    "lang": "",
-    "desc": "Thư viện sách của Xóm - Free & Public 😎"
+    "createdAt": "2025-07-24T19:47:23Z",
+    "stars": 127,
+    "name": "vvvvv/dlg",
+    "url": "https://github.com/vvvvv/dlg",
+    "lang": "Go",
+    "desc": "Printf-Style Debugging with Zero-Cost in Production Builds"
   }
 ]
