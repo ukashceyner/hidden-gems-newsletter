@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-07-28T14:42:35Z",
-    "stars": 5942,
+    "stars": 6215,
     "name": "contains-studio/agents",
     "url": "https://github.com/contains-studio/agents",
     "lang": "",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-07-28T08:17:01Z",
-    "stars": 2307,
+    "stars": 2426,
     "name": "Wan-Video/Wan2.2",
     "url": "https://github.com/Wan-Video/Wan2.2",
     "lang": "Python",
@@ -17,267 +17,219 @@
   },
   {
     "createdAt": "2025-07-29T06:23:12Z",
-    "stars": 1953,
+    "stars": 2272,
     "name": "zouzhekang/YJYpaper",
     "url": "https://github.com/zouzhekang/YJYpaper",
     "lang": "",
     "desc": "一个用来记录武汉大学杨景媛论文问题的仓库"
   },
   {
-    "createdAt": "2025-07-28T14:30:53Z",
-    "stars": 1056,
-    "name": "jarulraj/periodic-table",
-    "url": "https://github.com/jarulraj/periodic-table",
-    "lang": "",
-    "desc": "A Periodic Table of System Design Principles"
-  },
-  {
     "createdAt": "2025-07-29T15:56:02Z",
-    "stars": 1034,
+    "stars": 1132,
     "name": "eigent-ai/eigent",
     "url": "https://github.com/eigent-ai/eigent",
     "lang": "TypeScript",
     "desc": "Eigent is the World's First Multi-agent Workforce to Unlock Your Exceptional Productivity."
   },
   {
-    "createdAt": "2025-07-27T23:07:53Z",
-    "stars": 787,
-    "name": "hwchase17/deepagents",
-    "url": "https://github.com/hwchase17/deepagents",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-27T09:22:24Z",
-    "stars": 770,
-    "name": "fenggeliaoai/cozeworkflows",
-    "url": "https://github.com/fenggeliaoai/cozeworkflows",
+    "createdAt": "2025-07-28T14:30:53Z",
+    "stars": 1094,
+    "name": "jarulraj/periodic-table",
+    "url": "https://github.com/jarulraj/periodic-table",
     "lang": "",
-    "desc": "coze 的200+工作流合集汇总，一直更新"
-  },
-  {
-    "createdAt": "2025-07-28T13:04:48Z",
-    "stars": 572,
-    "name": "lst97/claude-code-sub-agents",
-    "url": "https://github.com/lst97/claude-code-sub-agents",
-    "lang": "",
-    "desc": "Collection of specialized AI subagents for Claude Code for personal use."
+    "desc": "A Periodic Table of System Design Principles"
   },
   {
     "createdAt": "2025-07-30T11:03:59Z",
-    "stars": 501,
+    "stars": 682,
     "name": "rednote-hilab/dots.ocr",
     "url": "https://github.com/rednote-hilab/dots.ocr",
     "lang": "Python",
     "desc": "Multilingual Document Layout Parsing in a Single Vision-Language Model"
   },
   {
+    "createdAt": "2025-07-28T13:04:48Z",
+    "stars": 636,
+    "name": "lst97/claude-code-sub-agents",
+    "url": "https://github.com/lst97/claude-code-sub-agents",
+    "lang": "",
+    "desc": "Collection of specialized AI subagents for Claude Code for personal use."
+  },
+  {
     "createdAt": "2025-07-31T22:01:49Z",
-    "stars": 423,
+    "stars": 475,
     "name": "dmtrKovalenko/fff.nvim",
     "url": "https://github.com/dmtrKovalenko/fff.nvim",
     "lang": "Lua",
     "desc": "Finally a Fast Fuzzy File Finder for neovim "
   },
   {
-    "createdAt": "2025-07-29T14:38:05Z",
-    "stars": 314,
-    "name": "ColvoxvadSex/Ethereum-Trading-Bot",
-    "url": "https://github.com/ColvoxvadSex/Ethereum-Trading-Bot",
-    "lang": "",
-    "desc": "Ethereum Trading Bot for Uniswap and Sushiswap"
-  },
-  {
-    "createdAt": "2025-07-27T14:32:46Z",
-    "stars": 301,
-    "name": "kubenote/KubeForge",
-    "url": "https://github.com/kubenote/KubeForge",
-    "lang": "TypeScript",
-    "desc": "Visual Editor for Kubernetes Deployments"
-  },
-  {
-    "createdAt": "2025-07-27T06:01:44Z",
-    "stars": 285,
-    "name": "SkyworkAI/UniPic",
-    "url": "https://github.com/SkyworkAI/UniPic",
-    "lang": "Python",
-    "desc": "Unified Autoregressive Modeling for Visual Understanding and Generation"
-  },
-  {
-    "createdAt": "2025-07-31T08:02:49Z",
-    "stars": 281,
-    "name": "groq/openbench",
-    "url": "https://github.com/groq/openbench",
-    "lang": "Python",
-    "desc": "Provider-agnostic, open-source evaluation infrastructure for language models"
-  },
-  {
-    "createdAt": "2025-07-29T05:56:00Z",
-    "stars": 271,
-    "name": "InsForge/InsForge",
-    "url": "https://github.com/InsForge/InsForge",
-    "lang": "TypeScript",
-    "desc": "InsForge is the Agent-Native Supabase Alternative. We are building the features of Supabase in an AI-native way, enabling AI agents to build and manage full-stack applications autonomously."
-  },
-  {
-    "createdAt": "2025-08-02T10:19:05Z",
-    "stars": 270,
-    "name": "rawandahmad698/Recap",
-    "url": "https://github.com/rawandahmad698/Recap",
-    "lang": "Swift",
-    "desc": "Open Source, Privacy-First, macOS-Native AI Meeting Summary "
-  },
-  {
-    "createdAt": "2025-07-29T11:39:54Z",
-    "stars": 266,
-    "name": "X-Omni-Team/X-Omni",
-    "url": "https://github.com/X-Omni-Team/X-Omni",
-    "lang": "Python",
-    "desc": "Official inference code and LongText-Bench benchmark for our paper X-Omni (https://arxiv.org/pdf/2507.22058)."
-  },
-  {
-    "createdAt": "2025-07-27T15:35:50Z",
-    "stars": 255,
-    "name": "Dravine1vDf7/ChatGPT-Bot",
-    "url": "https://github.com/Dravine1vDf7/ChatGPT-Bot",
-    "lang": "",
-    "desc": "ChatGPT Bot - AI-powered conversation tool"
-  },
-  {
     "createdAt": "2025-07-28T10:10:58Z",
-    "stars": 248,
+    "stars": 412,
     "name": "leigest519/ScreenCoder",
     "url": "https://github.com/leigest519/ScreenCoder",
     "lang": "Python",
     "desc": "ScreenCoder — Turn any UI screenshot into clean, editable HTML/CSS with full control. Fast, accurate, and easy to customize."
   },
   {
-    "createdAt": "2025-07-28T11:42:06Z",
-    "stars": 243,
-    "name": "formulahendry/mcp-server-spec-driven-development",
-    "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
-    "lang": "TypeScript",
-    "desc": "Spec-Driven Development MCP Server, no just Vibe Coding"
+    "createdAt": "2025-07-29T14:38:05Z",
+    "stars": 404,
+    "name": "ColvoxvadSex/Ethereum-Trading-Bot",
+    "url": "https://github.com/ColvoxvadSex/Ethereum-Trading-Bot",
+    "lang": "",
+    "desc": "Ethereum Trading Bot for Uniswap and Sushiswap"
   },
   {
-    "createdAt": "2025-07-27T22:12:35Z",
-    "stars": 240,
-    "name": "babycommando/zuse",
-    "url": "https://github.com/babycommando/zuse",
-    "lang": "Go",
-    "desc": "ZUSE is an irc client for the terminal made in Go with Bubbletea"
+    "createdAt": "2025-08-03T07:04:42Z",
+    "stars": 375,
+    "name": "kyxiaxiang/CobaltStrikeBeaconCppSource",
+    "url": "https://github.com/kyxiaxiang/CobaltStrikeBeaconCppSource",
+    "lang": "C++",
+    "desc": "Out-of-the-box CobaltStrike Beacon source code use C++"
+  },
+  {
+    "createdAt": "2025-08-02T10:19:05Z",
+    "stars": 339,
+    "name": "RecapAI/Recap",
+    "url": "https://github.com/RecapAI/Recap",
+    "lang": "Swift",
+    "desc": "Open Source, Privacy-First, macOS-Native AI Meeting Summary "
+  },
+  {
+    "createdAt": "2025-07-31T08:02:49Z",
+    "stars": 301,
+    "name": "groq/openbench",
+    "url": "https://github.com/groq/openbench",
+    "lang": "Python",
+    "desc": "Provider-agnostic, open-source evaluation infrastructure for language models"
+  },
+  {
+    "createdAt": "2025-07-29T11:39:54Z",
+    "stars": 291,
+    "name": "X-Omni-Team/X-Omni",
+    "url": "https://github.com/X-Omni-Team/X-Omni",
+    "lang": "Python",
+    "desc": "Official inference code and LongText-Bench benchmark for our paper X-Omni (https://arxiv.org/pdf/2507.22058)."
+  },
+  {
+    "createdAt": "2025-07-29T05:56:00Z",
+    "stars": 287,
+    "name": "InsForge/InsForge",
+    "url": "https://github.com/InsForge/InsForge",
+    "lang": "TypeScript",
+    "desc": "InsForge is the Agent-Native Supabase Alternative. We are building the features of Supabase in an AI-native way, enabling AI agents to build and manage full-stack applications autonomously."
+  },
+  {
+    "createdAt": "2025-08-02T14:15:27Z",
+    "stars": 274,
+    "name": "8ZenrithsteWbI/MEV-UniswapBot",
+    "url": "https://github.com/8ZenrithsteWbI/MEV-UniswapBot",
+    "lang": "Python",
+    "desc": "MEV Uniswap Bot – A sophisticated bot built for executing MEV-based trading strategies, including sandwich attacks, on Uniswap. Maximizes profitability with high security and compatibility across EVM networks. Perfect for traders and developers looking to capitalize on Ethereum's mempool opportunities and automated trading solutions."
+  },
+  {
+    "createdAt": "2025-08-03T11:03:25Z",
+    "stars": 253,
+    "name": "QwenLM/Qwen-Image",
+    "url": "https://github.com/QwenLM/Qwen-Image",
+    "lang": "Python",
+    "desc": "Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing."
   },
   {
     "createdAt": "2025-07-30T18:19:10Z",
-    "stars": 217,
+    "stars": 252,
     "name": "krea-ai/flux-krea",
     "url": "https://github.com/krea-ai/flux-krea",
     "lang": "Python",
     "desc": "Official GitHub repository for FLUX.1 Krea [dev]."
   },
   {
-    "createdAt": "2025-07-29T06:17:14Z",
-    "stars": 212,
-    "name": "hhftechnology/traefik-log-dashboard",
-    "url": "https://github.com/hhftechnology/traefik-log-dashboard",
+    "createdAt": "2025-07-28T11:42:06Z",
+    "stars": 248,
+    "name": "formulahendry/mcp-server-spec-driven-development",
+    "url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
     "lang": "TypeScript",
-    "desc": "A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js."
-  },
-  {
-    "createdAt": "2025-07-27T14:48:13Z",
-    "stars": 209,
-    "name": "zhsama/claude-sub-agent",
-    "url": "https://github.com/zhsama/claude-sub-agent",
-    "lang": "",
-    "desc": "AI-driven development workflow system built on Claude Code Sub-Agents."
-  },
-  {
-    "createdAt": "2025-07-27T04:14:28Z",
-    "stars": 208,
-    "name": "asynchronous-x/snake-eater-ui",
-    "url": "https://github.com/asynchronous-x/snake-eater-ui",
-    "lang": "TypeScript",
-    "desc": "snake eater Component Library"
-  },
-  {
-    "createdAt": "2025-07-28T10:52:42Z",
-    "stars": 202,
-    "name": "NU-QRG/optiml",
-    "url": "https://github.com/NU-QRG/optiml",
-    "lang": "C++",
-    "desc": "Acceleration library for LLM agents."
+    "desc": "Spec-Driven Development MCP Server, no just Vibe Coding"
   },
   {
     "createdAt": "2025-08-01T11:30:01Z",
-    "stars": 197,
+    "stars": 242,
     "name": "MetaStone-AI/XBai-o4",
     "url": "https://github.com/MetaStone-AI/XBai-o4",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-07-30T13:49:55Z",
-    "stars": 197,
-    "name": "peachey2k2/relayouter",
-    "url": "https://github.com/peachey2k2/relayouter",
-    "lang": "Assembly",
-    "desc": "minimal, multi-process, super fast http server written in assembly"
+    "createdAt": "2025-07-28T10:52:42Z",
+    "stars": 231,
+    "name": "NU-QRG/optiml",
+    "url": "https://github.com/NU-QRG/optiml",
+    "lang": "C++",
+    "desc": "Acceleration library for LLM agents."
   },
   {
-    "createdAt": "2025-07-27T08:19:02Z",
-    "stars": 194,
-    "name": "uwarp-id/solana-trading-bot",
-    "url": "https://github.com/uwarp-id/solana-trading-bot",
+    "createdAt": "2025-07-29T06:17:14Z",
+    "stars": 225,
+    "name": "hhftechnology/traefik-log-dashboard",
+    "url": "https://github.com/hhftechnology/traefik-log-dashboard",
     "lang": "TypeScript",
-    "desc": ""
+    "desc": "A real-time dashboard for analyzing Traefik logs with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js."
   },
   {
-    "createdAt": "2025-07-27T19:06:36Z",
-    "stars": 181,
-    "name": "vvb2060/PackageInstaller",
-    "url": "https://github.com/vvb2060/PackageInstaller",
+    "createdAt": "2025-07-31T06:15:13Z",
+    "stars": 219,
+    "name": "wecode-ai/RunVSAgent",
+    "url": "https://github.com/wecode-ai/RunVSAgent",
     "lang": "Kotlin",
-    "desc": "A lightweight yet powerful package installer for Android."
+    "desc": "Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment."
   },
   {
     "createdAt": "2025-08-02T17:20:54Z",
-    "stars": 180,
+    "stars": 217,
     "name": "Gezine/BD-JB-1250",
     "url": "https://github.com/Gezine/BD-JB-1250",
     "lang": "Java",
     "desc": "BD-JB for up to PS4 12.50"
   },
   {
-    "createdAt": "2025-07-27T17:34:34Z",
-    "stars": 174,
-    "name": "segmentationf4u1t/trae_telemetry_research",
-    "url": "https://github.com/segmentationf4u1t/trae_telemetry_research",
+    "createdAt": "2025-07-30T13:49:55Z",
+    "stars": 201,
+    "name": "peachey2k2/relayouter",
+    "url": "https://github.com/peachey2k2/relayouter",
+    "lang": "Assembly",
+    "desc": "minimal, multi-process, super fast http server written in assembly"
+  },
+  {
+    "createdAt": "2025-08-02T15:21:59Z",
+    "stars": 198,
+    "name": "andrewarrow/starchive",
+    "url": "https://github.com/andrewarrow/starchive",
+    "lang": "Go",
+    "desc": "browser plugin to send youtube videos to local backend"
+  },
+  {
+    "createdAt": "2025-07-31T09:40:40Z",
+    "stars": 193,
+    "name": "yangjingyuan0828/awesome-yangjingyuan",
+    "url": "https://github.com/yangjingyuan0828/awesome-yangjingyuan",
     "lang": "",
-    "desc": ""
+    "desc": "全面记录杨景媛事件前因后果。A curated collection of remarkable stories, images, and insights documenting Yang Jingyuan."
   },
   {
     "createdAt": "2025-07-30T19:55:40Z",
-    "stars": 172,
+    "stars": 178,
     "name": "kongkongyo/Ai-Markmap",
     "url": "https://github.com/kongkongyo/Ai-Markmap",
     "lang": "HTML",
     "desc": "一个基于 Markmap 的在线AI思维导图工具，可将文本或Markdown一键转换为精美的思维导图，支持自定义API和导出PNG。  A web-based AI mind map tool using Markmap. Instantly converts text or Markdown into beautiful mind maps, supporting custom APIs and PNG export."
   },
   {
-    "createdAt": "2025-07-27T22:03:15Z",
-    "stars": 170,
-    "name": "wyhlovecpp/GPT-Image-Edit",
-    "url": "https://github.com/wyhlovecpp/GPT-Image-Edit",
-    "lang": "Python",
-    "desc": "GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset"
-  },
-  {
-    "createdAt": "2025-07-27T11:29:40Z",
-    "stars": 165,
-    "name": "AizenvoltPrime/claude-setup",
-    "url": "https://github.com/AizenvoltPrime/claude-setup",
-    "lang": "Python",
-    "desc": ""
+    "createdAt": "2025-07-29T08:40:53Z",
+    "stars": 169,
+    "name": "saatvik333/wayland-bongocat",
+    "url": "https://github.com/saatvik333/wayland-bongocat",
+    "lang": "C++",
+    "desc": "bongocat for your desktop ₍^. .^₎"
   },
   {
     "createdAt": "2025-07-31T16:28:45Z",
@@ -288,68 +240,36 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-07-27T07:54:46Z",
-    "stars": 164,
-    "name": "QiuChenly/fkOS",
-    "url": "https://github.com/QiuChenly/fkOS",
-    "lang": "",
-    "desc": "fuck os，新时代反版权主义先锋。"
-  },
-  {
-    "createdAt": "2025-07-31T09:40:40Z",
-    "stars": 160,
-    "name": "yangjingyuan0828/awesome-yangjingyuan",
-    "url": "https://github.com/yangjingyuan0828/awesome-yangjingyuan",
-    "lang": "",
-    "desc": "全面记录杨景媛事件前因后果。A curated collection of remarkable stories, images, and insights documenting Yang Jingyuan."
-  },
-  {
-    "createdAt": "2025-08-02T15:21:59Z",
-    "stars": 159,
-    "name": "andrewarrow/starchive",
-    "url": "https://github.com/andrewarrow/starchive",
-    "lang": "Go",
-    "desc": "browser plugin to send youtube videos to local backend"
-  },
-  {
-    "createdAt": "2025-08-03T07:04:42Z",
-    "stars": 158,
-    "name": "kyxiaxiang/CobaltStrikeBeaconCppSource",
-    "url": "https://github.com/kyxiaxiang/CobaltStrikeBeaconCppSource",
-    "lang": "C++",
-    "desc": "Out-of-the-box CobaltStrike Beacon source code use C++"
-  },
-  {
-    "createdAt": "2025-07-31T06:15:13Z",
-    "stars": 157,
-    "name": "wecode-ai/RunVSAgent",
-    "url": "https://github.com/wecode-ai/RunVSAgent",
-    "lang": "Kotlin",
-    "desc": "Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment."
-  },
-  {
-    "createdAt": "2025-07-27T08:34:26Z",
-    "stars": 157,
-    "name": "chinrain/Api-Conversion",
-    "url": "https://github.com/chinrain/Api-Conversion",
+    "createdAt": "2025-07-31T09:05:59Z",
+    "stars": 155,
+    "name": "NanoNets/docstrange",
+    "url": "https://github.com/NanoNets/docstrange",
     "lang": "Python",
-    "desc": ""
+    "desc": "Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent content extraction and advanced OCR."
   },
   {
-    "createdAt": "2025-07-27T00:01:46Z",
-    "stars": 147,
-    "name": "sameerasw/airsync-mac",
-    "url": "https://github.com/sameerasw/airsync-mac",
-    "lang": "Swift",
-    "desc": "AirSync 2.0 macOS - Bring the forbidden continuity to Android"
+    "createdAt": "2025-07-29T23:47:08Z",
+    "stars": 148,
+    "name": "Saquib764/omini-kontext",
+    "url": "https://github.com/Saquib764/omini-kontext",
+    "lang": "Python",
+    "desc": "An inference and training framework for multiple image input in Flux Kontext dev"
   },
   {
-    "createdAt": "2025-07-27T01:42:06Z",
+    "createdAt": "2025-07-29T08:37:47Z",
+    "stars": 144,
+    "name": "Tencent-Hunyuan/MixGRPO",
+    "url": "https://github.com/Tencent-Hunyuan/MixGRPO",
+    "lang": "Python",
+    "desc": "MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE"
+  },
+  {
+    "createdAt": "2025-07-31T13:26:19Z",
     "stars": 143,
-    "name": "catcat-blog/NetMirror",
-    "url": "https://github.com/catcat-blog/NetMirror",
-    "lang": "Vue",
-    "desc": "Another Looking-glass Server"
+    "name": "rit3zh/expo-liquid-glass-view",
+    "url": "https://github.com/rit3zh/expo-liquid-glass-view",
+    "lang": "TypeScript",
+    "desc": "🚀 Native liquid glass 🧊 views for Expo. Powered by SwiftUI + expo-modules-core"
   },
   {
     "createdAt": "2025-08-02T11:27:37Z",
@@ -360,43 +280,123 @@
     "desc": "This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio."
   },
   {
-    "createdAt": "2025-07-29T08:40:53Z",
-    "stars": 139,
-    "name": "saatvik333/wayland-bongocat",
-    "url": "https://github.com/saatvik333/wayland-bongocat",
-    "lang": "C++",
-    "desc": "bongocat for your desktop ₍^. .^₎"
-  },
-  {
-    "createdAt": "2025-07-27T18:03:16Z",
-    "stars": 138,
-    "name": "octra-labs/ocs01-test",
-    "url": "https://github.com/octra-labs/ocs01-test",
+    "createdAt": "2025-07-30T02:00:38Z",
+    "stars": 135,
+    "name": "seeyebe/gmap",
+    "url": "https://github.com/seeyebe/gmap",
     "lang": "Rust",
-    "desc": "contract pre testing (OCS01 standard)"
-  },
-  {
-    "createdAt": "2025-07-31T13:26:19Z",
-    "stars": 137,
-    "name": "rit3zh/expo-liquid-glass-view",
-    "url": "https://github.com/rit3zh/expo-liquid-glass-view",
-    "lang": "TypeScript",
-    "desc": "🚀 Native liquid glass 🧊 views for Expo — with blur, tint, corner styles, and morphing effects. Powered by SwiftUI + expo-modules-core"
-  },
-  {
-    "createdAt": "2025-07-27T22:44:55Z",
-    "stars": 127,
-    "name": "hopscott45mv/ChatGPT-Micro-Cap-Experiment",
-    "url": "https://github.com/hopscott45mv/ChatGPT-Micro-Cap-Experiment",
-    "lang": "JavaScript",
-    "desc": "This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio."
+    "desc": "Command-line tool for visualizing Git activity"
   },
   {
     "createdAt": "2025-07-29T13:42:07Z",
-    "stars": 126,
+    "stars": 132,
     "name": "Buywatermelon/claude-relay-monorepo",
     "url": "https://github.com/Buywatermelon/claude-relay-monorepo",
     "lang": "TypeScript",
     "desc": "一个现代化的 Claude API 代理服务，基于 Cloudflare Workers 构建"
+  },
+  {
+    "createdAt": "2025-08-01T14:23:51Z",
+    "stars": 129,
+    "name": "CodingWithLewis/ReceiptPrinterAgent",
+    "url": "https://github.com/CodingWithLewis/ReceiptPrinterAgent",
+    "lang": "Python",
+    "desc": "From my video: I Fixed my ADHD with a Receipt Printer"
+  },
+  {
+    "createdAt": "2025-08-02T11:01:43Z",
+    "stars": 123,
+    "name": "rit3zh/expo-animated-toast",
+    "url": "https://github.com/rit3zh/expo-animated-toast",
+    "lang": "TypeScript",
+    "desc": " 🍞 Minimal animated toast UI for Expo + React Native with custom content, actions, and polish."
+  },
+  {
+    "createdAt": "2025-07-31T20:02:17Z",
+    "stars": 122,
+    "name": "NoahCagle/MCDB",
+    "url": "https://github.com/NoahCagle/MCDB",
+    "lang": "Java",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-31T04:26:33Z",
+    "stars": 117,
+    "name": "PeNgzzzzz/AI-Agent-for-a-Commerce-Website",
+    "url": "https://github.com/PeNgzzzzz/AI-Agent-for-a-Commerce-Website",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-29T19:07:48Z",
+    "stars": 113,
+    "name": "openflocon/Flocon",
+    "url": "https://github.com/openflocon/Flocon",
+    "lang": "Kotlin",
+    "desc": "A powerful desktop companion for Android apps — inspect, debug, and control your app in real time. Supports OkHttp, GraphQl, GRPC"
+  },
+  {
+    "createdAt": "2025-07-29T20:51:17Z",
+    "stars": 111,
+    "name": "MaskerPRC/everything-ai-chat",
+    "url": "https://github.com/MaskerPRC/everything-ai-chat",
+    "lang": "JavaScript",
+    "desc": "一个现代化的 Everything 搜索客户端，将 AI 智能与极速本地搜索完美结合。"
+  },
+  {
+    "createdAt": "2025-07-28T06:53:06Z",
+    "stars": 108,
+    "name": "0voice/Awesome_c-cpp_Projects",
+    "url": "https://github.com/0voice/Awesome_c-cpp_Projects",
+    "lang": "C++",
+    "desc": "2025年 最新收录整理 300+ 个高质量的 C/C++ 项目，包括但不限于核心开发、基础工具、系统与并发、系统编程、图形处理、网络通信、数据处理、应用框架、开源工具、嵌入式开发等多个领域。适合学习、参考和实战。"
+  },
+  {
+    "createdAt": "2025-08-03T05:46:08Z",
+    "stars": 106,
+    "name": "easrng/tsints",
+    "url": "https://github.com/easrng/tsints",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-07-29T21:23:29Z",
+    "stars": 104,
+    "name": "0xflux/Hells-Hollow",
+    "url": "https://github.com/0xflux/Hells-Hollow",
+    "lang": "Rust",
+    "desc": "Hells Hollow Windows 11 Rootkit technique to Hook the SSDT via Alt Syscalls"
+  },
+  {
+    "createdAt": "2025-07-28T11:00:49Z",
+    "stars": 103,
+    "name": "madebyankur/lisere",
+    "url": "https://github.com/madebyankur/lisere",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-02T02:37:05Z",
+    "stars": 103,
+    "name": "dmlgzs/StarResonanceDamageCounter",
+    "url": "https://github.com/dmlgzs/StarResonanceDamageCounter",
+    "lang": "JavaScript",
+    "desc": "Damage Counter for Star Resonance"
+  },
+  {
+    "createdAt": "2025-08-02T05:14:24Z",
+    "stars": 102,
+    "name": "nelsonmis/instablaster",
+    "url": "https://github.com/nelsonmis/instablaster",
+    "lang": "",
+    "desc": "Instagram Automation"
+  },
+  {
+    "createdAt": "2025-07-28T14:34:09Z",
+    "stars": 102,
+    "name": "debba/rewindtty",
+    "url": "https://github.com/debba/rewindtty",
+    "lang": "C",
+    "desc": "A terminal session recorder and replayer written in C that allows you to capture and replay terminal sessions with precise timing."
   }
 ]
