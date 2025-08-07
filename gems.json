@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-08-05T03:30:24Z",
-    "stars": 2901,
+    "stars": 4950,
     "name": "KittenML/KittenTTS",
     "url": "https://github.com/KittenML/KittenTTS",
     "lang": "Python",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-07-31T16:10:01Z",
-    "stars": 2600,
+    "stars": 3019,
     "name": "openai/harmony",
     "url": "https://github.com/openai/harmony",
     "lang": "Rust",
@@ -17,39 +17,39 @@
   },
   {
     "createdAt": "2025-08-03T11:03:25Z",
-    "stars": 1925,
+    "stars": 2156,
     "name": "QwenLM/Qwen-Image",
     "url": "https://github.com/QwenLM/Qwen-Image",
     "lang": "Python",
     "desc": "Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing."
   },
   {
-    "createdAt": "2025-07-30T11:03:59Z",
-    "stars": 1188,
-    "name": "rednote-hilab/dots.ocr",
-    "url": "https://github.com/rednote-hilab/dots.ocr",
-    "lang": "Python",
-    "desc": "Multilingual Document Layout Parsing in a Single Vision-Language Model"
-  },
-  {
-    "createdAt": "2025-08-03T07:04:42Z",
-    "stars": 760,
-    "name": "kyxiaxiang/CobaltStrikeBeaconCppSource",
-    "url": "https://github.com/kyxiaxiang/CobaltStrikeBeaconCppSource",
-    "lang": "C++",
-    "desc": "Out-of-the-box CobaltStrike Beacon source code use C++"
-  },
-  {
     "createdAt": "2025-08-05T12:40:31Z",
-    "stars": 541,
+    "stars": 805,
     "name": "Mursor/LIVE",
     "url": "https://github.com/Mursor/LIVE",
     "lang": "",
     "desc": "Mursor的直播源收藏仓库"
   },
   {
+    "createdAt": "2025-08-04T11:11:27Z",
+    "stars": 802,
+    "name": "shuding/bidc",
+    "url": "https://github.com/shuding/bidc",
+    "lang": "TypeScript",
+    "desc": "Bidirectional Channels for JavaScript"
+  },
+  {
+    "createdAt": "2025-08-03T07:04:42Z",
+    "stars": 782,
+    "name": "kyxiaxiang/CobaltStrikeBeaconCppSource",
+    "url": "https://github.com/kyxiaxiang/CobaltStrikeBeaconCppSource",
+    "lang": "C++",
+    "desc": "Out-of-the-box CobaltStrike Beacon source code use C++"
+  },
+  {
     "createdAt": "2025-07-31T22:01:49Z",
-    "stars": 524,
+    "stars": 528,
     "name": "dmtrKovalenko/fff.nvim",
     "url": "https://github.com/dmtrKovalenko/fff.nvim",
     "lang": "Lua",
@@ -57,59 +57,83 @@
   },
   {
     "createdAt": "2025-08-02T10:19:05Z",
-    "stars": 500,
+    "stars": 524,
     "name": "RecapAI/Recap",
     "url": "https://github.com/RecapAI/Recap",
     "lang": "Swift",
     "desc": "Open Source, Privacy-First, macOS-Native AI Meeting Summary "
   },
   {
-    "createdAt": "2025-08-04T11:11:27Z",
-    "stars": 388,
-    "name": "shuding/bidc",
-    "url": "https://github.com/shuding/bidc",
-    "lang": "TypeScript",
-    "desc": "Bidirectional Channels for JavaScript"
+    "createdAt": "2025-08-04T06:20:29Z",
+    "stars": 485,
+    "name": "kinexbt/xrpl-trading-bot",
+    "url": "https://github.com/kinexbt/xrpl-trading-bot",
+    "lang": "JavaScript",
+    "desc": "copy-trading and sniping support on xrpl amm, telegram control implemented"
+  },
+  {
+    "createdAt": "2025-08-04T16:07:27Z",
+    "stars": 467,
+    "name": "anthropics/claude-code-security-review",
+    "url": "https://github.com/anthropics/claude-code-security-review",
+    "lang": "Python",
+    "desc": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities."
   },
   {
     "createdAt": "2025-07-31T08:02:49Z",
-    "stars": 345,
+    "stars": 348,
     "name": "groq/openbench",
     "url": "https://github.com/groq/openbench",
     "lang": "Python",
     "desc": "Provider-agnostic, open-source evaluation infrastructure for language models"
   },
   {
-    "createdAt": "2025-07-30T12:31:51Z",
-    "stars": 309,
-    "name": "VoltAgent/awesome-claude-code-subagents",
-    "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-    "lang": "",
-    "desc": "Production-ready Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations."
+    "createdAt": "2025-08-05T17:46:56Z",
+    "stars": 346,
+    "name": "mshumer/gpt-pro-mode",
+    "url": "https://github.com/mshumer/gpt-pro-mode",
+    "lang": "Jupyter Notebook",
+    "desc": ""
   },
   {
     "createdAt": "2025-08-03T07:23:01Z",
-    "stars": 298,
+    "stars": 323,
     "name": "YanjieZe/GMR",
     "url": "https://github.com/YanjieZe/GMR",
     "lang": "Python",
     "desc": "GMR: General Motion Retargeting. Retarget human motions into diverse humanoid robots in real time on CPU. Retargeter for TWIST."
   },
   {
-    "createdAt": "2025-07-30T18:19:10Z",
-    "stars": 285,
-    "name": "krea-ai/flux-krea",
-    "url": "https://github.com/krea-ai/flux-krea",
-    "lang": "Python",
-    "desc": "Official GitHub repository for FLUX.1 Krea [dev]."
+    "createdAt": "2025-07-31T09:40:40Z",
+    "stars": 297,
+    "name": "yangjingyuan0828/awesome-yangjingyuan",
+    "url": "https://github.com/yangjingyuan0828/awesome-yangjingyuan",
+    "lang": "",
+    "desc": "杨景媛（武汉大学）事件前因后果记录。A curated collection of remarkable stories, images, and insights documenting Yang Jingyuan."
   },
   {
     "createdAt": "2025-07-31T06:15:13Z",
-    "stars": 278,
+    "stars": 291,
     "name": "wecode-ai/RunVSAgent",
     "url": "https://github.com/wecode-ai/RunVSAgent",
     "lang": "Kotlin",
     "desc": "Run VSCode-based coding agents and extensions seamlessly within other IDE platforms - bridging the gap between VSCode ecosystem and other development environment."
+  },
+  {
+    "createdAt": "2025-08-01T12:35:15Z",
+    "stars": 276,
+    "name": "huggingface/gpt-oss-recipes",
+    "url": "https://github.com/huggingface/gpt-oss-recipes",
+    "lang": "Jupyter Notebook",
+    "desc": "Collection of scripts and notebooks for OpenAI's latest GPT OSS models"
+  },
+  {
+    "createdAt": "2025-08-01T11:30:01Z",
+    "stars": 275,
+    "name": "MetaStone-AI/XBai-o4",
+    "url": "https://github.com/MetaStone-AI/XBai-o4",
+    "lang": "Python",
+    "desc": ""
   },
   {
     "createdAt": "2025-07-31T08:17:52Z",
@@ -120,88 +144,32 @@
     "desc": "✌️ The my source code for my Uniswap MEVbot. Complete instructions, usage guidelines, and access details are available in the README"
   },
   {
-    "createdAt": "2025-08-01T11:30:01Z",
+    "createdAt": "2025-08-07T14:53:55Z",
     "stars": 272,
-    "name": "MetaStone-AI/XBai-o4",
-    "url": "https://github.com/MetaStone-AI/XBai-o4",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-06T17:46:09Z",
-    "stars": 272,
-    "name": "4ArvanekhbLt/MEV-by-JaredFromSubway",
-    "url": "https://github.com/4ArvanekhbLt/MEV-by-JaredFromSubway",
-    "lang": "",
-    "desc": "MEV 2 Bot by JaredFromSubway"
-  },
-  {
-    "createdAt": "2025-07-30T03:51:50Z",
-    "stars": 270,
-    "name": "nextify-limited/libra",
-    "url": "https://github.com/nextify-limited/libra",
-    "lang": "TypeScript",
-    "desc": "The open-source V0/Lovable alternative"
+    "name": "Foulvelstingw3S/Github-Mev-Bot",
+    "url": "https://github.com/Foulvelstingw3S/Github-Mev-Bot",
+    "lang": "Solidity",
+    "desc": "✅ Github ⚡ Source code and instructions for creating a passive income tool using an MEV bot.⚡Detailed setup and launch instructions for the MEV bot are available in the Readme file."
   },
   {
     "createdAt": "2025-08-02T17:20:54Z",
-    "stars": 255,
+    "stars": 271,
     "name": "Gezine/BD-JB-1250",
     "url": "https://github.com/Gezine/BD-JB-1250",
     "lang": "Java",
     "desc": "BD-JB for up to PS4 12.50"
   },
   {
-    "createdAt": "2025-07-31T09:40:40Z",
-    "stars": 254,
-    "name": "yangjingyuan0828/awesome-yangjingyuan",
-    "url": "https://github.com/yangjingyuan0828/awesome-yangjingyuan",
-    "lang": "",
-    "desc": "杨景媛（武汉大学）事件前因后果记录。A curated collection of remarkable stories, images, and insights documenting Yang Jingyuan."
-  },
-  {
-    "createdAt": "2025-08-05T17:46:56Z",
-    "stars": 243,
-    "name": "mshumer/gpt-oss-pro-mode",
-    "url": "https://github.com/mshumer/gpt-oss-pro-mode",
-    "lang": "Jupyter Notebook",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-07-30T03:26:21Z",
-    "stars": 236,
-    "name": "xiaomi-research/dasheng-lm",
-    "url": "https://github.com/xiaomi-research/dasheng-lm",
-    "lang": "Python",
-    "desc": "Efficient audio understanding with general audio captions"
-  },
-  {
-    "createdAt": "2025-07-30T13:49:55Z",
-    "stars": 224,
-    "name": "peachey2k2/relayouter",
-    "url": "https://github.com/peachey2k2/relayouter",
-    "lang": "Assembly",
-    "desc": "minimal, multi-process, super fast http server written in assembly"
-  },
-  {
-    "createdAt": "2025-07-31T17:36:55Z",
-    "stars": 217,
-    "name": "Lucranam/Gift-Buyer-Tg",
-    "url": "https://github.com/Lucranam/Gift-Buyer-Tg",
-    "lang": "Python",
-    "desc": "A bot that searches for new gifts in telegram and purchases them based on your criteria. Supports integration with Telegram bot."
-  },
-  {
-    "createdAt": "2025-08-01T12:35:15Z",
-    "stars": 214,
-    "name": "huggingface/gpt-oss-recipes",
-    "url": "https://github.com/huggingface/gpt-oss-recipes",
-    "lang": "Jupyter Notebook",
-    "desc": "Collection of scripts and notebooks for OpenAI's latest GPT OSS models"
+    "createdAt": "2025-08-07T01:06:40Z",
+    "stars": 262,
+    "name": "openai/gpt-5-coding-examples",
+    "url": "https://github.com/openai/gpt-5-coding-examples",
+    "lang": "HTML",
+    "desc": "GPT-5 coding examples"
   },
   {
     "createdAt": "2025-08-02T15:21:59Z",
-    "stars": 207,
+    "stars": 211,
     "name": "andrewarrow/starchive",
     "url": "https://github.com/andrewarrow/starchive",
     "lang": "Go",
@@ -209,23 +177,15 @@
   },
   {
     "createdAt": "2025-07-31T09:05:59Z",
-    "stars": 192,
+    "stars": 203,
     "name": "NanoNets/docstrange",
     "url": "https://github.com/NanoNets/docstrange",
     "lang": "Python",
     "desc": "Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent content extraction and advanced OCR."
   },
   {
-    "createdAt": "2025-07-30T19:55:40Z",
-    "stars": 185,
-    "name": "kongkongyo/Ai-Markmap",
-    "url": "https://github.com/kongkongyo/Ai-Markmap",
-    "lang": "HTML",
-    "desc": "一个基于 Markmap 的在线AI思维导图工具，可将文本或Markdown一键转换为精美的思维导图，支持自定义API和导出PNG。  A web-based AI mind map tool using Markmap. Instantly converts text or Markdown into beautiful mind maps, supporting custom APIs and PNG export."
-  },
-  {
     "createdAt": "2025-08-03T15:47:38Z",
-    "stars": 181,
+    "stars": 197,
     "name": "stretchcloud/claude-code-unified-agents",
     "url": "https://github.com/stretchcloud/claude-code-unified-agents",
     "lang": "Shell",
@@ -233,19 +193,19 @@
   },
   {
     "createdAt": "2025-08-01T14:23:51Z",
-    "stars": 175,
+    "stars": 193,
     "name": "CodingWithLewis/ReceiptPrinterAgent",
     "url": "https://github.com/CodingWithLewis/ReceiptPrinterAgent",
     "lang": "Python",
     "desc": "From my video: I Fixed my ADHD with a Receipt Printer"
   },
   {
-    "createdAt": "2025-08-04T13:35:19Z",
-    "stars": 172,
-    "name": "KorthuDev/grass-bot",
-    "url": "https://github.com/KorthuDev/grass-bot",
-    "lang": "Python",
-    "desc": "A bot for grass auto farm"
+    "createdAt": "2025-08-07T16:03:12Z",
+    "stars": 181,
+    "name": "Wiseilvaneom0/Solana-bot",
+    "url": "https://github.com/Wiseilvaneom0/Solana-bot",
+    "lang": "JavaScript",
+    "desc": "🌫 Smart Solana MEV.. bot — runs in-browser or locally. Instantly analyzes transactions, snags profitable trades on Pump.FUN, Jupiter, and Raydium. Fully automated, lightning-fast, and tuned for top results."
   },
   {
     "createdAt": "2025-07-31T16:28:45Z",
@@ -256,147 +216,187 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-07-31T13:26:19Z",
-    "stars": 153,
-    "name": "rit3zh/expo-liquid-glass-view",
-    "url": "https://github.com/rit3zh/expo-liquid-glass-view",
-    "lang": "TypeScript",
-    "desc": "🚀 Native liquid glass 🧊 views for Expo. Powered by SwiftUI + expo-modules-core"
-  },
-  {
-    "createdAt": "2025-07-30T02:00:38Z",
-    "stars": 151,
-    "name": "seeyebe/gmap",
-    "url": "https://github.com/seeyebe/gmap",
-    "lang": "Rust",
-    "desc": "Command-line tool for visualizing Git activity"
-  },
-  {
     "createdAt": "2025-07-31T20:02:17Z",
-    "stars": 150,
+    "stars": 164,
     "name": "NoahCagle/MCDB",
     "url": "https://github.com/NoahCagle/MCDB",
     "lang": "Java",
     "desc": ""
   },
   {
+    "createdAt": "2025-08-01T01:49:18Z",
+    "stars": 163,
+    "name": "Tencent/CognitiveKernel-Pro",
+    "url": "https://github.com/Tencent/CognitiveKernel-Pro",
+    "lang": "Python",
+    "desc": "Deep Research Agent CognitiveKernel-Pro from Tencent AI Lab. Paper: https://arxiv.org/pdf/2508.00414"
+  },
+  {
     "createdAt": "2025-07-31T04:26:33Z",
-    "stars": 149,
+    "stars": 161,
     "name": "PeNgzzzzz/AI-Agent-for-a-Commerce-Website",
     "url": "https://github.com/PeNgzzzzz/AI-Agent-for-a-Commerce-Website",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-04T14:35:43Z",
-    "stars": 140,
-    "name": "KorthuDev/MonadTestnet-Bot",
-    "url": "https://github.com/KorthuDev/MonadTestnet-Bot",
-    "lang": "Python",
-    "desc": "A bot for automated Monad Testnet farm"
-  },
-  {
-    "createdAt": "2025-08-02T12:39:18Z",
-    "stars": 140,
-    "name": "terpinedream/tuxagotchi",
-    "url": "https://github.com/terpinedream/tuxagotchi",
-    "lang": "Python",
-    "desc": "CLI application that encourages you to keep up with your projects. \"Feed\" tux in your terminal by pushing your code to github."
-  },
-  {
-    "createdAt": "2025-08-05T13:34:47Z",
-    "stars": 139,
-    "name": "yutiansut/quant-fund",
-    "url": "https://github.com/yutiansut/quant-fund",
-    "lang": "",
-    "desc": "量化开源基金会"
-  },
-  {
     "createdAt": "2025-08-05T06:20:16Z",
-    "stars": 135,
+    "stars": 160,
     "name": "FoundationVision/Waver",
     "url": "https://github.com/FoundationVision/Waver",
     "lang": "",
     "desc": "A video foundation model for unified Text-to-Video (T2V) and Image-to-Video (I2V) generation."
   },
   {
-    "createdAt": "2025-07-30T06:09:00Z",
-    "stars": 131,
-    "name": "UfoMiao/zcf",
-    "url": "https://github.com/UfoMiao/zcf",
-    "lang": "TypeScript",
-    "desc": "Zero-Config Claude-Code Flow"
-  },
-  {
-    "createdAt": "2025-08-02T11:01:43Z",
-    "stars": 130,
-    "name": "rit3zh/expo-animated-toast",
-    "url": "https://github.com/rit3zh/expo-animated-toast",
-    "lang": "TypeScript",
-    "desc": " 🍞 Minimal animated toast UI for Expo + React Native with custom content, actions, and polish."
-  },
-  {
-    "createdAt": "2025-08-02T02:37:05Z",
-    "stars": 128,
-    "name": "dmlgzs/StarResonanceDamageCounter",
-    "url": "https://github.com/dmlgzs/StarResonanceDamageCounter",
-    "lang": "HTML",
-    "desc": "Damage Counter for Star Resonance"
-  },
-  {
     "createdAt": "2025-08-05T07:25:14Z",
-    "stars": 125,
+    "stars": 160,
     "name": "CelestialRipple/Gamer",
     "url": "https://github.com/CelestialRipple/Gamer",
     "lang": "TypeScript",
     "desc": "A simple personal website built with Next.js featuring a video game theme."
   },
   {
-    "createdAt": "2025-08-03T05:46:08Z",
-    "stars": 124,
-    "name": "easrng/tsints",
-    "url": "https://github.com/easrng/tsints",
+    "createdAt": "2025-07-31T13:26:19Z",
+    "stars": 156,
+    "name": "rit3zh/expo-liquid-glass-view",
+    "url": "https://github.com/rit3zh/expo-liquid-glass-view",
     "lang": "TypeScript",
-    "desc": ""
+    "desc": "🚀 Native liquid glass 🧊 views for Expo. Powered by SwiftUI + expo-modules-core"
   },
   {
-    "createdAt": "2025-07-31T22:46:18Z",
-    "stars": 121,
-    "name": "0xfurai/claude-code-subagents",
-    "url": "https://github.com/0xfurai/claude-code-subagents",
+    "createdAt": "2025-08-05T13:34:47Z",
+    "stars": 153,
+    "name": "yutiansut/quant-fund",
+    "url": "https://github.com/yutiansut/quant-fund",
     "lang": "",
-    "desc": "A comprehensive collection of 100+ production-ready development subagents for Claude Code"
+    "desc": "量化开源基金会"
   },
   {
-    "createdAt": "2025-08-04T16:07:27Z",
-    "stars": 121,
-    "name": "anthropics/claude-code-security-review",
-    "url": "https://github.com/anthropics/claude-code-security-review",
+    "createdAt": "2025-08-06T14:05:14Z",
+    "stars": 147,
+    "name": "berbyte/sinkzone",
+    "url": "https://github.com/berbyte/sinkzone",
+    "lang": "Go",
+    "desc": "Block everything. Allow only what matters. A DNS tool for productivity, focus, and child safety. Allowlist-only internet for distraction-free work."
+  },
+  {
+    "createdAt": "2025-08-02T02:37:05Z",
+    "stars": 144,
+    "name": "dmlgzs/StarResonanceDamageCounter",
+    "url": "https://github.com/dmlgzs/StarResonanceDamageCounter",
+    "lang": "JavaScript",
+    "desc": "Damage Counter for Star Resonance"
+  },
+  {
+    "createdAt": "2025-08-02T12:39:18Z",
+    "stars": 143,
+    "name": "terpinedream/tuxagotchi",
+    "url": "https://github.com/terpinedream/tuxagotchi",
     "lang": "Python",
-    "desc": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities."
+    "desc": "CLI application that encourages you to keep up with your projects. \"Feed\" tux in your terminal by pushing your code to github."
+  },
+  {
+    "createdAt": "2025-08-04T19:10:53Z",
+    "stars": 138,
+    "name": "diinki/linux-retroism",
+    "url": "https://github.com/diinki/linux-retroism",
+    "lang": "CSS",
+    "desc": "A 1990's Retro linux-rice for Hyprland or Sway, based on Quickshell."
   },
   {
     "createdAt": "2025-08-04T06:06:34Z",
-    "stars": 117,
+    "stars": 138,
     "name": "answeryt/Neosgenesis",
     "url": "https://github.com/answeryt/Neosgenesis",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-08-03T19:00:15Z",
+    "stars": 137,
+    "name": "CloudMunchkin/nsfw-ai-vids",
+    "url": "https://github.com/CloudMunchkin/nsfw-ai-vids",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-04T15:45:49Z",
+    "stars": 136,
+    "name": "rednote-hilab/dots.vlm1",
+    "url": "https://github.com/rednote-hilab/dots.vlm1",
+    "lang": "Dockerfile",
+    "desc": "The official repository of the dots.vlm1 instruct models proposed by rednote-hilab."
+  },
+  {
+    "createdAt": "2025-08-06T02:33:29Z",
+    "stars": 131,
+    "name": "kwindla/gpt-oss-space-game",
+    "url": "https://github.com/kwindla/gpt-oss-space-game",
+    "lang": "TypeScript",
+    "desc": "gpt-oss + voice-ui-kit experiment"
+  },
+  {
+    "createdAt": "2025-08-02T11:01:43Z",
+    "stars": 131,
+    "name": "rit3zh/expo-animated-toast",
+    "url": "https://github.com/rit3zh/expo-animated-toast",
+    "lang": "TypeScript",
+    "desc": " 🍞 Minimal animated toast UI for Expo + React Native with custom content, actions, and polish."
+  },
+  {
+    "createdAt": "2025-07-31T22:46:18Z",
+    "stars": 129,
+    "name": "0xfurai/claude-code-subagents",
+    "url": "https://github.com/0xfurai/claude-code-subagents",
+    "lang": "",
+    "desc": "A comprehensive collection of 100+ production-ready development subagents for Claude Code"
+  },
+  {
+    "createdAt": "2025-08-03T05:46:08Z",
+    "stars": 125,
+    "name": "easrng/tsints",
+    "url": "https://github.com/easrng/tsints",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-01T16:48:14Z",
+    "stars": 121,
+    "name": "lxz-jiandan/Overt",
+    "url": "https://github.com/lxz-jiandan/Overt",
+    "lang": "C",
+    "desc": "Overt是一款功能强大的Android设备安全检测工具"
+  },
+  {
+    "createdAt": "2025-08-06T06:25:37Z",
+    "stars": 120,
+    "name": "0xTan1319/prediction-market-fe-be-solana",
+    "url": "https://github.com/0xTan1319/prediction-market-fe-be-solana",
+    "lang": "Rust",
+    "desc": "Solana prediction market project powered by Meteora DLMM, built with the Anchor framework."
+  },
+  {
     "createdAt": "2025-08-03T19:04:22Z",
-    "stars": 112,
+    "stars": 116,
     "name": "rit3zh/expo-ios-popover-tip",
     "url": "https://github.com/rit3zh/expo-ios-popover-tip",
     "lang": "TypeScript",
     "desc": "🧊 SwiftUI-powered Popover Tips for React Native — beautiful, native tooltips using TipKit 💬⚡️ "
   },
   {
-    "createdAt": "2025-08-01T16:48:14Z",
-    "stars": 112,
-    "name": "lxz-jiandan/Overt",
-    "url": "https://github.com/lxz-jiandan/Overt",
-    "lang": "C",
-    "desc": "Overt是一款功能强大的Android设备安全检测工具"
+    "createdAt": "2025-08-06T14:15:59Z",
+    "stars": 114,
+    "name": "gmh5225/aug_cleaner",
+    "url": "https://github.com/gmh5225/aug_cleaner",
+    "lang": "Python",
+    "desc": "清除 Augment Code VSCode 扩展中的遥测和跟踪机制 | A privacy-focused tool to clean telemetry and tracking from Augment Code VSCode extension while preserving full functionality."
+  },
+  {
+    "createdAt": "2025-08-06T21:08:00Z",
+    "stars": 113,
+    "name": "andrewmcwattersandco/git-fetch-file",
+    "url": "https://github.com/andrewmcwattersandco/git-fetch-file",
+    "lang": "Python",
+    "desc": "Fetch and sync individual files or globs from other Git repositories, with commit tracking and local-change protection"
   }
 ]
