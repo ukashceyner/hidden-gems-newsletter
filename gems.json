@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-08-05T03:30:24Z",
-    "stars": 6964,
+    "stars": 7199,
     "name": "KittenML/KittenTTS",
     "url": "https://github.com/KittenML/KittenTTS",
     "lang": "Python",
@@ -9,95 +9,63 @@
   },
   {
     "createdAt": "2025-08-08T13:04:02Z",
-    "stars": 4305,
+    "stars": 6745,
     "name": "mendableai/open-lovable",
     "url": "https://github.com/mendableai/open-lovable",
     "lang": "TypeScript",
     "desc": "🔥 Clone and recreate any website as a modern React app in seconds"
   },
   {
-    "createdAt": "2025-08-04T16:07:27Z",
-    "stars": 1779,
-    "name": "anthropics/claude-code-security-review",
-    "url": "https://github.com/anthropics/claude-code-security-review",
-    "lang": "Python",
-    "desc": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities."
-  },
-  {
-    "createdAt": "2025-08-07T01:06:40Z",
-    "stars": 980,
-    "name": "openai/gpt-5-coding-examples",
-    "url": "https://github.com/openai/gpt-5-coding-examples",
-    "lang": "HTML",
-    "desc": "GPT-5 coding examples"
-  },
-  {
     "createdAt": "2025-08-07T10:29:51Z",
-    "stars": 965,
+    "stars": 1189,
     "name": "office-sec/AionUi",
     "url": "https://github.com/office-sec/AionUi",
     "lang": "TypeScript",
     "desc": "Free, local, open-source GUI app for Gemini CLI — Enhance Chat Experience, Multi-tasking, Code Diff View, File & Project Management, and more | 🌟 Star if you like it!"
   },
   {
-    "createdAt": "2025-08-04T11:11:27Z",
-    "stars": 944,
-    "name": "vercel/bidc",
-    "url": "https://github.com/vercel/bidc",
-    "lang": "TypeScript",
-    "desc": "Bidirectional Channels for JavaScript"
-  },
-  {
-    "createdAt": "2025-08-04T06:20:29Z",
-    "stars": 680,
-    "name": "kinexbt/xrpl-trading-bot",
-    "url": "https://github.com/kinexbt/xrpl-trading-bot",
-    "lang": "JavaScript",
-    "desc": "copy-trading and sniping support on xrpl amm, telegram control implemented"
-  },
-  {
-    "createdAt": "2025-08-05T17:46:56Z",
-    "stars": 449,
-    "name": "mshumer/gpt-pro-mode",
-    "url": "https://github.com/mshumer/gpt-pro-mode",
-    "lang": "Jupyter Notebook",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-09T13:06:28Z",
-    "stars": 437,
-    "name": "dnlzro/horizon",
-    "url": "https://github.com/dnlzro/horizon",
-    "lang": "TypeScript",
-    "desc": "The current sky at your approximate location, rendered as a CSS gradient"
+    "createdAt": "2025-08-07T01:06:40Z",
+    "stars": 1056,
+    "name": "openai/gpt-5-coding-examples",
+    "url": "https://github.com/openai/gpt-5-coding-examples",
+    "lang": "HTML",
+    "desc": "GPT-5 coding examples"
   },
   {
     "createdAt": "2025-08-08T18:52:05Z",
-    "stars": 374,
+    "stars": 545,
     "name": "ravendevteam/betanet",
     "url": "https://github.com/ravendevteam/betanet",
     "lang": "",
     "desc": "The official specification for Betanet."
   },
   {
-    "createdAt": "2025-08-11T11:52:17Z",
-    "stars": 358,
-    "name": "Dravinekdt1Zk/Frontrunning-Mev-Bot",
-    "url": "https://github.com/Dravinekdt1Zk/Frontrunning-Mev-Bot",
-    "lang": "",
-    "desc": "TradeMaster AI: A revolutionary, hands-free trading platform for Ethereum and Binance Smart Chain. Harnesses innovative arbitrage, momentum, and range-bound strategies with a sleek interface. Lowers transaction costs and defends against MEV threats. Dive in at mevbot.online!"
+    "createdAt": "2025-08-09T13:06:28Z",
+    "stars": 459,
+    "name": "dnlzro/horizon",
+    "url": "https://github.com/dnlzro/horizon",
+    "lang": "TypeScript",
+    "desc": "The current sky at your approximate location, rendered as a CSS gradient"
   },
   {
-    "createdAt": "2025-08-08T00:05:52Z",
-    "stars": 330,
-    "name": "km-clay/nixos-wizard",
-    "url": "https://github.com/km-clay/nixos-wizard",
-    "lang": "Rust",
-    "desc": "A TUI installer for NixOS"
+    "createdAt": "2025-08-05T17:46:56Z",
+    "stars": 453,
+    "name": "mshumer/gpt-pro-mode",
+    "url": "https://github.com/mshumer/gpt-pro-mode",
+    "lang": "Jupyter Notebook",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-11T12:03:55Z",
+    "stars": 410,
+    "name": "syncora-ai/uk-retail-synthetic-data-generation",
+    "url": "https://github.com/syncora-ai/uk-retail-synthetic-data-generation",
+    "lang": "",
+    "desc": "Synthetic data generation demo using a UK retail transactional dataset. Ideal for professionals in retail, e-commerce, finance, and supply chain sectors who want to create privacy-preserving, realistic synthetic data for testing, analysis, and machine learning."
   },
   {
     "createdAt": "2025-08-06T19:05:28Z",
-    "stars": 329,
+    "stars": 380,
     "name": "Chengsong-Huang/R-Zero",
     "url": "https://github.com/Chengsong-Huang/R-Zero",
     "lang": "Python",
@@ -105,199 +73,199 @@
   },
   {
     "createdAt": "2025-08-07T14:53:55Z",
-    "stars": 277,
+    "stars": 368,
     "name": "Foulvelstingw3S/Github-Mev-Bot",
     "url": "https://github.com/Foulvelstingw3S/Github-Mev-Bot",
     "lang": "Solidity",
     "desc": "✅ Github ⚡ Source code and instructions for creating a passive income tool using an MEV bot.⚡Detailed setup and launch instructions for the MEV bot are available in the Readme file."
   },
   {
-    "createdAt": "2025-08-04T06:06:34Z",
-    "stars": 239,
-    "name": "answeryt/Neosgenesis",
-    "url": "https://github.com/answeryt/Neosgenesis",
-    "lang": "Python",
-    "desc": ""
+    "createdAt": "2025-08-08T00:05:52Z",
+    "stars": 345,
+    "name": "km-clay/nixos-wizard",
+    "url": "https://github.com/km-clay/nixos-wizard",
+    "lang": "Rust",
+    "desc": "A TUI installer for NixOS"
   },
   {
-    "createdAt": "2025-08-06T15:34:27Z",
-    "stars": 220,
-    "name": "changjonathanc/flex-nano-vllm",
-    "url": "https://github.com/changjonathanc/flex-nano-vllm",
-    "lang": "Python",
-    "desc": "FlexAttention based, minimal vllm-style inference engine for fast Gemma 2 inference."
-  },
-  {
-    "createdAt": "2025-08-06T14:05:14Z",
-    "stars": 220,
-    "name": "berbyte/sinkzone",
-    "url": "https://github.com/berbyte/sinkzone",
-    "lang": "Go",
-    "desc": "Block everything. Allow only what matters. A DNS tool for productivity, focus, and child safety. Allowlist-only internet for distraction-free work."
-  },
-  {
-    "createdAt": "2025-08-09T15:42:09Z",
-    "stars": 210,
-    "name": "ModelTC/Qwen-Image-Lightning",
-    "url": "https://github.com/ModelTC/Qwen-Image-Lightning",
-    "lang": "Python",
-    "desc": "Qwen-Image-Lightning: Speed up Qwen-Image model with distillation"
-  },
-  {
-    "createdAt": "2025-08-07T16:55:58Z",
-    "stars": 209,
-    "name": "KorthuDev/Gift-Buyer-Tg",
-    "url": "https://github.com/KorthuDev/Gift-Buyer-Tg",
-    "lang": "Python",
-    "desc": "A bot that searches for new gifts in telegram and purchases them based on your criteria. Supports integration with Telegram bot."
-  },
-  {
-    "createdAt": "2025-08-04T03:15:47Z",
-    "stars": 208,
-    "name": "ThioJoe/Windows-Sandbox-Tools",
-    "url": "https://github.com/ThioJoe/Windows-Sandbox-Tools",
-    "lang": "PowerShell",
-    "desc": "Various useful scripts for use within Windows Sandbox"
-  },
-  {
-    "createdAt": "2025-08-04T19:10:53Z",
-    "stars": 205,
-    "name": "diinki/linux-retroism",
-    "url": "https://github.com/diinki/linux-retroism",
-    "lang": "CSS",
-    "desc": "A 1990's Retro linux-rice for Hyprland or Sway, based on Quickshell."
-  },
-  {
-    "createdAt": "2025-08-05T06:20:16Z",
-    "stars": 189,
-    "name": "FoundationVision/Waver",
-    "url": "https://github.com/FoundationVision/Waver",
+    "createdAt": "2025-08-07T10:03:21Z",
+    "stars": 313,
+    "name": "shenvithbiz5L/MEV-by-JaredFromSubway",
+    "url": "https://github.com/shenvithbiz5L/MEV-by-JaredFromSubway",
     "lang": "",
-    "desc": "A video foundation model for unified Text-to-Video (T2V) and Image-to-Video (I2V) generation."
+    "desc": "MEV 2 Bot by JaredFromSubway"
   },
   {
     "createdAt": "2025-08-07T16:03:12Z",
-    "stars": 188,
+    "stars": 278,
     "name": "Wiseilvaneom0/Solana-bot",
     "url": "https://github.com/Wiseilvaneom0/Solana-bot",
     "lang": "JavaScript",
     "desc": "🌫 Smart Solana MEV.. bot — runs in-browser or locally. Instantly analyzes transactions, snags profitable trades on Pump.FUN, Jupiter, and Raydium. Fully automated, lightning-fast, and tuned for top results."
   },
   {
+    "createdAt": "2025-08-09T15:42:09Z",
+    "stars": 277,
+    "name": "ModelTC/Qwen-Image-Lightning",
+    "url": "https://github.com/ModelTC/Qwen-Image-Lightning",
+    "lang": "Python",
+    "desc": "Qwen-Image-Lightning: Speed up Qwen-Image model with distillation"
+  },
+  {
+    "createdAt": "2025-08-11T01:03:12Z",
+    "stars": 264,
+    "name": "context-labs/uwu",
+    "url": "https://github.com/context-labs/uwu",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-11T18:54:20Z",
+    "stars": 243,
+    "name": "Matt-Dionis/claude-code-configs",
+    "url": "https://github.com/Matt-Dionis/claude-code-configs",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-06T14:05:14Z",
+    "stars": 240,
+    "name": "berbyte/sinkzone",
+    "url": "https://github.com/berbyte/sinkzone",
+    "lang": "Go",
+    "desc": "Block everything. Allow only what matters. A DNS tool for productivity, focus, and child safety. Allowlist-only internet for distraction-free work."
+  },
+  {
+    "createdAt": "2025-08-06T15:34:27Z",
+    "stars": 226,
+    "name": "changjonathanc/flex-nano-vllm",
+    "url": "https://github.com/changjonathanc/flex-nano-vllm",
+    "lang": "Python",
+    "desc": "FlexAttention based, minimal vllm-style inference engine for fast Gemma 2 inference."
+  },
+  {
     "createdAt": "2025-08-05T09:43:34Z",
-    "stars": 185,
+    "stars": 215,
     "name": "MiroMindAI/MiroFlow",
     "url": "https://github.com/MiroMindAI/MiroFlow",
     "lang": "Python",
     "desc": "Miroflow is an agent framework that simplifies the development of complex, multi-agent systems. Build, manage, and scale your AI agents with ease."
   },
   {
+    "createdAt": "2025-08-07T16:55:58Z",
+    "stars": 212,
+    "name": "KorthuDev/Gift-Buyer-Tg",
+    "url": "https://github.com/KorthuDev/Gift-Buyer-Tg",
+    "lang": "Python",
+    "desc": "A bot that searches for new gifts in telegram and purchases them based on your criteria. Supports integration with Telegram bot."
+  },
+  {
+    "createdAt": "2025-08-08T14:43:46Z",
+    "stars": 212,
+    "name": "danterolle/tilf",
+    "url": "https://github.com/danterolle/tilf",
+    "lang": "Python",
+    "desc": "Tilf (Tiny Elf) is a simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo, and export options."
+  },
+  {
+    "createdAt": "2025-08-05T06:20:16Z",
+    "stars": 192,
+    "name": "FoundationVision/Waver",
+    "url": "https://github.com/FoundationVision/Waver",
+    "lang": "",
+    "desc": "A video foundation model for unified Text-to-Video (T2V) and Image-to-Video (I2V) generation."
+  },
+  {
     "createdAt": "2025-08-05T13:34:47Z",
-    "stars": 183,
+    "stars": 192,
     "name": "OpenQuant-Community/quant-fund",
     "url": "https://github.com/OpenQuant-Community/quant-fund",
     "lang": "",
     "desc": "量化开源基金会"
   },
   {
-    "createdAt": "2025-08-04T15:45:49Z",
-    "stars": 180,
-    "name": "rednote-hilab/dots.vlm1",
-    "url": "https://github.com/rednote-hilab/dots.vlm1",
-    "lang": "Dockerfile",
-    "desc": "The official repository of the dots.vlm1 instruct models proposed by rednote-hilab."
-  },
-  {
-    "createdAt": "2025-08-05T07:25:14Z",
-    "stars": 179,
-    "name": "CelestialRipple/Gamer",
-    "url": "https://github.com/CelestialRipple/Gamer",
-    "lang": "TypeScript",
-    "desc": "A simple personal website built with Next.js featuring a video game theme."
-  },
-  {
-    "createdAt": "2025-08-07T09:35:23Z",
-    "stars": 163,
-    "name": "r-morato/HASS-epaper-display",
-    "url": "https://github.com/r-morato/HASS-epaper-display",
-    "lang": "",
-    "desc": "This project displays key smart home and server stats on a 7.5\" e-paper screen using an ESP32-C3 board running ESPHome."
-  },
-  {
-    "createdAt": "2025-08-05T23:45:23Z",
-    "stars": 158,
-    "name": "devnen/Kitten-TTS-Server",
-    "url": "https://github.com/devnen/Kitten-TTS-Server",
-    "lang": "Python",
-    "desc": "Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration."
-  },
-  {
-    "createdAt": "2025-08-06T21:08:00Z",
-    "stars": 156,
-    "name": "andrewmcwattersandco/git-fetch-file",
-    "url": "https://github.com/andrewmcwattersandco/git-fetch-file",
-    "lang": "Python",
-    "desc": "Fetch and sync individual files or globs from other Git repositories, with commit tracking and local-change protection"
-  },
-  {
-    "createdAt": "2025-08-07T13:32:12Z",
-    "stars": 155,
-    "name": "MiroMindAI/MiroThinker",
-    "url": "https://github.com/MiroMindAI/MiroThinker",
-    "lang": "Python",
-    "desc": "MiroThinker is open-source agentic models trained for deep research and complex tool use scenarios."
-  },
-  {
-    "createdAt": "2025-08-06T14:15:59Z",
-    "stars": 153,
-    "name": "gmh5225/aug_cleaner",
-    "url": "https://github.com/gmh5225/aug_cleaner",
-    "lang": "Python",
-    "desc": "清除 Augment Code VSCode 扩展中的遥测和跟踪机制 | A privacy-focused tool to clean telemetry and tracking from Augment Code VSCode extension while preserving full functionality."
-  },
-  {
-    "createdAt": "2025-08-06T20:28:10Z",
-    "stars": 151,
-    "name": "olafhartong/BamboozlEDR",
-    "url": "https://github.com/olafhartong/BamboozlEDR",
-    "lang": "Go",
-    "desc": "A comprehensive ETW (Event Tracing for Windows) event generation tool designed for testing and research purposes."
-  },
-  {
-    "createdAt": "2025-08-11T12:03:55Z",
-    "stars": 148,
-    "name": "syncora-ai/uk-retail-synthetic-data-generation",
-    "url": "https://github.com/syncora-ai/uk-retail-synthetic-data-generation",
-    "lang": "",
-    "desc": "Synthetic data generation demo using a UK retail transactional dataset. Ideal for professionals in retail, e-commerce, finance, and supply chain sectors who want to create privacy-preserving, realistic synthetic data for testing, analysis, and machine learning."
-  },
-  {
-    "createdAt": "2025-08-06T02:33:29Z",
-    "stars": 138,
-    "name": "kwindla/gpt-oss-space-game",
-    "url": "https://github.com/kwindla/gpt-oss-space-game",
-    "lang": "TypeScript",
-    "desc": "gpt-oss + voice-ui-kit experiment"
-  },
-  {
-    "createdAt": "2025-08-04T04:36:04Z",
-    "stars": 137,
-    "name": "glidea/claude-worker-proxy",
-    "url": "https://github.com/glidea/claude-worker-proxy",
-    "lang": "TypeScript",
-    "desc": "Cloudflare Worker; Claude Code; Proxy; Easy to deploy"
-  },
-  {
     "createdAt": "2025-08-05T10:55:46Z",
-    "stars": 136,
+    "stars": 181,
     "name": "khanhduytran0/MacWSBootingGuide",
     "url": "https://github.com/khanhduytran0/MacWSBootingGuide",
     "lang": "Objective-C",
     "desc": "Booting macOS's WindowServer on your jailbroken iDevice for real"
   },
   {
+    "createdAt": "2025-08-07T13:32:12Z",
+    "stars": 178,
+    "name": "MiroMindAI/MiroThinker",
+    "url": "https://github.com/MiroMindAI/MiroThinker",
+    "lang": "Python",
+    "desc": "MiroThinker is open-source agentic models trained for deep research and complex tool use scenarios."
+  },
+  {
+    "createdAt": "2025-08-05T07:25:14Z",
+    "stars": 178,
+    "name": "CelestialRipple/Gamer",
+    "url": "https://github.com/CelestialRipple/Gamer",
+    "lang": "TypeScript",
+    "desc": "A simple personal website built with Next.js featuring a video game theme."
+  },
+  {
+    "createdAt": "2025-08-11T00:19:56Z",
+    "stars": 174,
+    "name": "nv-tlabs/vipe",
+    "url": "https://github.com/nv-tlabs/vipe",
+    "lang": "Python",
+    "desc": "ViPE: Video Pose Engine for Geometric 3D Perception"
+  },
+  {
+    "createdAt": "2025-08-06T14:15:59Z",
+    "stars": 171,
+    "name": "gmh5225/aug_cleaner",
+    "url": "https://github.com/gmh5225/aug_cleaner",
+    "lang": "Python",
+    "desc": "清除 Augment Code VSCode 扩展中的遥测和跟踪机制 | A privacy-focused tool to clean telemetry and tracking from Augment Code VSCode extension while preserving full functionality."
+  },
+  {
+    "createdAt": "2025-08-07T09:35:23Z",
+    "stars": 170,
+    "name": "r-morato/HASS-epaper-display",
+    "url": "https://github.com/r-morato/HASS-epaper-display",
+    "lang": "",
+    "desc": "This project displays key smart home and server stats on a 7.5\" e-paper screen using an ESP32-C3 board running ESPHome."
+  },
+  {
+    "createdAt": "2025-08-06T21:08:00Z",
+    "stars": 170,
+    "name": "andrewmcwattersandco/git-fetch-file",
+    "url": "https://github.com/andrewmcwattersandco/git-fetch-file",
+    "lang": "Python",
+    "desc": "Fetch and sync individual files or globs from other Git repositories, with commit tracking and local-change protection"
+  },
+  {
+    "createdAt": "2025-08-11T04:15:17Z",
+    "stars": 162,
+    "name": "mursor1985/LIVE",
+    "url": "https://github.com/mursor1985/LIVE",
+    "lang": "",
+    "desc": "mursor的LIVE仓库"
+  },
+  {
+    "createdAt": "2025-08-05T23:45:23Z",
+    "stars": 161,
+    "name": "devnen/Kitten-TTS-Server",
+    "url": "https://github.com/devnen/Kitten-TTS-Server",
+    "lang": "Python",
+    "desc": "Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration."
+  },
+  {
+    "createdAt": "2025-08-06T20:28:10Z",
+    "stars": 156,
+    "name": "olafhartong/BamboozlEDR",
+    "url": "https://github.com/olafhartong/BamboozlEDR",
+    "lang": "Go",
+    "desc": "A comprehensive ETW (Event Tracing for Windows) event generation tool designed for testing and research purposes."
+  },
+  {
     "createdAt": "2025-08-06T01:48:11Z",
-    "stars": 135,
+    "stars": 153,
     "name": "Team-Atlanta/aixcc-afc-atlantis",
     "url": "https://github.com/Team-Atlanta/aixcc-afc-atlantis",
     "lang": "C",
@@ -305,7 +273,7 @@
   },
   {
     "createdAt": "2025-08-08T15:28:03Z",
-    "stars": 133,
+    "stars": 150,
     "name": "h9-tec/GENAI_graduation_projects",
     "url": "https://github.com/h9-tec/GENAI_graduation_projects",
     "lang": "",
@@ -313,63 +281,79 @@
   },
   {
     "createdAt": "2025-08-08T14:11:53Z",
-    "stars": 130,
+    "stars": 140,
     "name": "aviraxp/ZN-AuditPatch",
     "url": "https://github.com/aviraxp/ZN-AuditPatch",
     "lang": "C",
     "desc": "Replace sensitive context in audit log"
   },
   {
-    "createdAt": "2025-08-04T06:03:24Z",
-    "stars": 130,
-    "name": "GaohaoZhou-ops/JestonYoloROS",
-    "url": "https://github.com/GaohaoZhou-ops/JestonYoloROS",
-    "lang": "Python",
-    "desc": "This repository implements Yolo functionality using TensorRT and CUDA acceleration on Nvidia Jeston devices and the ROS framework."
+    "createdAt": "2025-08-06T02:33:29Z",
+    "stars": 139,
+    "name": "kwindla/gpt-oss-space-game",
+    "url": "https://github.com/kwindla/gpt-oss-space-game",
+    "lang": "TypeScript",
+    "desc": "gpt-oss + voice-ui-kit experiment"
   },
   {
-    "createdAt": "2025-08-08T10:22:14Z",
-    "stars": 117,
-    "name": "idinging/freemail",
-    "url": "https://github.com/idinging/freemail",
-    "lang": "JavaScript",
-    "desc": "Cloudflare 域名邮箱系统搭建"
+    "createdAt": "2025-08-11T09:48:27Z",
+    "stars": 134,
+    "name": "SkyworkAI/Matrix-3D",
+    "url": "https://github.com/SkyworkAI/Matrix-3D",
+    "lang": "Python",
+    "desc": "Generate large-scale explorable 3D scene from a single image or text prompt."
+  },
+  {
+    "createdAt": "2025-08-09T05:13:08Z",
+    "stars": 132,
+    "name": "roe-ai/vectorless",
+    "url": "https://github.com/roe-ai/vectorless",
+    "lang": "TypeScript",
+    "desc": ""
   },
   {
     "createdAt": "2025-08-06T01:46:44Z",
-    "stars": 117,
+    "stars": 130,
     "name": "FlyMyAI/flymyai-lora-trainer",
     "url": "https://github.com/FlyMyAI/flymyai-lora-trainer",
     "lang": "Python",
     "desc": "Qwen-Image text to image lora trainer"
   },
   {
-    "createdAt": "2025-08-11T04:15:17Z",
-    "stars": 115,
-    "name": "mursor1985/LIVE",
-    "url": "https://github.com/mursor1985/LIVE",
-    "lang": "",
-    "desc": "mursor的LIVE仓库"
+    "createdAt": "2025-08-07T13:18:06Z",
+    "stars": 128,
+    "name": "Pimzino/spec-workflow-mcp",
+    "url": "https://github.com/Pimzino/spec-workflow-mcp",
+    "lang": "TypeScript",
+    "desc": "A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard for monitoring and managing your project's progress."
   },
   {
-    "createdAt": "2025-08-04T17:29:10Z",
-    "stars": 115,
-    "name": "FradSer/dotclaude",
-    "url": "https://github.com/FradSer/dotclaude",
+    "createdAt": "2025-08-09T08:24:48Z",
+    "stars": 126,
+    "name": "nikkinikki-org/OpenWrt-momo",
+    "url": "https://github.com/nikkinikki-org/OpenWrt-momo",
     "lang": "Shell",
-    "desc": "A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership."
+    "desc": "Transparent Proxy with sing-box on OpenWrt."
   },
   {
-    "createdAt": "2025-08-04T14:35:43Z",
-    "stars": 113,
-    "name": "KorthuDev/MonadTestnet-Bot",
-    "url": "https://github.com/KorthuDev/MonadTestnet-Bot",
-    "lang": "Python",
-    "desc": "A bot for automated Monad Testnet farm"
+    "createdAt": "2025-08-06T19:52:50Z",
+    "stars": 125,
+    "name": "jamwithai/arxiv-paper-curator",
+    "url": "https://github.com/jamwithai/arxiv-paper-curator",
+    "lang": "Jupyter Notebook",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-08T10:22:14Z",
+    "stars": 123,
+    "name": "idinging/freemail",
+    "url": "https://github.com/idinging/freemail",
+    "lang": "JavaScript",
+    "desc": "Cloudflare 域名邮箱系统搭建"
   },
   {
     "createdAt": "2025-08-10T05:34:09Z",
-    "stars": 110,
+    "stars": 118,
     "name": "NEWBIE0413/gemini-gpt-hybrid",
     "url": "https://github.com/NEWBIE0413/gemini-gpt-hybrid",
     "lang": "Shell",
@@ -377,26 +361,42 @@
   },
   {
     "createdAt": "2025-08-10T04:10:54Z",
-    "stars": 107,
+    "stars": 118,
     "name": "Kai-46/minFM",
     "url": "https://github.com/Kai-46/minFM",
     "lang": "HTML",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-06T19:52:50Z",
-    "stars": 106,
-    "name": "jamwithai/arxiv-paper-curator",
-    "url": "https://github.com/jamwithai/arxiv-paper-curator",
-    "lang": "Jupyter Notebook",
-    "desc": ""
+    "createdAt": "2025-08-08T04:08:08Z",
+    "stars": 115,
+    "name": "MiroMindAI/MiroRL",
+    "url": "https://github.com/MiroMindAI/MiroRL",
+    "lang": "Python",
+    "desc": "MiroRL is  an MCP-first reinforcement learning framework for deep research agent."
   },
   {
-    "createdAt": "2025-08-04T13:35:19Z",
-    "stars": 106,
-    "name": "KorthuDev/grass-bot",
-    "url": "https://github.com/KorthuDev/grass-bot",
+    "createdAt": "2025-08-06T07:01:27Z",
+    "stars": 115,
+    "name": "SunzeY/SEAgent",
+    "url": "https://github.com/SunzeY/SEAgent",
     "lang": "Python",
-    "desc": "A bot for grass auto farm"
+    "desc": "Official implementation of \"SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience\""
+  },
+  {
+    "createdAt": "2025-08-06T05:12:35Z",
+    "stars": 112,
+    "name": "DarkModde/WPlace-AutoBOT",
+    "url": "https://github.com/DarkModde/WPlace-AutoBOT",
+    "lang": "JavaScript",
+    "desc": "🛠️┃WPlace AutoBOT – Scripts para criar pixel arts automaticamente no wplace.live, além de um script de auto-farm para subir de nível!"
+  },
+  {
+    "createdAt": "2025-08-06T15:33:48Z",
+    "stars": 110,
+    "name": "ogulcanbagatir/rn-animated-components",
+    "url": "https://github.com/ogulcanbagatir/rn-animated-components",
+    "lang": "TypeScript",
+    "desc": "Animated components for React Native"
   }
 ]
