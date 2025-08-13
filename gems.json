@@ -1,15 +1,7 @@
 [
   {
-    "createdAt": "2025-08-05T03:30:24Z",
-    "stars": 7199,
-    "name": "KittenML/KittenTTS",
-    "url": "https://github.com/KittenML/KittenTTS",
-    "lang": "Python",
-    "desc": " State-of-the-art TTS model under 25MB 😻 "
-  },
-  {
     "createdAt": "2025-08-08T13:04:02Z",
-    "stars": 6745,
+    "stars": 9068,
     "name": "mendableai/open-lovable",
     "url": "https://github.com/mendableai/open-lovable",
     "lang": "TypeScript",
@@ -17,7 +9,7 @@
   },
   {
     "createdAt": "2025-08-07T10:29:51Z",
-    "stars": 1189,
+    "stars": 1243,
     "name": "office-sec/AionUi",
     "url": "https://github.com/office-sec/AionUi",
     "lang": "TypeScript",
@@ -25,7 +17,7 @@
   },
   {
     "createdAt": "2025-08-07T01:06:40Z",
-    "stars": 1056,
+    "stars": 1130,
     "name": "openai/gpt-5-coding-examples",
     "url": "https://github.com/openai/gpt-5-coding-examples",
     "lang": "HTML",
@@ -33,39 +25,39 @@
   },
   {
     "createdAt": "2025-08-08T18:52:05Z",
-    "stars": 545,
+    "stars": 617,
     "name": "ravendevteam/betanet",
     "url": "https://github.com/ravendevteam/betanet",
     "lang": "",
     "desc": "The official specification for Betanet."
   },
   {
-    "createdAt": "2025-08-09T13:06:28Z",
-    "stars": 459,
-    "name": "dnlzro/horizon",
-    "url": "https://github.com/dnlzro/horizon",
-    "lang": "TypeScript",
-    "desc": "The current sky at your approximate location, rendered as a CSS gradient"
-  },
-  {
-    "createdAt": "2025-08-05T17:46:56Z",
-    "stars": 453,
-    "name": "mshumer/gpt-pro-mode",
-    "url": "https://github.com/mshumer/gpt-pro-mode",
-    "lang": "Jupyter Notebook",
+    "createdAt": "2025-08-12T13:59:33Z",
+    "stars": 580,
+    "name": "MoonTechLab/LunaTV",
+    "url": "https://github.com/MoonTechLab/LunaTV",
+    "lang": "",
     "desc": ""
   },
   {
     "createdAt": "2025-08-11T12:03:55Z",
-    "stars": 410,
+    "stars": 576,
     "name": "syncora-ai/uk-retail-synthetic-data-generation",
     "url": "https://github.com/syncora-ai/uk-retail-synthetic-data-generation",
     "lang": "",
     "desc": "Synthetic data generation demo using a UK retail transactional dataset. Ideal for professionals in retail, e-commerce, finance, and supply chain sectors who want to create privacy-preserving, realistic synthetic data for testing, analysis, and machine learning."
   },
   {
+    "createdAt": "2025-08-09T13:06:28Z",
+    "stars": 482,
+    "name": "dnlzro/horizon",
+    "url": "https://github.com/dnlzro/horizon",
+    "lang": "TypeScript",
+    "desc": "The current sky at your approximate location, rendered as a CSS gradient"
+  },
+  {
     "createdAt": "2025-08-06T19:05:28Z",
-    "stars": 380,
+    "stars": 398,
     "name": "Chengsong-Huang/R-Zero",
     "url": "https://github.com/Chengsong-Huang/R-Zero",
     "lang": "Python",
@@ -73,19 +65,51 @@
   },
   {
     "createdAt": "2025-08-07T14:53:55Z",
-    "stars": 368,
+    "stars": 370,
     "name": "Foulvelstingw3S/Github-Mev-Bot",
     "url": "https://github.com/Foulvelstingw3S/Github-Mev-Bot",
     "lang": "Solidity",
     "desc": "✅ Github ⚡ Source code and instructions for creating a passive income tool using an MEV bot.⚡Detailed setup and launch instructions for the MEV bot are available in the Readme file."
   },
   {
+    "createdAt": "2025-08-11T01:03:12Z",
+    "stars": 365,
+    "name": "context-labs/uwu",
+    "url": "https://github.com/context-labs/uwu",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-08-08T00:05:52Z",
-    "stars": 345,
+    "stars": 358,
     "name": "km-clay/nixos-wizard",
     "url": "https://github.com/km-clay/nixos-wizard",
     "lang": "Rust",
     "desc": "A TUI installer for NixOS"
+  },
+  {
+    "createdAt": "2025-08-11T00:19:56Z",
+    "stars": 340,
+    "name": "nv-tlabs/vipe",
+    "url": "https://github.com/nv-tlabs/vipe",
+    "lang": "Python",
+    "desc": "ViPE: Video Pose Engine for Geometric 3D Perception"
+  },
+  {
+    "createdAt": "2025-08-09T15:42:09Z",
+    "stars": 323,
+    "name": "ModelTC/Qwen-Image-Lightning",
+    "url": "https://github.com/ModelTC/Qwen-Image-Lightning",
+    "lang": "Python",
+    "desc": "Qwen-Image-Lightning: Speed up Qwen-Image model with distillation"
+  },
+  {
+    "createdAt": "2025-08-11T18:54:20Z",
+    "stars": 313,
+    "name": "Matt-Dionis/claude-code-configs",
+    "url": "https://github.com/Matt-Dionis/claude-code-configs",
+    "lang": "Shell",
+    "desc": ""
   },
   {
     "createdAt": "2025-08-07T10:03:21Z",
@@ -97,59 +121,51 @@
   },
   {
     "createdAt": "2025-08-07T16:03:12Z",
-    "stars": 278,
+    "stars": 281,
     "name": "Wiseilvaneom0/Solana-bot",
     "url": "https://github.com/Wiseilvaneom0/Solana-bot",
     "lang": "JavaScript",
     "desc": "🌫 Smart Solana MEV.. bot — runs in-browser or locally. Instantly analyzes transactions, snags profitable trades on Pump.FUN, Jupiter, and Raydium. Fully automated, lightning-fast, and tuned for top results."
   },
   {
-    "createdAt": "2025-08-09T15:42:09Z",
-    "stars": 277,
-    "name": "ModelTC/Qwen-Image-Lightning",
-    "url": "https://github.com/ModelTC/Qwen-Image-Lightning",
-    "lang": "Python",
-    "desc": "Qwen-Image-Lightning: Speed up Qwen-Image model with distillation"
-  },
-  {
-    "createdAt": "2025-08-11T01:03:12Z",
-    "stars": 264,
-    "name": "context-labs/uwu",
-    "url": "https://github.com/context-labs/uwu",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-11T18:54:20Z",
-    "stars": 243,
-    "name": "Matt-Dionis/claude-code-configs",
-    "url": "https://github.com/Matt-Dionis/claude-code-configs",
-    "lang": "Shell",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-06T14:05:14Z",
-    "stars": 240,
+    "stars": 276,
     "name": "berbyte/sinkzone",
     "url": "https://github.com/berbyte/sinkzone",
     "lang": "Go",
     "desc": "Block everything. Allow only what matters. A DNS tool for productivity, focus, and child safety. Allowlist-only internet for distraction-free work."
   },
   {
+    "createdAt": "2025-08-08T14:43:46Z",
+    "stars": 258,
+    "name": "danterolle/tilf",
+    "url": "https://github.com/danterolle/tilf",
+    "lang": "Python",
+    "desc": "Tilf (Tiny Elf) is a simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo, and export options."
+  },
+  {
+    "createdAt": "2025-08-12T05:29:23Z",
+    "stars": 253,
+    "name": "mingyin0312/RLFromScratch",
+    "url": "https://github.com/mingyin0312/RLFromScratch",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-11T09:48:27Z",
+    "stars": 246,
+    "name": "SkyworkAI/Matrix-3D",
+    "url": "https://github.com/SkyworkAI/Matrix-3D",
+    "lang": "Python",
+    "desc": "Generate large-scale explorable 3D scenes with high-quality panorama videos from a single image or text prompt."
+  },
+  {
     "createdAt": "2025-08-06T15:34:27Z",
-    "stars": 226,
+    "stars": 227,
     "name": "changjonathanc/flex-nano-vllm",
     "url": "https://github.com/changjonathanc/flex-nano-vllm",
     "lang": "Python",
     "desc": "FlexAttention based, minimal vllm-style inference engine for fast Gemma 2 inference."
-  },
-  {
-    "createdAt": "2025-08-05T09:43:34Z",
-    "stars": 215,
-    "name": "MiroMindAI/MiroFlow",
-    "url": "https://github.com/MiroMindAI/MiroFlow",
-    "lang": "Python",
-    "desc": "Miroflow is an agent framework that simplifies the development of complex, multi-agent systems. Build, manage, and scale your AI agents with ease."
   },
   {
     "createdAt": "2025-08-07T16:55:58Z",
@@ -160,64 +176,40 @@
     "desc": "A bot that searches for new gifts in telegram and purchases them based on your criteria. Supports integration with Telegram bot."
   },
   {
-    "createdAt": "2025-08-08T14:43:46Z",
-    "stars": 212,
-    "name": "danterolle/tilf",
-    "url": "https://github.com/danterolle/tilf",
-    "lang": "Python",
-    "desc": "Tilf (Tiny Elf) is a simple yet powerful pixel art editor built with PySide6. It’s designed for creating sprites, icons, and small 2D assets with essential drawing tools, live preview, undo/redo, and export options."
+    "createdAt": "2025-08-06T01:48:11Z",
+    "stars": 195,
+    "name": "Team-Atlanta/aixcc-afc-atlantis",
+    "url": "https://github.com/Team-Atlanta/aixcc-afc-atlantis",
+    "lang": "C",
+    "desc": ""
   },
   {
-    "createdAt": "2025-08-05T06:20:16Z",
-    "stars": 192,
-    "name": "FoundationVision/Waver",
-    "url": "https://github.com/FoundationVision/Waver",
+    "createdAt": "2025-08-11T04:15:17Z",
+    "stars": 194,
+    "name": "mursor1985/LIVE",
+    "url": "https://github.com/mursor1985/LIVE",
     "lang": "",
-    "desc": "A video foundation model for unified Text-to-Video (T2V) and Image-to-Video (I2V) generation."
-  },
-  {
-    "createdAt": "2025-08-05T13:34:47Z",
-    "stars": 192,
-    "name": "OpenQuant-Community/quant-fund",
-    "url": "https://github.com/OpenQuant-Community/quant-fund",
-    "lang": "",
-    "desc": "量化开源基金会"
-  },
-  {
-    "createdAt": "2025-08-05T10:55:46Z",
-    "stars": 181,
-    "name": "khanhduytran0/MacWSBootingGuide",
-    "url": "https://github.com/khanhduytran0/MacWSBootingGuide",
-    "lang": "Objective-C",
-    "desc": "Booting macOS's WindowServer on your jailbroken iDevice for real"
+    "desc": "mursor的LIVE仓库"
   },
   {
     "createdAt": "2025-08-07T13:32:12Z",
-    "stars": 178,
+    "stars": 192,
     "name": "MiroMindAI/MiroThinker",
     "url": "https://github.com/MiroMindAI/MiroThinker",
     "lang": "Python",
     "desc": "MiroThinker is open-source agentic models trained for deep research and complex tool use scenarios."
   },
   {
-    "createdAt": "2025-08-05T07:25:14Z",
-    "stars": 178,
-    "name": "CelestialRipple/Gamer",
-    "url": "https://github.com/CelestialRipple/Gamer",
-    "lang": "TypeScript",
-    "desc": "A simple personal website built with Next.js featuring a video game theme."
-  },
-  {
-    "createdAt": "2025-08-11T00:19:56Z",
-    "stars": 174,
-    "name": "nv-tlabs/vipe",
-    "url": "https://github.com/nv-tlabs/vipe",
+    "createdAt": "2025-08-06T21:08:00Z",
+    "stars": 184,
+    "name": "andrewmcwattersandco/git-fetch-file",
+    "url": "https://github.com/andrewmcwattersandco/git-fetch-file",
     "lang": "Python",
-    "desc": "ViPE: Video Pose Engine for Geometric 3D Perception"
+    "desc": "Fetch and sync individual files or globs from other Git repositories, with commit tracking and local-change protection"
   },
   {
     "createdAt": "2025-08-06T14:15:59Z",
-    "stars": 171,
+    "stars": 175,
     "name": "gmh5225/aug_cleaner",
     "url": "https://github.com/gmh5225/aug_cleaner",
     "lang": "Python",
@@ -225,67 +217,99 @@
   },
   {
     "createdAt": "2025-08-07T09:35:23Z",
-    "stars": 170,
+    "stars": 171,
     "name": "r-morato/HASS-epaper-display",
     "url": "https://github.com/r-morato/HASS-epaper-display",
     "lang": "",
     "desc": "This project displays key smart home and server stats on a 7.5\" e-paper screen using an ESP32-C3 board running ESPHome."
   },
   {
-    "createdAt": "2025-08-06T21:08:00Z",
-    "stars": 170,
-    "name": "andrewmcwattersandco/git-fetch-file",
-    "url": "https://github.com/andrewmcwattersandco/git-fetch-file",
-    "lang": "Python",
-    "desc": "Fetch and sync individual files or globs from other Git repositories, with commit tracking and local-change protection"
-  },
-  {
-    "createdAt": "2025-08-11T04:15:17Z",
-    "stars": 162,
-    "name": "mursor1985/LIVE",
-    "url": "https://github.com/mursor1985/LIVE",
-    "lang": "",
-    "desc": "mursor的LIVE仓库"
-  },
-  {
-    "createdAt": "2025-08-05T23:45:23Z",
-    "stars": 161,
-    "name": "devnen/Kitten-TTS-Server",
-    "url": "https://github.com/devnen/Kitten-TTS-Server",
-    "lang": "Python",
-    "desc": "Self-host the ultra-lightweight Kitten TTS model with this enhanced API server with an intuitive Web UI, large text processing for audiobooks, and GPU acceleration."
-  },
-  {
     "createdAt": "2025-08-06T20:28:10Z",
-    "stars": 156,
+    "stars": 163,
     "name": "olafhartong/BamboozlEDR",
     "url": "https://github.com/olafhartong/BamboozlEDR",
     "lang": "Go",
     "desc": "A comprehensive ETW (Event Tracing for Windows) event generation tool designed for testing and research purposes."
   },
   {
-    "createdAt": "2025-08-06T01:48:11Z",
-    "stars": 153,
-    "name": "Team-Atlanta/aixcc-afc-atlantis",
-    "url": "https://github.com/Team-Atlanta/aixcc-afc-atlantis",
-    "lang": "C",
+    "createdAt": "2025-08-09T08:24:48Z",
+    "stars": 160,
+    "name": "nikkinikki-org/OpenWrt-momo",
+    "url": "https://github.com/nikkinikki-org/OpenWrt-momo",
+    "lang": "Shell",
+    "desc": "Transparent Proxy with sing-box on OpenWrt."
+  },
+  {
+    "createdAt": "2025-08-09T05:13:08Z",
+    "stars": 157,
+    "name": "roe-ai/vectorless",
+    "url": "https://github.com/roe-ai/vectorless",
+    "lang": "TypeScript",
     "desc": ""
   },
   {
     "createdAt": "2025-08-08T15:28:03Z",
-    "stars": 150,
+    "stars": 155,
     "name": "h9-tec/GENAI_graduation_projects",
     "url": "https://github.com/h9-tec/GENAI_graduation_projects",
     "lang": "",
     "desc": ""
   },
   {
+    "createdAt": "2025-08-11T14:38:24Z",
+    "stars": 154,
+    "name": "instructa/browser-echo",
+    "url": "https://github.com/instructa/browser-echo",
+    "lang": "TypeScript",
+    "desc": "⚡ Stream browser logs to terminal, zero setup, perfect for Ai Agents"
+  },
+  {
+    "createdAt": "2025-08-11T16:22:53Z",
+    "stars": 147,
+    "name": "Haleclipse/CCometixLine",
+    "url": "https://github.com/Haleclipse/CCometixLine",
+    "lang": "Rust",
+    "desc": "High-performance Claude Code statusline tool written in Rust"
+  },
+  {
+    "createdAt": "2025-08-07T13:18:06Z",
+    "stars": 147,
+    "name": "Pimzino/spec-workflow-mcp",
+    "url": "https://github.com/Pimzino/spec-workflow-mcp",
+    "lang": "TypeScript",
+    "desc": "A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard for monitoring and managing your project's progress."
+  },
+  {
+    "createdAt": "2025-08-11T11:48:35Z",
+    "stars": 146,
+    "name": "Francis-Rings/StableAvatar",
+    "url": "https://github.com/Francis-Rings/StableAvatar",
+    "lang": "Python",
+    "desc": "We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-quality audio-driven avatar videos without any post-processing, conditioned on a reference image and audio."
+  },
+  {
     "createdAt": "2025-08-08T14:11:53Z",
-    "stars": 140,
+    "stars": 146,
     "name": "aviraxp/ZN-AuditPatch",
     "url": "https://github.com/aviraxp/ZN-AuditPatch",
     "lang": "C",
     "desc": "Replace sensitive context in audit log"
+  },
+  {
+    "createdAt": "2025-08-06T19:52:50Z",
+    "stars": 143,
+    "name": "jamwithai/arxiv-paper-curator",
+    "url": "https://github.com/jamwithai/arxiv-paper-curator",
+    "lang": "Jupyter Notebook",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-06T01:46:44Z",
+    "stars": 141,
+    "name": "FlyMyAI/flymyai-lora-trainer",
+    "url": "https://github.com/FlyMyAI/flymyai-lora-trainer",
+    "lang": "Python",
+    "desc": "Qwen-Image text to image lora trainer"
   },
   {
     "createdAt": "2025-08-06T02:33:29Z",
@@ -296,107 +320,83 @@
     "desc": "gpt-oss + voice-ui-kit experiment"
   },
   {
-    "createdAt": "2025-08-11T09:48:27Z",
-    "stars": 134,
-    "name": "SkyworkAI/Matrix-3D",
-    "url": "https://github.com/SkyworkAI/Matrix-3D",
-    "lang": "Python",
-    "desc": "Generate large-scale explorable 3D scene from a single image or text prompt."
+    "createdAt": "2025-08-08T19:04:49Z",
+    "stars": 131,
+    "name": "AdoPi/wlgblock",
+    "url": "https://github.com/AdoPi/wlgblock",
+    "lang": "C",
+    "desc": "Wayland Gameboy locker"
   },
   {
-    "createdAt": "2025-08-09T05:13:08Z",
-    "stars": 132,
-    "name": "roe-ai/vectorless",
-    "url": "https://github.com/roe-ai/vectorless",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-06T01:46:44Z",
+    "createdAt": "2025-08-12T02:23:24Z",
     "stars": 130,
-    "name": "FlyMyAI/flymyai-lora-trainer",
-    "url": "https://github.com/FlyMyAI/flymyai-lora-trainer",
+    "name": "WeChatCV/Stand-In",
+    "url": "https://github.com/WeChatCV/Stand-In",
     "lang": "Python",
-    "desc": "Qwen-Image text to image lora trainer"
+    "desc": "Stand-In is a lightweight, plug-and-play framework for identity-preserving video generation."
   },
   {
-    "createdAt": "2025-08-07T13:18:06Z",
-    "stars": 128,
-    "name": "Pimzino/spec-workflow-mcp",
-    "url": "https://github.com/Pimzino/spec-workflow-mcp",
-    "lang": "TypeScript",
-    "desc": "A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard for monitoring and managing your project's progress."
-  },
-  {
-    "createdAt": "2025-08-09T08:24:48Z",
-    "stars": 126,
-    "name": "nikkinikki-org/OpenWrt-momo",
-    "url": "https://github.com/nikkinikki-org/OpenWrt-momo",
-    "lang": "Shell",
-    "desc": "Transparent Proxy with sing-box on OpenWrt."
-  },
-  {
-    "createdAt": "2025-08-06T19:52:50Z",
-    "stars": 125,
-    "name": "jamwithai/arxiv-paper-curator",
-    "url": "https://github.com/jamwithai/arxiv-paper-curator",
-    "lang": "Jupyter Notebook",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-08T10:22:14Z",
-    "stars": 123,
-    "name": "idinging/freemail",
-    "url": "https://github.com/idinging/freemail",
-    "lang": "JavaScript",
-    "desc": "Cloudflare 域名邮箱系统搭建"
-  },
-  {
-    "createdAt": "2025-08-10T05:34:09Z",
-    "stars": 118,
-    "name": "NEWBIE0413/gemini-gpt-hybrid",
-    "url": "https://github.com/NEWBIE0413/gemini-gpt-hybrid",
-    "lang": "Shell",
-    "desc": "hello"
-  },
-  {
-    "createdAt": "2025-08-10T04:10:54Z",
-    "stars": 118,
-    "name": "Kai-46/minFM",
-    "url": "https://github.com/Kai-46/minFM",
-    "lang": "HTML",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-08T04:08:08Z",
-    "stars": 115,
-    "name": "MiroMindAI/MiroRL",
-    "url": "https://github.com/MiroMindAI/MiroRL",
-    "lang": "Python",
-    "desc": "MiroRL is  an MCP-first reinforcement learning framework for deep research agent."
+    "createdAt": "2025-08-09T19:46:53Z",
+    "stars": 130,
+    "name": "cogwheel0/conduit",
+    "url": "https://github.com/cogwheel0/conduit",
+    "lang": "Dart",
+    "desc": "Native mobile client for Open‑WebUI. Chat with your self‑hosted AI."
   },
   {
     "createdAt": "2025-08-06T07:01:27Z",
-    "stars": 115,
+    "stars": 129,
     "name": "SunzeY/SEAgent",
     "url": "https://github.com/SunzeY/SEAgent",
     "lang": "Python",
     "desc": "Official implementation of \"SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience\""
   },
   {
+    "createdAt": "2025-08-08T10:22:14Z",
+    "stars": 128,
+    "name": "idinging/freemail",
+    "url": "https://github.com/idinging/freemail",
+    "lang": "JavaScript",
+    "desc": "Cloudflare 域名邮箱系统搭建"
+  },
+  {
+    "createdAt": "2025-08-10T04:10:54Z",
+    "stars": 125,
+    "name": "Kai-46/minFM",
+    "url": "https://github.com/Kai-46/minFM",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-08-06T05:12:35Z",
-    "stars": 112,
+    "stars": 122,
     "name": "DarkModde/WPlace-AutoBOT",
     "url": "https://github.com/DarkModde/WPlace-AutoBOT",
     "lang": "JavaScript",
     "desc": "🛠️┃WPlace AutoBOT – Scripts para criar pixel arts automaticamente no wplace.live, além de um script de auto-farm para subir de nível!"
   },
   {
-    "createdAt": "2025-08-06T15:33:48Z",
-    "stars": 110,
-    "name": "ogulcanbagatir/rn-animated-components",
-    "url": "https://github.com/ogulcanbagatir/rn-animated-components",
+    "createdAt": "2025-08-08T11:19:28Z",
+    "stars": 121,
+    "name": "sirmalloc/ccstatusline",
+    "url": "https://github.com/sirmalloc/ccstatusline",
     "lang": "TypeScript",
-    "desc": "Animated components for React Native"
+    "desc": "Claude Code status line"
+  },
+  {
+    "createdAt": "2025-08-10T05:34:09Z",
+    "stars": 120,
+    "name": "NEWBIE0413/gemini-gpt-hybrid",
+    "url": "https://github.com/NEWBIE0413/gemini-gpt-hybrid",
+    "lang": "Shell",
+    "desc": "hello"
+  },
+  {
+    "createdAt": "2025-08-08T04:08:08Z",
+    "stars": 117,
+    "name": "MiroMindAI/MiroRL",
+    "url": "https://github.com/MiroMindAI/MiroRL",
+    "lang": "Python",
+    "desc": "MiroRL is  an MCP-first reinforcement learning framework for deep research agent."
   }
 ]
