@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-08-12T13:59:33Z",
-    "stars": 2258,
+    "stars": 2509,
     "name": "MoonTechLab/LunaTV",
     "url": "https://github.com/MoonTechLab/LunaTV",
     "lang": "",
@@ -9,79 +9,47 @@
   },
   {
     "createdAt": "2025-08-16T18:48:24Z",
-    "stars": 897,
+    "stars": 1047,
     "name": "bgreenwell/doxx",
     "url": "https://github.com/bgreenwell/doxx",
     "lang": "Rust",
     "desc": "Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!"
   },
   {
-    "createdAt": "2025-08-11T01:03:12Z",
-    "stars": 695,
-    "name": "context-labs/uwu",
-    "url": "https://github.com/context-labs/uwu",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-11T00:19:56Z",
-    "stars": 683,
-    "name": "nv-tlabs/vipe",
-    "url": "https://github.com/nv-tlabs/vipe",
-    "lang": "Python",
-    "desc": "ViPE: Video Pose Engine for Geometric 3D Perception"
-  },
-  {
-    "createdAt": "2025-08-11T12:03:55Z",
-    "stars": 668,
-    "name": "syncora-ai/uk-retail-synthetic-data-generation",
-    "url": "https://github.com/syncora-ai/uk-retail-synthetic-data-generation",
+    "createdAt": "2025-08-12T03:34:53Z",
+    "stars": 1025,
+    "name": "OneRedOak/claude-code-workflows",
+    "url": "https://github.com/OneRedOak/claude-code-workflows",
     "lang": "",
-    "desc": "Synthetic data generation demo using a UK retail transactional dataset. Ideal for professionals in retail, e-commerce, finance, and supply chain sectors who want to create privacy-preserving, realistic synthetic data for testing, analysis, and machine learning."
+    "desc": "The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup."
   },
   {
     "createdAt": "2025-08-15T02:17:49Z",
-    "stars": 655,
+    "stars": 939,
     "name": "panphora/overtype",
     "url": "https://github.com/panphora/overtype",
     "lang": "JavaScript",
     "desc": "The markdown editor that's just a textarea https://overtype.dev"
   },
   {
-    "createdAt": "2025-08-14T18:00:16Z",
-    "stars": 630,
-    "name": "anthugeist/synapse-bot",
-    "url": "https://github.com/anthugeist/synapse-bot",
-    "lang": "Python",
-    "desc": "A free, opensource, multi functional crypto trading bot. It combines flexibility, speed and extensibility, allowing the user to effectively interact with exchanges, analyze data and make trading decisions in real time."
-  },
-  {
     "createdAt": "2025-08-16T05:20:19Z",
-    "stars": 600,
+    "stars": 652,
     "name": "cnrad/keyboard-signature",
     "url": "https://github.com/cnrad/keyboard-signature",
     "lang": "TypeScript",
     "desc": "keyboard-based digital signatures"
   },
   {
-    "createdAt": "2025-08-11T11:48:35Z",
-    "stars": 501,
-    "name": "Francis-Rings/StableAvatar",
-    "url": "https://github.com/Francis-Rings/StableAvatar",
+    "createdAt": "2025-08-14T18:00:16Z",
+    "stars": 634,
+    "name": "anthugeist/synapse-bot",
+    "url": "https://github.com/anthugeist/synapse-bot",
     "lang": "Python",
-    "desc": "We present StableAvatar, the first end-to-end video diffusion transformer, which synthesizes infinite-length high-quality audio-driven avatar videos without any post-processing, conditioned on a reference image and audio."
-  },
-  {
-    "createdAt": "2025-08-11T15:12:45Z",
-    "stars": 438,
-    "name": "HybridRobotics/whole_body_tracking",
-    "url": "https://github.com/HybridRobotics/whole_body_tracking",
-    "lang": "Python",
-    "desc": ""
+    "desc": "A free, opensource, multi functional crypto trading bot. It combines flexibility, speed and extensibility, allowing the user to effectively interact with exchanges, analyze data and make trading decisions in real time."
   },
   {
     "createdAt": "2025-08-12T02:23:24Z",
-    "stars": 435,
+    "stars": 463,
     "name": "WeChatCV/Stand-In",
     "url": "https://github.com/WeChatCV/Stand-In",
     "lang": "Python",
@@ -89,7 +57,7 @@
   },
   {
     "createdAt": "2025-08-13T07:56:51Z",
-    "stars": 416,
+    "stars": 454,
     "name": "Tencent-Hunyuan/Hunyuan-GameCraft-1.0",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0",
     "lang": "Python",
@@ -97,35 +65,27 @@
   },
   {
     "createdAt": "2025-08-14T08:50:25Z",
-    "stars": 412,
+    "stars": 449,
     "name": "stepfun-ai/NextStep-1",
     "url": "https://github.com/stepfun-ai/NextStep-1",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-08-15T07:09:54Z",
+    "stars": 405,
+    "name": "l2xu/betterbahn",
+    "url": "https://github.com/l2xu/betterbahn",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-08-12T05:29:23Z",
-    "stars": 391,
+    "stars": 393,
     "name": "mingyin0312/RLFromScratch",
     "url": "https://github.com/mingyin0312/RLFromScratch",
     "lang": "Python",
     "desc": ""
-  },
-  {
-    "createdAt": "2025-08-11T18:54:20Z",
-    "stars": 387,
-    "name": "Matt-Dionis/claude-code-configs",
-    "url": "https://github.com/Matt-Dionis/claude-code-configs",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-11T09:48:27Z",
-    "stars": 382,
-    "name": "SkyworkAI/Matrix-3D",
-    "url": "https://github.com/SkyworkAI/Matrix-3D",
-    "lang": "Python",
-    "desc": "Generate large-scale explorable 3D scenes with high-quality panorama videos from a single image or text prompt."
   },
   {
     "createdAt": "2025-08-16T20:13:36Z",
@@ -136,24 +96,16 @@
     "desc": "Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Enhance accuracy, awareness, and strategy."
   },
   {
-    "createdAt": "2025-08-12T03:34:53Z",
-    "stars": 360,
-    "name": "OneRedOak/claude-code-workflows",
-    "url": "https://github.com/OneRedOak/claude-code-workflows",
-    "lang": "",
-    "desc": "The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup."
-  },
-  {
-    "createdAt": "2025-08-11T04:15:17Z",
-    "stars": 331,
-    "name": "mursor1985/LIVE",
-    "url": "https://github.com/mursor1985/LIVE",
-    "lang": "",
-    "desc": "mursor的LIVE仓库"
+    "createdAt": "2025-08-15T10:28:50Z",
+    "stars": 344,
+    "name": "RayBytes/ChatMock",
+    "url": "https://github.com/RayBytes/ChatMock",
+    "lang": "Python",
+    "desc": "Access OpenAI models programmatically through your ChatGPT subscription."
   },
   {
     "createdAt": "2025-08-14T22:33:18Z",
-    "stars": 295,
+    "stars": 327,
     "name": "Chen-zexi/vllm-cli",
     "url": "https://github.com/Chen-zexi/vllm-cli",
     "lang": "Python",
@@ -161,163 +113,203 @@
   },
   {
     "createdAt": "2025-08-14T21:18:25Z",
-    "stars": 289,
+    "stars": 323,
     "name": "whoeevee/EeveeSpotifyReborn",
     "url": "https://github.com/whoeevee/EeveeSpotifyReborn",
     "lang": "Swift",
     "desc": "A tweak to enhance Spotify experience"
   },
   {
-    "createdAt": "2025-08-11T16:22:53Z",
-    "stars": 278,
-    "name": "Haleclipse/CCometixLine",
-    "url": "https://github.com/Haleclipse/CCometixLine",
-    "lang": "Rust",
-    "desc": "High-performance Claude Code statusline tool written in Rust"
-  },
-  {
-    "createdAt": "2025-08-15T07:09:54Z",
-    "stars": 277,
-    "name": "l2xu/betterbahn",
-    "url": "https://github.com/l2xu/betterbahn",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-13T17:56:33Z",
-    "stars": 268,
+    "stars": 317,
     "name": "sagar-n/deepagents",
     "url": "https://github.com/sagar-n/deepagents",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-16T14:07:49Z",
-    "stars": 233,
-    "name": "superstarryeyes/lue",
-    "url": "https://github.com/superstarryeyes/lue",
-    "lang": "Python",
-    "desc": "Terminal eBook Reader with Text-to-Speech"
-  },
-  {
-    "createdAt": "2025-08-16T10:14:45Z",
-    "stars": 220,
-    "name": "blindxvc/Gift-Buyer",
-    "url": "https://github.com/blindxvc/Gift-Buyer",
-    "lang": "Python",
-    "desc": "A universal bot for automatically sniping and buying Telegram gifts"
-  },
-  {
-    "createdAt": "2025-08-11T05:42:52Z",
-    "stars": 215,
-    "name": "0voice/Career_planning_path",
-    "url": "https://github.com/0voice/Career_planning_path",
-    "lang": "",
-    "desc": "2025年程序员找工作求职最新总结，学生阶段的困境解决，从简历到面试的全方位解析，从实习到全职的学习规划，就业必备技能与资源推荐。"
-  },
-  {
-    "createdAt": "2025-08-11T15:09:02Z",
-    "stars": 214,
-    "name": "byJoey/free-vps-py",
-    "url": "https://github.com/byJoey/free-vps-py",
-    "lang": "Shell",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-12T13:39:56Z",
-    "stars": 211,
-    "name": "tanrax/org-social",
-    "url": "https://github.com/tanrax/org-social",
-    "lang": "",
-    "desc": "Org-social is a decentralized social network that runs on an Org Mode file over HTTP."
-  },
-  {
-    "createdAt": "2025-08-15T10:28:50Z",
-    "stars": 211,
-    "name": "RayBytes/ChatMock",
-    "url": "https://github.com/RayBytes/ChatMock",
-    "lang": "Python",
-    "desc": "Access OpenAI models programmatically through your ChatGPT subscription."
-  },
-  {
-    "createdAt": "2025-08-11T14:38:24Z",
-    "stars": 203,
-    "name": "instructa/browser-echo",
-    "url": "https://github.com/instructa/browser-echo",
-    "lang": "TypeScript",
-    "desc": "⚡ Stream browser logs to terminal, zero setup, perfect for Ai Agents"
-  },
-  {
-    "createdAt": "2025-08-12T13:14:20Z",
-    "stars": 202,
-    "name": "TencentARC/ToonComposer",
-    "url": "https://github.com/TencentARC/ToonComposer",
-    "lang": "Python",
-    "desc": "Streamlining Cartoon Production with Generative Post-Keyframing"
-  },
-  {
     "createdAt": "2025-08-17T07:37:20Z",
-    "stars": 192,
+    "stars": 298,
     "name": "Hzao/PocketChest",
     "url": "https://github.com/Hzao/PocketChest",
     "lang": "TypeScript",
     "desc": "Secure, serverless file and text sharing built on Cloudflare with large file support."
   },
   {
+    "createdAt": "2025-08-18T14:53:49Z",
+    "stars": 254,
+    "name": "NiladriHazra/Open-Fiesta",
+    "url": "https://github.com/NiladriHazra/Open-Fiesta",
+    "lang": "TypeScript",
+    "desc": "I just made an open-source version of  Dhruv Rathee's  AI startup.  Even with more models :)"
+  },
+  {
+    "createdAt": "2025-08-16T14:07:49Z",
+    "stars": 252,
+    "name": "superstarryeyes/lue",
+    "url": "https://github.com/superstarryeyes/lue",
+    "lang": "Python",
+    "desc": "Terminal eBook Reader with Text-to-Speech"
+  },
+  {
+    "createdAt": "2025-08-12T13:14:20Z",
+    "stars": 245,
+    "name": "TencentARC/ToonComposer",
+    "url": "https://github.com/TencentARC/ToonComposer",
+    "lang": "Python",
+    "desc": "Streamlining Cartoon Production with Generative Post-Keyframing"
+  },
+  {
+    "createdAt": "2025-08-17T01:28:57Z",
+    "stars": 231,
+    "name": "yfzhang114/Thyme",
+    "url": "https://github.com/yfzhang114/Thyme",
+    "lang": "Python",
+    "desc": "Think Beyond Images"
+  },
+  {
+    "createdAt": "2025-08-16T10:14:45Z",
+    "stars": 221,
+    "name": "blindxvc/Gift-Buyer",
+    "url": "https://github.com/blindxvc/Gift-Buyer",
+    "lang": "Python",
+    "desc": "A universal bot for automatically sniping and buying Telegram gifts"
+  },
+  {
+    "createdAt": "2025-08-12T13:39:56Z",
+    "stars": 218,
+    "name": "tanrax/org-social",
+    "url": "https://github.com/tanrax/org-social",
+    "lang": "",
+    "desc": "Org Social is a decentralized social network that runs on an Org Mode file over HTTP."
+  },
+  {
     "createdAt": "2025-08-14T08:50:36Z",
-    "stars": 192,
+    "stars": 217,
     "name": "synacktiv/gpoParser",
     "url": "https://github.com/synacktiv/gpoParser",
     "lang": "Python",
     "desc": "gpoParser is a tool designed to extract and analyze configurations applied through Group Policy Objects (GPOs) in an Active Directory environment."
   },
   {
-    "createdAt": "2025-08-14T08:01:56Z",
-    "stars": 178,
-    "name": "slowmist/Crypto-Asset-Tracing-Handbook",
-    "url": "https://github.com/slowmist/Crypto-Asset-Tracing-Handbook",
-    "lang": "",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-16T10:29:42Z",
-    "stars": 170,
+    "stars": 215,
     "name": "fmz200/global-testflight-link",
     "url": "https://github.com/fmz200/global-testflight-link",
     "lang": "",
     "desc": "收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's public iOS/iPadOS/MacOS Testflight links."
   },
   {
+    "createdAt": "2025-08-19T08:37:34Z",
+    "stars": 201,
+    "name": "r6s-cheat/r6-cheat-aimbot-esp-wallhack",
+    "url": "https://github.com/r6s-cheat/r6-cheat-aimbot-esp-wallhack",
+    "lang": "Python",
+    "desc": "R6 Cheat advanced Rainbow Six Siege cheats with aimbot, ESP, wallhack, and unlock-all features. Enhance accuracy, awareness, and tactics"
+  },
+  {
+    "createdAt": "2025-08-15T18:01:17Z",
+    "stars": 191,
+    "name": "productdevbook/nitroping",
+    "url": "https://github.com/productdevbook/nitroping",
+    "lang": "Vue",
+    "desc": "Open-source, self-hosted push notification service built with Nuxt 4 & Nitro."
+  },
+  {
+    "createdAt": "2025-08-14T08:01:56Z",
+    "stars": 184,
+    "name": "slowmist/Crypto-Asset-Tracing-Handbook",
+    "url": "https://github.com/slowmist/Crypto-Asset-Tracing-Handbook",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-16T21:49:49Z",
+    "stars": 183,
+    "name": "minitap-ai/mobile-use",
+    "url": "https://github.com/minitap-ai/mobile-use",
+    "lang": "Python",
+    "desc": "AI agents can now use real Android and iOS apps, just like a human."
+  },
+  {
     "createdAt": "2025-08-13T01:10:14Z",
-    "stars": 166,
+    "stars": 175,
     "name": "Tonghe-Zhang/Awesome-Flow-RL-Papers",
     "url": "https://github.com/Tonghe-Zhang/Awesome-Flow-RL-Papers",
     "lang": "",
     "desc": "A collection of paper/projects that trains flow matching model/policies via RL. "
   },
   {
-    "createdAt": "2025-08-13T12:30:41Z",
-    "stars": 156,
-    "name": "whwlsfb/ViewState-Cracker",
-    "url": "https://github.com/whwlsfb/ViewState-Cracker",
-    "lang": "Java",
-    "desc": "ASP.net ViewState密钥被动扫描爆破BurpSuite插件"
-  },
-  {
     "createdAt": "2025-08-15T05:31:39Z",
-    "stars": 153,
+    "stars": 167,
     "name": "BehiSecc/First-Bounty",
     "url": "https://github.com/BehiSecc/First-Bounty",
     "lang": "",
     "desc": "A complete, beginner-friendly bug bounty roadmap that takes you from zero experience to earning your first bounty."
   },
   {
-    "createdAt": "2025-08-11T16:05:11Z",
-    "stars": 150,
-    "name": "dongshuyan/PromptHelper",
-    "url": "https://github.com/dongshuyan/PromptHelper",
-    "lang": "JavaScript",
-    "desc": "Help you manage your prompt templates"
+    "createdAt": "2025-08-13T13:31:05Z",
+    "stars": 163,
+    "name": "jhk0530/showmaker",
+    "url": "https://github.com/jhk0530/showmaker",
+    "lang": "Rust",
+    "desc": "Markdown to Slide"
+  },
+  {
+    "createdAt": "2025-08-13T12:30:41Z",
+    "stars": 163,
+    "name": "whwlsfb/ViewState-Cracker",
+    "url": "https://github.com/whwlsfb/ViewState-Cracker",
+    "lang": "Java",
+    "desc": "ASP.net ViewState密钥被动扫描爆破BurpSuite插件"
+  },
+  {
+    "createdAt": "2025-08-16T11:05:38Z",
+    "stars": 163,
+    "name": "Print3M/DllShimmer",
+    "url": "https://github.com/Print3M/DllShimmer",
+    "lang": "Go",
+    "desc": "Weaponize DLL hijacking easily. Backdoor any function in any DLL."
+  },
+  {
+    "createdAt": "2025-08-16T20:49:57Z",
+    "stars": 154,
+    "name": "Lobotomy-Software/SlaveDriver-Engine",
+    "url": "https://github.com/Lobotomy-Software/SlaveDriver-Engine",
+    "lang": "C",
+    "desc": "SlaveDriver Engine for Sega Saturn GPL Source Code"
+  },
+  {
+    "createdAt": "2025-08-12T12:26:13Z",
+    "stars": 153,
+    "name": "NeoMaster831/kurasagi",
+    "url": "https://github.com/NeoMaster831/kurasagi",
+    "lang": "C++",
+    "desc": "Windows 11 24H2 Runtime PatchGuard Bypass"
+  },
+  {
+    "createdAt": "2025-08-19T09:04:21Z",
+    "stars": 152,
+    "name": "rust-aimbot-cheat/rust-cheat",
+    "url": "https://github.com/rust-aimbot-cheat/rust-cheat",
+    "lang": "Python",
+    "desc": "Rust Cheat – advanced aimbot, ESP, wallhack, and farming tools for Rust. Gain survival, raiding, and PvP advantages with a secure toolkit"
+  },
+  {
+    "createdAt": "2025-08-16T12:32:47Z",
+    "stars": 147,
+    "name": "hiteshchoudhary/ai-chat-app-with-agents-getstream",
+    "url": "https://github.com/hiteshchoudhary/ai-chat-app-with-agents-getstream",
+    "lang": "TypeScript",
+    "desc": "ai-chat-app-with-agents-getstream"
+  },
+  {
+    "createdAt": "2025-08-13T07:40:55Z",
+    "stars": 147,
+    "name": "std-microblock/audivis-relay",
+    "url": "https://github.com/std-microblock/audivis-relay",
+    "lang": "C++",
+    "desc": "Stream your microphone from Android/Linux/Mac/Windows/.. to Windows, easily."
   },
   {
     "createdAt": "2025-08-13T22:27:21Z",
@@ -328,36 +320,44 @@
     "desc": "Bonkfun Migration Sniper"
   },
   {
-    "createdAt": "2025-08-12T12:26:13Z",
+    "createdAt": "2025-08-12T13:38:04Z",
     "stars": 145,
-    "name": "NeoMaster831/kurasagi",
-    "url": "https://github.com/NeoMaster831/kurasagi",
-    "lang": "C++",
-    "desc": "Windows 11 24H2 Runtime PatchGuard Bypass"
-  },
-  {
-    "createdAt": "2025-08-13T07:40:55Z",
-    "stars": 143,
-    "name": "std-microblock/audivis-relay",
-    "url": "https://github.com/std-microblock/audivis-relay",
-    "lang": "C++",
-    "desc": "Stream your microphone from Android/Linux/Mac/Windows/.. to Windows, easily."
+    "name": "0xJs/BYOVD_read_write_primitive",
+    "url": "https://github.com/0xJs/BYOVD_read_write_primitive",
+    "lang": "C",
+    "desc": "Proof of Concepts code for Bring Your Own Vulnerable Driver techniques "
   },
   {
     "createdAt": "2025-08-15T17:24:44Z",
-    "stars": 140,
+    "stars": 143,
     "name": "wyattjoh/jmap-mcp",
     "url": "https://github.com/wyattjoh/jmap-mcp",
     "lang": "TypeScript",
     "desc": "A Model Context Protocol (MCP) server that provides tools for interacting with JMAP (JSON Meta Application Protocol) email servers. Built with Deno and using the jmap-jam client library."
   },
   {
-    "createdAt": "2025-08-12T13:38:04Z",
-    "stars": 140,
-    "name": "0xJs/BYOVD_read_write_primitive",
-    "url": "https://github.com/0xJs/BYOVD_read_write_primitive",
-    "lang": "C",
-    "desc": "Proof of Concepts code for Bring Your Own Vulnerable Driver techniques "
+    "createdAt": "2025-08-14T19:41:31Z",
+    "stars": 142,
+    "name": "BnuuySolutions/PSVR2Toolkit",
+    "url": "https://github.com/BnuuySolutions/PSVR2Toolkit",
+    "lang": "C++",
+    "desc": "Unofficial modification for the official PlayStation VR2 driver/app."
+  },
+  {
+    "createdAt": "2025-08-17T07:43:01Z",
+    "stars": 141,
+    "name": "krishnaik06/Complete-RoadMap-To-Learn-AI",
+    "url": "https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-14T01:25:27Z",
+    "stars": 139,
+    "name": "RosettaCommons/atomworks",
+    "url": "https://github.com/RosettaCommons/atomworks",
+    "lang": "Python",
+    "desc": "A generalized computational framework for biomolecular modeling."
   },
   {
     "createdAt": "2025-08-14T08:31:17Z",
@@ -368,35 +368,35 @@
     "desc": "The code and data of We-Math 2.0."
   },
   {
-    "createdAt": "2025-08-11T22:02:21Z",
-    "stars": 134,
-    "name": "Rishabh-Bajpai/Chanakya-Local-Friend",
-    "url": "https://github.com/Rishabh-Bajpai/Chanakya-Local-Friend",
-    "lang": "JavaScript",
-    "desc": "Chanakya is an advanced, open-source, and self-hostable voice assistant designed for privacy, power, and flexibility. It leverages local AI/ML models to ensure your data stays with you. It Integrates with 1000+ third-party MCP servers including Home Assistant. "
+    "createdAt": "2025-08-12T03:53:02Z",
+    "stars": 138,
+    "name": "interval-package/trackerLab",
+    "url": "https://github.com/interval-package/trackerLab",
+    "lang": "Python",
+    "desc": "Unifying IsaacLab and Whole-Body Control in One Modular Framework"
   },
   {
-    "createdAt": "2025-08-13T13:31:05Z",
-    "stars": 134,
-    "name": "jhk0530/showmaker",
-    "url": "https://github.com/jhk0530/showmaker",
-    "lang": "Rust",
-    "desc": "Markdown to Slide"
+    "createdAt": "2025-08-14T08:44:13Z",
+    "stars": 137,
+    "name": "sarahofai/best-of-ai",
+    "url": "https://github.com/sarahofai/best-of-ai",
+    "lang": "",
+    "desc": "A curated list of best ai tools"
   },
   {
-    "createdAt": "2025-08-16T20:49:57Z",
-    "stars": 130,
-    "name": "Lobotomy-Software/SlaveDriver-Engine",
-    "url": "https://github.com/Lobotomy-Software/SlaveDriver-Engine",
-    "lang": "C",
-    "desc": "SlaveDriver Engine for Sega Saturn GPL Source Code"
+    "createdAt": "2025-08-15T11:57:47Z",
+    "stars": 133,
+    "name": "inclusionAI/UI-Venus",
+    "url": "https://github.com/inclusionAI/UI-Venus",
+    "lang": "Python",
+    "desc": "UI-Venus is a native UI agent based on the Qwen2.5-VL multimodal large language model, designed to perform precise GUI element grounding and effective navigation using only screenshots as input."
   },
   {
-    "createdAt": "2025-08-11T06:49:19Z",
-    "stars": 129,
-    "name": "Dreamsoft-DreamV/dreamv",
-    "url": "https://github.com/Dreamsoft-DreamV/dreamv",
-    "lang": "JavaScript",
-    "desc": "DreamV 数据可视化平台"
+    "createdAt": "2025-08-12T10:08:32Z",
+    "stars": 131,
+    "name": "dimitritholen/gustav",
+    "url": "https://github.com/dimitritholen/gustav",
+    "lang": "Python",
+    "desc": "Gustav - a sprint orchestration framework (Beta)"
   }
 ]
