@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-08-19T17:22:54Z",
-    "stars": 2262,
+    "stars": 2759,
     "name": "openai/agents.md",
     "url": "https://github.com/openai/agents.md",
     "lang": "TypeScript",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-08-16T18:48:24Z",
-    "stars": 1373,
+    "stars": 1857,
     "name": "bgreenwell/doxx",
     "url": "https://github.com/bgreenwell/doxx",
     "lang": "Rust",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-08-15T02:17:49Z",
-    "stars": 1319,
+    "stars": 1474,
     "name": "panphora/overtype",
     "url": "https://github.com/panphora/overtype",
     "lang": "JavaScript",
@@ -25,7 +25,7 @@
   },
   {
     "createdAt": "2025-08-18T23:20:08Z",
-    "stars": 1095,
+    "stars": 1280,
     "name": "automazeio/ccpm",
     "url": "https://github.com/automazeio/ccpm",
     "lang": "Shell",
@@ -33,63 +33,47 @@
   },
   {
     "createdAt": "2025-08-15T01:52:01Z",
-    "stars": 969,
+    "stars": 1168,
     "name": "vercel/streamdown",
     "url": "https://github.com/vercel/streamdown",
     "lang": "TypeScript",
     "desc": "A drop-in replacement for react-markdown, designed for AI-powered streaming."
   },
   {
-    "createdAt": "2025-08-16T21:49:49Z",
-    "stars": 878,
-    "name": "minitap-ai/mobile-use",
-    "url": "https://github.com/minitap-ai/mobile-use",
-    "lang": "Python",
-    "desc": "AI agents can now use real Android and iOS apps, just like a human."
-  },
-  {
     "createdAt": "2025-08-20T03:25:28Z",
-    "stars": 849,
+    "stars": 1028,
     "name": "karpathy/rendergit",
     "url": "https://github.com/karpathy/rendergit",
     "lang": "Python",
     "desc": "Render any git repo into a single static HTML page for humans or LLMs"
   },
   {
+    "createdAt": "2025-08-16T21:49:49Z",
+    "stars": 1023,
+    "name": "minitap-ai/mobile-use",
+    "url": "https://github.com/minitap-ai/mobile-use",
+    "lang": "Python",
+    "desc": "AI agents can now use real Android and iOS apps, just like a human."
+  },
+  {
     "createdAt": "2025-08-16T05:20:19Z",
-    "stars": 673,
+    "stars": 674,
     "name": "cnrad/keyboard-signature",
     "url": "https://github.com/cnrad/keyboard-signature",
     "lang": "TypeScript",
     "desc": "keyboard-based digital signatures"
   },
   {
-    "createdAt": "2025-08-14T18:00:16Z",
-    "stars": 623,
-    "name": "anthugeist/synapse-trading-bot",
-    "url": "https://github.com/anthugeist/synapse-trading-bot",
-    "lang": "Python",
-    "desc": "A free, opensource, multi functional crypto trading bot. It combines flexibility, speed and extensibility, allowing the user to effectively interact with exchanges, analyze data and make trading decisions in real time."
-  },
-  {
     "createdAt": "2025-08-18T14:53:49Z",
-    "stars": 547,
+    "stars": 569,
     "name": "NiladriHazra/Open-Fiesta",
     "url": "https://github.com/NiladriHazra/Open-Fiesta",
     "lang": "TypeScript",
     "desc": "An open-source version of  Dhruv Rathee's  AI startup.  Even with more models :)"
   },
   {
-    "createdAt": "2025-08-14T08:50:25Z",
-    "stars": 486,
-    "name": "stepfun-ai/NextStep-1",
-    "url": "https://github.com/stepfun-ai/NextStep-1",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-19T07:42:20Z",
-    "stars": 473,
+    "stars": 491,
     "name": "auv-sh/av",
     "url": "https://github.com/auv-sh/av",
     "lang": "Rust",
@@ -97,7 +81,7 @@
   },
   {
     "createdAt": "2025-08-15T07:09:54Z",
-    "stars": 462,
+    "stars": 480,
     "name": "l2xu/betterbahn",
     "url": "https://github.com/l2xu/betterbahn",
     "lang": "JavaScript",
@@ -105,7 +89,7 @@
   },
   {
     "createdAt": "2025-08-15T10:28:50Z",
-    "stars": 457,
+    "stars": 478,
     "name": "RayBytes/ChatMock",
     "url": "https://github.com/RayBytes/ChatMock",
     "lang": "Python",
@@ -113,47 +97,31 @@
   },
   {
     "createdAt": "2025-08-19T19:25:23Z",
-    "stars": 391,
+    "stars": 462,
     "name": "tobi/try",
     "url": "https://github.com/tobi/try",
     "lang": "Ruby",
     "desc": "fresh directories for every vibe"
   },
   {
-    "createdAt": "2025-08-14T21:18:25Z",
-    "stars": 384,
-    "name": "whoeevee/EeveeSpotifyReborn",
-    "url": "https://github.com/whoeevee/EeveeSpotifyReborn",
-    "lang": "Swift",
-    "desc": "A tweak to enhance Spotify experience"
-  },
-  {
-    "createdAt": "2025-08-17T07:37:20Z",
-    "stars": 353,
-    "name": "Hzao/PocketChest",
-    "url": "https://github.com/Hzao/PocketChest",
-    "lang": "TypeScript",
-    "desc": "Secure, serverless file and text sharing built on Cloudflare with large file support."
-  },
-  {
     "createdAt": "2025-08-20T14:35:47Z",
-    "stars": 352,
+    "stars": 441,
     "name": "Growth-Kinetics/DiffMem",
     "url": "https://github.com/Growth-Kinetics/DiffMem",
     "lang": "Python",
     "desc": "Git Based Memory Storage for Conversational AI Agent"
   },
   {
-    "createdAt": "2025-08-14T22:33:18Z",
-    "stars": 352,
-    "name": "Chen-zexi/vllm-cli",
-    "url": "https://github.com/Chen-zexi/vllm-cli",
-    "lang": "Python",
-    "desc": "A command-line interface tool for serving LLM using vLLM."
+    "createdAt": "2025-08-17T07:37:20Z",
+    "stars": 360,
+    "name": "Hzao/PocketChest",
+    "url": "https://github.com/Hzao/PocketChest",
+    "lang": "TypeScript",
+    "desc": "Secure, serverless file and text sharing built on Cloudflare with large file support."
   },
   {
     "createdAt": "2025-08-16T14:07:49Z",
-    "stars": 311,
+    "stars": 353,
     "name": "superstarryeyes/lue",
     "url": "https://github.com/superstarryeyes/lue",
     "lang": "Python",
@@ -161,7 +129,7 @@
   },
   {
     "createdAt": "2025-08-17T07:43:01Z",
-    "stars": 301,
+    "stars": 345,
     "name": "krishnaik06/Complete-RoadMap-To-Learn-AI",
     "url": "https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI",
     "lang": "",
@@ -169,43 +137,43 @@
   },
   {
     "createdAt": "2025-08-17T01:28:57Z",
-    "stars": 290,
+    "stars": 321,
     "name": "yfzhang114/Thyme",
     "url": "https://github.com/yfzhang114/Thyme",
     "lang": "Python",
     "desc": "Think Beyond Images"
   },
   {
+    "createdAt": "2025-08-20T05:15:16Z",
+    "stars": 304,
+    "name": "opactorai/Claudable",
+    "url": "https://github.com/opactorai/Claudable",
+    "lang": "TypeScript",
+    "desc": "Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly."
+  },
+  {
     "createdAt": "2025-08-16T11:05:38Z",
-    "stars": 284,
+    "stars": 301,
     "name": "Print3M/DllShimmer",
     "url": "https://github.com/Print3M/DllShimmer",
     "lang": "Go",
     "desc": "Weaponize DLL hijacking easily. Backdoor any function in any DLL."
   },
   {
-    "createdAt": "2025-08-14T01:04:53Z",
-    "stars": 268,
-    "name": "MeiGen-AI/InfiniteTalk",
-    "url": "https://github.com/MeiGen-AI/InfiniteTalk",
+    "createdAt": "2025-08-15T11:57:47Z",
+    "stars": 274,
+    "name": "inclusionAI/UI-Venus",
+    "url": "https://github.com/inclusionAI/UI-Venus",
     "lang": "Python",
-    "desc": "​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation"
+    "desc": "UI-Venus is a native UI agent designed to perform precise GUI element grounding and effective navigation using only screenshots as input."
   },
   {
     "createdAt": "2025-08-16T10:29:42Z",
-    "stars": 238,
+    "stars": 250,
     "name": "fmz200/global-testflight-link",
     "url": "https://github.com/fmz200/global-testflight-link",
     "lang": "",
     "desc": "收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's public iOS/iPadOS/MacOS Testflight links."
-  },
-  {
-    "createdAt": "2025-08-14T08:50:36Z",
-    "stars": 229,
-    "name": "synacktiv/gpoParser",
-    "url": "https://github.com/synacktiv/gpoParser",
-    "lang": "Python",
-    "desc": "gpoParser is a tool designed to extract and analyze configurations applied through Group Policy Objects (GPOs) in an Active Directory environment."
   },
   {
     "createdAt": "2025-08-16T10:14:45Z",
@@ -216,104 +184,80 @@
     "desc": "A universal bot for automatically sniping and buying Telegram gifts"
   },
   {
-    "createdAt": "2025-08-15T11:57:47Z",
-    "stars": 224,
-    "name": "inclusionAI/UI-Venus",
-    "url": "https://github.com/inclusionAI/UI-Venus",
-    "lang": "Python",
-    "desc": "UI-Venus is a native UI agent based on the Qwen2.5-VL multimodal large language model, designed to perform precise GUI element grounding and effective navigation using only screenshots as input."
-  },
-  {
-    "createdAt": "2025-08-14T08:01:56Z",
-    "stars": 222,
-    "name": "slowmist/Crypto-Asset-Tracing-Handbook",
-    "url": "https://github.com/slowmist/Crypto-Asset-Tracing-Handbook",
-    "lang": "",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-20T11:31:28Z",
-    "stars": 215,
+    "stars": 222,
     "name": "DatarusAI/Datarus-JupyterAgent",
     "url": "https://github.com/DatarusAI/Datarus-JupyterAgent",
     "lang": "Python",
     "desc": "A sophisticated multi-step reasoning pipeline powered by the Datarus-R1-14B-Preview model"
   },
   {
-    "createdAt": "2025-08-16T20:13:36Z",
-    "stars": 213,
-    "name": "BO6-Warzone-cheat/warzone-cheat",
-    "url": "https://github.com/BO6-Warzone-cheat/warzone-cheat",
-    "lang": "",
-    "desc": "Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Enhance accuracy, awareness, and strategy."
-  },
-  {
     "createdAt": "2025-08-15T18:01:17Z",
-    "stars": 212,
+    "stars": 213,
     "name": "productdevbook/nitroping",
     "url": "https://github.com/productdevbook/nitroping",
     "lang": "Vue",
     "desc": "Open-source, self-hosted push notification service built with Nuxt 4 & Nitro."
   },
   {
-    "createdAt": "2025-08-14T08:44:13Z",
-    "stars": 200,
-    "name": "best-of-ai/best-of-ai",
-    "url": "https://github.com/best-of-ai/best-of-ai",
-    "lang": "",
-    "desc": "A curated list of best ai tools"
-  },
-  {
-    "createdAt": "2025-08-18T13:49:57Z",
-    "stars": 189,
-    "name": "ComposioHQ/t3chat-composio",
-    "url": "https://github.com/ComposioHQ/t3chat-composio",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-15T11:02:13Z",
-    "stars": 188,
+    "stars": 210,
     "name": "sdiehl/typechecker-zoo",
     "url": "https://github.com/sdiehl/typechecker-zoo",
     "lang": "Rust",
     "desc": "A menagerie of cute implementations of modern typechecking algorithms"
   },
   {
+    "createdAt": "2025-08-16T20:13:36Z",
+    "stars": 204,
+    "name": "BO6-Warzone-cheat/warzone-cheat",
+    "url": "https://github.com/BO6-Warzone-cheat/warzone-cheat",
+    "lang": "",
+    "desc": "Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Enhance accuracy, awareness, and strategy."
+  },
+  {
     "createdAt": "2025-08-17T15:21:30Z",
-    "stars": 185,
+    "stars": 201,
     "name": "3DTopia/4DNeX",
     "url": "https://github.com/3DTopia/4DNeX",
     "lang": "",
     "desc": "4DNeX: Feed-Forward 4D Generative Modeling Made Easy"
   },
   {
+    "createdAt": "2025-08-18T13:49:57Z",
+    "stars": 191,
+    "name": "ComposioHQ/t3chat-composio",
+    "url": "https://github.com/ComposioHQ/t3chat-composio",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-08-15T05:31:39Z",
-    "stars": 182,
+    "stars": 186,
     "name": "BehiSecc/First-Bounty",
     "url": "https://github.com/BehiSecc/First-Bounty",
     "lang": "",
     "desc": "A complete, beginner-friendly bug bounty roadmap that takes you from zero experience to earning your first bounty."
   },
   {
-    "createdAt": "2025-08-21T13:14:09Z",
-    "stars": 178,
-    "name": "Seratharz7FAJ1/Flashloan-Arbitrage-Bot",
-    "url": "https://github.com/Seratharz7FAJ1/Flashloan-Arbitrage-Bot",
-    "lang": "JavaScript",
-    "desc": "Flashloan Arbitrage on Ethereum 5 DeFi Protocols,DYDX,Uniswap,SushiSwap,Curve,Balancer"
-  },
-  {
     "createdAt": "2025-08-18T21:39:45Z",
-    "stars": 176,
+    "stars": 185,
     "name": "R0rt1z2/fenrir",
     "url": "https://github.com/R0rt1z2/fenrir",
     "lang": "Python",
     "desc": "Bootchain exploit for MediaTek devices"
   },
   {
+    "createdAt": "2025-08-17T16:39:22Z",
+    "stars": 183,
+    "name": "Relaxed-System-Lab/Flash-Sparse-Attention",
+    "url": "https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention",
+    "lang": "Python",
+    "desc": "🚀🚀 Efficient implementations of Native Sparse Attention"
+  },
+  {
     "createdAt": "2025-08-16T20:49:57Z",
-    "stars": 171,
+    "stars": 178,
     "name": "Lobotomy-Software/SlaveDriver-Engine",
     "url": "https://github.com/Lobotomy-Software/SlaveDriver-Engine",
     "lang": "C",
@@ -321,82 +265,138 @@
   },
   {
     "createdAt": "2025-08-16T12:32:47Z",
-    "stars": 161,
+    "stars": 173,
     "name": "hiteshchoudhary/ai-chat-app-with-agents-getstream",
     "url": "https://github.com/hiteshchoudhary/ai-chat-app-with-agents-getstream",
     "lang": "TypeScript",
     "desc": "ai-chat-app-with-agents-getstream"
   },
   {
-    "createdAt": "2025-08-14T01:25:27Z",
-    "stars": 156,
-    "name": "RosettaCommons/atomworks",
-    "url": "https://github.com/RosettaCommons/atomworks",
-    "lang": "Python",
-    "desc": "A generalized computational framework for biomolecular modeling."
+    "createdAt": "2025-08-19T06:22:12Z",
+    "stars": 171,
+    "name": "bytedance-fanqie-ai/FocusDPO",
+    "url": "https://github.com/bytedance-fanqie-ai/FocusDPO",
+    "lang": "",
+    "desc": ""
   },
   {
-    "createdAt": "2025-08-14T19:41:31Z",
-    "stars": 156,
-    "name": "BnuuySolutions/PSVR2Toolkit",
-    "url": "https://github.com/BnuuySolutions/PSVR2Toolkit",
-    "lang": "C++",
-    "desc": "Unofficial modification for the official PlayStation VR2 driver/app."
+    "createdAt": "2025-08-19T08:15:52Z",
+    "stars": 168,
+    "name": "bytedance-fanqie-ai/MOSAIC",
+    "url": "https://github.com/bytedance-fanqie-ai/MOSAIC",
+    "lang": "",
+    "desc": ""
   },
   {
-    "createdAt": "2025-08-20T05:15:16Z",
-    "stars": 145,
-    "name": "opactorai/Claudable",
-    "url": "https://github.com/opactorai/Claudable",
+    "createdAt": "2025-08-21T21:03:28Z",
+    "stars": 167,
+    "name": "shuding/nstr",
+    "url": "https://github.com/shuding/nstr",
     "lang": "TypeScript",
-    "desc": "Connect Claude Code. Build what you want. Deploy instantly."
+    "desc": "number → string, but looks good"
   },
   {
     "createdAt": "2025-08-15T17:24:44Z",
-    "stars": 145,
+    "stars": 147,
     "name": "wyattjoh/jmap-mcp",
     "url": "https://github.com/wyattjoh/jmap-mcp",
     "lang": "TypeScript",
     "desc": "A Model Context Protocol (MCP) server that provides tools for interacting with JMAP (JSON Meta Application Protocol) email servers. Built with Deno and using the jmap-jam client library."
   },
   {
-    "createdAt": "2025-08-14T08:31:17Z",
-    "stars": 145,
-    "name": "We-Math/We-Math2.0",
-    "url": "https://github.com/We-Math/We-Math2.0",
-    "lang": "Python",
-    "desc": "The code and data of We-Math 2.0."
-  },
-  {
-    "createdAt": "2025-08-14T06:12:16Z",
-    "stars": 144,
-    "name": "Ido-Levi/claude-code-tamagotchi",
-    "url": "https://github.com/Ido-Levi/claude-code-tamagotchi",
-    "lang": "TypeScript",
-    "desc": "The ultimate productivity companion/destroyer! This Tamagotchi tries its best to help but mostly just wants snacks."
-  },
-  {
-    "createdAt": "2025-08-17T16:39:22Z",
-    "stars": 143,
-    "name": "Relaxed-System-Lab/Flash-Sparse-Attention",
-    "url": "https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention",
-    "lang": "Python",
-    "desc": "🚀🚀 Efficient implementations of Native Sparse Attention"
-  },
-  {
-    "createdAt": "2025-08-14T19:19:13Z",
-    "stars": 141,
-    "name": "celiobjunior/resume-template",
-    "url": "https://github.com/celiobjunior/resume-template",
-    "lang": "TeX",
-    "desc": "The best LaTeX template resume for international roles."
-  },
-  {
     "createdAt": "2025-08-16T00:21:55Z",
-    "stars": 140,
+    "stars": 145,
     "name": "techwithmanuel/react-query-key-manager",
     "url": "https://github.com/techwithmanuel/react-query-key-manager",
     "lang": "TypeScript",
     "desc": "Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead."
+  },
+  {
+    "createdAt": "2025-08-15T03:32:12Z",
+    "stars": 143,
+    "name": "KroMiose/claude-code-nexus",
+    "url": "https://github.com/KroMiose/claude-code-nexus",
+    "lang": "TypeScript",
+    "desc": "Claude API Proxy platform - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker."
+  },
+  {
+    "createdAt": "2025-08-18T18:03:52Z",
+    "stars": 142,
+    "name": "RosettaCommons/RFdiffusion2",
+    "url": "https://github.com/RosettaCommons/RFdiffusion2",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-18T09:28:32Z",
+    "stars": 137,
+    "name": "0xJs/BlockEDRTraffic",
+    "url": "https://github.com/0xJs/BlockEDRTraffic",
+    "lang": "C",
+    "desc": "Two tools written in C that block network traffic for blacklisted EDR processes, using either Windows Defender Firewall (WDF) or Windows Filtering Platform (WFP)."
+  },
+  {
+    "createdAt": "2025-08-20T21:25:11Z",
+    "stars": 137,
+    "name": "scaik/scam-max-disabler",
+    "url": "https://github.com/scaik/scam-max-disabler",
+    "lang": "Kotlin",
+    "desc": "Позволяет убедительно показать, что Max «не работает» на вашем устройстве в ситуациях, когда требуют его установку"
+  },
+  {
+    "createdAt": "2025-08-18T09:12:16Z",
+    "stars": 136,
+    "name": "EternityJune25/ComoRAG",
+    "url": "https://github.com/EternityJune25/ComoRAG",
+    "lang": "Python",
+    "desc": "ComoRAG is a Retrieval-Augmented Generation (RAG) system for long documents and multi-document QA, information extraction, and knowledge graph construction. It integrates various LLMs, embedding models, graph-based reasoning, and evaluation tools, suitable for both research and practical applications."
+  },
+  {
+    "createdAt": "2025-08-19T16:37:19Z",
+    "stars": 136,
+    "name": "geekjourneyx/obsidian-md2wechat",
+    "url": "https://github.com/geekjourneyx/obsidian-md2wechat",
+    "lang": "TypeScript",
+    "desc": "这是一个专为 Obsidian 用户设计的插件，基于 [极简美学排版神器](https://www.md2wechat.cn) 强大的 API 服务，可以轻松将 Markdown 文档转换为适合微信公众号发布的样式化 HTML 内容。"
+  },
+  {
+    "createdAt": "2025-08-15T06:13:12Z",
+    "stars": 134,
+    "name": "tonbo-io/typed-arrow",
+    "url": "https://github.com/tonbo-io/typed-arrow",
+    "lang": "Rust",
+    "desc": "Compile‑time Arrow schemas for Rust."
+  },
+  {
+    "createdAt": "2025-08-20T07:38:00Z",
+    "stars": 134,
+    "name": "getActivity/DeviceCompat",
+    "url": "https://github.com/getActivity/DeviceCompat",
+    "lang": "Java",
+    "desc": "解决 Android 适配的最后一公里"
+  },
+  {
+    "createdAt": "2025-08-21T03:13:43Z",
+    "stars": 125,
+    "name": "Team-intN18-SoybeanSeclab/Phantom",
+    "url": "https://github.com/Team-intN18-SoybeanSeclab/Phantom",
+    "lang": "JavaScript",
+    "desc": "一款面向SRC漏洞挖掘中，页面信息收集场景的浏览器扩展，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置"
+  },
+  {
+    "createdAt": "2025-08-15T14:49:55Z",
+    "stars": 124,
+    "name": "code3-dev/ProxyCloud-GUI",
+    "url": "https://github.com/code3-dev/ProxyCloud-GUI",
+    "lang": "JavaScript",
+    "desc": "Proxy Cloud for Desktop. based on Freedom Guard"
+  },
+  {
+    "createdAt": "2025-08-21T17:26:49Z",
+    "stars": 124,
+    "name": "code100x/1ai",
+    "url": "https://github.com/code100x/1ai",
+    "lang": "TypeScript",
+    "desc": ""
   }
 ]
