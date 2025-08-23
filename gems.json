@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-08-19T17:22:54Z",
-    "stars": 2759,
+    "stars": 3131,
     "name": "openai/agents.md",
     "url": "https://github.com/openai/agents.md",
     "lang": "TypeScript",
@@ -9,39 +9,23 @@
   },
   {
     "createdAt": "2025-08-16T18:48:24Z",
-    "stars": 1857,
+    "stars": 2121,
     "name": "bgreenwell/doxx",
     "url": "https://github.com/bgreenwell/doxx",
     "lang": "Rust",
     "desc": "Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!"
   },
   {
-    "createdAt": "2025-08-15T02:17:49Z",
-    "stars": 1474,
-    "name": "panphora/overtype",
-    "url": "https://github.com/panphora/overtype",
-    "lang": "JavaScript",
-    "desc": "The markdown editor that's just a textarea https://overtype.dev"
-  },
-  {
     "createdAt": "2025-08-18T23:20:08Z",
-    "stars": 1280,
+    "stars": 1423,
     "name": "automazeio/ccpm",
     "url": "https://github.com/automazeio/ccpm",
     "lang": "Shell",
     "desc": "Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution."
   },
   {
-    "createdAt": "2025-08-15T01:52:01Z",
-    "stars": 1168,
-    "name": "vercel/streamdown",
-    "url": "https://github.com/vercel/streamdown",
-    "lang": "TypeScript",
-    "desc": "A drop-in replacement for react-markdown, designed for AI-powered streaming."
-  },
-  {
     "createdAt": "2025-08-20T03:25:28Z",
-    "stars": 1028,
+    "stars": 1106,
     "name": "karpathy/rendergit",
     "url": "https://github.com/karpathy/rendergit",
     "lang": "Python",
@@ -49,7 +33,7 @@
   },
   {
     "createdAt": "2025-08-16T21:49:49Z",
-    "stars": 1023,
+    "stars": 1061,
     "name": "minitap-ai/mobile-use",
     "url": "https://github.com/minitap-ai/mobile-use",
     "lang": "Python",
@@ -57,7 +41,7 @@
   },
   {
     "createdAt": "2025-08-16T05:20:19Z",
-    "stars": 674,
+    "stars": 675,
     "name": "cnrad/keyboard-signature",
     "url": "https://github.com/cnrad/keyboard-signature",
     "lang": "TypeScript",
@@ -65,39 +49,31 @@
   },
   {
     "createdAt": "2025-08-18T14:53:49Z",
-    "stars": 569,
+    "stars": 645,
     "name": "NiladriHazra/Open-Fiesta",
     "url": "https://github.com/NiladriHazra/Open-Fiesta",
     "lang": "TypeScript",
     "desc": "An open-source version of  Dhruv Rathee's  AI startup.  Even with more models :)"
   },
   {
+    "createdAt": "2025-08-20T05:15:16Z",
+    "stars": 529,
+    "name": "opactorai/Claudable",
+    "url": "https://github.com/opactorai/Claudable",
+    "lang": "TypeScript",
+    "desc": "Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly."
+  },
+  {
     "createdAt": "2025-08-19T07:42:20Z",
-    "stars": 491,
+    "stars": 495,
     "name": "auv-sh/av",
     "url": "https://github.com/auv-sh/av",
     "lang": "Rust",
     "desc": "An extremely fast movie  manager, written in Rust."
   },
   {
-    "createdAt": "2025-08-15T07:09:54Z",
-    "stars": 480,
-    "name": "l2xu/betterbahn",
-    "url": "https://github.com/l2xu/betterbahn",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-15T10:28:50Z",
-    "stars": 478,
-    "name": "RayBytes/ChatMock",
-    "url": "https://github.com/RayBytes/ChatMock",
-    "lang": "Python",
-    "desc": "Access OpenAI models programmatically through your ChatGPT subscription."
-  },
-  {
     "createdAt": "2025-08-19T19:25:23Z",
-    "stars": 462,
+    "stars": 484,
     "name": "tobi/try",
     "url": "https://github.com/tobi/try",
     "lang": "Ruby",
@@ -105,15 +81,23 @@
   },
   {
     "createdAt": "2025-08-20T14:35:47Z",
-    "stars": 441,
+    "stars": 464,
     "name": "Growth-Kinetics/DiffMem",
     "url": "https://github.com/Growth-Kinetics/DiffMem",
     "lang": "Python",
     "desc": "Git Based Memory Storage for Conversational AI Agent"
   },
   {
+    "createdAt": "2025-08-17T07:43:01Z",
+    "stars": 394,
+    "name": "krishnaik06/Complete-RoadMap-To-Learn-AI",
+    "url": "https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI",
+    "lang": "",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-08-17T07:37:20Z",
-    "stars": 360,
+    "stars": 366,
     "name": "Hzao/PocketChest",
     "url": "https://github.com/Hzao/PocketChest",
     "lang": "TypeScript",
@@ -121,107 +105,99 @@
   },
   {
     "createdAt": "2025-08-16T14:07:49Z",
-    "stars": 353,
+    "stars": 366,
     "name": "superstarryeyes/lue",
     "url": "https://github.com/superstarryeyes/lue",
     "lang": "Python",
     "desc": "Terminal eBook Reader with Text-to-Speech"
   },
   {
-    "createdAt": "2025-08-17T07:43:01Z",
-    "stars": 345,
-    "name": "krishnaik06/Complete-RoadMap-To-Learn-AI",
-    "url": "https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI",
-    "lang": "",
-    "desc": ""
+    "createdAt": "2025-08-21T21:03:28Z",
+    "stars": 343,
+    "name": "shuding/nstr",
+    "url": "https://github.com/shuding/nstr",
+    "lang": "TypeScript",
+    "desc": "number → string, but looks good"
   },
   {
     "createdAt": "2025-08-17T01:28:57Z",
-    "stars": 321,
+    "stars": 332,
     "name": "yfzhang114/Thyme",
     "url": "https://github.com/yfzhang114/Thyme",
     "lang": "Python",
     "desc": "Think Beyond Images"
   },
   {
-    "createdAt": "2025-08-20T05:15:16Z",
-    "stars": 304,
-    "name": "opactorai/Claudable",
-    "url": "https://github.com/opactorai/Claudable",
-    "lang": "TypeScript",
-    "desc": "Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly."
-  },
-  {
     "createdAt": "2025-08-16T11:05:38Z",
-    "stars": 301,
+    "stars": 311,
     "name": "Print3M/DllShimmer",
     "url": "https://github.com/Print3M/DllShimmer",
     "lang": "Go",
     "desc": "Weaponize DLL hijacking easily. Backdoor any function in any DLL."
   },
   {
-    "createdAt": "2025-08-15T11:57:47Z",
-    "stars": 274,
-    "name": "inclusionAI/UI-Venus",
-    "url": "https://github.com/inclusionAI/UI-Venus",
-    "lang": "Python",
-    "desc": "UI-Venus is a native UI agent designed to perform precise GUI element grounding and effective navigation using only screenshots as input."
-  },
-  {
     "createdAt": "2025-08-16T10:29:42Z",
-    "stars": 250,
+    "stars": 258,
     "name": "fmz200/global-testflight-link",
     "url": "https://github.com/fmz200/global-testflight-link",
     "lang": "",
     "desc": "收集苹果公开的iOS/iPadOS/MacOS Testflight链接。Collect Apple's public iOS/iPadOS/MacOS Testflight links."
   },
   {
-    "createdAt": "2025-08-16T10:14:45Z",
-    "stars": 224,
-    "name": "blindxvc/Gift-Buyer",
-    "url": "https://github.com/blindxvc/Gift-Buyer",
+    "createdAt": "2025-08-17T16:39:22Z",
+    "stars": 220,
+    "name": "Relaxed-System-Lab/Flash-Sparse-Attention",
+    "url": "https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention",
     "lang": "Python",
-    "desc": "A universal bot for automatically sniping and buying Telegram gifts"
+    "desc": "🚀🚀 Efficient implementations of Native Sparse Attention"
+  },
+  {
+    "createdAt": "2025-08-17T15:21:30Z",
+    "stars": 215,
+    "name": "3DTopia/4DNeX",
+    "url": "https://github.com/3DTopia/4DNeX",
+    "lang": "",
+    "desc": "4DNeX: Feed-Forward 4D Generative Modeling Made Easy"
+  },
+  {
+    "createdAt": "2025-08-19T06:22:12Z",
+    "stars": 208,
+    "name": "bytedance-fanqie-ai/FocusDPO",
+    "url": "https://github.com/bytedance-fanqie-ai/FocusDPO",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-19T08:15:52Z",
+    "stars": 203,
+    "name": "bytedance-fanqie-ai/MOSAIC",
+    "url": "https://github.com/bytedance-fanqie-ai/MOSAIC",
+    "lang": "",
+    "desc": ""
   },
   {
     "createdAt": "2025-08-20T11:31:28Z",
-    "stars": 222,
+    "stars": 202,
     "name": "DatarusAI/Datarus-JupyterAgent",
     "url": "https://github.com/DatarusAI/Datarus-JupyterAgent",
     "lang": "Python",
     "desc": "A sophisticated multi-step reasoning pipeline powered by the Datarus-R1-14B-Preview model"
   },
   {
-    "createdAt": "2025-08-15T18:01:17Z",
-    "stars": 213,
-    "name": "productdevbook/nitroping",
-    "url": "https://github.com/productdevbook/nitroping",
-    "lang": "Vue",
-    "desc": "Open-source, self-hosted push notification service built with Nuxt 4 & Nitro."
+    "createdAt": "2025-08-23T10:35:44Z",
+    "stars": 198,
+    "name": "librebox-devs/librebox-demo",
+    "url": "https://github.com/librebox-devs/librebox-demo",
+    "lang": "C++",
+    "desc": "Librebox – An open source, Roblox-compatible game engine"
   },
   {
-    "createdAt": "2025-08-15T11:02:13Z",
-    "stars": 210,
-    "name": "sdiehl/typechecker-zoo",
-    "url": "https://github.com/sdiehl/typechecker-zoo",
-    "lang": "Rust",
-    "desc": "A menagerie of cute implementations of modern typechecking algorithms"
-  },
-  {
-    "createdAt": "2025-08-16T20:13:36Z",
-    "stars": 204,
-    "name": "BO6-Warzone-cheat/warzone-cheat",
-    "url": "https://github.com/BO6-Warzone-cheat/warzone-cheat",
-    "lang": "",
-    "desc": "Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Enhance accuracy, awareness, and strategy."
-  },
-  {
-    "createdAt": "2025-08-17T15:21:30Z",
-    "stars": 201,
-    "name": "3DTopia/4DNeX",
-    "url": "https://github.com/3DTopia/4DNeX",
-    "lang": "",
-    "desc": "4DNeX: Feed-Forward 4D Generative Modeling Made Easy"
+    "createdAt": "2025-08-20T21:25:11Z",
+    "stars": 197,
+    "name": "scaik/scam-max-disabler",
+    "url": "https://github.com/scaik/scam-max-disabler",
+    "lang": "Kotlin",
+    "desc": "Позволяет убедительно показать, что Max «не работает» на вашем устройстве в ситуациях, когда требуют его установку"
   },
   {
     "createdAt": "2025-08-18T13:49:57Z",
@@ -232,32 +208,24 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-08-15T05:31:39Z",
-    "stars": 186,
-    "name": "BehiSecc/First-Bounty",
-    "url": "https://github.com/BehiSecc/First-Bounty",
-    "lang": "",
-    "desc": "A complete, beginner-friendly bug bounty roadmap that takes you from zero experience to earning your first bounty."
-  },
-  {
     "createdAt": "2025-08-18T21:39:45Z",
-    "stars": 185,
+    "stars": 189,
     "name": "R0rt1z2/fenrir",
     "url": "https://github.com/R0rt1z2/fenrir",
     "lang": "Python",
     "desc": "Bootchain exploit for MediaTek devices"
   },
   {
-    "createdAt": "2025-08-17T16:39:22Z",
-    "stars": 183,
-    "name": "Relaxed-System-Lab/Flash-Sparse-Attention",
-    "url": "https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention",
-    "lang": "Python",
-    "desc": "🚀🚀 Efficient implementations of Native Sparse Attention"
+    "createdAt": "2025-08-16T20:13:36Z",
+    "stars": 189,
+    "name": "BO6-Warzone-cheat/warzone-cheat",
+    "url": "https://github.com/BO6-Warzone-cheat/warzone-cheat",
+    "lang": "",
+    "desc": "Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Enhance accuracy, awareness, and strategy."
   },
   {
     "createdAt": "2025-08-16T20:49:57Z",
-    "stars": 178,
+    "stars": 181,
     "name": "Lobotomy-Software/SlaveDriver-Engine",
     "url": "https://github.com/Lobotomy-Software/SlaveDriver-Engine",
     "lang": "C",
@@ -265,138 +233,170 @@
   },
   {
     "createdAt": "2025-08-16T12:32:47Z",
-    "stars": 173,
+    "stars": 179,
     "name": "hiteshchoudhary/ai-chat-app-with-agents-getstream",
     "url": "https://github.com/hiteshchoudhary/ai-chat-app-with-agents-getstream",
     "lang": "TypeScript",
     "desc": "ai-chat-app-with-agents-getstream"
   },
   {
-    "createdAt": "2025-08-19T06:22:12Z",
-    "stars": 171,
-    "name": "bytedance-fanqie-ai/FocusDPO",
-    "url": "https://github.com/bytedance-fanqie-ai/FocusDPO",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-19T08:15:52Z",
-    "stars": 168,
-    "name": "bytedance-fanqie-ai/MOSAIC",
-    "url": "https://github.com/bytedance-fanqie-ai/MOSAIC",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-21T21:03:28Z",
-    "stars": 167,
-    "name": "shuding/nstr",
-    "url": "https://github.com/shuding/nstr",
-    "lang": "TypeScript",
-    "desc": "number → string, but looks good"
-  },
-  {
-    "createdAt": "2025-08-15T17:24:44Z",
-    "stars": 147,
-    "name": "wyattjoh/jmap-mcp",
-    "url": "https://github.com/wyattjoh/jmap-mcp",
-    "lang": "TypeScript",
-    "desc": "A Model Context Protocol (MCP) server that provides tools for interacting with JMAP (JSON Meta Application Protocol) email servers. Built with Deno and using the jmap-jam client library."
-  },
-  {
-    "createdAt": "2025-08-16T00:21:55Z",
-    "stars": 145,
-    "name": "techwithmanuel/react-query-key-manager",
-    "url": "https://github.com/techwithmanuel/react-query-key-manager",
-    "lang": "TypeScript",
-    "desc": "Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead."
-  },
-  {
-    "createdAt": "2025-08-15T03:32:12Z",
-    "stars": 143,
-    "name": "KroMiose/claude-code-nexus",
-    "url": "https://github.com/KroMiose/claude-code-nexus",
-    "lang": "TypeScript",
-    "desc": "Claude API Proxy platform - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker."
-  },
-  {
     "createdAt": "2025-08-18T18:03:52Z",
-    "stars": 142,
+    "stars": 178,
     "name": "RosettaCommons/RFdiffusion2",
     "url": "https://github.com/RosettaCommons/RFdiffusion2",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-18T09:28:32Z",
-    "stars": 137,
-    "name": "0xJs/BlockEDRTraffic",
-    "url": "https://github.com/0xJs/BlockEDRTraffic",
-    "lang": "C",
-    "desc": "Two tools written in C that block network traffic for blacklisted EDR processes, using either Windows Defender Firewall (WDF) or Windows Filtering Platform (WFP)."
+    "createdAt": "2025-08-20T22:02:57Z",
+    "stars": 158,
+    "name": "synacktiv/GroupPolicyBackdoor",
+    "url": "https://github.com/synacktiv/GroupPolicyBackdoor",
+    "lang": "Python",
+    "desc": "Group Policy Objects manipulation and exploitation framework"
   },
   {
-    "createdAt": "2025-08-20T21:25:11Z",
-    "stars": 137,
-    "name": "scaik/scam-max-disabler",
-    "url": "https://github.com/scaik/scam-max-disabler",
-    "lang": "Kotlin",
-    "desc": "Позволяет убедительно показать, что Max «не работает» на вашем устройстве в ситуациях, когда требуют его установку"
+    "createdAt": "2025-08-16T00:21:55Z",
+    "stars": 147,
+    "name": "techwithmanuel/react-query-key-manager",
+    "url": "https://github.com/techwithmanuel/react-query-key-manager",
+    "lang": "TypeScript",
+    "desc": "Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead."
+  },
+  {
+    "createdAt": "2025-08-21T17:26:49Z",
+    "stars": 147,
+    "name": "code100x/1ai",
+    "url": "https://github.com/code100x/1ai",
+    "lang": "TypeScript",
+    "desc": ""
   },
   {
     "createdAt": "2025-08-18T09:12:16Z",
-    "stars": 136,
+    "stars": 144,
     "name": "EternityJune25/ComoRAG",
     "url": "https://github.com/EternityJune25/ComoRAG",
     "lang": "Python",
     "desc": "ComoRAG is a Retrieval-Augmented Generation (RAG) system for long documents and multi-document QA, information extraction, and knowledge graph construction. It integrates various LLMs, embedding models, graph-based reasoning, and evaluation tools, suitable for both research and practical applications."
   },
   {
-    "createdAt": "2025-08-19T16:37:19Z",
-    "stars": 136,
-    "name": "geekjourneyx/obsidian-md2wechat",
-    "url": "https://github.com/geekjourneyx/obsidian-md2wechat",
-    "lang": "TypeScript",
-    "desc": "这是一个专为 Obsidian 用户设计的插件，基于 [极简美学排版神器](https://www.md2wechat.cn) 强大的 API 服务，可以轻松将 Markdown 文档转换为适合微信公众号发布的样式化 HTML 内容。"
-  },
-  {
-    "createdAt": "2025-08-15T06:13:12Z",
-    "stars": 134,
-    "name": "tonbo-io/typed-arrow",
-    "url": "https://github.com/tonbo-io/typed-arrow",
-    "lang": "Rust",
-    "desc": "Compile‑time Arrow schemas for Rust."
-  },
-  {
-    "createdAt": "2025-08-20T07:38:00Z",
-    "stars": 134,
-    "name": "getActivity/DeviceCompat",
-    "url": "https://github.com/getActivity/DeviceCompat",
-    "lang": "Java",
-    "desc": "解决 Android 适配的最后一公里"
-  },
-  {
     "createdAt": "2025-08-21T03:13:43Z",
-    "stars": 125,
+    "stars": 141,
     "name": "Team-intN18-SoybeanSeclab/Phantom",
     "url": "https://github.com/Team-intN18-SoybeanSeclab/Phantom",
     "lang": "JavaScript",
     "desc": "一款面向SRC漏洞挖掘中，页面信息收集场景的浏览器扩展，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置"
   },
   {
-    "createdAt": "2025-08-15T14:49:55Z",
-    "stars": 124,
-    "name": "code3-dev/ProxyCloud-GUI",
-    "url": "https://github.com/code3-dev/ProxyCloud-GUI",
-    "lang": "JavaScript",
-    "desc": "Proxy Cloud for Desktop. based on Freedom Guard"
+    "createdAt": "2025-08-19T16:37:19Z",
+    "stars": 139,
+    "name": "geekjourneyx/obsidian-md2wechat",
+    "url": "https://github.com/geekjourneyx/obsidian-md2wechat",
+    "lang": "TypeScript",
+    "desc": "这是一个专为 Obsidian 用户设计的插件，基于 [极简美学排版神器](https://www.md2wechat.cn) 强大的 API 服务，可以轻松将 Markdown 文档转换为适合微信公众号发布的样式化 HTML 内容。"
   },
   {
-    "createdAt": "2025-08-21T17:26:49Z",
-    "stars": 124,
-    "name": "code100x/1ai",
-    "url": "https://github.com/code100x/1ai",
+    "createdAt": "2025-08-18T09:28:32Z",
+    "stars": 138,
+    "name": "0xJs/BlockEDRTraffic",
+    "url": "https://github.com/0xJs/BlockEDRTraffic",
+    "lang": "C",
+    "desc": "Two tools written in C that block network traffic for blacklisted EDR processes, using either Windows Defender Firewall (WDF) or Windows Filtering Platform (WFP)."
+  },
+  {
+    "createdAt": "2025-08-20T07:38:00Z",
+    "stars": 138,
+    "name": "getActivity/DeviceCompat",
+    "url": "https://github.com/getActivity/DeviceCompat",
+    "lang": "Java",
+    "desc": "解决 Android 适配的最后一公里"
+  },
+  {
+    "createdAt": "2025-08-18T14:29:31Z",
+    "stars": 117,
+    "name": "fccview/cronmaster",
+    "url": "https://github.com/fccview/cronmaster",
+    "lang": "TypeScript",
+    "desc": "Cron management made easy"
+  },
+  {
+    "createdAt": "2025-08-19T17:50:09Z",
+    "stars": 116,
+    "name": "attention-survey/Efficient_Attention_Survey",
+    "url": "https://github.com/attention-survey/Efficient_Attention_Survey",
+    "lang": "",
+    "desc": "A Survey of Efficient Attention Methods: Hardware-efficient, Sparse, Compact, and Linear Attention"
+  },
+  {
+    "createdAt": "2025-08-16T23:31:38Z",
+    "stars": 115,
+    "name": "droneforge/yolov11-UAV-finetune",
+    "url": "https://github.com/droneforge/yolov11-UAV-finetune",
+    "lang": "Jupyter Notebook",
+    "desc": "Base yolov11n.pt trained on 6877 images of Drones and UAVs"
+  },
+  {
+    "createdAt": "2025-08-16T15:00:26Z",
+    "stars": 111,
+    "name": "SuperIlu/DOSDevelResources",
+    "url": "https://github.com/SuperIlu/DOSDevelResources",
+    "lang": "",
+    "desc": "A short list of development resources for MS-DOS. Heavily influenced by my own projects and favorites"
+  },
+  {
+    "createdAt": "2025-08-16T02:41:31Z",
+    "stars": 110,
+    "name": "jina-ai/mlx-retrieval",
+    "url": "https://github.com/jina-ai/mlx-retrieval",
+    "lang": "Python",
+    "desc": "Train embedding and reranker models for retrieval tasks on Apple Silicon with MLX"
+  },
+  {
+    "createdAt": "2025-08-16T06:11:50Z",
+    "stars": 109,
+    "name": "GitDzreal93/clean-your-mac",
+    "url": "https://github.com/GitDzreal93/clean-your-mac",
     "lang": "TypeScript",
     "desc": ""
+  },
+  {
+    "createdAt": "2025-08-18T12:51:48Z",
+    "stars": 101,
+    "name": "AlexielArdilla/La-biblia-negrisima-del-Ethical-Hacker",
+    "url": "https://github.com/AlexielArdilla/La-biblia-negrisima-del-Ethical-Hacker",
+    "lang": "",
+    "desc": "[GRATIS] La Biblia Negrísima del Ethical Hacker: un viaje profundo al Red Team, con técnicas de hacking ético, OSINT, Nmap, Metasploit, evasión, ingeniería social y ataques avanzados. Pensar como atacante para defender como maestro."
+  },
+  {
+    "createdAt": "2025-08-16T21:45:54Z",
+    "stars": 100,
+    "name": "clickswave/mach",
+    "url": "https://github.com/clickswave/mach",
+    "lang": "Rust",
+    "desc": "Mach is a fast, reliable, and extensible web fuzzing tool built for security researchers, bug bounty hunters, and penetration testers. Designed with performance and simplicity in mind, it helps uncover hidden endpoints across modern web applications."
+  },
+  {
+    "createdAt": "2025-08-16T11:57:54Z",
+    "stars": 97,
+    "name": "iamsrikanthnani/pluely",
+    "url": "https://github.com/iamsrikanthnani/pluely",
+    "lang": "TypeScript",
+    "desc": "The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in video calls, screen shares, and recordings."
+  },
+  {
+    "createdAt": "2025-08-22T07:44:43Z",
+    "stars": 95,
+    "name": "konne88/functorio",
+    "url": "https://github.com/konne88/functorio",
+    "lang": "Lean",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-19T14:40:50Z",
+    "stars": 94,
+    "name": "allenai/asta-paper-finder",
+    "url": "https://github.com/allenai/asta-paper-finder",
+    "lang": "Python",
+    "desc": "frozen-in-time version of our  Paper Finder agent for reproducing evaluation results"
   }
 ]
