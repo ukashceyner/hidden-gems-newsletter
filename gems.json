@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-08-19T17:22:54Z",
-    "stars": 3328,
+    "stars": 3582,
     "name": "openai/agents.md",
     "url": "https://github.com/openai/agents.md",
     "lang": "TypeScript",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-08-18T23:20:08Z",
-    "stars": 1847,
+    "stars": 2351,
     "name": "automazeio/ccpm",
     "url": "https://github.com/automazeio/ccpm",
     "lang": "Shell",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-08-20T03:25:28Z",
-    "stars": 1170,
+    "stars": 1217,
     "name": "karpathy/rendergit",
     "url": "https://github.com/karpathy/rendergit",
     "lang": "Python",
@@ -25,7 +25,7 @@
   },
   {
     "createdAt": "2025-08-20T05:15:16Z",
-    "stars": 774,
+    "stars": 980,
     "name": "opactorai/Claudable",
     "url": "https://github.com/opactorai/Claudable",
     "lang": "TypeScript",
@@ -33,23 +33,15 @@
   },
   {
     "createdAt": "2025-08-18T14:53:49Z",
-    "stars": 751,
+    "stars": 792,
     "name": "NiladriHazra/Open-Fiesta",
     "url": "https://github.com/NiladriHazra/Open-Fiesta",
     "lang": "TypeScript",
     "desc": "An open-source version to use all the Models for free"
   },
   {
-    "createdAt": "2025-08-19T07:42:20Z",
-    "stars": 499,
-    "name": "auv-sh/av",
-    "url": "https://github.com/auv-sh/av",
-    "lang": "Rust",
-    "desc": "An extremely fast movie  manager, written in Rust."
-  },
-  {
     "createdAt": "2025-08-19T19:25:23Z",
-    "stars": 499,
+    "stars": 519,
     "name": "tobi/try",
     "url": "https://github.com/tobi/try",
     "lang": "Ruby",
@@ -57,95 +49,95 @@
   },
   {
     "createdAt": "2025-08-20T14:35:47Z",
-    "stars": 479,
+    "stars": 503,
     "name": "Growth-Kinetics/DiffMem",
     "url": "https://github.com/Growth-Kinetics/DiffMem",
     "lang": "Python",
     "desc": "Git Based Memory Storage for Conversational AI Agent"
   },
   {
-    "createdAt": "2025-08-17T07:43:01Z",
-    "stars": 426,
-    "name": "krishnaik06/Complete-RoadMap-To-Learn-AI",
-    "url": "https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI",
-    "lang": "",
-    "desc": ""
+    "createdAt": "2025-08-19T07:42:20Z",
+    "stars": 500,
+    "name": "auv-sh/av",
+    "url": "https://github.com/auv-sh/av",
+    "lang": "Rust",
+    "desc": "An extremely fast movie  manager, written in Rust."
+  },
+  {
+    "createdAt": "2025-08-21T08:06:06Z",
+    "stars": 498,
+    "name": "growchief/growchief",
+    "url": "https://github.com/growchief/growchief",
+    "lang": "TypeScript",
+    "desc": "All-in Social media automation (outreach) tool 🤖"
   },
   {
     "createdAt": "2025-08-21T21:03:28Z",
-    "stars": 420,
+    "stars": 486,
     "name": "shuding/nstr",
     "url": "https://github.com/shuding/nstr",
     "lang": "TypeScript",
     "desc": "number → string, but looks good"
   },
   {
-    "createdAt": "2025-08-17T07:37:20Z",
-    "stars": 371,
-    "name": "Hzao/PocketChest",
-    "url": "https://github.com/Hzao/PocketChest",
-    "lang": "TypeScript",
-    "desc": "Secure, serverless file and text sharing built on Cloudflare with large file support."
-  },
-  {
     "createdAt": "2025-08-23T10:35:44Z",
-    "stars": 360,
-    "name": "librebox-devs/librebox-demo",
-    "url": "https://github.com/librebox-devs/librebox-demo",
+    "stars": 411,
+    "name": "lunarengine/lunar-test",
+    "url": "https://github.com/lunarengine/lunar-test",
     "lang": "C++",
-    "desc": "Librebox – Open-source Luau 3D engine (API-compatible)"
-  },
-  {
-    "createdAt": "2025-08-17T01:28:57Z",
-    "stars": 351,
-    "name": "yfzhang114/Thyme",
-    "url": "https://github.com/yfzhang114/Thyme",
-    "lang": "Python",
-    "desc": "Think Beyond Images"
-  },
-  {
-    "createdAt": "2025-08-19T09:40:45Z",
-    "stars": 326,
-    "name": "printz-labs/pumpfun-bundler",
-    "url": "https://github.com/printz-labs/pumpfun-bundler",
-    "lang": "TypeScript",
-    "desc": "PumpFun bundler is a bundling tool to create/buy token in single bundle for Pumpfun with 20 wallets"
+    "desc": "LunarEngine – Open-source Luau 3D engine (API-compatible)"
   },
   {
     "createdAt": "2025-08-20T06:59:56Z",
-    "stars": 318,
+    "stars": 378,
     "name": "printz-labs/copytrading-bot-solana",
     "url": "https://github.com/printz-labs/copytrading-bot-solana",
     "lang": "TypeScript",
     "desc": "Copy trading bot(copytrading bot): copy the trader's trading on solana, This copy trading bot can work on any DEXs on Solana"
   },
   {
+    "createdAt": "2025-08-19T09:40:45Z",
+    "stars": 371,
+    "name": "printz-labs/pumpfun-bundler",
+    "url": "https://github.com/printz-labs/pumpfun-bundler",
+    "lang": "TypeScript",
+    "desc": "PumpFun bundler is a bundling tool to create/buy token in single bundle for Pumpfun with 20 wallets"
+  },
+  {
     "createdAt": "2025-08-19T17:32:25Z",
-    "stars": 307,
+    "stars": 358,
     "name": "printz-labs/solana-raydium-pumpfun-sniper-Rust",
     "url": "https://github.com/printz-labs/solana-raydium-pumpfun-sniper-Rust",
     "lang": "Rust",
     "desc": "solana raydium sniper/pumpfun sniper: this solana raydium sniper/pumpfun sniper is written in Rust⚡. In addtion to these solana raydium"
   },
   {
-    "createdAt": "2025-08-19T17:23:51Z",
-    "stars": 303,
-    "name": "printz-labs/pumpswap-bot-solana",
-    "url": "https://github.com/printz-labs/pumpswap-bot-solana",
-    "lang": "TypeScript",
-    "desc": "A PumpSwap trading bot for Solana. Also supports CPMM/OpenBook Raydium. Same-TX or human mode."
-  },
-  {
     "createdAt": "2025-08-19T17:25:50Z",
-    "stars": 302,
+    "stars": 354,
     "name": "printz-labs/bonkfun-sniper",
     "url": "https://github.com/printz-labs/bonkfun-sniper",
     "lang": "TypeScript",
     "desc": "🎯Solana Sniper Sets: ✅Raydium Bonkfun Sniper, ✅Pumpfun Sniper, ✅Migration Sniper and ✅Meteora Sniper"
   },
   {
+    "createdAt": "2025-08-19T17:23:51Z",
+    "stars": 350,
+    "name": "printz-labs/pumpswap-bot-solana",
+    "url": "https://github.com/printz-labs/pumpswap-bot-solana",
+    "lang": "TypeScript",
+    "desc": "A PumpSwap trading bot for Solana. Also supports CPMM/OpenBook Raydium. Same-TX or human mode."
+  },
+  {
+    "createdAt": "2025-08-24T02:58:20Z",
+    "stars": 287,
+    "name": "kagehq/port-kill",
+    "url": "https://github.com/kagehq/port-kill",
+    "lang": "Rust",
+    "desc": "A lightweight mac status bar development port monitor"
+  },
+  {
     "createdAt": "2025-08-19T06:22:12Z",
-    "stars": 261,
+    "stars": 275,
     "name": "bytedance-fanqie-ai/FocusDPO",
     "url": "https://github.com/bytedance-fanqie-ai/FocusDPO",
     "lang": "",
@@ -153,63 +145,87 @@
   },
   {
     "createdAt": "2025-08-19T08:15:52Z",
-    "stars": 257,
+    "stars": 270,
     "name": "bytedance-fanqie-ai/MOSAIC",
     "url": "https://github.com/bytedance-fanqie-ai/MOSAIC",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-17T16:39:22Z",
-    "stars": 242,
-    "name": "Relaxed-System-Lab/Flash-Sparse-Attention",
-    "url": "https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention",
-    "lang": "Python",
-    "desc": "🚀🚀 Efficient implementations of Native Sparse Attention"
-  },
-  {
-    "createdAt": "2025-08-17T15:21:30Z",
-    "stars": 223,
-    "name": "3DTopia/4DNeX",
-    "url": "https://github.com/3DTopia/4DNeX",
-    "lang": "",
-    "desc": "4DNeX: Feed-Forward 4D Generative Modeling Made Easy"
-  },
-  {
     "createdAt": "2025-08-20T21:25:11Z",
-    "stars": 221,
+    "stars": 238,
     "name": "scaik/scam-max-disabler",
     "url": "https://github.com/scaik/scam-max-disabler",
     "lang": "Kotlin",
     "desc": "Позволяет убедительно показать, что Max «не работает» на вашем устройстве в ситуациях, когда требуют его установку"
   },
   {
+    "createdAt": "2025-08-20T05:37:54Z",
+    "stars": 213,
+    "name": "topsecretagent007/Trading-Bot-Tools",
+    "url": "https://github.com/topsecretagent007/Trading-Bot-Tools",
+    "lang": "TypeScript",
+    "desc": "Pumpfun, Bonkfun, Bagsfm, Raydium, Metaora, Sui, Heaven,"
+  },
+  {
+    "createdAt": "2025-08-22T07:44:43Z",
+    "stars": 212,
+    "name": "konne88/functorio",
+    "url": "https://github.com/konne88/functorio",
+    "lang": "Lean",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-08-23T21:54:33Z",
-    "stars": 211,
+    "stars": 210,
     "name": "CallToSta/TG-2025",
     "url": "https://github.com/CallToSta/TG-2025",
     "lang": "Python",
     "desc": "Scraper, Adder, Forwarder, Copy, Report And More! Easy to use and no coding-knowledge required. A tool to scrape members, add members and many other functions."
   },
   {
-    "createdAt": "2025-08-24T02:58:20Z",
-    "stars": 211,
-    "name": "kagehq/port-kill",
-    "url": "https://github.com/kagehq/port-kill",
-    "lang": "Rust",
-    "desc": "A lightweight mac status bar development port monitor"
-  },
-  {
     "createdAt": "2025-08-20T11:31:28Z",
-    "stars": 203,
+    "stars": 210,
     "name": "DatarusAI/Datarus-JupyterAgent",
     "url": "https://github.com/DatarusAI/Datarus-JupyterAgent",
     "lang": "Python",
     "desc": "A sophisticated multi-step reasoning pipeline powered by the Datarus-R1-14B-Preview model"
   },
   {
+    "createdAt": "2025-08-24T23:35:04Z",
+    "stars": 209,
+    "name": "ENDESGA/PEP",
+    "url": "https://github.com/ENDESGA/PEP",
+    "lang": "C",
+    "desc": "Prediction-Encoded Pixels - a tiny yet powerful pixel art compression method"
+  },
+  {
+    "createdAt": "2025-08-20T22:02:57Z",
+    "stars": 201,
+    "name": "synacktiv/GroupPolicyBackdoor",
+    "url": "https://github.com/synacktiv/GroupPolicyBackdoor",
+    "lang": "Python",
+    "desc": "Group Policy Objects manipulation and exploitation framework"
+  },
+  {
+    "createdAt": "2025-08-18T18:03:52Z",
+    "stars": 200,
+    "name": "RosettaCommons/RFdiffusion2",
+    "url": "https://github.com/RosettaCommons/RFdiffusion2",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-25T09:50:48Z",
+    "stars": 200,
+    "name": "bravenewxyz/agent-c",
+    "url": "https://github.com/bravenewxyz/agent-c",
+    "lang": "C",
+    "desc": "Ultra-lightweight AI Agent"
+  },
+  {
     "createdAt": "2025-08-18T21:39:45Z",
-    "stars": 195,
+    "stars": 197,
     "name": "R0rt1z2/fenrir",
     "url": "https://github.com/R0rt1z2/fenrir",
     "lang": "Python",
@@ -217,135 +233,159 @@
   },
   {
     "createdAt": "2025-08-18T13:49:57Z",
-    "stars": 192,
+    "stars": 191,
     "name": "ComposioHQ/t3chat-composio",
     "url": "https://github.com/ComposioHQ/t3chat-composio",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-22T07:44:43Z",
-    "stars": 188,
-    "name": "konne88/functorio",
-    "url": "https://github.com/konne88/functorio",
-    "lang": "Lean",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-18T18:03:52Z",
-    "stars": 186,
-    "name": "RosettaCommons/RFdiffusion2",
-    "url": "https://github.com/RosettaCommons/RFdiffusion2",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-20T22:02:57Z",
-    "stars": 183,
-    "name": "synacktiv/GroupPolicyBackdoor",
-    "url": "https://github.com/synacktiv/GroupPolicyBackdoor",
-    "lang": "Python",
-    "desc": "Group Policy Objects manipulation and exploitation framework"
-  },
-  {
-    "createdAt": "2025-08-19T09:41:06Z",
-    "stars": 172,
-    "name": "printz-labs/pumpfun-sniper",
-    "url": "https://github.com/printz-labs/pumpfun-sniper",
-    "lang": "TypeScript",
-    "desc": "pumpufun sniper bot (pump.fun sniper bot) source code"
-  },
-  {
-    "createdAt": "2025-08-21T17:26:49Z",
-    "stars": 172,
-    "name": "code100x/1ai",
-    "url": "https://github.com/code100x/1ai",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-21T03:13:43Z",
-    "stars": 157,
+    "stars": 183,
     "name": "Team-intN18-SoybeanSeclab/Phantom",
     "url": "https://github.com/Team-intN18-SoybeanSeclab/Phantom",
     "lang": "JavaScript",
     "desc": "一款面向SRC漏洞挖掘中，页面信息收集场景的浏览器扩展，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置"
   },
   {
-    "createdAt": "2025-08-18T09:12:16Z",
-    "stars": 153,
-    "name": "EternityJune25/ComoRAG",
-    "url": "https://github.com/EternityJune25/ComoRAG",
-    "lang": "Python",
-    "desc": "ComoRAG is a Retrieval-Augmented Generation (RAG) system for long documents and multi-document QA, information extraction, and knowledge graph construction. It integrates various LLMs, embedding models, graph-based reasoning, and evaluation tools, suitable for both research and practical applications."
-  },
-  {
-    "createdAt": "2025-08-18T09:28:32Z",
-    "stars": 143,
-    "name": "0xJs/BlockEDRTraffic",
-    "url": "https://github.com/0xJs/BlockEDRTraffic",
-    "lang": "C",
-    "desc": "Two tools written in C that block network traffic for blacklisted EDR processes, using either Windows Defender Firewall (WDF) or Windows Filtering Platform (WFP)."
-  },
-  {
-    "createdAt": "2025-08-19T16:37:19Z",
-    "stars": 141,
-    "name": "geekjourneyx/obsidian-md2wechat",
-    "url": "https://github.com/geekjourneyx/obsidian-md2wechat",
-    "lang": "TypeScript",
-    "desc": "这是一个专为 Obsidian 用户设计的插件，基于 [极简美学排版神器](https://www.md2wechat.cn) 强大的 API 服务，可以轻松将 Markdown 文档转换为适合微信公众号发布的样式化 HTML 内容。"
-  },
-  {
-    "createdAt": "2025-08-20T07:38:00Z",
-    "stars": 140,
-    "name": "getActivity/DeviceCompat",
-    "url": "https://github.com/getActivity/DeviceCompat",
-    "lang": "Java",
-    "desc": "解决 Android 适配的最后一公里"
-  },
-  {
     "createdAt": "2025-08-19T09:41:35Z",
-    "stars": 138,
+    "stars": 182,
     "name": "printz-labs/pumpfun-smartcontract-solana",
     "url": "https://github.com/printz-labs/pumpfun-smartcontract-solana",
     "lang": "TypeScript",
     "desc": "Pumpfun smart contract (Solana Pumpfun Smart Contract fork, Pumpfun smart contract development Tool, Pumpfun smart contract SDK)"
   },
   {
-    "createdAt": "2025-08-18T14:29:31Z",
-    "stars": 124,
-    "name": "fccview/cronmaster",
-    "url": "https://github.com/fccview/cronmaster",
+    "createdAt": "2025-08-21T17:26:49Z",
+    "stars": 180,
+    "name": "code100x/1ai",
+    "url": "https://github.com/code100x/1ai",
     "lang": "TypeScript",
-    "desc": "Cron management made easy"
+    "desc": ""
   },
   {
-    "createdAt": "2025-08-19T17:50:09Z",
-    "stars": 124,
-    "name": "attention-survey/Efficient_Attention_Survey",
-    "url": "https://github.com/attention-survey/Efficient_Attention_Survey",
-    "lang": "",
-    "desc": "A Survey of Efficient Attention Methods: Hardware-efficient, Sparse, Compact, and Linear Attention"
-  },
-  {
-    "createdAt": "2025-08-18T10:41:50Z",
-    "stars": 114,
-    "name": "iblameandrew/local-deepsearch-academic",
-    "url": "https://github.com/iblameandrew/local-deepsearch-academic",
+    "createdAt": "2025-08-25T13:24:01Z",
+    "stars": 176,
+    "name": "microsoft/VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
     "lang": "Python",
-    "desc": "An implementation of Google Deep Search 🕵️ with support for 1000+ references,  local inference, chatting with your scraping session using RAPTOR, and report generation."
+    "desc": "Frontier Open-Source Text-to-Speech"
+  },
+  {
+    "createdAt": "2025-08-18T09:12:16Z",
+    "stars": 175,
+    "name": "EternityJune25/ComoRAG",
+    "url": "https://github.com/EternityJune25/ComoRAG",
+    "lang": "Python",
+    "desc": "ComoRAG is a Retrieval-Augmented Generation (RAG) system for long documents and multi-document QA, information extraction, and knowledge graph construction. It integrates various LLMs, embedding models, graph-based reasoning, and evaluation tools, suitable for both research and practical applications."
+  },
+  {
+    "createdAt": "2025-08-19T09:41:06Z",
+    "stars": 173,
+    "name": "printz-labs/pumpfun-sniper",
+    "url": "https://github.com/printz-labs/pumpfun-sniper",
+    "lang": "TypeScript",
+    "desc": "pumpufun sniper bot (pump.fun sniper bot) source code"
+  },
+  {
+    "createdAt": "2025-08-25T06:33:15Z",
+    "stars": 172,
+    "name": "warzone-cheats-aimbot/warzone-cheat",
+    "url": "https://github.com/warzone-cheats-aimbot/warzone-cheat",
+    "lang": "",
+    "desc": "Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Improve aim, awareness, and tactical strategy."
+  },
+  {
+    "createdAt": "2025-08-21T14:35:08Z",
+    "stars": 167,
+    "name": "Zenrithsy2pS/Passive-crypto-trading-bot",
+    "url": "https://github.com/Zenrithsy2pS/Passive-crypto-trading-bot",
+    "lang": "JavaScript",
+    "desc": "Flashloan Arbitrage Bot for Ethereum"
+  },
+  {
+    "createdAt": "2025-08-18T09:28:32Z",
+    "stars": 156,
+    "name": "0xJs/BlockEDRTraffic",
+    "url": "https://github.com/0xJs/BlockEDRTraffic",
+    "lang": "C",
+    "desc": "Two tools written in C that block network traffic for blacklisted EDR processes, using either Windows Defender Firewall (WDF) or Windows Filtering Platform (WFP)."
+  },
+  {
+    "createdAt": "2025-08-20T07:38:00Z",
+    "stars": 152,
+    "name": "getActivity/DeviceCompat",
+    "url": "https://github.com/getActivity/DeviceCompat",
+    "lang": "Java",
+    "desc": "解决 Android 适配的最后一公里"
   },
   {
     "createdAt": "2025-08-24T03:21:57Z",
-    "stars": 109,
+    "stars": 145,
     "name": "martianlantern/ThinkMesh",
     "url": "https://github.com/martianlantern/ThinkMesh",
     "lang": "Python",
     "desc": "Parallel thinking for LLMs. Confidence‑gated, strategy‑driven, offline‑friendly"
   },
   {
+    "createdAt": "2025-08-19T16:37:19Z",
+    "stars": 142,
+    "name": "geekjourneyx/obsidian-md2wechat",
+    "url": "https://github.com/geekjourneyx/obsidian-md2wechat",
+    "lang": "TypeScript",
+    "desc": "这是一个专为 Obsidian 用户设计的插件，基于 [极简美学排版神器](https://www.md2wechat.cn) 强大的 API 服务，可以轻松将 Markdown 文档转换为适合微信公众号发布的样式化 HTML 内容。"
+  },
+  {
+    "createdAt": "2025-08-19T17:50:09Z",
+    "stars": 139,
+    "name": "attention-survey/Efficient_Attention_Survey",
+    "url": "https://github.com/attention-survey/Efficient_Attention_Survey",
+    "lang": "",
+    "desc": "A Survey of Efficient Attention Methods: Hardware-efficient, Sparse, Compact, and Linear Attention"
+  },
+  {
+    "createdAt": "2025-08-23T01:35:15Z",
+    "stars": 135,
+    "name": "repomirrorhq/repomirror",
+    "url": "https://github.com/repomirrorhq/repomirror",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-18T10:41:50Z",
+    "stars": 134,
+    "name": "iblameandrew/local-deepsearch-academic",
+    "url": "https://github.com/iblameandrew/local-deepsearch-academic",
+    "lang": "Python",
+    "desc": "An implementation of Google Deep Search 🕵️ with support for 1000+ references,  local inference, chatting with your scraping session using RAPTOR, and report generation."
+  },
+  {
+    "createdAt": "2025-08-24T23:02:16Z",
+    "stars": 130,
+    "name": "30phyndrismu8ij/Ethereum-BOT",
+    "url": "https://github.com/30phyndrismu8ij/Ethereum-BOT",
+    "lang": "",
+    "desc": "Easy create your own bot for trading, arbitrage, and more on Ethereum and other blockchains. No coding required!"
+  },
+  {
+    "createdAt": "2025-08-18T14:29:31Z",
+    "stars": 128,
+    "name": "fccview/cronmaster",
+    "url": "https://github.com/fccview/cronmaster",
+    "lang": "TypeScript",
+    "desc": "Cron management made easy"
+  },
+  {
+    "createdAt": "2025-08-21T05:58:49Z",
+    "stars": 124,
+    "name": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
+    "url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated",
+    "lang": "C#",
+    "desc": "A PC Port of The Legend of Zelda: Link's Awakening."
+  },
+  {
     "createdAt": "2025-08-19T14:32:04Z",
-    "stars": 107,
+    "stars": 123,
     "name": "balavenkatesh3322/awesome-AI-toolkit",
     "url": "https://github.com/balavenkatesh3322/awesome-AI-toolkit",
     "lang": "",
@@ -353,50 +393,10 @@
   },
   {
     "createdAt": "2025-08-19T14:40:50Z",
-    "stars": 106,
+    "stars": 122,
     "name": "allenai/asta-paper-finder",
     "url": "https://github.com/allenai/asta-paper-finder",
     "lang": "Python",
     "desc": "frozen-in-time version of our  Paper Finder agent for reproducing evaluation results"
-  },
-  {
-    "createdAt": "2025-08-19T05:34:10Z",
-    "stars": 105,
-    "name": "dahlia/optique",
-    "url": "https://github.com/dahlia/optique",
-    "lang": "TypeScript",
-    "desc": "Type-safe combinatorial CLI parser for TypeScript"
-  },
-  {
-    "createdAt": "2025-08-18T12:51:48Z",
-    "stars": 103,
-    "name": "AlexielArdilla/La-biblia-negrisima-del-Ethical-Hacker",
-    "url": "https://github.com/AlexielArdilla/La-biblia-negrisima-del-Ethical-Hacker",
-    "lang": "",
-    "desc": "[GRATIS] La Biblia Negrísima del Ethical Hacker: un viaje profundo al Red Team, con técnicas de hacking ético, OSINT, Nmap, Metasploit, evasión, ingeniería social y ataques avanzados. Pensar como atacante para defender como maestro."
-  },
-  {
-    "createdAt": "2025-08-22T12:11:16Z",
-    "stars": 100,
-    "name": "PurinNyova/Image-Detection-Bypass-Utility",
-    "url": "https://github.com/PurinNyova/Image-Detection-Bypass-Utility",
-    "lang": "Python",
-    "desc": "Attempts to bypass AI Image detection by employing various methods such as: Noise Injection, FFT Smoothing, FFT Matching, Pixel Perturbation, Camera Simulation, and more."
-  },
-  {
-    "createdAt": "2025-08-21T14:35:08Z",
-    "stars": 100,
-    "name": "Zenrithsy2pS/Passive-crypto-trading-bot",
-    "url": "https://github.com/Zenrithsy2pS/Passive-crypto-trading-bot",
-    "lang": "JavaScript",
-    "desc": "Flashloan Arbitrage Bot for Ethereum"
-  },
-  {
-    "createdAt": "2025-08-21T05:58:49Z",
-    "stars": 97,
-    "name": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
-    "url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated",
-    "lang": "C#",
-    "desc": "A PC Port of The Legend of Zelda: Link's Awakening."
   }
 ]
