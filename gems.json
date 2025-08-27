@@ -1,31 +1,23 @@
 [
   {
-    "createdAt": "2025-08-19T17:22:54Z",
-    "stars": 3751,
-    "name": "openai/agents.md",
-    "url": "https://github.com/openai/agents.md",
-    "lang": "TypeScript",
-    "desc": "AGENTS.md — a simple, open format for guiding coding agents"
-  },
-  {
-    "createdAt": "2025-08-21T08:06:06Z",
-    "stars": 2716,
-    "name": "growchief/growchief",
-    "url": "https://github.com/growchief/growchief",
-    "lang": "TypeScript",
-    "desc": "The Ultimate all-in social media automation (outreach) tool 🤖"
-  },
-  {
     "createdAt": "2025-08-25T13:24:01Z",
-    "stars": 1674,
+    "stars": 3457,
     "name": "microsoft/VibeVoice",
     "url": "https://github.com/microsoft/VibeVoice",
     "lang": "Python",
     "desc": "Frontier Open-Source Text-to-Speech"
   },
   {
+    "createdAt": "2025-08-21T08:06:06Z",
+    "stars": 2727,
+    "name": "growchief/growchief",
+    "url": "https://github.com/growchief/growchief",
+    "lang": "TypeScript",
+    "desc": "The Ultimate all-in social media automation (outreach) tool 🤖"
+  },
+  {
     "createdAt": "2025-08-20T03:25:28Z",
-    "stars": 1328,
+    "stars": 1366,
     "name": "karpathy/rendergit",
     "url": "https://github.com/karpathy/rendergit",
     "lang": "Python",
@@ -33,103 +25,95 @@
   },
   {
     "createdAt": "2025-08-20T05:15:16Z",
-    "stars": 1187,
+    "stars": 1236,
     "name": "opactorai/Claudable",
     "url": "https://github.com/opactorai/Claudable",
     "lang": "TypeScript",
     "desc": "Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly."
   },
   {
-    "createdAt": "2025-08-19T19:25:23Z",
-    "stars": 532,
-    "name": "tobi/try",
-    "url": "https://github.com/tobi/try",
-    "lang": "Ruby",
-    "desc": "fresh directories for every vibe"
-  },
-  {
-    "createdAt": "2025-08-20T14:35:47Z",
-    "stars": 521,
-    "name": "Growth-Kinetics/DiffMem",
-    "url": "https://github.com/Growth-Kinetics/DiffMem",
-    "lang": "Python",
-    "desc": "Git Based Memory Storage for Conversational AI Agent"
-  },
-  {
     "createdAt": "2025-08-21T21:03:28Z",
-    "stars": 520,
+    "stars": 533,
     "name": "shuding/nstr",
     "url": "https://github.com/shuding/nstr",
     "lang": "TypeScript",
     "desc": "number → string, but looks good"
   },
   {
-    "createdAt": "2025-08-19T07:42:20Z",
-    "stars": 501,
-    "name": "auv-sh/av",
-    "url": "https://github.com/auv-sh/av",
-    "lang": "Rust",
-    "desc": "An extremely fast movie  manager, written in Rust."
+    "createdAt": "2025-08-20T14:35:47Z",
+    "stars": 530,
+    "name": "Growth-Kinetics/DiffMem",
+    "url": "https://github.com/Growth-Kinetics/DiffMem",
+    "lang": "Python",
+    "desc": "Git Based Memory Storage for Conversational AI Agent"
   },
   {
     "createdAt": "2025-08-23T10:35:44Z",
-    "stars": 428,
+    "stars": 440,
     "name": "lunarengine/lunar-test",
     "url": "https://github.com/lunarengine/lunar-test",
     "lang": "C++",
     "desc": "LunarEngine – Open-source Luau 3D engine (API-compatible)"
   },
   {
-    "createdAt": "2025-08-24T02:58:20Z",
-    "stars": 314,
-    "name": "kagehq/port-kill",
-    "url": "https://github.com/kagehq/port-kill",
-    "lang": "Rust",
-    "desc": "A lightweight mac status bar development port monitor"
-  },
-  {
-    "createdAt": "2025-08-19T22:22:13Z",
-    "stars": 287,
-    "name": "MaliosDark/wifi-3d-fusion",
-    "url": "https://github.com/MaliosDark/wifi-3d-fusion",
-    "lang": "Python",
-    "desc": "WiFi-3D-Fusion is an open-source research project that leverages WiFi CSI signals and deep learning to estimate 3D human pose, fusing wireless sensing with computer vision techniques for next-generation spatial awareness."
-  },
-  {
-    "createdAt": "2025-08-24T23:35:04Z",
-    "stars": 275,
-    "name": "ENDESGA/PEP",
-    "url": "https://github.com/ENDESGA/PEP",
-    "lang": "C",
-    "desc": "Prediction-Encoded Pixels - a tiny yet powerful pixel art compression method"
-  },
-  {
-    "createdAt": "2025-08-19T06:22:12Z",
-    "stars": 275,
-    "name": "bytedance-fanqie-ai/FocusDPO",
-    "url": "https://github.com/bytedance-fanqie-ai/FocusDPO",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-19T08:15:52Z",
-    "stars": 270,
-    "name": "bytedance-fanqie-ai/MOSAIC",
-    "url": "https://github.com/bytedance-fanqie-ai/MOSAIC",
-    "lang": "",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-20T15:23:21Z",
-    "stars": 262,
+    "stars": 394,
     "name": "NVlabs/Jet-Nemotron",
     "url": "https://github.com/NVlabs/Jet-Nemotron",
     "lang": "",
     "desc": ""
   },
   {
+    "createdAt": "2025-08-24T02:58:20Z",
+    "stars": 330,
+    "name": "kagehq/port-kill",
+    "url": "https://github.com/kagehq/port-kill",
+    "lang": "Rust",
+    "desc": "A lightweight mac status bar development port monitor"
+  },
+  {
+    "createdAt": "2025-08-21T07:58:13Z",
+    "stars": 298,
+    "name": "Tencent/Youtu-agent",
+    "url": "https://github.com/Tencent/Youtu-agent",
+    "lang": "Python",
+    "desc": "A simple yet powerful agent framework that delivers with open-source models"
+  },
+  {
+    "createdAt": "2025-08-24T23:35:04Z",
+    "stars": 297,
+    "name": "ENDESGA/PEP",
+    "url": "https://github.com/ENDESGA/PEP",
+    "lang": "C",
+    "desc": "Prediction-Encoded Pixels - a tiny yet powerful pixel art compression method"
+  },
+  {
+    "createdAt": "2025-08-27T14:53:51Z",
+    "stars": 278,
+    "name": "renzorlive/vimmaster",
+    "url": "https://github.com/renzorlive/vimmaster",
+    "lang": "HTML",
+    "desc": "VIM Master is a lightweight in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing."
+  },
+  {
+    "createdAt": "2025-08-22T21:36:56Z",
+    "stars": 274,
+    "name": "bkdevs/async-server",
+    "url": "https://github.com/bkdevs/async-server",
+    "lang": "Python",
+    "desc": "It's like Claude Code + Linear + GitHub PR"
+  },
+  {
+    "createdAt": "2025-08-21T03:13:43Z",
+    "stars": 272,
+    "name": "Team-intN18-SoybeanSeclab/Phantom",
+    "url": "https://github.com/Team-intN18-SoybeanSeclab/Phantom",
+    "lang": "JavaScript",
+    "desc": "一款面向SRC漏洞挖掘中，页面信息收集场景的浏览器扩展，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置"
+  },
+  {
     "createdAt": "2025-08-20T21:25:11Z",
-    "stars": 253,
+    "stars": 266,
     "name": "scaik/scam-max-disabler",
     "url": "https://github.com/scaik/scam-max-disabler",
     "lang": "Kotlin",
@@ -137,23 +121,15 @@
   },
   {
     "createdAt": "2025-08-25T09:50:48Z",
-    "stars": 248,
+    "stars": 264,
     "name": "bravenewxyz/agent-c",
     "url": "https://github.com/bravenewxyz/agent-c",
     "lang": "C",
     "desc": "Ultra-lightweight AI Agent"
   },
   {
-    "createdAt": "2025-08-21T03:13:43Z",
-    "stars": 241,
-    "name": "Team-intN18-SoybeanSeclab/Phantom",
-    "url": "https://github.com/Team-intN18-SoybeanSeclab/Phantom",
-    "lang": "JavaScript",
-    "desc": "一款面向SRC漏洞挖掘中，页面信息收集场景的浏览器扩展，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置"
-  },
-  {
     "createdAt": "2025-08-20T05:37:54Z",
-    "stars": 227,
+    "stars": 228,
     "name": "topsecretagent007/Trading-Bot-Tools",
     "url": "https://github.com/topsecretagent007/Trading-Bot-Tools",
     "lang": "TypeScript",
@@ -161,7 +137,7 @@
   },
   {
     "createdAt": "2025-08-22T07:44:43Z",
-    "stars": 222,
+    "stars": 227,
     "name": "konne88/functorio",
     "url": "https://github.com/konne88/functorio",
     "lang": "Lean",
@@ -169,11 +145,19 @@
   },
   {
     "createdAt": "2025-08-20T11:31:28Z",
-    "stars": 215,
+    "stars": 220,
     "name": "DatarusAI/Datarus-JupyterAgent",
     "url": "https://github.com/DatarusAI/Datarus-JupyterAgent",
     "lang": "Python",
     "desc": "A sophisticated multi-step reasoning pipeline powered by the Datarus-R1-14B-Preview model"
+  },
+  {
+    "createdAt": "2025-08-20T22:02:57Z",
+    "stars": 213,
+    "name": "synacktiv/GroupPolicyBackdoor",
+    "url": "https://github.com/synacktiv/GroupPolicyBackdoor",
+    "lang": "Python",
+    "desc": "Group Policy Objects manipulation and exploitation framework"
   },
   {
     "createdAt": "2025-08-23T21:54:33Z",
@@ -184,20 +168,12 @@
     "desc": "Scraper, Adder, Forwarder, Copy, Report And More! Easy to use and no coding-knowledge required. A tool to scrape members, add members and many other functions."
   },
   {
-    "createdAt": "2025-08-20T22:02:57Z",
-    "stars": 207,
-    "name": "synacktiv/GroupPolicyBackdoor",
-    "url": "https://github.com/synacktiv/GroupPolicyBackdoor",
+    "createdAt": "2025-08-24T03:21:57Z",
+    "stars": 202,
+    "name": "martianlantern/ThinkMesh",
+    "url": "https://github.com/martianlantern/ThinkMesh",
     "lang": "Python",
-    "desc": "Group Policy Objects manipulation and exploitation framework"
-  },
-  {
-    "createdAt": "2025-08-26T08:37:42Z",
-    "stars": 203,
-    "name": "AshlirabjRVG/MEV-BOT-SMARTCONTRACT",
-    "url": "https://github.com/AshlirabjRVG/MEV-BOT-SMARTCONTRACT",
-    "lang": "",
-    "desc": "Easy create your own bot for trading, arbitrage, and more on Ethereum and other blockchains. No coding required!"
+    "desc": "Parallel thinking for LLMs. Confidence‑gated, strategy‑driven, offline‑friendly"
   },
   {
     "createdAt": "2025-08-25T06:33:15Z",
@@ -208,172 +184,172 @@
     "desc": "Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Improve aim, awareness, and tactical strategy."
   },
   {
-    "createdAt": "2025-08-21T17:26:49Z",
-    "stars": 183,
-    "name": "code100x/1ai",
-    "url": "https://github.com/code100x/1ai",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-20T07:38:00Z",
-    "stars": 177,
-    "name": "getActivity/DeviceCompat",
-    "url": "https://github.com/getActivity/DeviceCompat",
-    "lang": "Java",
-    "desc": "解决 Android 适配的最后一公里"
-  },
-  {
-    "createdAt": "2025-08-24T03:21:57Z",
-    "stars": 176,
-    "name": "martianlantern/ThinkMesh",
-    "url": "https://github.com/martianlantern/ThinkMesh",
-    "lang": "Python",
-    "desc": "Parallel thinking for LLMs. Confidence‑gated, strategy‑driven, offline‑friendly"
-  },
-  {
     "createdAt": "2025-08-23T01:35:15Z",
-    "stars": 176,
+    "stars": 192,
     "name": "repomirrorhq/repomirror",
     "url": "https://github.com/repomirrorhq/repomirror",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-19T17:50:09Z",
-    "stars": 151,
-    "name": "attention-survey/Efficient_Attention_Survey",
-    "url": "https://github.com/attention-survey/Efficient_Attention_Survey",
-    "lang": "",
-    "desc": "A Survey of Efficient Attention Methods: Hardware-efficient, Sparse, Compact, and Linear Attention"
-  },
-  {
-    "createdAt": "2025-08-19T16:37:19Z",
-    "stars": 142,
-    "name": "geekjourneyx/obsidian-md2wechat",
-    "url": "https://github.com/geekjourneyx/obsidian-md2wechat",
-    "lang": "TypeScript",
-    "desc": "这是一个专为 Obsidian 用户设计的插件，基于 [极简美学排版神器](https://www.md2wechat.cn) 强大的 API 服务，可以轻松将 Markdown 文档转换为适合微信公众号发布的样式化 HTML 内容。"
-  },
-  {
-    "createdAt": "2025-08-23T03:50:35Z",
-    "stars": 137,
-    "name": "2x7EQ13/CreateProcessAsPPL",
-    "url": "https://github.com/2x7EQ13/CreateProcessAsPPL",
-    "lang": "C++",
-    "desc": "This is the loader that supports running a program with Protected Process Light (PPL) protection functionality."
-  },
-  {
-    "createdAt": "2025-08-19T14:40:50Z",
-    "stars": 137,
-    "name": "allenai/asta-paper-finder",
-    "url": "https://github.com/allenai/asta-paper-finder",
-    "lang": "Python",
-    "desc": "frozen-in-time version of our  Paper Finder agent for reproducing evaluation results"
-  },
-  {
-    "createdAt": "2025-08-21T07:47:36Z",
-    "stars": 136,
-    "name": "hku-mars/LIV_handhold_2",
-    "url": "https://github.com/hku-mars/LIV_handhold_2",
-    "lang": "C++",
-    "desc": "LIV-Eye: A Low-Cost LiDAR-Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI."
-  },
-  {
-    "createdAt": "2025-08-21T05:58:49Z",
-    "stars": 135,
-    "name": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
-    "url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated",
-    "lang": "C#",
-    "desc": "A PC Port of The Legend of Zelda: Link's Awakening."
-  },
-  {
-    "createdAt": "2025-08-19T14:32:04Z",
-    "stars": 130,
-    "name": "balavenkatesh3322/awesome-AI-toolkit",
-    "url": "https://github.com/balavenkatesh3322/awesome-AI-toolkit",
-    "lang": "",
-    "desc": "A curated, comprehensive collection of open-source AI tools, frameworks, datasets, courses, and seminal papers."
-  },
-  {
-    "createdAt": "2025-08-20T12:00:05Z",
-    "stars": 129,
-    "name": "llpplplp/AugmentInjector",
-    "url": "https://github.com/llpplplp/AugmentInjector",
-    "lang": "",
-    "desc": "AugmentInjector 拦截API防止封号 Token登录无感换号 余额监控"
-  },
-  {
-    "createdAt": "2025-08-20T20:49:32Z",
-    "stars": 124,
-    "name": "SONICMAN69/Bebop-PS2-English",
-    "url": "https://github.com/SONICMAN69/Bebop-PS2-English",
-    "lang": "Batchfile",
-    "desc": "A full (fanmade) English translation for Cowboy Bebop - Tsuioku no Serenade for the PlayStation 2"
-  },
-  {
     "createdAt": "2025-08-25T16:02:07Z",
-    "stars": 122,
+    "stars": 188,
     "name": "ErickWendel/semana-javascript-expert09",
     "url": "https://github.com/ErickWendel/semana-javascript-expert09",
     "lang": "JavaScript",
     "desc": "Criando um chatbot inteligente 100% offline e no navegador"
   },
   {
-    "createdAt": "2025-08-19T05:34:10Z",
-    "stars": 120,
-    "name": "dahlia/optique",
-    "url": "https://github.com/dahlia/optique",
+    "createdAt": "2025-08-21T17:26:49Z",
+    "stars": 187,
+    "name": "code100x/1ai",
+    "url": "https://github.com/code100x/1ai",
     "lang": "TypeScript",
-    "desc": "Type-safe combinatorial CLI parser for TypeScript"
-  },
-  {
-    "createdAt": "2025-08-22T12:11:16Z",
-    "stars": 120,
-    "name": "PurinNyova/Image-Detection-Bypass-Utility",
-    "url": "https://github.com/PurinNyova/Image-Detection-Bypass-Utility",
-    "lang": "Python",
-    "desc": "Attempts to bypass AI Image detection by employing various methods such as: Noise Injection, FFT Smoothing, FFT Matching, Pixel Perturbation, Camera Simulation, and more."
+    "desc": ""
   },
   {
     "createdAt": "2025-08-26T02:23:45Z",
-    "stars": 119,
+    "stars": 184,
     "name": "YXYAXA/yangbing_prompt",
     "url": "https://github.com/YXYAXA/yangbing_prompt",
     "lang": "",
     "desc": "魅魔女友提示词，可发表情与自身当前姿势图片，有一定破限作用"
   },
   {
+    "createdAt": "2025-08-20T07:38:00Z",
+    "stars": 181,
+    "name": "getActivity/DeviceCompat",
+    "url": "https://github.com/getActivity/DeviceCompat",
+    "lang": "Java",
+    "desc": "解决 Android 适配的最后一公里"
+  },
+  {
+    "createdAt": "2025-08-20T19:40:10Z",
+    "stars": 178,
+    "name": "Flynntoni536/usdt-flash-flasher-new",
+    "url": "https://github.com/Flynntoni536/usdt-flash-flasher-new",
+    "lang": "",
+    "desc": "With our tool, you can flash USDT everywhere for any amount."
+  },
+  {
+    "createdAt": "2025-08-24T19:47:22Z",
+    "stars": 157,
+    "name": "schlae/cm5-reveng",
+    "url": "https://github.com/schlae/cm5-reveng",
+    "lang": "",
+    "desc": "Reverse engineered Raspberry Pi Compute Module 5"
+  },
+  {
+    "createdAt": "2025-08-21T07:47:36Z",
+    "stars": 152,
+    "name": "hku-mars/LIV_handhold_2",
+    "url": "https://github.com/hku-mars/LIV_handhold_2",
+    "lang": "C++",
+    "desc": "LIV-Eye: A Low-Cost LiDAR-Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI."
+  },
+  {
+    "createdAt": "2025-08-23T03:50:35Z",
+    "stars": 149,
+    "name": "2x7EQ13/CreateProcessAsPPL",
+    "url": "https://github.com/2x7EQ13/CreateProcessAsPPL",
+    "lang": "C++",
+    "desc": "This is the loader that supports running a program with Protected Process Light (PPL) protection functionality."
+  },
+  {
+    "createdAt": "2025-08-20T12:00:05Z",
+    "stars": 145,
+    "name": "llpplplp/AugmentInjector",
+    "url": "https://github.com/llpplplp/AugmentInjector",
+    "lang": "",
+    "desc": "AugmentInjector 拦截API防止封号 Token登录无感换号 余额监控"
+  },
+  {
+    "createdAt": "2025-08-21T05:58:49Z",
+    "stars": 139,
+    "name": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
+    "url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated",
+    "lang": "C#",
+    "desc": "A PC Port of The Legend of Zelda: Link's Awakening."
+  },
+  {
+    "createdAt": "2025-08-21T17:22:34Z",
+    "stars": 132,
+    "name": "nimeshnayaju/valleys",
+    "url": "https://github.com/nimeshnayaju/valleys",
+    "lang": "TypeScript",
+    "desc": "A lightweight TypeScript library for assertion-based runtime data validation."
+  },
+  {
+    "createdAt": "2025-08-20T20:49:32Z",
+    "stars": 131,
+    "name": "SONICMAN69/Bebop-PS2-English",
+    "url": "https://github.com/SONICMAN69/Bebop-PS2-English",
+    "lang": "Batchfile",
+    "desc": "A full (fanmade) English translation for Cowboy Bebop - Tsuioku no Serenade for the PlayStation 2"
+  },
+  {
+    "createdAt": "2025-08-22T12:11:16Z",
+    "stars": 124,
+    "name": "PurinNyova/Image-Detection-Bypass-Utility",
+    "url": "https://github.com/PurinNyova/Image-Detection-Bypass-Utility",
+    "lang": "Python",
+    "desc": "Attempts to bypass AI Image detection by employing various methods such as: Noise Injection, FFT Smoothing, FFT Matching, Pixel Perturbation, Camera Simulation, and more."
+  },
+  {
     "createdAt": "2025-08-22T12:43:53Z",
-    "stars": 116,
+    "stars": 121,
     "name": "sito-sikino/avatar-ui-core",
     "url": "https://github.com/sito-sikino/avatar-ui-core",
     "lang": "JavaScript",
     "desc": "Classic terminal-style UI core. A project foundation extensible from chat UIs to CLI integration."
   },
   {
-    "createdAt": "2025-08-21T07:58:13Z",
-    "stars": 114,
-    "name": "Tencent/Youtu-agent",
-    "url": "https://github.com/Tencent/Youtu-agent",
+    "createdAt": "2025-08-24T06:46:53Z",
+    "stars": 116,
+    "name": "manycore-research/SpatialGen",
+    "url": "https://github.com/manycore-research/SpatialGen",
     "lang": "Python",
-    "desc": "A simple yet powerful agent framework that delivers with open-source models"
+    "desc": "SpatialGen: Layout-guided 3D Indoor Scene Generation"
   },
   {
-    "createdAt": "2025-08-19T13:21:16Z",
-    "stars": 110,
-    "name": "mehrantsi/FeOxDB",
-    "url": "https://github.com/mehrantsi/FeOxDB",
-    "lang": "Rust",
-    "desc": "FeOx (Iron-Oxide) is an ultra-fast, embedded and persisted KV store in pure Rust."
-  },
-  {
-    "createdAt": "2025-08-21T17:22:34Z",
-    "stars": 110,
-    "name": "nimeshnayaju/valleys",
-    "url": "https://github.com/nimeshnayaju/valleys",
+    "createdAt": "2025-08-26T22:48:18Z",
+    "stars": 115,
+    "name": "yayasoumah/pocket-server",
+    "url": "https://github.com/yayasoumah/pocket-server",
     "lang": "TypeScript",
-    "desc": "A lightweight TypeScript library for assertion-based runtime data validation."
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-21T05:23:46Z",
+    "stars": 110,
+    "name": "XanderStrike/endless-wiki",
+    "url": "https://github.com/XanderStrike/endless-wiki",
+    "lang": "HTML",
+    "desc": "An encyclopedia where everything can be an article, and every article is generated on the spot."
+  },
+  {
+    "createdAt": "2025-08-26T21:56:21Z",
+    "stars": 109,
+    "name": "h9-tec/AI_tools_nontechnical",
+    "url": "https://github.com/h9-tec/AI_tools_nontechnical",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-24T17:40:15Z",
+    "stars": 108,
+    "name": "HybridRobotics/motion_tracking_controller",
+    "url": "https://github.com/HybridRobotics/motion_tracking_controller",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-21T02:34:41Z",
+    "stars": 108,
+    "name": "Sube3494/augment-for-vscode",
+    "url": "https://github.com/Sube3494/augment-for-vscode",
+    "lang": "",
+    "desc": "🛡️ Augment 去风控 - 智能绕过限制 + ⚡一键无感换号 + 🤖保护第三方API + 🔋自动余额显示"
   },
   {
     "createdAt": "2025-08-26T00:33:10Z",
@@ -384,19 +360,43 @@
     "desc": "Telegram Members Adding Software/Script Using Termux."
   },
   {
-    "createdAt": "2025-08-21T05:23:46Z",
-    "stars": 105,
-    "name": "XanderStrike/endless-wiki",
-    "url": "https://github.com/XanderStrike/endless-wiki",
-    "lang": "HTML",
-    "desc": "An encyclopedia where everything can be an article, and every article is generated on the spot."
+    "createdAt": "2025-08-23T05:47:51Z",
+    "stars": 103,
+    "name": "fenxer/llm-things",
+    "url": "https://github.com/fenxer/llm-things",
+    "lang": "",
+    "desc": "A collection of LLM memes"
   },
   {
-    "createdAt": "2025-08-19T03:17:30Z",
-    "stars": 101,
-    "name": "call518/MCP-PostgreSQL-Ops",
-    "url": "https://github.com/call518/MCP-PostgreSQL-Ops",
+    "createdAt": "2025-08-27T16:23:33Z",
+    "stars": 97,
+    "name": "Telegram-MassDM/Telegram-Mass-DM",
+    "url": "https://github.com/Telegram-MassDM/Telegram-Mass-DM",
     "lang": "Python",
-    "desc": "🔍Professional MCP server for PostgreSQL operations & monitoring: 30+ extension-independent tools for performance analysis, table bloat detection, autovacuum monitoring, schema introspection, and database management. Supports PostgreSQL 12-17."
+    "desc": "🚀 Telegram Mass DM Bot is a software written in python using telethon Library for those who want to send Telegram messages directly from PC/Android in a simple and effective way."
+  },
+  {
+    "createdAt": "2025-08-24T14:10:16Z",
+    "stars": 96,
+    "name": "muellerberndt/hound",
+    "url": "https://github.com/muellerberndt/hound",
+    "lang": "Python",
+    "desc": "Language-agnostic AI code security analysis that replicates the cognitive processes of expert auditors"
+  },
+  {
+    "createdAt": "2025-08-20T14:46:57Z",
+    "stars": 94,
+    "name": "trailofbits/anamorpher",
+    "url": "https://github.com/trailofbits/anamorpher",
+    "lang": "Python",
+    "desc": "image scaling attacks for multi-modal prompt injection"
+  },
+  {
+    "createdAt": "2025-08-23T14:16:09Z",
+    "stars": 94,
+    "name": "Loon0x00/Loon4Mac",
+    "url": "https://github.com/Loon0x00/Loon4Mac",
+    "lang": "",
+    "desc": "Loon for Mac"
   }
 ]
