@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-08-25T13:24:01Z",
-    "stars": 3457,
+    "stars": 5154,
     "name": "microsoft/VibeVoice",
     "url": "https://github.com/microsoft/VibeVoice",
     "lang": "Python",
@@ -9,231 +9,151 @@
   },
   {
     "createdAt": "2025-08-21T08:06:06Z",
-    "stars": 2727,
+    "stars": 2740,
     "name": "growchief/growchief",
     "url": "https://github.com/growchief/growchief",
     "lang": "TypeScript",
     "desc": "The Ultimate all-in social media automation (outreach) tool 🤖"
   },
   {
-    "createdAt": "2025-08-20T03:25:28Z",
-    "stars": 1366,
-    "name": "karpathy/rendergit",
-    "url": "https://github.com/karpathy/rendergit",
-    "lang": "Python",
-    "desc": "Render any git repo into a single static HTML page for humans or LLMs"
-  },
-  {
-    "createdAt": "2025-08-20T05:15:16Z",
-    "stars": 1236,
-    "name": "opactorai/Claudable",
-    "url": "https://github.com/opactorai/Claudable",
-    "lang": "TypeScript",
-    "desc": "Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly."
-  },
-  {
-    "createdAt": "2025-08-21T21:03:28Z",
-    "stars": 533,
-    "name": "shuding/nstr",
-    "url": "https://github.com/shuding/nstr",
-    "lang": "TypeScript",
-    "desc": "number → string, but looks good"
-  },
-  {
-    "createdAt": "2025-08-20T14:35:47Z",
-    "stars": 530,
-    "name": "Growth-Kinetics/DiffMem",
-    "url": "https://github.com/Growth-Kinetics/DiffMem",
-    "lang": "Python",
-    "desc": "Git Based Memory Storage for Conversational AI Agent"
-  },
-  {
-    "createdAt": "2025-08-23T10:35:44Z",
-    "stars": 440,
-    "name": "lunarengine/lunar-test",
-    "url": "https://github.com/lunarengine/lunar-test",
-    "lang": "C++",
-    "desc": "LunarEngine – Open-source Luau 3D engine (API-compatible)"
-  },
-  {
-    "createdAt": "2025-08-20T15:23:21Z",
-    "stars": 394,
-    "name": "NVlabs/Jet-Nemotron",
-    "url": "https://github.com/NVlabs/Jet-Nemotron",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-24T02:58:20Z",
-    "stars": 330,
-    "name": "kagehq/port-kill",
-    "url": "https://github.com/kagehq/port-kill",
-    "lang": "Rust",
-    "desc": "A lightweight mac status bar development port monitor"
+    "createdAt": "2025-08-27T14:53:51Z",
+    "stars": 838,
+    "name": "renzorlive/vimmaster",
+    "url": "https://github.com/renzorlive/vimmaster",
+    "lang": "HTML",
+    "desc": "VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing."
   },
   {
     "createdAt": "2025-08-21T07:58:13Z",
-    "stars": 298,
+    "stars": 553,
     "name": "Tencent/Youtu-agent",
     "url": "https://github.com/Tencent/Youtu-agent",
     "lang": "Python",
     "desc": "A simple yet powerful agent framework that delivers with open-source models"
   },
   {
+    "createdAt": "2025-08-21T21:03:28Z",
+    "stars": 544,
+    "name": "shuding/nstr",
+    "url": "https://github.com/shuding/nstr",
+    "lang": "TypeScript",
+    "desc": "number → string, but looks good"
+  },
+  {
+    "createdAt": "2025-08-23T10:35:44Z",
+    "stars": 447,
+    "name": "lunarengine/lunar-test",
+    "url": "https://github.com/lunarengine/lunar-test",
+    "lang": "C++",
+    "desc": "LunarEngine – Open-source Luau 3D engine (API-compatible)"
+  },
+  {
+    "createdAt": "2025-08-24T02:58:20Z",
+    "stars": 346,
+    "name": "kagehq/port-kill",
+    "url": "https://github.com/kagehq/port-kill",
+    "lang": "Rust",
+    "desc": "A lightweight mac status bar development port monitor"
+  },
+  {
     "createdAt": "2025-08-24T23:35:04Z",
-    "stars": 297,
+    "stars": 312,
     "name": "ENDESGA/PEP",
     "url": "https://github.com/ENDESGA/PEP",
     "lang": "C",
     "desc": "Prediction-Encoded Pixels - a tiny yet powerful pixel art compression method"
   },
   {
-    "createdAt": "2025-08-27T14:53:51Z",
-    "stars": 278,
-    "name": "renzorlive/vimmaster",
-    "url": "https://github.com/renzorlive/vimmaster",
-    "lang": "HTML",
-    "desc": "VIM Master is a lightweight in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing."
-  },
-  {
     "createdAt": "2025-08-22T21:36:56Z",
-    "stars": 274,
+    "stars": 310,
     "name": "bkdevs/async-server",
     "url": "https://github.com/bkdevs/async-server",
     "lang": "Python",
     "desc": "It's like Claude Code + Linear + GitHub PR"
   },
   {
-    "createdAt": "2025-08-21T03:13:43Z",
-    "stars": 272,
-    "name": "Team-intN18-SoybeanSeclab/Phantom",
-    "url": "https://github.com/Team-intN18-SoybeanSeclab/Phantom",
-    "lang": "JavaScript",
-    "desc": "一款面向SRC漏洞挖掘中，页面信息收集场景的浏览器扩展，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置"
-  },
-  {
-    "createdAt": "2025-08-20T21:25:11Z",
-    "stars": 266,
-    "name": "scaik/scam-max-disabler",
-    "url": "https://github.com/scaik/scam-max-disabler",
-    "lang": "Kotlin",
-    "desc": "Позволяет убедительно показать, что Max «не работает» на вашем устройстве в ситуациях, когда требуют его установку"
-  },
-  {
     "createdAt": "2025-08-25T09:50:48Z",
-    "stars": 264,
+    "stars": 301,
     "name": "bravenewxyz/agent-c",
     "url": "https://github.com/bravenewxyz/agent-c",
     "lang": "C",
     "desc": "Ultra-lightweight AI Agent"
   },
   {
-    "createdAt": "2025-08-20T05:37:54Z",
-    "stars": 228,
-    "name": "topsecretagent007/Trading-Bot-Tools",
-    "url": "https://github.com/topsecretagent007/Trading-Bot-Tools",
-    "lang": "TypeScript",
-    "desc": "Pumpfun, Bonkfun, Bagsfm, Raydium, Metaora, Sui, Heaven, bundler, sniper, copy trading, maker, volume, grpc, rpc, node, rust, arbitrage, migration"
-  },
-  {
-    "createdAt": "2025-08-22T07:44:43Z",
-    "stars": 227,
-    "name": "konne88/functorio",
-    "url": "https://github.com/konne88/functorio",
-    "lang": "Lean",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-20T11:31:28Z",
-    "stars": 220,
-    "name": "DatarusAI/Datarus-JupyterAgent",
-    "url": "https://github.com/DatarusAI/Datarus-JupyterAgent",
-    "lang": "Python",
-    "desc": "A sophisticated multi-step reasoning pipeline powered by the Datarus-R1-14B-Preview model"
-  },
-  {
-    "createdAt": "2025-08-20T22:02:57Z",
-    "stars": 213,
-    "name": "synacktiv/GroupPolicyBackdoor",
-    "url": "https://github.com/synacktiv/GroupPolicyBackdoor",
-    "lang": "Python",
-    "desc": "Group Policy Objects manipulation and exploitation framework"
-  },
-  {
-    "createdAt": "2025-08-23T21:54:33Z",
-    "stars": 210,
-    "name": "CallToSta/TG-2025",
-    "url": "https://github.com/CallToSta/TG-2025",
-    "lang": "Python",
-    "desc": "Scraper, Adder, Forwarder, Copy, Report And More! Easy to use and no coding-knowledge required. A tool to scrape members, add members and many other functions."
-  },
-  {
-    "createdAt": "2025-08-24T03:21:57Z",
-    "stars": 202,
-    "name": "martianlantern/ThinkMesh",
-    "url": "https://github.com/martianlantern/ThinkMesh",
-    "lang": "Python",
-    "desc": "Parallel thinking for LLMs. Confidence‑gated, strategy‑driven, offline‑friendly"
-  },
-  {
-    "createdAt": "2025-08-25T06:33:15Z",
-    "stars": 195,
-    "name": "warzone-cheats-aimbot/warzone-cheat",
-    "url": "https://github.com/warzone-cheats-aimbot/warzone-cheat",
-    "lang": "",
-    "desc": "Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Improve aim, awareness, and tactical strategy."
-  },
-  {
-    "createdAt": "2025-08-23T01:35:15Z",
-    "stars": 192,
-    "name": "repomirrorhq/repomirror",
-    "url": "https://github.com/repomirrorhq/repomirror",
-    "lang": "TypeScript",
-    "desc": ""
+    "createdAt": "2025-08-21T03:13:43Z",
+    "stars": 283,
+    "name": "Team-intN18-SoybeanSeclab/Phantom",
+    "url": "https://github.com/Team-intN18-SoybeanSeclab/Phantom",
+    "lang": "JavaScript",
+    "desc": "一款面向SRC漏洞挖掘中，页面信息收集场景的浏览器扩展，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置"
   },
   {
     "createdAt": "2025-08-25T16:02:07Z",
-    "stars": 188,
+    "stars": 258,
     "name": "ErickWendel/semana-javascript-expert09",
     "url": "https://github.com/ErickWendel/semana-javascript-expert09",
     "lang": "JavaScript",
     "desc": "Criando um chatbot inteligente 100% offline e no navegador"
   },
   {
-    "createdAt": "2025-08-21T17:26:49Z",
-    "stars": 187,
-    "name": "code100x/1ai",
-    "url": "https://github.com/code100x/1ai",
-    "lang": "TypeScript",
+    "createdAt": "2025-08-22T07:44:43Z",
+    "stars": 229,
+    "name": "konne88/functorio",
+    "url": "https://github.com/konne88/functorio",
+    "lang": "Lean",
     "desc": ""
   },
   {
     "createdAt": "2025-08-26T02:23:45Z",
-    "stars": 184,
+    "stars": 228,
     "name": "YXYAXA/yangbing_prompt",
     "url": "https://github.com/YXYAXA/yangbing_prompt",
     "lang": "",
     "desc": "魅魔女友提示词，可发表情与自身当前姿势图片，有一定破限作用"
   },
   {
-    "createdAt": "2025-08-20T07:38:00Z",
-    "stars": 181,
-    "name": "getActivity/DeviceCompat",
-    "url": "https://github.com/getActivity/DeviceCompat",
-    "lang": "Java",
-    "desc": "解决 Android 适配的最后一公里"
+    "createdAt": "2025-08-24T03:21:57Z",
+    "stars": 215,
+    "name": "martianlantern/ThinkMesh",
+    "url": "https://github.com/martianlantern/ThinkMesh",
+    "lang": "Python",
+    "desc": "Parallel thinking for LLMs. Confidence‑gated, strategy‑driven, offline‑friendly"
   },
   {
-    "createdAt": "2025-08-20T19:40:10Z",
-    "stars": 178,
-    "name": "Flynntoni536/usdt-flash-flasher-new",
-    "url": "https://github.com/Flynntoni536/usdt-flash-flasher-new",
+    "createdAt": "2025-08-23T01:35:15Z",
+    "stars": 202,
+    "name": "repomirrorhq/repomirror",
+    "url": "https://github.com/repomirrorhq/repomirror",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-27T22:16:34Z",
+    "stars": 192,
+    "name": "apex-cheat-aimbot/apex-cheat",
+    "url": "https://github.com/apex-cheat-aimbot/apex-cheat",
     "lang": "",
-    "desc": "With our tool, you can flash USDT everywhere for any amount."
+    "desc": "Apex Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Apex Legends. Enhance accuracy, awareness, and ranked strategy."
+  },
+  {
+    "createdAt": "2025-08-21T17:26:49Z",
+    "stars": 192,
+    "name": "code100x/1ai",
+    "url": "https://github.com/code100x/1ai",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-28T06:38:01Z",
+    "stars": 177,
+    "name": "Day-z-cheat/dayz-cheat",
+    "url": "https://github.com/Day-z-cheat/dayz-cheat",
+    "lang": "",
+    "desc": "DayZ Cheat offers advanced tools for survival: precision DayZ Aimbot, tactical ESP overlays, Wallhack, Unlock All, Radar, and Spoofer. Gain total awareness, dominate PvP firefights, secure loot faster, and protect your base in Chernarus and Livonia with complete control and optimized strategy."
   },
   {
     "createdAt": "2025-08-24T19:47:22Z",
-    "stars": 157,
+    "stars": 174,
     "name": "schlae/cm5-reveng",
     "url": "https://github.com/schlae/cm5-reveng",
     "lang": "",
@@ -241,162 +161,242 @@
   },
   {
     "createdAt": "2025-08-21T07:47:36Z",
-    "stars": 152,
+    "stars": 170,
     "name": "hku-mars/LIV_handhold_2",
     "url": "https://github.com/hku-mars/LIV_handhold_2",
     "lang": "C++",
     "desc": "LIV-Eye: A Low-Cost LiDAR-Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI."
   },
   {
+    "createdAt": "2025-08-27T22:30:12Z",
+    "stars": 167,
+    "name": "rainbow-6-siege-cheat/r6-rainbow-six-siege-cheat",
+    "url": "https://github.com/rainbow-6-siege-cheat/r6-rainbow-six-siege-cheat",
+    "lang": "",
+    "desc": "Rainbow Six Siege Cheat – advanced R6 cheat aimbot, ESP, wallhack, and unlock-all tools. Boost precision, map control, and ranked performance."
+  },
+  {
+    "createdAt": "2025-08-23T21:54:33Z",
+    "stars": 160,
+    "name": "CallToSta/TG-2025",
+    "url": "https://github.com/CallToSta/TG-2025",
+    "lang": "Python",
+    "desc": "Scraper, Adder, Forwarder, Copy, Report And More! Easy to use and no coding-knowledge required. A tool to scrape members, add members and many other functions."
+  },
+  {
     "createdAt": "2025-08-23T03:50:35Z",
-    "stars": 149,
+    "stars": 155,
     "name": "2x7EQ13/CreateProcessAsPPL",
     "url": "https://github.com/2x7EQ13/CreateProcessAsPPL",
     "lang": "C++",
     "desc": "This is the loader that supports running a program with Protected Process Light (PPL) protection functionality."
   },
   {
-    "createdAt": "2025-08-20T12:00:05Z",
-    "stars": 145,
-    "name": "llpplplp/AugmentInjector",
-    "url": "https://github.com/llpplplp/AugmentInjector",
-    "lang": "",
-    "desc": "AugmentInjector 拦截API防止封号 Token登录无感换号 余额监控"
-  },
-  {
-    "createdAt": "2025-08-21T05:58:49Z",
-    "stars": 139,
-    "name": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
-    "url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated",
-    "lang": "C#",
-    "desc": "A PC Port of The Legend of Zelda: Link's Awakening."
-  },
-  {
-    "createdAt": "2025-08-21T17:22:34Z",
-    "stars": 132,
-    "name": "nimeshnayaju/valleys",
-    "url": "https://github.com/nimeshnayaju/valleys",
-    "lang": "TypeScript",
-    "desc": "A lightweight TypeScript library for assertion-based runtime data validation."
-  },
-  {
-    "createdAt": "2025-08-20T20:49:32Z",
-    "stars": 131,
-    "name": "SONICMAN69/Bebop-PS2-English",
-    "url": "https://github.com/SONICMAN69/Bebop-PS2-English",
-    "lang": "Batchfile",
-    "desc": "A full (fanmade) English translation for Cowboy Bebop - Tsuioku no Serenade for the PlayStation 2"
-  },
-  {
-    "createdAt": "2025-08-22T12:11:16Z",
-    "stars": 124,
-    "name": "PurinNyova/Image-Detection-Bypass-Utility",
-    "url": "https://github.com/PurinNyova/Image-Detection-Bypass-Utility",
-    "lang": "Python",
-    "desc": "Attempts to bypass AI Image detection by employing various methods such as: Noise Injection, FFT Smoothing, FFT Matching, Pixel Perturbation, Camera Simulation, and more."
-  },
-  {
-    "createdAt": "2025-08-22T12:43:53Z",
-    "stars": 121,
-    "name": "sito-sikino/avatar-ui-core",
-    "url": "https://github.com/sito-sikino/avatar-ui-core",
-    "lang": "JavaScript",
-    "desc": "Classic terminal-style UI core. A project foundation extensible from chat UIs to CLI integration."
-  },
-  {
-    "createdAt": "2025-08-24T06:46:53Z",
-    "stars": 116,
-    "name": "manycore-research/SpatialGen",
-    "url": "https://github.com/manycore-research/SpatialGen",
-    "lang": "Python",
-    "desc": "SpatialGen: Layout-guided 3D Indoor Scene Generation"
-  },
-  {
-    "createdAt": "2025-08-26T22:48:18Z",
-    "stars": 115,
-    "name": "yayasoumah/pocket-server",
-    "url": "https://github.com/yayasoumah/pocket-server",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-21T05:23:46Z",
-    "stars": 110,
-    "name": "XanderStrike/endless-wiki",
-    "url": "https://github.com/XanderStrike/endless-wiki",
-    "lang": "HTML",
-    "desc": "An encyclopedia where everything can be an article, and every article is generated on the spot."
-  },
-  {
-    "createdAt": "2025-08-26T21:56:21Z",
-    "stars": 109,
-    "name": "h9-tec/AI_tools_nontechnical",
-    "url": "https://github.com/h9-tec/AI_tools_nontechnical",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-24T17:40:15Z",
-    "stars": 108,
-    "name": "HybridRobotics/motion_tracking_controller",
-    "url": "https://github.com/HybridRobotics/motion_tracking_controller",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-21T02:34:41Z",
-    "stars": 108,
-    "name": "Sube3494/augment-for-vscode",
-    "url": "https://github.com/Sube3494/augment-for-vscode",
-    "lang": "",
-    "desc": "🛡️ Augment 去风控 - 智能绕过限制 + ⚡一键无感换号 + 🤖保护第三方API + 🔋自动余额显示"
-  },
-  {
-    "createdAt": "2025-08-26T00:33:10Z",
-    "stars": 106,
-    "name": "Telegram-Members-Adding/Telegram-Members-Adder",
-    "url": "https://github.com/Telegram-Members-Adding/Telegram-Members-Adder",
-    "lang": "Python",
-    "desc": "Telegram Members Adding Software/Script Using Termux."
-  },
-  {
-    "createdAt": "2025-08-23T05:47:51Z",
-    "stars": 103,
-    "name": "fenxer/llm-things",
-    "url": "https://github.com/fenxer/llm-things",
-    "lang": "",
-    "desc": "A collection of LLM memes"
-  },
-  {
-    "createdAt": "2025-08-27T16:23:33Z",
-    "stars": 97,
-    "name": "Telegram-MassDM/Telegram-Mass-DM",
-    "url": "https://github.com/Telegram-MassDM/Telegram-Mass-DM",
-    "lang": "Python",
-    "desc": "🚀 Telegram Mass DM Bot is a software written in python using telethon Library for those who want to send Telegram messages directly from PC/Android in a simple and effective way."
-  },
-  {
     "createdAt": "2025-08-24T14:10:16Z",
-    "stars": 96,
+    "stars": 151,
     "name": "muellerberndt/hound",
     "url": "https://github.com/muellerberndt/hound",
     "lang": "Python",
     "desc": "Language-agnostic AI code security analysis that replicates the cognitive processes of expert auditors"
   },
   {
-    "createdAt": "2025-08-20T14:46:57Z",
-    "stars": 94,
-    "name": "trailofbits/anamorpher",
-    "url": "https://github.com/trailofbits/anamorpher",
+    "createdAt": "2025-08-27T06:35:14Z",
+    "stars": 149,
+    "name": "polaroi8d/cactoide",
+    "url": "https://github.com/polaroi8d/cactoide",
+    "lang": "Svelte",
+    "desc": "🌵 Mobile first open-source RSVP platform. Alternative for meetup.com & eventbrite and partiful for small companies and groups."
+  },
+  {
+    "createdAt": "2025-08-26T22:48:18Z",
+    "stars": 147,
+    "name": "yayasoumah/pocket-server",
+    "url": "https://github.com/yayasoumah/pocket-server",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-25T11:32:01Z",
+    "stars": 143,
+    "name": "0voice/awesome_audio_video_learning",
+    "url": "https://github.com/0voice/awesome_audio_video_learning",
+    "lang": "",
+    "desc": "2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！"
+  },
+  {
+    "createdAt": "2025-08-21T17:22:34Z",
+    "stars": 141,
+    "name": "nimeshnayaju/valleys",
+    "url": "https://github.com/nimeshnayaju/valleys",
+    "lang": "TypeScript",
+    "desc": "A lightweight TypeScript library for assertion-based runtime data validation."
+  },
+  {
+    "createdAt": "2025-08-21T05:58:49Z",
+    "stars": 140,
+    "name": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
+    "url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated",
+    "lang": "C#",
+    "desc": "A PC Port of The Legend of Zelda: Link's Awakening."
+  },
+  {
+    "createdAt": "2025-08-21T12:48:59Z",
+    "stars": 138,
+    "name": "microsandbox/rxtui",
+    "url": "https://github.com/microsandbox/rxtui",
+    "lang": "Rust",
+    "desc": "Reactive terminal interfaces for Rust. Because CLIs deserve better."
+  },
+  {
+    "createdAt": "2025-08-25T06:33:15Z",
+    "stars": 135,
+    "name": "warzone-cheats-aimbot/warzone-cheat",
+    "url": "https://github.com/warzone-cheats-aimbot/warzone-cheat",
+    "lang": "",
+    "desc": "Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Improve aim, awareness, and tactical strategy."
+  },
+  {
+    "createdAt": "2025-08-24T06:46:53Z",
+    "stars": 134,
+    "name": "manycore-research/SpatialGen",
+    "url": "https://github.com/manycore-research/SpatialGen",
     "lang": "Python",
-    "desc": "image scaling attacks for multi-modal prompt injection"
+    "desc": "SpatialGen: Layout-guided 3D Indoor Scene Generation"
+  },
+  {
+    "createdAt": "2025-08-26T21:56:21Z",
+    "stars": 134,
+    "name": "h9-tec/AI_tools_nontechnical",
+    "url": "https://github.com/h9-tec/AI_tools_nontechnical",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-27T14:11:27Z",
+    "stars": 129,
+    "name": "Xuanwo/acp-claude-code",
+    "url": "https://github.com/Xuanwo/acp-claude-code",
+    "lang": "TypeScript",
+    "desc": "The ACP implementation for Claude Code"
+  },
+  {
+    "createdAt": "2025-08-22T12:11:16Z",
+    "stars": 126,
+    "name": "PurinNyova/Image-Detection-Bypass-Utility",
+    "url": "https://github.com/PurinNyova/Image-Detection-Bypass-Utility",
+    "lang": "Python",
+    "desc": "Attempts to bypass AI Image detection by employing various methods such as: Noise Injection, FFT Smoothing, FFT Matching, Pixel Perturbation, Camera Simulation, and more."
+  },
+  {
+    "createdAt": "2025-08-21T14:54:37Z",
+    "stars": 125,
+    "name": "forter/trusted-agentic-commerce-protocol",
+    "url": "https://github.com/forter/trusted-agentic-commerce-protocol",
+    "lang": "TypeScript",
+    "desc": "A secure authentication and data encryption protocol for AI agents, merchants and merchant vendors."
+  },
+  {
+    "createdAt": "2025-08-26T11:42:25Z",
+    "stars": 123,
+    "name": "Nasogaa/immich-drop",
+    "url": "https://github.com/Nasogaa/immich-drop",
+    "lang": "Python",
+    "desc": "A tiny, zero-login web app for collecting photos/videos from anyone into your Immich server."
+  },
+  {
+    "createdAt": "2025-08-24T20:26:39Z",
+    "stars": 123,
+    "name": "Marvis-Labs/marvis-tts",
+    "url": "https://github.com/Marvis-Labs/marvis-tts",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-23T05:47:51Z",
+    "stars": 123,
+    "name": "fenxer/llm-things",
+    "url": "https://github.com/fenxer/llm-things",
+    "lang": "",
+    "desc": "A collection of LLM memes"
+  },
+  {
+    "createdAt": "2025-08-22T12:43:53Z",
+    "stars": 122,
+    "name": "sito-sikino/avatar-ui-core",
+    "url": "https://github.com/sito-sikino/avatar-ui-core",
+    "lang": "JavaScript",
+    "desc": "Classic terminal-style UI core. A project foundation extensible from chat UIs to CLI integration."
+  },
+  {
+    "createdAt": "2025-08-24T17:40:15Z",
+    "stars": 121,
+    "name": "HybridRobotics/motion_tracking_controller",
+    "url": "https://github.com/HybridRobotics/motion_tracking_controller",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-21T05:23:46Z",
+    "stars": 118,
+    "name": "XanderStrike/endless-wiki",
+    "url": "https://github.com/XanderStrike/endless-wiki",
+    "lang": "HTML",
+    "desc": "An encyclopedia where everything can be an article, and every article is generated on the spot."
+  },
+  {
+    "createdAt": "2025-08-21T02:34:41Z",
+    "stars": 114,
+    "name": "Sube3494/augment-for-vscode",
+    "url": "https://github.com/Sube3494/augment-for-vscode",
+    "lang": "",
+    "desc": "🛡️ Augment 去风控 - 智能绕过限制 + ⚡一键无感换号 + 🤖保护第三方API + 🔋自动余额显示"
+  },
+  {
+    "createdAt": "2025-08-28T12:33:49Z",
+    "stars": 102,
+    "name": "sol-drop/.github",
+    "url": "https://github.com/sol-drop/.github",
+    "lang": "",
+    "desc": "solana-airdrop airdrop solana anchor solana-program token cpi claimer example tutorial devnet testnet whitelist freecrypto free-tokens free-crypto cryptocurrency-airdrop crypto-airdrop airdrop-bot airdrop-hunter claim-airdrop solana-developer solana-wallet snekmate"
+  },
+  {
+    "createdAt": "2025-08-25T22:49:52Z",
+    "stars": 99,
+    "name": "Paradoxis/ADSyncDump-BOF",
+    "url": "https://github.com/Paradoxis/ADSyncDump-BOF",
+    "lang": "C",
+    "desc": "The ADSyncDump BOF is a port of Dirk-Jan Mollema's adconnectdump.py / ADSyncDecrypt into a Beacon Object File (BOF) with zero dependencies."
+  },
+  {
+    "createdAt": "2025-08-28T13:00:55Z",
+    "stars": 99,
+    "name": "MassDmTelegram/TelegramMassDM-2025",
+    "url": "https://github.com/MassDmTelegram/TelegramMassDM-2025",
+    "lang": "Python",
+    "desc": "A tool made updated in 2025 to manage all your posts including many other functions. Noob friendly and easy to use."
   },
   {
     "createdAt": "2025-08-23T14:16:09Z",
-    "stars": 94,
+    "stars": 97,
     "name": "Loon0x00/Loon4Mac",
     "url": "https://github.com/Loon0x00/Loon4Mac",
     "lang": "",
     "desc": "Loon for Mac"
+  },
+  {
+    "createdAt": "2025-08-22T11:16:57Z",
+    "stars": 93,
+    "name": "pi0/shiki-image",
+    "url": "https://github.com/pi0/shiki-image",
+    "lang": "TypeScript",
+    "desc": "Convert code snippets into images. Powered by shiki and takumi. Super fast 🚀"
+  },
+  {
+    "createdAt": "2025-08-24T13:53:38Z",
+    "stars": 92,
+    "name": "DavidBuchanan314/anubis_offload",
+    "url": "https://github.com/DavidBuchanan314/anubis_offload",
+    "lang": "Python",
+    "desc": "userscript to offload Anubis PoW to native CPU or GPU code"
   }
 ]
