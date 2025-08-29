@@ -1,47 +1,23 @@
 [
   {
     "createdAt": "2025-08-25T13:24:01Z",
-    "stars": 5154,
+    "stars": 5761,
     "name": "microsoft/VibeVoice",
     "url": "https://github.com/microsoft/VibeVoice",
     "lang": "Python",
     "desc": "Frontier Open-Source Text-to-Speech"
   },
   {
-    "createdAt": "2025-08-21T08:06:06Z",
-    "stars": 2740,
-    "name": "growchief/growchief",
-    "url": "https://github.com/growchief/growchief",
-    "lang": "TypeScript",
-    "desc": "The Ultimate all-in social media automation (outreach) tool 🤖"
-  },
-  {
     "createdAt": "2025-08-27T14:53:51Z",
-    "stars": 838,
+    "stars": 956,
     "name": "renzorlive/vimmaster",
     "url": "https://github.com/renzorlive/vimmaster",
     "lang": "HTML",
     "desc": "VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing."
   },
   {
-    "createdAt": "2025-08-21T07:58:13Z",
-    "stars": 553,
-    "name": "Tencent/Youtu-agent",
-    "url": "https://github.com/Tencent/Youtu-agent",
-    "lang": "Python",
-    "desc": "A simple yet powerful agent framework that delivers with open-source models"
-  },
-  {
-    "createdAt": "2025-08-21T21:03:28Z",
-    "stars": 544,
-    "name": "shuding/nstr",
-    "url": "https://github.com/shuding/nstr",
-    "lang": "TypeScript",
-    "desc": "number → string, but looks good"
-  },
-  {
     "createdAt": "2025-08-23T10:35:44Z",
-    "stars": 447,
+    "stars": 459,
     "name": "lunarengine/lunar-test",
     "url": "https://github.com/lunarengine/lunar-test",
     "lang": "C++",
@@ -49,71 +25,79 @@
   },
   {
     "createdAt": "2025-08-24T02:58:20Z",
-    "stars": 346,
+    "stars": 378,
     "name": "kagehq/port-kill",
     "url": "https://github.com/kagehq/port-kill",
     "lang": "Rust",
     "desc": "A lightweight mac status bar development port monitor"
   },
   {
-    "createdAt": "2025-08-24T23:35:04Z",
-    "stars": 312,
-    "name": "ENDESGA/PEP",
-    "url": "https://github.com/ENDESGA/PEP",
-    "lang": "C",
-    "desc": "Prediction-Encoded Pixels - a tiny yet powerful pixel art compression method"
-  },
-  {
-    "createdAt": "2025-08-22T21:36:56Z",
-    "stars": 310,
-    "name": "bkdevs/async-server",
-    "url": "https://github.com/bkdevs/async-server",
-    "lang": "Python",
-    "desc": "It's like Claude Code + Linear + GitHub PR"
-  },
-  {
     "createdAt": "2025-08-25T09:50:48Z",
-    "stars": 301,
+    "stars": 333,
     "name": "bravenewxyz/agent-c",
     "url": "https://github.com/bravenewxyz/agent-c",
     "lang": "C",
     "desc": "Ultra-lightweight AI Agent"
   },
   {
-    "createdAt": "2025-08-21T03:13:43Z",
-    "stars": 283,
-    "name": "Team-intN18-SoybeanSeclab/Phantom",
-    "url": "https://github.com/Team-intN18-SoybeanSeclab/Phantom",
-    "lang": "JavaScript",
-    "desc": "一款面向SRC漏洞挖掘中，页面信息收集场景的浏览器扩展，自动收集页面及相关资源中的敏感信息与可疑线索，支持基础扫描、深度递归扫描、批量 API 测试及结果导出与自定义正则配置"
+    "createdAt": "2025-08-22T21:36:56Z",
+    "stars": 325,
+    "name": "bkdevs/async-server",
+    "url": "https://github.com/bkdevs/async-server",
+    "lang": "Python",
+    "desc": "It's like Claude Code + Linear + GitHub PR"
+  },
+  {
+    "createdAt": "2025-08-24T23:35:04Z",
+    "stars": 314,
+    "name": "ENDESGA/PEP",
+    "url": "https://github.com/ENDESGA/PEP",
+    "lang": "C",
+    "desc": "Prediction-Encoded Pixels - a tiny yet powerful single-header pixel art compression method that focuses on size"
   },
   {
     "createdAt": "2025-08-25T16:02:07Z",
-    "stars": 258,
+    "stars": 298,
     "name": "ErickWendel/semana-javascript-expert09",
     "url": "https://github.com/ErickWendel/semana-javascript-expert09",
     "lang": "JavaScript",
     "desc": "Criando um chatbot inteligente 100% offline e no navegador"
   },
   {
-    "createdAt": "2025-08-22T07:44:43Z",
-    "stars": 229,
-    "name": "konne88/functorio",
-    "url": "https://github.com/konne88/functorio",
-    "lang": "Lean",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-26T02:23:45Z",
-    "stars": 228,
+    "stars": 266,
     "name": "YXYAXA/yangbing_prompt",
     "url": "https://github.com/YXYAXA/yangbing_prompt",
     "lang": "",
     "desc": "魅魔女友提示词，可发表情与自身当前姿势图片，有一定破限作用"
   },
   {
+    "createdAt": "2025-08-22T07:44:43Z",
+    "stars": 232,
+    "name": "konne88/functorio",
+    "url": "https://github.com/konne88/functorio",
+    "lang": "Lean",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-22T10:45:42Z",
+    "stars": 226,
+    "name": "bytedance/USO",
+    "url": "https://github.com/bytedance/USO",
+    "lang": "Python",
+    "desc": "🔥🔥 Open-sourced unified customization model"
+  },
+  {
+    "createdAt": "2025-08-23T21:54:33Z",
+    "stars": 225,
+    "name": "CallToSta/TG-2025",
+    "url": "https://github.com/CallToSta/TG-2025",
+    "lang": "Python",
+    "desc": "Scraper, Adder, Forwarder, Copy, Report And More! Easy to use and no coding-knowledge required. A tool to scrape members, add members and many other functions."
+  },
+  {
     "createdAt": "2025-08-24T03:21:57Z",
-    "stars": 215,
+    "stars": 223,
     "name": "martianlantern/ThinkMesh",
     "url": "https://github.com/martianlantern/ThinkMesh",
     "lang": "Python",
@@ -121,203 +105,179 @@
   },
   {
     "createdAt": "2025-08-23T01:35:15Z",
-    "stars": 202,
+    "stars": 209,
     "name": "repomirrorhq/repomirror",
     "url": "https://github.com/repomirrorhq/repomirror",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-27T22:16:34Z",
-    "stars": 192,
-    "name": "apex-cheat-aimbot/apex-cheat",
-    "url": "https://github.com/apex-cheat-aimbot/apex-cheat",
-    "lang": "",
-    "desc": "Apex Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Apex Legends. Enhance accuracy, awareness, and ranked strategy."
-  },
-  {
-    "createdAt": "2025-08-21T17:26:49Z",
-    "stars": 192,
-    "name": "code100x/1ai",
-    "url": "https://github.com/code100x/1ai",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-28T06:38:01Z",
-    "stars": 177,
-    "name": "Day-z-cheat/dayz-cheat",
-    "url": "https://github.com/Day-z-cheat/dayz-cheat",
-    "lang": "",
-    "desc": "DayZ Cheat offers advanced tools for survival: precision DayZ Aimbot, tactical ESP overlays, Wallhack, Unlock All, Radar, and Spoofer. Gain total awareness, dominate PvP firefights, secure loot faster, and protect your base in Chernarus and Livonia with complete control and optimized strategy."
-  },
-  {
     "createdAt": "2025-08-24T19:47:22Z",
-    "stars": 174,
+    "stars": 186,
     "name": "schlae/cm5-reveng",
     "url": "https://github.com/schlae/cm5-reveng",
     "lang": "",
     "desc": "Reverse engineered Raspberry Pi Compute Module 5"
   },
   {
-    "createdAt": "2025-08-21T07:47:36Z",
-    "stars": 170,
-    "name": "hku-mars/LIV_handhold_2",
-    "url": "https://github.com/hku-mars/LIV_handhold_2",
-    "lang": "C++",
-    "desc": "LIV-Eye: A Low-Cost LiDAR-Inertial-Visual Fusion 3D Sensor for Robotics and Embodied AI."
-  },
-  {
-    "createdAt": "2025-08-27T22:30:12Z",
-    "stars": 167,
-    "name": "rainbow-6-siege-cheat/r6-rainbow-six-siege-cheat",
-    "url": "https://github.com/rainbow-6-siege-cheat/r6-rainbow-six-siege-cheat",
-    "lang": "",
-    "desc": "Rainbow Six Siege Cheat – advanced R6 cheat aimbot, ESP, wallhack, and unlock-all tools. Boost precision, map control, and ranked performance."
-  },
-  {
-    "createdAt": "2025-08-23T21:54:33Z",
-    "stars": 160,
-    "name": "CallToSta/TG-2025",
-    "url": "https://github.com/CallToSta/TG-2025",
-    "lang": "Python",
-    "desc": "Scraper, Adder, Forwarder, Copy, Report And More! Easy to use and no coding-knowledge required. A tool to scrape members, add members and many other functions."
-  },
-  {
-    "createdAt": "2025-08-23T03:50:35Z",
-    "stars": 155,
-    "name": "2x7EQ13/CreateProcessAsPPL",
-    "url": "https://github.com/2x7EQ13/CreateProcessAsPPL",
-    "lang": "C++",
-    "desc": "This is the loader that supports running a program with Protected Process Light (PPL) protection functionality."
-  },
-  {
-    "createdAt": "2025-08-24T14:10:16Z",
-    "stars": 151,
-    "name": "muellerberndt/hound",
-    "url": "https://github.com/muellerberndt/hound",
-    "lang": "Python",
-    "desc": "Language-agnostic AI code security analysis that replicates the cognitive processes of expert auditors"
-  },
-  {
     "createdAt": "2025-08-27T06:35:14Z",
-    "stars": 149,
+    "stars": 174,
     "name": "polaroi8d/cactoide",
     "url": "https://github.com/polaroi8d/cactoide",
     "lang": "Svelte",
     "desc": "🌵 Mobile first open-source RSVP platform. Alternative for meetup.com & eventbrite and partiful for small companies and groups."
   },
   {
-    "createdAt": "2025-08-26T22:48:18Z",
-    "stars": 147,
-    "name": "yayasoumah/pocket-server",
-    "url": "https://github.com/yayasoumah/pocket-server",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-25T11:32:01Z",
-    "stars": 143,
+    "stars": 173,
     "name": "0voice/awesome_audio_video_learning",
     "url": "https://github.com/0voice/awesome_audio_video_learning",
     "lang": "",
     "desc": "2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！"
   },
   {
-    "createdAt": "2025-08-21T17:22:34Z",
-    "stars": 141,
-    "name": "nimeshnayaju/valleys",
-    "url": "https://github.com/nimeshnayaju/valleys",
-    "lang": "TypeScript",
-    "desc": "A lightweight TypeScript library for assertion-based runtime data validation."
-  },
-  {
-    "createdAt": "2025-08-21T05:58:49Z",
-    "stars": 140,
-    "name": "BigheadSMZ/Zelda-LA-DX-HD-Updated",
-    "url": "https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated",
-    "lang": "C#",
-    "desc": "A PC Port of The Legend of Zelda: Link's Awakening."
-  },
-  {
-    "createdAt": "2025-08-21T12:48:59Z",
-    "stars": 138,
-    "name": "microsandbox/rxtui",
-    "url": "https://github.com/microsandbox/rxtui",
-    "lang": "Rust",
-    "desc": "Reactive terminal interfaces for Rust. Because CLIs deserve better."
-  },
-  {
-    "createdAt": "2025-08-25T06:33:15Z",
-    "stars": 135,
-    "name": "warzone-cheats-aimbot/warzone-cheat",
-    "url": "https://github.com/warzone-cheats-aimbot/warzone-cheat",
-    "lang": "",
-    "desc": "Warzone Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Call of Duty: Warzone. Improve aim, awareness, and tactical strategy."
-  },
-  {
-    "createdAt": "2025-08-24T06:46:53Z",
-    "stars": 134,
-    "name": "manycore-research/SpatialGen",
-    "url": "https://github.com/manycore-research/SpatialGen",
-    "lang": "Python",
-    "desc": "SpatialGen: Layout-guided 3D Indoor Scene Generation"
-  },
-  {
-    "createdAt": "2025-08-26T21:56:21Z",
-    "stars": 134,
-    "name": "h9-tec/AI_tools_nontechnical",
-    "url": "https://github.com/h9-tec/AI_tools_nontechnical",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-27T14:11:27Z",
-    "stars": 129,
-    "name": "Xuanwo/acp-claude-code",
-    "url": "https://github.com/Xuanwo/acp-claude-code",
-    "lang": "TypeScript",
-    "desc": "The ACP implementation for Claude Code"
-  },
-  {
-    "createdAt": "2025-08-22T12:11:16Z",
-    "stars": 126,
-    "name": "PurinNyova/Image-Detection-Bypass-Utility",
-    "url": "https://github.com/PurinNyova/Image-Detection-Bypass-Utility",
-    "lang": "Python",
-    "desc": "Attempts to bypass AI Image detection by employing various methods such as: Noise Injection, FFT Smoothing, FFT Matching, Pixel Perturbation, Camera Simulation, and more."
-  },
-  {
-    "createdAt": "2025-08-21T14:54:37Z",
-    "stars": 125,
-    "name": "forter/trusted-agentic-commerce-protocol",
-    "url": "https://github.com/forter/trusted-agentic-commerce-protocol",
-    "lang": "TypeScript",
-    "desc": "A secure authentication and data encryption protocol for AI agents, merchants and merchant vendors."
-  },
-  {
     "createdAt": "2025-08-26T11:42:25Z",
-    "stars": 123,
+    "stars": 170,
     "name": "Nasogaa/immich-drop",
     "url": "https://github.com/Nasogaa/immich-drop",
     "lang": "Python",
     "desc": "A tiny, zero-login web app for collecting photos/videos from anyone into your Immich server."
   },
   {
+    "createdAt": "2025-08-28T13:09:00Z",
+    "stars": 164,
+    "name": "ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
+    "url": "https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
+    "lang": "",
+    "desc": "我的 nano-banana 创意玩法大合集！  持续更新中！"
+  },
+  {
+    "createdAt": "2025-08-27T14:11:27Z",
+    "stars": 163,
+    "name": "Xuanwo/acp-claude-code",
+    "url": "https://github.com/Xuanwo/acp-claude-code",
+    "lang": "TypeScript",
+    "desc": "The ACP implementation for Claude Code"
+  },
+  {
+    "createdAt": "2025-08-24T14:10:16Z",
+    "stars": 163,
+    "name": "muellerberndt/hound",
+    "url": "https://github.com/muellerberndt/hound",
+    "lang": "Python",
+    "desc": "Language-agnostic AI code security analysis that replicates the cognitive processes of expert auditors"
+  },
+  {
+    "createdAt": "2025-08-23T03:50:35Z",
+    "stars": 159,
+    "name": "2x7EQ13/CreateProcessAsPPL",
+    "url": "https://github.com/2x7EQ13/CreateProcessAsPPL",
+    "lang": "C++",
+    "desc": "This is the loader that supports running a program with Protected Process Light (PPL) protection functionality."
+  },
+  {
     "createdAt": "2025-08-24T20:26:39Z",
-    "stars": 123,
+    "stars": 158,
     "name": "Marvis-Labs/marvis-tts",
     "url": "https://github.com/Marvis-Labs/marvis-tts",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-08-26T22:48:18Z",
+    "stars": 153,
+    "name": "yayasoumah/pocket-server",
+    "url": "https://github.com/yayasoumah/pocket-server",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-26T21:56:21Z",
+    "stars": 152,
+    "name": "h9-tec/AI_tools_nontechnical",
+    "url": "https://github.com/h9-tec/AI_tools_nontechnical",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-25T03:27:45Z",
+    "stars": 145,
+    "name": "NoodlesOfWrath/unwrap_or_ai",
+    "url": "https://github.com/NoodlesOfWrath/unwrap_or_ai",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-25T11:30:09Z",
+    "stars": 145,
+    "name": "High-Logic/Genie",
+    "url": "https://github.com/High-Logic/Genie",
+    "lang": "Python",
+    "desc": "GPT-SoVITS ONNX Inference Engine & Model Converter"
+  },
+  {
+    "createdAt": "2025-08-24T06:46:53Z",
+    "stars": 143,
+    "name": "manycore-research/SpatialGen",
+    "url": "https://github.com/manycore-research/SpatialGen",
+    "lang": "Python",
+    "desc": "SpatialGen: Layout-guided 3D Indoor Scene Generation"
+  },
+  {
+    "createdAt": "2025-08-23T22:57:05Z",
+    "stars": 138,
+    "name": "jwest33/dsam_model_memory",
+    "url": "https://github.com/jwest33/dsam_model_memory",
+    "lang": "Python",
+    "desc": "An associative memory system that stores and retrieves experiences using the 5W1H framework (Who, What, When, Where, Why, How) combined with Modern Hopfield Networks for content-addressable memory with attention-based retrieval."
+  },
+  {
+    "createdAt": "2025-08-27T17:45:23Z",
+    "stars": 138,
+    "name": "Enemyx-net/VibeVoice-ComfyUI",
+    "url": "https://github.com/Enemyx-net/VibeVoice-ComfyUI",
+    "lang": "Python",
+    "desc": "A VibeVoice Wrapper for ComfyUI"
+  },
+  {
+    "createdAt": "2025-08-24T17:40:15Z",
+    "stars": 132,
+    "name": "HybridRobotics/motion_tracking_controller",
+    "url": "https://github.com/HybridRobotics/motion_tracking_controller",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-22T12:11:16Z",
+    "stars": 132,
+    "name": "PurinNyova/Image-Detection-Bypass-Utility",
+    "url": "https://github.com/PurinNyova/Image-Detection-Bypass-Utility",
+    "lang": "Python",
+    "desc": "Attempts to bypass AI Image detection by employing various methods such as: Noise Injection, FFT Smoothing, FFT Matching, Pixel Perturbation, Camera Simulation, and more."
+  },
+  {
+    "createdAt": "2025-08-26T05:19:58Z",
+    "stars": 131,
+    "name": "vakovalskii/sgr-deep-research",
+    "url": "https://github.com/vakovalskii/sgr-deep-research",
+    "lang": "Python",
+    "desc": "Schema-Guided Reasoning (SGR) is a technique that guides large language models (LLMs) to produce structured, clear, and predictable outputs by enforcing reasoning through predefined steps. By creating a specific schema (or structured template), you explicitly define:"
+  },
+  {
     "createdAt": "2025-08-23T05:47:51Z",
-    "stars": 123,
+    "stars": 130,
     "name": "fenxer/llm-things",
     "url": "https://github.com/fenxer/llm-things",
     "lang": "",
     "desc": "A collection of LLM memes"
+  },
+  {
+    "createdAt": "2025-08-28T15:54:12Z",
+    "stars": 123,
+    "name": "ethz-vlg/mvtracker",
+    "url": "https://github.com/ethz-vlg/mvtracker",
+    "lang": "Python",
+    "desc": "[ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking"
   },
   {
     "createdAt": "2025-08-22T12:43:53Z",
@@ -328,60 +288,84 @@
     "desc": "Classic terminal-style UI core. A project foundation extensible from chat UIs to CLI integration."
   },
   {
-    "createdAt": "2025-08-24T17:40:15Z",
-    "stars": 121,
-    "name": "HybridRobotics/motion_tracking_controller",
-    "url": "https://github.com/HybridRobotics/motion_tracking_controller",
-    "lang": "Python",
+    "createdAt": "2025-08-27T08:22:19Z",
+    "stars": 113,
+    "name": "polamoros/home-assistant-cards",
+    "url": "https://github.com/polamoros/home-assistant-cards",
+    "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-21T05:23:46Z",
-    "stars": 118,
-    "name": "XanderStrike/endless-wiki",
-    "url": "https://github.com/XanderStrike/endless-wiki",
-    "lang": "HTML",
-    "desc": "An encyclopedia where everything can be an article, and every article is generated on the spot."
-  },
-  {
-    "createdAt": "2025-08-21T02:34:41Z",
-    "stars": 114,
-    "name": "Sube3494/augment-for-vscode",
-    "url": "https://github.com/Sube3494/augment-for-vscode",
-    "lang": "",
-    "desc": "🛡️ Augment 去风控 - 智能绕过限制 + ⚡一键无感换号 + 🤖保护第三方API + 🔋自动余额显示"
-  },
-  {
-    "createdAt": "2025-08-28T12:33:49Z",
-    "stars": 102,
-    "name": "sol-drop/.github",
-    "url": "https://github.com/sol-drop/.github",
-    "lang": "",
-    "desc": "solana-airdrop airdrop solana anchor solana-program token cpi claimer example tutorial devnet testnet whitelist freecrypto free-tokens free-crypto cryptocurrency-airdrop crypto-airdrop airdrop-bot airdrop-hunter claim-airdrop solana-developer solana-wallet snekmate"
-  },
-  {
     "createdAt": "2025-08-25T22:49:52Z",
-    "stars": 99,
+    "stars": 106,
     "name": "Paradoxis/ADSyncDump-BOF",
     "url": "https://github.com/Paradoxis/ADSyncDump-BOF",
     "lang": "C",
     "desc": "The ADSyncDump BOF is a port of Dirk-Jan Mollema's adconnectdump.py / ADSyncDecrypt into a Beacon Object File (BOF) with zero dependencies."
   },
   {
-    "createdAt": "2025-08-28T13:00:55Z",
-    "stars": 99,
-    "name": "MassDmTelegram/TelegramMassDM-2025",
-    "url": "https://github.com/MassDmTelegram/TelegramMassDM-2025",
+    "createdAt": "2025-08-27T11:42:07Z",
+    "stars": 103,
+    "name": "wildminder/ComfyUI-VibeVoice",
+    "url": "https://github.com/wildminder/ComfyUI-VibeVoice",
     "lang": "Python",
-    "desc": "A tool made updated in 2025 to manage all your posts including many other functions. Noob friendly and easy to use."
+    "desc": "ComfyUI custom node for the VibeVoice TTS. Expressive, long-form, multi-speaker conversational audio"
   },
   {
     "createdAt": "2025-08-23T14:16:09Z",
-    "stars": 97,
+    "stars": 101,
     "name": "Loon0x00/Loon4Mac",
     "url": "https://github.com/Loon0x00/Loon4Mac",
     "lang": "",
     "desc": "Loon for Mac"
+  },
+  {
+    "createdAt": "2025-08-26T20:08:15Z",
+    "stars": 99,
+    "name": "samhenrigold/apple-event-shader",
+    "url": "https://github.com/samhenrigold/apple-event-shader",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-26T12:26:53Z",
+    "stars": 98,
+    "name": "vlongle/pixie",
+    "url": "https://github.com/vlongle/pixie",
+    "lang": "Jupyter Notebook",
+    "desc": "Feed-forward model for predicting 3D physics with 3DGS + NeRF"
+  },
+  {
+    "createdAt": "2025-08-27T10:04:01Z",
+    "stars": 96,
+    "name": "evilmartians/callback_hell",
+    "url": "https://github.com/evilmartians/callback_hell",
+    "lang": "Ruby",
+    "desc": "Callback Hell is a Ruby gem that analyzes your Ruby on Rails application models and provides actionable insights on callbacks and validations. Use it to identify models that might benefit from refactoring, spot callback pollution from gems and associations, and keep your models clean and maintainable."
+  },
+  {
+    "createdAt": "2025-08-24T11:43:23Z",
+    "stars": 96,
+    "name": "itandelin/qoder-free",
+    "url": "https://github.com/itandelin/qoder-free",
+    "lang": "Python",
+    "desc": "一个用于重置 Qoder 应用程序用户身份信息的现代化图形界面工具。"
+  },
+  {
+    "createdAt": "2025-08-27T22:16:34Z",
+    "stars": 95,
+    "name": "apex-cheat-aimbot/apex-cheat",
+    "url": "https://github.com/apex-cheat-aimbot/apex-cheat",
+    "lang": "",
+    "desc": "Apex Cheat – advanced aimbot, ESP, wallhack, and unlock-all tools for Apex Legends. Enhance accuracy, awareness, and ranked strategy."
+  },
+  {
+    "createdAt": "2025-08-29T00:37:49Z",
+    "stars": 93,
+    "name": "google-deepmind/limit",
+    "url": "https://github.com/google-deepmind/limit",
+    "lang": "Jupyter Notebook",
+    "desc": "On the Theoretical Limitations of Embedding-Based Retrieval"
   },
   {
     "createdAt": "2025-08-22T11:16:57Z",
@@ -398,5 +382,21 @@
     "url": "https://github.com/DavidBuchanan314/anubis_offload",
     "lang": "Python",
     "desc": "userscript to offload Anubis PoW to native CPU or GPU code"
+  },
+  {
+    "createdAt": "2025-08-22T12:48:59Z",
+    "stars": 92,
+    "name": "Maldev-Academy/TrapFlagForSyscalling",
+    "url": "https://github.com/Maldev-Academy/TrapFlagForSyscalling",
+    "lang": "C",
+    "desc": "Bypass user-land hooks by syscall tampering via the Trap Flag"
+  },
+  {
+    "createdAt": "2025-08-22T01:35:48Z",
+    "stars": 89,
+    "name": "RevenueCat/slide-to-unlock",
+    "url": "https://github.com/RevenueCat/slide-to-unlock",
+    "lang": "Kotlin",
+    "desc": "➡️ Fully customizable slide to unlock UI component for Jetpack Compose and KMP."
   }
 ]
