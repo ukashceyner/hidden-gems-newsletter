@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-08-25T13:24:01Z",
-    "stars": 6038,
+    "stars": 6355,
     "name": "microsoft/VibeVoice",
     "url": "https://github.com/microsoft/VibeVoice",
     "lang": "Python",
@@ -9,39 +9,31 @@
   },
   {
     "createdAt": "2025-08-27T14:53:51Z",
-    "stars": 1013,
+    "stars": 1063,
     "name": "renzorlive/vimmaster",
     "url": "https://github.com/renzorlive/vimmaster",
     "lang": "HTML",
     "desc": "VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels. No installs required—just open `index.html` and start practicing."
   },
   {
-    "createdAt": "2025-08-23T10:35:44Z",
-    "stars": 465,
-    "name": "lunarengine/lunar-test",
-    "url": "https://github.com/lunarengine/lunar-test",
-    "lang": "C++",
-    "desc": "LunarEngine – Open-source Luau 3D engine (API-compatible)"
-  },
-  {
     "createdAt": "2025-08-24T02:58:20Z",
-    "stars": 411,
+    "stars": 637,
     "name": "kagehq/port-kill",
     "url": "https://github.com/kagehq/port-kill",
     "lang": "Rust",
     "desc": "A lightweight mac status bar development port monitor"
   },
   {
-    "createdAt": "2025-08-23T21:56:09Z",
-    "stars": 379,
-    "name": "run-llama/semtools",
-    "url": "https://github.com/run-llama/semtools",
-    "lang": "Rust",
-    "desc": "Semantic search and document parsing tools for the command line"
+    "createdAt": "2025-08-29T09:33:59Z",
+    "stars": 406,
+    "name": "ox1nec/Pharos-Testnet-Bot",
+    "url": "https://github.com/ox1nec/Pharos-Testnet-Bot",
+    "lang": "Python",
+    "desc": "Pharos Testnet automation python bot"
   },
   {
     "createdAt": "2025-08-25T09:50:48Z",
-    "stars": 352,
+    "stars": 354,
     "name": "bravenewxyz/agent-c",
     "url": "https://github.com/bravenewxyz/agent-c",
     "lang": "C",
@@ -49,11 +41,27 @@
   },
   {
     "createdAt": "2025-08-25T16:02:07Z",
-    "stars": 322,
+    "stars": 348,
     "name": "ErickWendel/semana-javascript-expert09",
     "url": "https://github.com/ErickWendel/semana-javascript-expert09",
     "lang": "JavaScript",
     "desc": "Criando um chatbot inteligente 100% offline e no navegador"
+  },
+  {
+    "createdAt": "2025-08-29T00:37:49Z",
+    "stars": 340,
+    "name": "google-deepmind/limit",
+    "url": "https://github.com/google-deepmind/limit",
+    "lang": "Jupyter Notebook",
+    "desc": "On the Theoretical Limitations of Embedding-Based Retrieval"
+  },
+  {
+    "createdAt": "2025-08-25T11:30:09Z",
+    "stars": 323,
+    "name": "High-Logic/Genie",
+    "url": "https://github.com/High-Logic/Genie",
+    "lang": "Python",
+    "desc": "GPT-SoVITS ONNX Inference Engine & Model Converter"
   },
   {
     "createdAt": "2025-08-24T23:35:04Z",
@@ -64,56 +72,56 @@
     "desc": "Prediction-Encoded Pixels - a tiny yet powerful single-header pixel art compression method that focuses on size"
   },
   {
+    "createdAt": "2025-08-25T19:07:25Z",
+    "stars": 301,
+    "name": "GWUDCAP/cc-sessions",
+    "url": "https://github.com/GWUDCAP/cc-sessions",
+    "lang": "Python",
+    "desc": "An opinionated extension set for Claude Code (hooks, subagents, commands, task/git management infrastructure)"
+  },
+  {
+    "createdAt": "2025-08-28T08:25:34Z",
+    "stars": 292,
+    "name": "0x23/MicroManipulatorStepper",
+    "url": "https://github.com/0x23/MicroManipulatorStepper",
+    "lang": "C++",
+    "desc": "A sub-micrometer 3D motion control plattform."
+  },
+  {
     "createdAt": "2025-08-26T02:23:45Z",
-    "stars": 277,
+    "stars": 285,
     "name": "YXYAXA/yangbing_prompt",
     "url": "https://github.com/YXYAXA/yangbing_prompt",
     "lang": "",
     "desc": "魅魔女友提示词，可发表情与自身当前姿势图片，有一定破限作用"
   },
   {
-    "createdAt": "2025-08-25T11:30:09Z",
-    "stars": 272,
-    "name": "High-Logic/Genie",
-    "url": "https://github.com/High-Logic/Genie",
-    "lang": "Python",
-    "desc": "GPT-SoVITS ONNX Inference Engine & Model Converter"
-  },
-  {
-    "createdAt": "2025-08-29T00:37:49Z",
-    "stars": 266,
-    "name": "google-deepmind/limit",
-    "url": "https://github.com/google-deepmind/limit",
-    "lang": "Jupyter Notebook",
-    "desc": "On the Theoretical Limitations of Embedding-Based Retrieval"
-  },
-  {
-    "createdAt": "2025-08-24T03:21:57Z",
-    "stars": 225,
-    "name": "martianlantern/ThinkMesh",
-    "url": "https://github.com/martianlantern/ThinkMesh",
-    "lang": "Python",
-    "desc": "Parallel thinking for LLMs. Confidence‑gated, strategy‑driven, offline‑friendly"
+    "createdAt": "2025-08-30T16:00:04Z",
+    "stars": 236,
+    "name": "meituan-longcat/LongCat-Flash-Chat",
+    "url": "https://github.com/meituan-longcat/LongCat-Flash-Chat",
+    "lang": "",
+    "desc": ""
   },
   {
     "createdAt": "2025-08-28T13:09:00Z",
-    "stars": 215,
+    "stars": 229,
     "name": "ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
     "url": "https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
     "lang": "",
     "desc": "我的 nano-banana 创意玩法大合集！  持续更新中！"
   },
   {
-    "createdAt": "2025-08-23T01:35:15Z",
-    "stars": 214,
-    "name": "repomirrorhq/repomirror",
-    "url": "https://github.com/repomirrorhq/repomirror",
-    "lang": "TypeScript",
-    "desc": ""
+    "createdAt": "2025-08-24T03:21:57Z",
+    "stars": 227,
+    "name": "martianlantern/ThinkMesh",
+    "url": "https://github.com/martianlantern/ThinkMesh",
+    "lang": "Python",
+    "desc": "Parallel thinking for LLMs. Confidence‑gated, strategy‑driven, offline‑friendly"
   },
   {
     "createdAt": "2025-08-26T11:42:25Z",
-    "stars": 193,
+    "stars": 222,
     "name": "Nasogaa/immich-drop",
     "url": "https://github.com/Nasogaa/immich-drop",
     "lang": "Python",
@@ -121,95 +129,119 @@
   },
   {
     "createdAt": "2025-08-27T06:35:14Z",
-    "stars": 192,
+    "stars": 205,
     "name": "polaroi8d/cactoide",
     "url": "https://github.com/polaroi8d/cactoide",
     "lang": "Svelte",
     "desc": "🌵 Mobile first open-source RSVP platform. Alternative for meetup.com & eventbrite and partiful for small companies and groups."
   },
   {
-    "createdAt": "2025-08-25T11:32:01Z",
-    "stars": 188,
-    "name": "0voice/awesome_audio_video_learning",
-    "url": "https://github.com/0voice/awesome_audio_video_learning",
-    "lang": "",
-    "desc": "2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！"
-  },
-  {
-    "createdAt": "2025-08-24T19:47:22Z",
-    "stars": 188,
-    "name": "schlae/cm5-reveng",
-    "url": "https://github.com/schlae/cm5-reveng",
-    "lang": "",
-    "desc": "Reverse engineered Raspberry Pi Compute Module 5"
-  },
-  {
-    "createdAt": "2025-08-25T03:27:45Z",
-    "stars": 181,
-    "name": "NoodlesOfWrath/unwrap_or_ai",
-    "url": "https://github.com/NoodlesOfWrath/unwrap_or_ai",
-    "lang": "Rust",
-    "desc": "Transform your failing Rust functions into INTELLIGENT SUCCESS SYSTEMS"
-  },
-  {
-    "createdAt": "2025-08-27T14:11:27Z",
-    "stars": 177,
-    "name": "Xuanwo/acp-claude-code",
-    "url": "https://github.com/Xuanwo/acp-claude-code",
-    "lang": "TypeScript",
-    "desc": "The ACP implementation for Claude Code"
-  },
-  {
     "createdAt": "2025-08-28T15:54:12Z",
-    "stars": 172,
+    "stars": 201,
     "name": "ethz-vlg/mvtracker",
     "url": "https://github.com/ethz-vlg/mvtracker",
     "lang": "Python",
     "desc": "[ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking"
   },
   {
-    "createdAt": "2025-08-24T14:10:16Z",
-    "stars": 171,
-    "name": "muellerberndt/hound",
-    "url": "https://github.com/muellerberndt/hound",
-    "lang": "Python",
-    "desc": "Language-agnostic AI code security analysis that replicates the cognitive processes of expert auditors"
+    "createdAt": "2025-08-25T11:32:01Z",
+    "stars": 200,
+    "name": "0voice/awesome_audio_video_learning",
+    "url": "https://github.com/0voice/awesome_audio_video_learning",
+    "lang": "",
+    "desc": "2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！"
   },
   {
-    "createdAt": "2025-08-24T20:26:39Z",
-    "stars": 170,
-    "name": "Marvis-Labs/marvis-tts",
-    "url": "https://github.com/Marvis-Labs/marvis-tts",
-    "lang": "Python",
-    "desc": ""
+    "createdAt": "2025-08-25T03:27:45Z",
+    "stars": 194,
+    "name": "NoodlesOfWrath/unwrap_or_ai",
+    "url": "https://github.com/NoodlesOfWrath/unwrap_or_ai",
+    "lang": "Rust",
+    "desc": "Transform your failing Rust functions into INTELLIGENT SUCCESS SYSTEMS"
   },
   {
     "createdAt": "2025-08-26T05:19:58Z",
-    "stars": 168,
+    "stars": 193,
     "name": "vakovalskii/sgr-deep-research",
     "url": "https://github.com/vakovalskii/sgr-deep-research",
     "lang": "Python",
-    "desc": "Schema-Guided Reasoning (SGR) is a technique that guides large language models (LLMs) to produce structured, clear, and predictable outputs by enforcing reasoning through predefined steps. By creating a specific schema (or structured template), you explicitly define:"
+    "desc": "Hybrid Schema-Guided Reasoning (SGR) has agentic system design create by neuraldeep community  Creator of SGR concemption: https://abdullin.com/schema-guided-reasoning/demo Schema-Guided Reasoning (SGR) is a technique that guides large language models (LLMs) to produce structured, clear, and predictable outputs by enforcing reasoning through "
   },
   {
-    "createdAt": "2025-08-23T03:50:35Z",
-    "stars": 161,
-    "name": "2x7EQ13/CreateProcessAsPPL",
-    "url": "https://github.com/2x7EQ13/CreateProcessAsPPL",
-    "lang": "C++",
-    "desc": "This is the loader that supports running a program with Protected Process Light (PPL) protection functionality."
+    "createdAt": "2025-08-24T19:47:22Z",
+    "stars": 192,
+    "name": "schlae/cm5-reveng",
+    "url": "https://github.com/schlae/cm5-reveng",
+    "lang": "",
+    "desc": "Reverse engineered Raspberry Pi Compute Module 5"
+  },
+  {
+    "createdAt": "2025-08-27T14:11:27Z",
+    "stars": 192,
+    "name": "Xuanwo/acp-claude-code",
+    "url": "https://github.com/Xuanwo/acp-claude-code",
+    "lang": "TypeScript",
+    "desc": "The ACP implementation for Claude Code"
   },
   {
     "createdAt": "2025-08-27T17:45:23Z",
-    "stars": 160,
+    "stars": 180,
     "name": "Enemyx-net/VibeVoice-ComfyUI",
     "url": "https://github.com/Enemyx-net/VibeVoice-ComfyUI",
     "lang": "Python",
     "desc": "A VibeVoice Wrapper for ComfyUI"
   },
   {
+    "createdAt": "2025-08-24T20:26:39Z",
+    "stars": 178,
+    "name": "Marvis-Labs/marvis-tts",
+    "url": "https://github.com/Marvis-Labs/marvis-tts",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-24T13:39:40Z",
+    "stars": 175,
+    "name": "mzazon/awesome-cloud-projects",
+    "url": "https://github.com/mzazon/awesome-cloud-projects",
+    "lang": "Shell",
+    "desc": "Over 1100 cloud architecture recipes, tutorials, and real-world solutions across Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)."
+  },
+  {
+    "createdAt": "2025-08-24T14:10:16Z",
+    "stars": 174,
+    "name": "muellerberndt/hound",
+    "url": "https://github.com/muellerberndt/hound",
+    "lang": "Python",
+    "desc": "Language-agnostic AI code security analysis that replicates the cognitive processes of expert auditors"
+  },
+  {
+    "createdAt": "2025-08-26T21:49:50Z",
+    "stars": 174,
+    "name": "vllm-project/semantic-router",
+    "url": "https://github.com/vllm-project/semantic-router",
+    "lang": "Python",
+    "desc": "Intelligent Mixture-of-Models Router for Efficient LLM Inference"
+  },
+  {
+    "createdAt": "2025-08-28T03:20:40Z",
+    "stars": 174,
+    "name": "evalops/cognitive-dissonance-dspy",
+    "url": "https://github.com/evalops/cognitive-dissonance-dspy",
+    "lang": "Python",
+    "desc": "A multi-agent LLM system for detecting and resolving cognitive dissonance."
+  },
+  {
+    "createdAt": "2025-08-30T09:02:27Z",
+    "stars": 169,
+    "name": "cod-warzone-aimbots/cod-warzone-cheat",
+    "url": "https://github.com/cod-warzone-aimbots/cod-warzone-cheat",
+    "lang": "",
+    "desc": "Warzone Cheat with Aimbot, ESP, Wallhack, Unlock All, and Radar. Improve aim, awareness, and strategy in every Warzone match."
+  },
+  {
     "createdAt": "2025-08-26T21:56:21Z",
-    "stars": 160,
+    "stars": 168,
     "name": "h9-tec/AI_tools_nontechnical",
     "url": "https://github.com/h9-tec/AI_tools_nontechnical",
     "lang": "",
@@ -217,135 +249,103 @@
   },
   {
     "createdAt": "2025-08-26T22:48:18Z",
-    "stars": 154,
+    "stars": 155,
     "name": "yayasoumah/pocket-server",
     "url": "https://github.com/yayasoumah/pocket-server",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-23T22:57:05Z",
-    "stars": 152,
-    "name": "jwest33/dsam_model_memory",
-    "url": "https://github.com/jwest33/dsam_model_memory",
-    "lang": "Python",
-    "desc": "An associative memory system that stores and retrieves experiences using the 5W1H framework (Who, What, When, Where, Why, How) combined with Modern Hopfield Networks for content-addressable memory with attention-based retrieval."
-  },
-  {
-    "createdAt": "2025-08-24T06:46:53Z",
-    "stars": 146,
-    "name": "manycore-research/SpatialGen",
-    "url": "https://github.com/manycore-research/SpatialGen",
-    "lang": "Python",
-    "desc": "SpatialGen: Layout-guided 3D Indoor Scene Generation"
-  },
-  {
-    "createdAt": "2025-08-23T05:47:51Z",
-    "stars": 136,
-    "name": "fenxer/llm-things",
-    "url": "https://github.com/fenxer/llm-things",
-    "lang": "",
-    "desc": "A collection of LLM memes"
-  },
-  {
-    "createdAt": "2025-08-24T17:40:15Z",
-    "stars": 134,
-    "name": "HybridRobotics/motion_tracking_controller",
-    "url": "https://github.com/HybridRobotics/motion_tracking_controller",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-23T21:54:33Z",
-    "stars": 133,
-    "name": "CallToSta/TG-2025",
-    "url": "https://github.com/CallToSta/TG-2025",
-    "lang": "Python",
-    "desc": "Scraper, Adder, Forwarder, Copy, Report And More! Easy to use and no coding-knowledge required. A tool to scrape members, add members and many other functions."
-  },
-  {
-    "createdAt": "2025-08-29T09:33:59Z",
-    "stars": 131,
-    "name": "ox1nec/Pharos-Testnet-Bot",
-    "url": "https://github.com/ox1nec/Pharos-Testnet-Bot",
-    "lang": "Python",
-    "desc": "Pharos Testnet automation python bot"
-  },
-  {
-    "createdAt": "2025-08-27T08:22:19Z",
-    "stars": 120,
-    "name": "polamoros/home-assistant-cards",
-    "url": "https://github.com/polamoros/home-assistant-cards",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-27T11:42:07Z",
-    "stars": 113,
-    "name": "wildminder/ComfyUI-VibeVoice",
-    "url": "https://github.com/wildminder/ComfyUI-VibeVoice",
-    "lang": "Python",
-    "desc": "ComfyUI custom node for the VibeVoice TTS. Expressive, long-form, multi-speaker conversational audio"
-  },
-  {
-    "createdAt": "2025-08-24T11:43:23Z",
-    "stars": 112,
-    "name": "itandelin/qoder-free",
-    "url": "https://github.com/itandelin/qoder-free",
-    "lang": "Python",
-    "desc": "一个用于重置 Qoder 应用程序用户身份信息的现代化图形界面工具。"
-  },
-  {
-    "createdAt": "2025-08-25T22:49:52Z",
-    "stars": 109,
-    "name": "Paradoxis/ADSyncDump-BOF",
-    "url": "https://github.com/Paradoxis/ADSyncDump-BOF",
-    "lang": "C",
-    "desc": "The ADSyncDump BOF is a port of Dirk-Jan Mollema's adconnectdump.py / ADSyncDecrypt into a Beacon Object File (BOF) with zero dependencies."
-  },
-  {
     "createdAt": "2025-08-27T04:10:59Z",
-    "stars": 108,
+    "stars": 154,
     "name": "aigem/aice_ps",
     "url": "https://github.com/aigem/aice_ps",
     "lang": "TypeScript",
     "desc": "Nano Banana editor(webui) for aistudio or gemini api key.  最强Ai修图APP，方便实用！如登录了google aistudio，可直接在DEMO APP中使用。"
   },
   {
-    "createdAt": "2025-08-29T09:49:09Z",
-    "stars": 106,
-    "name": "ox1nec/NaorisProtocol-bot",
-    "url": "https://github.com/ox1nec/NaorisProtocol-bot",
+    "createdAt": "2025-08-24T06:46:53Z",
+    "stars": 148,
+    "name": "manycore-research/SpatialGen",
+    "url": "https://github.com/manycore-research/SpatialGen",
     "lang": "Python",
-    "desc": "Automation bot for Naoris Protocol"
+    "desc": "SpatialGen: Layout-guided 3D Indoor Scene Generation"
   },
   {
-    "createdAt": "2025-08-23T14:16:09Z",
-    "stars": 106,
-    "name": "Loon0x00/Loon4Mac",
-    "url": "https://github.com/Loon0x00/Loon4Mac",
+    "createdAt": "2025-08-24T17:40:15Z",
+    "stars": 139,
+    "name": "HybridRobotics/motion_tracking_controller",
+    "url": "https://github.com/HybridRobotics/motion_tracking_controller",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-27T08:22:19Z",
+    "stars": 133,
+    "name": "polamoros/home-assistant-cards",
+    "url": "https://github.com/polamoros/home-assistant-cards",
     "lang": "",
-    "desc": "Loon for Mac"
+    "desc": ""
   },
   {
     "createdAt": "2025-08-26T12:26:53Z",
-    "stars": 103,
+    "stars": 125,
     "name": "vlongle/pixie",
     "url": "https://github.com/vlongle/pixie",
     "lang": "Jupyter Notebook",
     "desc": "Feed-forward model for predicting 3D physics with 3DGS + NeRF"
   },
   {
-    "createdAt": "2025-08-28T08:25:34Z",
-    "stars": 103,
-    "name": "0x23/MicroManipulatorStepper",
-    "url": "https://github.com/0x23/MicroManipulatorStepper",
-    "lang": "C++",
-    "desc": "A sub-micrometer 3D motion control plattform."
+    "createdAt": "2025-08-24T11:43:23Z",
+    "stars": 121,
+    "name": "itandelin/qoder-free",
+    "url": "https://github.com/itandelin/qoder-free",
+    "lang": "Python",
+    "desc": "一个用于重置 Qoder 应用程序用户身份信息的现代化图形界面工具。"
+  },
+  {
+    "createdAt": "2025-08-27T11:42:07Z",
+    "stars": 119,
+    "name": "wildminder/ComfyUI-VibeVoice",
+    "url": "https://github.com/wildminder/ComfyUI-VibeVoice",
+    "lang": "Python",
+    "desc": "ComfyUI custom node for the VibeVoice TTS. Expressive, long-form, multi-speaker conversational audio"
+  },
+  {
+    "createdAt": "2025-08-25T22:49:52Z",
+    "stars": 114,
+    "name": "Paradoxis/ADSyncDump-BOF",
+    "url": "https://github.com/Paradoxis/ADSyncDump-BOF",
+    "lang": "C",
+    "desc": "The ADSyncDump BOF is a port of Dirk-Jan Mollema's adconnectdump.py / ADSyncDecrypt into a Beacon Object File (BOF) with zero dependencies."
+  },
+  {
+    "createdAt": "2025-08-27T01:02:13Z",
+    "stars": 113,
+    "name": "Nelipot-Lee/VoxHammer",
+    "url": "https://github.com/Nelipot-Lee/VoxHammer",
+    "lang": "Jupyter Notebook",
+    "desc": "VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space"
+  },
+  {
+    "createdAt": "2025-08-27T07:00:10Z",
+    "stars": 110,
+    "name": "Accenture/mcp-bench",
+    "url": "https://github.com/Accenture/mcp-bench",
+    "lang": "Python",
+    "desc": "MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers"
+  },
+  {
+    "createdAt": "2025-08-29T09:49:09Z",
+    "stars": 107,
+    "name": "ox1nec/NaorisProtocol-bot",
+    "url": "https://github.com/ox1nec/NaorisProtocol-bot",
+    "lang": "Python",
+    "desc": "Automation bot for Naoris Protocol"
   },
   {
     "createdAt": "2025-08-26T20:08:15Z",
-    "stars": 103,
+    "stars": 104,
     "name": "samhenrigold/apple-event-shader",
     "url": "https://github.com/samhenrigold/apple-event-shader",
     "lang": "TypeScript",
@@ -353,7 +353,7 @@
   },
   {
     "createdAt": "2025-08-27T23:53:58Z",
-    "stars": 98,
+    "stars": 101,
     "name": "Nonanti/DataFlow",
     "url": "https://github.com/Nonanti/DataFlow",
     "lang": "C#",
@@ -361,42 +361,42 @@
   },
   {
     "createdAt": "2025-08-27T10:04:01Z",
-    "stars": 97,
+    "stars": 98,
     "name": "evilmartians/callback_hell",
     "url": "https://github.com/evilmartians/callback_hell",
     "lang": "Ruby",
     "desc": "Callback Hell is a Ruby gem that analyzes your Ruby on Rails application models and provides actionable insights on callbacks and validations. Use it to identify models that might benefit from refactoring, spot callback pollution from gems and associations, and keep your models clean and maintainable."
   },
   {
-    "createdAt": "2025-08-24T13:39:40Z",
-    "stars": 95,
-    "name": "mzazon/awesome-cloud-projects",
-    "url": "https://github.com/mzazon/awesome-cloud-projects",
-    "lang": "Shell",
-    "desc": "A curated collection of 800+ cloud architecture recipes, tutorials, and real-world solutions across Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)."
-  },
-  {
-    "createdAt": "2025-08-24T13:53:38Z",
-    "stars": 93,
-    "name": "DavidBuchanan314/anubis_offload",
-    "url": "https://github.com/DavidBuchanan314/anubis_offload",
-    "lang": "Python",
-    "desc": "userscript to offload Anubis PoW to native CPU or GPU code"
-  },
-  {
     "createdAt": "2025-08-28T14:51:56Z",
-    "stars": 91,
+    "stars": 97,
     "name": "CodeGoat24/Pref-GRPO",
     "url": "https://github.com/CodeGoat24/Pref-GRPO",
     "lang": "Python",
     "desc": "Official implementation of Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning"
   },
   {
-    "createdAt": "2025-08-27T01:02:13Z",
-    "stars": 90,
-    "name": "Nelipot-Lee/VoxHammer",
-    "url": "https://github.com/Nelipot-Lee/VoxHammer",
-    "lang": "Jupyter Notebook",
-    "desc": "VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space"
+    "createdAt": "2025-08-30T12:33:32Z",
+    "stars": 97,
+    "name": "enetx/surf",
+    "url": "https://github.com/enetx/surf",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-26T21:52:22Z",
+    "stars": 95,
+    "name": "azat-io/actions-up",
+    "url": "https://github.com/azat-io/actions-up",
+    "lang": "TypeScript",
+    "desc": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning"
+  },
+  {
+    "createdAt": "2025-08-24T23:22:24Z",
+    "stars": 94,
+    "name": "jythar8WjK3t/MEV-by-JaredFromSubway",
+    "url": "https://github.com/jythar8WjK3t/MEV-by-JaredFromSubway",
+    "lang": "",
+    "desc": "MEV 2 Bot by JaredFromSubway"
   }
 ]
