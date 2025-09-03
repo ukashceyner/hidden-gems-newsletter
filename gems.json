@@ -1,15 +1,23 @@
 [
   {
     "createdAt": "2025-08-27T22:09:28Z",
-    "stars": 1708,
+    "stars": 1952,
     "name": "pewdiepie-archdaemon/dionysus",
     "url": "https://github.com/pewdiepie-archdaemon/dionysus",
     "lang": "Shell",
     "desc": "laptop "
   },
   {
+    "createdAt": "2025-09-02T03:28:30Z",
+    "stars": 1160,
+    "name": "the-litte-book-of/linear-algebra",
+    "url": "https://github.com/the-litte-book-of/linear-algebra",
+    "lang": "TeX",
+    "desc": "There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices. —Jean Dieudonne"
+  },
+  {
     "createdAt": "2025-08-27T14:53:51Z",
-    "stars": 1124,
+    "stars": 1158,
     "name": "renzorlive/vimmaster",
     "url": "https://github.com/renzorlive/vimmaster",
     "lang": "JavaScript",
@@ -17,111 +25,95 @@
   },
   {
     "createdAt": "2025-08-30T16:00:04Z",
-    "stars": 791,
+    "stars": 851,
     "name": "meituan-longcat/LongCat-Flash-Chat",
     "url": "https://github.com/meituan-longcat/LongCat-Flash-Chat",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-28T08:25:34Z",
-    "stars": 437,
-    "name": "0x23/MicroManipulatorStepper",
-    "url": "https://github.com/0x23/MicroManipulatorStepper",
-    "lang": "C++",
-    "desc": "A sub-micrometer 3D motion control plattform."
-  },
-  {
-    "createdAt": "2025-09-02T03:28:30Z",
-    "stars": 430,
-    "name": "the-litte-book-of/linear-algebra",
-    "url": "https://github.com/the-litte-book-of/linear-algebra",
-    "lang": "TeX",
-    "desc": "There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices. —Jean Dieudonne"
-  },
-  {
-    "createdAt": "2025-08-29T00:37:49Z",
-    "stars": 430,
-    "name": "google-deepmind/limit",
-    "url": "https://github.com/google-deepmind/limit",
-    "lang": "Jupyter Notebook",
-    "desc": "On the Theoretical Limitations of Embedding-Based Retrieval"
-  },
-  {
-    "createdAt": "2025-08-26T21:49:50Z",
-    "stars": 401,
-    "name": "vllm-project/semantic-router",
-    "url": "https://github.com/vllm-project/semantic-router",
-    "lang": "Python",
-    "desc": "Intelligent Mixture-of-Models Router for Efficient LLM Inference"
-  },
-  {
-    "createdAt": "2025-08-27T06:04:23Z",
-    "stars": 360,
-    "name": "katelya77/KatelyaTV",
-    "url": "https://github.com/katelya77/KatelyaTV",
-    "lang": "TypeScript",
-    "desc": "一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.2 通知：今日战绩---修复OrionTV视频源无法播放问题、添加视频源一键导入导出、修复fork仓库之后无法跟随更新---今天就这样了吧，休息了】"
-  },
-  {
-    "createdAt": "2025-08-26T02:23:45Z",
-    "stars": 297,
-    "name": "YXYAXA/yangbing_prompt",
-    "url": "https://github.com/YXYAXA/yangbing_prompt",
-    "lang": "",
-    "desc": "魅魔女友提示词，可发表情与自身当前姿势图片，有一定破限作用"
-  },
-  {
-    "createdAt": "2025-08-28T15:54:12Z",
-    "stars": 280,
-    "name": "ethz-vlg/mvtracker",
-    "url": "https://github.com/ethz-vlg/mvtracker",
-    "lang": "Python",
-    "desc": "[ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking"
-  },
-  {
     "createdAt": "2025-08-27T09:34:10Z",
-    "stars": 269,
+    "stars": 690,
     "name": "Tencent-Hunyuan/HunyuanWorld-Voyager",
     "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
     "lang": "Python",
     "desc": "Voyager is an interactive RGBD video generation model conditioned on camera trajectory, and supports real-time 3D reconstruction."
   },
   {
+    "createdAt": "2025-08-27T06:04:23Z",
+    "stars": 595,
+    "name": "katelya77/KatelyaTV",
+    "url": "https://github.com/katelya77/KatelyaTV",
+    "lang": "TypeScript",
+    "desc": "一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.3 通知：休息一段时间，近几天就不更新了，现在项目基本都没有什么大bug了，都能正常使用，更新的都是小问题和部分建议，感谢大家的支持！】"
+  },
+  {
+    "createdAt": "2025-08-30T19:23:45Z",
+    "stars": 590,
+    "name": "Danau5tin/multi-agent-coding-system",
+    "url": "https://github.com/Danau5tin/multi-agent-coding-system",
+    "lang": "Python",
+    "desc": "Now #12 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents working together with intelligent context sharing."
+  },
+  {
+    "createdAt": "2025-08-28T08:25:34Z",
+    "stars": 495,
+    "name": "0x23/MicroManipulatorStepper",
+    "url": "https://github.com/0x23/MicroManipulatorStepper",
+    "lang": "C++",
+    "desc": "A sub-micrometer 3D motion control plattform."
+  },
+  {
+    "createdAt": "2025-08-29T00:37:49Z",
+    "stars": 452,
+    "name": "google-deepmind/limit",
+    "url": "https://github.com/google-deepmind/limit",
+    "lang": "Jupyter Notebook",
+    "desc": "On the Theoretical Limitations of Embedding-Based Retrieval"
+  },
+  {
+    "createdAt": "2025-08-28T17:03:09Z",
+    "stars": 421,
+    "name": "PicoTrex/Awesome-Nano-Banana-images",
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+    "lang": "",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-08-28T13:09:00Z",
-    "stars": 255,
+    "stars": 349,
     "name": "ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
     "url": "https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
     "lang": "",
     "desc": "我的 nano-banana 创意玩法大合集！  持续更新中！"
   },
   {
-    "createdAt": "2025-08-26T05:19:58Z",
-    "stars": 254,
-    "name": "vakovalskii/sgr-deep-research",
-    "url": "https://github.com/vakovalskii/sgr-deep-research",
+    "createdAt": "2025-08-27T17:45:23Z",
+    "stars": 322,
+    "name": "Enemyx-net/VibeVoice-ComfyUI",
+    "url": "https://github.com/Enemyx-net/VibeVoice-ComfyUI",
     "lang": "Python",
-    "desc": "Hybrid Schema-Guided Reasoning (SGR) has agentic system design create by neuraldeep community  Creator of SGR concept: https://abdullin.com/schema-guided-reasoning/demo Schema-Guided Reasoning (SGR) is a technique that guides large language models (LLMs) to produce structured, clear, and predictable outputs by enforcing reasoning through "
-  },
-  {
-    "createdAt": "2025-08-26T11:42:25Z",
-    "stars": 245,
-    "name": "Nasogaa/immich-drop",
-    "url": "https://github.com/Nasogaa/immich-drop",
-    "lang": "Python",
-    "desc": "A tiny, zero-login web app for collecting photos/videos from anyone into your Immich server."
+    "desc": "A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows."
   },
   {
     "createdAt": "2025-08-28T09:54:40Z",
-    "stars": 236,
+    "stars": 320,
     "name": "Tencent-Hunyuan/Hunyuan-MT",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan-MT",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-08-28T15:54:12Z",
+    "stars": 303,
+    "name": "ethz-vlg/mvtracker",
+    "url": "https://github.com/ethz-vlg/mvtracker",
+    "lang": "Python",
+    "desc": "[ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking"
+  },
+  {
     "createdAt": "2025-08-30T13:18:31Z",
-    "stars": 232,
+    "stars": 249,
     "name": "tahayvr/omarchist",
     "url": "https://github.com/tahayvr/omarchist",
     "lang": "Rust",
@@ -129,23 +121,23 @@
   },
   {
     "createdAt": "2025-08-28T03:20:40Z",
-    "stars": 230,
+    "stars": 233,
     "name": "evalops/cognitive-dissonance-dspy",
     "url": "https://github.com/evalops/cognitive-dissonance-dspy",
     "lang": "Python",
     "desc": "A multi-agent LLM system for detecting and resolving cognitive dissonance."
   },
   {
-    "createdAt": "2025-09-02T11:38:57Z",
-    "stars": 221,
-    "name": "TGTools-Free/TG-Adding-Scrapping-FREE-2025",
-    "url": "https://github.com/TGTools-Free/TG-Adding-Scrapping-FREE-2025",
-    "lang": "",
-    "desc": "A free tool for TG written in Python to for adding and data extraction. Updated for 2025."
+    "createdAt": "2025-08-27T07:00:10Z",
+    "stars": 229,
+    "name": "Accenture/mcp-bench",
+    "url": "https://github.com/Accenture/mcp-bench",
+    "lang": "Python",
+    "desc": "MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers"
   },
   {
     "createdAt": "2025-08-27T06:35:14Z",
-    "stars": 220,
+    "stars": 226,
     "name": "polaroi8d/cactoide",
     "url": "https://github.com/polaroi8d/cactoide",
     "lang": "Svelte",
@@ -153,250 +145,258 @@
   },
   {
     "createdAt": "2025-08-27T14:11:27Z",
-    "stars": 215,
+    "stars": 225,
     "name": "Xuanwo/acp-claude-code",
     "url": "https://github.com/Xuanwo/acp-claude-code",
     "lang": "TypeScript",
     "desc": "The ACP implementation for Claude Code"
   },
   {
-    "createdAt": "2025-08-30T19:23:45Z",
-    "stars": 210,
-    "name": "Danau5tin/multi-agent-coding-system",
-    "url": "https://github.com/Danau5tin/multi-agent-coding-system",
-    "lang": "Python",
-    "desc": "Now #12 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents working together with intelligent context sharing."
-  },
-  {
-    "createdAt": "2025-08-27T17:45:23Z",
-    "stars": 208,
-    "name": "Enemyx-net/VibeVoice-ComfyUI",
-    "url": "https://github.com/Enemyx-net/VibeVoice-ComfyUI",
-    "lang": "Python",
-    "desc": "A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows."
-  },
-  {
-    "createdAt": "2025-08-27T07:00:10Z",
-    "stars": 202,
-    "name": "Accenture/mcp-bench",
-    "url": "https://github.com/Accenture/mcp-bench",
-    "lang": "Python",
-    "desc": "MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers"
-  },
-  {
-    "createdAt": "2025-08-26T21:52:22Z",
-    "stars": 192,
-    "name": "azat-io/actions-up",
-    "url": "https://github.com/azat-io/actions-up",
-    "lang": "TypeScript",
-    "desc": "🌊 Interactive CLI tool to update GitHub Actions to latest versions with SHA pinning"
-  },
-  {
-    "createdAt": "2025-08-26T21:56:21Z",
-    "stars": 178,
-    "name": "h9-tec/AI_tools_nontechnical",
-    "url": "https://github.com/h9-tec/AI_tools_nontechnical",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-28T20:38:14Z",
-    "stars": 176,
-    "name": "rafaelSwi/MenuBarUSB",
-    "url": "https://github.com/rafaelSwi/MenuBarUSB",
-    "lang": "Swift",
-    "desc": "Simple app that displays your USB connections in the macOS MenuBar"
-  },
-  {
-    "createdAt": "2025-08-26T12:26:53Z",
-    "stars": 175,
-    "name": "vlongle/pixie",
-    "url": "https://github.com/vlongle/pixie",
-    "lang": "Jupyter Notebook",
-    "desc": "Feed-forward model for predicting 3D physics with 3DGS + NeRF"
-  },
-  {
-    "createdAt": "2025-08-27T04:10:59Z",
-    "stars": 174,
-    "name": "aigem/aice_ps",
-    "url": "https://github.com/aigem/aice_ps",
-    "lang": "TypeScript",
-    "desc": "Nano Banana editor(webui) for aistudio or gemini api key.  最强Ai修图APP，方便实用！如登录了google aistudio，可直接在DEMO APP中使用。支持静态部署，兼容Gemini API"
-  },
-  {
-    "createdAt": "2025-08-28T22:39:16Z",
-    "stars": 171,
-    "name": "EO-Robotics/EO-1",
-    "url": "https://github.com/EO-Robotics/EO-1",
-    "lang": "",
-    "desc": "EO: Open-source Unified Embodied Foundation Model Series"
-  },
-  {
     "createdAt": "2025-08-27T11:42:07Z",
-    "stars": 168,
+    "stars": 209,
     "name": "wildminder/ComfyUI-VibeVoice",
     "url": "https://github.com/wildminder/ComfyUI-VibeVoice",
     "lang": "Python",
     "desc": "ComfyUI custom node for the VibeVoice TTS. Expressive, long-form, multi-speaker conversational audio"
   },
   {
-    "createdAt": "2025-08-27T08:22:19Z",
-    "stars": 163,
-    "name": "polamoros/home-assistant-cards",
-    "url": "https://github.com/polamoros/home-assistant-cards",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-26T22:48:18Z",
-    "stars": 159,
-    "name": "yayasoumah/pocket-server",
-    "url": "https://github.com/yayasoumah/pocket-server",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-30T09:02:27Z",
-    "stars": 154,
-    "name": "cod-warzone-aimbots/cod-warzone-cheat",
-    "url": "https://github.com/cod-warzone-aimbots/cod-warzone-cheat",
-    "lang": "",
-    "desc": "Warzone Cheat with Aimbot, ESP, Wallhack, Unlock All, and Radar. Improve aim, awareness, and strategy in every Warzone match."
-  },
-  {
-    "createdAt": "2025-08-30T12:33:32Z",
-    "stars": 143,
-    "name": "enetx/surf",
-    "url": "https://github.com/enetx/surf",
-    "lang": "Go",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-01T17:39:39Z",
-    "stars": 138,
-    "name": "ItxTorito/Migraine-PumpFun-Launch-Bundler",
-    "url": "https://github.com/ItxTorito/Migraine-PumpFun-Launch-Bundler",
-    "lang": "",
-    "desc": "Generate bundled wallets, auto buy/dump and send all sol back to dev wallet"
-  },
-  {
-    "createdAt": "2025-09-01T12:51:01Z",
-    "stars": 134,
-    "name": "leochlon/hallbayes",
-    "url": "https://github.com/leochlon/hallbayes",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-27T01:02:13Z",
-    "stars": 132,
-    "name": "Nelipot-Lee/VoxHammer",
-    "url": "https://github.com/Nelipot-Lee/VoxHammer",
-    "lang": "Jupyter Notebook",
-    "desc": "VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space"
-  },
-  {
-    "createdAt": "2025-09-01T04:58:29Z",
-    "stars": 130,
-    "name": "kbykb/OpenAI-Compatible-API-Proxy-for-Z",
-    "url": "https://github.com/kbykb/OpenAI-Compatible-API-Proxy-for-Z",
-    "lang": "Go",
-    "desc": "这是一个为 Zai 提供 OpenAI API 兼容接口的代理服务，允许开发者通过标准的 OpenAI API 格式访问 Zai 的 GLM-4.5 模型。"
-  },
-  {
-    "createdAt": "2025-08-28T17:03:09Z",
-    "stars": 128,
-    "name": "PicoTrex/Awesome-Nano-Banana-images",
-    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-28T12:30:48Z",
-    "stars": 127,
-    "name": "Hugo-Dz/exe",
-    "url": "https://github.com/Hugo-Dz/exe",
-    "lang": "TypeScript",
-    "desc": "Pack your web app as a single executable binary with zero runtime dependencies"
-  },
-  {
-    "createdAt": "2025-09-01T07:37:08Z",
-    "stars": 126,
-    "name": "Spu7Nix/obamify",
-    "url": "https://github.com/Spu7Nix/obamify",
-    "lang": "Rust",
-    "desc": "revolutionary new technology that turns any image into obama"
-  },
-  {
-    "createdAt": "2025-09-01T23:41:12Z",
-    "stars": 124,
-    "name": "lzA6/free-VPN",
-    "url": "https://github.com/lzA6/free-VPN",
-    "lang": "",
-    "desc": "更新的都是高质量高速度的VPN，通常用IDM等等下载工具下载huggingface的大模型速度都能跑到100MB+，但是可能仅限于下载。对于访问google相关服务不太理想"
-  },
-  {
     "createdAt": "2025-08-29T17:13:10Z",
-    "stars": 122,
+    "stars": 188,
     "name": "mursor1985/LIVE",
     "url": "https://github.com/mursor1985/LIVE",
     "lang": "",
     "desc": ""
   },
   {
+    "createdAt": "2025-08-30T12:33:32Z",
+    "stars": 187,
+    "name": "enetx/surf",
+    "url": "https://github.com/enetx/surf",
+    "lang": "Go",
+    "desc": "SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping."
+  },
+  {
+    "createdAt": "2025-08-28T20:38:14Z",
+    "stars": 187,
+    "name": "rafaelSwi/MenuBarUSB",
+    "url": "https://github.com/rafaelSwi/MenuBarUSB",
+    "lang": "Swift",
+    "desc": "Simple app that displays your USB connections in the macOS MenuBar"
+  },
+  {
+    "createdAt": "2025-08-28T22:39:16Z",
+    "stars": 182,
+    "name": "EO-Robotics/EO-1",
+    "url": "https://github.com/EO-Robotics/EO-1",
+    "lang": "",
+    "desc": "EO: Open-source Unified Embodied Foundation Model Series"
+  },
+  {
+    "createdAt": "2025-08-27T04:10:59Z",
+    "stars": 181,
+    "name": "aigem/aice_ps",
+    "url": "https://github.com/aigem/aice_ps",
+    "lang": "TypeScript",
+    "desc": "Nano Banana editor(webui) for aistudio or gemini api key.  最强Ai修图APP，方便实用！如登录了google aistudio，可直接在DEMO APP中使用。支持静态部署，兼容Gemini API"
+  },
+  {
+    "createdAt": "2025-08-27T08:22:19Z",
+    "stars": 173,
+    "name": "polamoros/home-assistant-cards",
+    "url": "https://github.com/polamoros/home-assistant-cards",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-01T12:51:01Z",
+    "stars": 161,
+    "name": "leochlon/hallbayes",
+    "url": "https://github.com/leochlon/hallbayes",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-02T14:44:03Z",
+    "stars": 153,
+    "name": "callstack/liquid-glass",
+    "url": "https://github.com/callstack/liquid-glass",
+    "lang": "TypeScript",
+    "desc": "Liquid Glass in React Native"
+  },
+  {
+    "createdAt": "2025-09-01T07:37:08Z",
+    "stars": 151,
+    "name": "Spu7Nix/obamify",
+    "url": "https://github.com/Spu7Nix/obamify",
+    "lang": "Rust",
+    "desc": "revolutionary new technology that turns any image into obama"
+  },
+  {
+    "createdAt": "2025-09-02T04:44:12Z",
+    "stars": 150,
+    "name": "mandatoryprogrammer/thermoptic",
+    "url": "https://github.com/mandatoryprogrammer/thermoptic",
+    "lang": "JavaScript",
+    "desc": "A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across all layers of the stack."
+  },
+  {
+    "createdAt": "2025-09-01T04:58:29Z",
+    "stars": 142,
+    "name": "kbykb/OpenAI-Compatible-API-Proxy-for-Z",
+    "url": "https://github.com/kbykb/OpenAI-Compatible-API-Proxy-for-Z",
+    "lang": "Go",
+    "desc": "这是一个为 Zai 提供 OpenAI API 兼容接口的代理服务，允许开发者通过标准的 OpenAI API 格式访问 Zai 的 GLM-4.5 模型。"
+  },
+  {
+    "createdAt": "2025-08-28T12:30:48Z",
+    "stars": 139,
+    "name": "Hugo-Dz/exe",
+    "url": "https://github.com/Hugo-Dz/exe",
+    "lang": "TypeScript",
+    "desc": "Pack your web app as a single executable binary with zero runtime dependencies"
+  },
+  {
+    "createdAt": "2025-09-01T10:40:56Z",
+    "stars": 136,
+    "name": "mystorm16/FastVGGT",
+    "url": "https://github.com/mystorm16/FastVGGT",
+    "lang": "Python",
+    "desc": "Code for FastVGGT: Training-Free Acceleration of Visual Geometry Transformer"
+  },
+  {
+    "createdAt": "2025-08-27T01:02:13Z",
+    "stars": 136,
+    "name": "Nelipot-Lee/VoxHammer",
+    "url": "https://github.com/Nelipot-Lee/VoxHammer",
+    "lang": "Jupyter Notebook",
+    "desc": "VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space"
+  },
+  {
+    "createdAt": "2025-09-01T23:41:12Z",
+    "stars": 134,
+    "name": "lzA6/free-VPN",
+    "url": "https://github.com/lzA6/free-VPN",
+    "lang": "",
+    "desc": "更新的都是高质量高速度的VPN，通常用IDM等等下载工具下载huggingface的大模型速度都能跑到100MB+，但是可能仅限于下载。对于访问google相关服务不太理想"
+  },
+  {
     "createdAt": "2025-08-28T14:51:56Z",
-    "stars": 120,
+    "stars": 127,
     "name": "CodeGoat24/Pref-GRPO",
     "url": "https://github.com/CodeGoat24/Pref-GRPO",
     "lang": "Python",
     "desc": "Official implementation of Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning"
   },
   {
-    "createdAt": "2025-08-26T11:53:34Z",
-    "stars": 116,
-    "name": "woheller69/FreeDroidWarn",
-    "url": "https://github.com/woheller69/FreeDroidWarn",
-    "lang": "Java",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-27T07:15:45Z",
-    "stars": 112,
+    "stars": 126,
     "name": "limix-ldm/LimiX",
     "url": "https://github.com/limix-ldm/LimiX",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-08-31T16:16:39Z",
+    "stars": 116,
+    "name": "xn1cklas/ai-tools-registry",
+    "url": "https://github.com/xn1cklas/ai-tools-registry",
+    "lang": "TypeScript",
+    "desc": "Install AI tools and UI components for the AI SDK via the shadcn registry"
+  },
+  {
     "createdAt": "2025-08-27T23:53:58Z",
-    "stars": 112,
+    "stars": 115,
     "name": "Nonanti/DataFlow",
     "url": "https://github.com/Nonanti/DataFlow",
     "lang": "C#",
     "desc": "High-performance ETL pipeline library for .NET. Process CSV, JSON, Excel, and SQL data with minimal memory usage through streaming operations."
   },
   {
+    "createdAt": "2025-08-31T14:04:58Z",
+    "stars": 114,
+    "name": "ishtms/nodebook",
+    "url": "https://github.com/ishtms/nodebook",
+    "lang": "JavaScript",
+    "desc": "Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments."
+  },
+  {
+    "createdAt": "2025-08-31T15:26:56Z",
+    "stars": 113,
+    "name": "jwangkun/Prompt-Tools",
+    "url": "https://github.com/jwangkun/Prompt-Tools",
+    "lang": "JavaScript",
+    "desc": "一款强大的桌面应用，旨在简化您的 Prompt 管理工作流程。"
+  },
+  {
     "createdAt": "2025-08-27T10:04:01Z",
-    "stars": 110,
+    "stars": 111,
     "name": "evilmartians/callback_hell",
     "url": "https://github.com/evilmartians/callback_hell",
     "lang": "Ruby",
     "desc": "Callback Hell is a Ruby gem that analyzes your Ruby on Rails application models and provides actionable insights on callbacks and validations. Use it to identify models that might benefit from refactoring, spot callback pollution from gems and associations, and keep your models clean and maintainable."
   },
   {
-    "createdAt": "2025-08-26T20:08:15Z",
-    "stars": 109,
-    "name": "samhenrigold/apple-event-shader",
-    "url": "https://github.com/samhenrigold/apple-event-shader",
+    "createdAt": "2025-08-30T09:02:27Z",
+    "stars": 110,
+    "name": "cod-warzone-aimbots/cod-warzone-cheat",
+    "url": "https://github.com/cod-warzone-aimbots/cod-warzone-cheat",
+    "lang": "",
+    "desc": "Warzone Cheat with Aimbot, ESP, Wallhack, Unlock All, and Radar. Improve aim, awareness, and strategy in every Warzone match."
+  },
+  {
+    "createdAt": "2025-09-01T08:28:49Z",
+    "stars": 107,
+    "name": "joeseesun/img-cool",
+    "url": "https://github.com/joeseesun/img-cool",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-31T16:16:39Z",
-    "stars": 103,
-    "name": "xn1cklas/ai-tools-registry",
-    "url": "https://github.com/xn1cklas/ai-tools-registry",
+    "createdAt": "2025-08-31T13:35:25Z",
+    "stars": 106,
+    "name": "CherryHQ/AI_Hanlin",
+    "url": "https://github.com/CherryHQ/AI_Hanlin",
+    "lang": "Swift",
+    "desc": "A SwiftUI-based Chat App for LLMs on iOS"
+  },
+  {
+    "createdAt": "2025-09-01T12:14:45Z",
+    "stars": 100,
+    "name": "docker/cagent",
+    "url": "https://github.com/docker/cagent",
+    "lang": "Go",
+    "desc": "Agent Builder and Runtime by Docker Engineering"
+  },
+  {
+    "createdAt": "2025-08-27T18:57:40Z",
+    "stars": 98,
+    "name": "pwnfuzz/diffrays",
+    "url": "https://github.com/pwnfuzz/diffrays",
+    "lang": "Python",
+    "desc": "DiffRays is a research-oriented tool for binary patch diffing, designed to aid in vulnerability research, exploit development, and reverse engineering."
+  },
+  {
+    "createdAt": "2025-09-03T13:56:20Z",
+    "stars": 95,
+    "name": "KnightSans/TG-Scrap-Add-FREE",
+    "url": "https://github.com/KnightSans/TG-Scrap-Add-FREE",
+    "lang": "",
+    "desc": "Tool for Telegram to invite users automatically from any target to your destination of choice."
+  },
+  {
+    "createdAt": "2025-09-03T08:56:46Z",
+    "stars": 95,
+    "name": "reylinux/Material-Design-3-Dynamic-Dashboard",
+    "url": "https://github.com/reylinux/Material-Design-3-Dynamic-Dashboard",
+    "lang": "",
+    "desc": "Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic"
+  },
+  {
+    "createdAt": "2025-08-27T19:20:19Z",
+    "stars": 92,
+    "name": "arc53/pastevault",
+    "url": "https://github.com/arc53/pastevault",
     "lang": "TypeScript",
-    "desc": "Install AI tools and UI components for the AI SDK via the shadcn registry"
+    "desc": "Modern secure pastebin with a VS Code-like editor. Share code, text, and markdown securely with automatic expiry and burn-after-read options."
   }
 ]
