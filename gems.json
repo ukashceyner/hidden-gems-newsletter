@@ -1,63 +1,47 @@
 [
   {
-    "createdAt": "2025-08-27T22:09:28Z",
-    "stars": 1952,
-    "name": "pewdiepie-archdaemon/dionysus",
-    "url": "https://github.com/pewdiepie-archdaemon/dionysus",
-    "lang": "Shell",
-    "desc": "laptop "
-  },
-  {
     "createdAt": "2025-09-02T03:28:30Z",
-    "stars": 1160,
+    "stars": 1282,
     "name": "the-litte-book-of/linear-algebra",
     "url": "https://github.com/the-litte-book-of/linear-algebra",
     "lang": "TeX",
     "desc": "There is hardly any theory which is more elementary than linear algebra, in spite of the fact that generations of professors and textbook writers have obscured its simplicity by preposterous calculations with matrices. —Jean Dieudonne"
   },
   {
-    "createdAt": "2025-08-27T14:53:51Z",
-    "stars": 1158,
-    "name": "renzorlive/vimmaster",
-    "url": "https://github.com/renzorlive/vimmaster",
-    "lang": "JavaScript",
-    "desc": "VIM Master: in-browser game that teaches core Vim motions and editing commands through short, focused levels. "
+    "createdAt": "2025-08-28T17:03:09Z",
+    "stars": 1141,
+    "name": "PicoTrex/Awesome-Nano-Banana-images",
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+    "lang": "",
+    "desc": ""
   },
   {
     "createdAt": "2025-08-30T16:00:04Z",
-    "stars": 851,
+    "stars": 895,
     "name": "meituan-longcat/LongCat-Flash-Chat",
     "url": "https://github.com/meituan-longcat/LongCat-Flash-Chat",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-27T09:34:10Z",
-    "stars": 690,
-    "name": "Tencent-Hunyuan/HunyuanWorld-Voyager",
-    "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
-    "lang": "Python",
-    "desc": "Voyager is an interactive RGBD video generation model conditioned on camera trajectory, and supports real-time 3D reconstruction."
-  },
-  {
-    "createdAt": "2025-08-27T06:04:23Z",
-    "stars": 595,
-    "name": "katelya77/KatelyaTV",
-    "url": "https://github.com/katelya77/KatelyaTV",
-    "lang": "TypeScript",
-    "desc": "一个基于MoonTV(LunaTV)二次开发的项目。【2025.9.3 通知：休息一段时间，近几天就不更新了，现在项目基本都没有什么大bug了，都能正常使用，更新的都是小问题和部分建议，感谢大家的支持！】"
-  },
-  {
     "createdAt": "2025-08-30T19:23:45Z",
-    "stars": 590,
+    "stars": 717,
     "name": "Danau5tin/multi-agent-coding-system",
     "url": "https://github.com/Danau5tin/multi-agent-coding-system",
     "lang": "Python",
-    "desc": "Now #12 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents working together with intelligent context sharing."
+    "desc": "Reached #13 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents working together with intelligent context sharing."
+  },
+  {
+    "createdAt": "2025-08-28T13:09:00Z",
+    "stars": 636,
+    "name": "ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
+    "url": "https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
+    "lang": "",
+    "desc": "我的 nano-banana 创意玩法大合集！  持续更新中！"
   },
   {
     "createdAt": "2025-08-28T08:25:34Z",
-    "stars": 495,
+    "stars": 553,
     "name": "0x23/MicroManipulatorStepper",
     "url": "https://github.com/0x23/MicroManipulatorStepper",
     "lang": "C++",
@@ -65,39 +49,15 @@
   },
   {
     "createdAt": "2025-08-29T00:37:49Z",
-    "stars": 452,
+    "stars": 469,
     "name": "google-deepmind/limit",
     "url": "https://github.com/google-deepmind/limit",
     "lang": "Jupyter Notebook",
     "desc": "On the Theoretical Limitations of Embedding-Based Retrieval"
   },
   {
-    "createdAt": "2025-08-28T17:03:09Z",
-    "stars": 421,
-    "name": "PicoTrex/Awesome-Nano-Banana-images",
-    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-28T13:09:00Z",
-    "stars": 349,
-    "name": "ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
-    "url": "https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation",
-    "lang": "",
-    "desc": "我的 nano-banana 创意玩法大合集！  持续更新中！"
-  },
-  {
-    "createdAt": "2025-08-27T17:45:23Z",
-    "stars": 322,
-    "name": "Enemyx-net/VibeVoice-ComfyUI",
-    "url": "https://github.com/Enemyx-net/VibeVoice-ComfyUI",
-    "lang": "Python",
-    "desc": "A comprehensive ComfyUI integration for Microsoft's VibeVoice text-to-speech model, enabling high-quality single and multi-speaker voice synthesis directly within your ComfyUI workflows."
-  },
-  {
     "createdAt": "2025-08-28T09:54:40Z",
-    "stars": 320,
+    "stars": 361,
     "name": "Tencent-Hunyuan/Hunyuan-MT",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan-MT",
     "lang": "Python",
@@ -105,15 +65,31 @@
   },
   {
     "createdAt": "2025-08-28T15:54:12Z",
-    "stars": 303,
+    "stars": 310,
     "name": "ethz-vlg/mvtracker",
     "url": "https://github.com/ethz-vlg/mvtracker",
     "lang": "Python",
     "desc": "[ICCV 2025 Oral] MVTracker: Multi-view 3D Point Tracking"
   },
   {
+    "createdAt": "2025-09-01T12:14:45Z",
+    "stars": 307,
+    "name": "docker/cagent",
+    "url": "https://github.com/docker/cagent",
+    "lang": "Go",
+    "desc": "Agent Builder and Runtime by Docker Engineering"
+  },
+  {
+    "createdAt": "2025-09-01T10:40:56Z",
+    "stars": 272,
+    "name": "mystorm16/FastVGGT",
+    "url": "https://github.com/mystorm16/FastVGGT",
+    "lang": "Python",
+    "desc": "Code for FastVGGT: Training-Free Acceleration of Visual Geometry Transformer"
+  },
+  {
     "createdAt": "2025-08-30T13:18:31Z",
-    "stars": 249,
+    "stars": 263,
     "name": "tahayvr/omarchist",
     "url": "https://github.com/tahayvr/omarchist",
     "lang": "Rust",
@@ -121,63 +97,55 @@
   },
   {
     "createdAt": "2025-08-28T03:20:40Z",
-    "stars": 233,
+    "stars": 236,
     "name": "evalops/cognitive-dissonance-dspy",
     "url": "https://github.com/evalops/cognitive-dissonance-dspy",
     "lang": "Python",
     "desc": "A multi-agent LLM system for detecting and resolving cognitive dissonance."
   },
   {
-    "createdAt": "2025-08-27T07:00:10Z",
-    "stars": 229,
-    "name": "Accenture/mcp-bench",
-    "url": "https://github.com/Accenture/mcp-bench",
-    "lang": "Python",
-    "desc": "MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers"
-  },
-  {
-    "createdAt": "2025-08-27T06:35:14Z",
-    "stars": 226,
-    "name": "polaroi8d/cactoide",
-    "url": "https://github.com/polaroi8d/cactoide",
-    "lang": "Svelte",
-    "desc": "🌵 Mobile first open-source RSVP platform. Alternative for meetup.com & eventbrite and partiful for small companies and groups."
-  },
-  {
-    "createdAt": "2025-08-27T14:11:27Z",
-    "stars": 225,
-    "name": "Xuanwo/acp-claude-code",
-    "url": "https://github.com/Xuanwo/acp-claude-code",
-    "lang": "TypeScript",
-    "desc": "The ACP implementation for Claude Code"
-  },
-  {
-    "createdAt": "2025-08-27T11:42:07Z",
-    "stars": 209,
-    "name": "wildminder/ComfyUI-VibeVoice",
-    "url": "https://github.com/wildminder/ComfyUI-VibeVoice",
-    "lang": "Python",
-    "desc": "ComfyUI custom node for the VibeVoice TTS. Expressive, long-form, multi-speaker conversational audio"
-  },
-  {
-    "createdAt": "2025-08-29T17:13:10Z",
-    "stars": 188,
-    "name": "mursor1985/LIVE",
-    "url": "https://github.com/mursor1985/LIVE",
-    "lang": "",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-30T12:33:32Z",
-    "stars": 187,
+    "stars": 230,
     "name": "enetx/surf",
     "url": "https://github.com/enetx/surf",
     "lang": "Go",
     "desc": "SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping."
   },
   {
+    "createdAt": "2025-09-02T14:44:03Z",
+    "stars": 213,
+    "name": "callstack/liquid-glass",
+    "url": "https://github.com/callstack/liquid-glass",
+    "lang": "TypeScript",
+    "desc": "Liquid Glass in React Native"
+  },
+  {
+    "createdAt": "2025-08-29T17:13:10Z",
+    "stars": 211,
+    "name": "mursor1985/LIVE",
+    "url": "https://github.com/mursor1985/LIVE",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-08-31T15:26:56Z",
+    "stars": 209,
+    "name": "jwangkun/Prompt-Tools",
+    "url": "https://github.com/jwangkun/Prompt-Tools",
+    "lang": "JavaScript",
+    "desc": "一款强大的桌面应用，旨在简化您的 Prompt 管理工作流程。"
+  },
+  {
+    "createdAt": "2025-09-01T12:51:01Z",
+    "stars": 204,
+    "name": "leochlon/hallbayes",
+    "url": "https://github.com/leochlon/hallbayes",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-08-28T20:38:14Z",
-    "stars": 187,
+    "stars": 190,
     "name": "rafaelSwi/MenuBarUSB",
     "url": "https://github.com/rafaelSwi/MenuBarUSB",
     "lang": "Swift",
@@ -185,91 +153,59 @@
   },
   {
     "createdAt": "2025-08-28T22:39:16Z",
-    "stars": 182,
+    "stars": 187,
     "name": "EO-Robotics/EO-1",
     "url": "https://github.com/EO-Robotics/EO-1",
     "lang": "",
     "desc": "EO: Open-source Unified Embodied Foundation Model Series"
   },
   {
-    "createdAt": "2025-08-27T04:10:59Z",
-    "stars": 181,
-    "name": "aigem/aice_ps",
-    "url": "https://github.com/aigem/aice_ps",
-    "lang": "TypeScript",
-    "desc": "Nano Banana editor(webui) for aistudio or gemini api key.  最强Ai修图APP，方便实用！如登录了google aistudio，可直接在DEMO APP中使用。支持静态部署，兼容Gemini API"
-  },
-  {
-    "createdAt": "2025-08-27T08:22:19Z",
-    "stars": 173,
-    "name": "polamoros/home-assistant-cards",
-    "url": "https://github.com/polamoros/home-assistant-cards",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-01T12:51:01Z",
-    "stars": 161,
-    "name": "leochlon/hallbayes",
-    "url": "https://github.com/leochlon/hallbayes",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-02T14:44:03Z",
-    "stars": 153,
-    "name": "callstack/liquid-glass",
-    "url": "https://github.com/callstack/liquid-glass",
-    "lang": "TypeScript",
-    "desc": "Liquid Glass in React Native"
-  },
-  {
-    "createdAt": "2025-09-01T07:37:08Z",
-    "stars": 151,
-    "name": "Spu7Nix/obamify",
-    "url": "https://github.com/Spu7Nix/obamify",
-    "lang": "Rust",
-    "desc": "revolutionary new technology that turns any image into obama"
-  },
-  {
     "createdAt": "2025-09-02T04:44:12Z",
-    "stars": 150,
+    "stars": 181,
     "name": "mandatoryprogrammer/thermoptic",
     "url": "https://github.com/mandatoryprogrammer/thermoptic",
     "lang": "JavaScript",
     "desc": "A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across all layers of the stack."
   },
   {
+    "createdAt": "2025-09-01T07:37:08Z",
+    "stars": 160,
+    "name": "Spu7Nix/obamify",
+    "url": "https://github.com/Spu7Nix/obamify",
+    "lang": "Rust",
+    "desc": "revolutionary new technology that turns any image into obama"
+  },
+  {
+    "createdAt": "2025-08-29T14:49:46Z",
+    "stars": 159,
+    "name": "xhyumiracle/Awesome-AgenticLLM-RL-Papers",
+    "url": "https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers",
+    "lang": "",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-09-01T04:58:29Z",
-    "stars": 142,
+    "stars": 152,
     "name": "kbykb/OpenAI-Compatible-API-Proxy-for-Z",
     "url": "https://github.com/kbykb/OpenAI-Compatible-API-Proxy-for-Z",
     "lang": "Go",
     "desc": "这是一个为 Zai 提供 OpenAI API 兼容接口的代理服务，允许开发者通过标准的 OpenAI API 格式访问 Zai 的 GLM-4.5 模型。"
   },
   {
+    "createdAt": "2025-09-03T08:56:46Z",
+    "stars": 151,
+    "name": "reylinux/Material-Design-3-Dynamic-Dashboard",
+    "url": "https://github.com/reylinux/Material-Design-3-Dynamic-Dashboard",
+    "lang": "",
+    "desc": "Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic"
+  },
+  {
     "createdAt": "2025-08-28T12:30:48Z",
-    "stars": 139,
+    "stars": 150,
     "name": "Hugo-Dz/exe",
     "url": "https://github.com/Hugo-Dz/exe",
     "lang": "TypeScript",
     "desc": "Pack your web app as a single executable binary with zero runtime dependencies"
-  },
-  {
-    "createdAt": "2025-09-01T10:40:56Z",
-    "stars": 136,
-    "name": "mystorm16/FastVGGT",
-    "url": "https://github.com/mystorm16/FastVGGT",
-    "lang": "Python",
-    "desc": "Code for FastVGGT: Training-Free Acceleration of Visual Geometry Transformer"
-  },
-  {
-    "createdAt": "2025-08-27T01:02:13Z",
-    "stars": 136,
-    "name": "Nelipot-Lee/VoxHammer",
-    "url": "https://github.com/Nelipot-Lee/VoxHammer",
-    "lang": "Jupyter Notebook",
-    "desc": "VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space"
   },
   {
     "createdAt": "2025-09-01T23:41:12Z",
@@ -281,122 +217,186 @@
   },
   {
     "createdAt": "2025-08-28T14:51:56Z",
-    "stars": 127,
+    "stars": 134,
     "name": "CodeGoat24/Pref-GRPO",
     "url": "https://github.com/CodeGoat24/Pref-GRPO",
     "lang": "Python",
     "desc": "Official implementation of Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning"
   },
   {
-    "createdAt": "2025-08-27T07:15:45Z",
-    "stars": 126,
-    "name": "limix-ldm/LimiX",
-    "url": "https://github.com/limix-ldm/LimiX",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-08-31T16:16:39Z",
-    "stars": 116,
-    "name": "xn1cklas/ai-tools-registry",
-    "url": "https://github.com/xn1cklas/ai-tools-registry",
-    "lang": "TypeScript",
-    "desc": "Install AI tools and UI components for the AI SDK via the shadcn registry"
-  },
-  {
-    "createdAt": "2025-08-27T23:53:58Z",
-    "stars": 115,
-    "name": "Nonanti/DataFlow",
-    "url": "https://github.com/Nonanti/DataFlow",
-    "lang": "C#",
-    "desc": "High-performance ETL pipeline library for .NET. Process CSV, JSON, Excel, and SQL data with minimal memory usage through streaming operations."
-  },
-  {
     "createdAt": "2025-08-31T14:04:58Z",
-    "stars": 114,
+    "stars": 122,
     "name": "ishtms/nodebook",
     "url": "https://github.com/ishtms/nodebook",
     "lang": "JavaScript",
     "desc": "Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments."
   },
   {
-    "createdAt": "2025-08-31T15:26:56Z",
-    "stars": 113,
-    "name": "jwangkun/Prompt-Tools",
-    "url": "https://github.com/jwangkun/Prompt-Tools",
-    "lang": "JavaScript",
-    "desc": "一款强大的桌面应用，旨在简化您的 Prompt 管理工作流程。"
+    "createdAt": "2025-08-31T16:16:39Z",
+    "stars": 121,
+    "name": "xn1cklas/ai-tools-registry",
+    "url": "https://github.com/xn1cklas/ai-tools-registry",
+    "lang": "TypeScript",
+    "desc": "Install AI tools and UI components for the AI SDK via the shadcn registry"
   },
   {
-    "createdAt": "2025-08-27T10:04:01Z",
-    "stars": 111,
-    "name": "evilmartians/callback_hell",
-    "url": "https://github.com/evilmartians/callback_hell",
-    "lang": "Ruby",
-    "desc": "Callback Hell is a Ruby gem that analyzes your Ruby on Rails application models and provides actionable insights on callbacks and validations. Use it to identify models that might benefit from refactoring, spot callback pollution from gems and associations, and keep your models clean and maintainable."
+    "createdAt": "2025-09-01T09:01:59Z",
+    "stars": 120,
+    "name": "xiguapiwork/nanobanana",
+    "url": "https://github.com/xiguapiwork/nanobanana",
+    "lang": "TypeScript",
+    "desc": ""
   },
   {
-    "createdAt": "2025-08-30T09:02:27Z",
-    "stars": 110,
-    "name": "cod-warzone-aimbots/cod-warzone-cheat",
-    "url": "https://github.com/cod-warzone-aimbots/cod-warzone-cheat",
-    "lang": "",
-    "desc": "Warzone Cheat with Aimbot, ESP, Wallhack, Unlock All, and Radar. Improve aim, awareness, and strategy in every Warzone match."
+    "createdAt": "2025-09-01T20:38:03Z",
+    "stars": 116,
+    "name": "Siddhesh2377/structured-prompt-builder",
+    "url": "https://github.com/Siddhesh2377/structured-prompt-builder",
+    "lang": "HTML",
+    "desc": "A lightweight, browser‑first tool for designing well‑structured AI prompts with a clean UI, live previews, a local Prompt Library, and optional Gemini‑powered prompt optimization."
   },
   {
     "createdAt": "2025-09-01T08:28:49Z",
-    "stars": 107,
+    "stars": 112,
     "name": "joeseesun/img-cool",
     "url": "https://github.com/joeseesun/img-cool",
     "lang": "TypeScript",
     "desc": ""
   },
   {
+    "createdAt": "2025-09-02T18:22:12Z",
+    "stars": 109,
+    "name": "ashutoshgautams/Portfolio-Website",
+    "url": "https://github.com/ashutoshgautams/Portfolio-Website",
+    "lang": "CSS",
+    "desc": "Create a fork and clone and customise to create your own portfolio website."
+  },
+  {
+    "createdAt": "2025-08-30T09:02:27Z",
+    "stars": 109,
+    "name": "cod-warzone-aimbots/cod-warzone-cheat",
+    "url": "https://github.com/cod-warzone-aimbots/cod-warzone-cheat",
+    "lang": "",
+    "desc": "Warzone Cheat with Aimbot, ESP, Wallhack, Unlock All, and Radar. Improve aim, awareness, and strategy in every Warzone match."
+  },
+  {
     "createdAt": "2025-08-31T13:35:25Z",
-    "stars": 106,
-    "name": "CherryHQ/AI_Hanlin",
-    "url": "https://github.com/CherryHQ/AI_Hanlin",
+    "stars": 107,
+    "name": "CherryHQ/hanlin-ai",
+    "url": "https://github.com/CherryHQ/hanlin-ai",
     "lang": "Swift",
     "desc": "A SwiftUI-based Chat App for LLMs on iOS"
   },
   {
-    "createdAt": "2025-09-01T12:14:45Z",
-    "stars": 100,
-    "name": "docker/cagent",
-    "url": "https://github.com/docker/cagent",
-    "lang": "Go",
-    "desc": "Agent Builder and Runtime by Docker Engineering"
+    "createdAt": "2025-08-29T15:44:08Z",
+    "stars": 107,
+    "name": "rsc/gophershirt",
+    "url": "https://github.com/rsc/gophershirt",
+    "lang": "",
+    "desc": "Gopher Hawaiian Shirts"
   },
   {
-    "createdAt": "2025-08-27T18:57:40Z",
+    "createdAt": "2025-08-29T08:57:55Z",
+    "stars": 101,
+    "name": "Chevey339/kelivo",
+    "url": "https://github.com/Chevey339/kelivo",
+    "lang": "Dart",
+    "desc": "A Flutter LLM Chat Client. Support Android & iOS"
+  },
+  {
+    "createdAt": "2025-08-30T16:11:09Z",
     "stars": 98,
-    "name": "pwnfuzz/diffrays",
-    "url": "https://github.com/pwnfuzz/diffrays",
+    "name": "xaitax/NTSleuth",
+    "url": "https://github.com/xaitax/NTSleuth",
+    "lang": "C++",
+    "desc": "Comprehensive Windows Syscall Extraction & Analysis Framework"
+  },
+  {
+    "createdAt": "2025-08-29T19:19:04Z",
+    "stars": 96,
+    "name": "GAP-LAB-CUHK-SZ/ReconViaGen",
+    "url": "https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen",
+    "lang": "",
+    "desc": "ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation"
+  },
+  {
+    "createdAt": "2025-08-31T19:55:16Z",
+    "stars": 96,
+    "name": "disler/agentic-drop-zones",
+    "url": "https://github.com/disler/agentic-drop-zones",
     "lang": "Python",
-    "desc": "DiffRays is a research-oriented tool for binary patch diffing, designed to aid in vulnerability research, exploit development, and reverse engineering."
+    "desc": ""
   },
   {
-    "createdAt": "2025-09-03T13:56:20Z",
-    "stars": 95,
-    "name": "KnightSans/TG-Scrap-Add-FREE",
-    "url": "https://github.com/KnightSans/TG-Scrap-Add-FREE",
-    "lang": "",
-    "desc": "Tool for Telegram to invite users automatically from any target to your destination of choice."
+    "createdAt": "2025-09-02T14:15:42Z",
+    "stars": 94,
+    "name": "blueshift-gg/doppler",
+    "url": "https://github.com/blueshift-gg/doppler",
+    "lang": "Rust",
+    "desc": "The fastest oracle on Solana"
   },
   {
-    "createdAt": "2025-09-03T08:56:46Z",
-    "stars": 95,
-    "name": "reylinux/Material-Design-3-Dynamic-Dashboard",
-    "url": "https://github.com/reylinux/Material-Design-3-Dynamic-Dashboard",
-    "lang": "",
-    "desc": "Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic"
-  },
-  {
-    "createdAt": "2025-08-27T19:20:19Z",
-    "stars": 92,
-    "name": "arc53/pastevault",
-    "url": "https://github.com/arc53/pastevault",
+    "createdAt": "2025-08-29T09:37:02Z",
+    "stars": 91,
+    "name": "catnose99/use-chat-submit",
+    "url": "https://github.com/catnose99/use-chat-submit",
     "lang": "TypeScript",
-    "desc": "Modern secure pastebin with a VS Code-like editor. Share code, text, and markdown securely with automatic expiry and burn-after-read options."
+    "desc": "React hook to handle chat textarea submit behaviors (Enter vs Mod+Enter) with IME-safe handling."
+  },
+  {
+    "createdAt": "2025-09-03T17:52:46Z",
+    "stars": 91,
+    "name": "qnguyen3/docpixie",
+    "url": "https://github.com/qnguyen3/docpixie",
+    "lang": "Python",
+    "desc": "Lightweight Vision native Multimodal Document Agent"
+  },
+  {
+    "createdAt": "2025-09-02T13:22:16Z",
+    "stars": 90,
+    "name": "cinkhangin/composable",
+    "url": "https://github.com/cinkhangin/composable",
+    "lang": "Kotlin",
+    "desc": "An open-source Android app showcasing Jetpack Compose UI components and interactions for learning and inspiration."
+  },
+  {
+    "createdAt": "2025-08-29T20:53:03Z",
+    "stars": 88,
+    "name": "0xalberto/jupiter-arbitrage-bot",
+    "url": "https://github.com/0xalberto/jupiter-arbitrage-bot",
+    "lang": "TypeScript",
+    "desc": "jupiter arbitrage bot : A high-performance, fully automated arbitrage bot built on Solana, leveraging the power of Jupiter Aggregator v6 for real-time profitable trading between decentralized exchanges. solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot"
+  },
+  {
+    "createdAt": "2025-08-30T19:08:52Z",
+    "stars": 87,
+    "name": "cwkiller/ClassLinefix",
+    "url": "https://github.com/cwkiller/ClassLinefix",
+    "lang": "Java",
+    "desc": "Java bytecode line number restoration tool"
+  },
+  {
+    "createdAt": "2025-08-31T20:56:25Z",
+    "stars": 87,
+    "name": "Gu1llaum-3/sshm",
+    "url": "https://github.com/Gu1llaum-3/sshm",
+    "lang": "Go",
+    "desc": "SSHM is a beautiful command-line tool that transforms how you manage and connect to your SSH hosts. Built with Go and featuring an intuitive TUI interface, it makes SSH connection management effortless and enjoyable."
+  },
+  {
+    "createdAt": "2025-09-01T10:09:50Z",
+    "stars": 86,
+    "name": "0xalberto/solana-raydium-pumpfun-sniper-Rust",
+    "url": "https://github.com/0xalberto/solana-raydium-pumpfun-sniper-Rust",
+    "lang": "Rust",
+    "desc": "solana raydium sniper/pumpfun sniper: this solana raydium sniper/pumpfun sniper is written in Rust⚡. In addtion to these solana raydium snipe bot(raydium sniping bot) and pumpfun snipe bot(pumpfun sniping bot), it has raydium bundler, pumpfun bundler, copy trading bot, raydium/pumpfun volume bot more."
+  },
+  {
+    "createdAt": "2025-08-31T08:24:34Z",
+    "stars": 84,
+    "name": "KRSHH/Sonosano",
+    "url": "https://github.com/KRSHH/Sonosano",
+    "lang": "",
+    "desc": "A gui for P2P networks"
   }
 ]
