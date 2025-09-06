@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-09-02T03:28:30Z",
-    "stars": 1359,
+    "stars": 1442,
     "name": "the-litte-book-of/linear-algebra",
     "url": "https://github.com/the-litte-book-of/linear-algebra",
     "lang": "TeX",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-08-30T16:00:04Z",
-    "stars": 936,
+    "stars": 942,
     "name": "meituan-longcat/LongCat-Flash-Chat",
     "url": "https://github.com/meituan-longcat/LongCat-Flash-Chat",
     "lang": "",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-08-30T19:23:45Z",
-    "stars": 746,
+    "stars": 872,
     "name": "Danau5tin/multi-agent-coding-system",
     "url": "https://github.com/Danau5tin/multi-agent-coding-system",
     "lang": "Python",
@@ -25,91 +25,99 @@
   },
   {
     "createdAt": "2025-09-01T12:14:45Z",
-    "stars": 557,
+    "stars": 655,
     "name": "docker/cagent",
     "url": "https://github.com/docker/cagent",
     "lang": "Go",
     "desc": "Agent Builder and Runtime by Docker Engineering"
   },
   {
-    "createdAt": "2025-08-29T00:37:49Z",
-    "stars": 486,
-    "name": "google-deepmind/limit",
-    "url": "https://github.com/google-deepmind/limit",
-    "lang": "Jupyter Notebook",
-    "desc": "On the Theoretical Limitations of Embedding-Based Retrieval"
-  },
-  {
     "createdAt": "2025-09-01T10:40:56Z",
-    "stars": 348,
+    "stars": 367,
     "name": "mystorm16/FastVGGT",
     "url": "https://github.com/mystorm16/FastVGGT",
     "lang": "Python",
     "desc": "Code for FastVGGT: Training-Free Acceleration of Visual Geometry Transformer"
   },
   {
-    "createdAt": "2025-08-31T15:26:56Z",
-    "stars": 286,
-    "name": "jwangkun/Prompt-Tools",
-    "url": "https://github.com/jwangkun/Prompt-Tools",
-    "lang": "JavaScript",
-    "desc": "一款强大的桌面应用，旨在简化您的 Prompt 管理工作流程。"
-  },
-  {
     "createdAt": "2025-09-01T12:51:01Z",
-    "stars": 286,
+    "stars": 344,
     "name": "leochlon/hallbayes",
     "url": "https://github.com/leochlon/hallbayes",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-08-31T15:26:56Z",
+    "stars": 332,
+    "name": "jwangkun/Prompt-Tools",
+    "url": "https://github.com/jwangkun/Prompt-Tools",
+    "lang": "JavaScript",
+    "desc": "一款强大的桌面应用，旨在简化您的 Prompt 管理工作流程。"
+  },
+  {
     "createdAt": "2025-08-30T12:33:32Z",
-    "stars": 276,
+    "stars": 290,
     "name": "enetx/surf",
     "url": "https://github.com/enetx/surf",
     "lang": "Go",
     "desc": "SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping."
   },
   {
+    "createdAt": "2025-09-01T17:53:58Z",
+    "stars": 276,
+    "name": "Adam-CAD/CADAM",
+    "url": "https://github.com/Adam-CAD/CADAM",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-08-30T13:18:31Z",
-    "stars": 267,
+    "stars": 271,
     "name": "tahayvr/omarchist",
     "url": "https://github.com/tahayvr/omarchist",
     "lang": "Rust",
     "desc": "A GUI app for Omarchy. "
   },
   {
-    "createdAt": "2025-08-29T14:49:46Z",
-    "stars": 250,
-    "name": "xhyumiracle/Awesome-AgenticLLM-RL-Papers",
-    "url": "https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers",
-    "lang": "",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-09-02T14:44:03Z",
-    "stars": 235,
+    "stars": 257,
     "name": "callstack/liquid-glass",
     "url": "https://github.com/callstack/liquid-glass",
     "lang": "TypeScript",
     "desc": "Liquid Glass in React Native"
   },
   {
-    "createdAt": "2025-08-29T17:13:10Z",
-    "stars": 227,
-    "name": "mursor1985/LIVE",
-    "url": "https://github.com/mursor1985/LIVE",
+    "createdAt": "2025-09-06T07:32:03Z",
+    "stars": 216,
+    "name": "Bump82bsNAp223prime/MEV-BOT-POOL",
+    "url": "https://github.com/Bump82bsNAp223prime/MEV-BOT-POOL",
     "lang": "",
-    "desc": ""
+    "desc": "Arbitrage Pool Platform for Passive Income with MEV. Bots"
   },
   {
     "createdAt": "2025-09-02T04:44:12Z",
-    "stars": 202,
+    "stars": 209,
     "name": "mandatoryprogrammer/thermoptic",
     "url": "https://github.com/mandatoryprogrammer/thermoptic",
     "lang": "JavaScript",
     "desc": "A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across all layers of the stack."
+  },
+  {
+    "createdAt": "2025-09-01T20:38:03Z",
+    "stars": 177,
+    "name": "Siddhesh2377/structured-prompt-builder",
+    "url": "https://github.com/Siddhesh2377/structured-prompt-builder",
+    "lang": "HTML",
+    "desc": "A lightweight, browser‑first tool for designing well‑structured AI prompts with a clean UI, live previews, a local Prompt Library, and optional Gemini‑powered prompt optimization."
+  },
+  {
+    "createdAt": "2025-09-03T08:56:46Z",
+    "stars": 174,
+    "name": "ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard",
+    "url": "https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard",
+    "lang": "",
+    "desc": "Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic"
   },
   {
     "createdAt": "2025-09-01T07:37:08Z",
@@ -120,24 +128,16 @@
     "desc": "revolutionary new technology that turns any image into obama"
   },
   {
-    "createdAt": "2025-09-03T08:56:46Z",
-    "stars": 165,
-    "name": "ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard",
-    "url": "https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard",
-    "lang": "",
-    "desc": "Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic"
-  },
-  {
-    "createdAt": "2025-09-01T20:38:03Z",
-    "stars": 159,
-    "name": "Siddhesh2377/structured-prompt-builder",
-    "url": "https://github.com/Siddhesh2377/structured-prompt-builder",
-    "lang": "HTML",
-    "desc": "A lightweight, browser‑first tool for designing well‑structured AI prompts with a clean UI, live previews, a local Prompt Library, and optional Gemini‑powered prompt optimization."
+    "createdAt": "2025-09-04T13:53:02Z",
+    "stars": 163,
+    "name": "Varietyz/Disciplined-AI-Software-Development",
+    "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
+    "lang": "Python",
+    "desc": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints."
   },
   {
     "createdAt": "2025-09-01T04:58:29Z",
-    "stars": 152,
+    "stars": 161,
     "name": "kbykb/OpenAI-Compatible-API-Proxy-for-Z",
     "url": "https://github.com/kbykb/OpenAI-Compatible-API-Proxy-for-Z",
     "lang": "Go",
@@ -145,11 +145,35 @@
   },
   {
     "createdAt": "2025-09-01T09:01:59Z",
-    "stars": 144,
+    "stars": 154,
     "name": "xiguapiwork/nanobanana",
     "url": "https://github.com/xiguapiwork/nanobanana",
     "lang": "TypeScript",
     "desc": ""
+  },
+  {
+    "createdAt": "2025-09-04T20:37:41Z",
+    "stars": 152,
+    "name": "yoavf/absolutelyright",
+    "url": "https://github.com/yoavf/absolutelyright",
+    "lang": "Python",
+    "desc": "Claude said I'm absolutely right!"
+  },
+  {
+    "createdAt": "2025-08-31T20:56:25Z",
+    "stars": 147,
+    "name": "Gu1llaum-3/sshm",
+    "url": "https://github.com/Gu1llaum-3/sshm",
+    "lang": "Go",
+    "desc": "SSHM is a beautiful command-line tool that transforms how you manage and connect to your SSH hosts. Built with Go and featuring an intuitive TUI interface, it makes SSH connection management effortless and enjoyable."
+  },
+  {
+    "createdAt": "2025-09-05T10:18:39Z",
+    "stars": 140,
+    "name": "ZHO-ZHO-ZHO/Nano-Bananary",
+    "url": "https://github.com/ZHO-ZHO-ZHO/Nano-Bananary",
+    "lang": "TypeScript",
+    "desc": "香蕉超市｜各种玩法一键生成，无需提示词，支持局部涂选、连续编辑"
   },
   {
     "createdAt": "2025-09-01T23:41:12Z",
@@ -160,52 +184,108 @@
     "desc": "更新的都是高质量高速度的VPN，通常用IDM等等下载工具下载huggingface的大模型速度都能跑到100MB+，但是可能仅限于下载。对于访问google相关服务不太理想"
   },
   {
+    "createdAt": "2025-09-04T11:21:56Z",
+    "stars": 134,
+    "name": "google-gemini/nano-banana-hackathon-kit",
+    "url": "https://github.com/google-gemini/nano-banana-hackathon-kit",
+    "lang": "Jupyter Notebook",
+    "desc": "🍌 The official starter kit for the Nano Banana Hackathon. Clone this repo to get building fast!"
+  },
+  {
     "createdAt": "2025-08-31T14:04:58Z",
-    "stars": 127,
+    "stars": 133,
     "name": "ishtms/nodebook",
     "url": "https://github.com/ishtms/nodebook",
     "lang": "JavaScript",
     "desc": "Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments."
   },
   {
+    "createdAt": "2025-09-05T21:39:38Z",
+    "stars": 130,
+    "name": "iotbackdoor/zai-python-sdk",
+    "url": "https://github.com/iotbackdoor/zai-python-sdk",
+    "lang": "Python",
+    "desc": "Unofficial Python SDK for Z.AI API. Free, open-source client library for accessing advanced language   models including GLM-4.5V and 360B models. Features automatic authentication, streaming responses,   customizable parameters, and modular architecture. No API key required."
+  },
+  {
+    "createdAt": "2025-08-31T08:04:53Z",
+    "stars": 128,
+    "name": "markfulton/NanoBananaEditor",
+    "url": "https://github.com/markfulton/NanoBananaEditor",
+    "lang": "TypeScript",
+    "desc": "The most advanced Nano Banana image generator and editor application. Your central hub for AI image generation and revisions. Intuitive UI features reference images, editing with image masks, version history, and more. Powered by Gemini 2.5 Flash images API."
+  },
+  {
     "createdAt": "2025-08-31T16:16:39Z",
-    "stars": 122,
+    "stars": 124,
     "name": "xn1cklas/ai-tools-registry",
     "url": "https://github.com/xn1cklas/ai-tools-registry",
     "lang": "TypeScript",
     "desc": "Install AI tools and UI components for the AI SDK via the shadcn registry"
   },
   {
-    "createdAt": "2025-08-29T19:19:04Z",
-    "stars": 118,
-    "name": "GAP-LAB-CUHK-SZ/ReconViaGen",
-    "url": "https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen",
+    "createdAt": "2025-09-04T13:12:00Z",
+    "stars": 120,
+    "name": "AIworldnews/ai-remove-app",
+    "url": "https://github.com/AIworldnews/ai-remove-app",
     "lang": "",
-    "desc": "ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation"
+    "desc": "Switch outfits and edit pics instantly. 🌟 Start free → https://tinyurl.com/clotheschange 🚀 HD quality. Easy. Private."
   },
   {
-    "createdAt": "2025-08-29T08:57:55Z",
-    "stars": 116,
-    "name": "Chevey339/kelivo",
-    "url": "https://github.com/Chevey339/kelivo",
-    "lang": "Dart",
-    "desc": "A Flutter LLM Chat Client. Support Android & iOS"
+    "createdAt": "2025-09-02T15:52:35Z",
+    "stars": 119,
+    "name": "pengzhangzhi/Open-dLLM",
+    "url": "https://github.com/pengzhangzhi/Open-dLLM",
+    "lang": "Python",
+    "desc": "The most open diffusion language model for code generation — releasing pretraining, evaluation, inference, and checkpoints."
+  },
+  {
+    "createdAt": "2025-09-02T03:06:30Z",
+    "stars": 117,
+    "name": "ZyphrZero/z.ai2api_python",
+    "url": "https://github.com/ZyphrZero/z.ai2api_python",
+    "lang": "Python",
+    "desc": "将Z.ai转换为OpenAI兼容格式的高性能代理，无缝接入 GLM-4.5 系列模型"
   },
   {
     "createdAt": "2025-09-01T08:28:49Z",
-    "stars": 115,
+    "stars": 116,
     "name": "joeseesun/img-cool",
     "url": "https://github.com/joeseesun/img-cool",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-29T15:44:08Z",
+    "createdAt": "2025-09-02T13:22:16Z",
+    "stars": 116,
+    "name": "cinkhangin/composable",
+    "url": "https://github.com/cinkhangin/composable",
+    "lang": "Kotlin",
+    "desc": "An open-source Android app showcasing Jetpack Compose UI components and interactions for learning and inspiration."
+  },
+  {
+    "createdAt": "2025-09-02T10:34:18Z",
+    "stars": 114,
+    "name": "bijomaru78/eccm",
+    "url": "https://github.com/bijomaru78/eccm",
+    "lang": "HTML",
+    "desc": "Ethernet Cable Connection Manager"
+  },
+  {
+    "createdAt": "2025-09-05T15:36:32Z",
+    "stars": 111,
+    "name": "costasalsa/NaorisProtocol-bot",
+    "url": "https://github.com/costasalsa/NaorisProtocol-bot",
+    "lang": "Python",
+    "desc": "Bot for Naoris Protocol"
+  },
+  {
+    "createdAt": "2025-08-31T13:35:25Z",
     "stars": 109,
-    "name": "rsc/gophershirt",
-    "url": "https://github.com/rsc/gophershirt",
-    "lang": "",
-    "desc": "Gopher Hawaiian Shirts"
+    "name": "CherryHQ/hanlin-ai",
+    "url": "https://github.com/CherryHQ/hanlin-ai",
+    "lang": "Swift",
+    "desc": "A SwiftUI-based Chat App for LLMs on iOS"
   },
   {
     "createdAt": "2025-09-02T18:22:12Z",
@@ -216,28 +296,12 @@
     "desc": "Create a fork and clone and customise to create your own portfolio website."
   },
   {
-    "createdAt": "2025-08-31T20:56:25Z",
+    "createdAt": "2025-09-04T03:13:36Z",
     "stars": 108,
-    "name": "Gu1llaum-3/sshm",
-    "url": "https://github.com/Gu1llaum-3/sshm",
-    "lang": "Go",
-    "desc": "SSHM is a beautiful command-line tool that transforms how you manage and connect to your SSH hosts. Built with Go and featuring an intuitive TUI interface, it makes SSH connection management effortless and enjoyable."
-  },
-  {
-    "createdAt": "2025-09-02T13:22:16Z",
-    "stars": 108,
-    "name": "cinkhangin/composable",
-    "url": "https://github.com/cinkhangin/composable",
-    "lang": "Kotlin",
-    "desc": "An open-source Android app showcasing Jetpack Compose UI components and interactions for learning and inspiration."
-  },
-  {
-    "createdAt": "2025-08-31T13:35:25Z",
-    "stars": 107,
-    "name": "CherryHQ/hanlin-ai",
-    "url": "https://github.com/CherryHQ/hanlin-ai",
-    "lang": "Swift",
-    "desc": "A SwiftUI-based Chat App for LLMs on iOS"
+    "name": "haasonsaas/dspy-0to1-guide",
+    "url": "https://github.com/haasonsaas/dspy-0to1-guide",
+    "lang": "Python",
+    "desc": "A comprehensive 0-to-1 guide for building self-improving LLM applications with DSPy framework"
   },
   {
     "createdAt": "2025-08-30T09:02:27Z",
@@ -249,43 +313,75 @@
   },
   {
     "createdAt": "2025-08-31T19:55:16Z",
-    "stars": 104,
+    "stars": 107,
     "name": "disler/agentic-drop-zones",
     "url": "https://github.com/disler/agentic-drop-zones",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-08-31T08:04:53Z",
-    "stars": 102,
-    "name": "markfulton/NanoBananaEditor",
-    "url": "https://github.com/markfulton/NanoBananaEditor",
-    "lang": "TypeScript",
-    "desc": "The most advanced Nano Banana image generator and editor application. Your central hub for AI image generation and revisions. Intuitive UI features reference images, editing with image masks, version history, and more. Powered by Gemini 2.5 Flash images API."
+    "createdAt": "2025-09-05T15:40:11Z",
+    "stars": 106,
+    "name": "basketballguy999/Quantum-Mechanics-Concise-Book",
+    "url": "https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book",
+    "lang": "",
+    "desc": "A concise text on quantum mechanics, intended for a general audience including CS, engineering, math, and physics undergrads, as well as anyone interested in a concise intro/overview of QM. Prerequisites: linear algebra, calculus, high school physics"
   },
   {
     "createdAt": "2025-08-30T16:11:09Z",
-    "stars": 101,
+    "stars": 104,
     "name": "xaitax/NTSleuth",
     "url": "https://github.com/xaitax/NTSleuth",
     "lang": "C++",
     "desc": "Comprehensive Windows Syscall Extraction & Analysis Framework"
   },
   {
+    "createdAt": "2025-09-02T10:56:12Z",
+    "stars": 104,
+    "name": "Jaammerr/GasZip_BNB_Sender",
+    "url": "https://github.com/Jaammerr/GasZip_BNB_Sender",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-03T17:52:46Z",
+    "stars": 104,
+    "name": "qnguyen3/docpixie",
+    "url": "https://github.com/qnguyen3/docpixie",
+    "lang": "Python",
+    "desc": "Lightweight Vision native Multimodal Document Agent"
+  },
+  {
     "createdAt": "2025-09-02T14:15:42Z",
-    "stars": 100,
+    "stars": 102,
     "name": "blueshift-gg/doppler",
     "url": "https://github.com/blueshift-gg/doppler",
     "lang": "Rust",
     "desc": "The fastest oracle on Solana"
   },
   {
-    "createdAt": "2025-09-03T17:52:46Z",
-    "stars": 98,
-    "name": "qnguyen3/docpixie",
-    "url": "https://github.com/qnguyen3/docpixie",
+    "createdAt": "2025-09-03T14:08:23Z",
+    "stars": 102,
+    "name": "githubssg/awesome-nano-banana-images",
+    "url": "https://github.com/githubssg/awesome-nano-banana-images",
+    "lang": "JavaScript",
+    "desc": "Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities."
+  },
+  {
+    "createdAt": "2025-09-01T06:25:49Z",
+    "stars": 101,
+    "name": "ASLP-lab/WenetSpeech-Yue",
+    "url": "https://github.com/ASLP-lab/WenetSpeech-Yue",
     "lang": "Python",
-    "desc": "Lightweight Vision native Multimodal Document Agent"
+    "desc": "A Large-scale Cantonese Speech Corpus with Multi-dimensional Annotation"
+  },
+  {
+    "createdAt": "2025-09-02T05:48:02Z",
+    "stars": 100,
+    "name": "libaxuan/ZtoApi",
+    "url": "https://github.com/libaxuan/ZtoApi",
+    "lang": "Go",
+    "desc": "佛法GLM-4.5 For Kilo CODE、Roo Code"
   },
   {
     "createdAt": "2025-08-31T14:22:00Z",
@@ -296,107 +392,11 @@
     "desc": "Vonssy Part 2?"
   },
   {
-    "createdAt": "2025-09-02T05:48:02Z",
-    "stars": 94,
-    "name": "libaxuan/ZtoApi",
-    "url": "https://github.com/libaxuan/ZtoApi",
-    "lang": "Go",
-    "desc": "佛法GLM-4.5 For Kilo CODE、Roo Code"
-  },
-  {
-    "createdAt": "2025-09-04T03:13:36Z",
-    "stars": 94,
-    "name": "haasonsaas/dspy-0to1-guide",
-    "url": "https://github.com/haasonsaas/dspy-0to1-guide",
-    "lang": "Python",
-    "desc": "A comprehensive 0-to-1 guide for building self-improving LLM applications with DSPy framework"
-  },
-  {
-    "createdAt": "2025-08-29T09:37:02Z",
-    "stars": 92,
-    "name": "catnose99/use-chat-submit",
-    "url": "https://github.com/catnose99/use-chat-submit",
-    "lang": "TypeScript",
-    "desc": "React hook to handle chat textarea submit behaviors (Enter vs Mod+Enter) with IME-safe handling."
-  },
-  {
-    "createdAt": "2025-09-01T06:25:49Z",
-    "stars": 90,
-    "name": "ASLP-lab/WenetSpeech-Yue",
-    "url": "https://github.com/ASLP-lab/WenetSpeech-Yue",
-    "lang": "Python",
-    "desc": "A Large-scale Cantonese Speech Corpus with Multi-dimensional Annotation"
-  },
-  {
-    "createdAt": "2025-09-02T10:34:18Z",
-    "stars": 89,
-    "name": "bijomaru78/eccm",
-    "url": "https://github.com/bijomaru78/eccm",
-    "lang": "HTML",
-    "desc": "Ethernet Cable Connection Manager"
-  },
-  {
-    "createdAt": "2025-08-29T20:53:03Z",
-    "stars": 88,
-    "name": "0xalberto/jupiter-arbitrage-bot",
-    "url": "https://github.com/0xalberto/jupiter-arbitrage-bot",
-    "lang": "TypeScript",
-    "desc": "jupiter arbitrage bot : A high-performance, fully automated arbitrage bot built on Solana, leveraging the power of Jupiter Aggregator v6 for real-time profitable trading between decentralized exchanges. solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot solana-jupiter-arbitrage-bot"
-  },
-  {
-    "createdAt": "2025-09-01T17:53:58Z",
-    "stars": 87,
-    "name": "Adam-CAD/CADAM",
-    "url": "https://github.com/Adam-CAD/CADAM",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-08-30T19:08:52Z",
     "stars": 87,
     "name": "cwkiller/ClassLinefix",
     "url": "https://github.com/cwkiller/ClassLinefix",
     "lang": "Java",
     "desc": "Java bytecode line number restoration tool"
-  },
-  {
-    "createdAt": "2025-08-31T08:24:34Z",
-    "stars": 86,
-    "name": "KRSHH/Sonosano",
-    "url": "https://github.com/KRSHH/Sonosano",
-    "lang": "",
-    "desc": "A gui for P2P networks"
-  },
-  {
-    "createdAt": "2025-09-01T10:09:50Z",
-    "stars": 86,
-    "name": "0xalberto/solana-raydium-pumpfun-sniper-Rust",
-    "url": "https://github.com/0xalberto/solana-raydium-pumpfun-sniper-Rust",
-    "lang": "Rust",
-    "desc": "solana raydium sniper/pumpfun sniper: this solana raydium sniper/pumpfun sniper is written in Rust⚡. In addtion to these solana raydium snipe bot(raydium sniping bot) and pumpfun snipe bot(pumpfun sniping bot), it has raydium bundler, pumpfun bundler, copy trading bot, raydium/pumpfun volume bot more."
-  },
-  {
-    "createdAt": "2025-08-29T20:59:47Z",
-    "stars": 85,
-    "name": "0xalberto/pumpfun-laserstream-sniper-rust",
-    "url": "https://github.com/0xalberto/pumpfun-laserstream-sniper-rust",
-    "lang": "Rust",
-    "desc": "Ultra Fast Rust PumpFun Sniper Bot is a high-performance, low-latency sniper bot built in Rust designed for the Solana blockchain pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot"
-  },
-  {
-    "createdAt": "2025-08-31T20:00:01Z",
-    "stars": 84,
-    "name": "0xalberto/solana-crash-game",
-    "url": "https://github.com/0xalberto/solana-crash-game",
-    "lang": "TypeScript",
-    "desc": "🚀 Rocket Crash Game – Web3 Blockchain Betting | A crash game where players bet, cash out, and win before the rocket crashes! Featuring provably fair on-chain gameplay, decentralized betting, instant payouts, and NFT rewards. Built with Rust, Anchor, and React for a fast, low-fee, and immersive crypto gaming experience."
-  },
-  {
-    "createdAt": "2025-09-03T14:08:23Z",
-    "stars": 84,
-    "name": "githubssg/awesome-nano-banana-images",
-    "url": "https://github.com/githubssg/awesome-nano-banana-images",
-    "lang": "JavaScript",
-    "desc": "Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities."
   }
 ]
