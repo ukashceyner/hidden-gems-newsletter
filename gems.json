@@ -1,31 +1,39 @@
 [
   {
-    "createdAt": "2025-09-06T19:07:20Z",
-    "stars": 2892,
-    "name": "samhenrigold/LidAngleSensor",
-    "url": "https://github.com/samhenrigold/LidAngleSensor",
-    "lang": "Objective-C",
-    "desc": "tfw when you when your lid when uhh angle your lid sensor"
-  },
-  {
     "createdAt": "2025-09-07T02:52:48Z",
-    "stars": 1395,
+    "stars": 3127,
     "name": "mmulet/term.everything",
     "url": "https://github.com/mmulet/term.everything",
     "lang": "TypeScript",
     "desc": "Run any GUI app in the terminal❗"
   },
   {
+    "createdAt": "2025-09-06T19:07:20Z",
+    "stars": 3019,
+    "name": "samhenrigold/LidAngleSensor",
+    "url": "https://github.com/samhenrigold/LidAngleSensor",
+    "lang": "Objective-C",
+    "desc": "tfw when you when your lid when uhh angle your lid sensor"
+  },
+  {
     "createdAt": "2025-09-04T11:21:56Z",
-    "stars": 829,
+    "stars": 840,
     "name": "google-gemini/nano-banana-hackathon-kit",
     "url": "https://github.com/google-gemini/nano-banana-hackathon-kit",
     "lang": "Jupyter Notebook",
     "desc": "🍌 The official starter kit for the Nano Banana Hackathon. Clone this repo to get building fast!"
   },
   {
+    "createdAt": "2025-09-06T00:42:53Z",
+    "stars": 633,
+    "name": "Julien-cpsn/desktop-tui",
+    "url": "https://github.com/Julien-cpsn/desktop-tui",
+    "lang": "Rust",
+    "desc": "A desktop environment without graphics"
+  },
+  {
     "createdAt": "2025-09-06T20:25:15Z",
-    "stars": 508,
+    "stars": 522,
     "name": "seezatnap/nano-banana-infinimap",
     "url": "https://github.com/seezatnap/nano-banana-infinimap",
     "lang": "TypeScript",
@@ -33,47 +41,63 @@
   },
   {
     "createdAt": "2025-09-06T22:27:48Z",
-    "stars": 416,
+    "stars": 496,
     "name": "ccheshirecat/flint",
     "url": "https://github.com/ccheshirecat/flint",
     "lang": "TypeScript",
     "desc": "Lightweight tool for managing linux virtual machines"
   },
   {
-    "createdAt": "2025-09-06T01:42:22Z",
-    "stars": 399,
-    "name": "yassa9/qwen600",
-    "url": "https://github.com/yassa9/qwen600",
-    "lang": "Cuda",
-    "desc": "Static suckless single batch CUDA-only qwen3-0.6B mini inference engine"
-  },
-  {
-    "createdAt": "2025-09-06T00:42:53Z",
-    "stars": 353,
-    "name": "Julien-cpsn/desktop-tui",
-    "url": "https://github.com/Julien-cpsn/desktop-tui",
-    "lang": "Rust",
-    "desc": "A desktop environment without graphics"
+    "createdAt": "2025-09-08T08:04:20Z",
+    "stars": 487,
+    "name": "MoonshotAI/checkpoint-engine",
+    "url": "https://github.com/MoonshotAI/checkpoint-engine",
+    "lang": "Python",
+    "desc": "Checkpoint-engine is a simple middleware to update model weights in LLM inference engines"
   },
   {
     "createdAt": "2025-09-04T06:46:19Z",
-    "stars": 344,
+    "stars": 432,
     "name": "Tencent-Hunyuan/HunyuanImage-2.1",
     "url": "https://github.com/Tencent-Hunyuan/HunyuanImage-2.1",
     "lang": "Python",
     "desc": "HunyuanImage-2.1: An Efficient Diffusion Model for High-Resolution (2K) Text-to-Image Generation​"
   },
   {
+    "createdAt": "2025-09-06T01:42:22Z",
+    "stars": 414,
+    "name": "yassa9/qwen600",
+    "url": "https://github.com/yassa9/qwen600",
+    "lang": "Cuda",
+    "desc": "Static suckless single batch CUDA-only qwen3-0.6B mini inference engine"
+  },
+  {
+    "createdAt": "2025-09-10T00:08:08Z",
+    "stars": 381,
+    "name": "thinking-machines-lab/batch_invariant_ops",
+    "url": "https://github.com/thinking-machines-lab/batch_invariant_ops",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-09-04T06:01:08Z",
-    "stars": 310,
+    "stars": 365,
     "name": "X-Square-Robot/wall-x",
     "url": "https://github.com/X-Square-Robot/wall-x",
     "lang": "Python",
     "desc": "Building General-Purpose Robots Based on Embodied Foundation Model"
   },
   {
+    "createdAt": "2025-09-06T12:23:48Z",
+    "stars": 337,
+    "name": "losfair/bake",
+    "url": "https://github.com/losfair/bake",
+    "lang": "Rust",
+    "desc": "Bake microVMs into standalone executables"
+  },
+  {
     "createdAt": "2025-09-05T10:18:39Z",
-    "stars": 299,
+    "stars": 315,
     "name": "ZHO-ZHO-ZHO/Nano-Bananary",
     "url": "https://github.com/ZHO-ZHO-ZHO/Nano-Bananary",
     "lang": "TypeScript",
@@ -81,55 +105,31 @@
   },
   {
     "createdAt": "2025-09-04T13:53:02Z",
-    "stars": 291,
+    "stars": 295,
     "name": "Varietyz/Disciplined-AI-Software-Development",
     "url": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
     "lang": "Python",
     "desc": "This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints and validation checkpoints."
   },
   {
-    "createdAt": "2025-09-06T12:23:48Z",
-    "stars": 271,
-    "name": "losfair/bake",
-    "url": "https://github.com/losfair/bake",
-    "lang": "Rust",
-    "desc": "Bake microVMs into standalone executables"
-  },
-  {
     "createdAt": "2025-09-04T20:37:41Z",
-    "stars": 265,
+    "stars": 272,
     "name": "yoavf/absolutelyright",
     "url": "https://github.com/yoavf/absolutelyright",
     "lang": "Python",
     "desc": "Claude said I'm absolutely right!"
   },
   {
-    "createdAt": "2025-09-03T08:56:46Z",
-    "stars": 230,
-    "name": "ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard",
-    "url": "https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard",
-    "lang": "",
-    "desc": "Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic"
-  },
-  {
     "createdAt": "2025-09-04T06:37:27Z",
-    "stars": 224,
+    "stars": 243,
     "name": "pridees/agentic-design-patterns-book-rus",
     "url": "https://github.com/pridees/agentic-design-patterns-book-rus",
     "lang": "",
     "desc": "🇷🇺 Русский перевод книги Антонио Гулли - Agentic Design Patterns: Практическое руководство по созданию интеллектуальных систем"
   },
   {
-    "createdAt": "2025-09-03T10:46:46Z",
-    "stars": 223,
-    "name": "BICLab/SpikingBrain-7B",
-    "url": "https://github.com/BICLab/SpikingBrain-7B",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-09-05T20:59:12Z",
-    "stars": 206,
+    "stars": 224,
     "name": "pawurb/hotpath",
     "url": "https://github.com/pawurb/hotpath",
     "lang": "Rust",
@@ -137,87 +137,95 @@
   },
   {
     "createdAt": "2025-09-06T17:10:05Z",
-    "stars": 183,
+    "stars": 207,
     "name": "byJoey/cfnew",
     "url": "https://github.com/byJoey/cfnew",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-04T15:53:19Z",
-    "stars": 179,
-    "name": "vibevoice-community/VibeVoice",
-    "url": "https://github.com/vibevoice-community/VibeVoice",
-    "lang": "Python",
-    "desc": "Long-form conversational TTS | Community fork"
-  },
-  {
-    "createdAt": "2025-09-09T13:28:14Z",
-    "stars": 169,
-    "name": "cozythrill/Gift-buyer-tg",
-    "url": "https://github.com/cozythrill/Gift-buyer-tg",
-    "lang": "Python",
-    "desc": "A bot that scans for available telegram gifts and buys them based on given criteria."
-  },
-  {
-    "createdAt": "2025-09-08T01:24:26Z",
-    "stars": 160,
-    "name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
-    "lang": "Python",
-    "desc": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools."
-  },
-  {
-    "createdAt": "2025-09-03T14:08:23Z",
-    "stars": 159,
-    "name": "githubssg/awesome-nano-banana-images",
-    "url": "https://github.com/githubssg/awesome-nano-banana-images",
-    "lang": "JavaScript",
-    "desc": "Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities."
-  },
-  {
-    "createdAt": "2025-09-09T04:51:49Z",
-    "stars": 158,
-    "name": "Krusty84/MiddleOfNowhere",
-    "url": "https://github.com/Krusty84/MiddleOfNowhere",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-08T08:04:20Z",
-    "stars": 158,
-    "name": "MoonshotAI/checkpoint-engine",
-    "url": "https://github.com/MoonshotAI/checkpoint-engine",
-    "lang": "Python",
-    "desc": "Checkpoint-engine is a simple middleware to update model weights in LLM inference engines"
-  },
-  {
-    "createdAt": "2025-09-09T14:06:09Z",
-    "stars": 157,
-    "name": "forasoft/video-testing-tool",
-    "url": "https://github.com/forasoft/video-testing-tool",
-    "lang": "TypeScript",
-    "desc": "Chrome extension for monitoring WebRTC connection health"
-  },
-  {
-    "createdAt": "2025-09-09T08:33:44Z",
-    "stars": 142,
-    "name": "Kudaes/MFTool",
-    "url": "https://github.com/Kudaes/MFTool",
-    "lang": "Rust",
-    "desc": "Direct access to NTFS volumes"
-  },
-  {
     "createdAt": "2025-09-09T18:19:24Z",
-    "stars": 140,
+    "stars": 202,
     "name": "Alpha-VLLM/Lumina-DiMOO",
     "url": "https://github.com/Alpha-VLLM/Lumina-DiMOO",
     "lang": "Python",
     "desc": "Lumina-DiMOO - An Open-Sourced Multi-Modal Large Diffusion Language Model"
   },
   {
+    "createdAt": "2025-09-09T13:28:14Z",
+    "stars": 199,
+    "name": "cozythrill/Gift-buyer-tg",
+    "url": "https://github.com/cozythrill/Gift-buyer-tg",
+    "lang": "Python",
+    "desc": "A bot that scans for available telegram gifts and buys them based on given criteria."
+  },
+  {
+    "createdAt": "2025-09-04T15:53:19Z",
+    "stars": 194,
+    "name": "vibevoice-community/VibeVoice",
+    "url": "https://github.com/vibevoice-community/VibeVoice",
+    "lang": "Python",
+    "desc": "Long-form conversational TTS | Community fork"
+  },
+  {
+    "createdAt": "2025-09-09T08:33:44Z",
+    "stars": 189,
+    "name": "Kudaes/MFTool",
+    "url": "https://github.com/Kudaes/MFTool",
+    "lang": "Rust",
+    "desc": "Direct access to NTFS volumes"
+  },
+  {
+    "createdAt": "2025-09-08T01:24:26Z",
+    "stars": 186,
+    "name": "oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "url": "https://github.com/oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "lang": "Python",
+    "desc": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools."
+  },
+  {
+    "createdAt": "2025-09-09T15:05:04Z",
+    "stars": 180,
+    "name": "Mini-o3/Mini-o3",
+    "url": "https://github.com/Mini-o3/Mini-o3",
+    "lang": "Python",
+    "desc": "Official Code for \"Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search\""
+  },
+  {
+    "createdAt": "2025-09-10T12:22:20Z",
+    "stars": 165,
+    "name": "midday-ai/ai-sdk-devtools",
+    "url": "https://github.com/midday-ai/ai-sdk-devtools",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-08T16:18:30Z",
+    "stars": 148,
+    "name": "danielmiessler/PAI",
+    "url": "https://github.com/danielmiessler/PAI",
+    "lang": "TypeScript",
+    "desc": "Personal AI Infrastructure for upgrading humans."
+  },
+  {
+    "createdAt": "2025-09-09T14:06:09Z",
+    "stars": 148,
+    "name": "forasoft/video-testing-tool",
+    "url": "https://github.com/forasoft/video-testing-tool",
+    "lang": "TypeScript",
+    "desc": "Chrome extension for monitoring WebRTC connection health"
+  },
+  {
+    "createdAt": "2025-09-09T04:51:49Z",
+    "stars": 145,
+    "name": "Krusty84/MiddleOfNowhere",
+    "url": "https://github.com/Krusty84/MiddleOfNowhere",
+    "lang": "",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-09-04T03:13:36Z",
-    "stars": 136,
+    "stars": 140,
     "name": "haasonsaas/dspy-0to1-guide",
     "url": "https://github.com/haasonsaas/dspy-0to1-guide",
     "lang": "Python",
@@ -225,51 +233,75 @@
   },
   {
     "createdAt": "2025-09-05T15:40:11Z",
-    "stars": 128,
+    "stars": 130,
     "name": "basketballguy999/Quantum-Mechanics-Concise-Book",
     "url": "https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book",
     "lang": "",
     "desc": "A concise text on quantum mechanics, intended for a general mathematical audience including CS, engineering, math, and physics undergrads, as well as anyone interested in a concise intro/overview of QM. Prerequisites: linear algebra, calculus, high school physics"
   },
   {
-    "createdAt": "2025-09-08T16:18:30Z",
-    "stars": 125,
-    "name": "danielmiessler/PAI",
-    "url": "https://github.com/danielmiessler/PAI",
-    "lang": "TypeScript",
-    "desc": "Personal AI Infrastructure for upgrading humans."
-  },
-  {
-    "createdAt": "2025-09-03T14:19:50Z",
-    "stars": 122,
-    "name": "PRBonn/rko_lio",
-    "url": "https://github.com/PRBonn/rko_lio",
-    "lang": "C++",
-    "desc": "A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling"
-  },
-  {
-    "createdAt": "2025-09-09T15:05:04Z",
-    "stars": 117,
-    "name": "Mini-o3/Mini-o3",
-    "url": "https://github.com/Mini-o3/Mini-o3",
+    "createdAt": "2025-09-10T17:55:43Z",
+    "stars": 129,
+    "name": "tsurapa/Pharos-Testnet-Bot",
+    "url": "https://github.com/tsurapa/Pharos-Testnet-Bot",
     "lang": "Python",
-    "desc": "Official Code for \"Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search\""
+    "desc": "A bot for Pharos Testnet automation"
+  },
+  {
+    "createdAt": "2025-09-10T04:34:39Z",
+    "stars": 129,
+    "name": "indragiek/uniprof",
+    "url": "https://github.com/indragiek/uniprof",
+    "lang": "TypeScript",
+    "desc": "Universal CPU profiler designed for humans and AI agents"
+  },
+  {
+    "createdAt": "2025-09-07T22:25:36Z",
+    "stars": 129,
+    "name": "Anttwo/MILo",
+    "url": "https://github.com/Anttwo/MILo",
+    "lang": "Python",
+    "desc": "[SIGGRAPH Asia 2025 - TOG] Official implementation of MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction"
+  },
+  {
+    "createdAt": "2025-09-08T16:11:03Z",
+    "stars": 124,
+    "name": "regenrek/codex-1up",
+    "url": "https://github.com/regenrek/codex-1up",
+    "lang": "Shell",
+    "desc": "🍄 Give your CLI an extra life"
   },
   {
     "createdAt": "2025-09-07T07:39:35Z",
-    "stars": 116,
+    "stars": 120,
     "name": "emarpiee/Retroma",
     "url": "https://github.com/emarpiee/Retroma",
     "lang": "CSS",
     "desc": "Retroma is an Obsidian theme that blends nostalgic, classic design with an intelligent color scheme algorithm."
   },
   {
-    "createdAt": "2025-09-03T17:52:46Z",
-    "stars": 114,
-    "name": "qnguyen3/docpixie",
-    "url": "https://github.com/qnguyen3/docpixie",
+    "createdAt": "2025-09-04T07:45:42Z",
+    "stars": 120,
+    "name": "triumph31415/FMS-Net",
+    "url": "https://github.com/triumph31415/FMS-Net",
+    "lang": "Jupyter Notebook",
+    "desc": "FreqMod Spline Network : Frequency Spline Networks for Burst Image Separation"
+  },
+  {
+    "createdAt": "2025-09-10T15:52:16Z",
+    "stars": 116,
+    "name": "WooooDyy/AgentGym-RL",
+    "url": "https://github.com/WooooDyy/AgentGym-RL",
     "lang": "Python",
-    "desc": "Lightweight Vision native Multimodal Document Agent"
+    "desc": "Code and implementations for the paper \"AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning\" by Zhiheng Xi et al."
+  },
+  {
+    "createdAt": "2025-09-07T13:41:01Z",
+    "stars": 113,
+    "name": "TheAuditorTool/Auditor",
+    "url": "https://github.com/TheAuditorTool/Auditor",
+    "lang": "Python",
+    "desc": "Antidote to VibeCoding"
   },
   {
     "createdAt": "2025-09-05T15:36:32Z",
@@ -280,120 +312,88 @@
     "desc": "Bot for Naoris Protocol"
   },
   {
-    "createdAt": "2025-09-07T22:25:36Z",
-    "stars": 110,
-    "name": "Anttwo/MILo",
-    "url": "https://github.com/Anttwo/MILo",
-    "lang": "Python",
-    "desc": "[SIGGRAPH Asia 2025 - TOG] Official implementation of MILo: Mesh-In-the-Loop Gaussian Splatting for Detailed and Efficient Surface Reconstruction"
-  },
-  {
-    "createdAt": "2025-09-08T16:11:03Z",
-    "stars": 110,
-    "name": "regenrek/codex-1up",
-    "url": "https://github.com/regenrek/codex-1up",
-    "lang": "Shell",
-    "desc": "🍄 Give your CLI an extra life"
-  },
-  {
     "createdAt": "2025-09-04T10:19:27Z",
-    "stars": 108,
+    "stars": 111,
     "name": "chflame163/kontext_hires",
     "url": "https://github.com/chflame163/kontext_hires",
     "lang": "",
     "desc": "LoRA and ComfyUI's workflow of FLUX.1-Kontext-dev to enhance image details and high resolution"
   },
   {
-    "createdAt": "2025-09-07T18:06:13Z",
-    "stars": 107,
-    "name": "twiggy-tools/Twiggy",
-    "url": "https://github.com/twiggy-tools/Twiggy",
-    "lang": "Python",
-    "desc": "Real-time directory structure for Cursor AI. Your AI always knows your codebase's structure 🌿"
-  },
-  {
-    "createdAt": "2025-09-07T13:41:01Z",
-    "stars": 104,
-    "name": "TheAuditorTool/Auditor",
-    "url": "https://github.com/TheAuditorTool/Auditor",
-    "lang": "Python",
-    "desc": "Antidote to VibeCoding"
-  },
-  {
-    "createdAt": "2025-09-04T09:05:26Z",
-    "stars": 103,
-    "name": "TsinghuaC3I/Unify-Post-Training",
-    "url": "https://github.com/TsinghuaC3I/Unify-Post-Training",
-    "lang": "Python",
-    "desc": "Towards a Unified View of Large Language Model Post-Training"
-  },
-  {
     "createdAt": "2025-09-05T12:23:24Z",
-    "stars": 101,
+    "stars": 111,
     "name": "inkeep/agents",
     "url": "https://github.com/inkeep/agents",
     "lang": "TypeScript",
     "desc": "Platform for creating Agents in a No-Code Visual Builder or TypeScript Agents SDK"
   },
   {
-    "createdAt": "2025-09-04T07:45:42Z",
-    "stars": 96,
-    "name": "triumph31415/FMS-Net",
-    "url": "https://github.com/triumph31415/FMS-Net",
-    "lang": "Jupyter Notebook",
-    "desc": "FreqMod Spline Network : Frequency Spline Networks for Burst Image Separation"
+    "createdAt": "2025-09-09T08:56:47Z",
+    "stars": 110,
+    "name": "Hunyuan-PromptEnhancer/PromptEnhancer",
+    "url": "https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer",
+    "lang": "Python",
+    "desc": "PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation."
   },
   {
-    "createdAt": "2025-09-03T21:13:05Z",
-    "stars": 96,
-    "name": "DMS3tv/Open-Omega",
-    "url": "https://github.com/DMS3tv/Open-Omega",
+    "createdAt": "2025-09-07T18:06:13Z",
+    "stars": 108,
+    "name": "twiggy-tools/Twiggy",
+    "url": "https://github.com/twiggy-tools/Twiggy",
+    "lang": "Python",
+    "desc": "Real-time directory structure for Cursor AI. Your AI always knows your codebase's structure 🌿"
+  },
+  {
+    "createdAt": "2025-09-09T18:09:04Z",
+    "stars": 107,
+    "name": "BeardedTek/notesnook-docker",
+    "url": "https://github.com/BeardedTek/notesnook-docker",
+    "lang": "Dockerfile",
+    "desc": "Full Docker stack for Notesnook sync server and web app"
+  },
+  {
+    "createdAt": "2025-09-04T09:05:26Z",
+    "stars": 106,
+    "name": "TsinghuaC3I/Unify-Post-Training",
+    "url": "https://github.com/TsinghuaC3I/Unify-Post-Training",
+    "lang": "Python",
+    "desc": "Towards a Unified View of Large Language Model Post-Training"
+  },
+  {
+    "createdAt": "2025-09-04T04:34:06Z",
+    "stars": 106,
+    "name": "dv0retsky/js-tutorial",
+    "url": "https://github.com/dv0retsky/js-tutorial",
     "lang": "",
-    "desc": "The open source info and files for my project Omega headphones"
+    "desc": "Textbook for students"
   },
   {
-    "createdAt": "2025-09-03T03:19:15Z",
-    "stars": 95,
-    "name": "studyforever1164/TheVite",
-    "url": "https://github.com/studyforever1164/TheVite",
-    "lang": "Vue",
-    "desc": "Theme beautification and Vue extension component library designed for VitePress"
+    "createdAt": "2025-09-09T07:53:28Z",
+    "stars": 106,
+    "name": "ZHO-ZHO-ZHO/BananaFlow-ZHO",
+    "url": "https://github.com/ZHO-ZHO-ZHO/BananaFlow-ZHO",
+    "lang": "TypeScript",
+    "desc": "香蕉工厂：基于 Nano Banana 和 Veo3 模型/工具，轻松实现流程自动化"
   },
   {
-    "createdAt": "2025-09-05T15:31:40Z",
-    "stars": 91,
-    "name": "Huenchen28092/zf",
-    "url": "https://github.com/Huenchen28092/zf",
-    "lang": "Go",
-    "desc": "四方支付系统 聚合支付系统 四方支付系统源码 四方平台搭建 巨海支付 go语言支付 支付对接 支付通道对接"
+    "createdAt": "2025-09-10T02:15:41Z",
+    "stars": 100,
+    "name": "HorizonWind2004/reconstruction-alignment",
+    "url": "https://github.com/HorizonWind2004/reconstruction-alignment",
+    "lang": "Python",
+    "desc": "Unlocking the Massive Zero-shot Potential in Unified Multimodal Models through Self-supervised Learning."
   },
   {
     "createdAt": "2025-09-07T17:26:21Z",
-    "stars": 90,
+    "stars": 98,
     "name": "TrySita/AutoDocs",
     "url": "https://github.com/TrySita/AutoDocs",
     "lang": "Python",
     "desc": "We handle what AI editors won't: generating and maintaining documentation for your codebase, while also providing search with dependency-aware context that helps your tools understand your codebase and its conventions."
   },
   {
-    "createdAt": "2025-09-05T05:04:17Z",
-    "stars": 88,
-    "name": "roseforyou/ZtoApi",
-    "url": "https://github.com/roseforyou/ZtoApi",
-    "lang": "TypeScript",
-    "desc": "ZtoApi 是一个高性能的 OpenAI 兼容 API 代理服务器，专为 Z.ai 的 GLM-4.5 和 GLM-4.5V 模型设计。使用 Deno 原生 HTTP API 实现，支持完整的流式和非流式响应，提供实时监控 Dashboard，让你能够无缝地将 Z.ai 的强大 AI 能力集成到现有的 OpenAI 客户端应用中。"
-  },
-  {
-    "createdAt": "2025-09-05T06:12:02Z",
-    "stars": 86,
-    "name": "faroedev/faroe",
-    "url": "https://github.com/faroedev/faroe",
-    "lang": "Go",
-    "desc": "Faroe is a modular auth server distributed as a Go package."
-  },
-  {
     "createdAt": "2025-09-06T08:10:17Z",
-    "stars": 85,
+    "stars": 96,
     "name": "bibinprathap/VeritasGraph",
     "url": "https://github.com/bibinprathap/VeritasGraph",
     "lang": "Python",
