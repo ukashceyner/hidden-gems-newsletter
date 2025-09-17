@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-09-13T22:05:55Z",
-    "stars": 1726,
+    "stars": 1957,
     "name": "tekaratzas/RustGPT",
     "url": "https://github.com/tekaratzas/RustGPT",
     "lang": "Rust",
@@ -9,63 +9,63 @@
   },
   {
     "createdAt": "2025-09-13T15:29:58Z",
-    "stars": 977,
+    "stars": 1051,
     "name": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
     "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
     "lang": "GDScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-09T07:36:49Z",
-    "stars": 686,
-    "name": "Tencent-Hunyuan/SRPO",
-    "url": "https://github.com/Tencent-Hunyuan/SRPO",
-    "lang": "Python",
-    "desc": "Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference"
-  },
-  {
-    "createdAt": "2025-09-10T00:08:08Z",
-    "stars": 613,
-    "name": "thinking-machines-lab/batch_invariant_ops",
-    "url": "https://github.com/thinking-machines-lab/batch_invariant_ops",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-09-10T21:09:53Z",
-    "stars": 599,
+    "stars": 706,
     "name": "ntdevlabs/nano11",
     "url": "https://github.com/ntdevlabs/nano11",
     "lang": "PowerShell",
     "desc": "Script to build possibly the most trimmed-down Windows 11 experience."
   },
   {
+    "createdAt": "2025-09-10T00:08:08Z",
+    "stars": 636,
+    "name": "thinking-machines-lab/batch_invariant_ops",
+    "url": "https://github.com/thinking-machines-lab/batch_invariant_ops",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-09-12T14:04:46Z",
-    "stars": 553,
+    "stars": 571,
     "name": "plutov/oq",
     "url": "https://github.com/plutov/oq",
     "lang": "Go",
     "desc": "Terminal OpenAPI Spec viewer"
   },
   {
-    "createdAt": "2025-09-12T08:01:09Z",
-    "stars": 526,
-    "name": "luis22d/ZeroTrace-Stealer-13-2026",
-    "url": "https://github.com/luis22d/ZeroTrace-Stealer-13-2026",
-    "lang": "C#",
-    "desc": "ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server."
-  },
-  {
     "createdAt": "2025-09-12T15:16:38Z",
-    "stars": 515,
+    "stars": 568,
     "name": "theNetworkChuck/docker-mcp-tutorial",
     "url": "https://github.com/theNetworkChuck/docker-mcp-tutorial",
     "lang": "",
     "desc": "Complete tutorial materials for building MCP servers with Docker - from NetworkChuck's video"
   },
   {
+    "createdAt": "2025-09-12T08:01:09Z",
+    "stars": 555,
+    "name": "luis22d/ZeroTrace-Stealer-13-2026",
+    "url": "https://github.com/luis22d/ZeroTrace-Stealer-13-2026",
+    "lang": "C#",
+    "desc": "ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server."
+  },
+  {
+    "createdAt": "2025-09-10T09:37:48Z",
+    "stars": 544,
+    "name": "BogdanTheGeek/semihost-ip",
+    "url": "https://github.com/BogdanTheGeek/semihost-ip",
+    "lang": "C",
+    "desc": "Running TCP/IP over SWD lines"
+  },
+  {
     "createdAt": "2025-09-10T12:22:20Z",
-    "stars": 492,
+    "stars": 538,
     "name": "midday-ai/ai-sdk-tools",
     "url": "https://github.com/midday-ai/ai-sdk-tools",
     "lang": "TypeScript",
@@ -73,47 +73,39 @@
   },
   {
     "createdAt": "2025-09-13T14:50:14Z",
-    "stars": 481,
+    "stars": 486,
     "name": "SaltyAom/elden-github",
     "url": "https://github.com/SaltyAom/elden-github",
     "lang": "TypeScript",
     "desc": "Elden Ring experience for GitHub"
   },
   {
-    "createdAt": "2025-09-09T06:18:13Z",
-    "stars": 398,
-    "name": "Phantom-video/HuMo",
-    "url": "https://github.com/Phantom-video/HuMo",
+    "createdAt": "2025-09-12T13:51:15Z",
+    "stars": 436,
+    "name": "unitreerobotics/unifolm-world-model-action",
+    "url": "https://github.com/unitreerobotics/unifolm-world-model-action",
     "lang": "Python",
-    "desc": "HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning"
-  },
-  {
-    "createdAt": "2025-09-10T09:37:48Z",
-    "stars": 393,
-    "name": "BogdanTheGeek/semihost-ip",
-    "url": "https://github.com/BogdanTheGeek/semihost-ip",
-    "lang": "C",
-    "desc": "Running TCP/IP over SWD lines"
+    "desc": ""
   },
   {
     "createdAt": "2025-09-14T14:12:19Z",
-    "stars": 371,
+    "stars": 388,
     "name": "gingerBill/titania",
     "url": "https://github.com/gingerBill/titania",
     "lang": "Odin",
     "desc": "Titania Programming Language"
   },
   {
-    "createdAt": "2025-09-09T18:19:24Z",
-    "stars": 363,
-    "name": "Alpha-VLLM/Lumina-DiMOO",
-    "url": "https://github.com/Alpha-VLLM/Lumina-DiMOO",
+    "createdAt": "2025-09-10T15:52:16Z",
+    "stars": 331,
+    "name": "WooooDyy/AgentGym-RL",
+    "url": "https://github.com/WooooDyy/AgentGym-RL",
     "lang": "Python",
-    "desc": "Lumina-DiMOO - An Open-Sourced Multi-Modal Large Diffusion Language Model"
+    "desc": "Code and implementations for the paper \"AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning\" by Zhiheng Xi et al."
   },
   {
     "createdAt": "2025-09-11T10:16:24Z",
-    "stars": 318,
+    "stars": 324,
     "name": "iannuttall/fartscroll-lid",
     "url": "https://github.com/iannuttall/fartscroll-lid",
     "lang": "Objective-C",
@@ -121,171 +113,131 @@
   },
   {
     "createdAt": "2025-09-10T04:34:39Z",
-    "stars": 312,
+    "stars": 318,
     "name": "indragiek/uniprof",
     "url": "https://github.com/indragiek/uniprof",
     "lang": "TypeScript",
     "desc": "Universal CPU profiler designed for humans and AI agents"
   },
   {
-    "createdAt": "2025-09-10T15:52:16Z",
-    "stars": 311,
-    "name": "WooooDyy/AgentGym-RL",
-    "url": "https://github.com/WooooDyy/AgentGym-RL",
-    "lang": "Python",
-    "desc": "Code and implementations for the paper \"AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning\" by Zhiheng Xi et al."
-  },
-  {
-    "createdAt": "2025-09-09T08:56:47Z",
-    "stars": 297,
-    "name": "Hunyuan-PromptEnhancer/PromptEnhancer",
-    "url": "https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer",
-    "lang": "Python",
-    "desc": "PromptEnhancer is a prompt-rewriting tool, refining prompts into clearer, structured versions for better image generation."
+    "createdAt": "2025-09-17T01:01:29Z",
+    "stars": 315,
+    "name": "torvalds/GuitarPedal",
+    "url": "https://github.com/torvalds/GuitarPedal",
+    "lang": "",
+    "desc": ""
   },
   {
     "createdAt": "2025-09-12T04:04:46Z",
-    "stars": 294,
+    "stars": 307,
     "name": "ScriptedAlchemy/devtools-debugger-mcp",
     "url": "https://github.com/ScriptedAlchemy/devtools-debugger-mcp",
     "lang": "JavaScript",
     "desc": "An MCP server exposing full Chrome DevTools Protocol debugging: breakpoints, step/run, call stacks, eval, and source maps."
   },
   {
-    "createdAt": "2025-09-09T08:31:23Z",
-    "stars": 286,
-    "name": "cedardb/DOOMQL",
-    "url": "https://github.com/cedardb/DOOMQL",
-    "lang": "Python",
-    "desc": "A multiplayer DOOM-like in pure SQL"
+    "createdAt": "2025-09-16T22:03:00Z",
+    "stars": 307,
+    "name": "Zephkek/Asus-ROG-Aml-Deep-Dive",
+    "url": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
+    "lang": "ASL",
+    "desc": "A deep dive into the ACPI.sys DPC latency problems on Asus ROG laptops"
   },
   {
     "createdAt": "2025-09-10T10:56:10Z",
-    "stars": 277,
+    "stars": 301,
     "name": "NJU-3DV/SpatialVID",
     "url": "https://github.com/NJU-3DV/SpatialVID",
     "lang": "Python",
     "desc": "SpatialVID: A Large-Scale Video Dataset with Spatial Annotations"
   },
   {
-    "createdAt": "2025-09-12T13:51:15Z",
-    "stars": 275,
-    "name": "unitreerobotics/unifolm-world-model-action",
-    "url": "https://github.com/unitreerobotics/unifolm-world-model-action",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-09T15:05:04Z",
-    "stars": 254,
-    "name": "Mini-o3/Mini-o3",
-    "url": "https://github.com/Mini-o3/Mini-o3",
-    "lang": "Python",
-    "desc": "Official Code for \"Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search\""
-  },
-  {
     "createdAt": "2025-09-13T03:18:26Z",
-    "stars": 243,
+    "stars": 284,
     "name": "TwoSevenOneT/WSASS",
     "url": "https://github.com/TwoSevenOneT/WSASS",
     "lang": "C++",
     "desc": "This is the tool to dump the LSASS process on modern Windows 11"
   },
   {
-    "createdAt": "2025-09-09T08:33:44Z",
-    "stars": 241,
-    "name": "Kudaes/MFTool",
-    "url": "https://github.com/Kudaes/MFTool",
-    "lang": "Rust",
-    "desc": "Direct access to NTFS volumes"
-  },
-  {
-    "createdAt": "2025-09-13T03:54:34Z",
-    "stars": 214,
-    "name": "neibcn/snippets-vless-reverse-proxy",
-    "url": "https://github.com/neibcn/snippets-vless-reverse-proxy",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-09T13:43:21Z",
-    "stars": 208,
-    "name": "huangxd-/danmu_api",
-    "url": "https://github.com/huangxd-/danmu_api",
-    "lang": "JavaScript",
-    "desc": "一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口，并提供日志记录，支持vercel/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。"
-  },
-  {
-    "createdAt": "2025-09-10T02:15:41Z",
-    "stars": 198,
-    "name": "HorizonWind2004/reconstruction-alignment",
-    "url": "https://github.com/HorizonWind2004/reconstruction-alignment",
-    "lang": "Python",
-    "desc": "Official repo of paper \"Reconstruction Alignment Improves Unified Multimodal Models\". Unlocking the Massive Zero-shot Potential in Unified Multimodal Models through Self-supervised Learning."
-  },
-  {
-    "createdAt": "2025-09-09T12:18:03Z",
-    "stars": 193,
-    "name": "joeseesun/drawnix-seedream",
-    "url": "https://github.com/joeseesun/drawnix-seedream",
-    "lang": "TypeScript",
-    "desc": "Drawnix whiteboard application - open source collaborative drawing tool with mind maps, flowcharts, and free drawing capabilities"
-  },
-  {
-    "createdAt": "2025-09-11T16:36:06Z",
-    "stars": 186,
-    "name": "ivebotunac/PrimoAgent",
-    "url": "https://github.com/ivebotunac/PrimoAgent",
-    "lang": "Python",
-    "desc": "PrimoAgent: Multi-Agent Stock Analysis"
-  },
-  {
-    "createdAt": "2025-09-10T14:04:48Z",
-    "stars": 186,
-    "name": "anhostfr/compress.lol",
-    "url": "https://github.com/anhostfr/compress.lol",
-    "lang": "Svelte",
-    "desc": "Compress videos in your browser to fit Discord limitations and more. - An alternative to 8mb.video"
-  },
-  {
-    "createdAt": "2025-09-09T07:53:28Z",
-    "stars": 179,
-    "name": "ZHO-ZHO-ZHO/BananaFlow-ZHO",
-    "url": "https://github.com/ZHO-ZHO-ZHO/BananaFlow-ZHO",
-    "lang": "TypeScript",
-    "desc": "香蕉工厂：基于 Nano Banana 和 Veo3 模型/工具，轻松实现流程自动化"
-  },
-  {
     "createdAt": "2025-09-15T13:11:18Z",
-    "stars": 169,
+    "stars": 263,
     "name": "yangzhou24/OmniWorld",
     "url": "https://github.com/yangzhou24/OmniWorld",
     "lang": "Python",
     "desc": "OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling"
   },
   {
-    "createdAt": "2025-09-09T14:54:35Z",
-    "stars": 158,
-    "name": "yeahhe365/Qwen3-ASR-Studio",
-    "url": "https://github.com/yeahhe365/Qwen3-ASR-Studio",
-    "lang": "TypeScript",
-    "desc": "A modern web UI for the Qwen ASR model, featuring audio recording, PWA support, Picture-in-Picture mode, and local caching for fast, accurate transcriptions."
+    "createdAt": "2025-09-16T03:41:49Z",
+    "stars": 236,
+    "name": "OpenBMB/VoxCPM",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "lang": "Python",
+    "desc": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning"
+  },
+  {
+    "createdAt": "2025-09-13T03:54:34Z",
+    "stars": 225,
+    "name": "neibcn/snippets-vless-reverse-proxy",
+    "url": "https://github.com/neibcn/snippets-vless-reverse-proxy",
+    "lang": "JavaScript",
+    "desc": ""
   },
   {
     "createdAt": "2025-09-16T11:08:14Z",
-    "stars": 141,
+    "stars": 221,
     "name": "danielroe/provenance-action",
     "url": "https://github.com/danielroe/provenance-action",
     "lang": "TypeScript",
-    "desc": "GitHub Action that detects dependency provenance downgrades from lockfile changes (npm/pnpm/yarn)."
+    "desc": "Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status"
   },
   {
-    "createdAt": "2025-09-09T18:09:04Z",
-    "stars": 137,
-    "name": "BeardedTek/notesnook-docker",
-    "url": "https://github.com/BeardedTek/notesnook-docker",
-    "lang": "Dockerfile",
-    "desc": "Full Docker stack for Notesnook sync server and web app"
+    "createdAt": "2025-09-10T02:15:41Z",
+    "stars": 201,
+    "name": "HorizonWind2004/reconstruction-alignment",
+    "url": "https://github.com/HorizonWind2004/reconstruction-alignment",
+    "lang": "Python",
+    "desc": "Official repo of paper \"Reconstruction Alignment Improves Unified Multimodal Models\". Unlocking the Massive Zero-shot Potential in Unified Multimodal Models through Self-supervised Learning."
+  },
+  {
+    "createdAt": "2025-09-10T14:04:48Z",
+    "stars": 194,
+    "name": "anhostfr/compress.lol",
+    "url": "https://github.com/anhostfr/compress.lol",
+    "lang": "Svelte",
+    "desc": "Compress videos in your browser to fit Discord limitations and more. - An alternative to 8mb.video"
+  },
+  {
+    "createdAt": "2025-09-11T16:36:06Z",
+    "stars": 192,
+    "name": "ivebotunac/PrimoAgent",
+    "url": "https://github.com/ivebotunac/PrimoAgent",
+    "lang": "Python",
+    "desc": "PrimoAgent: Multi-Agent Stock Analysis"
+  },
+  {
+    "createdAt": "2025-09-16T09:03:49Z",
+    "stars": 157,
+    "name": "QwenLM/Qwen3-ASR-Toolkit",
+    "url": "https://github.com/QwenLM/Qwen3-ASR-Toolkit",
+    "lang": "Python",
+    "desc": "Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio transcription, multi‑sample‑rate support."
+  },
+  {
+    "createdAt": "2025-09-16T14:05:47Z",
+    "stars": 136,
+    "name": "EvolvingLMMs-Lab/LLaVA-OneVision-1.5",
+    "url": "https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-16T14:22:55Z",
+    "stars": 136,
+    "name": "stateless-me/uuidv47",
+    "url": "https://github.com/stateless-me/uuidv47",
+    "lang": "C",
+    "desc": "⚡ UUIDv47 = v4 privacy + v7 performance"
   },
   {
     "createdAt": "2025-09-10T17:55:43Z",
@@ -296,84 +248,116 @@
     "desc": "A bot for Pharos Testnet automation"
   },
   {
+    "createdAt": "2025-09-13T06:33:42Z",
+    "stars": 127,
+    "name": "haileyydev/maildrop",
+    "url": "https://github.com/haileyydev/maildrop",
+    "lang": "CSS",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-09-14T10:01:06Z",
-    "stars": 119,
+    "stars": 123,
     "name": "h9-tec/Intelligent_Customer_Agents",
     "url": "https://github.com/h9-tec/Intelligent_Customer_Agents",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-09T11:06:50Z",
-    "stars": 117,
-    "name": "jmiao24/Paper2Agent",
-    "url": "https://github.com/jmiao24/Paper2Agent",
-    "lang": "Jupyter Notebook",
-    "desc": "Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input."
-  },
-  {
-    "createdAt": "2025-09-09T14:06:09Z",
-    "stars": 117,
-    "name": "forasoft/video-testing-tool",
-    "url": "https://github.com/forasoft/video-testing-tool",
-    "lang": "TypeScript",
-    "desc": "Chrome extension for monitoring WebRTC connection health"
-  },
-  {
-    "createdAt": "2025-09-13T06:33:42Z",
-    "stars": 116,
-    "name": "haileyydev/maildrop",
-    "url": "https://github.com/haileyydev/maildrop",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-09-10T18:41:21Z",
-    "stars": 115,
+    "stars": 121,
     "name": "j3h4ck/WatchDogKiller",
     "url": "https://github.com/j3h4ck/WatchDogKiller",
     "lang": "C++",
     "desc": "PoC exploit for the vulnerable WatchDog Anti-Malware driver (amsdk.sys) – weaponized to kill protected EDR/AV processes via BYOVD."
   },
   {
+    "createdAt": "2025-09-16T13:58:41Z",
+    "stars": 119,
+    "name": "RiyaParikh0112/vibe-coding-playbook",
+    "url": "https://github.com/RiyaParikh0112/vibe-coding-playbook",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-11T08:28:19Z",
+    "stars": 118,
+    "name": "specpulse/specpulse",
+    "url": "https://github.com/specpulse/specpulse",
+    "lang": "Python",
+    "desc": "Specification-Driven Development (SDD) Framework"
+  },
+  {
     "createdAt": "2025-09-12T12:46:16Z",
-    "stars": 104,
+    "stars": 114,
     "name": "ZephrFish/pyLDAPGui",
     "url": "https://github.com/ZephrFish/pyLDAPGui",
     "lang": "Python",
     "desc": "Python based GUI for browsing LDAP"
   },
   {
-    "createdAt": "2025-09-14T16:27:28Z",
-    "stars": 102,
-    "name": "DavidLiedle/DriftDB",
-    "url": "https://github.com/DavidLiedle/DriftDB",
-    "lang": "Rust",
-    "desc": "DriftDB - An experimental append-only database with built-in time travel. Query any point in history, guaranteed data integrity, and immutable audit trails. Written in Rust."
+    "createdAt": "2025-09-16T10:57:57Z",
+    "stars": 113,
+    "name": "voicepowered-ai/VibeVoice-finetuning",
+    "url": "https://github.com/voicepowered-ai/VibeVoice-finetuning",
+    "lang": "Python",
+    "desc": "Unofficial WIP LoRa Finetuning repository for VibeVoice"
+  },
+  {
+    "createdAt": "2025-09-13T09:19:34Z",
+    "stars": 112,
+    "name": "NeuroDong/Ai-Review-Prompt",
+    "url": "https://github.com/NeuroDong/Ai-Review-Prompt",
+    "lang": "",
+    "desc": "Large language model review prompts"
+  },
+  {
+    "createdAt": "2025-09-13T10:53:29Z",
+    "stars": 109,
+    "name": "THUDM/DeepDive",
+    "url": "https://github.com/THUDM/DeepDive",
+    "lang": "",
+    "desc": "DeepDive: Advancing Deep Search Agents with Knowledge Graphs and Multi-Turn RL"
   },
   {
     "createdAt": "2025-09-14T08:21:30Z",
-    "stars": 102,
+    "stars": 107,
     "name": "midday-ai/ai-sdk-zustand",
     "url": "https://github.com/midday-ai/ai-sdk-zustand",
     "lang": "TypeScript",
     "desc": ""
   },
   {
+    "createdAt": "2025-09-10T08:14:51Z",
+    "stars": 104,
+    "name": "PKU-YuanGroup/UAE",
+    "url": "https://github.com/PKU-YuanGroup/UAE",
+    "lang": "Python",
+    "desc": "Official repository for the UAE paper, unified-GRPO, and unified-Bench"
+  },
+  {
+    "createdAt": "2025-09-14T16:27:28Z",
+    "stars": 104,
+    "name": "DavidLiedle/DriftDB",
+    "url": "https://github.com/DavidLiedle/DriftDB",
+    "lang": "Rust",
+    "desc": "DriftDB - An experimental append-only database with built-in time travel. Query any point in history, guaranteed data integrity, and immutable audit trails. Written in Rust."
+  },
+  {
     "createdAt": "2025-09-13T05:44:53Z",
-    "stars": 100,
+    "stars": 104,
     "name": "gavinmn/iOSAppMeshTransform",
     "url": "https://github.com/gavinmn/iOSAppMeshTransform",
     "lang": "Metal",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-09T18:21:38Z",
-    "stars": 99,
-    "name": "mosaico-labs/refx",
-    "url": "https://github.com/mosaico-labs/refx",
-    "lang": "C++",
-    "desc": "Compile-time safe C++ library for accurate coordinate transformations and navigation in mobile robotics."
+    "createdAt": "2025-09-12T09:32:41Z",
+    "stars": 101,
+    "name": "ifindev/fullstack-next-cloudflare",
+    "url": "https://github.com/ifindev/fullstack-next-cloudflare",
+    "lang": "TypeScript",
+    "desc": "🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready with automated CI/CD and generous free tiers."
   },
   {
     "createdAt": "2025-09-10T11:09:12Z",
@@ -384,19 +368,35 @@
     "desc": "English translation for the DBI homebrew application"
   },
   {
-    "createdAt": "2025-09-12T09:32:41Z",
-    "stars": 97,
-    "name": "ifindev/fullstack-next-cloudflare",
-    "url": "https://github.com/ifindev/fullstack-next-cloudflare",
-    "lang": "TypeScript",
-    "desc": "🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready with automated CI/CD and generous free tiers."
+    "createdAt": "2025-09-12T21:29:24Z",
+    "stars": 95,
+    "name": "h2337/tsink",
+    "url": "https://github.com/h2337/tsink",
+    "lang": "Rust",
+    "desc": "Embedded time-series database for Rust"
   },
   {
-    "createdAt": "2025-09-10T08:14:51Z",
-    "stars": 96,
-    "name": "PKU-YuanGroup/UAE",
-    "url": "https://github.com/PKU-YuanGroup/UAE",
+    "createdAt": "2025-09-12T13:05:33Z",
+    "stars": 94,
+    "name": "CassiopeiaCode/TenCyclesofFate",
+    "url": "https://github.com/CassiopeiaCode/TenCyclesofFate",
     "lang": "Python",
-    "desc": "Official repository for the UAE paper, unified-GRPO, and unified-Bench"
+    "desc": "《浮生十梦》 是一款基于 Web 的沉浸式文字冒险游戏。玩家在游戏中扮演一个与命运博弈的角色，每天有十次机会进入不同的“梦境”（即生命轮回），体验由 AI 动态生成的、独一无二的人生故事。游戏的核心在于“知足”与“贪欲”之间的抉择：是见好就收，还是追求更高的回报但可能失去一切？"
+  },
+  {
+    "createdAt": "2025-09-16T06:20:19Z",
+    "stars": 94,
+    "name": "fjb040911/free-sqlite",
+    "url": "https://github.com/fjb040911/free-sqlite",
+    "lang": "TypeScript",
+    "desc": "Free SQLite for VSCode.Support writing SQL statements"
+  },
+  {
+    "createdAt": "2025-09-11T01:56:58Z",
+    "stars": 94,
+    "name": "alibaba/RecIS",
+    "url": "https://github.com/alibaba/RecIS",
+    "lang": "Python",
+    "desc": "A unified architecture deep learning framework designed specifically for ultra-large-scale sparse models."
   }
 ]
