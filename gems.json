@@ -1,7 +1,15 @@
 [
   {
+    "createdAt": "2025-09-21T09:46:10Z",
+    "stars": 1472,
+    "name": "QwenLM/Qwen3-Omni",
+    "url": "https://github.com/QwenLM/Qwen3-Omni",
+    "lang": "Jupyter Notebook",
+    "desc": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time."
+  },
+  {
     "createdAt": "2025-09-16T03:41:49Z",
-    "stars": 1149,
+    "stars": 1196,
     "name": "OpenBMB/VoxCPM",
     "url": "https://github.com/OpenBMB/VoxCPM",
     "lang": "Python",
@@ -9,7 +17,7 @@
   },
   {
     "createdAt": "2025-09-19T18:20:20Z",
-    "stars": 899,
+    "stars": 1012,
     "name": "rxi/sj.h",
     "url": "https://github.com/rxi/sj.h",
     "lang": "C",
@@ -17,23 +25,23 @@
   },
   {
     "createdAt": "2025-09-17T01:01:29Z",
-    "stars": 687,
+    "stars": 719,
     "name": "torvalds/GuitarPedal",
     "url": "https://github.com/torvalds/GuitarPedal",
     "lang": "OpenSCAD",
-    "desc": ""
+    "desc": "Linus learns analog circuits"
   },
   {
-    "createdAt": "2025-09-16T14:22:55Z",
-    "stars": 594,
-    "name": "stateless-me/uuidv47",
-    "url": "https://github.com/stateless-me/uuidv47",
-    "lang": "C",
-    "desc": "⚡ UUIDv47 = v4 privacy + v7 performance"
+    "createdAt": "2025-09-20T08:29:29Z",
+    "stars": 716,
+    "name": "MoonTechLab/Selene",
+    "url": "https://github.com/MoonTechLab/Selene",
+    "lang": "",
+    "desc": "一个以 MoonTV v100 版本为后端的 Android/iOS 客户端，针对移动端体验优化"
   },
   {
     "createdAt": "2025-09-16T22:03:00Z",
-    "stars": 589,
+    "stars": 676,
     "name": "Zephkek/Asus-ROG-Aml-Deep-Dive",
     "url": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
     "lang": "ASL",
@@ -41,103 +49,87 @@
   },
   {
     "createdAt": "2025-09-19T00:46:49Z",
-    "stars": 586,
+    "stars": 644,
     "name": "XiaomiMiMo/MiMo-Audio",
     "url": "https://github.com/XiaomiMiMo/MiMo-Audio",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-20T08:29:29Z",
-    "stars": 498,
-    "name": "MoonTechLab/Selene",
-    "url": "https://github.com/MoonTechLab/Selene",
-    "lang": "",
-    "desc": "一个以 MoonTV v100 版本为后端的 Android/iOS 客户端，针对移动端体验优化"
+    "createdAt": "2025-09-16T14:22:55Z",
+    "stars": 609,
+    "name": "stateless-me/uuidv47",
+    "url": "https://github.com/stateless-me/uuidv47",
+    "lang": "C",
+    "desc": "⚡ UUIDv47 = v4 privacy + v7 performance"
   },
   {
     "createdAt": "2025-09-16T09:03:49Z",
-    "stars": 469,
+    "stars": 501,
     "name": "QwenLM/Qwen3-ASR-Toolkit",
     "url": "https://github.com/QwenLM/Qwen3-ASR-Toolkit",
     "lang": "Python",
     "desc": "Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio transcription, multi‑sample‑rate support."
   },
   {
-    "createdAt": "2025-09-17T02:53:50Z",
-    "stars": 408,
-    "name": "comfy-deploy/comfydeploy",
-    "url": "https://github.com/comfy-deploy/comfydeploy",
-    "lang": "",
-    "desc": "ComfyDeployed"
-  },
-  {
     "createdAt": "2025-09-16T19:45:03Z",
-    "stars": 399,
+    "stars": 431,
     "name": "subnetmarco/pgmcp",
     "url": "https://github.com/subnetmarco/pgmcp",
     "lang": "Go",
     "desc": "An MCP server to query any Postgres database in natural language."
   },
   {
-    "createdAt": "2025-09-16T14:08:59Z",
-    "stars": 365,
-    "name": "RoversX/LaunchNext",
-    "url": "https://github.com/RoversX/LaunchNext",
-    "lang": "Swift",
-    "desc": "Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free."
-  },
-  {
-    "createdAt": "2025-09-16T06:20:19Z",
-    "stars": 347,
-    "name": "fjb040911/free-sqlite",
-    "url": "https://github.com/fjb040911/free-sqlite",
-    "lang": "JavaScript",
-    "desc": "Free SQLite for VSCode.Support writing SQL statements"
-  },
-  {
-    "createdAt": "2025-09-15T13:11:18Z",
-    "stars": 344,
-    "name": "yangzhou24/OmniWorld",
-    "url": "https://github.com/yangzhou24/OmniWorld",
-    "lang": "Python",
-    "desc": "OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling"
-  },
-  {
-    "createdAt": "2025-09-16T14:05:47Z",
-    "stars": 315,
-    "name": "EvolvingLMMs-Lab/LLaVA-OneVision-1.5",
-    "url": "https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-09-17T13:24:52Z",
-    "stars": 308,
+    "stars": 421,
     "name": "DecartAI/Lucy-Edit-ComfyUI",
     "url": "https://github.com/DecartAI/Lucy-Edit-ComfyUI",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-19T11:57:23Z",
-    "stars": 279,
-    "name": "0xcomp/cryptotracker",
-    "url": "https://github.com/0xcomp/cryptotracker",
-    "lang": "TypeScript",
+    "createdAt": "2025-09-17T02:53:50Z",
+    "stars": 410,
+    "name": "comfy-deploy/comfydeploy",
+    "url": "https://github.com/comfy-deploy/comfydeploy",
+    "lang": "",
+    "desc": "ComfyDeployed"
+  },
+  {
+    "createdAt": "2025-09-16T06:20:19Z",
+    "stars": 388,
+    "name": "fjb040911/free-sqlite",
+    "url": "https://github.com/fjb040911/free-sqlite",
+    "lang": "JavaScript",
+    "desc": "Free SQLite for VSCode.Support writing SQL statements"
+  },
+  {
+    "createdAt": "2025-09-16T14:08:59Z",
+    "stars": 388,
+    "name": "RoversX/LaunchNext",
+    "url": "https://github.com/RoversX/LaunchNext",
+    "lang": "Swift",
+    "desc": "Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free."
+  },
+  {
+    "createdAt": "2025-09-21T01:21:06Z",
+    "stars": 371,
+    "name": "TwoSevenOneT/EDR-Freeze",
+    "url": "https://github.com/TwoSevenOneT/EDR-Freeze",
+    "lang": "C++",
+    "desc": "EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state."
+  },
+  {
+    "createdAt": "2025-09-16T14:05:47Z",
+    "stars": 326,
+    "name": "EvolvingLMMs-Lab/LLaVA-OneVision-1.5",
+    "url": "https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5",
+    "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-16T11:08:14Z",
-    "stars": 268,
-    "name": "danielroe/provenance-action",
-    "url": "https://github.com/danielroe/provenance-action",
-    "lang": "TypeScript",
-    "desc": "Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status"
-  },
-  {
     "createdAt": "2025-09-19T07:11:12Z",
-    "stars": 266,
+    "stars": 324,
     "name": "GalaxyGeneralRobotics/OpenTrack",
     "url": "https://github.com/GalaxyGeneralRobotics/OpenTrack",
     "lang": "Python",
@@ -145,123 +137,163 @@
   },
   {
     "createdAt": "2025-09-17T07:18:40Z",
-    "stars": 266,
+    "stars": 293,
     "name": "pingooio/pingoo",
     "url": "https://github.com/pingooio/pingoo",
     "lang": "Rust",
     "desc": "The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io"
   },
   {
-    "createdAt": "2025-09-21T01:21:06Z",
-    "stars": 237,
-    "name": "TwoSevenOneT/EDR-Freeze",
-    "url": "https://github.com/TwoSevenOneT/EDR-Freeze",
-    "lang": "C++",
-    "desc": "EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state."
-  },
-  {
     "createdAt": "2025-09-17T06:25:25Z",
-    "stars": 227,
+    "stars": 283,
     "name": "anthropics/claude-code-sdk-demos",
     "url": "https://github.com/anthropics/claude-code-sdk-demos",
     "lang": "TypeScript",
     "desc": "Claude Code SDK Demos"
   },
   {
-    "createdAt": "2025-09-16T13:58:41Z",
-    "stars": 227,
-    "name": "RiyaParikh0112/vibe-coding-playbook",
-    "url": "https://github.com/RiyaParikh0112/vibe-coding-playbook",
-    "lang": "",
+    "createdAt": "2025-09-19T11:57:23Z",
+    "stars": 280,
+    "name": "0xcomp/cryptotracker",
+    "url": "https://github.com/0xcomp/cryptotracker",
+    "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-21T09:46:10Z",
-    "stars": 213,
-    "name": "QwenLM/Qwen3-Omni",
-    "url": "https://github.com/QwenLM/Qwen3-Omni",
-    "lang": "Jupyter Notebook",
-    "desc": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time."
-  },
-  {
-    "createdAt": "2025-09-15T09:57:24Z",
-    "stars": 207,
-    "name": "eooce/Auto-deploy-sap-and-keepalive",
-    "url": "https://github.com/eooce/Auto-deploy-sap-and-keepalive",
-    "lang": "JavaScript",
-    "desc": "Auto deploy sap and keepalive"
-  },
-  {
-    "createdAt": "2025-09-17T08:06:46Z",
-    "stars": 205,
-    "name": "Aihy/CLOV",
-    "url": "https://github.com/Aihy/CLOV",
-    "lang": "TypeScript",
-    "desc": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms"
-  },
-  {
-    "createdAt": "2025-09-15T09:25:00Z",
-    "stars": 194,
-    "name": "EgalitarianMonkey/hometube",
-    "url": "https://github.com/EgalitarianMonkey/hometube",
-    "lang": "Python",
-    "desc": "HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience."
-  },
-  {
-    "createdAt": "2025-09-16T17:54:46Z",
-    "stars": 173,
-    "name": "Scale3-Labs/dspyground",
-    "url": "https://github.com/Scale3-Labs/dspyground",
-    "lang": "TypeScript",
-    "desc": "A tool kit for generating high quality prompts using DSPy GEPA optimizer"
-  },
-  {
-    "createdAt": "2025-09-19T13:12:03Z",
-    "stars": 170,
-    "name": "ZHO-ZHO-ZHO/BananaFace",
-    "url": "https://github.com/ZHO-ZHO-ZHO/BananaFace",
-    "lang": "TypeScript",
-    "desc": "基于 Nano Banana 的捏脸神器！精心打造您的完美肖像。使用控制选项，让 AI 将您的想象变为现实"
-  },
-  {
-    "createdAt": "2025-09-17T22:40:11Z",
-    "stars": 169,
-    "name": "wildminder/ComfyUI-VoxCPM",
-    "url": "https://github.com/wildminder/ComfyUI-VoxCPM",
-    "lang": "Python",
-    "desc": "ComfyUI node for highly expressive speech and realistic zero-shot voice cloning"
-  },
-  {
     "createdAt": "2025-09-20T10:20:54Z",
-    "stars": 150,
+    "stars": 270,
     "name": "OpenHelix-Team/VLA-Adapter",
     "url": "https://github.com/OpenHelix-Team/VLA-Adapter",
     "lang": "Python",
     "desc": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model"
   },
   {
+    "createdAt": "2025-09-16T11:08:14Z",
+    "stars": 270,
+    "name": "danielroe/provenance-action",
+    "url": "https://github.com/danielroe/provenance-action",
+    "lang": "TypeScript",
+    "desc": "Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status"
+  },
+  {
+    "createdAt": "2025-09-16T13:58:41Z",
+    "stars": 236,
+    "name": "RiyaParikh0112/vibe-coding-playbook",
+    "url": "https://github.com/RiyaParikh0112/vibe-coding-playbook",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-17T08:06:46Z",
+    "stars": 229,
+    "name": "Aihy/CLOV",
+    "url": "https://github.com/Aihy/CLOV",
+    "lang": "TypeScript",
+    "desc": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms"
+  },
+  {
+    "createdAt": "2025-09-20T20:57:01Z",
+    "stars": 208,
+    "name": "shlokkhemani/openpoke",
+    "url": "https://github.com/shlokkhemani/openpoke",
+    "lang": "Python",
+    "desc": "Open source implementation of Poke "
+  },
+  {
+    "createdAt": "2025-09-19T13:12:03Z",
+    "stars": 190,
+    "name": "ZHO-ZHO-ZHO/BananaFace",
+    "url": "https://github.com/ZHO-ZHO-ZHO/BananaFace",
+    "lang": "TypeScript",
+    "desc": "基于 Nano Banana 的捏脸神器！精心打造您的完美肖像。使用控制选项，让 AI 将您的想象变为现实"
+  },
+  {
+    "createdAt": "2025-09-20T06:26:58Z",
+    "stars": 184,
+    "name": "yan5xu/ququ",
+    "url": "https://github.com/yan5xu/ququ",
+    "lang": "JavaScript",
+    "desc": "开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流"
+  },
+  {
+    "createdAt": "2025-09-16T17:54:46Z",
+    "stars": 183,
+    "name": "Scale3-Labs/dspyground",
+    "url": "https://github.com/Scale3-Labs/dspyground",
+    "lang": "TypeScript",
+    "desc": "A tool kit for generating high quality prompts using DSPy GEPA optimizer"
+  },
+  {
+    "createdAt": "2025-09-17T22:40:11Z",
+    "stars": 181,
+    "name": "wildminder/ComfyUI-VoxCPM",
+    "url": "https://github.com/wildminder/ComfyUI-VoxCPM",
+    "lang": "Python",
+    "desc": "ComfyUI node for highly expressive speech and realistic zero-shot voice cloning"
+  },
+  {
+    "createdAt": "2025-09-20T18:50:13Z",
+    "stars": 176,
+    "name": "bodadotsh/npm-security-best-practices",
+    "url": "https://github.com/bodadotsh/npm-security-best-practices",
+    "lang": "",
+    "desc": "How to stay safe from NPM supply chain attacks"
+  },
+  {
+    "createdAt": "2025-09-18T01:54:10Z",
+    "stars": 165,
+    "name": "LeCAR-Lab/HDMI",
+    "url": "https://github.com/LeCAR-Lab/HDMI",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-09-16T10:57:57Z",
-    "stars": 149,
+    "stars": 162,
     "name": "voicepowered-ai/VibeVoice-finetuning",
     "url": "https://github.com/voicepowered-ai/VibeVoice-finetuning",
     "lang": "Python",
     "desc": "Unofficial WIP LoRa Finetuning repository for VibeVoice"
   },
   {
+    "createdAt": "2025-09-23T14:36:09Z",
+    "stars": 160,
+    "name": "qUaKeknigHTVE/Arbitrage-Ethereum-Bot",
+    "url": "https://github.com/qUaKeknigHTVE/Arbitrage-Ethereum-Bot",
+    "lang": "Solidity",
+    "desc": "Full analysis and ready-to-use smart contract for Ethereum Arbitrage-Bot. Includes profitability modeling, ROI calculations, deposit strategies, and a visual step-by-step deployment guide via Remix IDE."
+  },
+  {
+    "createdAt": "2025-09-21T04:42:13Z",
+    "stars": 151,
+    "name": "fish2018/YPrompt",
+    "url": "https://github.com/fish2018/YPrompt",
+    "lang": "TypeScript",
+    "desc": "通过对话挖掘用户需求，并自动生成专业的Prompt"
+  },
+  {
     "createdAt": "2025-09-17T10:57:24Z",
-    "stars": 143,
+    "stars": 146,
     "name": "google-deepmind/gemini_icpc2025",
     "url": "https://github.com/google-deepmind/gemini_icpc2025",
     "lang": "C++",
     "desc": "Gemini 2025 ICPC World Finals Code Submissions"
   },
   {
-    "createdAt": "2025-09-15T12:55:44Z",
-    "stars": 138,
-    "name": "blxkex/Latex-Notes-Templates",
-    "url": "https://github.com/blxkex/Latex-Notes-Templates",
-    "lang": "TeX",
-    "desc": "A collection of my latex notes, showcased as templates. "
+    "createdAt": "2025-09-21T12:28:03Z",
+    "stars": 144,
+    "name": "meituan-longcat/LongCat-Flash-Thinking",
+    "url": "https://github.com/meituan-longcat/LongCat-Flash-Thinking",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-19T23:51:02Z",
+    "stars": 142,
+    "name": "SecFathy/CrystalLens",
+    "url": "https://github.com/SecFathy/CrystalLens",
+    "lang": "Python",
+    "desc": "CrystalLens is a social media screening and analysis platform that collects posts from multiple sources (via Apify scrapers) and applies local AI (Ollama) to generate character insights, behavioral patterns, and risk assessments for employees or candidates."
   },
   {
     "createdAt": "2025-09-16T13:23:41Z",
@@ -272,120 +304,88 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-09-20T18:50:13Z",
-    "stars": 120,
-    "name": "bodadotsh/npm-security-best-practices",
-    "url": "https://github.com/bodadotsh/npm-security-best-practices",
-    "lang": "",
-    "desc": "How to stay safe from NPM supply chain attacks"
-  },
-  {
     "createdAt": "2025-09-18T12:16:49Z",
-    "stars": 118,
+    "stars": 121,
     "name": "lodestone-rock/RamTorch",
     "url": "https://github.com/lodestone-rock/RamTorch",
     "lang": "Python",
     "desc": "RAM is all you need"
   },
   {
-    "createdAt": "2025-09-19T23:51:02Z",
-    "stars": 117,
-    "name": "SecFathy/CrystalLens",
-    "url": "https://github.com/SecFathy/CrystalLens",
-    "lang": "Python",
-    "desc": "CrystalLens is a social media screening and analysis platform that collects posts from multiple sources (via Apify scrapers) and applies local AI (Ollama) to generate character insights, behavioral patterns, and risk assessments for employees or candidates."
-  },
-  {
-    "createdAt": "2025-09-18T18:00:10Z",
-    "stars": 116,
-    "name": "crutchcorn/sync-skeleton",
-    "url": "https://github.com/crutchcorn/sync-skeleton",
-    "lang": "TypeScript",
-    "desc": "Synchronized Skeleton Loaders for your favorite framework"
-  },
-  {
-    "createdAt": "2025-09-15T13:53:14Z",
-    "stars": 113,
-    "name": "InternRobotics/VLAC",
-    "url": "https://github.com/InternRobotics/VLAC",
-    "lang": "Python",
-    "desc": "VLAC: A Vision-Language-Action-Critic Model for Robotic Real-World Reinforcement Learning"
-  },
-  {
-    "createdAt": "2025-09-16T12:47:28Z",
-    "stars": 110,
-    "name": "InternRobotics/InternVLA-M1",
-    "url": "https://github.com/InternRobotics/InternVLA-M1",
-    "lang": "Python",
-    "desc": "InternVLA-M1: A Spatially Grounded Foundation Model for Generalist Robot Policy"
-  },
-  {
-    "createdAt": "2025-09-21T04:42:13Z",
-    "stars": 110,
-    "name": "fish2018/YPrompt",
-    "url": "https://github.com/fish2018/YPrompt",
-    "lang": "TypeScript",
-    "desc": "通过对话挖掘用户需求，并自动生成专业的Prompt"
-  },
-  {
     "createdAt": "2025-09-17T18:47:31Z",
-    "stars": 110,
+    "stars": 118,
     "name": "LoredCast/filewizard",
     "url": "https://github.com/LoredCast/filewizard",
     "lang": "Python",
     "desc": "File Converter, OCR, Transcription & TTS WebUI"
   },
   {
-    "createdAt": "2025-09-15T07:05:39Z",
-    "stars": 110,
-    "name": "TFour123/Packer-InfoFinder",
-    "url": "https://github.com/TFour123/Packer-InfoFinder",
-    "lang": "Python",
-    "desc": "`Packer-InfoFinder` 是一款专为现代Web应用设计的自动化安全扫描工具。它能深度抓取目标网站的JavaScript文件，智能还原由Webpack等打包器进行代码拆分（Code Splitting）的异步模块，并利用强大的正则引擎扫描所有JS代码，发现其中可能存在的敏感信息，如API密钥、内部路径、凭证、个人身份信息（PII）等"
+    "createdAt": "2025-09-17T13:31:09Z",
+    "stars": 117,
+    "name": "KartikLabhshetwar/lazycommit",
+    "url": "https://github.com/KartikLabhshetwar/lazycommit",
+    "lang": "TypeScript",
+    "desc": "A CLI that writes your git commit messages for you with AI using Groq. Never write a commit message again."
   },
   {
-    "createdAt": "2025-09-21T12:28:03Z",
-    "stars": 109,
-    "name": "meituan-longcat/LongCat-Flash-Thinking",
-    "url": "https://github.com/meituan-longcat/LongCat-Flash-Thinking",
+    "createdAt": "2025-09-18T18:00:10Z",
+    "stars": 117,
+    "name": "crutchcorn/sync-skeleton",
+    "url": "https://github.com/crutchcorn/sync-skeleton",
+    "lang": "TypeScript",
+    "desc": "Synchronized Skeleton Loaders for your favorite framework"
+  },
+  {
+    "createdAt": "2025-09-16T12:50:18Z",
+    "stars": 116,
+    "name": "baidubce/Qianfan-VL",
+    "url": "https://github.com/baidubce/Qianfan-VL",
     "lang": "",
-    "desc": ""
+    "desc": "Qianfan-VL: Domain-Enhanced Universal Vision-Language Models"
+  },
+  {
+    "createdAt": "2025-09-16T12:47:28Z",
+    "stars": 113,
+    "name": "InternRobotics/InternVLA-M1",
+    "url": "https://github.com/InternRobotics/InternVLA-M1",
+    "lang": "Python",
+    "desc": "InternVLA-M1: A Spatially Grounded Foundation Model for Generalist Robot Policy"
+  },
+  {
+    "createdAt": "2025-09-23T16:33:26Z",
+    "stars": 113,
+    "name": "Koronne/Adobe-after-effects-crack",
+    "url": "https://github.com/Koronne/Adobe-after-effects-crack",
+    "lang": "",
+    "desc": "after-effects adobe-after-effects after-effects-scripts adobe-after-effects-crack after-effects-free-download adobe-after-effects-free-download after-effects-download after-effects-download-free adobe-after-effects-free after-effects-2025 after-effects-crack-download after-effects-2025-crack adobe-after-effects-free-crack"
+  },
+  {
+    "createdAt": "2025-09-22T11:11:04Z",
+    "stars": 113,
+    "name": "xiyuhang2003/E-problem",
+    "url": "https://github.com/xiyuhang2003/E-problem",
+    "lang": "Python",
+    "desc": "2025年中国研究生数学建模竞赛E题：高速列车轴承智能故障诊断"
+  },
+  {
+    "createdAt": "2025-09-23T17:24:00Z",
+    "stars": 113,
+    "name": "naylatt123/1inch-bot",
+    "url": "https://github.com/naylatt123/1inch-bot",
+    "lang": "",
+    "desc": "1inch trading-bot automated-trading crypto-trading 1inch-bot crypto-automation trading-strategy bot-development crypto-market crypto-tools cryptocurrency blockchain defi-trading decentralized-exchange crypto-aggregator"
   },
   {
     "createdAt": "2025-09-18T15:43:10Z",
-    "stars": 106,
+    "stars": 109,
     "name": "dis0rder0x00/obex",
     "url": "https://github.com/dis0rder0x00/obex",
     "lang": "C",
     "desc": "Obex – Blocking unwanted DLLs in user mode"
   },
   {
-    "createdAt": "2025-09-15T00:03:28Z",
-    "stars": 101,
-    "name": "current-ai-llc/dsts",
-    "url": "https://github.com/current-ai-llc/dsts",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-15T04:22:20Z",
-    "stars": 100,
-    "name": "TauricResearch/Trading-R1",
-    "url": "https://github.com/TauricResearch/Trading-R1",
-    "lang": "",
-    "desc": "Terminal coming soon ..."
-  },
-  {
-    "createdAt": "2025-09-20T06:26:58Z",
-    "stars": 100,
-    "name": "yan5xu/ququ",
-    "url": "https://github.com/yan5xu/ququ",
-    "lang": "JavaScript",
-    "desc": "开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流"
-  },
-  {
     "createdAt": "2025-09-20T12:47:29Z",
-    "stars": 99,
+    "stars": 105,
     "name": "surajverma/homehub",
     "url": "https://github.com/surajverma/homehub",
     "lang": "HTML",
@@ -393,7 +393,7 @@
   },
   {
     "createdAt": "2025-09-20T13:29:02Z",
-    "stars": 93,
+    "stars": 104,
     "name": "CyberSecurityUP/n8n-CyberSecurity-Workflows",
     "url": "https://github.com/CyberSecurityUP/n8n-CyberSecurity-Workflows",
     "lang": "",
