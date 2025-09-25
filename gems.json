@@ -1,15 +1,23 @@
 [
   {
     "createdAt": "2025-09-21T09:46:10Z",
-    "stars": 1878,
+    "stars": 2040,
     "name": "QwenLM/Qwen3-Omni",
     "url": "https://github.com/QwenLM/Qwen3-Omni",
     "lang": "Jupyter Notebook",
     "desc": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time."
   },
   {
+    "createdAt": "2025-09-23T01:58:21Z",
+    "stars": 1314,
+    "name": "JerryZLiu/Dayflow",
+    "url": "https://github.com/JerryZLiu/Dayflow",
+    "lang": "Swift",
+    "desc": "Generate a timeline of your day, automatically"
+  },
+  {
     "createdAt": "2025-09-19T18:20:20Z",
-    "stars": 1092,
+    "stars": 1118,
     "name": "rxi/sj.h",
     "url": "https://github.com/rxi/sj.h",
     "lang": "C",
@@ -17,63 +25,39 @@
   },
   {
     "createdAt": "2025-09-20T08:29:29Z",
-    "stars": 809,
+    "stars": 945,
     "name": "MoonTechLab/Selene",
     "url": "https://github.com/MoonTechLab/Selene",
     "lang": "",
     "desc": "一个以 MoonTV v100 版本 / Helios 为后端的 Android/iOS 客户端，针对移动端体验优化"
   },
   {
-    "createdAt": "2025-09-17T01:01:29Z",
-    "stars": 771,
-    "name": "torvalds/GuitarPedal",
-    "url": "https://github.com/torvalds/GuitarPedal",
-    "lang": "OpenSCAD",
-    "desc": "Linus learns analog circuits"
-  },
-  {
     "createdAt": "2025-09-19T00:46:49Z",
-    "stars": 662,
+    "stars": 678,
     "name": "XiaomiMiMo/MiMo-Audio",
     "url": "https://github.com/XiaomiMiMo/MiMo-Audio",
     "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-17T07:18:40Z",
-    "stars": 542,
-    "name": "pingooio/pingoo",
-    "url": "https://github.com/pingooio/pingoo",
-    "lang": "Rust",
-    "desc": "The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io"
-  },
-  {
-    "createdAt": "2025-09-17T13:24:52Z",
-    "stars": 478,
-    "name": "DecartAI/Lucy-Edit-ComfyUI",
-    "url": "https://github.com/DecartAI/Lucy-Edit-ComfyUI",
-    "lang": "Python",
-    "desc": ""
+    "desc": "MiMo-Audio: Audio Language Models are Few-Shot Learners"
   },
   {
     "createdAt": "2025-09-21T01:21:06Z",
-    "stars": 443,
+    "stars": 488,
     "name": "TwoSevenOneT/EDR-Freeze",
     "url": "https://github.com/TwoSevenOneT/EDR-Freeze",
     "lang": "C++",
     "desc": "EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state."
   },
   {
-    "createdAt": "2025-09-17T02:53:50Z",
-    "stars": 413,
-    "name": "comfy-deploy/comfydeploy",
-    "url": "https://github.com/comfy-deploy/comfydeploy",
-    "lang": "",
-    "desc": "ComfyDeployed"
+    "createdAt": "2025-09-20T06:26:58Z",
+    "stars": 457,
+    "name": "yan5xu/ququ",
+    "url": "https://github.com/yan5xu/ququ",
+    "lang": "JavaScript",
+    "desc": "开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流"
   },
   {
     "createdAt": "2025-09-19T07:11:12Z",
-    "stars": 367,
+    "stars": 422,
     "name": "GalaxyGeneralRobotics/OpenTrack",
     "url": "https://github.com/GalaxyGeneralRobotics/OpenTrack",
     "lang": "Python",
@@ -81,23 +65,23 @@
   },
   {
     "createdAt": "2025-09-20T10:20:54Z",
-    "stars": 311,
+    "stars": 386,
     "name": "OpenHelix-Team/VLA-Adapter",
     "url": "https://github.com/OpenHelix-Team/VLA-Adapter",
     "lang": "Python",
     "desc": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model"
   },
   {
-    "createdAt": "2025-09-17T06:25:25Z",
-    "stars": 294,
-    "name": "anthropics/claude-code-sdk-demos",
-    "url": "https://github.com/anthropics/claude-code-sdk-demos",
+    "createdAt": "2025-09-23T14:00:46Z",
+    "stars": 286,
+    "name": "vercel-labs/coding-agent-template",
+    "url": "https://github.com/vercel-labs/coding-agent-template",
     "lang": "TypeScript",
-    "desc": "Claude Code SDK Demos"
+    "desc": "Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway"
   },
   {
     "createdAt": "2025-09-19T11:57:23Z",
-    "stars": 280,
+    "stars": 279,
     "name": "0xcomp/cryptotracker",
     "url": "https://github.com/0xcomp/cryptotracker",
     "lang": "TypeScript",
@@ -105,71 +89,47 @@
   },
   {
     "createdAt": "2025-09-20T20:57:01Z",
-    "stars": 236,
+    "stars": 249,
     "name": "shlokkhemani/openpoke",
     "url": "https://github.com/shlokkhemani/openpoke",
     "lang": "Python",
     "desc": "Open source implementation of Poke "
   },
   {
-    "createdAt": "2025-09-17T08:06:46Z",
-    "stars": 229,
-    "name": "Aihy/CLOV",
-    "url": "https://github.com/Aihy/CLOV",
-    "lang": "TypeScript",
-    "desc": "Valuation of tokens corresponding to influential individuals on social platforms through AI algorithms"
-  },
-  {
-    "createdAt": "2025-09-17T22:40:11Z",
-    "stars": 227,
-    "name": "wildminder/ComfyUI-VoxCPM",
-    "url": "https://github.com/wildminder/ComfyUI-VoxCPM",
-    "lang": "Python",
-    "desc": "ComfyUI node for highly expressive speech and realistic zero-shot voice cloning"
-  },
-  {
-    "createdAt": "2025-09-20T18:50:13Z",
-    "stars": 222,
-    "name": "bodadotsh/npm-security-best-practices",
-    "url": "https://github.com/bodadotsh/npm-security-best-practices",
-    "lang": "",
-    "desc": "How to stay safe from NPM supply chain attacks"
-  },
-  {
     "createdAt": "2025-09-18T01:54:10Z",
-    "stars": 218,
+    "stars": 244,
     "name": "LeCAR-Lab/HDMI",
     "url": "https://github.com/LeCAR-Lab/HDMI",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-20T06:26:58Z",
-    "stars": 207,
-    "name": "yan5xu/ququ",
-    "url": "https://github.com/yan5xu/ququ",
-    "lang": "JavaScript",
-    "desc": "开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流"
-  },
-  {
-    "createdAt": "2025-09-23T14:00:46Z",
-    "stars": 202,
-    "name": "vercel-labs/coding-agent-template",
-    "url": "https://github.com/vercel-labs/coding-agent-template",
-    "lang": "TypeScript",
-    "desc": "Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway"
+    "createdAt": "2025-09-20T18:50:13Z",
+    "stars": 238,
+    "name": "bodadotsh/npm-security-best-practices",
+    "url": "https://github.com/bodadotsh/npm-security-best-practices",
+    "lang": "",
+    "desc": "How to stay safe from NPM supply chain attacks"
   },
   {
     "createdAt": "2025-09-19T13:12:03Z",
-    "stars": 194,
+    "stars": 200,
     "name": "ZHO-ZHO-ZHO/BananaFace",
     "url": "https://github.com/ZHO-ZHO-ZHO/BananaFace",
     "lang": "TypeScript",
     "desc": "基于 Nano Banana 的捏脸神器！精心打造您的完美肖像。使用控制选项，让 AI 将您的想象变为现实"
   },
   {
+    "createdAt": "2025-09-18T09:00:50Z",
+    "stars": 185,
+    "name": "DeprecatedLuar/better-curl-saul",
+    "url": "https://github.com/DeprecatedLuar/better-curl-saul",
+    "lang": "Go",
+    "desc": "Did you know you have rights? The FOSS says you do... Better Curl Saul is my homemade CLI 'http client' to make api reusability simple."
+  },
+  {
     "createdAt": "2025-09-21T12:28:03Z",
-    "stars": 167,
+    "stars": 180,
     "name": "meituan-longcat/LongCat-Flash-Thinking",
     "url": "https://github.com/meituan-longcat/LongCat-Flash-Thinking",
     "lang": "",
@@ -177,59 +137,99 @@
   },
   {
     "createdAt": "2025-09-21T04:42:13Z",
-    "stars": 160,
+    "stars": 176,
     "name": "fish2018/YPrompt",
     "url": "https://github.com/fish2018/YPrompt",
     "lang": "TypeScript",
-    "desc": "通过对话挖掘用户需求，并自动生成专业的Prompt，预览版 https://pre-yprompt.pages.dev/"
-  },
-  {
-    "createdAt": "2025-09-19T23:51:02Z",
-    "stars": 158,
-    "name": "SecFathy/CrystalLens",
-    "url": "https://github.com/SecFathy/CrystalLens",
-    "lang": "Python",
-    "desc": "CrystalLens is a social media screening and analysis platform that collects posts from multiple sources (via Apify scrapers) and applies local AI (Ollama) to generate character insights, behavioral patterns, and risk assessments for employees or candidates."
-  },
-  {
-    "createdAt": "2025-09-17T10:57:24Z",
-    "stars": 148,
-    "name": "google-deepmind/gemini_icpc2025",
-    "url": "https://github.com/google-deepmind/gemini_icpc2025",
-    "lang": "C++",
-    "desc": "Gemini 2025 ICPC World Finals Code Submissions"
-  },
-  {
-    "createdAt": "2025-09-17T18:47:31Z",
-    "stars": 133,
-    "name": "LoredCast/filewizard",
-    "url": "https://github.com/LoredCast/filewizard",
-    "lang": "Python",
-    "desc": "File Converter, OCR, Transcription & TTS WebUI"
+    "desc": "通过对话挖掘用户需求，并自动生成专业的Prompt"
   },
   {
     "createdAt": "2025-09-23T08:13:20Z",
-    "stars": 131,
+    "stars": 165,
     "name": "QwenLM/Qwen3Guard",
     "url": "https://github.com/QwenLM/Qwen3Guard",
     "lang": "",
     "desc": "Qwen3Guard is a multilingual guardrail model series developed by the Qwen team at Alibaba Cloud."
   },
   {
+    "createdAt": "2025-09-19T23:51:02Z",
+    "stars": 160,
+    "name": "SecFathy/CrystalLens",
+    "url": "https://github.com/SecFathy/CrystalLens",
+    "lang": "Python",
+    "desc": "CrystalLens is a social media screening and analysis platform that collects posts from multiple sources (via Apify scrapers) and applies local AI (Ollama) to generate character insights, behavioral patterns, and risk assessments for employees or candidates."
+  },
+  {
+    "createdAt": "2025-09-23T03:08:49Z",
+    "stars": 151,
+    "name": "apple/ml-simplefold",
+    "url": "https://github.com/apple/ml-simplefold",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-24T13:13:40Z",
+    "stars": 148,
+    "name": "goudvuur/sonshell",
+    "url": "https://github.com/goudvuur/sonshell",
+    "lang": "C++",
+    "desc": "An effort to \"ssh into my Sony camera\""
+  },
+  {
+    "createdAt": "2025-09-18T08:11:22Z",
+    "stars": 142,
+    "name": "PRNDcompany/SwiftUIHTML",
+    "url": "https://github.com/PRNDcompany/SwiftUIHTML",
+    "lang": "Swift",
+    "desc": "SwiftUIHTML"
+  },
+  {
     "createdAt": "2025-09-19T05:12:58Z",
-    "stars": 128,
+    "stars": 141,
     "name": "NVlabs/DiffusionNFT",
     "url": "https://github.com/NVlabs/DiffusionNFT",
     "lang": "Python",
     "desc": "DiffusionNFT: Online Diffusion Reinforcement with Forward Process"
   },
   {
+    "createdAt": "2025-09-24T19:15:53Z",
+    "stars": 139,
+    "name": "duckpigdog/Sec-Interview",
+    "url": "https://github.com/duckpigdog/Sec-Interview",
+    "lang": "",
+    "desc": "全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）"
+  },
+  {
     "createdAt": "2025-09-21T05:55:01Z",
-    "stars": 127,
-    "name": "cjh-store/cc",
-    "url": "https://github.com/cjh-store/cc",
+    "stars": 138,
+    "name": "cjh-store/cc-cli",
+    "url": "https://github.com/cjh-store/cc-cli",
     "lang": "JavaScript",
     "desc": "claude code工具集合"
+  },
+  {
+    "createdAt": "2025-09-22T02:54:59Z",
+    "stars": 133,
+    "name": "uni-medical/Project-Imaging-X",
+    "url": "https://github.com/uni-medical/Project-Imaging-X",
+    "lang": "",
+    "desc": "Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development"
+  },
+  {
+    "createdAt": "2025-09-18T12:16:49Z",
+    "stars": 132,
+    "name": "lodestone-rock/RamTorch",
+    "url": "https://github.com/lodestone-rock/RamTorch",
+    "lang": "Python",
+    "desc": "RAM is all you need"
+  },
+  {
+    "createdAt": "2025-09-25T11:37:29Z",
+    "stars": 128,
+    "name": "Z1de/genshin-unicore-tools",
+    "url": "https://github.com/Z1de/genshin-unicore-tools",
+    "lang": "",
+    "desc": ""
   },
   {
     "createdAt": "2025-09-22T11:11:04Z",
@@ -240,163 +240,163 @@
     "desc": "2025年中国研究生数学建模竞赛E题：高速列车轴承智能故障诊断"
   },
   {
-    "createdAt": "2025-09-18T12:16:49Z",
-    "stars": 124,
-    "name": "lodestone-rock/RamTorch",
-    "url": "https://github.com/lodestone-rock/RamTorch",
-    "lang": "Python",
-    "desc": "RAM is all you need"
-  },
-  {
-    "createdAt": "2025-09-17T13:31:09Z",
-    "stars": 121,
-    "name": "KartikLabhshetwar/lazycommit",
-    "url": "https://github.com/KartikLabhshetwar/lazycommit",
-    "lang": "TypeScript",
-    "desc": "A CLI that writes your git commit messages for you with AI using Groq. Never write a commit message again."
-  },
-  {
-    "createdAt": "2025-09-18T18:00:10Z",
-    "stars": 118,
-    "name": "crutchcorn/sync-skeleton",
-    "url": "https://github.com/crutchcorn/sync-skeleton",
-    "lang": "TypeScript",
-    "desc": "Synchronized Skeleton Loaders for your favorite framework"
-  },
-  {
-    "createdAt": "2025-09-18T15:43:10Z",
-    "stars": 114,
-    "name": "dis0rder0x00/obex",
-    "url": "https://github.com/dis0rder0x00/obex",
-    "lang": "C",
-    "desc": "Obex – Blocking unwanted DLLs in user mode"
-  },
-  {
-    "createdAt": "2025-09-20T12:47:29Z",
-    "stars": 113,
-    "name": "surajverma/homehub",
-    "url": "https://github.com/surajverma/homehub",
-    "lang": "HTML",
-    "desc": "A lightweight, no-login, self-hosted family utility for your home."
-  },
-  {
-    "createdAt": "2025-09-20T13:29:02Z",
-    "stars": 111,
-    "name": "CyberSecurityUP/n8n-CyberSecurity-Workflows",
-    "url": "https://github.com/CyberSecurityUP/n8n-CyberSecurity-Workflows",
+    "createdAt": "2025-09-25T12:38:50Z",
+    "stars": 125,
+    "name": "Z1de/cs2-enhanced-utility",
+    "url": "https://github.com/Z1de/cs2-enhanced-utility",
     "lang": "",
-    "desc": "Security automation with n8n ideas: 100+ Red/Blue/AppSec workflows, integrations, and ready-to-run playbooks."
-  },
-  {
-    "createdAt": "2025-09-18T09:00:50Z",
-    "stars": 104,
-    "name": "DeprecatedLuar/better-curl-saul",
-    "url": "https://github.com/DeprecatedLuar/better-curl-saul",
-    "lang": "Go",
-    "desc": "Better Curl Saul is a terminal based lightweight API testing client focused on user experience and simplicity when compared to other clients"
-  },
-  {
-    "createdAt": "2025-09-22T02:54:59Z",
-    "stars": 100,
-    "name": "uni-medical/Project-Imaging-X",
-    "url": "https://github.com/uni-medical/Project-Imaging-X",
-    "lang": "",
-    "desc": "Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development"
-  },
-  {
-    "createdAt": "2025-09-18T23:54:40Z",
-    "stars": 99,
-    "name": "doganarif/fastapi-radar",
-    "url": "https://github.com/doganarif/fastapi-radar",
-    "lang": "Python",
-    "desc": "A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed."
+    "desc": "Potentially Powerful CS2 Assist Tool - 2025 Edition"
   },
   {
     "createdAt": "2025-09-22T16:17:25Z",
-    "stars": 99,
+    "stars": 123,
     "name": "kijai/ComfyUI-WanAnimatePreprocess",
     "url": "https://github.com/kijai/ComfyUI-WanAnimatePreprocess",
     "lang": "Python",
     "desc": "ComfyUI nodes for WanAnimate model input preprocessing"
   },
   {
-    "createdAt": "2025-09-20T19:12:20Z",
-    "stars": 95,
-    "name": "tsoding/button",
-    "url": "https://github.com/tsoding/button",
-    "lang": "JavaScript",
-    "desc": "Just a Website with a Button"
+    "createdAt": "2025-09-20T13:29:02Z",
+    "stars": 122,
+    "name": "CyberSecurityUP/n8n-CyberSecurity-Workflows",
+    "url": "https://github.com/CyberSecurityUP/n8n-CyberSecurity-Workflows",
+    "lang": "",
+    "desc": "Security automation with n8n ideas: 100+ Red/Blue/AppSec workflows, integrations, and ready-to-run playbooks."
   },
   {
-    "createdAt": "2025-09-17T14:45:28Z",
-    "stars": 92,
-    "name": "Print3M/ByteCaster",
-    "url": "https://github.com/Print3M/ByteCaster",
-    "lang": "Go",
-    "desc": "Swiss Army Knife for payload encryption, obfuscation, and conversion to byte arrays – all in a single command (14 output formats supported)! ☢️"
+    "createdAt": "2025-09-18T18:00:10Z",
+    "stars": 120,
+    "name": "crutchcorn/sync-skeleton",
+    "url": "https://github.com/crutchcorn/sync-skeleton",
+    "lang": "TypeScript",
+    "desc": "Synchronized Skeleton Loaders for your favorite framework"
   },
   {
-    "createdAt": "2025-09-18T16:02:05Z",
-    "stars": 89,
-    "name": "XiaomiMiMo/MiMo-Audio-Tokenizer",
-    "url": "https://github.com/XiaomiMiMo/MiMo-Audio-Tokenizer",
+    "createdAt": "2025-09-20T12:47:29Z",
+    "stars": 120,
+    "name": "surajverma/homehub",
+    "url": "https://github.com/surajverma/homehub",
+    "lang": "HTML",
+    "desc": "A lightweight, no-login, self-hosted family utility for your home."
+  },
+  {
+    "createdAt": "2025-09-18T23:54:40Z",
+    "stars": 119,
+    "name": "doganarif/fastapi-radar",
+    "url": "https://github.com/doganarif/fastapi-radar",
     "lang": "Python",
-    "desc": "A unified tokenizer that is capable of both extracting semantic information and enabling high-fidelity audio reconstruction."
-  },
-  {
-    "createdAt": "2025-09-20T07:42:56Z",
-    "stars": 88,
-    "name": "Wemino/MarkerPatch",
-    "url": "https://github.com/Wemino/MarkerPatch",
-    "lang": "C++",
-    "desc": " A patch that fixes various issues and limitations in the PC port of Dead Space 2"
+    "desc": "A powerful debugging dashboard for FastAPI applications. Monitor HTTP requests, SQL queries, and exceptions in real-time with a beautiful React UI. One-line integration, zero configuration needed."
   },
   {
     "createdAt": "2025-09-18T09:39:16Z",
-    "stars": 85,
+    "stars": 115,
     "name": "herimor/voxtream",
     "url": "https://github.com/herimor/voxtream",
     "lang": "Python",
     "desc": "VoXtream is a Full-Stream Zero-shot TTS model with Extremely Low Latency"
   },
   {
+    "createdAt": "2025-09-18T15:43:10Z",
+    "stars": 115,
+    "name": "dis0rder0x00/obex",
+    "url": "https://github.com/dis0rder0x00/obex",
+    "lang": "C",
+    "desc": "Obex – Blocking unwanted DLLs in user mode"
+  },
+  {
+    "createdAt": "2025-09-22T18:01:37Z",
+    "stars": 113,
+    "name": "discountry/ritmex-bot",
+    "url": "https://github.com/discountry/ritmex-bot",
+    "lang": "TypeScript",
+    "desc": "Perp DEX trading bot."
+  },
+  {
+    "createdAt": "2025-09-22T16:45:12Z",
+    "stars": 108,
+    "name": "Plan-Vert/open-letter",
+    "url": "https://github.com/Plan-Vert/open-letter",
+    "lang": "",
+    "desc": "An open letter calling for a hard fork of Rails to remove DHH's influence"
+  },
+  {
+    "createdAt": "2025-09-22T07:04:15Z",
+    "stars": 102,
+    "name": "M1ndo/WerDump",
+    "url": "https://github.com/M1ndo/WerDump",
+    "lang": "C",
+    "desc": "A Beacon Object File (BOF) for Havoc/CS to Bypass PPL and Dump Lsass"
+  },
+  {
+    "createdAt": "2025-09-20T19:12:20Z",
+    "stars": 102,
+    "name": "tsoding/button",
+    "url": "https://github.com/tsoding/button",
+    "lang": "JavaScript",
+    "desc": "Just a Website with a Button"
+  },
+  {
+    "createdAt": "2025-09-20T05:40:35Z",
+    "stars": 97,
+    "name": "visualmimic/VisualMimic",
+    "url": "https://github.com/visualmimic/VisualMimic",
+    "lang": "Python",
+    "desc": "[arXiv 2025] VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation"
+  },
+  {
+    "createdAt": "2025-09-21T07:08:24Z",
+    "stars": 96,
+    "name": "gsnoopy/react-old-icons",
+    "url": "https://github.com/gsnoopy/react-old-icons",
+    "lang": "TypeScript",
+    "desc": "  React component library for vintage icons from classic games, software and operating systems"
+  },
+  {
+    "createdAt": "2025-09-23T19:11:56Z",
+    "stars": 95,
+    "name": "apple/swift-configuration",
+    "url": "https://github.com/apple/swift-configuration",
+    "lang": "Swift",
+    "desc": "API package for reading configuration."
+  },
+  {
+    "createdAt": "2025-09-25T19:34:30Z",
+    "stars": 94,
+    "name": "waldogoat5/Maxon-Cinema-4DLabs",
+    "url": "https://github.com/waldogoat5/Maxon-Cinema-4DLabs",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-20T07:42:56Z",
+    "stars": 93,
+    "name": "Wemino/MarkerPatch",
+    "url": "https://github.com/Wemino/MarkerPatch",
+    "lang": "C++",
+    "desc": " A patch that fixes various issues and limitations in the PC port of Dead Space 2"
+  },
+  {
     "createdAt": "2025-09-22T00:18:20Z",
-    "stars": 83,
+    "stars": 93,
     "name": "SciML/Julia_Modeling_Workshop",
     "url": "https://github.com/SciML/Julia_Modeling_Workshop",
     "lang": "HTML",
     "desc": "High-Performance Scientific Modeling with Julia and SciML"
   },
   {
-    "createdAt": "2025-09-17T01:03:33Z",
-    "stars": 82,
-    "name": "mschneider456/worldexplorer",
-    "url": "https://github.com/mschneider456/worldexplorer",
+    "createdAt": "2025-09-23T02:13:59Z",
+    "stars": 92,
+    "name": "Tsinghua-MARS-Lab/SLAM-Former",
+    "url": "https://github.com/Tsinghua-MARS-Lab/SLAM-Former",
+    "lang": "",
+    "desc": "SLAM-Former: Putting SLAM into One Transformer"
+  },
+  {
+    "createdAt": "2025-09-18T16:02:05Z",
+    "stars": 90,
+    "name": "XiaomiMiMo/MiMo-Audio-Tokenizer",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Audio-Tokenizer",
     "lang": "Python",
-    "desc": "[SIGGRAPH Asia 2025] WorldExplorer: Towards Generating Fully Navigable 3D Scenes"
-  },
-  {
-    "createdAt": "2025-09-18T03:23:31Z",
-    "stars": 81,
-    "name": "jookaz/askAndLearn",
-    "url": "https://github.com/jookaz/askAndLearn",
-    "lang": "Java",
-    "desc": "智能问学系统"
-  },
-  {
-    "createdAt": "2025-09-18T17:21:38Z",
-    "stars": 79,
-    "name": "kagehq/gpu-kill",
-    "url": "https://github.com/kagehq/gpu-kill",
-    "lang": "Rust",
-    "desc": "Manage your GPUs across NVIDIA, AMD, Intel, and Apple Silicon systems."
-  },
-  {
-    "createdAt": "2025-09-22T18:01:37Z",
-    "stars": 78,
-    "name": "discountry/ritmex-bot",
-    "url": "https://github.com/discountry/ritmex-bot",
-    "lang": "TypeScript",
-    "desc": "Perp DEX trading bot."
+    "desc": "A unified tokenizer that is capable of both extracting semantic information and enabling high-fidelity audio reconstruction."
   }
 ]
