@@ -1,79 +1,47 @@
 [
   {
-    "createdAt": "2025-09-21T09:46:10Z",
-    "stars": 2202,
-    "name": "QwenLM/Qwen3-Omni",
-    "url": "https://github.com/QwenLM/Qwen3-Omni",
-    "lang": "Jupyter Notebook",
-    "desc": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time."
-  },
-  {
     "createdAt": "2025-09-23T01:58:21Z",
-    "stars": 2139,
+    "stars": 2350,
     "name": "JerryZLiu/Dayflow",
     "url": "https://github.com/JerryZLiu/Dayflow",
     "lang": "Swift",
     "desc": "Generate a timeline of your day, automatically"
   },
   {
-    "createdAt": "2025-09-20T08:29:29Z",
-    "stars": 1022,
-    "name": "MoonTechLab/Selene",
-    "url": "https://github.com/MoonTechLab/Selene",
-    "lang": "",
-    "desc": "一个以 MoonTV v100 版本 / Helios 为后端的 Android/iOS 客户端，针对移动端体验优化"
-  },
-  {
-    "createdAt": "2025-09-20T06:26:58Z",
-    "stars": 661,
-    "name": "yan5xu/ququ",
-    "url": "https://github.com/yan5xu/ququ",
-    "lang": "JavaScript",
-    "desc": "开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流"
-  },
-  {
-    "createdAt": "2025-09-23T03:08:49Z",
-    "stars": 583,
-    "name": "apple/ml-simplefold",
-    "url": "https://github.com/apple/ml-simplefold",
-    "lang": "Python",
-    "desc": ""
+    "createdAt": "2025-09-21T09:46:10Z",
+    "stars": 2283,
+    "name": "QwenLM/Qwen3-Omni",
+    "url": "https://github.com/QwenLM/Qwen3-Omni",
+    "lang": "Jupyter Notebook",
+    "desc": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time."
   },
   {
     "createdAt": "2025-09-26T09:07:20Z",
-    "stars": 563,
+    "stars": 964,
     "name": "subhashchy/The-Accidental-CTO",
     "url": "https://github.com/subhashchy/The-Accidental-CTO",
     "lang": "",
     "desc": "How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary "
   },
   {
-    "createdAt": "2025-09-21T01:21:06Z",
-    "stars": 530,
-    "name": "TwoSevenOneT/EDR-Freeze",
-    "url": "https://github.com/TwoSevenOneT/EDR-Freeze",
-    "lang": "C++",
-    "desc": "EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state."
-  },
-  {
     "createdAt": "2025-09-24T05:55:42Z",
-    "stars": 505,
+    "stars": 739,
     "name": "iChochy/NCE",
     "url": "https://github.com/iChochy/NCE",
     "lang": "JavaScript",
     "desc": "《新概念英语》全四册在线课文朗读、单句点读"
   },
   {
-    "createdAt": "2025-09-20T10:20:54Z",
-    "stars": 467,
-    "name": "OpenHelix-Team/VLA-Adapter",
-    "url": "https://github.com/OpenHelix-Team/VLA-Adapter",
+    "createdAt": "2025-09-23T03:08:49Z",
+    "stars": 677,
+    "name": "apple/ml-simplefold",
+    "url": "https://github.com/apple/ml-simplefold",
     "lang": "Python",
-    "desc": "VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action Model"
+    "desc": ""
   },
   {
     "createdAt": "2025-09-23T14:00:46Z",
-    "stars": 431,
+    "stars": 661,
     "name": "vercel-labs/coding-agent-template",
     "url": "https://github.com/vercel-labs/coding-agent-template",
     "lang": "TypeScript",
@@ -81,63 +49,303 @@
   },
   {
     "createdAt": "2025-09-26T14:53:47Z",
-    "stars": 358,
+    "stars": 583,
     "name": "yasadEv/spyder-osint",
     "url": "https://github.com/yasadEv/spyder-osint",
     "lang": "Python",
     "desc": "A powerful osint tool."
   },
   {
-    "createdAt": "2025-09-20T18:50:13Z",
-    "stars": 336,
-    "name": "bodadotsh/npm-security-best-practices",
-    "url": "https://github.com/bodadotsh/npm-security-best-practices",
-    "lang": "",
-    "desc": "How to stay safe from NPM supply chain attacks"
+    "createdAt": "2025-09-27T07:18:47Z",
+    "stars": 558,
+    "name": "Tencent-Hunyuan/HunyuanImage-3.0",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanImage-3.0",
+    "lang": "Python",
+    "desc": "HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation"
+  },
+  {
+    "createdAt": "2025-09-21T01:21:06Z",
+    "stars": 544,
+    "name": "TwoSevenOneT/EDR-Freeze",
+    "url": "https://github.com/TwoSevenOneT/EDR-Freeze",
+    "lang": "C++",
+    "desc": "EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state."
   },
   {
     "createdAt": "2025-09-23T19:11:56Z",
-    "stars": 279,
+    "stars": 305,
     "name": "apple/swift-configuration",
     "url": "https://github.com/apple/swift-configuration",
     "lang": "Swift",
     "desc": "API package for reading configuration."
   },
   {
-    "createdAt": "2025-09-20T20:57:01Z",
-    "stars": 262,
-    "name": "shlokkhemani/openpoke",
-    "url": "https://github.com/shlokkhemani/openpoke",
-    "lang": "Python",
-    "desc": "Open source implementation of Poke "
-  },
-  {
     "createdAt": "2025-09-24T19:15:53Z",
-    "stars": 250,
+    "stars": 278,
     "name": "duckpigdog/Sec-Interview",
     "url": "https://github.com/duckpigdog/Sec-Interview",
     "lang": "",
     "desc": "全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）"
   },
   {
-    "createdAt": "2025-09-22T16:45:12Z",
-    "stars": 220,
-    "name": "Plan-Vert/open-letter",
-    "url": "https://github.com/Plan-Vert/open-letter",
-    "lang": "",
-    "desc": "An open letter calling for a hard fork of Rails to remove DHH's influence"
+    "createdAt": "2025-09-22T15:20:20Z",
+    "stars": 278,
+    "name": "x007xyz/flycut-caption",
+    "url": "https://github.com/x007xyz/flycut-caption",
+    "lang": "TypeScript",
+    "desc": "A complete video subtitle editing React component with AI-powered speech recognition and visual editing capabilities."
   },
   {
     "createdAt": "2025-09-25T13:13:53Z",
-    "stars": 214,
+    "stars": 270,
     "name": "Tencent-Hunyuan/Hunyuan3D-Omni",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni",
     "lang": "Python",
     "desc": "Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets"
   },
   {
+    "createdAt": "2025-09-22T16:45:12Z",
+    "stars": 246,
+    "name": "Plan-Vert/open-letter",
+    "url": "https://github.com/Plan-Vert/open-letter",
+    "lang": "",
+    "desc": "An open letter calling for a hard fork of Rails to remove DHH's influence"
+  },
+  {
+    "createdAt": "2025-09-24T21:20:16Z",
+    "stars": 229,
+    "name": "bitox123/Wallpaper-Engine",
+    "url": "https://github.com/bitox123/Wallpaper-Engine",
+    "lang": "",
+    "desc": "Download Wallpaper Engine 2025 - Dynamic Live Wallpapers, 4K/8K Support, Interactive Scenes & Customization for Windows"
+  },
+  {
+    "createdAt": "2025-09-24T15:53:28Z",
+    "stars": 228,
+    "name": "shaman-aim/Nodepay-Bot",
+    "url": "https://github.com/shaman-aim/Nodepay-Bot",
+    "lang": "",
+    "desc": "Nodepay-AutoFarm Nodepay-Extension-Bot Nodepay-Bot Nodepay-Multiwallet nodepay-mining-bot nodepay-airdrop-bot"
+  },
+  {
+    "createdAt": "2025-09-25T18:34:28Z",
+    "stars": 228,
+    "name": "akaseh21/Hibachi-Trade",
+    "url": "https://github.com/akaseh21/Hibachi-Trade",
+    "lang": "",
+    "desc": "Hibachi.xyz - Advanced Multi-Chain DEX Aggregator & Yield Optimizer"
+  },
+  {
+    "createdAt": "2025-09-24T21:01:53Z",
+    "stars": 228,
+    "name": "Hiit461/Roblox-Wave-Executor",
+    "url": "https://github.com/Hiit461/Roblox-Wave-Executor",
+    "lang": "",
+    "desc": "wave-download zorara-download"
+  },
+  {
+    "createdAt": "2025-09-24T15:41:09Z",
+    "stars": 228,
+    "name": "abhisekdhanuki/getgrass-bot",
+    "url": "https://github.com/abhisekdhanuki/getgrass-bot",
+    "lang": "",
+    "desc": "- bot  - proxy  - farming  - grass  - automated  - airdrop  - solana  - getgrass-io  - getgrass  - getgrassnode  - getgrassmining  - getgrass-bot-miner  - getgrass-bot  - getgrass-auto-miner "
+  },
+  {
+    "createdAt": "2025-09-24T21:07:51Z",
+    "stars": 228,
+    "name": "Boinyidwende/Silent-Crypto-Miner",
+    "url": "https://github.com/Boinyidwende/Silent-Crypto-Miner",
+    "lang": "",
+    "desc": "crypto-mining  miner-crypto  crypto-miner-download miner-download miner-crypto-download silent-crypto-miner"
+  },
+  {
+    "createdAt": "2025-09-24T15:26:02Z",
+    "stars": 228,
+    "name": "deep850/krnl-for-roblox",
+    "url": "https://github.com/deep850/krnl-for-roblox",
+    "lang": "",
+    "desc": "wave-download zorara-download electron-executor benefits-of-electron-executor krnl"
+  },
+  {
+    "createdAt": "2025-09-24T15:45:25Z",
+    "stars": 228,
+    "name": "reyansh-66/Gradient-Network",
+    "url": "https://github.com/reyansh-66/Gradient-Network",
+    "lang": "",
+    "desc": "Gradient-crypto Gradient-tools Gradient-Reger Gradient-Farmer Gradient-Miner Gradient-Multireger"
+  },
+  {
+    "createdAt": "2025-09-24T15:21:42Z",
+    "stars": 228,
+    "name": "Kamikase645/Axie-Infinity",
+    "url": "https://github.com/Kamikase645/Axie-Infinity",
+    "lang": "",
+    "desc": "Download Axie Infinity Trainer Hack 2025 - Unlimited Energy, Auto Battle, SLP Farming & More Cheats"
+  },
+  {
+    "createdAt": "2025-09-24T15:16:22Z",
+    "stars": 228,
+    "name": "VienYToT/Alaska-Gold-Rush",
+    "url": "https://github.com/VienYToT/Alaska-Gold-Rush",
+    "lang": "",
+    "desc": "Download Alaska Gold Rush Hack 2025 - Unlimited Gold, Auto Mining & No Ban Trainer"
+  },
+  {
+    "createdAt": "2025-09-25T17:36:01Z",
+    "stars": 228,
+    "name": "234-634/Pacifica-DEX",
+    "url": "https://github.com/234-634/Pacifica-DEX",
+    "lang": "",
+    "desc": "Trade automatically on pacificaDEX and profit from trades and future airdrop"
+  },
+  {
+    "createdAt": "2025-09-24T21:04:54Z",
+    "stars": 228,
+    "name": "JCASTILLOC2920/seed-phrase-generator",
+    "url": "https://github.com/JCASTILLOC2920/seed-phrase-generator",
+    "lang": "",
+    "desc": "- crypto-bot  - crypto-trading  - seed-generator  - mnemonic-generator  - crypto-recovery  - crypto-bruteforce  - bitcoin-hacks  - ethereum-bruteforce  - miner-crypto "
+  },
+  {
+    "createdAt": "2025-09-24T15:29:36Z",
+    "stars": 228,
+    "name": "silwal007/CryptoDragon",
+    "url": "https://github.com/silwal007/CryptoDragon",
+    "lang": "",
+    "desc": "Download CryptoDragon Trainer Hack 2025 – Unlimited Resources, Auto-Battle & Dragon Evolution Cheats"
+  },
+  {
+    "createdAt": "2025-09-24T15:38:48Z",
+    "stars": 228,
+    "name": "sherlingxd/DAWN-Bot",
+    "url": "https://github.com/sherlingxd/DAWN-Bot",
+    "lang": "",
+    "desc": "DAWN-Reger DAWN-Farmer DAWN-Miner DAWN-Multireger DAWN-Multifarmer"
+  },
+  {
+    "createdAt": "2025-09-25T17:51:54Z",
+    "stars": 228,
+    "name": "olosd/Avantisfi-DEX-TRADING",
+    "url": "https://github.com/olosd/Avantisfi-DEX-TRADING",
+    "lang": "",
+    "desc": "AvantisFi Quantum Trader 2025 - AI-Powered DeFi Yield Optimizer"
+  },
+  {
+    "createdAt": "2025-09-25T18:05:21Z",
+    "stars": 228,
+    "name": "AbdulLaHRasH/lighter-TRADING",
+    "url": "https://github.com/AbdulLaHRasH/lighter-TRADING",
+    "lang": "",
+    "desc": "Lighter.xyz - Lightning Fast Crypto Derivatives & Perpetuals Exchange"
+  },
+  {
+    "createdAt": "2025-09-24T21:42:50Z",
+    "stars": 228,
+    "name": "IT24102373/FL-Studio",
+    "url": "https://github.com/IT24102373/FL-Studio",
+    "lang": "",
+    "desc": "Download FL Studio 2025 - Advanced DAW for Music Production with MIDI Editing, Audio Recording, Mixing, and Plugins"
+  },
+  {
+    "createdAt": "2025-09-24T21:34:43Z",
+    "stars": 228,
+    "name": "dev-ratul-hasan/The-Sandbox",
+    "url": "https://github.com/dev-ratul-hasan/The-Sandbox",
+    "lang": "",
+    "desc": "Download The Sandbox Trainer Hack 2025 - Unlimited Resources, Auto Farm & God Mode Cheat"
+  },
+  {
+    "createdAt": "2025-09-25T18:50:17Z",
+    "stars": 228,
+    "name": "alondark01/Aster-Protocol---Overview",
+    "url": "https://github.com/alondark01/Aster-Protocol---Overview",
+    "lang": "",
+    "desc": "Aster - Next-Generation Blockchain Orchestration Platform"
+  },
+  {
+    "createdAt": "2025-09-25T18:17:38Z",
+    "stars": 228,
+    "name": "mohammadalie/Ethereal-DEX-TRADING",
+    "url": "https://github.com/mohammadalie/Ethereal-DEX-TRADING",
+    "lang": "",
+    "desc": "Ethereal - Next-Generation Blockchain Infrastructure Platform"
+  },
+  {
+    "createdAt": "2025-09-24T15:50:04Z",
+    "stars": 228,
+    "name": "gagokapew/Monad-Bot",
+    "url": "https://github.com/gagokapew/Monad-Bot",
+    "lang": "",
+    "desc": "- nodejs  - node  - monad  - monad-bot  - monadscore  - monadscore-bot  - monadscore-auto-bot"
+  },
+  {
+    "createdAt": "2025-09-24T21:26:58Z",
+    "stars": 228,
+    "name": "X211-2/AutoHotkey",
+    "url": "https://github.com/X211-2/AutoHotkey",
+    "lang": "",
+    "desc": "Download AutoHotkey Scripting Mastery - Automate Keyboard Shortcuts, Hotkeys, Macros and GUI Automation in 2025"
+  },
+  {
+    "createdAt": "2025-09-24T15:23:25Z",
+    "stars": 228,
+    "name": "batipritam/electron-executor",
+    "url": "https://github.com/batipritam/electron-executor",
+    "lang": "",
+    "desc": "wave-download zorara-download electron-executor benefits-of-electron-executor"
+  },
+  {
+    "createdAt": "2025-09-24T15:35:59Z",
+    "stars": 228,
+    "name": "MKundaliya/Crypto-Farmers",
+    "url": "https://github.com/MKundaliya/Crypto-Farmers",
+    "lang": "",
+    "desc": "Download Crypto Farmers Trainer Hack 2025 – Unlimited Coins, Energy & Auto-Farming Cheats"
+  },
+  {
+    "createdAt": "2025-09-24T15:27:33Z",
+    "stars": 228,
+    "name": "Leon1988-2/BONK--Arena",
+    "url": "https://github.com/Leon1988-2/BONK--Arena",
+    "lang": "",
+    "desc": "Download BONK! Arena Trainer Hack 2025 - Unlimited Coins, Free Skins, God Mode & More Cheats"
+  },
+  {
+    "createdAt": "2025-09-24T15:47:32Z",
+    "stars": 228,
+    "name": "josue54lll/Grass-Desktop-Node",
+    "url": "https://github.com/josue54lll/Grass-Desktop-Node",
+    "lang": "",
+    "desc": "- Grass-Desktop-Node   - Grass-Farmer   - Grass-Miner   - Bandwidth-Mining   - Passive-Income-Bot   - Grass-Network-Automation   - Decentralized-VPN   - Web3-Earnings   - Crypto-Node-Software  "
+  },
+  {
+    "createdAt": "2025-09-24T21:14:51Z",
+    "stars": 228,
+    "name": "Wayzzxx/VoicemodPro",
+    "url": "https://github.com/Wayzzxx/VoicemodPro",
+    "lang": "",
+    "desc": "Download VoicemodPro - Real-Time Voice Changer, Soundboard & AI Voice Effects for Streamers & Gamers 2025"
+  },
+  {
+    "createdAt": "2025-09-26T11:15:43Z",
+    "stars": 221,
+    "name": "MrTurvey/flareprox",
+    "url": "https://github.com/MrTurvey/flareprox",
+    "lang": "Python",
+    "desc": "Use Cloudflare to create HTTP pass-through proxies for unique IP rotation, similar to fireprox"
+  },
+  {
+    "createdAt": "2025-09-26T14:16:12Z",
+    "stars": 215,
+    "name": "kyomber/grass-bot",
+    "url": "https://github.com/kyomber/grass-bot",
+    "lang": "Python",
+    "desc": "Grass automation python bot."
+  },
+  {
     "createdAt": "2025-09-23T08:13:20Z",
-    "stars": 202,
+    "stars": 209,
     "name": "QwenLM/Qwen3Guard",
     "url": "https://github.com/QwenLM/Qwen3Guard",
     "lang": "",
@@ -145,258 +353,50 @@
   },
   {
     "createdAt": "2025-09-21T12:28:03Z",
-    "stars": 195,
+    "stars": 202,
     "name": "meituan-longcat/LongCat-Flash-Thinking",
     "url": "https://github.com/meituan-longcat/LongCat-Flash-Thinking",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-22T15:20:20Z",
-    "stars": 192,
-    "name": "x007xyz/flycut-caption",
-    "url": "https://github.com/x007xyz/flycut-caption",
-    "lang": "TypeScript",
-    "desc": "A complete video subtitle editing React component with AI-powered speech recognition and visual editing capabilities."
-  },
-  {
-    "createdAt": "2025-09-21T04:42:13Z",
-    "stars": 188,
-    "name": "fish2018/YPrompt",
-    "url": "https://github.com/fish2018/YPrompt",
-    "lang": "TypeScript",
-    "desc": "通过对话挖掘用户需求，并自动生成专业的Prompt"
-  },
-  {
-    "createdAt": "2025-09-26T11:15:43Z",
-    "stars": 186,
-    "name": "MrTurvey/flareprox",
-    "url": "https://github.com/MrTurvey/flareprox",
-    "lang": "Python",
-    "desc": "Use Cloudflare to create HTTP pass-through proxies for unique IP rotation, similar to fireprox"
-  },
-  {
     "createdAt": "2025-09-24T13:13:40Z",
-    "stars": 177,
+    "stars": 198,
     "name": "goudvuur/sonshell",
     "url": "https://github.com/goudvuur/sonshell",
     "lang": "C++",
     "desc": "An effort to \"ssh into my Sony camera\""
   },
   {
-    "createdAt": "2025-09-26T14:38:01Z",
-    "stars": 167,
-    "name": "kyomber/PharosTestnet-Bot",
-    "url": "https://github.com/kyomber/PharosTestnet-Bot",
-    "lang": "Python",
-    "desc": "Automation bot for pharos testnet"
-  },
-  {
-    "createdAt": "2025-09-22T02:54:59Z",
-    "stars": 163,
-    "name": "uni-medical/Project-Imaging-X",
-    "url": "https://github.com/uni-medical/Project-Imaging-X",
-    "lang": "",
-    "desc": "Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development"
-  },
-  {
-    "createdAt": "2025-09-20T12:47:29Z",
-    "stars": 155,
-    "name": "surajverma/homehub",
-    "url": "https://github.com/surajverma/homehub",
-    "lang": "HTML",
-    "desc": "A lightweight, no-login, self-hosted family utility for your home."
-  },
-  {
-    "createdAt": "2025-09-21T05:55:01Z",
-    "stars": 149,
-    "name": "cjh-store/cc-cli",
-    "url": "https://github.com/cjh-store/cc-cli",
-    "lang": "JavaScript",
-    "desc": "claude code工具集合"
-  },
-  {
     "createdAt": "2025-09-25T13:14:55Z",
-    "stars": 144,
+    "stars": 197,
     "name": "Tencent-Hunyuan/Hunyuan3D-Part",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-Part",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-22T16:17:25Z",
-    "stars": 139,
-    "name": "kijai/ComfyUI-WanAnimatePreprocess",
-    "url": "https://github.com/kijai/ComfyUI-WanAnimatePreprocess",
-    "lang": "Python",
-    "desc": "ComfyUI nodes for WanAnimate model input preprocessing"
-  },
-  {
-    "createdAt": "2025-09-20T05:40:35Z",
-    "stars": 138,
-    "name": "visualmimic/VisualMimic",
-    "url": "https://github.com/visualmimic/VisualMimic",
-    "lang": "Python",
-    "desc": "[arXiv 2025] VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation"
-  },
-  {
-    "createdAt": "2025-09-20T13:29:02Z",
-    "stars": 130,
-    "name": "CyberSecurityUP/n8n-CyberSecurity-Workflows",
-    "url": "https://github.com/CyberSecurityUP/n8n-CyberSecurity-Workflows",
-    "lang": "",
-    "desc": "Security automation with n8n ideas: 100+ Red/Blue/AppSec workflows, integrations, and ready-to-run playbooks."
-  },
-  {
-    "createdAt": "2025-09-22T18:01:37Z",
-    "stars": 129,
-    "name": "discountry/ritmex-bot",
-    "url": "https://github.com/discountry/ritmex-bot",
-    "lang": "TypeScript",
-    "desc": "Perp DEX trading bot."
-  },
-  {
-    "createdAt": "2025-09-26T19:38:47Z",
-    "stars": 128,
-    "name": "RomriellBazan2835/warzone-cheat",
-    "url": "https://github.com/RomriellBazan2835/warzone-cheat",
-    "lang": "",
-    "desc": "Warzone Cheat toolkit: refined aimbot, ESP overlays, wall vision, unlock system and radar. Improve aim, awareness, and strategy in Warzone matches."
-  },
-  {
-    "createdAt": "2025-09-23T02:13:59Z",
-    "stars": 126,
-    "name": "Tsinghua-MARS-Lab/SLAM-Former",
-    "url": "https://github.com/Tsinghua-MARS-Lab/SLAM-Former",
-    "lang": "",
-    "desc": "SLAM-Former: Putting SLAM into One Transformer"
-  },
-  {
-    "createdAt": "2025-09-22T11:11:04Z",
-    "stars": 125,
-    "name": "xiyuhang2003/E-problem",
-    "url": "https://github.com/xiyuhang2003/E-problem",
-    "lang": "Python",
-    "desc": "2025年中国研究生数学建模竞赛E题：高速列车轴承智能故障诊断"
-  },
-  {
-    "createdAt": "2025-09-22T23:19:46Z",
-    "stars": 123,
-    "name": "Minibattle/Super-Mario-3D-All-Stars-Deluxe",
-    "url": "https://github.com/Minibattle/Super-Mario-3D-All-Stars-Deluxe",
-    "lang": "",
-    "desc": "Super Mario 3D All-Stars adapted for PC giving a better experience then what's possible on switch"
-  },
-  {
     "createdAt": "2025-09-24T09:36:23Z",
-    "stars": 121,
+    "stars": 191,
     "name": "jd-opensource/JoySafety",
     "url": "https://github.com/jd-opensource/JoySafety",
     "lang": "Java",
     "desc": "JoySafety"
   },
   {
-    "createdAt": "2025-09-26T08:41:42Z",
-    "stars": 120,
-    "name": "elegooofficial/CentauriCarbon",
-    "url": "https://github.com/elegooofficial/CentauriCarbon",
-    "lang": "C",
-    "desc": "Learn more about ELEGOO Centauri Carbon 3D printer: https://www.elegoo.com/products/centauri-carbon"
-  },
-  {
-    "createdAt": "2025-09-24T20:45:10Z",
-    "stars": 113,
-    "name": "hackerhouse-opensource/SetupHijack",
-    "url": "https://github.com/hackerhouse-opensource/SetupHijack",
-    "lang": "C++",
-    "desc": "SetupHijack is a security research tool that exploits race conditions and insecure file handling in Windows applications installer and update processes."
-  },
-  {
-    "createdAt": "2025-09-22T07:04:15Z",
-    "stars": 112,
-    "name": "M1ndo/WerDump",
-    "url": "https://github.com/M1ndo/WerDump",
-    "lang": "C",
-    "desc": "A Beacon Object File (BOF) for Havoc/CS to Bypass PPL and Dump Lsass"
-  },
-  {
-    "createdAt": "2025-09-20T19:12:20Z",
-    "stars": 112,
-    "name": "tsoding/button",
-    "url": "https://github.com/tsoding/button",
-    "lang": "JavaScript",
-    "desc": "Just a Website with a Button"
-  },
-  {
-    "createdAt": "2025-09-26T07:36:39Z",
-    "stars": 111,
-    "name": "93won/lidar_odometry",
-    "url": "https://github.com/93won/lidar_odometry",
-    "lang": "C++",
-    "desc": "Probabilistic Kernel Optimization for Robust State Estimation"
-  },
-  {
-    "createdAt": "2025-09-21T09:46:21Z",
-    "stars": 107,
-    "name": "syxanash/maxheadbox",
-    "url": "https://github.com/syxanash/maxheadbox",
-    "lang": "JavaScript",
-    "desc": "Tiny truly local voice-activated LLM Agent that runs on a Raspberry Pi"
-  },
-  {
-    "createdAt": "2025-09-20T07:42:56Z",
-    "stars": 105,
-    "name": "Wemino/MarkerPatch",
-    "url": "https://github.com/Wemino/MarkerPatch",
-    "lang": "C++",
-    "desc": " A patch that fixes various issues and limitations in the PC port of Dead Space 2"
-  },
-  {
-    "createdAt": "2025-09-22T08:49:42Z",
-    "stars": 104,
-    "name": "iKeepLearn/db-back-tool",
-    "url": "https://github.com/iKeepLearn/db-back-tool",
-    "lang": "Rust",
-    "desc": "postgresql、mysql数据库备份并上传到腾讯云或者阿里云或兼容S3协议的其他云存储，同时可列出、删除云上存储的备份文件。"
-  },
-  {
-    "createdAt": "2025-09-22T00:18:20Z",
-    "stars": 103,
-    "name": "SciML/Julia_Modeling_Workshop",
-    "url": "https://github.com/SciML/Julia_Modeling_Workshop",
-    "lang": "HTML",
-    "desc": "High-Performance Scientific Modeling with Julia and SciML"
-  },
-  {
-    "createdAt": "2025-09-22T15:06:33Z",
-    "stars": 101,
-    "name": "hubhubgogo/AI-model-comparison",
-    "url": "https://github.com/hubhubgogo/AI-model-comparison",
-    "lang": "JavaScript",
-    "desc": "🤖 A beautiful web tool for comparing AI model responses side-by-side. Test prompts across different LLMs and find the best model for your needs."
-  },
-  {
-    "createdAt": "2025-09-25T09:27:35Z",
-    "stars": 101,
-    "name": "perplexityai/search_evals",
-    "url": "https://github.com/perplexityai/search_evals",
-    "lang": "Python",
-    "desc": "Batteries-included eval framework for search APIs"
-  },
-  {
-    "createdAt": "2025-09-23T00:07:21Z",
-    "stars": 101,
-    "name": "MatheuZSecurity/Singularity",
-    "url": "https://github.com/MatheuZSecurity/Singularity",
-    "lang": "C",
-    "desc": "LKM rootkit for modern kernels (6x)"
-  },
-  {
-    "createdAt": "2025-09-21T07:08:24Z",
-    "stars": 99,
-    "name": "gsnoopy/react-old-icons",
-    "url": "https://github.com/gsnoopy/react-old-icons",
+    "createdAt": "2025-09-21T04:42:13Z",
+    "stars": 189,
+    "name": "fish2018/YPrompt",
+    "url": "https://github.com/fish2018/YPrompt",
     "lang": "TypeScript",
-    "desc": "  React component library for vintage icons from classic games, software and operating systems"
+    "desc": "通过对话挖掘用户需求，并自动生成专业的提示词 https://yprompt.pages.dev"
+  },
+  {
+    "createdAt": "2025-09-22T02:54:59Z",
+    "stars": 168,
+    "name": "uni-medical/Project-Imaging-X",
+    "url": "https://github.com/uni-medical/Project-Imaging-X",
+    "lang": "",
+    "desc": "Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development"
   }
 ]
