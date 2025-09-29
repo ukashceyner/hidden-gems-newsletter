@@ -1,95 +1,79 @@
 [
   {
     "createdAt": "2025-09-23T01:58:21Z",
-    "stars": 2350,
+    "stars": 2539,
     "name": "JerryZLiu/Dayflow",
     "url": "https://github.com/JerryZLiu/Dayflow",
     "lang": "Swift",
     "desc": "Generate a timeline of your day, automatically"
   },
   {
-    "createdAt": "2025-09-21T09:46:10Z",
-    "stars": 2283,
-    "name": "QwenLM/Qwen3-Omni",
-    "url": "https://github.com/QwenLM/Qwen3-Omni",
-    "lang": "Jupyter Notebook",
-    "desc": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time."
-  },
-  {
     "createdAt": "2025-09-26T09:07:20Z",
-    "stars": 964,
+    "stars": 1231,
     "name": "subhashchy/The-Accidental-CTO",
     "url": "https://github.com/subhashchy/The-Accidental-CTO",
     "lang": "",
     "desc": "How I Scaled from Zero to a Million Store on Dukaan,  Without a CS Degree.  .. A System Design Handbook by  Subhash Choudhary "
   },
   {
-    "createdAt": "2025-09-24T05:55:42Z",
-    "stars": 739,
-    "name": "iChochy/NCE",
-    "url": "https://github.com/iChochy/NCE",
-    "lang": "JavaScript",
-    "desc": "《新概念英语》全四册在线课文朗读、单句点读"
-  },
-  {
-    "createdAt": "2025-09-23T03:08:49Z",
-    "stars": 677,
-    "name": "apple/ml-simplefold",
-    "url": "https://github.com/apple/ml-simplefold",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-09-23T14:00:46Z",
-    "stars": 661,
+    "stars": 815,
     "name": "vercel-labs/coding-agent-template",
     "url": "https://github.com/vercel-labs/coding-agent-template",
     "lang": "TypeScript",
     "desc": "Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway"
   },
   {
-    "createdAt": "2025-09-26T14:53:47Z",
-    "stars": 583,
-    "name": "yasadEv/spyder-osint",
-    "url": "https://github.com/yasadEv/spyder-osint",
-    "lang": "Python",
-    "desc": "A powerful osint tool."
+    "createdAt": "2025-09-24T05:55:42Z",
+    "stars": 810,
+    "name": "iChochy/NCE",
+    "url": "https://github.com/iChochy/NCE",
+    "lang": "JavaScript",
+    "desc": "《新概念英语》全四册在线课文朗读、单句点读"
   },
   {
     "createdAt": "2025-09-27T07:18:47Z",
-    "stars": 558,
+    "stars": 803,
     "name": "Tencent-Hunyuan/HunyuanImage-3.0",
     "url": "https://github.com/Tencent-Hunyuan/HunyuanImage-3.0",
     "lang": "Python",
     "desc": "HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation"
   },
   {
-    "createdAt": "2025-09-21T01:21:06Z",
-    "stars": 544,
-    "name": "TwoSevenOneT/EDR-Freeze",
-    "url": "https://github.com/TwoSevenOneT/EDR-Freeze",
-    "lang": "C++",
-    "desc": "EDR-Freeze is a tool that puts a process of EDR, AntiMalware into a coma state."
+    "createdAt": "2025-09-23T03:08:49Z",
+    "stars": 729,
+    "name": "apple/ml-simplefold",
+    "url": "https://github.com/apple/ml-simplefold",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-29T03:25:13Z",
+    "stars": 426,
+    "name": "deepseek-ai/DeepSeek-V3.2-Exp",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-22T22:39:24Z",
+    "stars": 353,
+    "name": "NVlabs/LongLive",
+    "url": "https://github.com/NVlabs/LongLive",
+    "lang": "Python",
+    "desc": "Real-time Interactive Long Video Generation"
   },
   {
     "createdAt": "2025-09-23T19:11:56Z",
-    "stars": 305,
+    "stars": 338,
     "name": "apple/swift-configuration",
     "url": "https://github.com/apple/swift-configuration",
     "lang": "Swift",
     "desc": "API package for reading configuration."
   },
   {
-    "createdAt": "2025-09-24T19:15:53Z",
-    "stars": 278,
-    "name": "duckpigdog/Sec-Interview",
-    "url": "https://github.com/duckpigdog/Sec-Interview",
-    "lang": "",
-    "desc": "全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）"
-  },
-  {
     "createdAt": "2025-09-22T15:20:20Z",
-    "stars": 278,
+    "stars": 319,
     "name": "x007xyz/flycut-caption",
     "url": "https://github.com/x007xyz/flycut-caption",
     "lang": "TypeScript",
@@ -97,19 +81,51 @@
   },
   {
     "createdAt": "2025-09-25T13:13:53Z",
-    "stars": 270,
+    "stars": 319,
     "name": "Tencent-Hunyuan/Hunyuan3D-Omni",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni",
     "lang": "Python",
     "desc": "Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets"
   },
   {
+    "createdAt": "2025-09-24T19:15:53Z",
+    "stars": 293,
+    "name": "duckpigdog/Sec-Interview",
+    "url": "https://github.com/duckpigdog/Sec-Interview",
+    "lang": "",
+    "desc": "全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）"
+  },
+  {
+    "createdAt": "2025-09-26T11:15:43Z",
+    "stars": 279,
+    "name": "MrTurvey/flareprox",
+    "url": "https://github.com/MrTurvey/flareprox",
+    "lang": "Python",
+    "desc": "Use Cloudflare to create HTTP pass-through proxies for unique IP rotation, similar to fireprox"
+  },
+  {
     "createdAt": "2025-09-22T16:45:12Z",
-    "stars": 246,
+    "stars": 273,
     "name": "Plan-Vert/open-letter",
     "url": "https://github.com/Plan-Vert/open-letter",
     "lang": "",
     "desc": "An open letter calling for a hard fork of Rails to remove DHH's influence"
+  },
+  {
+    "createdAt": "2025-09-26T10:26:48Z",
+    "stars": 248,
+    "name": "folke/sidekick.nvim",
+    "url": "https://github.com/folke/sidekick.nvim",
+    "lang": "Lua",
+    "desc": "Your Neovim AI sidekick"
+  },
+  {
+    "createdAt": "2025-09-24T09:36:23Z",
+    "stars": 235,
+    "name": "jd-opensource/JoySafety",
+    "url": "https://github.com/jd-opensource/JoySafety",
+    "lang": "Java",
+    "desc": "JoySafety"
   },
   {
     "createdAt": "2025-09-24T21:20:16Z",
@@ -118,6 +134,14 @@
     "url": "https://github.com/bitox123/Wallpaper-Engine",
     "lang": "",
     "desc": "Download Wallpaper Engine 2025 - Dynamic Live Wallpapers, 4K/8K Support, Interactive Scenes & Customization for Windows"
+  },
+  {
+    "createdAt": "2025-09-29T10:43:21Z",
+    "stars": 229,
+    "name": "juxtopposed/Mystical-Blue-Theme",
+    "url": "https://github.com/juxtopposed/Mystical-Blue-Theme",
+    "lang": "",
+    "desc": "KDE Plasma 6 Blue Theme"
   },
   {
     "createdAt": "2025-09-24T15:53:28Z",
@@ -136,14 +160,6 @@
     "desc": "Hibachi.xyz - Advanced Multi-Chain DEX Aggregator & Yield Optimizer"
   },
   {
-    "createdAt": "2025-09-24T21:01:53Z",
-    "stars": 228,
-    "name": "Hiit461/Roblox-Wave-Executor",
-    "url": "https://github.com/Hiit461/Roblox-Wave-Executor",
-    "lang": "",
-    "desc": "wave-download zorara-download"
-  },
-  {
     "createdAt": "2025-09-24T15:41:09Z",
     "stars": 228,
     "name": "abhisekdhanuki/getgrass-bot",
@@ -158,14 +174,6 @@
     "url": "https://github.com/Boinyidwende/Silent-Crypto-Miner",
     "lang": "",
     "desc": "crypto-mining  miner-crypto  crypto-miner-download miner-download miner-crypto-download silent-crypto-miner"
-  },
-  {
-    "createdAt": "2025-09-24T15:26:02Z",
-    "stars": 228,
-    "name": "deep850/krnl-for-roblox",
-    "url": "https://github.com/deep850/krnl-for-roblox",
-    "lang": "",
-    "desc": "wave-download zorara-download electron-executor benefits-of-electron-executor krnl"
   },
   {
     "createdAt": "2025-09-24T15:45:25Z",
@@ -288,14 +296,6 @@
     "desc": "Download AutoHotkey Scripting Mastery - Automate Keyboard Shortcuts, Hotkeys, Macros and GUI Automation in 2025"
   },
   {
-    "createdAt": "2025-09-24T15:23:25Z",
-    "stars": 228,
-    "name": "batipritam/electron-executor",
-    "url": "https://github.com/batipritam/electron-executor",
-    "lang": "",
-    "desc": "wave-download zorara-download electron-executor benefits-of-electron-executor"
-  },
-  {
     "createdAt": "2025-09-24T15:35:59Z",
     "stars": 228,
     "name": "MKundaliya/Crypto-Farmers",
@@ -328,75 +328,75 @@
     "desc": "Download VoicemodPro - Real-Time Voice Changer, Soundboard & AI Voice Effects for Streamers & Gamers 2025"
   },
   {
-    "createdAt": "2025-09-26T11:15:43Z",
-    "stars": 221,
-    "name": "MrTurvey/flareprox",
-    "url": "https://github.com/MrTurvey/flareprox",
-    "lang": "Python",
-    "desc": "Use Cloudflare to create HTTP pass-through proxies for unique IP rotation, similar to fireprox"
-  },
-  {
-    "createdAt": "2025-09-26T14:16:12Z",
-    "stars": 215,
-    "name": "kyomber/grass-bot",
-    "url": "https://github.com/kyomber/grass-bot",
-    "lang": "Python",
-    "desc": "Grass automation python bot."
-  },
-  {
-    "createdAt": "2025-09-23T08:13:20Z",
-    "stars": 209,
-    "name": "QwenLM/Qwen3Guard",
-    "url": "https://github.com/QwenLM/Qwen3Guard",
-    "lang": "",
-    "desc": "Qwen3Guard is a multilingual guardrail model series developed by the Qwen team at Alibaba Cloud."
-  },
-  {
-    "createdAt": "2025-09-21T12:28:03Z",
-    "stars": 202,
-    "name": "meituan-longcat/LongCat-Flash-Thinking",
-    "url": "https://github.com/meituan-longcat/LongCat-Flash-Thinking",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-24T13:13:40Z",
-    "stars": 198,
-    "name": "goudvuur/sonshell",
-    "url": "https://github.com/goudvuur/sonshell",
-    "lang": "C++",
-    "desc": "An effort to \"ssh into my Sony camera\""
-  },
-  {
     "createdAt": "2025-09-25T13:14:55Z",
-    "stars": 197,
+    "stars": 226,
     "name": "Tencent-Hunyuan/Hunyuan3D-Part",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-Part",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-24T09:36:23Z",
-    "stars": 191,
-    "name": "jd-opensource/JoySafety",
-    "url": "https://github.com/jd-opensource/JoySafety",
-    "lang": "Java",
-    "desc": "JoySafety"
+    "createdAt": "2025-09-23T08:13:20Z",
+    "stars": 223,
+    "name": "QwenLM/Qwen3Guard",
+    "url": "https://github.com/QwenLM/Qwen3Guard",
+    "lang": "",
+    "desc": "Qwen3Guard is a multilingual guardrail model series developed by the Qwen team at Alibaba Cloud."
   },
   {
-    "createdAt": "2025-09-21T04:42:13Z",
-    "stars": 189,
-    "name": "fish2018/YPrompt",
-    "url": "https://github.com/fish2018/YPrompt",
-    "lang": "TypeScript",
-    "desc": "通过对话挖掘用户需求，并自动生成专业的提示词 https://yprompt.pages.dev"
+    "createdAt": "2025-09-24T13:13:40Z",
+    "stars": 204,
+    "name": "goudvuur/sonshell",
+    "url": "https://github.com/goudvuur/sonshell",
+    "lang": "C++",
+    "desc": "An effort to \"ssh into my Sony camera\""
+  },
+  {
+    "createdAt": "2025-09-23T02:13:59Z",
+    "stars": 185,
+    "name": "Tsinghua-MARS-Lab/SLAM-Former",
+    "url": "https://github.com/Tsinghua-MARS-Lab/SLAM-Former",
+    "lang": "",
+    "desc": "SLAM-Former: Putting SLAM into One Transformer"
+  },
+  {
+    "createdAt": "2025-09-26T07:36:39Z",
+    "stars": 180,
+    "name": "93won/lidar_odometry",
+    "url": "https://github.com/93won/lidar_odometry",
+    "lang": "C++",
+    "desc": "Probabilistic Kernel Optimization for Robust State Estimation"
   },
   {
     "createdAt": "2025-09-22T02:54:59Z",
-    "stars": 168,
+    "stars": 178,
     "name": "uni-medical/Project-Imaging-X",
     "url": "https://github.com/uni-medical/Project-Imaging-X",
     "lang": "",
     "desc": "Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development"
+  },
+  {
+    "createdAt": "2025-09-23T00:07:21Z",
+    "stars": 171,
+    "name": "MatheuZSecurity/Singularity",
+    "url": "https://github.com/MatheuZSecurity/Singularity",
+    "lang": "C",
+    "desc": "LKM rootkit for modern kernels (6x)"
+  },
+  {
+    "createdAt": "2025-09-22T04:15:44Z",
+    "stars": 161,
+    "name": "jfernandez/mdserve",
+    "url": "https://github.com/jfernandez/mdserve",
+    "lang": "Rust",
+    "desc": "Fast markdown preview server with live reload and theme support."
+  },
+  {
+    "createdAt": "2025-09-23T14:59:13Z",
+    "stars": 160,
+    "name": "eventuat/gujum",
+    "url": "https://github.com/eventuat/gujum",
+    "lang": "TypeScript",
+    "desc": "junst"
   }
 ]
