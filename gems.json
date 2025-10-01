@@ -1,15 +1,7 @@
 [
   {
-    "createdAt": "2025-09-23T01:58:21Z",
-    "stars": 2703,
-    "name": "JerryZLiu/Dayflow",
-    "url": "https://github.com/JerryZLiu/Dayflow",
-    "lang": "Swift",
-    "desc": "Generate a timeline of your day, automatically"
-  },
-  {
     "createdAt": "2025-09-26T09:07:20Z",
-    "stars": 1488,
+    "stars": 1614,
     "name": "subhashchy/The-Accidental-CTO",
     "url": "https://github.com/subhashchy/The-Accidental-CTO",
     "lang": "",
@@ -17,55 +9,55 @@
   },
   {
     "createdAt": "2025-09-27T07:18:47Z",
-    "stars": 1415,
+    "stars": 1561,
     "name": "Tencent-Hunyuan/HunyuanImage-3.0",
     "url": "https://github.com/Tencent-Hunyuan/HunyuanImage-3.0",
     "lang": "Python",
     "desc": "HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation"
   },
   {
-    "createdAt": "2025-09-24T05:55:42Z",
-    "stars": 876,
-    "name": "iChochy/NCE",
-    "url": "https://github.com/iChochy/NCE",
-    "lang": "JavaScript",
-    "desc": "《新概念英语》全四册在线课文朗读、单句点读"
-  },
-  {
-    "createdAt": "2025-09-23T14:00:46Z",
-    "stars": 850,
-    "name": "vercel-labs/coding-agent-template",
-    "url": "https://github.com/vercel-labs/coding-agent-template",
-    "lang": "TypeScript",
-    "desc": "Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway"
-  },
-  {
-    "createdAt": "2025-09-23T03:08:49Z",
-    "stars": 771,
-    "name": "apple/ml-simplefold",
-    "url": "https://github.com/apple/ml-simplefold",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-29T03:25:13Z",
-    "stars": 678,
-    "name": "deepseek-ai/DeepSeek-V3.2-Exp",
-    "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-09-26T10:26:48Z",
-    "stars": 548,
+    "stars": 930,
     "name": "folke/sidekick.nvim",
     "url": "https://github.com/folke/sidekick.nvim",
     "lang": "Lua",
     "desc": "Your Neovim AI sidekick"
   },
   {
+    "createdAt": "2025-09-24T05:55:42Z",
+    "stars": 903,
+    "name": "iChochy/NCE",
+    "url": "https://github.com/iChochy/NCE",
+    "lang": "JavaScript",
+    "desc": "《新概念英语》全四册在线课文朗读、单句点读"
+  },
+  {
+    "createdAt": "2025-09-29T03:25:13Z",
+    "stars": 737,
+    "name": "deepseek-ai/DeepSeek-V3.2-Exp",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-28T13:28:51Z",
+    "stars": 686,
+    "name": "midudev/jscamp",
+    "url": "https://github.com/midudev/jscamp",
+    "lang": "CSS",
+    "desc": "Contenido y ejercicios del JSCamp InfoJobs"
+  },
+  {
+    "createdAt": "2025-09-29T15:17:14Z",
+    "stars": 570,
+    "name": "gumot0/spyder-osint",
+    "url": "https://github.com/gumot0/spyder-osint",
+    "lang": "Python",
+    "desc": "An advanced multi-functional osint tool"
+  },
+  {
     "createdAt": "2025-09-29T04:09:29Z",
-    "stars": 420,
+    "stars": 506,
     "name": "agentic-commerce-protocol/agentic-commerce-protocol",
     "url": "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol",
     "lang": "",
@@ -73,47 +65,47 @@
   },
   {
     "createdAt": "2025-09-29T10:43:21Z",
-    "stars": 392,
+    "stars": 469,
     "name": "juxtopposed/Mystical-Blue-Theme",
     "url": "https://github.com/juxtopposed/Mystical-Blue-Theme",
     "lang": "",
     "desc": "KDE Plasma 6 Blue Theme"
   },
   {
+    "createdAt": "2025-09-30T12:05:01Z",
+    "stars": 443,
+    "name": "pathwaycom/bdh",
+    "url": "https://github.com/pathwaycom/bdh",
+    "lang": "Python",
+    "desc": "Baby Dragon Hatchling (BDH) – Architecture and Code"
+  },
+  {
     "createdAt": "2025-09-28T13:23:19Z",
-    "stars": 376,
+    "stars": 436,
     "name": "sammyuri/craftgpt",
     "url": "https://github.com/sammyuri/craftgpt",
     "lang": "Python",
     "desc": "Small language model built in Minecraft."
   },
   {
-    "createdAt": "2025-09-23T19:11:56Z",
-    "stars": 360,
-    "name": "apple/swift-configuration",
-    "url": "https://github.com/apple/swift-configuration",
-    "lang": "Swift",
-    "desc": "API package for reading configuration."
-  },
-  {
-    "createdAt": "2025-09-25T13:13:53Z",
-    "stars": 344,
-    "name": "Tencent-Hunyuan/Hunyuan3D-Omni",
-    "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni",
-    "lang": "Python",
-    "desc": "Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets"
-  },
-  {
     "createdAt": "2025-09-26T11:15:43Z",
-    "stars": 338,
+    "stars": 409,
     "name": "MrTurvey/flareprox",
     "url": "https://github.com/MrTurvey/flareprox",
     "lang": "Python",
     "desc": "Use Cloudflare to create HTTP pass-through proxies for unique IP rotation, similar to fireprox"
   },
   {
+    "createdAt": "2025-09-25T13:13:53Z",
+    "stars": 358,
+    "name": "Tencent-Hunyuan/Hunyuan3D-Omni",
+    "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni",
+    "lang": "Python",
+    "desc": "Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets"
+  },
+  {
     "createdAt": "2025-09-24T19:15:53Z",
-    "stars": 301,
+    "stars": 304,
     "name": "duckpigdog/Sec-Interview",
     "url": "https://github.com/duckpigdog/Sec-Interview",
     "lang": "",
@@ -121,7 +113,7 @@
   },
   {
     "createdAt": "2025-09-24T09:36:23Z",
-    "stars": 246,
+    "stars": 252,
     "name": "jd-opensource/JoySafety",
     "url": "https://github.com/jd-opensource/JoySafety",
     "lang": "Java",
@@ -129,19 +121,11 @@
   },
   {
     "createdAt": "2025-09-25T13:14:55Z",
-    "stars": 234,
+    "stars": 243,
     "name": "Tencent-Hunyuan/Hunyuan3D-Part",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-Part",
     "lang": "Python",
     "desc": ""
-  },
-  {
-    "createdAt": "2025-09-23T08:13:20Z",
-    "stars": 231,
-    "name": "QwenLM/Qwen3Guard",
-    "url": "https://github.com/QwenLM/Qwen3Guard",
-    "lang": "",
-    "desc": "Qwen3Guard is a multilingual guardrail model series developed by the Qwen team at Alibaba Cloud."
   },
   {
     "createdAt": "2025-09-24T21:20:16Z",
@@ -214,14 +198,6 @@
     "url": "https://github.com/234-634/Pacifica-DEX",
     "lang": "",
     "desc": "Trade automatically on pacificaDEX and profit from trades and future airdrop"
-  },
-  {
-    "createdAt": "2025-09-24T21:04:54Z",
-    "stars": 228,
-    "name": "JCASTILLOC2920/seed-phrase-generator",
-    "url": "https://github.com/JCASTILLOC2920/seed-phrase-generator",
-    "lang": "",
-    "desc": "- crypto-bot  - crypto-trading  - seed-generator  - mnemonic-generator  - crypto-recovery  - crypto-bruteforce  - bitcoin-hacks  - ethereum-bruteforce  - miner-crypto "
   },
   {
     "createdAt": "2025-09-24T15:29:36Z",
@@ -336,56 +312,32 @@
     "desc": "Download VoicemodPro - Real-Time Voice Changer, Soundboard & AI Voice Effects for Streamers & Gamers 2025"
   },
   {
-    "createdAt": "2025-09-29T10:25:07Z",
-    "stars": 208,
-    "name": "Shampur28/SDA23S",
-    "url": "https://github.com/Shampur28/SDA23S",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-23T00:07:21Z",
-    "stars": 204,
-    "name": "MatheuZSecurity/Singularity",
-    "url": "https://github.com/MatheuZSecurity/Singularity",
-    "lang": "C",
-    "desc": "LKM rootkit for modern kernels (6x)"
-  },
-  {
-    "createdAt": "2025-09-24T13:13:40Z",
-    "stars": 204,
-    "name": "goudvuur/sonshell",
-    "url": "https://github.com/goudvuur/sonshell",
-    "lang": "C++",
-    "desc": "An effort to \"ssh into my Sony camera\""
-  },
-  {
-    "createdAt": "2025-09-23T02:13:59Z",
-    "stars": 202,
-    "name": "Tsinghua-MARS-Lab/SLAM-Former",
-    "url": "https://github.com/Tsinghua-MARS-Lab/SLAM-Former",
-    "lang": "",
-    "desc": "SLAM-Former: Putting SLAM into One Transformer"
+    "createdAt": "2025-09-29T14:50:39Z",
+    "stars": 219,
+    "name": "haspread/grass-bot",
+    "url": "https://github.com/haspread/grass-bot",
+    "lang": "Python",
+    "desc": "Grass automation python bot"
   },
   {
     "createdAt": "2025-09-26T07:36:39Z",
-    "stars": 193,
+    "stars": 208,
     "name": "93won/lidar_odometry",
     "url": "https://github.com/93won/lidar_odometry",
     "lang": "C++",
     "desc": "Probabilistic Kernel Optimization for Robust State Estimation"
   },
   {
-    "createdAt": "2025-09-30T14:03:35Z",
-    "stars": 177,
-    "name": "RomriellBazan2835/cod-warzone-cheat",
-    "url": "https://github.com/RomriellBazan2835/cod-warzone-cheat",
-    "lang": "",
-    "desc": "Warzone Cheat is a complete enhancement suite for Call of Duty: Warzone. Features include precision aimbot, ESP overlays, radar, wall vision, and unlock tools. Designed for stability and customization, it improves accuracy, awareness, and strategic play, helping players perform confidently in every match."
+    "createdAt": "2025-09-24T13:13:40Z",
+    "stars": 207,
+    "name": "goudvuur/sonshell",
+    "url": "https://github.com/goudvuur/sonshell",
+    "lang": "C++",
+    "desc": "An effort to \"ssh into my Sony camera\""
   },
   {
     "createdAt": "2025-09-24T20:45:10Z",
-    "stars": 176,
+    "stars": 192,
     "name": "hackerhouse-opensource/SetupHijack",
     "url": "https://github.com/hackerhouse-opensource/SetupHijack",
     "lang": "C++",
@@ -393,10 +345,58 @@
   },
   {
     "createdAt": "2025-09-24T01:41:12Z",
-    "stars": 175,
+    "stars": 182,
     "name": "orange2ai/claude-code-now",
     "url": "https://github.com/orange2ai/claude-code-now",
     "lang": "Shell",
-    "desc": "I created this minimalist Claude Code launcher, designed for macOS, which can quickly launch Claude Code from any folder."
+    "desc": "The World's Fastest Claude Code Launcher  Make Claude Code launching simpler, built for macOS.  Click Dock to launch, or start from any folder instantly."
+  },
+  {
+    "createdAt": "2025-09-26T02:11:10Z",
+    "stars": 176,
+    "name": "bytedance/lynx",
+    "url": "https://github.com/bytedance/lynx",
+    "lang": "Python",
+    "desc": "Lynx: Towards High-Fidelity Personalized Video Generation"
+  },
+  {
+    "createdAt": "2025-09-29T14:25:48Z",
+    "stars": 170,
+    "name": "eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper",
+    "url": "https://github.com/eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper",
+    "lang": "Python",
+    "desc": "ode_lowstep"
+  },
+  {
+    "createdAt": "2025-09-24T06:00:51Z",
+    "stars": 166,
+    "name": "Maldev-Academy/MaldevAcademyLdr.2",
+    "url": "https://github.com/Maldev-Academy/MaldevAcademyLdr.2",
+    "lang": "C",
+    "desc": "RunPE implementation with multiple evasive techniques"
+  },
+  {
+    "createdAt": "2025-09-29T14:56:41Z",
+    "stars": 156,
+    "name": "haspread/PharosTestnet-bot",
+    "url": "https://github.com/haspread/PharosTestnet-bot",
+    "lang": "Python",
+    "desc": "Pharos Testnet automation bot"
+  },
+  {
+    "createdAt": "2025-09-29T15:22:13Z",
+    "stars": 154,
+    "name": "bingcicle/bookish-octo-telegram",
+    "url": "https://github.com/bingcicle/bookish-octo-telegram",
+    "lang": "Python",
+    "desc": "funding-webhook"
+  },
+  {
+    "createdAt": "2025-09-29T15:04:09Z",
+    "stars": 153,
+    "name": "bingcicle/env_guard",
+    "url": "https://github.com/bingcicle/env_guard",
+    "lang": "JavaScript",
+    "desc": "env_guard"
   }
 ]
