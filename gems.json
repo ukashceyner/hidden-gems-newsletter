@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-09-26T09:07:20Z",
-    "stars": 1614,
+    "stars": 1681,
     "name": "subhashchy/The-Accidental-CTO",
     "url": "https://github.com/subhashchy/The-Accidental-CTO",
     "lang": "",
@@ -9,47 +9,47 @@
   },
   {
     "createdAt": "2025-09-27T07:18:47Z",
-    "stars": 1561,
+    "stars": 1604,
     "name": "Tencent-Hunyuan/HunyuanImage-3.0",
     "url": "https://github.com/Tencent-Hunyuan/HunyuanImage-3.0",
     "lang": "Python",
     "desc": "HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation"
   },
   {
+    "createdAt": "2025-09-30T12:05:01Z",
+    "stars": 1332,
+    "name": "pathwaycom/bdh",
+    "url": "https://github.com/pathwaycom/bdh",
+    "lang": "Python",
+    "desc": "Baby Dragon Hatchling (BDH) – Architecture and Code"
+  },
+  {
     "createdAt": "2025-09-26T10:26:48Z",
-    "stars": 930,
+    "stars": 1089,
     "name": "folke/sidekick.nvim",
     "url": "https://github.com/folke/sidekick.nvim",
     "lang": "Lua",
     "desc": "Your Neovim AI sidekick"
   },
   {
-    "createdAt": "2025-09-24T05:55:42Z",
-    "stars": 903,
-    "name": "iChochy/NCE",
-    "url": "https://github.com/iChochy/NCE",
-    "lang": "JavaScript",
-    "desc": "《新概念英语》全四册在线课文朗读、单句点读"
-  },
-  {
-    "createdAt": "2025-09-29T03:25:13Z",
-    "stars": 737,
-    "name": "deepseek-ai/DeepSeek-V3.2-Exp",
-    "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-09-28T13:28:51Z",
-    "stars": 686,
+    "stars": 981,
     "name": "midudev/jscamp",
     "url": "https://github.com/midudev/jscamp",
     "lang": "CSS",
     "desc": "Contenido y ejercicios del JSCamp InfoJobs"
   },
   {
+    "createdAt": "2025-09-29T03:25:13Z",
+    "stars": 761,
+    "name": "deepseek-ai/DeepSeek-V3.2-Exp",
+    "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-09-29T15:17:14Z",
-    "stars": 570,
+    "stars": 592,
     "name": "gumot0/spyder-osint",
     "url": "https://github.com/gumot0/spyder-osint",
     "lang": "Python",
@@ -57,7 +57,7 @@
   },
   {
     "createdAt": "2025-09-29T04:09:29Z",
-    "stars": 506,
+    "stars": 548,
     "name": "agentic-commerce-protocol/agentic-commerce-protocol",
     "url": "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol",
     "lang": "",
@@ -65,23 +65,15 @@
   },
   {
     "createdAt": "2025-09-29T10:43:21Z",
-    "stars": 469,
+    "stars": 529,
     "name": "juxtopposed/Mystical-Blue-Theme",
     "url": "https://github.com/juxtopposed/Mystical-Blue-Theme",
     "lang": "",
     "desc": "KDE Plasma 6 Blue Theme"
   },
   {
-    "createdAt": "2025-09-30T12:05:01Z",
-    "stars": 443,
-    "name": "pathwaycom/bdh",
-    "url": "https://github.com/pathwaycom/bdh",
-    "lang": "Python",
-    "desc": "Baby Dragon Hatchling (BDH) – Architecture and Code"
-  },
-  {
     "createdAt": "2025-09-28T13:23:19Z",
-    "stars": 436,
+    "stars": 483,
     "name": "sammyuri/craftgpt",
     "url": "https://github.com/sammyuri/craftgpt",
     "lang": "Python",
@@ -89,7 +81,7 @@
   },
   {
     "createdAt": "2025-09-26T11:15:43Z",
-    "stars": 409,
+    "stars": 458,
     "name": "MrTurvey/flareprox",
     "url": "https://github.com/MrTurvey/flareprox",
     "lang": "Python",
@@ -97,219 +89,19 @@
   },
   {
     "createdAt": "2025-09-25T13:13:53Z",
-    "stars": 358,
+    "stars": 364,
     "name": "Tencent-Hunyuan/Hunyuan3D-Omni",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni",
     "lang": "Python",
     "desc": "Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets"
   },
   {
-    "createdAt": "2025-09-24T19:15:53Z",
-    "stars": 304,
-    "name": "duckpigdog/Sec-Interview",
-    "url": "https://github.com/duckpigdog/Sec-Interview",
-    "lang": "",
-    "desc": "全网首发！！！上万道网安面试题总结（涵盖护网、渗透、红队、逆向、密码、二进制、区块链、AI、云）"
-  },
-  {
-    "createdAt": "2025-09-24T09:36:23Z",
-    "stars": 252,
-    "name": "jd-opensource/JoySafety",
-    "url": "https://github.com/jd-opensource/JoySafety",
-    "lang": "Java",
-    "desc": "JoySafety"
-  },
-  {
     "createdAt": "2025-09-25T13:14:55Z",
-    "stars": 243,
+    "stars": 249,
     "name": "Tencent-Hunyuan/Hunyuan3D-Part",
     "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-Part",
     "lang": "Python",
     "desc": ""
-  },
-  {
-    "createdAt": "2025-09-24T21:20:16Z",
-    "stars": 229,
-    "name": "bitox123/Wallpaper-Engine",
-    "url": "https://github.com/bitox123/Wallpaper-Engine",
-    "lang": "",
-    "desc": "Download Wallpaper Engine 2025 - Dynamic Live Wallpapers, 4K/8K Support, Interactive Scenes & Customization for Windows"
-  },
-  {
-    "createdAt": "2025-09-24T15:53:28Z",
-    "stars": 228,
-    "name": "shaman-aim/Nodepay-Bot",
-    "url": "https://github.com/shaman-aim/Nodepay-Bot",
-    "lang": "",
-    "desc": "Nodepay-AutoFarm Nodepay-Extension-Bot Nodepay-Bot Nodepay-Multiwallet nodepay-mining-bot nodepay-airdrop-bot"
-  },
-  {
-    "createdAt": "2025-09-25T18:34:28Z",
-    "stars": 228,
-    "name": "akaseh21/Hibachi-Trade",
-    "url": "https://github.com/akaseh21/Hibachi-Trade",
-    "lang": "",
-    "desc": "Hibachi.xyz - Advanced Multi-Chain DEX Aggregator & Yield Optimizer"
-  },
-  {
-    "createdAt": "2025-09-24T15:41:09Z",
-    "stars": 228,
-    "name": "abhisekdhanuki/getgrass-bot",
-    "url": "https://github.com/abhisekdhanuki/getgrass-bot",
-    "lang": "",
-    "desc": "- bot  - proxy  - farming  - grass  - automated  - airdrop  - solana  - getgrass-io  - getgrass  - getgrassnode  - getgrassmining  - getgrass-bot-miner  - getgrass-bot  - getgrass-auto-miner "
-  },
-  {
-    "createdAt": "2025-09-24T21:07:51Z",
-    "stars": 228,
-    "name": "Boinyidwende/Silent-Crypto-Miner",
-    "url": "https://github.com/Boinyidwende/Silent-Crypto-Miner",
-    "lang": "",
-    "desc": "crypto-mining  miner-crypto  crypto-miner-download miner-download miner-crypto-download silent-crypto-miner"
-  },
-  {
-    "createdAt": "2025-09-24T15:45:25Z",
-    "stars": 228,
-    "name": "reyansh-66/Gradient-Network",
-    "url": "https://github.com/reyansh-66/Gradient-Network",
-    "lang": "",
-    "desc": "Gradient-crypto Gradient-tools Gradient-Reger Gradient-Farmer Gradient-Miner Gradient-Multireger"
-  },
-  {
-    "createdAt": "2025-09-24T15:21:42Z",
-    "stars": 228,
-    "name": "Kamikase645/Axie-Infinity",
-    "url": "https://github.com/Kamikase645/Axie-Infinity",
-    "lang": "",
-    "desc": "Download Axie Infinity Trainer Hack 2025 - Unlimited Energy, Auto Battle, SLP Farming & More Cheats"
-  },
-  {
-    "createdAt": "2025-09-24T15:16:22Z",
-    "stars": 228,
-    "name": "VienYToT/Alaska-Gold-Rush",
-    "url": "https://github.com/VienYToT/Alaska-Gold-Rush",
-    "lang": "",
-    "desc": "Download Alaska Gold Rush Hack 2025 - Unlimited Gold, Auto Mining & No Ban Trainer"
-  },
-  {
-    "createdAt": "2025-09-25T17:36:01Z",
-    "stars": 228,
-    "name": "234-634/Pacifica-DEX",
-    "url": "https://github.com/234-634/Pacifica-DEX",
-    "lang": "",
-    "desc": "Trade automatically on pacificaDEX and profit from trades and future airdrop"
-  },
-  {
-    "createdAt": "2025-09-24T15:29:36Z",
-    "stars": 228,
-    "name": "silwal007/CryptoDragon",
-    "url": "https://github.com/silwal007/CryptoDragon",
-    "lang": "",
-    "desc": "Download CryptoDragon Trainer Hack 2025 – Unlimited Resources, Auto-Battle & Dragon Evolution Cheats"
-  },
-  {
-    "createdAt": "2025-09-24T15:38:48Z",
-    "stars": 228,
-    "name": "sherlingxd/DAWN-Bot",
-    "url": "https://github.com/sherlingxd/DAWN-Bot",
-    "lang": "",
-    "desc": "DAWN-Reger DAWN-Farmer DAWN-Miner DAWN-Multireger DAWN-Multifarmer"
-  },
-  {
-    "createdAt": "2025-09-25T17:51:54Z",
-    "stars": 228,
-    "name": "olosd/Avantisfi-DEX-TRADING",
-    "url": "https://github.com/olosd/Avantisfi-DEX-TRADING",
-    "lang": "",
-    "desc": "AvantisFi Quantum Trader 2025 - AI-Powered DeFi Yield Optimizer"
-  },
-  {
-    "createdAt": "2025-09-25T18:05:21Z",
-    "stars": 228,
-    "name": "AbdulLaHRasH/lighter-TRADING",
-    "url": "https://github.com/AbdulLaHRasH/lighter-TRADING",
-    "lang": "",
-    "desc": "Lighter.xyz - Lightning Fast Crypto Derivatives & Perpetuals Exchange"
-  },
-  {
-    "createdAt": "2025-09-24T21:42:50Z",
-    "stars": 228,
-    "name": "IT24102373/FL-Studio",
-    "url": "https://github.com/IT24102373/FL-Studio",
-    "lang": "",
-    "desc": "Download FL Studio 2025 - Advanced DAW for Music Production with MIDI Editing, Audio Recording, Mixing, and Plugins"
-  },
-  {
-    "createdAt": "2025-09-24T21:34:43Z",
-    "stars": 228,
-    "name": "dev-ratul-hasan/The-Sandbox",
-    "url": "https://github.com/dev-ratul-hasan/The-Sandbox",
-    "lang": "",
-    "desc": "Download The Sandbox Trainer Hack 2025 - Unlimited Resources, Auto Farm & God Mode Cheat"
-  },
-  {
-    "createdAt": "2025-09-25T18:50:17Z",
-    "stars": 228,
-    "name": "alondark01/Aster-Protocol---Overview",
-    "url": "https://github.com/alondark01/Aster-Protocol---Overview",
-    "lang": "",
-    "desc": "Aster - Next-Generation Blockchain Orchestration Platform"
-  },
-  {
-    "createdAt": "2025-09-25T18:17:38Z",
-    "stars": 228,
-    "name": "mohammadalie/Ethereal-DEX-TRADING",
-    "url": "https://github.com/mohammadalie/Ethereal-DEX-TRADING",
-    "lang": "",
-    "desc": "Ethereal - Next-Generation Blockchain Infrastructure Platform"
-  },
-  {
-    "createdAt": "2025-09-24T15:50:04Z",
-    "stars": 228,
-    "name": "gagokapew/Monad-Bot",
-    "url": "https://github.com/gagokapew/Monad-Bot",
-    "lang": "",
-    "desc": "- nodejs  - node  - monad  - monad-bot  - monadscore  - monadscore-bot  - monadscore-auto-bot"
-  },
-  {
-    "createdAt": "2025-09-24T21:26:58Z",
-    "stars": 228,
-    "name": "X211-2/AutoHotkey",
-    "url": "https://github.com/X211-2/AutoHotkey",
-    "lang": "",
-    "desc": "Download AutoHotkey Scripting Mastery - Automate Keyboard Shortcuts, Hotkeys, Macros and GUI Automation in 2025"
-  },
-  {
-    "createdAt": "2025-09-24T15:35:59Z",
-    "stars": 228,
-    "name": "MKundaliya/Crypto-Farmers",
-    "url": "https://github.com/MKundaliya/Crypto-Farmers",
-    "lang": "",
-    "desc": "Download Crypto Farmers Trainer Hack 2025 – Unlimited Coins, Energy & Auto-Farming Cheats"
-  },
-  {
-    "createdAt": "2025-09-24T15:27:33Z",
-    "stars": 228,
-    "name": "Leon1988-2/BONK--Arena",
-    "url": "https://github.com/Leon1988-2/BONK--Arena",
-    "lang": "",
-    "desc": "Download BONK! Arena Trainer Hack 2025 - Unlimited Coins, Free Skins, God Mode & More Cheats"
-  },
-  {
-    "createdAt": "2025-09-24T15:47:32Z",
-    "stars": 228,
-    "name": "josue54lll/Grass-Desktop-Node",
-    "url": "https://github.com/josue54lll/Grass-Desktop-Node",
-    "lang": "",
-    "desc": "- Grass-Desktop-Node   - Grass-Farmer   - Grass-Miner   - Bandwidth-Mining   - Passive-Income-Bot   - Grass-Network-Automation   - Decentralized-VPN   - Web3-Earnings   - Crypto-Node-Software  "
-  },
-  {
-    "createdAt": "2025-09-24T21:14:51Z",
-    "stars": 228,
-    "name": "Wayzzxx/VoicemodPro",
-    "url": "https://github.com/Wayzzxx/VoicemodPro",
-    "lang": "",
-    "desc": "Download VoicemodPro - Real-Time Voice Changer, Soundboard & AI Voice Effects for Streamers & Gamers 2025"
   },
   {
     "createdAt": "2025-09-29T14:50:39Z",
@@ -321,71 +113,71 @@
   },
   {
     "createdAt": "2025-09-26T07:36:39Z",
-    "stars": 208,
+    "stars": 213,
     "name": "93won/lidar_odometry",
     "url": "https://github.com/93won/lidar_odometry",
     "lang": "C++",
     "desc": "Probabilistic Kernel Optimization for Robust State Estimation"
   },
   {
-    "createdAt": "2025-09-24T13:13:40Z",
+    "createdAt": "2025-10-01T00:48:38Z",
     "stars": 207,
-    "name": "goudvuur/sonshell",
-    "url": "https://github.com/goudvuur/sonshell",
-    "lang": "C++",
-    "desc": "An effort to \"ssh into my Sony camera\""
-  },
-  {
-    "createdAt": "2025-09-24T20:45:10Z",
-    "stars": 192,
-    "name": "hackerhouse-opensource/SetupHijack",
-    "url": "https://github.com/hackerhouse-opensource/SetupHijack",
-    "lang": "C++",
-    "desc": "SetupHijack is a security research tool that exploits race conditions and insecure file handling in Windows applications installer and update processes."
-  },
-  {
-    "createdAt": "2025-09-24T01:41:12Z",
-    "stars": 182,
-    "name": "orange2ai/claude-code-now",
-    "url": "https://github.com/orange2ai/claude-code-now",
-    "lang": "Shell",
-    "desc": "The World's Fastest Claude Code Launcher  Make Claude Code launching simpler, built for macOS.  Click Dock to launch, or start from any folder instantly."
-  },
-  {
-    "createdAt": "2025-09-26T02:11:10Z",
-    "stars": 176,
-    "name": "bytedance/lynx",
-    "url": "https://github.com/bytedance/lynx",
+    "name": "Inception3D/TTT3R",
+    "url": "https://github.com/Inception3D/TTT3R",
     "lang": "Python",
-    "desc": "Lynx: Towards High-Fidelity Personalized Video Generation"
+    "desc": "A simple state update rule to enhance length generalization for CUT3R."
+  },
+  {
+    "createdAt": "2025-09-30T14:08:29Z",
+    "stars": 199,
+    "name": "yottjane/crypto-arbitrage-bot",
+    "url": "https://github.com/yottjane/crypto-arbitrage-bot",
+    "lang": "TypeScript",
+    "desc": "A free, open-source, multifunctional crypto arbitrage bot"
   },
   {
     "createdAt": "2025-09-29T14:25:48Z",
-    "stars": 170,
+    "stars": 190,
     "name": "eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper",
     "url": "https://github.com/eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper",
     "lang": "Python",
     "desc": "ode_lowstep"
   },
   {
-    "createdAt": "2025-09-24T06:00:51Z",
-    "stars": 166,
-    "name": "Maldev-Academy/MaldevAcademyLdr.2",
-    "url": "https://github.com/Maldev-Academy/MaldevAcademyLdr.2",
-    "lang": "C",
-    "desc": "RunPE implementation with multiple evasive techniques"
+    "createdAt": "2025-09-26T02:11:10Z",
+    "stars": 179,
+    "name": "bytedance/lynx",
+    "url": "https://github.com/bytedance/lynx",
+    "lang": "Python",
+    "desc": "Lynx: Towards High-Fidelity Personalized Video Generation"
+  },
+  {
+    "createdAt": "2025-09-25T16:41:37Z",
+    "stars": 169,
+    "name": "0xflux/Wyrm",
+    "url": "https://github.com/0xflux/Wyrm",
+    "lang": "Rust",
+    "desc": " The dragon in the dark. A red team post exploitation framework for testing security controls during red team assessments. "
   },
   {
     "createdAt": "2025-09-29T14:56:41Z",
-    "stars": 156,
+    "stars": 157,
     "name": "haspread/PharosTestnet-bot",
     "url": "https://github.com/haspread/PharosTestnet-bot",
     "lang": "Python",
     "desc": "Pharos Testnet automation bot"
   },
   {
-    "createdAt": "2025-09-29T15:22:13Z",
+    "createdAt": "2025-09-26T17:37:47Z",
     "stars": 154,
+    "name": "IST-DASLab/llmq",
+    "url": "https://github.com/IST-DASLab/llmq",
+    "lang": "C++",
+    "desc": "Quantized LLM training in pure CUDA/C++."
+  },
+  {
+    "createdAt": "2025-09-29T15:22:13Z",
+    "stars": 153,
     "name": "bingcicle/bookish-octo-telegram",
     "url": "https://github.com/bingcicle/bookish-octo-telegram",
     "lang": "Python",
@@ -393,10 +185,218 @@
   },
   {
     "createdAt": "2025-09-29T15:04:09Z",
-    "stars": 153,
+    "stars": 152,
     "name": "bingcicle/env_guard",
     "url": "https://github.com/bingcicle/env_guard",
     "lang": "JavaScript",
     "desc": "env_guard"
+  },
+  {
+    "createdAt": "2025-09-29T15:09:04Z",
+    "stars": 152,
+    "name": "bingcicle/friendly-potato",
+    "url": "https://github.com/bingcicle/friendly-potato",
+    "lang": "Go",
+    "desc": "jsonl-tool"
+  },
+  {
+    "createdAt": "2025-09-29T15:13:51Z",
+    "stars": 151,
+    "name": "bingcicle/crispy-palm-tree",
+    "url": "https://github.com/bingcicle/crispy-palm-tree",
+    "lang": "Rust",
+    "desc": "dirhash"
+  },
+  {
+    "createdAt": "2025-09-26T08:41:42Z",
+    "stars": 147,
+    "name": "elegooofficial/CentauriCarbon",
+    "url": "https://github.com/elegooofficial/CentauriCarbon",
+    "lang": "C",
+    "desc": "Learn more about ELEGOO Centauri Carbon 3D printer: https://www.elegoo.com/products/centauri-carbon"
+  },
+  {
+    "createdAt": "2025-09-25T23:48:18Z",
+    "stars": 144,
+    "name": "DarknessFX/RaylibUE",
+    "url": "https://github.com/DarknessFX/RaylibUE",
+    "lang": "C",
+    "desc": "Bridge Raylib's easy-to-use drawing API with Unreal Engine's intuitive Blueprint nodes."
+  },
+  {
+    "createdAt": "2025-09-27T22:45:45Z",
+    "stars": 143,
+    "name": "AHEKOT/ComfyUI_VNCCS",
+    "url": "https://github.com/AHEKOT/ComfyUI_VNCCS",
+    "lang": "Python",
+    "desc": "Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks."
+  },
+  {
+    "createdAt": "2025-09-30T11:47:23Z",
+    "stars": 139,
+    "name": "unkn0wn-root/resterm",
+    "url": "https://github.com/unkn0wn-root/resterm",
+    "lang": "Go",
+    "desc": "Terminal REST client for .http/.rest files with HTTP, GraphQL, and gRPC support."
+  },
+  {
+    "createdAt": "2025-09-28T08:35:38Z",
+    "stars": 139,
+    "name": "eddyhhlure1Eddy/IntelligentVRAMNode",
+    "url": "https://github.com/eddyhhlure1Eddy/IntelligentVRAMNode",
+    "lang": "Python",
+    "desc": "IntelligentVRAMNode"
+  },
+  {
+    "createdAt": "2025-09-28T13:39:01Z",
+    "stars": 134,
+    "name": "joao-gugel/exercicios-bd-ptbr",
+    "url": "https://github.com/joao-gugel/exercicios-bd-ptbr",
+    "lang": "",
+    "desc": "Base de dados open source gratuita com mais de 800 exercícios físicos detalhados."
+  },
+  {
+    "createdAt": "2025-09-29T11:05:14Z",
+    "stars": 128,
+    "name": "WeChatCV/Wan-Alpha",
+    "url": "https://github.com/WeChatCV/Wan-Alpha",
+    "lang": "Python",
+    "desc": "High-Quality Text-to-Video Generation with Alpha Channel"
+  },
+  {
+    "createdAt": "2025-09-25T09:27:35Z",
+    "stars": 127,
+    "name": "perplexityai/search_evals",
+    "url": "https://github.com/perplexityai/search_evals",
+    "lang": "Python",
+    "desc": "Batteries-included eval framework for search APIs"
+  },
+  {
+    "createdAt": "2025-09-28T11:02:19Z",
+    "stars": 123,
+    "name": "ryanntannn/zustand-sync",
+    "url": "https://github.com/ryanntannn/zustand-sync",
+    "lang": "TypeScript",
+    "desc": "A simple, barebones \"multiplayer\" middleware for zustand"
+  },
+  {
+    "createdAt": "2025-09-26T16:17:34Z",
+    "stars": 122,
+    "name": "geekjourneyx/awesome-developer-go-sail",
+    "url": "https://github.com/geekjourneyx/awesome-developer-go-sail",
+    "lang": "",
+    "desc": "一份专为中国开发者“扬帆出海”打造的精选指南，一站式解决全球收款、海外公司、银行开户等难题。"
+  },
+  {
+    "createdAt": "2025-09-29T16:11:24Z",
+    "stars": 118,
+    "name": "liangdabiao/claude-data-analysis",
+    "url": "https://github.com/liangdabiao/claude-data-analysis",
+    "lang": "Python",
+    "desc": "Create a data analysis AI agent with Claude Code. Make data analysis as simple as having a chat!​​ 别忘了！claude code也是agent框架，类似langgraph,crewAI，autogen等等agent框架。我改造claude code搞一个数据分析智能体AI。 让数据分析变得像聊天一样简单！"
+  },
+  {
+    "createdAt": "2025-09-25T13:55:29Z",
+    "stars": 113,
+    "name": "AndroidCSOfficial/android-code-studio",
+    "url": "https://github.com/AndroidCSOfficial/android-code-studio",
+    "lang": "Java",
+    "desc": "Android Code Studio is an IDE for Android to develop full featured Android apps."
+  },
+  {
+    "createdAt": "2025-09-26T11:16:52Z",
+    "stars": 107,
+    "name": "liangdabiao/easy_investment_Agent_crewai",
+    "url": "https://github.com/liangdabiao/easy_investment_Agent_crewai",
+    "lang": "Python",
+    "desc": "基于AKShare和CrewAI的A股智能分析平台，通过多Agent协作提供专业的A股投资分析。  🚀 项目特色 📊 全面的A股数据分析：实时行情、财务数据、资金流向、市场情绪 🤖 多Agent协作：4个专业化AI角色协同工作 🇨🇳 A股市场特色：针对中国股市特点优化分析 📈 专业分析工具：基于AKShare的专业数据源 🎯 智能投资建议：综合分析提供投资决策参考"
+  },
+  {
+    "createdAt": "2025-09-25T13:33:00Z",
+    "stars": 105,
+    "name": "AMAP-ML/Tree-GRPO",
+    "url": "https://github.com/AMAP-ML/Tree-GRPO",
+    "lang": "Python",
+    "desc": "Tree Search for LLM Agent Reinforcement Learning"
+  },
+  {
+    "createdAt": "2025-09-30T03:02:13Z",
+    "stars": 101,
+    "name": "ghostmkg/dsa-code",
+    "url": "https://github.com/ghostmkg/dsa-code",
+    "lang": "Java",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-29T15:39:31Z",
+    "stars": 99,
+    "name": "Liquid4All/liquid-audio",
+    "url": "https://github.com/Liquid4All/liquid-audio",
+    "lang": "Python",
+    "desc": "Liquid Audio - Speech-to-Speech audio models by Liquid AI"
+  },
+  {
+    "createdAt": "2025-09-29T01:43:43Z",
+    "stars": 99,
+    "name": "93won/lidar_odometry_for_beginner",
+    "url": "https://github.com/93won/lidar_odometry_for_beginner",
+    "lang": "Python",
+    "desc": "LiDAR Odometry for Beginner"
+  },
+  {
+    "createdAt": "2025-09-29T17:26:55Z",
+    "stars": 97,
+    "name": "mlech26l/llm_intercept",
+    "url": "https://github.com/mlech26l/llm_intercept",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-30T05:09:03Z",
+    "stars": 97,
+    "name": "TencentARC/RollingForcing",
+    "url": "https://github.com/TencentARC/RollingForcing",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-26T01:07:51Z",
+    "stars": 95,
+    "name": "karthikscale3/ctx-zip",
+    "url": "https://github.com/karthikscale3/ctx-zip",
+    "lang": "TypeScript",
+    "desc": "A tool for context compression of tool call results"
+  },
+  {
+    "createdAt": "2025-09-30T16:22:52Z",
+    "stars": 93,
+    "name": "KittenBusters/CharmingKitten",
+    "url": "https://github.com/KittenBusters/CharmingKitten",
+    "lang": "",
+    "desc": "Exposing CharmingKitten's malicious activity for IRGC-IO devision Counterintelligence devision (1500)"
+  },
+  {
+    "createdAt": "2025-09-26T21:14:10Z",
+    "stars": 92,
+    "name": "4ev-link/4ev.link",
+    "url": "https://github.com/4ev-link/4ev.link",
+    "lang": "HTML",
+    "desc": "If you want short custom urls, like url shortening to a custom slug"
+  },
+  {
+    "createdAt": "2025-10-01T11:29:17Z",
+    "stars": 92,
+    "name": "shovel-heroes-org/shovel-heroes",
+    "url": "https://github.com/shovel-heroes-org/shovel-heroes",
+    "lang": "JavaScript",
+    "desc": "鏟子英雄"
+  },
+  {
+    "createdAt": "2025-09-28T06:18:21Z",
+    "stars": 92,
+    "name": "jackrun123/cf_snippets_proxy",
+    "url": "https://github.com/jackrun123/cf_snippets_proxy",
+    "lang": "JavaScript",
+    "desc": ""
   }
 ]
