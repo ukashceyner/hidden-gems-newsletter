@@ -1,23 +1,15 @@
 [
   {
     "createdAt": "2025-09-30T12:05:01Z",
-    "stars": 2063,
+    "stars": 2321,
     "name": "pathwaycom/bdh",
     "url": "https://github.com/pathwaycom/bdh",
     "lang": "Python",
     "desc": "Baby Dragon Hatchling (BDH) – Architecture and Code"
   },
   {
-    "createdAt": "2025-09-27T07:18:47Z",
-    "stars": 1665,
-    "name": "Tencent-Hunyuan/HunyuanImage-3.0",
-    "url": "https://github.com/Tencent-Hunyuan/HunyuanImage-3.0",
-    "lang": "Python",
-    "desc": "HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation"
-  },
-  {
     "createdAt": "2025-09-28T13:28:51Z",
-    "stars": 1608,
+    "stars": 1737,
     "name": "midudev/jscamp",
     "url": "https://github.com/midudev/jscamp",
     "lang": "CSS",
@@ -25,7 +17,7 @@
   },
   {
     "createdAt": "2025-09-29T03:25:13Z",
-    "stars": 786,
+    "stars": 805,
     "name": "deepseek-ai/DeepSeek-V3.2-Exp",
     "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
     "lang": "Python",
@@ -33,123 +25,203 @@
   },
   {
     "createdAt": "2025-09-30T14:08:29Z",
-    "stars": 627,
+    "stars": 630,
     "name": "yottjane/crypto-arbitrage-bot",
     "url": "https://github.com/yottjane/crypto-arbitrage-bot",
     "lang": "TypeScript",
     "desc": "A free, open-source, multifunctional crypto arbitrage bot"
   },
   {
-    "createdAt": "2025-09-29T04:09:29Z",
-    "stars": 590,
-    "name": "agentic-commerce-protocol/agentic-commerce-protocol",
-    "url": "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol",
-    "lang": "",
-    "desc": "The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe."
-  },
-  {
     "createdAt": "2025-09-29T10:43:21Z",
-    "stars": 585,
+    "stars": 613,
     "name": "juxtopposed/Mystical-Blue-Theme",
     "url": "https://github.com/juxtopposed/Mystical-Blue-Theme",
     "lang": "",
     "desc": "KDE Plasma 6 Blue Theme"
   },
   {
-    "createdAt": "2025-09-28T13:23:19Z",
-    "stars": 529,
-    "name": "sammyuri/craftgpt",
-    "url": "https://github.com/sammyuri/craftgpt",
-    "lang": "Python",
-    "desc": "Small language model built in Minecraft."
+    "createdAt": "2025-09-29T04:09:29Z",
+    "stars": 599,
+    "name": "agentic-commerce-protocol/agentic-commerce-protocol",
+    "url": "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol",
+    "lang": "",
+    "desc": "The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe."
   },
   {
     "createdAt": "2025-10-02T12:48:55Z",
-    "stars": 463,
+    "stars": 589,
     "name": "neuphonic/neutts-air",
     "url": "https://github.com/neuphonic/neutts-air",
     "lang": "Python",
     "desc": "On-device TTS model by Neuphonic"
   },
   {
+    "createdAt": "2025-09-28T13:23:19Z",
+    "stars": 542,
+    "name": "sammyuri/craftgpt",
+    "url": "https://github.com/sammyuri/craftgpt",
+    "lang": "Python",
+    "desc": "Small language model built in Minecraft."
+  },
+  {
     "createdAt": "2025-10-02T12:12:18Z",
-    "stars": 366,
+    "stars": 525,
     "name": "LuoGen-AI/LuoGen-agent",
     "url": "https://github.com/LuoGen-AI/LuoGen-agent",
     "lang": "Python",
     "desc": "一键产出爆款视频：1.自动提取对标文案 2.自动进行文案仿写 3.自动根据文案声音克隆 4.自动生成数字人口播 5.自动添加字幕 6.自动添加背景音乐 7.自动添加视频标题 8.自动生成视频封面 9.自动将视频发布到各平台"
   },
   {
+    "createdAt": "2025-09-30T08:03:00Z",
+    "stars": 429,
+    "name": "Esubaalew/run",
+    "url": "https://github.com/Esubaalew/run",
+    "lang": "Rust",
+    "desc": "Universal multi-language runner and smart REPL written in Rust."
+  },
+  {
+    "createdAt": "2025-10-02T21:26:36Z",
+    "stars": 276,
+    "name": "DebarghaG/proofofthought",
+    "url": "https://github.com/DebarghaG/proofofthought",
+    "lang": "Python",
+    "desc": "\"Proof of thought: Neurosymbolic program synthesis allows robust and interpretable reasoning\" published Sys2Reasoning Workshop NeurIPS 2024"
+  },
+  {
     "createdAt": "2025-10-01T00:48:38Z",
-    "stars": 243,
+    "stars": 259,
     "name": "Inception3D/TTT3R",
     "url": "https://github.com/Inception3D/TTT3R",
     "lang": "Python",
     "desc": "A simple state update rule to enhance length generalization for CUT3R."
   },
   {
-    "createdAt": "2025-09-27T13:37:33Z",
-    "stars": 243,
-    "name": "chiuhans111/fluidglass",
-    "url": "https://github.com/chiuhans111/fluidglass",
-    "lang": "GLSL",
-    "desc": ""
+    "createdAt": "2025-09-29T08:15:44Z",
+    "stars": 223,
+    "name": "showlab/Code2Video",
+    "url": "https://github.com/showlab/Code2Video",
+    "lang": "Python",
+    "desc": "Video generation via code"
   },
   {
     "createdAt": "2025-09-29T14:50:39Z",
-    "stars": 219,
+    "stars": 220,
     "name": "haspread/grass-bot",
     "url": "https://github.com/haspread/grass-bot",
     "lang": "Python",
     "desc": "Grass automation python bot"
   },
   {
+    "createdAt": "2025-10-04T14:14:44Z",
+    "stars": 206,
+    "name": "ThunderTo/Gift-Buyer-Tg",
+    "url": "https://github.com/ThunderTo/Gift-Buyer-Tg",
+    "lang": "Python",
+    "desc": "A bot for sniping and buying telegram gifts based on given criteria"
+  },
+  {
     "createdAt": "2025-09-29T14:25:48Z",
-    "stars": 199,
+    "stars": 202,
     "name": "eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper",
     "url": "https://github.com/eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper",
     "lang": "Python",
     "desc": "ode_lowstep"
   },
   {
+    "createdAt": "2025-10-03T18:36:51Z",
+    "stars": 197,
+    "name": "True3DLabs/WindowMode",
+    "url": "https://github.com/True3DLabs/WindowMode",
+    "lang": "TypeScript",
+    "desc": "Turn your screen into a Window into a virtual world"
+  },
+  {
     "createdAt": "2025-09-30T11:47:23Z",
-    "stars": 181,
+    "stars": 190,
     "name": "unkn0wn-root/resterm",
     "url": "https://github.com/unkn0wn-root/resterm",
     "lang": "Go",
-    "desc": "Terminal REST client for .http/.rest files with HTTP, GraphQL, and gRPC support."
+    "desc": "Terminal REST client for .http/.rest files with HTTP, GraphQL and gRPC support."
+  },
+  {
+    "createdAt": "2025-10-03T11:08:09Z",
+    "stars": 180,
+    "name": "InkboxSoftware/spacegamex64",
+    "url": "https://github.com/InkboxSoftware/spacegamex64",
+    "lang": "Assembly",
+    "desc": "Recreation of a classic arcade game remade as a UEFI application for the x86_64 platform. "
+  },
+  {
+    "createdAt": "2025-09-29T11:05:14Z",
+    "stars": 180,
+    "name": "WeChatCV/Wan-Alpha",
+    "url": "https://github.com/WeChatCV/Wan-Alpha",
+    "lang": "Python",
+    "desc": "High-Quality Text-to-Video Generation with Alpha Channel"
   },
   {
     "createdAt": "2025-09-28T11:02:19Z",
-    "stars": 162,
+    "stars": 169,
     "name": "ryanntannn/zustand-sync",
     "url": "https://github.com/ryanntannn/zustand-sync",
     "lang": "TypeScript",
     "desc": "A simple, barebones \"multiplayer\" middleware for zustand"
   },
   {
-    "createdAt": "2025-09-27T22:45:45Z",
+    "createdAt": "2025-09-29T11:08:50Z",
+    "stars": 169,
+    "name": "jmsdnns/webbol",
+    "url": "https://github.com/jmsdnns/webbol",
+    "lang": "COBOL",
+    "desc": "A minimal static web server written in COBOL"
+  },
+  {
+    "createdAt": "2025-10-02T02:35:17Z",
+    "stars": 164,
+    "name": "CyberSecurityUP/n8n-cybersecurity-projects",
+    "url": "https://github.com/CyberSecurityUP/n8n-cybersecurity-projects",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-03T03:31:51Z",
     "stars": 162,
-    "name": "AHEKOT/ComfyUI_VNCCS",
-    "url": "https://github.com/AHEKOT/ComfyUI_VNCCS",
-    "lang": "Python",
-    "desc": "Visual Novel Character Creation Suite is a comprehensive tool for creating character sprites for visual novels. It allows you to create unique characters with a consistent appearance across all images, which was previously a challenging task when using neural networks."
+    "name": "lamos22/Sexual-Repression-Calculator",
+    "url": "https://github.com/lamos22/Sexual-Repression-Calculator",
+    "lang": "TypeScript",
+    "desc": "Sexual-Repression-Calculator"
+  },
+  {
+    "createdAt": "2025-09-30T16:22:52Z",
+    "stars": 161,
+    "name": "KittenBusters/CharmingKitten",
+    "url": "https://github.com/KittenBusters/CharmingKitten",
+    "lang": "Lua",
+    "desc": "Exposing CharmingKitten's malicious activity for IRGC-IO  Counterintelligence division (1500)"
+  },
+  {
+    "createdAt": "2025-10-03T09:57:33Z",
+    "stars": 160,
+    "name": "ck-zhang/reddix",
+    "url": "https://github.com/ck-zhang/reddix",
+    "lang": "Rust",
+    "desc": "Reddix - Reddit, refined for the terminal."
   },
   {
     "createdAt": "2025-09-29T14:56:41Z",
-    "stars": 157,
+    "stars": 158,
     "name": "haspread/PharosTestnet-bot",
     "url": "https://github.com/haspread/PharosTestnet-bot",
     "lang": "Python",
     "desc": "Pharos Testnet automation bot"
   },
   {
-    "createdAt": "2025-09-29T11:08:50Z",
-    "stars": 155,
-    "name": "jmsdnns/webbol",
-    "url": "https://github.com/jmsdnns/webbol",
-    "lang": "COBOL",
-    "desc": "A minimal static web server written in COBOL"
+    "createdAt": "2025-09-30T03:02:13Z",
+    "stars": 154,
+    "name": "ghostmkg/dsa-code",
+    "url": "https://github.com/ghostmkg/dsa-code",
+    "lang": "C++",
+    "desc": ""
   },
   {
     "createdAt": "2025-09-29T15:22:13Z",
@@ -158,14 +230,6 @@
     "url": "https://github.com/bingcicle/bookish-octo-telegram",
     "lang": "Python",
     "desc": "funding-webhook"
-  },
-  {
-    "createdAt": "2025-09-29T11:05:14Z",
-    "stars": 153,
-    "name": "WeChatCV/Wan-Alpha",
-    "url": "https://github.com/WeChatCV/Wan-Alpha",
-    "lang": "Python",
-    "desc": "High-Quality Text-to-Video Generation with Alpha Channel"
   },
   {
     "createdAt": "2025-09-29T15:09:04Z",
@@ -192,211 +256,147 @@
     "desc": "dirhash"
   },
   {
-    "createdAt": "2025-10-03T11:08:09Z",
-    "stars": 147,
-    "name": "InkboxSoftware/spacegamex64",
-    "url": "https://github.com/InkboxSoftware/spacegamex64",
-    "lang": "Assembly",
-    "desc": "Recreation of a classic arcade game remade as a UEFI application for the x86_64 platform. "
-  },
-  {
     "createdAt": "2025-09-28T08:35:38Z",
-    "stars": 147,
+    "stars": 151,
     "name": "eddyhhlure1Eddy/IntelligentVRAMNode",
     "url": "https://github.com/eddyhhlure1Eddy/IntelligentVRAMNode",
     "lang": "Python",
     "desc": "IntelligentVRAMNode"
   },
   {
-    "createdAt": "2025-09-30T16:22:52Z",
-    "stars": 146,
-    "name": "KittenBusters/CharmingKitten",
-    "url": "https://github.com/KittenBusters/CharmingKitten",
-    "lang": "Lua",
-    "desc": "Exposing CharmingKitten's malicious activity for IRGC-IO devision Counterintelligence devision (1500)"
-  },
-  {
-    "createdAt": "2025-09-30T03:02:13Z",
-    "stars": 141,
-    "name": "ghostmkg/dsa-code",
-    "url": "https://github.com/ghostmkg/dsa-code",
-    "lang": "C++",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-28T13:39:01Z",
-    "stars": 140,
-    "name": "joao-gugel/exercicios-bd-ptbr",
-    "url": "https://github.com/joao-gugel/exercicios-bd-ptbr",
-    "lang": "",
-    "desc": "Base de dados open source gratuita com mais de 800 exercícios físicos detalhados."
-  },
-  {
-    "createdAt": "2025-10-03T18:36:51Z",
-    "stars": 134,
-    "name": "True3DLabs/WindowMode",
-    "url": "https://github.com/True3DLabs/WindowMode",
-    "lang": "TypeScript",
-    "desc": "Turn your screen into a Window into a virtual world"
-  },
-  {
-    "createdAt": "2025-09-29T15:39:31Z",
-    "stars": 130,
-    "name": "Liquid4All/liquid-audio",
-    "url": "https://github.com/Liquid4All/liquid-audio",
-    "lang": "Python",
-    "desc": "Liquid Audio - Speech-to-Speech audio models by Liquid AI"
-  },
-  {
-    "createdAt": "2025-09-29T16:11:24Z",
-    "stars": 128,
-    "name": "liangdabiao/claude-data-analysis",
-    "url": "https://github.com/liangdabiao/claude-data-analysis",
-    "lang": "Python",
-    "desc": "Create a data analysis AI agent with Claude Code. Make data analysis as simple as having a chat!​​ 别忘了！claude code也是agent框架，类似langgraph,crewAI，autogen等等agent框架。我改造claude code搞一个数据分析智能体AI。 让数据分析变得像聊天一样简单！"
-  },
-  {
-    "createdAt": "2025-10-01T11:29:17Z",
-    "stars": 121,
-    "name": "shovel-heroes-org/shovel-heroes",
-    "url": "https://github.com/shovel-heroes-org/shovel-heroes",
-    "lang": "JavaScript",
-    "desc": "鏟子英雄"
-  },
-  {
-    "createdAt": "2025-09-30T05:52:12Z",
-    "stars": 119,
-    "name": "louislam/its-mytabs",
-    "url": "https://github.com/louislam/its-mytabs",
-    "lang": "Vue",
-    "desc": "Open source, web based, self hostable guitar/bass tab viewer and player, similar to Songsterr."
-  },
-  {
-    "createdAt": "2025-09-29T01:43:43Z",
-    "stars": 119,
-    "name": "93won/lidar_odometry_for_beginner",
-    "url": "https://github.com/93won/lidar_odometry_for_beginner",
-    "lang": "Python",
-    "desc": "LiDAR Odometry for Beginner"
-  },
-  {
-    "createdAt": "2025-10-02T02:35:17Z",
-    "stars": 118,
-    "name": "CyberSecurityUP/n8n-cybersecurity-projects",
-    "url": "https://github.com/CyberSecurityUP/n8n-cybersecurity-projects",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-02T16:48:26Z",
-    "stars": 117,
-    "name": "kubiks-inc/otel",
-    "url": "https://github.com/kubiks-inc/otel",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-02T05:12:19Z",
-    "stars": 109,
-    "name": "Luckly-XYZ/Lucky-client",
-    "url": "https://github.com/Luckly-XYZ/Lucky-client",
-    "lang": "HTML",
-    "desc": "A cross-platform instant messaging client application built with Tauri and Vue 3, featuring one-to-one chat, group chat, file transfer, audio/video calling, screen recording, screenshot capture, and QR code login capabilities."
-  },
-  {
-    "createdAt": "2025-09-30T05:09:03Z",
-    "stars": 109,
-    "name": "TencentARC/RollingForcing",
-    "url": "https://github.com/TencentARC/RollingForcing",
-    "lang": "",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-10-04T05:55:25Z",
-    "stars": 108,
+    "stars": 150,
     "name": "MorDavid/NetworkHound",
     "url": "https://github.com/MorDavid/NetworkHound",
     "lang": "Python",
     "desc": "Advanced Active Directory network topology analyzer with SMB validation, multiple authentication methods (password/NTLM/Kerberos), and comprehensive network discovery. Export results as BloodHound‑compatible OpenGraph JSON."
   },
   {
-    "createdAt": "2025-09-29T17:26:55Z",
-    "stars": 105,
-    "name": "mlech26l/llm_intercept",
-    "url": "https://github.com/mlech26l/llm_intercept",
+    "createdAt": "2025-10-01T14:14:05Z",
+    "stars": 144,
+    "name": "bylinxx/MacCalendar",
+    "url": "https://github.com/bylinxx/MacCalendar",
+    "lang": "Swift",
+    "desc": "macOS菜单栏日历app，支持中国农历、节假日、系统日程等"
+  },
+  {
+    "createdAt": "2025-10-02T05:12:19Z",
+    "stars": 142,
+    "name": "Luckly-XYZ/Lucky-client",
+    "url": "https://github.com/Luckly-XYZ/Lucky-client",
+    "lang": "HTML",
+    "desc": "A cross-platform instant messaging client application built with Tauri and Vue 3, featuring one-to-one chat, group chat, file transfer, audio/video calling, screen recording, screenshot capture, and QR code login capabilities."
+  },
+  {
+    "createdAt": "2025-09-28T13:39:01Z",
+    "stars": 141,
+    "name": "joao-gugel/exercicios-bd-ptbr",
+    "url": "https://github.com/joao-gugel/exercicios-bd-ptbr",
+    "lang": "",
+    "desc": "Base de dados open source gratuita com mais de 800 exercícios físicos detalhados."
+  },
+  {
+    "createdAt": "2025-09-29T15:39:31Z",
+    "stars": 140,
+    "name": "Liquid4All/liquid-audio",
+    "url": "https://github.com/Liquid4All/liquid-audio",
     "lang": "Python",
+    "desc": "Liquid Audio - Speech-to-Speech audio models by Liquid AI"
+  },
+  {
+    "createdAt": "2025-10-02T16:48:26Z",
+    "stars": 133,
+    "name": "kubiks-inc/otel",
+    "url": "https://github.com/kubiks-inc/otel",
+    "lang": "TypeScript",
     "desc": ""
   },
   {
+    "createdAt": "2025-09-29T16:11:24Z",
+    "stars": 133,
+    "name": "liangdabiao/claude-data-analysis",
+    "url": "https://github.com/liangdabiao/claude-data-analysis",
+    "lang": "Python",
+    "desc": "Create a data analysis AI agent with Claude Code. Make data analysis as simple as having a chat!​​ 别忘了！claude code也是agent框架，类似langgraph,crewAI，autogen等等agent框架。我改造claude code搞一个数据分析智能体AI。 让数据分析变得像聊天一样简单！"
+  },
+  {
+    "createdAt": "2025-10-03T14:32:25Z",
+    "stars": 131,
+    "name": "theNetworkChuck/n8n-terry-guide",
+    "url": "https://github.com/theNetworkChuck/n8n-terry-guide",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-30T05:52:12Z",
+    "stars": 127,
+    "name": "louislam/its-mytabs",
+    "url": "https://github.com/louislam/its-mytabs",
+    "lang": "Vue",
+    "desc": "Open source, web based, self hostable guitar/bass tab viewer and player, similar to Songsterr."
+  },
+  {
     "createdAt": "2025-09-30T10:21:02Z",
-    "stars": 104,
+    "stars": 124,
     "name": "lucas380/repo-mebirkbf",
     "url": "https://github.com/lucas380/repo-mebirkbf",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-28T06:18:21Z",
-    "stars": 99,
-    "name": "jackrun123/cf_snippets_proxy",
-    "url": "https://github.com/jackrun123/cf_snippets_proxy",
+    "createdAt": "2025-10-01T11:29:17Z",
+    "stars": 124,
+    "name": "shovel-heroes-org/shovel-heroes",
+    "url": "https://github.com/shovel-heroes-org/shovel-heroes",
     "lang": "JavaScript",
-    "desc": ""
+    "desc": "鏟子英雄"
   },
   {
-    "createdAt": "2025-09-28T03:21:14Z",
-    "stars": 98,
-    "name": "eddyhhlure1Eddy/comfyui-frame-interpolation_cudafull",
-    "url": "https://github.com/eddyhhlure1Eddy/comfyui-frame-interpolation_cudafull",
+    "createdAt": "2025-09-29T01:43:43Z",
+    "stars": 123,
+    "name": "93won/lidar_odometry_for_beginner",
+    "url": "https://github.com/93won/lidar_odometry_for_beginner",
     "lang": "Python",
-    "desc": "speed-frame-interpolation"
-  },
-  {
-    "createdAt": "2025-10-01T23:16:59Z",
-    "stars": 98,
-    "name": "numman-ali/opencode-openai-codex-auth",
-    "url": "https://github.com/numman-ali/opencode-openai-codex-auth",
-    "lang": "TypeScript",
-    "desc": "OpenAI ChatGPT (Codex backend) OAuth auth plugin for opencode - use your ChatGPT Plus/Pro subscription instead of API credits"
-  },
-  {
-    "createdAt": "2025-10-01T08:28:46Z",
-    "stars": 95,
-    "name": "0xNinjaCyclone/AsmLdr",
-    "url": "https://github.com/0xNinjaCyclone/AsmLdr",
-    "lang": "Assembly",
-    "desc": "Dynamic shellcode loader with sophisticated evasion capabilities"
+    "desc": "LiDAR Odometry for Beginner"
   },
   {
     "createdAt": "2025-10-02T22:57:45Z",
-    "stars": 92,
+    "stars": 121,
     "name": "BearTS/actual-budget-app",
     "url": "https://github.com/BearTS/actual-budget-app",
     "lang": "Swift",
     "desc": "Native iOS SwiftUI client for Actual Budget—manage accounts, budgets, and transactions with a Summary widget and App Intents."
   },
   {
-    "createdAt": "2025-09-29T08:15:44Z",
-    "stars": 91,
-    "name": "showlab/Code2Video",
-    "url": "https://github.com/showlab/Code2Video",
+    "createdAt": "2025-09-29T03:23:18Z",
+    "stars": 121,
+    "name": "inclusionAI/Ming-UniAudio",
+    "url": "https://github.com/inclusionAI/Ming-UniAudio",
     "lang": "Python",
-    "desc": "Video generation via code"
+    "desc": ""
   },
   {
-    "createdAt": "2025-10-01T03:06:03Z",
-    "stars": 89,
-    "name": "facebookresearch/DepthLM_Official",
-    "url": "https://github.com/facebookresearch/DepthLM_Official",
-    "lang": "Python",
-    "desc": "Official implementation of DepthLM"
+    "createdAt": "2025-09-30T05:09:03Z",
+    "stars": 111,
+    "name": "TencentARC/RollingForcing",
+    "url": "https://github.com/TencentARC/RollingForcing",
+    "lang": "",
+    "desc": ""
   },
   {
-    "createdAt": "2025-09-27T17:08:34Z",
-    "stars": 89,
-    "name": "vanalmsick/workout_challenge",
-    "url": "https://github.com/vanalmsick/workout_challenge",
-    "lang": "JavaScript",
-    "desc": "No matter if a healthy close your rings competition with friends or a September steps challenge with work colleagues, this webapp enables you to compete with friends and co-workers across devices using the metrics you want to use respecting your privacy."
+    "createdAt": "2025-10-01T04:12:30Z",
+    "stars": 110,
+    "name": "agentica-org/pepper",
+    "url": "https://github.com/agentica-org/pepper",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-29T17:26:55Z",
+    "stars": 108,
+    "name": "mlech26l/llm_intercept",
+    "url": "https://github.com/mlech26l/llm_intercept",
+    "lang": "Python",
+    "desc": ""
   }
 ]
