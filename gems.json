@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-09-30T12:05:01Z",
-    "stars": 2658,
+    "stars": 2911,
     "name": "pathwaycom/bdh",
     "url": "https://github.com/pathwaycom/bdh",
     "lang": "Python",
@@ -9,27 +9,35 @@
   },
   {
     "createdAt": "2025-10-02T12:48:55Z",
-    "stars": 832,
+    "stars": 1493,
     "name": "neuphonic/neutts-air",
     "url": "https://github.com/neuphonic/neutts-air",
     "lang": "Python",
     "desc": "On-device TTS model by Neuphonic"
   },
   {
-    "createdAt": "2025-09-29T03:25:13Z",
-    "stars": 813,
-    "name": "deepseek-ai/DeepSeek-V3.2-Exp",
-    "url": "https://github.com/deepseek-ai/DeepSeek-V3.2-Exp",
-    "lang": "Python",
+    "createdAt": "2025-09-30T18:30:07Z",
+    "stars": 1084,
+    "name": "facebook/openzl",
+    "url": "https://github.com/facebook/openzl",
+    "lang": "C",
+    "desc": "A novel data compression framework"
+  },
+  {
+    "createdAt": "2025-10-04T21:00:32Z",
+    "stars": 874,
+    "name": "openai/chatkit-js",
+    "url": "https://github.com/openai/chatkit-js",
+    "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-29T10:43:21Z",
-    "stars": 633,
-    "name": "juxtopposed/Mystical-Blue-Theme",
-    "url": "https://github.com/juxtopposed/Mystical-Blue-Theme",
-    "lang": "Shell",
-    "desc": "KDE Plasma 6 Blue Theme"
+    "createdAt": "2025-10-06T15:02:22Z",
+    "stars": 639,
+    "name": "fathulfahmy/aio-usb-drive",
+    "url": "https://github.com/fathulfahmy/aio-usb-drive",
+    "lang": "",
+    "desc": "A curated collection of useful to have programs on a multiboot USB drive"
   },
   {
     "createdAt": "2025-09-30T14:08:29Z",
@@ -40,16 +48,8 @@
     "desc": "A free, open-source, multifunctional crypto arbitrage bot"
   },
   {
-    "createdAt": "2025-09-29T04:09:29Z",
-    "stars": 617,
-    "name": "agentic-commerce-protocol/agentic-commerce-protocol",
-    "url": "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol",
-    "lang": "",
-    "desc": "The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe."
-  },
-  {
     "createdAt": "2025-09-30T08:03:00Z",
-    "stars": 557,
+    "stars": 604,
     "name": "Esubaalew/run",
     "url": "https://github.com/Esubaalew/run",
     "lang": "Rust",
@@ -57,23 +57,15 @@
   },
   {
     "createdAt": "2025-10-02T12:12:18Z",
-    "stars": 547,
+    "stars": 565,
     "name": "LuoGen-AI/LuoGen-agent",
     "url": "https://github.com/LuoGen-AI/LuoGen-agent",
     "lang": "Python",
     "desc": "一键产出爆款视频：1.自动提取对标文案 2.自动进行文案仿写 3.自动根据文案声音克隆 4.自动生成数字人口播 5.自动添加字幕 6.自动添加背景音乐 7.自动添加视频标题 8.自动生成视频封面 9.自动将视频发布到各平台"
   },
   {
-    "createdAt": "2025-09-29T08:15:44Z",
-    "stars": 326,
-    "name": "showlab/Code2Video",
-    "url": "https://github.com/showlab/Code2Video",
-    "lang": "Python",
-    "desc": "Video generation via code"
-  },
-  {
     "createdAt": "2025-10-03T09:57:33Z",
-    "stars": 319,
+    "stars": 368,
     "name": "ck-zhang/reddix",
     "url": "https://github.com/ck-zhang/reddix",
     "lang": "Rust",
@@ -81,7 +73,7 @@
   },
   {
     "createdAt": "2025-10-02T21:26:36Z",
-    "stars": 308,
+    "stars": 320,
     "name": "DebarghaG/proofofthought",
     "url": "https://github.com/DebarghaG/proofofthought",
     "lang": "Python",
@@ -89,47 +81,47 @@
   },
   {
     "createdAt": "2025-10-01T00:48:38Z",
-    "stars": 285,
+    "stars": 301,
     "name": "Inception3D/TTT3R",
     "url": "https://github.com/Inception3D/TTT3R",
     "lang": "Python",
-    "desc": "A simple state update rule to enhance length generalization for CUT3R."
+    "desc": "A simple state update rule to enhance length generalization for CUT3R"
   },
   {
     "createdAt": "2025-10-03T18:36:51Z",
-    "stars": 228,
+    "stars": 242,
     "name": "True3DLabs/WindowMode",
     "url": "https://github.com/True3DLabs/WindowMode",
     "lang": "TypeScript",
     "desc": "Turn your screen into a Window into a virtual world"
   },
   {
-    "createdAt": "2025-09-29T14:25:48Z",
-    "stars": 211,
-    "name": "eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper",
-    "url": "https://github.com/eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper",
-    "lang": "Python",
-    "desc": "ode_lowstep"
+    "createdAt": "2025-10-03T14:32:25Z",
+    "stars": 241,
+    "name": "theNetworkChuck/n8n-terry-guide",
+    "url": "https://github.com/theNetworkChuck/n8n-terry-guide",
+    "lang": "",
+    "desc": ""
   },
   {
     "createdAt": "2025-10-03T11:08:09Z",
-    "stars": 208,
+    "stars": 230,
     "name": "InkboxSoftware/spacegamex64",
     "url": "https://github.com/InkboxSoftware/spacegamex64",
     "lang": "Assembly",
     "desc": "Recreation of a classic arcade game remade as a UEFI application for the x86_64 platform. "
   },
   {
-    "createdAt": "2025-09-30T11:47:23Z",
-    "stars": 196,
-    "name": "unkn0wn-root/resterm",
-    "url": "https://github.com/unkn0wn-root/resterm",
-    "lang": "Go",
-    "desc": "Terminal REST client for .http/.rest files with HTTP, GraphQL and gRPC support."
+    "createdAt": "2025-10-06T05:28:01Z",
+    "stars": 228,
+    "name": "openai/openai-apps-sdk-examples",
+    "url": "https://github.com/openai/openai-apps-sdk-examples",
+    "lang": "JavaScript",
+    "desc": "Example apps for the Apps SDK"
   },
   {
     "createdAt": "2025-10-02T05:12:19Z",
-    "stars": 194,
+    "stars": 224,
     "name": "Luckly-XYZ/Lucky-client",
     "url": "https://github.com/Luckly-XYZ/Lucky-client",
     "lang": "HTML",
@@ -137,23 +129,39 @@
   },
   {
     "createdAt": "2025-10-04T05:55:25Z",
-    "stars": 192,
+    "stars": 222,
     "name": "MorDavid/NetworkHound",
     "url": "https://github.com/MorDavid/NetworkHound",
     "lang": "Python",
     "desc": "Advanced Active Directory network topology analyzer with SMB validation, multiple authentication methods (password/NTLM/Kerberos), and comprehensive network discovery. Export results as BloodHound‑compatible OpenGraph JSON."
   },
   {
-    "createdAt": "2025-09-29T11:05:14Z",
-    "stars": 188,
-    "name": "WeChatCV/Wan-Alpha",
-    "url": "https://github.com/WeChatCV/Wan-Alpha",
-    "lang": "Python",
-    "desc": "High-Quality Text-to-Video Generation with Alpha Channel"
+    "createdAt": "2025-10-06T01:07:01Z",
+    "stars": 221,
+    "name": "openai/openai-chatkit-starter-app",
+    "url": "https://github.com/openai/openai-chatkit-starter-app",
+    "lang": "TypeScript",
+    "desc": "Starter app to build with OpenAI ChatKit + Agent Builder"
+  },
+  {
+    "createdAt": "2025-10-01T20:58:28Z",
+    "stars": 215,
+    "name": "openai/codex-action",
+    "url": "https://github.com/openai/codex-action",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-09-30T11:47:23Z",
+    "stars": 203,
+    "name": "unkn0wn-root/resterm",
+    "url": "https://github.com/unkn0wn-root/resterm",
+    "lang": "Go",
+    "desc": "Terminal REST client for .http/.rest files with HTTP, GraphQL and gRPC support."
   },
   {
     "createdAt": "2025-10-03T03:31:51Z",
-    "stars": 183,
+    "stars": 202,
     "name": "lamos22/Sexual-Repression-Calculator",
     "url": "https://github.com/lamos22/Sexual-Repression-Calculator",
     "lang": "TypeScript",
@@ -161,231 +169,159 @@
   },
   {
     "createdAt": "2025-10-02T02:35:17Z",
-    "stars": 180,
+    "stars": 193,
     "name": "CyberSecurityUP/n8n-cybersecurity-projects",
     "url": "https://github.com/CyberSecurityUP/n8n-cybersecurity-projects",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-03T14:32:25Z",
-    "stars": 179,
-    "name": "theNetworkChuck/n8n-terry-guide",
-    "url": "https://github.com/theNetworkChuck/n8n-terry-guide",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-04T21:00:32Z",
-    "stars": 176,
-    "name": "openai/chatkit-js",
-    "url": "https://github.com/openai/chatkit-js",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-29T11:08:50Z",
-    "stars": 176,
-    "name": "jmsdnns/webbol",
-    "url": "https://github.com/jmsdnns/webbol",
-    "lang": "COBOL",
-    "desc": "A minimal static web server written in COBOL"
-  },
-  {
-    "createdAt": "2025-09-30T16:22:52Z",
-    "stars": 174,
-    "name": "KittenBusters/CharmingKitten",
-    "url": "https://github.com/KittenBusters/CharmingKitten",
-    "lang": "Lua",
-    "desc": "Exposing CharmingKitten's malicious activity for IRGC-IO  Counterintelligence division (1500)"
-  },
-  {
-    "createdAt": "2025-09-30T10:21:02Z",
-    "stars": 172,
-    "name": "lucas380/repo-mebirkbf",
-    "url": "https://github.com/lucas380/repo-mebirkbf",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-06T15:02:22Z",
-    "stars": 171,
-    "name": "fathulfahmy/aio-usb-drive",
-    "url": "https://github.com/fathulfahmy/aio-usb-drive",
-    "lang": "",
-    "desc": "A curated collection of useful to have programs on a multiboot USB drive"
-  },
-  {
-    "createdAt": "2025-09-30T18:30:07Z",
-    "stars": 171,
-    "name": "facebook/openzl",
-    "url": "https://github.com/facebook/openzl",
-    "lang": "C",
-    "desc": "A novel data compression framework"
-  },
-  {
     "createdAt": "2025-09-30T03:02:13Z",
-    "stars": 169,
+    "stars": 187,
     "name": "ghostmkg/dsa-code",
     "url": "https://github.com/ghostmkg/dsa-code",
     "lang": "C++",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-01T14:14:05Z",
-    "stars": 155,
-    "name": "bylinxx/MacCalendar",
-    "url": "https://github.com/bylinxx/MacCalendar",
-    "lang": "Swift",
-    "desc": "macOS菜单栏日历app，支持中国农历、节假日、系统日程等"
+    "createdAt": "2025-09-30T10:21:02Z",
+    "stars": 184,
+    "name": "lucas380/repo-mebirkbf",
+    "url": "https://github.com/lucas380/repo-mebirkbf",
+    "lang": "",
+    "desc": ""
   },
   {
-    "createdAt": "2025-09-29T15:22:13Z",
-    "stars": 153,
-    "name": "bingcicle/bookish-octo-telegram",
-    "url": "https://github.com/bingcicle/bookish-octo-telegram",
-    "lang": "Python",
-    "desc": "funding-webhook"
-  },
-  {
-    "createdAt": "2025-09-29T15:09:04Z",
-    "stars": 153,
-    "name": "bingcicle/friendly-potato",
-    "url": "https://github.com/bingcicle/friendly-potato",
-    "lang": "Go",
-    "desc": "jsonl-tool"
+    "createdAt": "2025-09-30T16:22:52Z",
+    "stars": 179,
+    "name": "KittenBusters/CharmingKitten",
+    "url": "https://github.com/KittenBusters/CharmingKitten",
+    "lang": "Lua",
+    "desc": "Exposing CharmingKitten's malicious activity for IRGC-IO  Counterintelligence division (1500)"
   },
   {
     "createdAt": "2025-10-01T04:12:30Z",
-    "stars": 153,
+    "stars": 168,
     "name": "agentica-org/pepper",
     "url": "https://github.com/agentica-org/pepper",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-29T15:04:09Z",
-    "stars": 152,
-    "name": "bingcicle/env_guard",
-    "url": "https://github.com/bingcicle/env_guard",
-    "lang": "JavaScript",
-    "desc": "env_guard"
-  },
-  {
-    "createdAt": "2025-09-29T15:13:51Z",
-    "stars": 151,
-    "name": "bingcicle/crispy-palm-tree",
-    "url": "https://github.com/bingcicle/crispy-palm-tree",
-    "lang": "Rust",
-    "desc": "dirhash"
+    "createdAt": "2025-10-01T14:14:05Z",
+    "stars": 160,
+    "name": "bylinxx/MacCalendar",
+    "url": "https://github.com/bylinxx/MacCalendar",
+    "lang": "Swift",
+    "desc": "macOS菜单栏日历app，支持中国农历、节假日、系统日程等"
   },
   {
     "createdAt": "2025-10-02T16:48:26Z",
-    "stars": 150,
+    "stars": 157,
     "name": "kubiks-inc/otel",
     "url": "https://github.com/kubiks-inc/otel",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-09-29T15:39:31Z",
-    "stars": 149,
-    "name": "Liquid4All/liquid-audio",
-    "url": "https://github.com/Liquid4All/liquid-audio",
-    "lang": "Python",
-    "desc": "Liquid Audio - Speech-to-Speech audio models by Liquid AI"
-  },
-  {
-    "createdAt": "2025-10-02T11:41:49Z",
-    "stars": 141,
-    "name": "laurindoisaac/crypto-trader-bot-with-AI-algo",
-    "url": "https://github.com/laurindoisaac/crypto-trader-bot-with-AI-algo",
-    "lang": "Python",
-    "desc": "Craft complex trading strategies with remarkably simple Python. Access 300+ indicators, multi-symbol/timeframe support, spot/futures trading, partial fills, and risk management tools. Focus on logic, not boilerplate."
-  },
-  {
-    "createdAt": "2025-09-29T16:11:24Z",
-    "stars": 141,
-    "name": "liangdabiao/claude-data-analysis",
-    "url": "https://github.com/liangdabiao/claude-data-analysis",
-    "lang": "Python",
-    "desc": "Create a data analysis AI agent with Claude Code. Make data analysis as simple as having a chat!​​ 别忘了！claude code也是agent框架，类似langgraph,crewAI，autogen等等agent框架。我改造claude code搞一个数据分析智能体AI。 让数据分析变得像聊天一样简单！"
-  },
-  {
-    "createdAt": "2025-10-02T22:57:45Z",
-    "stars": 134,
-    "name": "BearTS/actual-budget-app",
-    "url": "https://github.com/BearTS/actual-budget-app",
-    "lang": "Swift",
-    "desc": "Native iOS SwiftUI client for Actual Budget—manage accounts, budgets, and transactions with a Summary widget and App Intents."
-  },
-  {
-    "createdAt": "2025-09-30T05:52:12Z",
-    "stars": 134,
-    "name": "louislam/its-mytabs",
-    "url": "https://github.com/louislam/its-mytabs",
-    "lang": "Vue",
-    "desc": "Open source, web based, self hostable guitar/bass tab viewer and player, similar to Songsterr."
-  },
-  {
-    "createdAt": "2025-09-29T03:23:18Z",
-    "stars": 133,
-    "name": "inclusionAI/Ming-UniAudio",
-    "url": "https://github.com/inclusionAI/Ming-UniAudio",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-10-06T00:36:32Z",
-    "stars": 128,
+    "stars": 155,
     "name": "MaximeRivest/maivi",
     "url": "https://github.com/MaximeRivest/maivi",
     "lang": "Python",
     "desc": "Maivi - My AI Voice Input: Real-time voice-to-text local on cpu better than whisper with hotkey support"
   },
   {
+    "createdAt": "2025-10-04T07:25:15Z",
+    "stars": 155,
+    "name": "VOLCANodOLPhI/Mev-Bot_Ethereum_network",
+    "url": "https://github.com/VOLCANodOLPhI/Mev-Bot_Ethereum_network",
+    "lang": "",
+    "desc": "Telegram Bot"
+  },
+  {
+    "createdAt": "2025-10-04T21:31:51Z",
+    "stars": 153,
+    "name": "openai/chatkit-python",
+    "url": "https://github.com/openai/chatkit-python",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-07T13:24:28Z",
+    "stars": 151,
+    "name": "SamsungSAILMontreal/TinyRecursiveModels",
+    "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-02T11:41:49Z",
+    "stars": 142,
+    "name": "laurindoisaac/crypto-trader-bot-with-AI-algo",
+    "url": "https://github.com/laurindoisaac/crypto-trader-bot-with-AI-algo",
+    "lang": "Python",
+    "desc": "Craft complex trading strategies with remarkably simple Python. Access 300+ indicators, multi-symbol/timeframe support, spot/futures trading, partial fills, and risk management tools. Focus on logic, not boilerplate."
+  },
+  {
+    "createdAt": "2025-09-30T05:52:12Z",
+    "stars": 140,
+    "name": "louislam/its-mytabs",
+    "url": "https://github.com/louislam/its-mytabs",
+    "lang": "Vue",
+    "desc": "Open source, web based, self hostable guitar/bass tab viewer and player, similar to Songsterr."
+  },
+  {
+    "createdAt": "2025-10-04T07:29:16Z",
+    "stars": 140,
+    "name": "Raezil/golang-interview-prep-in-english",
+    "url": "https://github.com/Raezil/golang-interview-prep-in-english",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-02T22:57:45Z",
+    "stars": 137,
+    "name": "BearTS/actual-budget-app",
+    "url": "https://github.com/BearTS/actual-budget-app",
+    "lang": "Swift",
+    "desc": "Native iOS SwiftUI client for Actual Budget—manage accounts, budgets, and transactions with a Summary widget and App Intents."
+  },
+  {
     "createdAt": "2025-10-01T11:29:17Z",
-    "stars": 126,
+    "stars": 129,
     "name": "shovel-heroes-org/shovel-heroes",
     "url": "https://github.com/shovel-heroes-org/shovel-heroes",
     "lang": "JavaScript",
     "desc": "鏟子英雄"
   },
   {
-    "createdAt": "2025-09-29T01:43:43Z",
-    "stars": 125,
-    "name": "93won/lidar_odometry_for_beginner",
-    "url": "https://github.com/93won/lidar_odometry_for_beginner",
+    "createdAt": "2025-10-06T01:08:49Z",
+    "stars": 124,
+    "name": "openai/openai-chatkit-advanced-samples",
+    "url": "https://github.com/openai/openai-chatkit-advanced-samples",
     "lang": "Python",
-    "desc": "LiDAR Odometry for Beginner"
-  },
-  {
-    "createdAt": "2025-09-30T05:09:03Z",
-    "stars": 117,
-    "name": "TencentARC/RollingForcing",
-    "url": "https://github.com/TencentARC/RollingForcing",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-09-29T17:26:55Z",
-    "stars": 114,
-    "name": "mlech26l/llm_intercept",
-    "url": "https://github.com/mlech26l/llm_intercept",
-    "lang": "Python",
-    "desc": ""
+    "desc": "Starter app to build with OpenAI ChatKit SDK"
   },
   {
     "createdAt": "2025-10-01T03:06:03Z",
-    "stars": 111,
+    "stars": 119,
     "name": "facebookresearch/DepthLM_Official",
     "url": "https://github.com/facebookresearch/DepthLM_Official",
     "lang": "Python",
     "desc": "Official implementation of DepthLM"
   },
   {
+    "createdAt": "2025-09-30T05:09:03Z",
+    "stars": 119,
+    "name": "TencentARC/RollingForcing",
+    "url": "https://github.com/TencentARC/RollingForcing",
+    "lang": "",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-10-03T20:20:00Z",
-    "stars": 110,
+    "stars": 118,
     "name": "whyrusleeping/konbini",
     "url": "https://github.com/whyrusleeping/konbini",
     "lang": "Go",
@@ -393,10 +329,74 @@
   },
   {
     "createdAt": "2025-10-01T23:16:59Z",
-    "stars": 109,
+    "stars": 117,
     "name": "numman-ali/opencode-openai-codex-auth",
     "url": "https://github.com/numman-ali/opencode-openai-codex-auth",
     "lang": "TypeScript",
     "desc": "OpenAI ChatGPT (Codex backend) OAuth auth plugin for opencode - use your ChatGPT Plus/Pro subscription instead of API credits"
+  },
+  {
+    "createdAt": "2025-10-07T16:14:47Z",
+    "stars": 116,
+    "name": "mshumer/sora-extend",
+    "url": "https://github.com/mshumer/sora-extend",
+    "lang": "Jupyter Notebook",
+    "desc": "Generate long Sora 2 videos that exceed OpenAI's native 12-second limit"
+  },
+  {
+    "createdAt": "2025-10-05T17:38:46Z",
+    "stars": 115,
+    "name": "buyi06/-Linux-",
+    "url": "https://github.com/buyi06/-Linux-",
+    "lang": "Shell",
+    "desc": "🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。"
+  },
+  {
+    "createdAt": "2025-10-02T16:17:30Z",
+    "stars": 114,
+    "name": "Nomad0x7/sekken-enum",
+    "url": "https://github.com/Nomad0x7/sekken-enum",
+    "lang": "C",
+    "desc": "adws enumeration bof"
+  },
+  {
+    "createdAt": "2025-10-06T00:58:01Z",
+    "stars": 112,
+    "name": "rafaelSwi/SolidGlass",
+    "url": "https://github.com/rafaelSwi/SolidGlass",
+    "lang": "Swift",
+    "desc": "Software to disable Liquid Glass on macOS Tahoe"
+  },
+  {
+    "createdAt": "2025-09-30T21:40:56Z",
+    "stars": 110,
+    "name": "TheOrcDev/youtube-to-blog",
+    "url": "https://github.com/TheOrcDev/youtube-to-blog",
+    "lang": "TypeScript",
+    "desc": "Simple YouTube url to MDX blog app"
+  },
+  {
+    "createdAt": "2025-09-30T03:58:49Z",
+    "stars": 110,
+    "name": "xindoo/agentic-design-patterns",
+    "url": "https://github.com/xindoo/agentic-design-patterns",
+    "lang": "HTML",
+    "desc": "Agent设计模式(agentic design patterns)中文版"
+  },
+  {
+    "createdAt": "2025-10-01T08:28:46Z",
+    "stars": 107,
+    "name": "0xNinjaCyclone/AsmLdr",
+    "url": "https://github.com/0xNinjaCyclone/AsmLdr",
+    "lang": "Assembly",
+    "desc": "Dynamic shellcode loader with sophisticated evasion capabilities"
+  },
+  {
+    "createdAt": "2025-10-05T11:48:17Z",
+    "stars": 100,
+    "name": "psalias2006/gpu-hot",
+    "url": "https://github.com/psalias2006/gpu-hot",
+    "lang": "HTML",
+    "desc": "🔥 Real-time NVIDIA GPU dashboard"
   }
 ]
