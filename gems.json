@@ -1,207 +1,391 @@
 [
   {
     "createdAt": "2025-10-02T12:48:55Z",
-    "stars": 1960,
+    "stars": 2324,
     "name": "neuphonic/neutts-air",
     "url": "https://github.com/neuphonic/neutts-air",
     "lang": "Python",
     "desc": "On-device TTS model by Neuphonic"
   },
   {
-    "createdAt": "2025-10-04T21:00:32Z",
-    "stars": 1082,
-    "name": "openai/chatkit-js",
-    "url": "https://github.com/openai/chatkit-js",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-06T15:02:22Z",
-    "stars": 991,
-    "name": "fathulfahmy/aio-usb-drive",
-    "url": "https://github.com/fathulfahmy/aio-usb-drive",
-    "lang": "",
-    "desc": "A curated collection of useful to have programs on a multiboot USB drive"
-  },
-  {
     "createdAt": "2025-10-07T13:24:28Z",
-    "stars": 956,
+    "stars": 1973,
     "name": "SamsungSAILMontreal/TinyRecursiveModels",
     "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-10-04T21:00:32Z",
+    "stars": 1164,
+    "name": "openai/chatkit-js",
+    "url": "https://github.com/openai/chatkit-js",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-10-06T05:28:01Z",
-    "stars": 721,
+    "stars": 1154,
     "name": "openai/openai-apps-sdk-examples",
     "url": "https://github.com/openai/openai-apps-sdk-examples",
     "lang": "JavaScript",
     "desc": "Example apps for the Apps SDK"
   },
   {
+    "createdAt": "2025-10-06T15:02:22Z",
+    "stars": 1043,
+    "name": "fathulfahmy/aio-usb-drive",
+    "url": "https://github.com/fathulfahmy/aio-usb-drive",
+    "lang": "",
+    "desc": "A curated collection of useful to have programs on a multiboot USB drive"
+  },
+  {
     "createdAt": "2025-10-02T12:12:18Z",
-    "stars": 600,
+    "stars": 638,
     "name": "LuoGen-AI/LuoGen-agent",
     "url": "https://github.com/LuoGen-AI/LuoGen-agent",
     "lang": "Python",
     "desc": "一键产出爆款视频：1.自动提取对标文案 2.自动进行文案仿写 3.自动根据文案声音克隆 4.自动生成数字人口播 5.自动添加字幕 6.自动添加背景音乐 7.自动添加视频标题 8.自动生成视频封面 9.自动将视频发布到各平台"
   },
   {
-    "createdAt": "2025-10-03T09:57:33Z",
-    "stars": 387,
-    "name": "ck-zhang/reddix",
-    "url": "https://github.com/ck-zhang/reddix",
-    "lang": "Rust",
-    "desc": "Reddix - Reddit, refined for the terminal."
-  },
-  {
-    "createdAt": "2025-10-01T20:58:28Z",
-    "stars": 386,
-    "name": "openai/codex-action",
-    "url": "https://github.com/openai/codex-action",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-02T21:26:36Z",
-    "stars": 326,
-    "name": "DebarghaG/proofofthought",
-    "url": "https://github.com/DebarghaG/proofofthought",
-    "lang": "Python",
-    "desc": "\"Proof of thought: Neurosymbolic program synthesis allows robust and interpretable reasoning\" published Sys2Reasoning Workshop NeurIPS 2024"
-  },
-  {
-    "createdAt": "2025-10-01T00:48:38Z",
-    "stars": 322,
-    "name": "Inception3D/TTT3R",
-    "url": "https://github.com/Inception3D/TTT3R",
-    "lang": "Python",
-    "desc": "A simple state update rule to enhance length generalization for CUT3R"
-  },
-  {
     "createdAt": "2025-10-02T05:12:19Z",
-    "stars": 287,
+    "stars": 424,
     "name": "Luckly-XYZ/Lucky-client",
     "url": "https://github.com/Luckly-XYZ/Lucky-client",
     "lang": "HTML",
     "desc": "A cross-platform instant messaging client application built with Tauri and Vue 3, featuring one-to-one chat, group chat, file transfer, audio/video calling, screen recording, screenshot capture, and QR code login capabilities."
   },
   {
-    "createdAt": "2025-10-06T01:07:01Z",
-    "stars": 284,
-    "name": "openai/openai-chatkit-starter-app",
-    "url": "https://github.com/openai/openai-chatkit-starter-app",
-    "lang": "TypeScript",
-    "desc": "Starter app to build with OpenAI ChatKit + Agent Builder"
-  },
-  {
-    "createdAt": "2025-10-07T16:14:47Z",
-    "stars": 276,
-    "name": "mshumer/sora-extend",
-    "url": "https://github.com/mshumer/sora-extend",
-    "lang": "Jupyter Notebook",
-    "desc": "Generate long Sora 2 videos that exceed OpenAI's native 12-second limit"
-  },
-  {
-    "createdAt": "2025-10-03T14:32:25Z",
-    "stars": 275,
-    "name": "theNetworkChuck/n8n-terry-guide",
-    "url": "https://github.com/theNetworkChuck/n8n-terry-guide",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-03T18:36:51Z",
-    "stars": 246,
-    "name": "True3DLabs/WindowMode",
-    "url": "https://github.com/True3DLabs/WindowMode",
-    "lang": "TypeScript",
-    "desc": "Turn your screen into a Window into a virtual world"
-  },
-  {
-    "createdAt": "2025-10-04T05:55:25Z",
-    "stars": 246,
-    "name": "MorDavid/NetworkHound",
-    "url": "https://github.com/MorDavid/NetworkHound",
-    "lang": "Python",
-    "desc": "Advanced Active Directory network topology analyzer with SMB validation, multiple authentication methods (password/NTLM/Kerberos), and comprehensive network discovery. Export results as BloodHound‑compatible OpenGraph JSON."
-  },
-  {
-    "createdAt": "2025-10-03T11:08:09Z",
-    "stars": 244,
-    "name": "InkboxSoftware/spacegamex64",
-    "url": "https://github.com/InkboxSoftware/spacegamex64",
-    "lang": "Assembly",
-    "desc": "Recreation of a classic arcade game remade as a UEFI application for the x86_64 platform. "
-  },
-  {
-    "createdAt": "2025-10-03T03:31:51Z",
-    "stars": 215,
-    "name": "lamos22/Sexual-Repression-Calculator",
-    "url": "https://github.com/lamos22/Sexual-Repression-Calculator",
-    "lang": "TypeScript",
-    "desc": "Sexual-Repression-Calculator"
-  },
-  {
-    "createdAt": "2025-10-01T14:14:05Z",
-    "stars": 209,
-    "name": "bylinxx/MacCalendar",
-    "url": "https://github.com/bylinxx/MacCalendar",
-    "lang": "Swift",
-    "desc": "macOS菜单栏日历app，支持中国农历、节假日、系统日程等"
-  },
-  {
-    "createdAt": "2025-10-02T02:35:17Z",
-    "stars": 196,
-    "name": "CyberSecurityUP/n8n-cybersecurity-projects",
-    "url": "https://github.com/CyberSecurityUP/n8n-cybersecurity-projects",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-01T04:12:30Z",
-    "stars": 195,
-    "name": "agentica-org/pepper",
-    "url": "https://github.com/agentica-org/pepper",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-04T21:31:51Z",
-    "stars": 188,
-    "name": "openai/chatkit-python",
-    "url": "https://github.com/openai/chatkit-python",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-05T05:05:37Z",
-    "stars": 172,
-    "name": "sindresorhus/css-extras",
-    "url": "https://github.com/sindresorhus/css-extras",
-    "lang": "CSS",
-    "desc": "Useful CSS custom functions using the new @​function rule"
+    "createdAt": "2025-10-03T09:57:33Z",
+    "stars": 402,
+    "name": "ck-zhang/reddix",
+    "url": "https://github.com/ck-zhang/reddix",
+    "lang": "Rust",
+    "desc": "Reddix - Reddit, refined for the terminal."
   },
   {
     "createdAt": "2025-10-07T21:03:17Z",
-    "stars": 170,
+    "stars": 396,
     "name": "Mordoria/unnamed_game_1_v2",
     "url": "https://github.com/Mordoria/unnamed_game_1_v2",
     "lang": "Lua",
     "desc": "The Release of Mordoria"
   },
   {
-    "createdAt": "2025-10-04T07:29:16Z",
-    "stars": 166,
-    "name": "Raezil/golang-interview-prep-in-english",
-    "url": "https://github.com/Raezil/golang-interview-prep-in-english",
+    "createdAt": "2025-10-08T15:33:01Z",
+    "stars": 383,
+    "name": "xbpeng/MimicKit",
+    "url": "https://github.com/xbpeng/MimicKit",
+    "lang": "Python",
+    "desc": "Suite of motion imitation algorithms for training motion controllers."
+  },
+  {
+    "createdAt": "2025-10-07T16:14:47Z",
+    "stars": 343,
+    "name": "mshumer/sora-extend",
+    "url": "https://github.com/mshumer/sora-extend",
+    "lang": "Jupyter Notebook",
+    "desc": "Generate long Sora 2 videos that exceed OpenAI's native 12-second limit"
+  },
+  {
+    "createdAt": "2025-10-06T01:07:01Z",
+    "stars": 328,
+    "name": "openai/openai-chatkit-starter-app",
+    "url": "https://github.com/openai/openai-chatkit-starter-app",
+    "lang": "TypeScript",
+    "desc": "Starter app to build with OpenAI ChatKit + Agent Builder"
+  },
+  {
+    "createdAt": "2025-10-02T21:26:36Z",
+    "stars": 328,
+    "name": "DebarghaG/proofofthought",
+    "url": "https://github.com/DebarghaG/proofofthought",
+    "lang": "Python",
+    "desc": "\"Proof of thought: Neurosymbolic program synthesis allows robust and interpretable reasoning\" published Sys2Reasoning Workshop NeurIPS 2024"
+  },
+  {
+    "createdAt": "2025-10-03T14:32:25Z",
+    "stars": 304,
+    "name": "theNetworkChuck/n8n-terry-guide",
+    "url": "https://github.com/theNetworkChuck/n8n-terry-guide",
     "lang": "",
     "desc": ""
   },
   {
+    "createdAt": "2025-10-05T11:48:17Z",
+    "stars": 292,
+    "name": "psalias2006/gpu-hot",
+    "url": "https://github.com/psalias2006/gpu-hot",
+    "lang": "JavaScript",
+    "desc": "🔥 Real-time NVIDIA GPU dashboard"
+  },
+  {
+    "createdAt": "2025-10-03T11:08:09Z",
+    "stars": 263,
+    "name": "InkboxSoftware/spacegamex64",
+    "url": "https://github.com/InkboxSoftware/spacegamex64",
+    "lang": "Assembly",
+    "desc": "Recreation of a classic arcade game remade as a UEFI application for the x86_64 platform. "
+  },
+  {
+    "createdAt": "2025-10-04T05:55:25Z",
+    "stars": 261,
+    "name": "MorDavid/NetworkHound",
+    "url": "https://github.com/MorDavid/NetworkHound",
+    "lang": "Python",
+    "desc": "Advanced Active Directory network topology analyzer with SMB validation, multiple authentication methods (password/NTLM/Kerberos), and comprehensive network discovery. Export results as BloodHound‑compatible OpenGraph JSON."
+  },
+  {
+    "createdAt": "2025-10-03T18:36:51Z",
+    "stars": 250,
+    "name": "True3DLabs/WindowMode",
+    "url": "https://github.com/True3DLabs/WindowMode",
+    "lang": "TypeScript",
+    "desc": "Turn your screen into a Window into a virtual world"
+  },
+  {
+    "createdAt": "2025-10-03T03:31:51Z",
+    "stars": 236,
+    "name": "lamos22/Sexual-Repression-Calculator",
+    "url": "https://github.com/lamos22/Sexual-Repression-Calculator",
+    "lang": "TypeScript",
+    "desc": "Sexual-Repression-Calculator"
+  },
+  {
+    "createdAt": "2025-10-07T06:14:22Z",
+    "stars": 230,
+    "name": "luzhenhua/NCE-Flow",
+    "url": "https://github.com/luzhenhua/NCE-Flow",
+    "lang": "JavaScript",
+    "desc": "新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。"
+  },
+  {
+    "createdAt": "2025-10-03T21:15:44Z",
+    "stars": 221,
+    "name": "built-by-as/FleetCode",
+    "url": "https://github.com/built-by-as/FleetCode",
+    "lang": "TypeScript",
+    "desc": "Light-weight control pane to run CLI coding agents(Claude Code, Codex) in parallel"
+  },
+  {
+    "createdAt": "2025-10-05T05:05:37Z",
+    "stars": 211,
+    "name": "sindresorhus/css-extras",
+    "url": "https://github.com/sindresorhus/css-extras",
+    "lang": "CSS",
+    "desc": "Useful CSS custom functions using the new @​function rule"
+  },
+  {
+    "createdAt": "2025-10-09T16:20:04Z",
+    "stars": 208,
+    "name": "Tabish123t/benefits-of-electron-executor",
+    "url": "https://github.com/Tabish123t/benefits-of-electron-executor",
+    "lang": "",
+    "desc": "benefits-of-electron-executor"
+  },
+  {
+    "createdAt": "2025-10-09T16:22:28Z",
+    "stars": 208,
+    "name": "shihebamri/benefits-of-krnl-for-roblox",
+    "url": "https://github.com/shihebamri/benefits-of-krnl-for-roblox",
+    "lang": "",
+    "desc": "benefits-of-krnl-for-roblox"
+  },
+  {
+    "createdAt": "2025-10-09T16:30:42Z",
+    "stars": 208,
+    "name": "maopro825/DAWN",
+    "url": "https://github.com/maopro825/DAWN",
+    "lang": "",
+    "desc": "DAWN DAWN-workflow DAWN-decentralized DAWN-Testnet DAWN-free-download DAWN-setup-2025 DAWN-install DAWN-platform DAWN-tools"
+  },
+  {
+    "createdAt": "2025-10-09T16:17:46Z",
+    "stars": 208,
+    "name": "hamza124243/Axie-Infinity",
+    "url": "https://github.com/hamza124243/Axie-Infinity",
+    "lang": "",
+    "desc": "Download Axie Infinity Trainer Hack 2025 - Unlimited Energy, Auto Battle, SLP Farming & More Cheats"
+  },
+  {
+    "createdAt": "2025-10-09T16:26:59Z",
+    "stars": 208,
+    "name": "SaumyaRana21/CryptoDragon",
+    "url": "https://github.com/SaumyaRana21/CryptoDragon",
+    "lang": "",
+    "desc": "Download CryptoDragon Trainer Hack 2025 – Unlimited Resources, Auto-Battle & Dragon Evolution Cheats"
+  },
+  {
+    "createdAt": "2025-10-09T16:15:07Z",
+    "stars": 208,
+    "name": "ZaferGunal/Avantisfi-DEX-TRADING",
+    "url": "https://github.com/ZaferGunal/Avantisfi-DEX-TRADING",
+    "lang": "",
+    "desc": "AvantisFi Quantum Trader 2025 - AI-Powered DeFi Yield Optimizer"
+  },
+  {
+    "createdAt": "2025-10-09T16:12:58Z",
+    "stars": 208,
+    "name": "DariusCorp/Aster-Protocol---Overview",
+    "url": "https://github.com/DariusCorp/Aster-Protocol---Overview",
+    "lang": "",
+    "desc": "Aster - Next-Generation Blockchain Orchestration Platform"
+  },
+  {
+    "createdAt": "2025-10-09T16:24:58Z",
+    "stars": 208,
+    "name": "Nathanel3103/BONK--Arena",
+    "url": "https://github.com/Nathanel3103/BONK--Arena",
+    "lang": "",
+    "desc": "Download BONK! Arena Trainer Hack 2025 - Unlimited Coins, Free Skins, God Mode & More Cheats"
+  },
+  {
+    "createdAt": "2025-10-09T16:39:31Z",
+    "stars": 207,
+    "name": "leo123goodboy/Grass-Desktop-Node",
+    "url": "https://github.com/leo123goodboy/Grass-Desktop-Node",
+    "lang": "",
+    "desc": "- Grass-Desktop-Node   - Grass-Farmer   - Grass-Miner   - Bandwidth-Mining   - Passive-Income-Bot   - Grass-Network-Automation   - Decentralized-VPN   - Web3-Earnings   - Crypto-Node-Software   - Grass-Multireger   - Grass-AutoFarm   - Grass-mining-bot  "
+  },
+  {
+    "createdAt": "2025-10-09T16:36:42Z",
+    "stars": 207,
+    "name": "hektor2/Gradient-Network",
+    "url": "https://github.com/hektor2/Gradient-Network",
+    "lang": "",
+    "desc": "Gradient-Network Gradient-free-download Gradient-setup-2024 Gradient-install Gradient-crypto Gradient-tools Gradient-Reger Gradient-Farmer"
+  },
+  {
+    "createdAt": "2025-10-09T17:31:00Z",
+    "stars": 207,
+    "name": "HoangMinn/Form-trading-bot",
+    "url": "https://github.com/HoangMinn/Form-trading-bot",
+    "lang": "",
+    "desc": "Form Trading Bot is an advanced algorithmic trading system designed to automate and optimize your trading strategies across multiple financial markets. Leveraging cutting-edge AI and quantitative analysis, it executes trades with precision and speed unmatched by manual trading."
+  },
+  {
+    "createdAt": "2025-10-09T16:49:33Z",
+    "stars": 207,
+    "name": "ni-tor/Monad-Bot",
+    "url": "https://github.com/ni-tor/Monad-Bot",
+    "lang": "",
+    "desc": "- nodejs  - node  - monad  - monad-bot  - monadscore  - monadscore-bot  - monadscore-auto-bot - monad-testnet  - monad-automation  - monad-token-earnings  - monad-script  - monadscore-autofarm "
+  },
+  {
+    "createdAt": "2025-10-09T16:54:57Z",
+    "stars": 207,
+    "name": "danghanma/Pacifica-DEX",
+    "url": "https://github.com/danghanma/Pacifica-DEX",
+    "lang": "",
+    "desc": "Trade automatically on pacificaDEX and profit from trades and future airdrop"
+  },
+  {
+    "createdAt": "2025-10-09T17:18:12Z",
+    "stars": 207,
+    "name": "dynehydro/Form-Bnb-bot",
+    "url": "https://github.com/dynehydro/Form-Bnb-bot",
+    "lang": "",
+    "desc": "FormBNB Auto-Bot is a powerful automation solution designed to maximize your earnings in the FormBNB ecosystem. Our advanced bot enables efficient airdrop farming through intelligent form automation and multi-account management capabilities."
+  },
+  {
+    "createdAt": "2025-10-09T16:34:01Z",
+    "stars": 207,
+    "name": "darkhacker1234/Ethereal-DEX-TRADING",
+    "url": "https://github.com/darkhacker1234/Ethereal-DEX-TRADING",
+    "lang": "",
+    "desc": "Ethereal - Next-Generation Blockchain Infrastructure Platform"
+  },
+  {
+    "createdAt": "2025-10-09T16:56:52Z",
+    "stars": 207,
+    "name": "Haseeb178232/Silent-Crypto-Miner",
+    "url": "https://github.com/Haseeb178232/Silent-Crypto-Miner",
+    "lang": "",
+    "desc": "crypto mining  nicehash-miner  crypto-mining  miner-crypto  crypto-miner-download miner-download miner-crypto-download"
+  },
+  {
+    "createdAt": "2025-10-09T16:42:38Z",
+    "stars": 207,
+    "name": "markstiv/Hibachi-Trade",
+    "url": "https://github.com/markstiv/Hibachi-Trade",
+    "lang": "",
+    "desc": "Hibachi.xyz - Advanced Multi-Chain DEX Aggregator & Yield Optimizer"
+  },
+  {
+    "createdAt": "2025-10-09T16:32:11Z",
+    "stars": 207,
+    "name": "lkevins/DAWN-Bot",
+    "url": "https://github.com/lkevins/DAWN-Bot",
+    "lang": "",
+    "desc": "DAWN-Reger DAWN-Farmer DAWN-Miner DAWN-Multireger DAWN-Multifarmer DAWN-Autofarm DAWN-Extension-Bot DAWN-Bot DAWN-Multiwallet"
+  },
+  {
+    "createdAt": "2025-10-09T16:45:38Z",
+    "stars": 207,
+    "name": "GTA5MODDERSENDFILESTOMOD/lighter-TRADING",
+    "url": "https://github.com/GTA5MODDERSENDFILESTOMOD/lighter-TRADING",
+    "lang": "",
+    "desc": "Lighter.xyz - Lightning Fast Crypto Derivatives & Perpetuals Exchange"
+  },
+  {
+    "createdAt": "2025-10-09T16:59:43Z",
+    "stars": 207,
+    "name": "s7lt/TradingView-Crack",
+    "url": "https://github.com/s7lt/TradingView-Crack",
+    "lang": "",
+    "desc": "trading-view tradingview tradingview-download-on-pc tradingview-app tradingview-premium tradingview-premium-free tradingview-free-premium tradingview-Crack"
+  },
+  {
+    "createdAt": "2025-10-09T16:52:18Z",
+    "stars": 207,
+    "name": "Jarvisstark207/Nodepay-Bot",
+    "url": "https://github.com/Jarvisstark207/Nodepay-Bot",
+    "lang": "",
+    "desc": "Nodepay-Bot"
+  },
+  {
+    "createdAt": "2025-10-04T21:31:51Z",
+    "stars": 204,
+    "name": "openai/chatkit-python",
+    "url": "https://github.com/openai/chatkit-python",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-02T02:35:17Z",
+    "stars": 202,
+    "name": "CyberSecurityUP/n8n-cybersecurity-projects",
+    "url": "https://github.com/CyberSecurityUP/n8n-cybersecurity-projects",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-07T12:52:33Z",
+    "stars": 200,
+    "name": "fanegg/Human3R",
+    "url": "https://github.com/fanegg/Human3R",
+    "lang": "Python",
+    "desc": "An unified model for 4D human-scene reconstruction"
+  },
+  {
+    "createdAt": "2025-10-06T01:08:49Z",
+    "stars": 192,
+    "name": "openai/openai-chatkit-advanced-samples",
+    "url": "https://github.com/openai/openai-chatkit-advanced-samples",
+    "lang": "Python",
+    "desc": "Starter app to build with OpenAI ChatKit SDK"
+  },
+  {
+    "createdAt": "2025-10-03T08:50:16Z",
+    "stars": 189,
+    "name": "showlab/Paper2Video",
+    "url": "https://github.com/showlab/Paper2Video",
+    "lang": "Python",
+    "desc": "Automatic Video Generation from Scientific Papers"
+  },
+  {
     "createdAt": "2025-10-04T06:57:00Z",
-    "stars": 163,
+    "stars": 185,
     "name": "irony/aspipes",
     "url": "https://github.com/irony/aspipes",
     "lang": "JavaScript",
@@ -209,194 +393,10 @@
   },
   {
     "createdAt": "2025-10-05T20:34:42Z",
-    "stars": 163,
+    "stars": 182,
     "name": "cyberblu3s/CyberBlue",
     "url": "https://github.com/cyberblu3s/CyberBlue",
     "lang": "Shell",
     "desc": "CyberSecurity BLUE TEAM containerized platform that brings together open-source tools for SIEM, DFIR, CTI, SOAR, and Network Analysis"
-  },
-  {
-    "createdAt": "2025-10-06T00:36:32Z",
-    "stars": 160,
-    "name": "MaximeRivest/maivi",
-    "url": "https://github.com/MaximeRivest/maivi",
-    "lang": "Python",
-    "desc": "Maivi - My AI Voice Input: Real-time voice-to-text local on cpu better than whisper with hotkey support"
-  },
-  {
-    "createdAt": "2025-10-02T16:48:26Z",
-    "stars": 160,
-    "name": "kubiks-inc/otel",
-    "url": "https://github.com/kubiks-inc/otel",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-06T01:08:49Z",
-    "stars": 159,
-    "name": "openai/openai-chatkit-advanced-samples",
-    "url": "https://github.com/openai/openai-chatkit-advanced-samples",
-    "lang": "Python",
-    "desc": "Starter app to build with OpenAI ChatKit SDK"
-  },
-  {
-    "createdAt": "2025-10-04T07:25:15Z",
-    "stars": 155,
-    "name": "VOLCANodOLPhI/Mev-Bot_Ethereum_network",
-    "url": "https://github.com/VOLCANodOLPhI/Mev-Bot_Ethereum_network",
-    "lang": "",
-    "desc": "Telegram Bot"
-  },
-  {
-    "createdAt": "2025-10-06T00:58:01Z",
-    "stars": 148,
-    "name": "rafaelSwi/SolidGlass",
-    "url": "https://github.com/rafaelSwi/SolidGlass",
-    "lang": "Swift",
-    "desc": "Software to disable Liquid Glass on macOS Tahoe"
-  },
-  {
-    "createdAt": "2025-10-07T12:52:33Z",
-    "stars": 143,
-    "name": "fanegg/Human3R",
-    "url": "https://github.com/fanegg/Human3R",
-    "lang": "Python",
-    "desc": "An unified model for 4D human-scene reconstruction"
-  },
-  {
-    "createdAt": "2025-10-02T11:41:49Z",
-    "stars": 142,
-    "name": "laurindoisaac/crypto-trader-bot-with-AI-algo",
-    "url": "https://github.com/laurindoisaac/crypto-trader-bot-with-AI-algo",
-    "lang": "Python",
-    "desc": "Craft complex trading strategies with remarkably simple Python. Access 300+ indicators, multi-symbol/timeframe support, spot/futures trading, partial fills, and risk management tools. Focus on logic, not boilerplate."
-  },
-  {
-    "createdAt": "2025-10-02T22:57:45Z",
-    "stars": 139,
-    "name": "BearTS/actual-budget-app",
-    "url": "https://github.com/BearTS/actual-budget-app",
-    "lang": "Swift",
-    "desc": "Native iOS SwiftUI client for Actual Budget—manage accounts, budgets, and transactions with a Summary widget and App Intents."
-  },
-  {
-    "createdAt": "2025-10-01T11:29:17Z",
-    "stars": 132,
-    "name": "shovel-heroes-org/shovel-heroes",
-    "url": "https://github.com/shovel-heroes-org/shovel-heroes",
-    "lang": "JavaScript",
-    "desc": "鏟子英雄"
-  },
-  {
-    "createdAt": "2025-10-01T03:06:03Z",
-    "stars": 131,
-    "name": "facebookresearch/DepthLM_Official",
-    "url": "https://github.com/facebookresearch/DepthLM_Official",
-    "lang": "Python",
-    "desc": "Official implementation of DepthLM"
-  },
-  {
-    "createdAt": "2025-10-05T17:38:46Z",
-    "stars": 131,
-    "name": "buyi06/-Linux-",
-    "url": "https://github.com/buyi06/-Linux-",
-    "lang": "Shell",
-    "desc": "🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。"
-  },
-  {
-    "createdAt": "2025-10-05T11:48:17Z",
-    "stars": 130,
-    "name": "psalias2006/gpu-hot",
-    "url": "https://github.com/psalias2006/gpu-hot",
-    "lang": "JavaScript",
-    "desc": "🔥 Real-time NVIDIA GPU dashboard"
-  },
-  {
-    "createdAt": "2025-10-07T06:14:22Z",
-    "stars": 129,
-    "name": "luzhenhua/NCE-Flow",
-    "url": "https://github.com/luzhenhua/NCE-Flow",
-    "lang": "JavaScript",
-    "desc": "新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。"
-  },
-  {
-    "createdAt": "2025-10-01T23:16:59Z",
-    "stars": 121,
-    "name": "numman-ali/opencode-openai-codex-auth",
-    "url": "https://github.com/numman-ali/opencode-openai-codex-auth",
-    "lang": "TypeScript",
-    "desc": "OpenAI ChatGPT (Codex backend) OAuth auth plugin for opencode - use your ChatGPT Plus/Pro subscription instead of API credits"
-  },
-  {
-    "createdAt": "2025-10-03T20:20:00Z",
-    "stars": 121,
-    "name": "whyrusleeping/konbini",
-    "url": "https://github.com/whyrusleeping/konbini",
-    "lang": "Go",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-02T16:17:30Z",
-    "stars": 120,
-    "name": "Nomad0x7/sekken-enum",
-    "url": "https://github.com/Nomad0x7/sekken-enum",
-    "lang": "C",
-    "desc": "adws enumeration bof"
-  },
-  {
-    "createdAt": "2025-10-01T08:28:46Z",
-    "stars": 111,
-    "name": "0xNinjaCyclone/AsmLdr",
-    "url": "https://github.com/0xNinjaCyclone/AsmLdr",
-    "lang": "Assembly",
-    "desc": "Dynamic shellcode loader with sophisticated evasion capabilities"
-  },
-  {
-    "createdAt": "2025-10-03T12:19:19Z",
-    "stars": 110,
-    "name": "bitDive/mcp-server",
-    "url": "https://github.com/bitDive/mcp-server",
-    "lang": "",
-    "desc": "bitdive mcp server for conenction with AI"
-  },
-  {
-    "createdAt": "2025-10-03T12:21:12Z",
-    "stars": 106,
-    "name": "bitDive/bitdive-test",
-    "url": "https://github.com/bitDive/bitdive-test",
-    "lang": "",
-    "desc": "dependency for creating tests based on the monitoring system"
-  },
-  {
-    "createdAt": "2025-10-04T00:06:47Z",
-    "stars": 103,
-    "name": "geonot/retrocide-mono",
-    "url": "https://github.com/geonot/retrocide-mono",
-    "lang": "CSS",
-    "desc": "Type like it's 1985. Code like it's tomorrow."
-  },
-  {
-    "createdAt": "2025-10-03T08:50:16Z",
-    "stars": 102,
-    "name": "showlab/Paper2Video",
-    "url": "https://github.com/showlab/Paper2Video",
-    "lang": "Python",
-    "desc": "Automatic Video Generation from Scientific Papers"
-  },
-  {
-    "createdAt": "2025-10-04T20:22:05Z",
-    "stars": 101,
-    "name": "MariaLetta/free-ferris-pack",
-    "url": "https://github.com/MariaLetta/free-ferris-pack",
-    "lang": "Rust",
-    "desc": "🦀 Pack of 50+ Ferris pictures and elements will help you to build your own design for anything related to Rust Programming Language: presentations, README files, posts in blogs or social media, courses, videos and many, many more. "
-  },
-  {
-    "createdAt": "2025-10-06T04:24:29Z",
-    "stars": 101,
-    "name": "kyleturman/home-dashboard",
-    "url": "https://github.com/kyleturman/home-dashboard",
-    "lang": "JavaScript",
-    "desc": "A home weather dashboard for e-ink displays"
   }
 ]
