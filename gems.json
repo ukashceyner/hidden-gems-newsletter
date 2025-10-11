@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-10-07T13:24:28Z",
-    "stars": 2985,
+    "stars": 3528,
     "name": "SamsungSAILMontreal/TinyRecursiveModels",
     "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
     "lang": "Python",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-10-04T21:00:32Z",
-    "stars": 1257,
+    "stars": 1349,
     "name": "openai/chatkit-js",
     "url": "https://github.com/openai/chatkit-js",
     "lang": "TypeScript",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-10-06T05:28:01Z",
-    "stars": 1248,
+    "stars": 1293,
     "name": "openai/openai-apps-sdk-examples",
     "url": "https://github.com/openai/openai-apps-sdk-examples",
     "lang": "JavaScript",
@@ -25,7 +25,7 @@
   },
   {
     "createdAt": "2025-10-06T15:02:22Z",
-    "stars": 1120,
+    "stars": 1207,
     "name": "fathulfahmy/aio-usb-drive",
     "url": "https://github.com/fathulfahmy/aio-usb-drive",
     "lang": "",
@@ -33,7 +33,7 @@
   },
   {
     "createdAt": "2025-10-07T21:03:17Z",
-    "stars": 731,
+    "stars": 978,
     "name": "Mordoria/unnamed_game_1_v2",
     "url": "https://github.com/Mordoria/unnamed_game_1_v2",
     "lang": "Lua",
@@ -41,7 +41,7 @@
   },
   {
     "createdAt": "2025-10-07T15:53:38Z",
-    "stars": 535,
+    "stars": 593,
     "name": "Uak0/crypto-tax-calculator",
     "url": "https://github.com/Uak0/crypto-tax-calculator",
     "lang": "Python",
@@ -49,159 +49,135 @@
   },
   {
     "createdAt": "2025-10-08T15:33:01Z",
-    "stars": 516,
+    "stars": 570,
     "name": "xbpeng/MimicKit",
     "url": "https://github.com/xbpeng/MimicKit",
     "lang": "Python",
-    "desc": "Suite of motion imitation algorithms for training motion controllers."
-  },
-  {
-    "createdAt": "2025-10-03T09:57:33Z",
-    "stars": 409,
-    "name": "ck-zhang/reddix",
-    "url": "https://github.com/ck-zhang/reddix",
-    "lang": "Rust",
-    "desc": "Reddix - Reddit, refined for the terminal."
-  },
-  {
-    "createdAt": "2025-10-05T11:48:17Z",
-    "stars": 377,
-    "name": "psalias2006/gpu-hot",
-    "url": "https://github.com/psalias2006/gpu-hot",
-    "lang": "JavaScript",
-    "desc": "🔥 Real-time NVIDIA GPU dashboard"
-  },
-  {
-    "createdAt": "2025-10-07T16:14:47Z",
-    "stars": 375,
-    "name": "mshumer/sora-extend",
-    "url": "https://github.com/mshumer/sora-extend",
-    "lang": "Jupyter Notebook",
-    "desc": "Generate long Sora 2 videos that exceed OpenAI's native 12-second limit"
-  },
-  {
-    "createdAt": "2025-10-06T01:07:01Z",
-    "stars": 372,
-    "name": "openai/openai-chatkit-starter-app",
-    "url": "https://github.com/openai/openai-chatkit-starter-app",
-    "lang": "TypeScript",
-    "desc": "Starter app to build with OpenAI ChatKit + Agent Builder"
+    "desc": "Suite of motion imitation methods for training motion controllers."
   },
   {
     "createdAt": "2025-10-09T08:52:25Z",
-    "stars": 336,
+    "stars": 564,
     "name": "KsanaDock/Microverse",
     "url": "https://github.com/KsanaDock/Microverse",
     "lang": "GDScript",
     "desc": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication."
   },
   {
-    "createdAt": "2025-10-03T14:32:25Z",
-    "stars": 324,
-    "name": "theNetworkChuck/n8n-terry-guide",
-    "url": "https://github.com/theNetworkChuck/n8n-terry-guide",
-    "lang": "",
-    "desc": ""
+    "createdAt": "2025-10-10T02:04:10Z",
+    "stars": 437,
+    "name": "simonw/claude-skills",
+    "url": "https://github.com/simonw/claude-skills",
+    "lang": "Python",
+    "desc": "The contents of /mnt/skills in Claude's code interpreter environment"
+  },
+  {
+    "createdAt": "2025-10-05T11:48:17Z",
+    "stars": 416,
+    "name": "psalias2006/gpu-hot",
+    "url": "https://github.com/psalias2006/gpu-hot",
+    "lang": "JavaScript",
+    "desc": "🔥 Real-time NVIDIA GPU dashboard"
+  },
+  {
+    "createdAt": "2025-10-09T19:45:18Z",
+    "stars": 411,
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "lang": "Shell",
+    "desc": "Claude Code superpowers: core skills library"
+  },
+  {
+    "createdAt": "2025-10-06T01:07:01Z",
+    "stars": 400,
+    "name": "openai/openai-chatkit-starter-app",
+    "url": "https://github.com/openai/openai-chatkit-starter-app",
+    "lang": "TypeScript",
+    "desc": "Starter app to build with OpenAI ChatKit + Agent Builder"
+  },
+  {
+    "createdAt": "2025-10-07T16:14:47Z",
+    "stars": 399,
+    "name": "mshumer/sora-extend",
+    "url": "https://github.com/mshumer/sora-extend",
+    "lang": "Jupyter Notebook",
+    "desc": "Generate long Sora 2 videos that exceed OpenAI's native 12-second limit"
+  },
+  {
+    "createdAt": "2025-10-07T07:28:01Z",
+    "stars": 327,
+    "name": "wizenheimer/blaze",
+    "url": "https://github.com/wizenheimer/blaze",
+    "lang": "Go",
+    "desc": "Full Text Search Engine written in Go"
+  },
+  {
+    "createdAt": "2025-10-07T19:02:21Z",
+    "stars": 313,
+    "name": "ChrisTitusTech/bypassnro",
+    "url": "https://github.com/ChrisTitusTech/bypassnro",
+    "lang": "Batchfile",
+    "desc": "Fixing Microsoft's removal of BypassNRO"
+  },
+  {
+    "createdAt": "2025-10-08T08:02:01Z",
+    "stars": 313,
+    "name": "xincmm/sageread",
+    "url": "https://github.com/xincmm/sageread",
+    "lang": "TypeScript",
+    "desc": "一款 AI 辅助阅读器，三栏设计实现笔记、阅读、对话同屏交互，让深度阅读更高效"
   },
   {
     "createdAt": "2025-10-09T15:00:00Z",
-    "stars": 281,
+    "stars": 312,
     "name": "mafik/keyer",
     "url": "https://github.com/mafik/keyer",
     "lang": "JavaScript",
     "desc": "Firmware & goodies for making a KEYER (one-handed chorded keyboard)."
   },
   {
-    "createdAt": "2025-10-07T07:28:01Z",
-    "stars": 278,
-    "name": "wizenheimer/blaze",
-    "url": "https://github.com/wizenheimer/blaze",
-    "lang": "Go",
-    "desc": "High-performance Full Text Search Engine written in Go"
-  },
-  {
-    "createdAt": "2025-10-03T11:08:09Z",
-    "stars": 273,
-    "name": "InkboxSoftware/spacegamex64",
-    "url": "https://github.com/InkboxSoftware/spacegamex64",
-    "lang": "Assembly",
-    "desc": "Recreation of a classic arcade game remade as a UEFI application for the x86_64 platform. "
-  },
-  {
-    "createdAt": "2025-10-04T05:55:25Z",
-    "stars": 271,
-    "name": "MorDavid/NetworkHound",
-    "url": "https://github.com/MorDavid/NetworkHound",
-    "lang": "Python",
-    "desc": "Advanced Active Directory network topology analyzer with SMB validation, multiple authentication methods (password/NTLM/Kerberos), and comprehensive network discovery. Export results as BloodHound‑compatible OpenGraph JSON."
-  },
-  {
-    "createdAt": "2025-10-03T08:50:16Z",
-    "stars": 261,
-    "name": "showlab/Paper2Video",
-    "url": "https://github.com/showlab/Paper2Video",
-    "lang": "Python",
-    "desc": "Automatic Video Generation from Scientific Papers"
-  },
-  {
-    "createdAt": "2025-10-03T21:15:44Z",
-    "stars": 257,
-    "name": "built-by-as/FleetCode",
-    "url": "https://github.com/built-by-as/FleetCode",
-    "lang": "TypeScript",
-    "desc": "Light-weight control pane to run CLI coding agents(Claude Code, Codex) in parallel"
-  },
-  {
-    "createdAt": "2025-10-03T18:36:51Z",
-    "stars": 255,
-    "name": "True3DLabs/WindowMode",
-    "url": "https://github.com/True3DLabs/WindowMode",
-    "lang": "TypeScript",
-    "desc": "Turn your screen into a Window into a virtual world"
-  },
-  {
-    "createdAt": "2025-10-07T06:14:22Z",
-    "stars": 252,
-    "name": "luzhenhua/NCE-Flow",
-    "url": "https://github.com/luzhenhua/NCE-Flow",
-    "lang": "JavaScript",
-    "desc": "新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。"
-  },
-  {
-    "createdAt": "2025-10-03T03:31:51Z",
-    "stars": 249,
-    "name": "lamos22/Sexual-Repression-Calculator",
-    "url": "https://github.com/lamos22/Sexual-Repression-Calculator",
-    "lang": "TypeScript",
-    "desc": "Sexual-Repression-Calculator"
-  },
-  {
     "createdAt": "2025-10-05T05:05:37Z",
-    "stars": 235,
+    "stars": 298,
     "name": "sindresorhus/css-extras",
     "url": "https://github.com/sindresorhus/css-extras",
     "lang": "CSS",
     "desc": "Useful CSS custom functions using the new @​function rule"
   },
   {
+    "createdAt": "2025-10-09T04:36:28Z",
+    "stars": 284,
+    "name": "ginobefun/agentic-design-patterns-cn",
+    "url": "https://github.com/ginobefun/agentic-design-patterns-cn",
+    "lang": "Python",
+    "desc": "《Agentic Design Patterns》中文翻译版"
+  },
+  {
+    "createdAt": "2025-10-04T05:55:25Z",
+    "stars": 274,
+    "name": "MorDavid/NetworkHound",
+    "url": "https://github.com/MorDavid/NetworkHound",
+    "lang": "Python",
+    "desc": "Advanced Active Directory network topology analyzer with SMB validation, multiple authentication methods (password/NTLM/Kerberos), and comprehensive network discovery. Export results as BloodHound‑compatible OpenGraph JSON."
+  },
+  {
     "createdAt": "2025-10-07T12:52:33Z",
-    "stars": 233,
+    "stars": 268,
     "name": "fanegg/Human3R",
     "url": "https://github.com/fanegg/Human3R",
     "lang": "Python",
     "desc": "An unified model for 4D human-scene reconstruction"
   },
   {
-    "createdAt": "2025-10-04T21:31:51Z",
-    "stars": 218,
-    "name": "openai/chatkit-python",
-    "url": "https://github.com/openai/chatkit-python",
-    "lang": "Python",
-    "desc": ""
+    "createdAt": "2025-10-07T06:14:22Z",
+    "stars": 264,
+    "name": "luzhenhua/NCE-Flow",
+    "url": "https://github.com/luzhenhua/NCE-Flow",
+    "lang": "JavaScript",
+    "desc": "新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。"
   },
   {
     "createdAt": "2025-10-06T01:08:49Z",
-    "stars": 216,
+    "stars": 242,
     "name": "openai/openai-chatkit-advanced-samples",
     "url": "https://github.com/openai/openai-chatkit-advanced-samples",
     "lang": "Python",
@@ -209,91 +185,123 @@
   },
   {
     "createdAt": "2025-10-04T06:57:00Z",
-    "stars": 211,
+    "stars": 229,
     "name": "irony/aspipes",
     "url": "https://github.com/irony/aspipes",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-04T07:29:16Z",
-    "stars": 194,
-    "name": "Raezil/golang-interview-prep-in-english",
-    "url": "https://github.com/Raezil/golang-interview-prep-in-english",
-    "lang": "",
+    "createdAt": "2025-10-04T21:31:51Z",
+    "stars": 225,
+    "name": "openai/chatkit-python",
+    "url": "https://github.com/openai/chatkit-python",
+    "lang": "Python",
     "desc": ""
   },
   {
     "createdAt": "2025-10-07T06:18:28Z",
-    "stars": 191,
+    "stars": 206,
     "name": "raminfp/redis_exploit",
     "url": "https://github.com/raminfp/redis_exploit",
     "lang": "Python",
     "desc": "CVE-2025-49844 (RediShell)"
   },
   {
-    "createdAt": "2025-10-06T00:58:01Z",
-    "stars": 191,
-    "name": "rafaelSwi/SolidGlass",
-    "url": "https://github.com/rafaelSwi/SolidGlass",
-    "lang": "Swift",
-    "desc": "Software to disable Liquid Glass on macOS Tahoe"
+    "createdAt": "2025-10-07T10:08:17Z",
+    "stars": 205,
+    "name": "gamehublite/gamehub-oss",
+    "url": "https://github.com/gamehublite/gamehub-oss",
+    "lang": "",
+    "desc": "privacy oriented gamehub"
   },
   {
     "createdAt": "2025-10-05T20:34:42Z",
-    "stars": 191,
+    "stars": 204,
     "name": "cyberblu3s/CyberBlue",
     "url": "https://github.com/cyberblu3s/CyberBlue",
     "lang": "Shell",
     "desc": "CyberSecurity BLUE TEAM containerized platform that brings together open-source tools for SIEM, DFIR, CTI, SOAR, and Network Analysis"
   },
   {
-    "createdAt": "2025-10-07T19:02:21Z",
-    "stars": 188,
-    "name": "ChrisTitusTech/bypassnro",
-    "url": "https://github.com/ChrisTitusTech/bypassnro",
-    "lang": "Batchfile",
-    "desc": "Fixing Microsoft's removal of BypassNRO"
-  },
-  {
     "createdAt": "2025-10-09T02:18:43Z",
-    "stars": 171,
+    "stars": 199,
     "name": "byJoey/yx-tools",
     "url": "https://github.com/byJoey/yx-tools",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-10-04T07:29:16Z",
+    "stars": 199,
+    "name": "Raezil/golang-interview-prep-in-english",
+    "url": "https://github.com/Raezil/golang-interview-prep-in-english",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-06T00:58:01Z",
+    "stars": 194,
+    "name": "rafaelSwi/SolidGlass",
+    "url": "https://github.com/rafaelSwi/SolidGlass",
+    "lang": "Swift",
+    "desc": "Software to disable Liquid Glass on macOS Tahoe"
+  },
+  {
+    "createdAt": "2025-10-07T15:27:59Z",
+    "stars": 179,
+    "name": "Basekick-Labs/arc",
+    "url": "https://github.com/Basekick-Labs/arc",
+    "lang": "Python",
+    "desc": "Time-series data warehouse built for speed. 2.01M records/sec on native deployment. DuckDB + Parquet + MinIO. AGPL-3.0"
+  },
+  {
+    "createdAt": "2025-10-05T18:06:09Z",
+    "stars": 176,
+    "name": "1e0n/droid2api",
+    "url": "https://github.com/1e0n/droid2api",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-10T20:35:52Z",
+    "stars": 175,
+    "name": "curtis-arch/Droids",
+    "url": "https://github.com/curtis-arch/Droids",
+    "lang": "",
+    "desc": "A bunch of my first droids"
+  },
+  {
     "createdAt": "2025-10-06T00:36:32Z",
-    "stars": 170,
+    "stars": 171,
     "name": "MaximeRivest/maivi",
     "url": "https://github.com/MaximeRivest/maivi",
     "lang": "Python",
     "desc": "Maivi - My AI Voice Input: Real-time voice-to-text local on cpu better than whisper with hotkey support"
   },
   {
-    "createdAt": "2025-10-03T17:21:53Z",
-    "stars": 168,
-    "name": "tt-rss/tt-rss",
-    "url": "https://github.com/tt-rss/tt-rss",
-    "lang": "PHP",
-    "desc": "A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator."
-  },
-  {
-    "createdAt": "2025-10-07T15:27:59Z",
-    "stars": 166,
-    "name": "Basekick-Labs/arc",
-    "url": "https://github.com/Basekick-Labs/arc",
+    "createdAt": "2025-10-10T17:18:50Z",
+    "stars": 171,
+    "name": "hopenuri/gift-buyer",
+    "url": "https://github.com/hopenuri/gift-buyer",
     "lang": "Python",
-    "desc": "Time-series data warehouse built for speed. 1.89M records/sec on native deployment. DuckDB + Parquet + MinIO. AGPL-3.0"
+    "desc": "bot for automatic telegram gifts purchase/snipe "
   },
   {
     "createdAt": "2025-10-05T17:38:46Z",
-    "stars": 160,
+    "stars": 165,
     "name": "buyi06/-Linux-",
     "url": "https://github.com/buyi06/-Linux-",
     "lang": "Shell",
     "desc": "🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。"
+  },
+  {
+    "createdAt": "2025-10-11T18:07:28Z",
+    "stars": 165,
+    "name": "Selojers/Sora2-Code-Finder",
+    "url": "https://github.com/Selojers/Sora2-Code-Finder",
+    "lang": "",
+    "desc": "Sora2 Code Finder is an advanced utility designed for the real-time monitoring and acquisition of Sora 2 invite codes. It operates on a multi-threaded architecture, simultaneously scanning multiple sources to provide a significant speed advantage over manual searching."
   },
   {
     "createdAt": "2025-10-04T07:25:15Z",
@@ -304,99 +312,91 @@
     "desc": "Telegram Bot"
   },
   {
-    "createdAt": "2025-10-05T18:06:09Z",
-    "stars": 143,
-    "name": "1e0n/droid2api",
-    "url": "https://github.com/1e0n/droid2api",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-03T01:17:25Z",
-    "stars": 134,
-    "name": "justincui03/Self-Forcing-Plus-Plus",
-    "url": "https://github.com/justincui03/Self-Forcing-Plus-Plus",
-    "lang": "",
-    "desc": "Official Repo for Self-Forcing++ High Quality Long Video Generation"
-  },
-  {
     "createdAt": "2025-10-08T15:32:45Z",
-    "stars": 129,
+    "stars": 147,
     "name": "Doriandarko/sora-mcp",
     "url": "https://github.com/Doriandarko/sora-mcp",
     "lang": "TypeScript",
     "desc": "An MCP server to use Sora video generation APIs"
   },
   {
-    "createdAt": "2025-10-03T20:20:00Z",
-    "stars": 126,
-    "name": "whyrusleeping/konbini",
-    "url": "https://github.com/whyrusleeping/konbini",
-    "lang": "Go",
+    "createdAt": "2025-10-05T22:19:26Z",
+    "stars": 147,
+    "name": "Mohammedcha/gplay-scraper",
+    "url": "https://github.com/Mohammedcha/gplay-scraper",
+    "lang": "Python",
+    "desc": "GPlay Scraper is a powerful Python Google Play scraper library for extracting comprehensive app data from the Google Play Store. Scrape Google Play Store apps to get ratings, install counts, reviews, ASO metrics, developer information, and 65+ data fields"
+  },
+  {
+    "createdAt": "2025-10-08T00:35:06Z",
+    "stars": 142,
+    "name": "McGill-NLP/the-markovian-thinker",
+    "url": "https://github.com/McGill-NLP/the-markovian-thinker",
+    "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-03T12:21:12Z",
-    "stars": 123,
-    "name": "bitDive/bitdive-test",
-    "url": "https://github.com/bitDive/bitdive-test",
-    "lang": "",
-    "desc": "dependency for creating tests based on the monitoring system"
-  },
-  {
-    "createdAt": "2025-10-03T12:19:19Z",
-    "stars": 122,
-    "name": "bitDive/mcp-server",
-    "url": "https://github.com/bitDive/mcp-server",
-    "lang": "",
-    "desc": "bitdive mcp server for conenction with AI"
-  },
-  {
-    "createdAt": "2025-10-08T08:02:01Z",
-    "stars": 119,
-    "name": "xincmm/sageread",
-    "url": "https://github.com/xincmm/sageread",
-    "lang": "TypeScript",
-    "desc": "一款 AI 辅助阅读器，三栏设计实现笔记、阅读、对话同屏交互，让深度阅读更高效"
-  },
-  {
-    "createdAt": "2025-10-06T04:24:29Z",
-    "stars": 117,
-    "name": "kyleturman/home-dashboard",
-    "url": "https://github.com/kyleturman/home-dashboard",
-    "lang": "JavaScript",
-    "desc": "A home weather dashboard for e-ink displays"
-  },
-  {
-    "createdAt": "2025-10-09T04:36:28Z",
-    "stars": 117,
-    "name": "ginobefun/agentic-design-patterns-cn",
-    "url": "https://github.com/ginobefun/agentic-design-patterns-cn",
-    "lang": "",
-    "desc": "《Agentic Design Patterns》中文翻译版"
-  },
-  {
     "createdAt": "2025-10-09T19:43:46Z",
-    "stars": 116,
+    "stars": 140,
     "name": "EveryInc/every-marketplace",
     "url": "https://github.com/EveryInc/every-marketplace",
     "lang": "",
     "desc": "Official Every-Env plugin marketplace for Claude Code extensions"
   },
   {
-    "createdAt": "2025-10-07T10:08:17Z",
-    "stars": 115,
-    "name": "gamehublite/gamehub-oss",
-    "url": "https://github.com/gamehublite/gamehub-oss",
-    "lang": "",
-    "desc": "privacy oriented gamehub"
+    "createdAt": "2025-10-09T00:37:47Z",
+    "stars": 125,
+    "name": "NVlabs/rcm",
+    "url": "https://github.com/NVlabs/rcm",
+    "lang": "Python",
+    "desc": "rCM: SOTA Diffusion Distillation & Few-Step Video Generation"
+  },
+  {
+    "createdAt": "2025-10-05T01:10:01Z",
+    "stars": 121,
+    "name": "LaurieWired/Quine",
+    "url": "https://github.com/LaurieWired/Quine",
+    "lang": "C",
+    "desc": "Quines demonstrating self-propagation"
+  },
+  {
+    "createdAt": "2025-10-07T18:43:59Z",
+    "stars": 120,
+    "name": "NVlabs/parrot",
+    "url": "https://github.com/NVlabs/parrot",
+    "lang": "Cuda",
+    "desc": "Parrot is a C++ library for fused array operations using CUDA/Thrust. It provides efficient GPU-accelerated operations with lazy evaluation semantics, allowing for chaining of operations without unnecessary intermediate materializations."
+  },
+  {
+    "createdAt": "2025-10-06T04:24:29Z",
+    "stars": 118,
+    "name": "kyleturman/home-dashboard",
+    "url": "https://github.com/kyleturman/home-dashboard",
+    "lang": "JavaScript",
+    "desc": "A home weather dashboard for e-ink displays"
+  },
+  {
+    "createdAt": "2025-10-09T04:58:58Z",
+    "stars": 118,
+    "name": "stolinski/css-mcp",
+    "url": "https://github.com/stolinski/css-mcp",
+    "lang": "JavaScript",
+    "desc": ""
   },
   {
     "createdAt": "2025-10-04T18:47:03Z",
-    "stars": 113,
+    "stars": 115,
     "name": "504sarwarerror/CASM",
     "url": "https://github.com/504sarwarerror/CASM",
     "lang": "Python",
     "desc": "An compiler designed to seamlessly blend the power and control of Assembly with the simplicity and readability of C-like high-level constructs"
+  },
+  {
+    "createdAt": "2025-10-06T08:19:08Z",
+    "stars": 114,
+    "name": "thuml/MiniVeo3-Reasoner",
+    "url": "https://github.com/thuml/MiniVeo3-Reasoner",
+    "lang": "Python",
+    "desc": "Thinking with Videos from Open-Source Priors. We reproduce chain-of-frames visual reasoning by fine-tuning open-source video models. Give it a star 🌟 if you find it useful."
   }
 ]
