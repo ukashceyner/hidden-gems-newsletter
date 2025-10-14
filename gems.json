@@ -1,47 +1,39 @@
 [
   {
-    "createdAt": "2025-10-07T13:24:28Z",
-    "stars": 4022,
-    "name": "SamsungSAILMontreal/TinyRecursiveModels",
-    "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-10-13T13:46:35Z",
-    "stars": 3414,
+    "stars": 13926,
     "name": "karpathy/nanochat",
     "url": "https://github.com/karpathy/nanochat",
     "lang": "Python",
     "desc": "The best ChatGPT that $100 can buy."
   },
   {
-    "createdAt": "2025-10-06T05:28:01Z",
-    "stars": 1368,
-    "name": "openai/openai-apps-sdk-examples",
-    "url": "https://github.com/openai/openai-apps-sdk-examples",
-    "lang": "JavaScript",
-    "desc": "Example apps for the Apps SDK"
+    "createdAt": "2025-10-07T13:24:28Z",
+    "stars": 4208,
+    "name": "SamsungSAILMontreal/TinyRecursiveModels",
+    "url": "https://github.com/SamsungSAILMontreal/TinyRecursiveModels",
+    "lang": "Python",
+    "desc": ""
   },
   {
     "createdAt": "2025-10-09T19:45:18Z",
-    "stars": 1352,
+    "stars": 2259,
     "name": "obra/superpowers",
     "url": "https://github.com/obra/superpowers",
     "lang": "Shell",
     "desc": "Claude Code superpowers: core skills library"
   },
   {
-    "createdAt": "2025-10-06T15:02:22Z",
-    "stars": 1245,
-    "name": "fathulfahmy/aio-usb-drive",
-    "url": "https://github.com/fathulfahmy/aio-usb-drive",
-    "lang": "",
-    "desc": "A curated collection of useful to have programs on a multiboot USB drive"
+    "createdAt": "2025-10-12T03:09:46Z",
+    "stars": 1037,
+    "name": "steveyegge/beads",
+    "url": "https://github.com/steveyegge/beads",
+    "lang": "Go",
+    "desc": "Beads - A memory upgrade for your coding agent"
   },
   {
     "createdAt": "2025-10-07T21:03:17Z",
-    "stars": 1006,
+    "stars": 1021,
     "name": "Mordoria/unnamed_game_1_v2",
     "url": "https://github.com/Mordoria/unnamed_game_1_v2",
     "lang": "Lua",
@@ -49,15 +41,23 @@
   },
   {
     "createdAt": "2025-10-09T08:52:25Z",
-    "stars": 688,
+    "stars": 749,
     "name": "KsanaDock/Microverse",
     "url": "https://github.com/KsanaDock/Microverse",
     "lang": "GDScript",
     "desc": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication."
   },
   {
+    "createdAt": "2025-10-09T04:36:28Z",
+    "stars": 738,
+    "name": "ginobefun/agentic-design-patterns-cn",
+    "url": "https://github.com/ginobefun/agentic-design-patterns-cn",
+    "lang": "Python",
+    "desc": "《Agentic Design Patterns》中文翻译版"
+  },
+  {
     "createdAt": "2025-10-10T02:04:10Z",
-    "stars": 674,
+    "stars": 712,
     "name": "simonw/claude-skills",
     "url": "https://github.com/simonw/claude-skills",
     "lang": "Python",
@@ -65,39 +65,23 @@
   },
   {
     "createdAt": "2025-10-08T15:33:01Z",
-    "stars": 593,
+    "stars": 609,
     "name": "xbpeng/MimicKit",
     "url": "https://github.com/xbpeng/MimicKit",
     "lang": "Python",
     "desc": "Suite of motion imitation methods for training motion controllers."
   },
   {
-    "createdAt": "2025-10-09T04:36:28Z",
-    "stars": 485,
-    "name": "ginobefun/agentic-design-patterns-cn",
-    "url": "https://github.com/ginobefun/agentic-design-patterns-cn",
-    "lang": "Python",
-    "desc": "《Agentic Design Patterns》中文翻译版"
-  },
-  {
-    "createdAt": "2025-10-12T03:09:46Z",
-    "stars": 473,
-    "name": "steveyegge/beads",
-    "url": "https://github.com/steveyegge/beads",
-    "lang": "Go",
-    "desc": "Beads - A memory upgrade for your coding agent"
-  },
-  {
-    "createdAt": "2025-10-06T01:07:01Z",
-    "stars": 452,
-    "name": "openai/openai-chatkit-starter-app",
-    "url": "https://github.com/openai/openai-chatkit-starter-app",
+    "createdAt": "2025-10-12T13:30:08Z",
+    "stars": 446,
+    "name": "alam00000/bentopdf",
+    "url": "https://github.com/alam00000/bentopdf",
     "lang": "TypeScript",
-    "desc": "Starter app to build with OpenAI ChatKit + Agent Builder"
+    "desc": "A Privacy First PDF Toolkit"
   },
   {
     "createdAt": "2025-10-07T16:14:47Z",
-    "stars": 420,
+    "stars": 439,
     "name": "mshumer/sora-extend",
     "url": "https://github.com/mshumer/sora-extend",
     "lang": "Jupyter Notebook",
@@ -105,7 +89,7 @@
   },
   {
     "createdAt": "2025-10-07T07:28:01Z",
-    "stars": 397,
+    "stars": 407,
     "name": "wizenheimer/blaze",
     "url": "https://github.com/wizenheimer/blaze",
     "lang": "Go",
@@ -113,7 +97,7 @@
   },
   {
     "createdAt": "2025-10-08T08:02:01Z",
-    "stars": 376,
+    "stars": 394,
     "name": "xincmm/sageread",
     "url": "https://github.com/xincmm/sageread",
     "lang": "TypeScript",
@@ -121,7 +105,7 @@
   },
   {
     "createdAt": "2025-10-07T19:02:21Z",
-    "stars": 374,
+    "stars": 386,
     "name": "ChrisTitusTech/bypassnro",
     "url": "https://github.com/ChrisTitusTech/bypassnro",
     "lang": "Batchfile",
@@ -129,7 +113,7 @@
   },
   {
     "createdAt": "2025-10-09T15:00:00Z",
-    "stars": 336,
+    "stars": 341,
     "name": "mafik/keyer",
     "url": "https://github.com/mafik/keyer",
     "lang": "JavaScript",
@@ -137,55 +121,47 @@
   },
   {
     "createdAt": "2025-10-07T12:52:33Z",
-    "stars": 304,
+    "stars": 312,
     "name": "fanegg/Human3R",
     "url": "https://github.com/fanegg/Human3R",
     "lang": "Python",
     "desc": "An unified model for 4D human-scene reconstruction"
   },
   {
-    "createdAt": "2025-10-12T13:30:08Z",
-    "stars": 281,
-    "name": "alam00000/bentopdf",
-    "url": "https://github.com/alam00000/bentopdf",
-    "lang": "TypeScript",
-    "desc": "A Privacy First PDF Toolkit"
-  },
-  {
-    "createdAt": "2025-10-07T06:14:22Z",
-    "stars": 280,
-    "name": "luzhenhua/NCE-Flow",
-    "url": "https://github.com/luzhenhua/NCE-Flow",
-    "lang": "JavaScript",
-    "desc": "新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。"
-  },
-  {
     "createdAt": "2025-10-07T10:08:17Z",
-    "stars": 277,
+    "stars": 308,
     "name": "gamehublite/gamehub-oss",
     "url": "https://github.com/gamehublite/gamehub-oss",
     "lang": "",
     "desc": "privacy oriented gamehub"
   },
   {
-    "createdAt": "2025-10-06T01:08:49Z",
-    "stars": 276,
-    "name": "openai/openai-chatkit-advanced-samples",
-    "url": "https://github.com/openai/openai-chatkit-advanced-samples",
-    "lang": "Python",
-    "desc": "Starter app to build with OpenAI ChatKit SDK"
-  },
-  {
     "createdAt": "2025-10-09T19:43:46Z",
-    "stars": 265,
+    "stars": 295,
     "name": "EveryInc/every-marketplace",
     "url": "https://github.com/EveryInc/every-marketplace",
     "lang": "",
     "desc": "Official Every-Env plugin marketplace for Claude Code extensions"
   },
   {
+    "createdAt": "2025-10-07T06:14:22Z",
+    "stars": 283,
+    "name": "luzhenhua/NCE-Flow",
+    "url": "https://github.com/luzhenhua/NCE-Flow",
+    "lang": "JavaScript",
+    "desc": "新概念英语在线点读，点句即读、连续播放，支持 EN / EN+CN / CN。"
+  },
+  {
+    "createdAt": "2025-10-11T01:36:56Z",
+    "stars": 263,
+    "name": "mit-han-lab/streaming-vlm",
+    "url": "https://github.com/mit-han-lab/streaming-vlm",
+    "lang": "Python",
+    "desc": "StreamingVLM: Real-Time Understanding for Infinite Video Streams"
+  },
+  {
     "createdAt": "2025-10-07T06:18:28Z",
-    "stars": 226,
+    "stars": 236,
     "name": "raminfp/redis_exploit",
     "url": "https://github.com/raminfp/redis_exploit",
     "lang": "Python",
@@ -193,167 +169,175 @@
   },
   {
     "createdAt": "2025-10-09T02:18:43Z",
-    "stars": 224,
+    "stars": 232,
     "name": "byJoey/yx-tools",
     "url": "https://github.com/byJoey/yx-tools",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-10-07T15:27:59Z",
+    "stars": 217,
+    "name": "Basekick-Labs/arc",
+    "url": "https://github.com/Basekick-Labs/arc",
+    "lang": "Python",
+    "desc": "Time-series data warehouse built for speed. 2.32M records/sec on local NVMe. DuckDB + Parquet + flexible storage (local/MinIO/S3). AGPL-3.0"
+  },
+  {
     "createdAt": "2025-10-10T20:35:52Z",
-    "stars": 211,
+    "stars": 214,
     "name": "curtis-arch/Droids",
     "url": "https://github.com/curtis-arch/Droids",
     "lang": "",
     "desc": "A bunch of my first droids"
   },
   {
-    "createdAt": "2025-10-07T15:27:59Z",
-    "stars": 207,
-    "name": "Basekick-Labs/arc",
-    "url": "https://github.com/Basekick-Labs/arc",
-    "lang": "Python",
-    "desc": "Time-series data warehouse built for speed. 2.08M records/sec on local NVMe. DuckDB + Parquet + flexible storage (local/MinIO/S3). AGPL-3.0"
-  },
-  {
-    "createdAt": "2025-10-06T00:58:01Z",
-    "stars": 204,
-    "name": "rafaelSwi/SolidGlass",
-    "url": "https://github.com/rafaelSwi/SolidGlass",
-    "lang": "Swift",
-    "desc": "Software to disable Liquid Glass on macOS Tahoe"
-  },
-  {
-    "createdAt": "2025-10-11T18:07:28Z",
-    "stars": 197,
-    "name": "Selojers/Sora2-Code-Finder",
-    "url": "https://github.com/Selojers/Sora2-Code-Finder",
-    "lang": "",
-    "desc": "Sora2 Code Finder is an advanced utility designed for the real-time monitoring and acquisition of Sora 2 invite codes. It operates on a multi-threaded architecture, simultaneously scanning multiple sources to provide a significant speed advantage over manual searching."
-  },
-  {
-    "createdAt": "2025-10-09T04:58:58Z",
-    "stars": 187,
-    "name": "stolinski/css-mcp",
-    "url": "https://github.com/stolinski/css-mcp",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-06T00:36:32Z",
-    "stars": 184,
-    "name": "MaximeRivest/maivi",
-    "url": "https://github.com/MaximeRivest/maivi",
-    "lang": "Python",
-    "desc": "Maivi - My AI Voice Input: Real-time voice-to-text local on cpu better than whisper with hotkey support"
-  },
-  {
-    "createdAt": "2025-10-08T00:35:06Z",
-    "stars": 178,
-    "name": "McGill-NLP/the-markovian-thinker",
-    "url": "https://github.com/McGill-NLP/the-markovian-thinker",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-09T00:37:47Z",
-    "stars": 175,
-    "name": "NVlabs/rcm",
-    "url": "https://github.com/NVlabs/rcm",
-    "lang": "Python",
-    "desc": "rCM: SOTA Diffusion Distillation & Few-Step Video Generation"
-  },
-  {
     "createdAt": "2025-10-12T18:44:10Z",
-    "stars": 175,
+    "stars": 211,
     "name": "rasta-mouse/Crystal-Kit",
     "url": "https://github.com/rasta-mouse/Crystal-Kit",
     "lang": "C",
     "desc": "Evasion for Cobalt Strike"
   },
   {
-    "createdAt": "2025-10-06T02:31:17Z",
-    "stars": 156,
-    "name": "9nate-drake/Comfyui-SecNodes",
-    "url": "https://github.com/9nate-drake/Comfyui-SecNodes",
+    "createdAt": "2025-10-09T04:58:58Z",
+    "stars": 207,
+    "name": "stolinski/css-mcp",
+    "url": "https://github.com/stolinski/css-mcp",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-08T00:35:06Z",
+    "stars": 201,
+    "name": "McGill-NLP/the-markovian-thinker",
+    "url": "https://github.com/McGill-NLP/the-markovian-thinker",
     "lang": "Python",
-    "desc": "Comfyui implementation of OpenIXCLab Sec-4B"
-  },
-  {
-    "createdAt": "2025-10-08T15:32:45Z",
-    "stars": 154,
-    "name": "Doriandarko/sora-mcp",
-    "url": "https://github.com/Doriandarko/sora-mcp",
-    "lang": "TypeScript",
-    "desc": "An MCP server to use Sora video generation APIs"
-  },
-  {
-    "createdAt": "2025-10-07T18:43:59Z",
-    "stars": 139,
-    "name": "NVlabs/parrot",
-    "url": "https://github.com/NVlabs/parrot",
-    "lang": "Cuda",
-    "desc": "Parrot is a C++ library for fused array operations using CUDA/Thrust. It provides efficient GPU-accelerated operations with lazy evaluation semantics, allowing for chaining of operations without unnecessary intermediate materializations."
-  },
-  {
-    "createdAt": "2025-10-06T08:07:43Z",
-    "stars": 139,
-    "name": "sirbread/spellscript",
-    "url": "https://github.com/sirbread/spellscript",
-    "lang": "Python",
-    "desc": "esotoric programming language that's read like a spellbook"
-  },
-  {
-    "createdAt": "2025-10-13T06:12:56Z",
-    "stars": 139,
-    "name": "best-casino-bonus-2025/casino-bonus",
-    "url": "https://github.com/best-casino-bonus-2025/casino-bonus",
-    "lang": "",
-    "desc": "Discover the Ultimate Casino Bonus Guide 2025 and claim your $100 NexusDice Casino Bonus with code 2025! Learn how to get the best casino bonuses, deposit rewards, and crypto casino offers. Join NexusDice today and boost your bankroll with exclusive, verified 2025 promotions."
+    "desc": ""
   },
   {
     "createdAt": "2025-10-11T17:06:05Z",
-    "stars": 130,
+    "stars": 191,
     "name": "obra/superpowers-skills",
     "url": "https://github.com/obra/superpowers-skills",
     "lang": "TypeScript",
     "desc": "Community-editable skills for Claude Code's superpowers plugin"
   },
   {
+    "createdAt": "2025-10-13T12:12:29Z",
+    "stars": 189,
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "lang": "",
+    "desc": "A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+  },
+  {
+    "createdAt": "2025-10-11T18:07:28Z",
+    "stars": 188,
+    "name": "Selojers/Sora2-Code-Finder",
+    "url": "https://github.com/Selojers/Sora2-Code-Finder",
+    "lang": "",
+    "desc": "Sora2 Code Finder is an advanced utility designed for the real-time monitoring and acquisition of Sora 2 invite codes. It operates on a multi-threaded architecture, simultaneously scanning multiple sources to provide a significant speed advantage over manual searching."
+  },
+  {
+    "createdAt": "2025-10-09T00:37:47Z",
+    "stars": 186,
+    "name": "NVlabs/rcm",
+    "url": "https://github.com/NVlabs/rcm",
+    "lang": "Python",
+    "desc": "rCM: SOTA Diffusion Distillation & Few-Step Video Generation"
+  },
+  {
+    "createdAt": "2025-10-07T08:18:40Z",
+    "stars": 163,
+    "name": "lvgalvao/imersao_databricks",
+    "url": "https://github.com/lvgalvao/imersao_databricks",
+    "lang": "Jupyter Notebook",
+    "desc": "Repositório da imersao Databricks"
+  },
+  {
     "createdAt": "2025-10-12T00:56:37Z",
-    "stars": 129,
+    "stars": 160,
     "name": "ash80/diffusion-gpt",
     "url": "https://github.com/ash80/diffusion-gpt",
     "lang": "Jupyter Notebook",
     "desc": "From babyGPT to diffusion GPT: An annotated implementation of a character-level discrete diffusion model (adapted from Karpathy’s baby GPT)."
   },
   {
-    "createdAt": "2025-10-06T04:24:29Z",
-    "stars": 125,
-    "name": "kyleturman/home-dashboard",
-    "url": "https://github.com/kyleturman/home-dashboard",
+    "createdAt": "2025-10-13T18:11:15Z",
+    "stars": 157,
+    "name": "atrattCode/dawn-bot",
+    "url": "https://github.com/atrattCode/dawn-bot",
+    "lang": "Python",
+    "desc": "A Bot for Dawn Validator automation"
+  },
+  {
+    "createdAt": "2025-10-08T15:32:45Z",
+    "stars": 155,
+    "name": "Doriandarko/sora-mcp",
+    "url": "https://github.com/Doriandarko/sora-mcp",
+    "lang": "TypeScript",
+    "desc": "An MCP server to use Sora video generation APIs"
+  },
+  {
+    "createdAt": "2025-10-13T16:15:15Z",
+    "stars": 151,
+    "name": "markrai/whatsthat",
+    "url": "https://github.com/markrai/whatsthat",
     "lang": "JavaScript",
-    "desc": "A home weather dashboard for e-ink displays"
+    "desc": "a brutally honest whatsapp web analyzer"
+  },
+  {
+    "createdAt": "2025-10-12T04:01:10Z",
+    "stars": 149,
+    "name": "elaineyu1031/AI-auth-toolkit",
+    "url": "https://github.com/elaineyu1031/AI-auth-toolkit",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-07T18:43:59Z",
+    "stars": 144,
+    "name": "NVlabs/parrot",
+    "url": "https://github.com/NVlabs/parrot",
+    "lang": "Cuda",
+    "desc": "Parrot is a C++ library for fused array operations using CUDA/Thrust. It provides efficient GPU-accelerated operations with lazy evaluation semantics, allowing for chaining of operations without unnecessary intermediate materializations."
+  },
+  {
+    "createdAt": "2025-10-11T02:31:07Z",
+    "stars": 135,
+    "name": "FullstackAgent/FullstackAgent",
+    "url": "https://github.com/FullstackAgent/FullstackAgent",
+    "lang": "TypeScript",
+    "desc": "Your Next.js full-stack engineer, integrating Claude, Next.js, shadcn/ui, and a PostgreSQL database, with all source code developed using Claude."
   },
   {
     "createdAt": "2025-10-09T09:43:27Z",
-    "stars": 123,
+    "stars": 129,
     "name": "RadicalNumerics/RND1",
     "url": "https://github.com/RadicalNumerics/RND1",
     "lang": "Python",
     "desc": "RND1: Scaling Diffusion Language Models"
   },
   {
-    "createdAt": "2025-10-06T08:19:08Z",
-    "stars": 120,
-    "name": "thuml/MiniVeo3-Reasoner",
-    "url": "https://github.com/thuml/MiniVeo3-Reasoner",
+    "createdAt": "2025-10-10T12:52:21Z",
+    "stars": 128,
+    "name": "xiaosu200/wm001",
+    "url": "https://github.com/xiaosu200/wm001",
+    "lang": "",
+    "desc": "data mining"
+  },
+  {
+    "createdAt": "2025-10-08T14:07:43Z",
+    "stars": 126,
+    "name": "Pringled/pyversity",
+    "url": "https://github.com/Pringled/pyversity",
     "lang": "Python",
-    "desc": "Thinking with Videos from Open-Source Priors. We reproduce chain-of-frames visual reasoning by fine-tuning open-source video models. Give it a star 🌟 if you find it useful."
+    "desc": "Fast Diversification for Search & Retrieval"
   },
   {
     "createdAt": "2025-10-07T09:50:57Z",
-    "stars": 117,
+    "stars": 121,
     "name": "skydoves/compose-stability-inference",
     "url": "https://github.com/skydoves/compose-stability-inference",
     "lang": "",
@@ -361,39 +345,55 @@
   },
   {
     "createdAt": "2025-10-07T15:41:37Z",
-    "stars": 115,
+    "stars": 116,
     "name": "hyprwm/hyprlauncher",
     "url": "https://github.com/hyprwm/hyprlauncher",
     "lang": "C++",
     "desc": "A multipurpose and versatile launcher / picker for Hyprland"
   },
   {
-    "createdAt": "2025-10-06T07:57:44Z",
-    "stars": 114,
-    "name": "ElementZoom/Material-Design-3-Dynamic-Tablet-Dashboard",
-    "url": "https://github.com/ElementZoom/Material-Design-3-Dynamic-Tablet-Dashboard",
-    "lang": "",
-    "desc": "Tablet-optimized Material Design 3 dashboard for Home Assistant — adapted from the mobile version with a dynamic, transparent, and modern look"
-  },
-  {
-    "createdAt": "2025-10-11T01:36:56Z",
-    "stars": 108,
-    "name": "mit-han-lab/streaming-vlm",
-    "url": "https://github.com/mit-han-lab/streaming-vlm",
-    "lang": "Python",
-    "desc": "StreamingVLM: Real-Time Understanding for Infinite Video Streams"
-  },
-  {
     "createdAt": "2025-10-07T07:12:56Z",
-    "stars": 106,
+    "stars": 116,
     "name": "amclubs/am-cf-tunnel-sub",
     "url": "https://github.com/amclubs/am-cf-tunnel-sub",
     "lang": "JavaScript",
     "desc": "基于Vercel、Cloudflare 部署该脚本，你可以方便地将Cloudflare Workers 和 Pages的 VLESS、Trojan 配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中订阅使用。Cloudflare Workers 和 Pages 生成VLESS、Trojan节点,实现一键订阅节点。"
   },
   {
+    "createdAt": "2025-10-11T06:59:41Z",
+    "stars": 115,
+    "name": "rit3zh/expo-progressive-blur",
+    "url": "https://github.com/rit3zh/expo-progressive-blur",
+    "lang": "TypeScript",
+    "desc": "✨ iOS-like progressive blur effect for React Native"
+  },
+  {
+    "createdAt": "2025-10-07T08:34:34Z",
+    "stars": 113,
+    "name": "KangLiao929/Puffin",
+    "url": "https://github.com/KangLiao929/Puffin",
+    "lang": "Python",
+    "desc": "Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation"
+  },
+  {
+    "createdAt": "2025-10-09T10:37:34Z",
+    "stars": 112,
+    "name": "vita-epfl/Stable-Video-Infinity",
+    "url": "https://github.com/vita-epfl/Stable-Video-Infinity",
+    "lang": "Python",
+    "desc": "[ArXiv 25] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling"
+  },
+  {
+    "createdAt": "2025-10-13T06:14:48Z",
+    "stars": 108,
+    "name": "eric-ai-lab/EvoPresent",
+    "url": "https://github.com/eric-ai-lab/EvoPresent",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-10-07T23:36:19Z",
-    "stars": 106,
+    "stars": 108,
     "name": "h3js/rendu",
     "url": "https://github.com/h3js/rendu",
     "lang": "TypeScript",
