@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-10-13T13:46:35Z",
-    "stars": 24822,
+    "stars": 25993,
     "name": "karpathy/nanochat",
     "url": "https://github.com/karpathy/nanochat",
     "lang": "Python",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-10-12T03:09:46Z",
-    "stars": 1619,
+    "stars": 1673,
     "name": "steveyegge/beads",
     "url": "https://github.com/steveyegge/beads",
     "lang": "Go",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-10-14T21:02:00Z",
-    "stars": 1379,
+    "stars": 1555,
     "name": "virattt/dexter",
     "url": "https://github.com/virattt/dexter",
     "lang": "Python",
@@ -25,47 +25,39 @@
   },
   {
     "createdAt": "2025-10-12T13:30:08Z",
-    "stars": 813,
+    "stars": 889,
     "name": "alam00000/bentopdf",
     "url": "https://github.com/alam00000/bentopdf",
     "lang": "TypeScript",
     "desc": "A Privacy First PDF Toolkit"
   },
   {
-    "createdAt": "2025-10-10T02:04:10Z",
-    "stars": 768,
-    "name": "simonw/claude-skills",
-    "url": "https://github.com/simonw/claude-skills",
-    "lang": "",
-    "desc": "The contents of /mnt/skills in Claude's code interpreter environment"
-  },
-  {
-    "createdAt": "2025-10-14T15:41:42Z",
-    "stars": 634,
-    "name": "UZDoom/UZDoom",
-    "url": "https://github.com/UZDoom/UZDoom",
-    "lang": "C++",
-    "desc": "UZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an advanced renderer, powerful scripting capabilities, and forked under a"
-  },
-  {
-    "createdAt": "2025-10-10T11:42:37Z",
-    "stars": 469,
-    "name": "42futures/firm",
-    "url": "https://github.com/42futures/firm",
-    "lang": "Rust",
-    "desc": "A text-based work management system for technologists."
-  },
-  {
     "createdAt": "2025-10-16T15:34:46Z",
-    "stars": 465,
+    "stars": 805,
     "name": "firecrawl/open-agent-builder",
     "url": "https://github.com/firecrawl/open-agent-builder",
     "lang": "TypeScript",
     "desc": "🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution"
   },
   {
+    "createdAt": "2025-10-14T15:41:42Z",
+    "stars": 709,
+    "name": "UZDoom/UZDoom",
+    "url": "https://github.com/UZDoom/UZDoom",
+    "lang": "C++",
+    "desc": "UZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an advanced renderer, powerful scripting capabilities, and forked under a"
+  },
+  {
+    "createdAt": "2025-10-17T16:05:52Z",
+    "stars": 567,
+    "name": "Acn6S/crypto-tax-calculator",
+    "url": "https://github.com/Acn6S/crypto-tax-calculator",
+    "lang": "Python",
+    "desc": "An advanced cryptocurrency & personal income tax calculator."
+  },
+  {
     "createdAt": "2025-10-11T01:36:56Z",
-    "stars": 460,
+    "stars": 474,
     "name": "mit-han-lab/streaming-vlm",
     "url": "https://github.com/mit-han-lab/streaming-vlm",
     "lang": "Python",
@@ -73,15 +65,23 @@
   },
   {
     "createdAt": "2025-10-13T12:12:29Z",
-    "stars": 445,
+    "stars": 449,
     "name": "msitarzewski/agency-agents",
     "url": "https://github.com/msitarzewski/agency-agents",
     "lang": "",
     "desc": "A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
   },
   {
+    "createdAt": "2025-10-17T14:43:48Z",
+    "stars": 379,
+    "name": "yusufkaraaslan/Skill_Seekers",
+    "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+    "lang": "Python",
+    "desc": "Single powerful tool to convert ANY documentation website into a Claude skill"
+  },
+  {
     "createdAt": "2025-10-12T04:01:10Z",
-    "stars": 313,
+    "stars": 371,
     "name": "elaineyu1031/AI-auth-toolkit",
     "url": "https://github.com/elaineyu1031/AI-auth-toolkit",
     "lang": "",
@@ -89,7 +89,7 @@
   },
   {
     "createdAt": "2025-10-11T02:31:07Z",
-    "stars": 308,
+    "stars": 319,
     "name": "FullstackAgent/FullstackAgent",
     "url": "https://github.com/FullstackAgent/FullstackAgent",
     "lang": "TypeScript",
@@ -97,31 +97,31 @@
   },
   {
     "createdAt": "2025-10-11T17:06:05Z",
-    "stars": 292,
+    "stars": 298,
     "name": "obra/superpowers-skills",
     "url": "https://github.com/obra/superpowers-skills",
     "lang": "TypeScript",
     "desc": "Community-editable skills for Claude Code's superpowers plugin"
   },
   {
-    "createdAt": "2025-10-10T10:06:48Z",
-    "stars": 276,
-    "name": "imlixinyang/FlashWorld",
-    "url": "https://github.com/imlixinyang/FlashWorld",
-    "lang": "Python",
-    "desc": "Code for \"FlashWorld: High-quality 3D Scene Generation within Seconds\""
-  },
-  {
     "createdAt": "2025-10-14T12:06:01Z",
-    "stars": 263,
+    "stars": 274,
     "name": "samber/ro",
     "url": "https://github.com/samber/ro",
     "lang": "Go",
     "desc": "🏎️ Reactive Programming paradigm for Go: declarative and composable API for event-driven applications"
   },
   {
+    "createdAt": "2025-10-12T13:31:45Z",
+    "stars": 273,
+    "name": "ckissi/Learn-by-projects",
+    "url": "https://github.com/ckissi/Learn-by-projects",
+    "lang": "",
+    "desc": "Programming tutorials for C, C#, Python, Javascript, Typescript, React, Go, HTML/CSS, Java. PHP and more"
+  },
+  {
     "createdAt": "2025-10-12T18:44:10Z",
-    "stars": 243,
+    "stars": 247,
     "name": "rasta-mouse/Crystal-Kit",
     "url": "https://github.com/rasta-mouse/Crystal-Kit",
     "lang": "C",
@@ -129,27 +129,19 @@
   },
   {
     "createdAt": "2025-10-11T01:30:34Z",
-    "stars": 231,
+    "stars": 245,
     "name": "Mina-Massoud/Mina-Rich-Editor",
     "url": "https://github.com/Mina-Massoud/Mina-Rich-Editor",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-10T20:35:52Z",
-    "stars": 216,
-    "name": "curtis-arch/Droids",
-    "url": "https://github.com/curtis-arch/Droids",
-    "lang": "",
-    "desc": "A bunch of my first droids"
-  },
-  {
-    "createdAt": "2025-10-12T13:31:45Z",
-    "stars": 212,
-    "name": "ckissi/Learn-by-projects",
-    "url": "https://github.com/ckissi/Learn-by-projects",
-    "lang": "",
-    "desc": "Programming tutorials for C, C#, Python, Javascript, Typescript, React, Go, HTML/CSS, Java. PHP and more"
+    "createdAt": "2025-10-11T08:12:20Z",
+    "stars": 224,
+    "name": "ryysayhi/AudioGenie",
+    "url": "https://github.com/ryysayhi/AudioGenie",
+    "lang": "Python",
+    "desc": "Repository of AudioGenie"
   },
   {
     "createdAt": "2025-10-15T01:39:53Z",
@@ -160,92 +152,92 @@
     "desc": "Simple, open-source wrappers for browser data extraction and analysis"
   },
   {
-    "createdAt": "2025-10-10T09:18:38Z",
-    "stars": 205,
-    "name": "realquantumstealth-hub/realquantumstealth-PCILeech-text",
-    "url": "https://github.com/realquantumstealth-hub/realquantumstealth-PCILeech-text",
-    "lang": "",
-    "desc": "Quantumstealth Text Documentation serves as the official documentation hub for the Quantumstealth project — a research initiative dedicated to hardware-level security, DMA countermeasures, and transparency in anti-cheat technologies."
-  },
-  {
-    "createdAt": "2025-10-10T12:52:21Z",
-    "stars": 200,
-    "name": "xiaosu200/wm001",
-    "url": "https://github.com/xiaosu200/wm001",
-    "lang": "",
-    "desc": "data mining"
-  },
-  {
-    "createdAt": "2025-10-11T08:12:20Z",
-    "stars": 199,
-    "name": "ryysayhi/AudioGenie",
-    "url": "https://github.com/ryysayhi/AudioGenie",
+    "createdAt": "2025-10-14T12:20:30Z",
+    "stars": 206,
+    "name": "OpenImagingLab/FlashVSR",
+    "url": "https://github.com/OpenImagingLab/FlashVSR",
     "lang": "Python",
-    "desc": "Repository of AudioGenie"
-  },
-  {
-    "createdAt": "2025-10-12T00:56:37Z",
-    "stars": 192,
-    "name": "ash80/diffusion-gpt",
-    "url": "https://github.com/ash80/diffusion-gpt",
-    "lang": "Jupyter Notebook",
-    "desc": "From babyGPT to diffusion GPT: An annotated implementation of a character-level discrete diffusion model (adapted from Karpathy’s baby GPT)."
-  },
-  {
-    "createdAt": "2025-10-11T18:07:28Z",
-    "stars": 190,
-    "name": "Selojers/Sora2-Code-Finder",
-    "url": "https://github.com/Selojers/Sora2-Code-Finder",
-    "lang": "",
-    "desc": "Sora2 Code Finder is an advanced utility designed for the real-time monitoring and acquisition of Sora 2 invite codes. It operates on a multi-threaded architecture, simultaneously scanning multiple sources to provide a significant speed advantage over manual searching."
+    "desc": "Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder."
   },
   {
     "createdAt": "2025-10-14T17:16:40Z",
-    "stars": 186,
+    "stars": 205,
     "name": "wimmerth/anyup",
     "url": "https://github.com/wimmerth/anyup",
     "lang": "Jupyter Notebook",
     "desc": "Repository of the paper \"AnyUp: Universal Feature Upsampling\"."
   },
   {
-    "createdAt": "2025-10-13T16:15:15Z",
-    "stars": 185,
-    "name": "markrai/whatsthat",
-    "url": "https://github.com/markrai/whatsthat",
-    "lang": "JavaScript",
-    "desc": "a brutally honest whatsapp web analyzer"
-  },
-  {
-    "createdAt": "2025-10-15T19:48:48Z",
-    "stars": 180,
-    "name": "mahdiMGF2/mirza_pro",
-    "url": "https://github.com/mahdiMGF2/mirza_pro",
-    "lang": "PHP",
-    "desc": "bot pro for sell vpn"
+    "createdAt": "2025-10-12T00:56:37Z",
+    "stars": 203,
+    "name": "ash80/diffusion-gpt",
+    "url": "https://github.com/ash80/diffusion-gpt",
+    "lang": "Jupyter Notebook",
+    "desc": "From babyGPT to diffusion GPT: An annotated implementation of a character-level discrete diffusion model (adapted from Karpathy’s baby GPT)."
   },
   {
     "createdAt": "2025-10-15T05:59:37Z",
-    "stars": 175,
+    "stars": 197,
     "name": "ByteDance-Seed/TraceAnything",
     "url": "https://github.com/ByteDance-Seed/TraceAnything",
     "lang": "Python",
     "desc": "Trace Anything: Representing Any Video in 4D via Trajectory Fields"
   },
   {
-    "createdAt": "2025-10-10T13:33:47Z",
-    "stars": 172,
-    "name": "antoniorodr/cronboard",
-    "url": "https://github.com/antoniorodr/cronboard",
-    "lang": "Python",
-    "desc": "A terminal-based dashboard for managing cron jobs locally and on servers."
+    "createdAt": "2025-10-13T16:15:15Z",
+    "stars": 188,
+    "name": "markrai/whatsthat",
+    "url": "https://github.com/markrai/whatsthat",
+    "lang": "JavaScript",
+    "desc": "a brutally honest whatsapp web analyzer"
+  },
+  {
+    "createdAt": "2025-10-11T18:07:28Z",
+    "stars": 188,
+    "name": "Selojers/Sora2-Code-Finder",
+    "url": "https://github.com/Selojers/Sora2-Code-Finder",
+    "lang": "",
+    "desc": "Sora2 Code Finder is an advanced utility designed for the real-time monitoring and acquisition of Sora 2 invite codes. It operates on a multi-threaded architecture, simultaneously scanning multiple sources to provide a significant speed advantage over manual searching."
+  },
+  {
+    "createdAt": "2025-10-15T19:48:48Z",
+    "stars": 185,
+    "name": "mahdiMGF2/mirza_pro",
+    "url": "https://github.com/mahdiMGF2/mirza_pro",
+    "lang": "PHP",
+    "desc": "bot pro for sell vpn"
   },
   {
     "createdAt": "2025-10-16T12:07:52Z",
-    "stars": 168,
+    "stars": 180,
     "name": "Gezine/Y2JB",
     "url": "https://github.com/Gezine/Y2JB",
     "lang": "Python",
     "desc": "Y2JB is userland code execution using PS5 Youtube app"
+  },
+  {
+    "createdAt": "2025-10-14T16:18:20Z",
+    "stars": 167,
+    "name": "rickhanlonii/async-react",
+    "url": "https://github.com/rickhanlonii/async-react",
+    "lang": "TypeScript",
+    "desc": "The final state of the React Conf 2025 Async React talk."
+  },
+  {
+    "createdAt": "2025-10-13T06:14:48Z",
+    "stars": 162,
+    "name": "eric-ai-lab/EvoPresent",
+    "url": "https://github.com/eric-ai-lab/EvoPresent",
+    "lang": "Python",
+    "desc": "Official codebase for the paper \"Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations\""
+  },
+  {
+    "createdAt": "2025-10-11T18:57:20Z",
+    "stars": 159,
+    "name": "LLmHub-dev/open-computer-use",
+    "url": "https://github.com/LLmHub-dev/open-computer-use",
+    "lang": "TypeScript",
+    "desc": "The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready."
   },
   {
     "createdAt": "2025-10-13T18:11:15Z",
@@ -256,147 +248,155 @@
     "desc": "A Bot for Dawn Validator automation"
   },
   {
-    "createdAt": "2025-10-14T16:18:20Z",
-    "stars": 155,
-    "name": "rickhanlonii/async-react",
-    "url": "https://github.com/rickhanlonii/async-react",
-    "lang": "TypeScript",
-    "desc": "The final state of the React Conf 2025 Async React talk."
-  },
-  {
-    "createdAt": "2025-10-13T06:14:48Z",
-    "stars": 153,
-    "name": "eric-ai-lab/EvoPresent",
-    "url": "https://github.com/eric-ai-lab/EvoPresent",
+    "createdAt": "2025-10-14T12:49:40Z",
+    "stars": 154,
+    "name": "Doby-Xu/WithAnyone",
+    "url": "https://github.com/Doby-Xu/WithAnyone",
     "lang": "Python",
-    "desc": "Official codebase for the paper \"Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations\""
-  },
-  {
-    "createdAt": "2025-10-14T12:20:30Z",
-    "stars": 152,
-    "name": "OpenImagingLab/FlashVSR",
-    "url": "https://github.com/OpenImagingLab/FlashVSR",
-    "lang": "Python",
-    "desc": "Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder."
-  },
-  {
-    "createdAt": "2025-10-10T09:30:48Z",
-    "stars": 151,
-    "name": "akinloluwami/pathwatch",
-    "url": "https://github.com/akinloluwami/pathwatch",
-    "lang": "TypeScript",
-    "desc": "API observability from the future."
+    "desc": "✨ WithAnyone is capable of generating high-quality, controllable, and ID consistent images"
   },
   {
     "createdAt": "2025-10-11T07:37:55Z",
-    "stars": 146,
+    "stars": 153,
     "name": "sci-m-wang/ACE-open",
     "url": "https://github.com/sci-m-wang/ACE-open",
     "lang": "Python",
     "desc": "An open-sourced implementation for \"Agentic Context Engineering (ACE)\" methon from *Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models* (arXiv:2510.04618)."
   },
   {
-    "createdAt": "2025-10-11T18:57:20Z",
-    "stars": 146,
-    "name": "LLmHub-dev/open-computer-use",
-    "url": "https://github.com/LLmHub-dev/open-computer-use",
-    "lang": "TypeScript",
-    "desc": "The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready."
-  },
-  {
     "createdAt": "2025-10-13T19:04:34Z",
-    "stars": 142,
+    "stars": 153,
     "name": "saihgupr/HomeAssistantTimeMachine",
     "url": "https://github.com/saihgupr/HomeAssistantTimeMachine",
     "lang": "TypeScript",
     "desc": "Home Assistant Time Machine is a web-based tool that acts as a \"Time Machine\" for your Home Assistant configuration."
   },
   {
-    "createdAt": "2025-10-13T07:37:55Z",
-    "stars": 135,
-    "name": "InternRobotics/PhysHSI",
-    "url": "https://github.com/InternRobotics/PhysHSI",
-    "lang": "Python",
-    "desc": "Official implementation of the paper: \"PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System\""
-  },
-  {
-    "createdAt": "2025-10-10T15:58:31Z",
-    "stars": 129,
-    "name": "TokenRollAI/cc-plugin",
-    "url": "https://github.com/TokenRollAI/cc-plugin",
-    "lang": "",
-    "desc": "(WIP) toeknroll cc-plugin"
-  },
-  {
-    "createdAt": "2025-10-11T06:59:41Z",
-    "stars": 128,
-    "name": "rit3zh/expo-progressive-blur",
-    "url": "https://github.com/rit3zh/expo-progressive-blur",
-    "lang": "TypeScript",
-    "desc": "✨ iOS-like progressive blur effect for React Native"
-  },
-  {
-    "createdAt": "2025-10-10T09:00:02Z",
-    "stars": 126,
-    "name": "chenyme/grok2api",
-    "url": "https://github.com/chenyme/grok2api",
-    "lang": "Python",
-    "desc": "基于 FastAPI 重构的 Grok2API，适配最新的Web调用格式，支持流式对话、图像生成、图像编辑、联网搜索、视频生成、深度思考，支持号池并发调用和自动负载均衡。"
-  },
-  {
-    "createdAt": "2025-10-15T22:29:59Z",
-    "stars": 124,
-    "name": "mshumer/interactive-sora",
-    "url": "https://github.com/mshumer/interactive-sora",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-10-16T19:30:22Z",
-    "stars": 124,
+    "stars": 151,
     "name": "alexzhang13/rlm",
     "url": "https://github.com/alexzhang13/rlm",
     "lang": "Python",
     "desc": "Super basic implementation (gist-like) of RLMs with REPL environments."
   },
   {
+    "createdAt": "2025-10-13T07:37:55Z",
+    "stars": 138,
+    "name": "InternRobotics/PhysHSI",
+    "url": "https://github.com/InternRobotics/PhysHSI",
+    "lang": "Python",
+    "desc": "Official implementation of the paper: \"PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System\""
+  },
+  {
+    "createdAt": "2025-10-17T15:22:50Z",
+    "stars": 137,
+    "name": "hate0s/gift-buyer",
+    "url": "https://github.com/hate0s/gift-buyer",
+    "lang": "Python",
+    "desc": "A bot for telegram gifts sniping"
+  },
+  {
+    "createdAt": "2025-10-15T22:29:59Z",
+    "stars": 134,
+    "name": "mshumer/interactive-sora",
+    "url": "https://github.com/mshumer/interactive-sora",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-11T06:59:41Z",
+    "stars": 129,
+    "name": "rit3zh/expo-progressive-blur",
+    "url": "https://github.com/rit3zh/expo-progressive-blur",
+    "lang": "TypeScript",
+    "desc": "✨ iOS-like progressive blur effect for React Native"
+  },
+  {
+    "createdAt": "2025-10-13T15:42:42Z",
+    "stars": 129,
+    "name": "RemotePinee/AudioVisual",
+    "url": "https://github.com/RemotePinee/AudioVisual",
+    "lang": "JavaScript",
+    "desc": "解锁所有国内媒体流的钥匙"
+  },
+  {
     "createdAt": "2025-10-14T01:35:10Z",
-    "stars": 123,
+    "stars": 128,
     "name": "RevenueCat/placeholder-compose",
     "url": "https://github.com/RevenueCat/placeholder-compose",
     "lang": "Kotlin",
     "desc": "✨ Fully customizable placeholder loading effects for Jetpack Compose and KMP."
   },
   {
-    "createdAt": "2025-10-10T08:25:31Z",
-    "stars": 121,
-    "name": "jd-opensource/joycode-agent",
-    "url": "https://github.com/jd-opensource/joycode-agent",
-    "lang": "Python",
-    "desc": "Repository-level Repair Agent Based on SWE-Bench—JoyCode Agent"
-  },
-  {
-    "createdAt": "2025-10-10T04:23:39Z",
-    "stars": 121,
-    "name": "mujocolab/g1_spinkick_example",
-    "url": "https://github.com/mujocolab/g1_spinkick_example",
-    "lang": "Python",
-    "desc": "Train a Unitree G1 humanoid to perform a double spin kick using mjlab"
+    "createdAt": "2025-10-17T15:05:35Z",
+    "stars": 122,
+    "name": "BehiSecc/awesome-claude-skills",
+    "url": "https://github.com/BehiSecc/awesome-claude-skills",
+    "lang": "",
+    "desc": "A curated list of Claude Skills."
   },
   {
     "createdAt": "2025-10-14T03:41:26Z",
-    "stars": 117,
+    "stars": 121,
     "name": "Nomadcxx/sysc-greet",
     "url": "https://github.com/Nomadcxx/sysc-greet",
     "lang": "Go",
     "desc": "A tui greeter (not built in rust) "
   },
   {
+    "createdAt": "2025-10-14T20:14:48Z",
+    "stars": 117,
+    "name": "micr0-dev/wellness-ping",
+    "url": "https://github.com/micr0-dev/wellness-ping",
+    "lang": "Go",
+    "desc": "A simple dead man's switch service. Get pinged regularly to confirm you're okay. If you don't respond, your emergency contacts get alerted."
+  },
+  {
     "createdAt": "2025-10-13T01:17:04Z",
-    "stars": 115,
+    "stars": 116,
     "name": "allipiopereira/turborepo-bun-next-expo",
     "url": "https://github.com/allipiopereira/turborepo-bun-next-expo",
     "lang": "TypeScript",
     "desc": "This is a Turborepo monorepo named \"turborepo-bun-next-expo\" containing a Next.js web application and an Expo React Native mobile application, sharing common UI components and configuration packages."
+  },
+  {
+    "createdAt": "2025-10-16T10:40:06Z",
+    "stars": 116,
+    "name": "cuongnh28/spring-microservices-blueprint",
+    "url": "https://github.com/cuongnh28/spring-microservices-blueprint",
+    "lang": "Java",
+    "desc": "Java Spring Boot microservices stack (PostgreSQL, Kafka, Elasticsearch, Kibana, Fluentd, JWT Auth, Swagger) — easily build & run all services in two commands."
+  },
+  {
+    "createdAt": "2025-10-16T12:06:05Z",
+    "stars": 111,
+    "name": "meituan-longcat/LongCat-Audio-Codec",
+    "url": "https://github.com/meituan-longcat/LongCat-Audio-Codec",
+    "lang": "Python",
+    "desc": "LongCat Audio Tokenizer and Detokenizer"
+  },
+  {
+    "createdAt": "2025-10-13T15:10:47Z",
+    "stars": 108,
+    "name": "alchaincyf/huasheng_editor",
+    "url": "https://github.com/alchaincyf/huasheng_editor",
+    "lang": "JavaScript",
+    "desc": "花生公众号排版器"
+  },
+  {
+    "createdAt": "2025-10-13T23:21:08Z",
+    "stars": 107,
+    "name": "imaimai17468/digital-agency-icons",
+    "url": "https://github.com/imaimai17468/digital-agency-icons",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-16T16:03:07Z",
+    "stars": 106,
+    "name": "EvolvingLMMs-Lab/NEO",
+    "url": "https://github.com/EvolvingLMMs-Lab/NEO",
+    "lang": "Python",
+    "desc": "NEO Series: Native Vision-Language Models from First Principles"
   }
 ]
