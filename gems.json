@@ -1,15 +1,7 @@
 [
   {
-    "createdAt": "2025-10-13T13:46:35Z",
-    "stars": 28424,
-    "name": "karpathy/nanochat",
-    "url": "https://github.com/karpathy/nanochat",
-    "lang": "Python",
-    "desc": "The best ChatGPT that $100 can buy."
-  },
-  {
     "createdAt": "2025-10-17T06:14:27Z",
-    "stars": 3284,
+    "stars": 8243,
     "name": "deepseek-ai/DeepSeek-OCR",
     "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
     "lang": "Python",
@@ -17,7 +9,7 @@
   },
   {
     "createdAt": "2025-10-14T21:02:00Z",
-    "stars": 1737,
+    "stars": 1793,
     "name": "virattt/dexter",
     "url": "https://github.com/virattt/dexter",
     "lang": "Python",
@@ -25,7 +17,7 @@
   },
   {
     "createdAt": "2025-10-16T15:34:46Z",
-    "stars": 1270,
+    "stars": 1445,
     "name": "firecrawl/open-agent-builder",
     "url": "https://github.com/firecrawl/open-agent-builder",
     "lang": "TypeScript",
@@ -33,7 +25,7 @@
   },
   {
     "createdAt": "2025-10-17T14:43:48Z",
-    "stars": 1230,
+    "stars": 1427,
     "name": "yusufkaraaslan/Skill_Seekers",
     "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
     "lang": "Python",
@@ -41,7 +33,7 @@
   },
   {
     "createdAt": "2025-10-17T15:05:35Z",
-    "stars": 989,
+    "stars": 1230,
     "name": "BehiSecc/awesome-claude-skills",
     "url": "https://github.com/BehiSecc/awesome-claude-skills",
     "lang": "",
@@ -49,354 +41,362 @@
   },
   {
     "createdAt": "2025-10-14T15:41:42Z",
-    "stars": 778,
+    "stars": 795,
     "name": "UZDoom/UZDoom",
     "url": "https://github.com/UZDoom/UZDoom",
     "lang": "C++",
-    "desc": "UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer, powerful scripting capabilities, and forked under a"
-  },
-  {
-    "createdAt": "2025-10-13T12:12:29Z",
-    "stars": 458,
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "lang": "",
-    "desc": "A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    "desc": "UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities"
   },
   {
     "createdAt": "2025-10-16T20:42:39Z",
-    "stars": 418,
+    "stars": 649,
     "name": "travisvn/awesome-claude-skills",
     "url": "https://github.com/travisvn/awesome-claude-skills",
     "lang": "",
     "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code"
   },
   {
-    "createdAt": "2025-10-14T12:20:30Z",
-    "stars": 315,
-    "name": "OpenImagingLab/FlashVSR",
-    "url": "https://github.com/OpenImagingLab/FlashVSR",
-    "lang": "Python",
-    "desc": "Towards Real-Time Diffusion-Based Streaming Video Super-Resolution — An efficient one-step diffusion framework for streaming VSR with locality-constrained sparse attention and a tiny conditional decoder."
-  },
-  {
-    "createdAt": "2025-10-14T12:06:01Z",
-    "stars": 294,
-    "name": "samber/ro",
-    "url": "https://github.com/samber/ro",
-    "lang": "Go",
-    "desc": "🏎️ Reactive Programming paradigm for Go: declarative and composable API for event-driven applications"
-  },
-  {
-    "createdAt": "2025-10-14T12:49:40Z",
-    "stars": 283,
-    "name": "Doby-Xu/WithAnyone",
-    "url": "https://github.com/Doby-Xu/WithAnyone",
-    "lang": "Python",
-    "desc": "✨ WithAnyone is capable of generating high-quality, controllable, and ID consistent images"
-  },
-  {
-    "createdAt": "2025-10-15T05:59:37Z",
-    "stars": 261,
-    "name": "ByteDance-Seed/TraceAnything",
-    "url": "https://github.com/ByteDance-Seed/TraceAnything",
-    "lang": "Python",
-    "desc": "Trace Anything: Representing Any Video in 4D via Trajectory Fields"
-  },
-  {
-    "createdAt": "2025-10-14T17:16:40Z",
-    "stars": 251,
-    "name": "wimmerth/anyup",
-    "url": "https://github.com/wimmerth/anyup",
-    "lang": "Jupyter Notebook",
-    "desc": "Repository of the paper \"AnyUp: Universal Feature Upsampling\"."
+    "createdAt": "2025-10-20T02:52:10Z",
+    "stars": 592,
+    "name": "anthropic-experimental/sandbox-runtime",
+    "url": "https://github.com/anthropic-experimental/sandbox-runtime",
+    "lang": "TypeScript",
+    "desc": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container."
   },
   {
     "createdAt": "2025-10-19T21:33:51Z",
-    "stars": 228,
+    "stars": 397,
     "name": "lackeyjb/playwright-skill",
     "url": "https://github.com/lackeyjb/playwright-skill",
     "lang": "JavaScript",
     "desc": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation."
   },
   {
-    "createdAt": "2025-10-15T01:39:53Z",
-    "stars": 207,
-    "name": "sankha-ghosh/Browser-Data-Grabber",
-    "url": "https://github.com/sankha-ghosh/Browser-Data-Grabber",
-    "lang": "C++",
-    "desc": "Professional Qt6-based GUI builder for Windows payloads. Cross-platform red team tool with advanced evasion capabilities."
-  },
-  {
-    "createdAt": "2025-10-19T18:16:33Z",
-    "stars": 205,
-    "name": "aeyakovenko/percolator",
-    "url": "https://github.com/aeyakovenko/percolator",
-    "lang": "Makefile",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-16T12:07:52Z",
-    "stars": 203,
-    "name": "Gezine/Y2JB",
-    "url": "https://github.com/Gezine/Y2JB",
-    "lang": "Python",
-    "desc": "Y2JB is userland code execution using PS5 Youtube app"
-  },
-  {
-    "createdAt": "2025-10-15T19:48:48Z",
-    "stars": 196,
-    "name": "mahdiMGF2/mirza_pro",
-    "url": "https://github.com/mahdiMGF2/mirza_pro",
-    "lang": "PHP",
-    "desc": "bot pro for sell vpn"
-  },
-  {
-    "createdAt": "2025-10-13T16:15:15Z",
-    "stars": 192,
-    "name": "markrai/whatsthat",
-    "url": "https://github.com/markrai/whatsthat",
-    "lang": "JavaScript",
-    "desc": "a brutally honest whatsapp web analyzer"
-  },
-  {
-    "createdAt": "2025-10-13T06:14:48Z",
-    "stars": 185,
-    "name": "eric-ai-lab/EvoPresent",
-    "url": "https://github.com/eric-ai-lab/EvoPresent",
-    "lang": "Python",
-    "desc": "Official codebase for the paper \"Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations\""
-  },
-  {
-    "createdAt": "2025-10-14T16:18:20Z",
-    "stars": 183,
-    "name": "rickhanlonii/async-react",
-    "url": "https://github.com/rickhanlonii/async-react",
-    "lang": "TypeScript",
-    "desc": "The final state of the React Conf 2025 Async React talk."
-  },
-  {
-    "createdAt": "2025-10-17T09:27:47Z",
-    "stars": 183,
-    "name": "GRIffInlIOnZo/BSC-MEME-RUSH-BOT",
-    "url": "https://github.com/GRIffInlIOnZo/BSC-MEME-RUSH-BOT",
-    "lang": "Python",
-    "desc": "EVM Sniper Bot v4.31 is a sniping bot for local trading of BNB and Meme Rush tokens on Binance Smart Chain."
-  },
-  {
-    "createdAt": "2025-10-19T22:13:38Z",
-    "stars": 182,
-    "name": "Matars/gitfetch",
-    "url": "https://github.com/Matars/gitfetch",
-    "lang": "Python",
-    "desc": "A neofetch alternative for GitHub quick view"
-  },
-  {
-    "createdAt": "2025-10-16T19:30:22Z",
-    "stars": 173,
-    "name": "alexzhang13/rlm",
-    "url": "https://github.com/alexzhang13/rlm",
-    "lang": "Python",
-    "desc": "Super basic implementation (gist-like) of RLMs with REPL environments."
-  },
-  {
-    "createdAt": "2025-10-18T16:33:32Z",
-    "stars": 169,
-    "name": "schellingb/dosbox-pure-unleashed",
-    "url": "https://github.com/schellingb/dosbox-pure-unleashed",
-    "lang": "C++",
-    "desc": "DOSBox reimagined, with a friendly interface, ZIP loading and save states"
-  },
-  {
-    "createdAt": "2025-10-13T19:04:34Z",
-    "stars": 168,
-    "name": "saihgupr/HomeAssistantTimeMachine",
-    "url": "https://github.com/saihgupr/HomeAssistantTimeMachine",
-    "lang": "TypeScript",
-    "desc": "Home Assistant Time Machine is a web-based tool that acts as a \"Time Machine\" for your Home Assistant configuration."
-  },
-  {
-    "createdAt": "2025-10-16T16:03:07Z",
-    "stars": 160,
-    "name": "EvolvingLMMs-Lab/NEO",
-    "url": "https://github.com/EvolvingLMMs-Lab/NEO",
-    "lang": "Python",
-    "desc": "NEO Series: Native Vision-Language Models from First Principles"
-  },
-  {
-    "createdAt": "2025-10-20T02:28:13Z",
-    "stars": 158,
-    "name": "gyj155/SearchPaperByEmbedding",
-    "url": "https://github.com/gyj155/SearchPaperByEmbedding",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-13T15:42:42Z",
-    "stars": 158,
-    "name": "RemotePinee/AudioVisual",
-    "url": "https://github.com/RemotePinee/AudioVisual",
-    "lang": "JavaScript",
-    "desc": "解锁所有国内媒体流的钥匙"
-  },
-  {
-    "createdAt": "2025-10-16T12:06:05Z",
-    "stars": 158,
-    "name": "meituan-longcat/LongCat-Audio-Codec",
-    "url": "https://github.com/meituan-longcat/LongCat-Audio-Codec",
-    "lang": "Python",
-    "desc": "LongCat Audio Tokenizer and Detokenizer"
-  },
-  {
-    "createdAt": "2025-10-13T18:11:15Z",
-    "stars": 157,
-    "name": "atrattCode/dawn-bot",
-    "url": "https://github.com/atrattCode/dawn-bot",
-    "lang": "Python",
-    "desc": "A Bot for Dawn Validator automation"
-  },
-  {
-    "createdAt": "2025-10-13T07:37:55Z",
-    "stars": 154,
-    "name": "InternRobotics/PhysHSI",
-    "url": "https://github.com/InternRobotics/PhysHSI",
-    "lang": "Python",
-    "desc": "Official implementation of the paper: \"PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System\""
-  },
-  {
-    "createdAt": "2025-10-20T01:59:07Z",
-    "stars": 150,
-    "name": "ltjed/freephdlabor",
-    "url": "https://github.com/ltjed/freephdlabor",
-    "lang": "Python",
-    "desc": "freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem"
-  },
-  {
-    "createdAt": "2025-10-15T15:36:20Z",
-    "stars": 149,
-    "name": "kayba-ai/agentic-context-engine",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "lang": "Python",
-    "desc": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework."
-  },
-  {
-    "createdAt": "2025-10-15T22:29:59Z",
-    "stars": 146,
-    "name": "mshumer/interactive-sora",
-    "url": "https://github.com/mshumer/interactive-sora",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-14T01:35:10Z",
-    "stars": 143,
-    "name": "RevenueCat/placeholder-compose",
-    "url": "https://github.com/RevenueCat/placeholder-compose",
-    "lang": "Kotlin",
-    "desc": "✨ Fully customizable placeholder loading effects for Jetpack Compose and KMP."
-  },
-  {
-    "createdAt": "2025-10-20T12:00:28Z",
-    "stars": 142,
-    "name": "Lsangeles/sora2-watermark-remover",
-    "url": "https://github.com/Lsangeles/sora2-watermark-remover",
-    "lang": "Python",
-    "desc": "Watermark remover for Sora 2 generated videos"
-  },
-  {
-    "createdAt": "2025-10-15T10:03:08Z",
-    "stars": 133,
-    "name": "DooiLabs/FastApps",
-    "url": "https://github.com/DooiLabs/FastApps",
-    "lang": "Python",
-    "desc": "⚡ The fast, Pythonic way to build ChatGPT Apps"
-  },
-  {
-    "createdAt": "2025-10-14T03:41:26Z",
-    "stars": 129,
-    "name": "Nomadcxx/sysc-greet",
-    "url": "https://github.com/Nomadcxx/sysc-greet",
+    "createdAt": "2025-10-14T14:35:12Z",
+    "stars": 382,
+    "name": "coyer1986/rapid-cipher-819",
+    "url": "https://github.com/coyer1986/rapid-cipher-819",
     "lang": "Go",
-    "desc": "A tui greeter (not built in rust) "
+    "desc": ""
   },
   {
-    "createdAt": "2025-10-17T18:16:04Z",
-    "stars": 129,
-    "name": "atrattCode/Pharos-Testnet-Bot",
-    "url": "https://github.com/atrattCode/Pharos-Testnet-Bot",
-    "lang": "Python",
-    "desc": "Bot for Pharos Testnet automation"
-  },
-  {
-    "createdAt": "2025-10-14T20:14:48Z",
-    "stars": 126,
-    "name": "micr0-dev/wellness-ping",
-    "url": "https://github.com/micr0-dev/wellness-ping",
-    "lang": "Go",
-    "desc": "A simple dead man's switch service. Get pinged regularly to confirm you're okay. If you don't respond, your emergency contacts get alerted."
-  },
-  {
-    "createdAt": "2025-10-18T16:24:12Z",
-    "stars": 126,
-    "name": "abubakarsiddik31/claude-skills-collection",
-    "url": "https://github.com/abubakarsiddik31/claude-skills-collection",
-    "lang": "",
-    "desc": "A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more."
-  },
-  {
-    "createdAt": "2025-10-13T15:10:47Z",
-    "stars": 122,
-    "name": "alchaincyf/huasheng_editor",
-    "url": "https://github.com/alchaincyf/huasheng_editor",
-    "lang": "JavaScript",
-    "desc": "花生公众号排版器"
-  },
-  {
-    "createdAt": "2025-10-16T10:40:06Z",
-    "stars": 121,
-    "name": "cuongnh28/spring-microservices-blueprint",
-    "url": "https://github.com/cuongnh28/spring-microservices-blueprint",
-    "lang": "Java",
-    "desc": "Java Spring Boot microservices stack (PostgreSQL, Kafka, Elasticsearch, Kibana, Fluentd, JWT Auth, Swagger) — easily build & run all services in two commands."
-  },
-  {
-    "createdAt": "2025-10-14T16:06:29Z",
-    "stars": 118,
-    "name": "NVlabs/vla0",
-    "url": "https://github.com/NVlabs/vla0",
+    "createdAt": "2025-10-14T12:55:30Z",
+    "stars": 382,
+    "name": "coyer1986/crimson-haven-292",
+    "url": "https://github.com/coyer1986/crimson-haven-292",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-13T01:17:04Z",
-    "stars": 117,
-    "name": "allipiopereira/turborepo-bun-next-expo",
-    "url": "https://github.com/allipiopereira/turborepo-bun-next-expo",
-    "lang": "TypeScript",
-    "desc": "This is a Turborepo monorepo named \"turborepo-bun-next-expo\" containing a Next.js web application and an Expo React Native mobile application, sharing common UI components and configuration packages."
-  },
-  {
-    "createdAt": "2025-10-19T05:36:13Z",
-    "stars": 111,
-    "name": "PleasePrompto/notebooklm-skill",
-    "url": "https://github.com/PleasePrompto/notebooklm-skill",
-    "lang": "Python",
-    "desc": "Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base."
-  },
-  {
-    "createdAt": "2025-10-19T14:36:40Z",
-    "stars": 111,
-    "name": "EzioBy/Ditto",
-    "url": "https://github.com/EzioBy/Ditto",
-    "lang": "Python",
-    "desc": "[Preprint 2025] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset"
-  },
-  {
-    "createdAt": "2025-10-13T23:21:08Z",
-    "stars": 110,
-    "name": "imaimai17468/digital-agency-icons",
-    "url": "https://github.com/imaimai17468/digital-agency-icons",
-    "lang": "TypeScript",
+    "createdAt": "2025-10-14T14:36:46Z",
+    "stars": 382,
+    "name": "coyer1986/gentle-pulse-281",
+    "url": "https://github.com/coyer1986/gentle-pulse-281",
+    "lang": "",
     "desc": ""
+  },
+  {
+    "createdAt": "2025-10-14T14:35:41Z",
+    "stars": 382,
+    "name": "coyer1986/stoic-engine-25",
+    "url": "https://github.com/coyer1986/stoic-engine-25",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-14T17:29:24Z",
+    "stars": 382,
+    "name": "coyer1986/portfolio-site-4996",
+    "url": "https://github.com/coyer1986/portfolio-site-4996",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T12:55:27Z",
+    "stars": 382,
+    "name": "coyer1986/frosty-engine-202",
+    "url": "https://github.com/coyer1986/frosty-engine-202",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-14T14:36:27Z",
+    "stars": 382,
+    "name": "coyer1986/clever-marble-821",
+    "url": "https://github.com/coyer1986/clever-marble-821",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-14T17:29:05Z",
+    "stars": 382,
+    "name": "coyer1986/notes-app-7725",
+    "url": "https://github.com/coyer1986/notes-app-7725",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T16:53:11Z",
+    "stars": 382,
+    "name": "coyer1986/go-web-server",
+    "url": "https://github.com/coyer1986/go-web-server",
+    "lang": "Go",
+    "desc": "🐹 Go web server"
+  },
+  {
+    "createdAt": "2025-10-14T14:36:01Z",
+    "stars": 382,
+    "name": "coyer1986/crimson-atlas-860",
+    "url": "https://github.com/coyer1986/crimson-atlas-860",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-14T17:02:06Z",
+    "stars": 382,
+    "name": "coyer1986/react-todo-app",
+    "url": "https://github.com/coyer1986/react-todo-app",
+    "lang": "JavaScript",
+    "desc": "✅ React todo app"
+  },
+  {
+    "createdAt": "2025-10-14T17:29:14Z",
+    "stars": 382,
+    "name": "coyer1986/data-analysis-3627",
+    "url": "https://github.com/coyer1986/data-analysis-3627",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T12:55:24Z",
+    "stars": 382,
+    "name": "coyer1986/clever-forge-586",
+    "url": "https://github.com/coyer1986/clever-forge-586",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-14T17:00:42Z",
+    "stars": 382,
+    "name": "coyer1986/python-weather-api",
+    "url": "https://github.com/coyer1986/python-weather-api",
+    "lang": "Python",
+    "desc": "🌤️ Weather API wrapper"
+  },
+  {
+    "createdAt": "2025-10-14T17:29:09Z",
+    "stars": 382,
+    "name": "coyer1986/mobile-app-4401",
+    "url": "https://github.com/coyer1986/mobile-app-4401",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T12:52:49Z",
+    "stars": 382,
+    "name": "coyer1986/silent-quark-930",
+    "url": "https://github.com/coyer1986/silent-quark-930",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-14T15:19:08Z",
+    "stars": 382,
+    "name": "coyer1986/coyer1986",
+    "url": "https://github.com/coyer1986/coyer1986",
+    "lang": "",
+    "desc": "Profile README for coyer1986"
+  },
+  {
+    "createdAt": "2025-10-14T12:52:52Z",
+    "stars": 382,
+    "name": "coyer1986/silent-pulse-108",
+    "url": "https://github.com/coyer1986/silent-pulse-108",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-14T17:29:20Z",
+    "stars": 382,
+    "name": "coyer1986/portfolio-site-7571",
+    "url": "https://github.com/coyer1986/portfolio-site-7571",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:09:29Z",
+    "stars": 381,
+    "name": "coyer1986/activity-history",
+    "url": "https://github.com/coyer1986/activity-history",
+    "lang": "",
+    "desc": "GitHub activity history"
+  },
+  {
+    "createdAt": "2025-10-14T18:52:07Z",
+    "stars": 372,
+    "name": "coyer1986/notes-app-8933",
+    "url": "https://github.com/coyer1986/notes-app-8933",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:53:14Z",
+    "stars": 372,
+    "name": "coyer1986/weather-app-5869",
+    "url": "https://github.com/coyer1986/weather-app-5869",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:53:45Z",
+    "stars": 372,
+    "name": "coyer1986/ml-model-4948",
+    "url": "https://github.com/coyer1986/ml-model-4948",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:52:32Z",
+    "stars": 372,
+    "name": "coyer1986/mobile-app-9495",
+    "url": "https://github.com/coyer1986/mobile-app-9495",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:53:58Z",
+    "stars": 372,
+    "name": "coyer1986/cms-system-3141",
+    "url": "https://github.com/coyer1986/cms-system-3141",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:53:40Z",
+    "stars": 372,
+    "name": "coyer1986/inventory-system-7857",
+    "url": "https://github.com/coyer1986/inventory-system-7857",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:54:10Z",
+    "stars": 372,
+    "name": "coyer1986/ecommerce-shop-1991",
+    "url": "https://github.com/coyer1986/ecommerce-shop-1991",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:54:05Z",
+    "stars": 372,
+    "name": "coyer1986/booking-app-8862",
+    "url": "https://github.com/coyer1986/booking-app-8862",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:53:29Z",
+    "stars": 372,
+    "name": "coyer1986/chat-app-2478",
+    "url": "https://github.com/coyer1986/chat-app-2478",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:52:22Z",
+    "stars": 372,
+    "name": "coyer1986/mobile-app-6849",
+    "url": "https://github.com/coyer1986/mobile-app-6849",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:53:20Z",
+    "stars": 372,
+    "name": "coyer1986/task-manager-6036",
+    "url": "https://github.com/coyer1986/task-manager-6036",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:52:56Z",
+    "stars": 372,
+    "name": "coyer1986/blog-platform-6331",
+    "url": "https://github.com/coyer1986/blog-platform-6331",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:52:43Z",
+    "stars": 372,
+    "name": "coyer1986/inventory-system-3814",
+    "url": "https://github.com/coyer1986/inventory-system-3814",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:54:01Z",
+    "stars": 372,
+    "name": "coyer1986/automation-tool-6262",
+    "url": "https://github.com/coyer1986/automation-tool-6262",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:51:58Z",
+    "stars": 372,
+    "name": "coyer1986/automation-tool-8275",
+    "url": "https://github.com/coyer1986/automation-tool-8275",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:53:50Z",
+    "stars": 372,
+    "name": "coyer1986/chat-app-3140",
+    "url": "https://github.com/coyer1986/chat-app-3140",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:52:51Z",
+    "stars": 372,
+    "name": "coyer1986/task-manager-7754",
+    "url": "https://github.com/coyer1986/task-manager-7754",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:53:55Z",
+    "stars": 372,
+    "name": "coyer1986/automation-tool-1608",
+    "url": "https://github.com/coyer1986/automation-tool-1608",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:52:03Z",
+    "stars": 372,
+    "name": "coyer1986/chat-app-9234",
+    "url": "https://github.com/coyer1986/chat-app-9234",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:52:11Z",
+    "stars": 372,
+    "name": "coyer1986/awesome-project-7461",
+    "url": "https://github.com/coyer1986/awesome-project-7461",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
+  },
+  {
+    "createdAt": "2025-10-14T18:52:16Z",
+    "stars": 372,
+    "name": "coyer1986/cms-system-4135",
+    "url": "https://github.com/coyer1986/cms-system-4135",
+    "lang": "",
+    "desc": "Project repository created at 2025-10-14"
   }
 ]
