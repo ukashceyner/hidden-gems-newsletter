@@ -1,55 +1,39 @@
 [
   {
     "createdAt": "2025-10-17T06:14:27Z",
-    "stars": 8243,
+    "stars": 11638,
     "name": "deepseek-ai/DeepSeek-OCR",
     "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
     "lang": "Python",
     "desc": "Contexts Optical Compression"
   },
   {
-    "createdAt": "2025-10-14T21:02:00Z",
-    "stars": 1793,
-    "name": "virattt/dexter",
-    "url": "https://github.com/virattt/dexter",
-    "lang": "Python",
-    "desc": "An autonomous agent for deep financial research"
-  },
-  {
-    "createdAt": "2025-10-16T15:34:46Z",
-    "stars": 1445,
-    "name": "firecrawl/open-agent-builder",
-    "url": "https://github.com/firecrawl/open-agent-builder",
-    "lang": "TypeScript",
-    "desc": "🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution"
-  },
-  {
     "createdAt": "2025-10-17T14:43:48Z",
-    "stars": 1427,
+    "stars": 1528,
     "name": "yusufkaraaslan/Skill_Seekers",
     "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
     "lang": "Python",
     "desc": "Single powerful tool to convert ANY documentation website into a Claude skill"
   },
   {
+    "createdAt": "2025-10-16T15:34:46Z",
+    "stars": 1525,
+    "name": "firecrawl/open-agent-builder",
+    "url": "https://github.com/firecrawl/open-agent-builder",
+    "lang": "TypeScript",
+    "desc": "🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution"
+  },
+  {
     "createdAt": "2025-10-17T15:05:35Z",
-    "stars": 1230,
+    "stars": 1358,
     "name": "BehiSecc/awesome-claude-skills",
     "url": "https://github.com/BehiSecc/awesome-claude-skills",
     "lang": "",
     "desc": "A curated list of Claude Skills."
   },
   {
-    "createdAt": "2025-10-14T15:41:42Z",
-    "stars": 795,
-    "name": "UZDoom/UZDoom",
-    "url": "https://github.com/UZDoom/UZDoom",
-    "lang": "C++",
-    "desc": "UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities"
-  },
-  {
     "createdAt": "2025-10-16T20:42:39Z",
-    "stars": 649,
+    "stars": 940,
     "name": "travisvn/awesome-claude-skills",
     "url": "https://github.com/travisvn/awesome-claude-skills",
     "lang": "",
@@ -57,7 +41,7 @@
   },
   {
     "createdAt": "2025-10-20T02:52:10Z",
-    "stars": 592,
+    "stars": 837,
     "name": "anthropic-experimental/sandbox-runtime",
     "url": "https://github.com/anthropic-experimental/sandbox-runtime",
     "lang": "TypeScript",
@@ -65,338 +49,354 @@
   },
   {
     "createdAt": "2025-10-19T21:33:51Z",
-    "stars": 397,
+    "stars": 457,
     "name": "lackeyjb/playwright-skill",
     "url": "https://github.com/lackeyjb/playwright-skill",
     "lang": "JavaScript",
     "desc": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation."
   },
   {
-    "createdAt": "2025-10-14T14:35:12Z",
-    "stars": 382,
-    "name": "coyer1986/rapid-cipher-819",
-    "url": "https://github.com/coyer1986/rapid-cipher-819",
-    "lang": "Go",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-14T12:55:30Z",
-    "stars": 382,
-    "name": "coyer1986/crimson-haven-292",
-    "url": "https://github.com/coyer1986/crimson-haven-292",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-14T14:36:46Z",
-    "stars": 382,
-    "name": "coyer1986/gentle-pulse-281",
-    "url": "https://github.com/coyer1986/gentle-pulse-281",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-14T14:35:41Z",
-    "stars": 382,
-    "name": "coyer1986/stoic-engine-25",
-    "url": "https://github.com/coyer1986/stoic-engine-25",
-    "lang": "Go",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-14T17:29:24Z",
-    "stars": 382,
-    "name": "coyer1986/portfolio-site-4996",
-    "url": "https://github.com/coyer1986/portfolio-site-4996",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
-  },
-  {
-    "createdAt": "2025-10-14T12:55:27Z",
-    "stars": 382,
-    "name": "coyer1986/frosty-engine-202",
-    "url": "https://github.com/coyer1986/frosty-engine-202",
+    "createdAt": "2025-10-21T17:24:55Z",
+    "stars": 455,
+    "name": "s4myot/crypto-tax-calculator",
+    "url": "https://github.com/s4myot/crypto-tax-calculator",
     "lang": "Python",
+    "desc": "An advanced cryptocurrency & personal income tax calculator."
+  },
+  {
+    "createdAt": "2025-10-19T18:16:33Z",
+    "stars": 363,
+    "name": "aeyakovenko/percolator",
+    "url": "https://github.com/aeyakovenko/percolator",
+    "lang": "Makefile",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-14T14:36:27Z",
-    "stars": 382,
-    "name": "coyer1986/clever-marble-821",
-    "url": "https://github.com/coyer1986/clever-marble-821",
-    "lang": "Go",
-    "desc": ""
+    "createdAt": "2025-10-19T10:14:36Z",
+    "stars": 337,
+    "name": "Katakate/k7",
+    "url": "https://github.com/Katakate/k7",
+    "lang": "Python",
+    "desc": "Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐"
   },
   {
-    "createdAt": "2025-10-14T17:29:05Z",
-    "stars": 382,
-    "name": "coyer1986/notes-app-7725",
-    "url": "https://github.com/coyer1986/notes-app-7725",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-21T07:12:36Z",
+    "stars": 335,
+    "name": "lightly-ai/lightly-studio",
+    "url": "https://github.com/lightly-ai/lightly-studio",
+    "lang": "Python",
+    "desc": "Curate, Annotate, and Manage Your Data in LightlyStudio."
   },
   {
-    "createdAt": "2025-10-14T16:53:11Z",
-    "stars": 382,
-    "name": "coyer1986/go-web-server",
-    "url": "https://github.com/coyer1986/go-web-server",
-    "lang": "Go",
-    "desc": "🐹 Go web server"
+    "createdAt": "2025-10-20T12:00:28Z",
+    "stars": 312,
+    "name": "Lsangeles/sora2-watermark-remover",
+    "url": "https://github.com/Lsangeles/sora2-watermark-remover",
+    "lang": "Python",
+    "desc": "Watermark remover for Sora 2 generated videos"
   },
   {
-    "createdAt": "2025-10-14T14:36:01Z",
-    "stars": 382,
-    "name": "coyer1986/crimson-atlas-860",
-    "url": "https://github.com/coyer1986/crimson-atlas-860",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-14T17:02:06Z",
-    "stars": 382,
-    "name": "coyer1986/react-todo-app",
-    "url": "https://github.com/coyer1986/react-todo-app",
+    "createdAt": "2025-10-21T00:26:39Z",
+    "stars": 295,
+    "name": "rdumasia303/deepseek_ocr_app",
+    "url": "https://github.com/rdumasia303/deepseek_ocr_app",
     "lang": "JavaScript",
-    "desc": "✅ React todo app"
+    "desc": "A quick vibe coded app for deepseek OCR"
   },
   {
-    "createdAt": "2025-10-14T17:29:14Z",
-    "stars": 382,
-    "name": "coyer1986/data-analysis-3627",
-    "url": "https://github.com/coyer1986/data-analysis-3627",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-15T05:59:37Z",
+    "stars": 283,
+    "name": "ByteDance-Seed/TraceAnything",
+    "url": "https://github.com/ByteDance-Seed/TraceAnything",
+    "lang": "Python",
+    "desc": "Trace Anything: Representing Any Video in 4D via Trajectory Fields"
   },
   {
-    "createdAt": "2025-10-14T12:55:24Z",
-    "stars": 382,
-    "name": "coyer1986/clever-forge-586",
-    "url": "https://github.com/coyer1986/clever-forge-586",
+    "createdAt": "2025-10-15T15:36:20Z",
+    "stars": 282,
+    "name": "kayba-ai/agentic-context-engine",
+    "url": "https://github.com/kayba-ai/agentic-context-engine",
+    "lang": "Python",
+    "desc": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework."
+  },
+  {
+    "createdAt": "2025-10-18T16:33:32Z",
+    "stars": 269,
+    "name": "schellingb/dosbox-pure-unleashed",
+    "url": "https://github.com/schellingb/dosbox-pure-unleashed",
     "lang": "C++",
-    "desc": ""
+    "desc": "DOSBox reimagined, with a friendly interface, ZIP loading and save states"
   },
   {
-    "createdAt": "2025-10-14T17:00:42Z",
-    "stars": 382,
-    "name": "coyer1986/python-weather-api",
-    "url": "https://github.com/coyer1986/python-weather-api",
+    "createdAt": "2025-10-19T22:13:38Z",
+    "stars": 258,
+    "name": "Matars/gitfetch",
+    "url": "https://github.com/Matars/gitfetch",
     "lang": "Python",
-    "desc": "🌤️ Weather API wrapper"
+    "desc": "A neofetch alternative for GitHub quick view"
   },
   {
-    "createdAt": "2025-10-14T17:29:09Z",
-    "stars": 382,
-    "name": "coyer1986/mobile-app-4401",
-    "url": "https://github.com/coyer1986/mobile-app-4401",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-20T15:09:57Z",
+    "stars": 244,
+    "name": "deta/surf",
+    "url": "https://github.com/deta/surf",
+    "lang": "TypeScript",
+    "desc": "AI Notebooks"
   },
   {
-    "createdAt": "2025-10-14T12:52:49Z",
-    "stars": 382,
-    "name": "coyer1986/silent-quark-930",
-    "url": "https://github.com/coyer1986/silent-quark-930",
+    "createdAt": "2025-10-17T09:27:47Z",
+    "stars": 240,
+    "name": "GRIffInlIOnZo/BSC-MEME-RUSH-BOT",
+    "url": "https://github.com/GRIffInlIOnZo/BSC-MEME-RUSH-BOT",
+    "lang": "Python",
+    "desc": "EVM Sniper Bot v4.31 is a sniping bot for local trading of BNB and Meme Rush tokens on Binance Smart Chain."
+  },
+  {
+    "createdAt": "2025-10-20T07:23:51Z",
+    "stars": 233,
+    "name": "chadyi/AITradeGame",
+    "url": "https://github.com/chadyi/AITradeGame",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-14T15:19:08Z",
-    "stars": 382,
-    "name": "coyer1986/coyer1986",
-    "url": "https://github.com/coyer1986/coyer1986",
-    "lang": "",
-    "desc": "Profile README for coyer1986"
-  },
-  {
-    "createdAt": "2025-10-14T12:52:52Z",
-    "stars": 382,
-    "name": "coyer1986/silent-pulse-108",
-    "url": "https://github.com/coyer1986/silent-pulse-108",
-    "lang": "",
+    "createdAt": "2025-10-20T02:28:13Z",
+    "stars": 223,
+    "name": "gyj155/SearchPaperByEmbedding",
+    "url": "https://github.com/gyj155/SearchPaperByEmbedding",
+    "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-14T17:29:20Z",
-    "stars": 382,
-    "name": "coyer1986/portfolio-site-7571",
-    "url": "https://github.com/coyer1986/portfolio-site-7571",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-17T05:35:15Z",
+    "stars": 221,
+    "name": "Lythrilla/NeedyClash",
+    "url": "https://github.com/Lythrilla/NeedyClash",
+    "lang": "TypeScript",
+    "desc": "世界上最好看的 clash？ 兼顾稳定性和性能"
   },
   {
-    "createdAt": "2025-10-14T18:09:29Z",
-    "stars": 381,
-    "name": "coyer1986/activity-history",
-    "url": "https://github.com/coyer1986/activity-history",
-    "lang": "",
-    "desc": "GitHub activity history"
+    "createdAt": "2025-10-17T14:43:19Z",
+    "stars": 217,
+    "name": "tianrun-chen/World-in-Novel-View",
+    "url": "https://github.com/tianrun-chen/World-in-Novel-View",
+    "lang": "Python",
+    "desc": "Scaling Novel View Synthesis for Static and Dynamic Scenes"
   },
   {
-    "createdAt": "2025-10-14T18:52:07Z",
-    "stars": 372,
-    "name": "coyer1986/notes-app-8933",
-    "url": "https://github.com/coyer1986/notes-app-8933",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-20T01:59:07Z",
+    "stars": 214,
+    "name": "ltjed/freephdlabor",
+    "url": "https://github.com/ltjed/freephdlabor",
+    "lang": "Python",
+    "desc": "freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem"
   },
   {
-    "createdAt": "2025-10-14T18:53:14Z",
-    "stars": 372,
-    "name": "coyer1986/weather-app-5869",
-    "url": "https://github.com/coyer1986/weather-app-5869",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-16T12:07:52Z",
+    "stars": 211,
+    "name": "Gezine/Y2JB",
+    "url": "https://github.com/Gezine/Y2JB",
+    "lang": "Python",
+    "desc": "Y2JB is userland code execution using PS5 Youtube app"
   },
   {
-    "createdAt": "2025-10-14T18:53:45Z",
-    "stars": 372,
-    "name": "coyer1986/ml-model-4948",
-    "url": "https://github.com/coyer1986/ml-model-4948",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-19T14:36:40Z",
+    "stars": 209,
+    "name": "EzioBy/Ditto",
+    "url": "https://github.com/EzioBy/Ditto",
+    "lang": "Python",
+    "desc": "[Preprint 2025] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset"
   },
   {
-    "createdAt": "2025-10-14T18:52:32Z",
-    "stars": 372,
-    "name": "coyer1986/mobile-app-9495",
-    "url": "https://github.com/coyer1986/mobile-app-9495",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-15T19:48:48Z",
+    "stars": 204,
+    "name": "mahdiMGF2/mirza_pro",
+    "url": "https://github.com/mahdiMGF2/mirza_pro",
+    "lang": "PHP",
+    "desc": "bot pro for sell vpn"
   },
   {
-    "createdAt": "2025-10-14T18:53:58Z",
-    "stars": 372,
-    "name": "coyer1986/cms-system-3141",
-    "url": "https://github.com/coyer1986/cms-system-3141",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-16T19:30:22Z",
+    "stars": 188,
+    "name": "alexzhang13/rlm",
+    "url": "https://github.com/alexzhang13/rlm",
+    "lang": "Python",
+    "desc": "Super basic implementation (gist-like) of RLMs with REPL environments."
   },
   {
-    "createdAt": "2025-10-14T18:53:40Z",
-    "stars": 372,
-    "name": "coyer1986/inventory-system-7857",
-    "url": "https://github.com/coyer1986/inventory-system-7857",
+    "createdAt": "2025-10-18T16:24:12Z",
+    "stars": 173,
+    "name": "abubakarsiddik31/claude-skills-collection",
+    "url": "https://github.com/abubakarsiddik31/claude-skills-collection",
     "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "desc": "A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more."
   },
   {
-    "createdAt": "2025-10-14T18:54:10Z",
-    "stars": 372,
-    "name": "coyer1986/ecommerce-shop-1991",
-    "url": "https://github.com/coyer1986/ecommerce-shop-1991",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-16T16:03:07Z",
+    "stars": 172,
+    "name": "EvolvingLMMs-Lab/NEO",
+    "url": "https://github.com/EvolvingLMMs-Lab/NEO",
+    "lang": "Python",
+    "desc": "NEO Series: Native Vision-Language Models from First Principles"
   },
   {
-    "createdAt": "2025-10-14T18:54:05Z",
-    "stars": 372,
-    "name": "coyer1986/booking-app-8862",
-    "url": "https://github.com/coyer1986/booking-app-8862",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-16T12:06:05Z",
+    "stars": 170,
+    "name": "meituan-longcat/LongCat-Audio-Codec",
+    "url": "https://github.com/meituan-longcat/LongCat-Audio-Codec",
+    "lang": "Python",
+    "desc": "LongCat Audio Tokenizer and Detokenizer"
   },
   {
-    "createdAt": "2025-10-14T18:53:29Z",
-    "stars": 372,
-    "name": "coyer1986/chat-app-2478",
-    "url": "https://github.com/coyer1986/chat-app-2478",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-15T01:39:53Z",
+    "stars": 169,
+    "name": "sankha-ghosh/Browser-Data-Grabber",
+    "url": "https://github.com/sankha-ghosh/Browser-Data-Grabber",
+    "lang": "C++",
+    "desc": "Stealer for Windows 10/11 for Chrome, Edge, Firefox, Brave with Wallet, Discord, Telegram and many more functions. Passwords, cookies, autofills, payments, etc."
   },
   {
-    "createdAt": "2025-10-14T18:52:22Z",
-    "stars": 372,
-    "name": "coyer1986/mobile-app-6849",
-    "url": "https://github.com/coyer1986/mobile-app-6849",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-16T13:47:15Z",
+    "stars": 168,
+    "name": "Tencent-Hunyuan/HunyuanWorld-Mirror",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror",
+    "lang": "Python",
+    "desc": "Universal 3D World Reconstruction with Any-Prior Prompting"
   },
   {
-    "createdAt": "2025-10-14T18:53:20Z",
-    "stars": 372,
-    "name": "coyer1986/task-manager-6036",
-    "url": "https://github.com/coyer1986/task-manager-6036",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-17T20:05:15Z",
+    "stars": 167,
+    "name": "ZA1815/caniscrape",
+    "url": "https://github.com/ZA1815/caniscrape",
+    "lang": "Python",
+    "desc": ""
   },
   {
-    "createdAt": "2025-10-14T18:52:56Z",
-    "stars": 372,
-    "name": "coyer1986/blog-platform-6331",
-    "url": "https://github.com/coyer1986/blog-platform-6331",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-17T03:23:00Z",
+    "stars": 163,
+    "name": "Dexmal/dexbotic",
+    "url": "https://github.com/Dexmal/dexbotic",
+    "lang": "Python",
+    "desc": "Dexbotic: Open-Source Vision-Language-Action Toolbox"
   },
   {
-    "createdAt": "2025-10-14T18:52:43Z",
-    "stars": 372,
-    "name": "coyer1986/inventory-system-3814",
-    "url": "https://github.com/coyer1986/inventory-system-3814",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-18T03:03:21Z",
+    "stars": 157,
+    "name": "severity1/claude-code-prompt-improver",
+    "url": "https://github.com/severity1/claude-code-prompt-improver",
+    "lang": "Python",
+    "desc": "Intelligent prompt improver hook for Claude Code. Type vibes, ship precision."
   },
   {
-    "createdAt": "2025-10-14T18:54:01Z",
-    "stars": 372,
-    "name": "coyer1986/automation-tool-6262",
-    "url": "https://github.com/coyer1986/automation-tool-6262",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-15T10:03:08Z",
+    "stars": 153,
+    "name": "DooiLabs/FastApps",
+    "url": "https://github.com/DooiLabs/FastApps",
+    "lang": "Python",
+    "desc": "⚡ The fast, Pythonic way to build ChatGPT Apps"
   },
   {
-    "createdAt": "2025-10-14T18:51:58Z",
-    "stars": 372,
-    "name": "coyer1986/automation-tool-8275",
-    "url": "https://github.com/coyer1986/automation-tool-8275",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-18T22:09:46Z",
+    "stars": 152,
+    "name": "Jagalite/superseedr",
+    "url": "https://github.com/Jagalite/superseedr",
+    "lang": "Rust",
+    "desc": "A BitTorrent Client in your Terminal"
   },
   {
-    "createdAt": "2025-10-14T18:53:50Z",
-    "stars": 372,
-    "name": "coyer1986/chat-app-3140",
-    "url": "https://github.com/coyer1986/chat-app-3140",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-15T22:29:59Z",
+    "stars": 152,
+    "name": "mshumer/interactive-sora",
+    "url": "https://github.com/mshumer/interactive-sora",
+    "lang": "Python",
+    "desc": ""
   },
   {
-    "createdAt": "2025-10-14T18:52:51Z",
-    "stars": 372,
-    "name": "coyer1986/task-manager-7754",
-    "url": "https://github.com/coyer1986/task-manager-7754",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-17T19:38:53Z",
+    "stars": 141,
+    "name": "1420970597/fucto",
+    "url": "https://github.com/1420970597/fucto",
+    "lang": "Python",
+    "desc": "自建cto中转，2api，open-ai格式，支持多号轮询"
   },
   {
-    "createdAt": "2025-10-14T18:53:55Z",
-    "stars": 372,
-    "name": "coyer1986/automation-tool-1608",
-    "url": "https://github.com/coyer1986/automation-tool-1608",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-19T05:36:13Z",
+    "stars": 139,
+    "name": "PleasePrompto/notebooklm-skill",
+    "url": "https://github.com/PleasePrompto/notebooklm-skill",
+    "lang": "Python",
+    "desc": "Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base."
   },
   {
-    "createdAt": "2025-10-14T18:52:03Z",
-    "stars": 372,
-    "name": "coyer1986/chat-app-9234",
-    "url": "https://github.com/coyer1986/chat-app-9234",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-17T05:08:04Z",
+    "stars": 138,
+    "name": "crashpredictorss/Aviator-Predictor",
+    "url": "https://github.com/crashpredictorss/Aviator-Predictor",
+    "lang": "TypeScript",
+    "desc": "Our downloadable SHA256 analysis tool powers the Aviator predictor, Aviator predictor app, and aviator crash predictor. Available for desktop and as an Aviator predictor APK, it’s designed for research, fairness verification, and safe demo testing"
   },
   {
-    "createdAt": "2025-10-14T18:52:11Z",
-    "stars": 372,
-    "name": "coyer1986/awesome-project-7461",
-    "url": "https://github.com/coyer1986/awesome-project-7461",
+    "createdAt": "2025-10-21T15:38:58Z",
+    "stars": 135,
+    "name": "BullyCio43/bsc-fourmeme-bot-copy-trade",
+    "url": "https://github.com/BullyCio43/bsc-fourmeme-bot-copy-trade",
     "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "desc": " Binance Smart Chain (BSC) four.meme trading bot, offering multiple features. "
   },
   {
-    "createdAt": "2025-10-14T18:52:16Z",
-    "stars": 372,
-    "name": "coyer1986/cms-system-4135",
-    "url": "https://github.com/coyer1986/cms-system-4135",
-    "lang": "",
-    "desc": "Project repository created at 2025-10-14"
+    "createdAt": "2025-10-22T05:01:24Z",
+    "stars": 135,
+    "name": "SynDevOffficial/Sys-Syn-Stealer",
+    "url": "https://github.com/SynDevOffficial/Sys-Syn-Stealer",
+    "lang": "C#",
+    "desc": "Syn Stealer Is Advanced Stealer That Grabs Wallets, Passwords, Blq Blq, And Sends Back To Panel. Using TCP Sockets."
+  },
+  {
+    "createdAt": "2025-10-20T03:56:39Z",
+    "stars": 131,
+    "name": "discountry/ritmex-ai-trader",
+    "url": "https://github.com/discountry/ritmex-ai-trader",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-20T16:00:25Z",
+    "stars": 126,
+    "name": "gokapso/whatsapp-cloud-inbox",
+    "url": "https://github.com/gokapso/whatsapp-cloud-inbox",
+    "lang": "TypeScript",
+    "desc": "Open source WhatsApp inbox for the Cloud API. Template messages, interactive buttons, media support, and 24-hour window enforcement."
+  },
+  {
+    "createdAt": "2025-10-17T02:26:36Z",
+    "stars": 124,
+    "name": "Zen7-Labs/Zen7-Payment-Agent",
+    "url": "https://github.com/Zen7-Labs/Zen7-Payment-Agent",
+    "lang": "Python",
+    "desc": "Zen7 Payment Agent is the first implementation project of DePA (Decentralized Payment Agent), pioneers next-generation intelligent payment infrastructure."
+  },
+  {
+    "createdAt": "2025-10-16T10:40:06Z",
+    "stars": 124,
+    "name": "cuongnh28/spring-microservices-blueprint",
+    "url": "https://github.com/cuongnh28/spring-microservices-blueprint",
+    "lang": "Java",
+    "desc": "Java Spring Boot microservices stack (PostgreSQL, Kafka, Elasticsearch, Kibana, Fluentd, JWT Auth, Swagger) — easily build & run all services in two commands."
+  },
+  {
+    "createdAt": "2025-10-21T23:30:09Z",
+    "stars": 123,
+    "name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-20T23:26:57Z",
+    "stars": 123,
+    "name": "AmadeusGB/alpha-arena",
+    "url": "https://github.com/AmadeusGB/alpha-arena",
+    "lang": "Python",
+    "desc": "一个让 AI 模型在真实市场中进行实盘交易与对抗的实验平台。目标是通过不断迭代，让智能体真正学会在不确定市场中生存和盈利。"
   }
 ]
