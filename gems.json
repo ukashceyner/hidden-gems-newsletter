@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-10-17T06:14:27Z",
-    "stars": 11638,
+    "stars": 15075,
     "name": "deepseek-ai/DeepSeek-OCR",
     "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
     "lang": "Python",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-10-17T14:43:48Z",
-    "stars": 1528,
+    "stars": 1609,
     "name": "yusufkaraaslan/Skill_Seekers",
     "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
     "lang": "Python",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-10-16T15:34:46Z",
-    "stars": 1525,
+    "stars": 1585,
     "name": "firecrawl/open-agent-builder",
     "url": "https://github.com/firecrawl/open-agent-builder",
     "lang": "TypeScript",
@@ -25,7 +25,7 @@
   },
   {
     "createdAt": "2025-10-17T15:05:35Z",
-    "stars": 1358,
+    "stars": 1444,
     "name": "BehiSecc/awesome-claude-skills",
     "url": "https://github.com/BehiSecc/awesome-claude-skills",
     "lang": "",
@@ -33,159 +33,199 @@
   },
   {
     "createdAt": "2025-10-16T20:42:39Z",
-    "stars": 940,
+    "stars": 1097,
     "name": "travisvn/awesome-claude-skills",
     "url": "https://github.com/travisvn/awesome-claude-skills",
     "lang": "",
     "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code"
   },
   {
+    "createdAt": "2025-10-20T15:09:57Z",
+    "stars": 1085,
+    "name": "deta/surf",
+    "url": "https://github.com/deta/surf",
+    "lang": "TypeScript",
+    "desc": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local)."
+  },
+  {
     "createdAt": "2025-10-20T02:52:10Z",
-    "stars": 837,
+    "stars": 919,
     "name": "anthropic-experimental/sandbox-runtime",
     "url": "https://github.com/anthropic-experimental/sandbox-runtime",
     "lang": "TypeScript",
     "desc": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container."
   },
   {
-    "createdAt": "2025-10-19T21:33:51Z",
-    "stars": 457,
-    "name": "lackeyjb/playwright-skill",
-    "url": "https://github.com/lackeyjb/playwright-skill",
-    "lang": "JavaScript",
-    "desc": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation."
-  },
-  {
     "createdAt": "2025-10-21T17:24:55Z",
-    "stars": 455,
+    "stars": 569,
     "name": "s4myot/crypto-tax-calculator",
     "url": "https://github.com/s4myot/crypto-tax-calculator",
     "lang": "Python",
     "desc": "An advanced cryptocurrency & personal income tax calculator."
   },
   {
-    "createdAt": "2025-10-19T18:16:33Z",
-    "stars": 363,
-    "name": "aeyakovenko/percolator",
-    "url": "https://github.com/aeyakovenko/percolator",
-    "lang": "Makefile",
-    "desc": ""
+    "createdAt": "2025-10-19T21:33:51Z",
+    "stars": 492,
+    "name": "lackeyjb/playwright-skill",
+    "url": "https://github.com/lackeyjb/playwright-skill",
+    "lang": "JavaScript",
+    "desc": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation."
   },
   {
     "createdAt": "2025-10-19T10:14:36Z",
-    "stars": 337,
+    "stars": 445,
     "name": "Katakate/k7",
     "url": "https://github.com/Katakate/k7",
     "lang": "Python",
     "desc": "Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐"
   },
   {
-    "createdAt": "2025-10-21T07:12:36Z",
-    "stars": 335,
-    "name": "lightly-ai/lightly-studio",
-    "url": "https://github.com/lightly-ai/lightly-studio",
-    "lang": "Python",
-    "desc": "Curate, Annotate, and Manage Your Data in LightlyStudio."
-  },
-  {
-    "createdAt": "2025-10-20T12:00:28Z",
-    "stars": 312,
-    "name": "Lsangeles/sora2-watermark-remover",
-    "url": "https://github.com/Lsangeles/sora2-watermark-remover",
-    "lang": "Python",
-    "desc": "Watermark remover for Sora 2 generated videos"
-  },
-  {
     "createdAt": "2025-10-21T00:26:39Z",
-    "stars": 295,
+    "stars": 427,
     "name": "rdumasia303/deepseek_ocr_app",
     "url": "https://github.com/rdumasia303/deepseek_ocr_app",
     "lang": "JavaScript",
     "desc": "A quick vibe coded app for deepseek OCR"
   },
   {
-    "createdAt": "2025-10-15T05:59:37Z",
-    "stars": 283,
-    "name": "ByteDance-Seed/TraceAnything",
-    "url": "https://github.com/ByteDance-Seed/TraceAnything",
+    "createdAt": "2025-10-21T07:12:36Z",
+    "stars": 417,
+    "name": "lightly-ai/lightly-studio",
+    "url": "https://github.com/lightly-ai/lightly-studio",
     "lang": "Python",
-    "desc": "Trace Anything: Representing Any Video in 4D via Trajectory Fields"
+    "desc": "Curate, Annotate, and Manage Your Data in LightlyStudio."
   },
   {
-    "createdAt": "2025-10-15T15:36:20Z",
-    "stars": 282,
-    "name": "kayba-ai/agentic-context-engine",
-    "url": "https://github.com/kayba-ai/agentic-context-engine",
-    "lang": "Python",
-    "desc": "🧠 Make your agents learn from experience. Based on the Agentic Context Engineering (ACE) framework."
+    "createdAt": "2025-10-19T18:16:33Z",
+    "stars": 378,
+    "name": "aeyakovenko/percolator",
+    "url": "https://github.com/aeyakovenko/percolator",
+    "lang": "Makefile",
+    "desc": ""
   },
   {
-    "createdAt": "2025-10-18T16:33:32Z",
-    "stars": 269,
-    "name": "schellingb/dosbox-pure-unleashed",
-    "url": "https://github.com/schellingb/dosbox-pure-unleashed",
-    "lang": "C++",
-    "desc": "DOSBox reimagined, with a friendly interface, ZIP loading and save states"
-  },
-  {
-    "createdAt": "2025-10-19T22:13:38Z",
-    "stars": 258,
-    "name": "Matars/gitfetch",
-    "url": "https://github.com/Matars/gitfetch",
-    "lang": "Python",
-    "desc": "A neofetch alternative for GitHub quick view"
-  },
-  {
-    "createdAt": "2025-10-20T15:09:57Z",
-    "stars": 244,
-    "name": "deta/surf",
-    "url": "https://github.com/deta/surf",
-    "lang": "TypeScript",
-    "desc": "AI Notebooks"
-  },
-  {
-    "createdAt": "2025-10-17T09:27:47Z",
-    "stars": 240,
-    "name": "GRIffInlIOnZo/BSC-MEME-RUSH-BOT",
-    "url": "https://github.com/GRIffInlIOnZo/BSC-MEME-RUSH-BOT",
-    "lang": "Python",
-    "desc": "EVM Sniper Bot v4.31 is a sniping bot for local trading of BNB and Meme Rush tokens on Binance Smart Chain."
-  },
-  {
-    "createdAt": "2025-10-20T07:23:51Z",
-    "stars": 233,
-    "name": "chadyi/AITradeGame",
-    "url": "https://github.com/chadyi/AITradeGame",
+    "createdAt": "2025-10-21T23:30:09Z",
+    "stars": 332,
+    "name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-20T02:28:13Z",
-    "stars": 223,
-    "name": "gyj155/SearchPaperByEmbedding",
-    "url": "https://github.com/gyj155/SearchPaperByEmbedding",
+    "createdAt": "2025-10-16T13:47:15Z",
+    "stars": 326,
+    "name": "Tencent-Hunyuan/HunyuanWorld-Mirror",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror",
     "lang": "Python",
-    "desc": ""
+    "desc": "Universal 3D World Reconstruction with Any-Prior Prompting"
   },
   {
-    "createdAt": "2025-10-17T05:35:15Z",
-    "stars": 221,
-    "name": "Lythrilla/NeedyClash",
-    "url": "https://github.com/Lythrilla/NeedyClash",
-    "lang": "TypeScript",
-    "desc": "世界上最好看的 clash？ 兼顾稳定性和性能"
+    "createdAt": "2025-10-20T12:00:28Z",
+    "stars": 321,
+    "name": "Lsangeles/sora2-watermark-remover",
+    "url": "https://github.com/Lsangeles/sora2-watermark-remover",
+    "lang": "Python",
+    "desc": "Watermark remover for Sora 2 generated videos"
   },
   {
     "createdAt": "2025-10-17T14:43:19Z",
-    "stars": 217,
+    "stars": 319,
     "name": "tianrun-chen/World-in-Novel-View",
     "url": "https://github.com/tianrun-chen/World-in-Novel-View",
     "lang": "Python",
     "desc": "Scaling Novel View Synthesis for Static and Dynamic Scenes"
   },
   {
+    "createdAt": "2025-10-18T16:33:32Z",
+    "stars": 289,
+    "name": "schellingb/dosbox-pure-unleashed",
+    "url": "https://github.com/schellingb/dosbox-pure-unleashed",
+    "lang": "C++",
+    "desc": "DOSBox reimagined, with a friendly interface, ZIP loading and save states"
+  },
+  {
+    "createdAt": "2025-10-19T14:36:40Z",
+    "stars": 284,
+    "name": "EzioBy/Ditto",
+    "url": "https://github.com/EzioBy/Ditto",
+    "lang": "Python",
+    "desc": "[Preprint 2025] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset"
+  },
+  {
+    "createdAt": "2025-10-17T07:15:18Z",
+    "stars": 283,
+    "name": "Pokee-AI/PokeeResearchOSS",
+    "url": "https://github.com/Pokee-AI/PokeeResearchOSS",
+    "lang": "Python",
+    "desc": "Pokee Deep Research Model Open Source Repo"
+  },
+  {
+    "createdAt": "2025-10-21T20:25:03Z",
+    "stars": 281,
+    "name": "setls/HacxGPT",
+    "url": "https://github.com/setls/HacxGPT",
+    "lang": "Python",
+    "desc": "HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy."
+  },
+  {
+    "createdAt": "2025-10-19T22:13:38Z",
+    "stars": 266,
+    "name": "Matars/gitfetch",
+    "url": "https://github.com/Matars/gitfetch",
+    "lang": "Python",
+    "desc": "A neofetch alternative for GitHub quick view"
+  },
+  {
+    "createdAt": "2025-10-20T07:23:51Z",
+    "stars": 262,
+    "name": "chadyi/AITradeGame",
+    "url": "https://github.com/chadyi/AITradeGame",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-17T05:35:15Z",
+    "stars": 257,
+    "name": "Lythrilla/NeedyClash",
+    "url": "https://github.com/Lythrilla/NeedyClash",
+    "lang": "TypeScript",
+    "desc": "世界上最好看的 clash？ 兼顾稳定性和性能"
+  },
+  {
+    "createdAt": "2025-10-17T09:27:47Z",
+    "stars": 241,
+    "name": "GRIffInlIOnZo/BSC-MEME-RUSH-BOT",
+    "url": "https://github.com/GRIffInlIOnZo/BSC-MEME-RUSH-BOT",
+    "lang": "Python",
+    "desc": "EVM Sniper Bot v4.31 is a sniping bot for local trading of BNB and Meme Rush tokens on Binance Smart Chain."
+  },
+  {
+    "createdAt": "2025-10-20T02:28:13Z",
+    "stars": 234,
+    "name": "gyj155/SearchPaperByEmbedding",
+    "url": "https://github.com/gyj155/SearchPaperByEmbedding",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-22T13:34:39Z",
+    "stars": 234,
+    "name": "Rouwang01/Hawkish-Eyes-NoDualHook",
+    "url": "https://github.com/Rouwang01/Hawkish-Eyes-NoDualHook",
+    "lang": "Python",
+    "desc": "Ethical Hacking Tool | Powerfull Tokens Grabber / Stealer Discord, Steal: Browsers Passwords & Cookies, Window Info, Files Sniper, Wallet, Minecraft Account, Bypass Firewall & Antivirus, Discord Injection JS, Chromium Injection JS (Brave, Chrome, OperaGX, Opera, Vivaldi, Edge, yandex)."
+  },
+  {
+    "createdAt": "2025-10-19T15:31:00Z",
+    "stars": 233,
+    "name": "justoneapi-support/taobao-api",
+    "url": "https://github.com/justoneapi-support/taobao-api",
+    "lang": "",
+    "desc": "淘宝接口,淘宝API,taobao api,taobao,天猫接口,天猫API,tmall api,tmall"
+  },
+  {
     "createdAt": "2025-10-20T01:59:07Z",
-    "stars": 214,
+    "stars": 233,
     "name": "ltjed/freephdlabor",
     "url": "https://github.com/ltjed/freephdlabor",
     "lang": "Python",
@@ -193,47 +233,95 @@
   },
   {
     "createdAt": "2025-10-16T12:07:52Z",
-    "stars": 211,
+    "stars": 216,
     "name": "Gezine/Y2JB",
     "url": "https://github.com/Gezine/Y2JB",
     "lang": "Python",
     "desc": "Y2JB is userland code execution using PS5 Youtube app"
   },
   {
-    "createdAt": "2025-10-19T14:36:40Z",
-    "stars": 209,
-    "name": "EzioBy/Ditto",
-    "url": "https://github.com/EzioBy/Ditto",
+    "createdAt": "2025-10-17T03:23:00Z",
+    "stars": 210,
+    "name": "Dexmal/dexbotic",
+    "url": "https://github.com/Dexmal/dexbotic",
     "lang": "Python",
-    "desc": "[Preprint 2025] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset"
-  },
-  {
-    "createdAt": "2025-10-15T19:48:48Z",
-    "stars": 204,
-    "name": "mahdiMGF2/mirza_pro",
-    "url": "https://github.com/mahdiMGF2/mirza_pro",
-    "lang": "PHP",
-    "desc": "bot pro for sell vpn"
+    "desc": "Dexbotic: Open-Source Vision-Language-Action Toolbox"
   },
   {
     "createdAt": "2025-10-16T19:30:22Z",
-    "stars": 188,
+    "stars": 196,
     "name": "alexzhang13/rlm",
     "url": "https://github.com/alexzhang13/rlm",
     "lang": "Python",
     "desc": "Super basic implementation (gist-like) of RLMs with REPL environments."
   },
   {
+    "createdAt": "2025-10-18T22:09:46Z",
+    "stars": 194,
+    "name": "Jagalite/superseedr",
+    "url": "https://github.com/Jagalite/superseedr",
+    "lang": "Rust",
+    "desc": "A BitTorrent Client in your Terminal"
+  },
+  {
+    "createdAt": "2025-10-17T20:05:15Z",
+    "stars": 193,
+    "name": "ZA1815/caniscrape",
+    "url": "https://github.com/ZA1815/caniscrape",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-10-18T16:24:12Z",
-    "stars": 173,
+    "stars": 190,
     "name": "abubakarsiddik31/claude-skills-collection",
     "url": "https://github.com/abubakarsiddik31/claude-skills-collection",
     "lang": "",
     "desc": "A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more."
   },
   {
+    "createdAt": "2025-10-21T04:48:02Z",
+    "stars": 185,
+    "name": "ahpxex/Aictionary",
+    "url": "https://github.com/ahpxex/Aictionary",
+    "lang": "C#",
+    "desc": "一个桌面词典：快速、简洁，并且真的让你学会英语"
+  },
+  {
+    "createdAt": "2025-10-20T00:35:57Z",
+    "stars": 184,
+    "name": "Gajesh2007/ai-trading-agent",
+    "url": "https://github.com/Gajesh2007/ai-trading-agent",
+    "lang": "Python",
+    "desc": "AI Trading Agent on Hyperliquid"
+  },
+  {
+    "createdAt": "2025-10-21T22:02:11Z",
+    "stars": 184,
+    "name": "nik-rev/awesome-tiny-crates",
+    "url": "https://github.com/nik-rev/awesome-tiny-crates",
+    "lang": "",
+    "desc": "A bunch of small crates that make writing Rust more fun"
+  },
+  {
+    "createdAt": "2025-10-20T23:26:57Z",
+    "stars": 180,
+    "name": "AmadeusGB/alpha-arena",
+    "url": "https://github.com/AmadeusGB/alpha-arena",
+    "lang": "Python",
+    "desc": "一个让 AI 模型在真实市场中进行实盘交易与对抗的实验平台。目标是通过不断迭代，让智能体真正学会在不确定市场中生存和盈利。"
+  },
+  {
+    "createdAt": "2025-10-22T05:01:24Z",
+    "stars": 177,
+    "name": "LuigiTheMalDev/Syn-Stealer",
+    "url": "https://github.com/LuigiTheMalDev/Syn-Stealer",
+    "lang": "C#",
+    "desc": "Syn Stealer Is Advanced Stealer That Grabs Wallets, Passwords, Blq Blq, And Sends Back To Panel. Using TCP Sockets."
+  },
+  {
     "createdAt": "2025-10-16T16:03:07Z",
-    "stars": 172,
+    "stars": 175,
     "name": "EvolvingLMMs-Lab/NEO",
     "url": "https://github.com/EvolvingLMMs-Lab/NEO",
     "lang": "Python",
@@ -241,87 +329,47 @@
   },
   {
     "createdAt": "2025-10-16T12:06:05Z",
-    "stars": 170,
+    "stars": 172,
     "name": "meituan-longcat/LongCat-Audio-Codec",
     "url": "https://github.com/meituan-longcat/LongCat-Audio-Codec",
     "lang": "Python",
     "desc": "LongCat Audio Tokenizer and Detokenizer"
   },
   {
-    "createdAt": "2025-10-15T01:39:53Z",
-    "stars": 169,
-    "name": "sankha-ghosh/Browser-Data-Grabber",
-    "url": "https://github.com/sankha-ghosh/Browser-Data-Grabber",
-    "lang": "C++",
-    "desc": "Stealer for Windows 10/11 for Chrome, Edge, Firefox, Brave with Wallet, Discord, Telegram and many more functions. Passwords, cookies, autofills, payments, etc."
-  },
-  {
-    "createdAt": "2025-10-16T13:47:15Z",
-    "stars": 168,
-    "name": "Tencent-Hunyuan/HunyuanWorld-Mirror",
-    "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror",
-    "lang": "Python",
-    "desc": "Universal 3D World Reconstruction with Any-Prior Prompting"
-  },
-  {
-    "createdAt": "2025-10-17T20:05:15Z",
-    "stars": 167,
-    "name": "ZA1815/caniscrape",
-    "url": "https://github.com/ZA1815/caniscrape",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-17T03:23:00Z",
-    "stars": 163,
-    "name": "Dexmal/dexbotic",
-    "url": "https://github.com/Dexmal/dexbotic",
-    "lang": "Python",
-    "desc": "Dexbotic: Open-Source Vision-Language-Action Toolbox"
-  },
-  {
     "createdAt": "2025-10-18T03:03:21Z",
-    "stars": 157,
+    "stars": 168,
     "name": "severity1/claude-code-prompt-improver",
     "url": "https://github.com/severity1/claude-code-prompt-improver",
     "lang": "Python",
     "desc": "Intelligent prompt improver hook for Claude Code. Type vibes, ship precision."
   },
   {
-    "createdAt": "2025-10-15T10:03:08Z",
-    "stars": 153,
-    "name": "DooiLabs/FastApps",
-    "url": "https://github.com/DooiLabs/FastApps",
-    "lang": "Python",
-    "desc": "⚡ The fast, Pythonic way to build ChatGPT Apps"
-  },
-  {
-    "createdAt": "2025-10-18T22:09:46Z",
-    "stars": 152,
-    "name": "Jagalite/superseedr",
-    "url": "https://github.com/Jagalite/superseedr",
+    "createdAt": "2025-10-21T19:25:32Z",
+    "stars": 167,
+    "name": "Augani/adabraka-ui",
+    "url": "https://github.com/Augani/adabraka-ui",
     "lang": "Rust",
-    "desc": "A BitTorrent Client in your Terminal"
+    "desc": "A ui component library for building desktop applications in rust"
   },
   {
-    "createdAt": "2025-10-15T22:29:59Z",
-    "stars": 152,
-    "name": "mshumer/interactive-sora",
-    "url": "https://github.com/mshumer/interactive-sora",
+    "createdAt": "2025-10-20T07:05:47Z",
+    "stars": 164,
+    "name": "huojichuanqi/ds",
+    "url": "https://github.com/huojichuanqi/ds",
     "lang": "Python",
-    "desc": ""
+    "desc": "用deepseek做交易（搞着玩，注意风险）"
   },
   {
-    "createdAt": "2025-10-17T19:38:53Z",
-    "stars": 141,
-    "name": "1420970597/fucto",
-    "url": "https://github.com/1420970597/fucto",
-    "lang": "Python",
-    "desc": "自建cto中转，2api，open-ai格式，支持多号轮询"
+    "createdAt": "2025-10-21T18:48:03Z",
+    "stars": 158,
+    "name": "coollabsio/minio",
+    "url": "https://github.com/coollabsio/minio",
+    "lang": "Dockerfile",
+    "desc": "Automated MinIO docker images"
   },
   {
     "createdAt": "2025-10-19T05:36:13Z",
-    "stars": 139,
+    "stars": 156,
     "name": "PleasePrompto/notebooklm-skill",
     "url": "https://github.com/PleasePrompto/notebooklm-skill",
     "lang": "Python",
@@ -329,74 +377,26 @@
   },
   {
     "createdAt": "2025-10-17T05:08:04Z",
-    "stars": 138,
+    "stars": 156,
     "name": "crashpredictorss/Aviator-Predictor",
     "url": "https://github.com/crashpredictorss/Aviator-Predictor",
     "lang": "TypeScript",
     "desc": "Our downloadable SHA256 analysis tool powers the Aviator predictor, Aviator predictor app, and aviator crash predictor. Available for desktop and as an Aviator predictor APK, it’s designed for research, fairness verification, and safe demo testing"
   },
   {
-    "createdAt": "2025-10-21T15:38:58Z",
-    "stars": 135,
-    "name": "BullyCio43/bsc-fourmeme-bot-copy-trade",
-    "url": "https://github.com/BullyCio43/bsc-fourmeme-bot-copy-trade",
-    "lang": "",
-    "desc": " Binance Smart Chain (BSC) four.meme trading bot, offering multiple features. "
+    "createdAt": "2025-10-17T19:38:53Z",
+    "stars": 152,
+    "name": "1420970597/fucto",
+    "url": "https://github.com/1420970597/fucto",
+    "lang": "Python",
+    "desc": "自建cto中转，2api，open-ai格式，支持多号轮询"
   },
   {
-    "createdAt": "2025-10-22T05:01:24Z",
-    "stars": 135,
-    "name": "SynDevOffficial/Sys-Syn-Stealer",
-    "url": "https://github.com/SynDevOffficial/Sys-Syn-Stealer",
-    "lang": "C#",
-    "desc": "Syn Stealer Is Advanced Stealer That Grabs Wallets, Passwords, Blq Blq, And Sends Back To Panel. Using TCP Sockets."
-  },
-  {
-    "createdAt": "2025-10-20T03:56:39Z",
-    "stars": 131,
-    "name": "discountry/ritmex-ai-trader",
-    "url": "https://github.com/discountry/ritmex-ai-trader",
+    "createdAt": "2025-10-23T09:07:31Z",
+    "stars": 147,
+    "name": "vercel/workflow",
+    "url": "https://github.com/vercel/workflow",
     "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-20T16:00:25Z",
-    "stars": 126,
-    "name": "gokapso/whatsapp-cloud-inbox",
-    "url": "https://github.com/gokapso/whatsapp-cloud-inbox",
-    "lang": "TypeScript",
-    "desc": "Open source WhatsApp inbox for the Cloud API. Template messages, interactive buttons, media support, and 24-hour window enforcement."
-  },
-  {
-    "createdAt": "2025-10-17T02:26:36Z",
-    "stars": 124,
-    "name": "Zen7-Labs/Zen7-Payment-Agent",
-    "url": "https://github.com/Zen7-Labs/Zen7-Payment-Agent",
-    "lang": "Python",
-    "desc": "Zen7 Payment Agent is the first implementation project of DePA (Decentralized Payment Agent), pioneers next-generation intelligent payment infrastructure."
-  },
-  {
-    "createdAt": "2025-10-16T10:40:06Z",
-    "stars": 124,
-    "name": "cuongnh28/spring-microservices-blueprint",
-    "url": "https://github.com/cuongnh28/spring-microservices-blueprint",
-    "lang": "Java",
-    "desc": "Java Spring Boot microservices stack (PostgreSQL, Kafka, Elasticsearch, Kibana, Fluentd, JWT Auth, Swagger) — easily build & run all services in two commands."
-  },
-  {
-    "createdAt": "2025-10-21T23:30:09Z",
-    "stars": 123,
-    "name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
-    "url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-20T23:26:57Z",
-    "stars": 123,
-    "name": "AmadeusGB/alpha-arena",
-    "url": "https://github.com/AmadeusGB/alpha-arena",
-    "lang": "Python",
-    "desc": "一个让 AI 模型在真实市场中进行实盘交易与对抗的实验平台。目标是通过不断迭代，让智能体真正学会在不确定市场中生存和盈利。"
+    "desc": "Workflow DevKit: Build durable, resilient, and observable workflows"
   }
 ]
