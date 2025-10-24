@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-10-17T06:14:27Z",
-    "stars": 15075,
+    "stars": 16753,
     "name": "deepseek-ai/DeepSeek-OCR",
     "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
     "lang": "Python",
@@ -9,63 +9,63 @@
   },
   {
     "createdAt": "2025-10-17T14:43:48Z",
-    "stars": 1609,
+    "stars": 1659,
     "name": "yusufkaraaslan/Skill_Seekers",
     "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
     "lang": "Python",
     "desc": "Single powerful tool to convert ANY documentation website into a Claude skill"
   },
   {
-    "createdAt": "2025-10-16T15:34:46Z",
-    "stars": 1585,
-    "name": "firecrawl/open-agent-builder",
-    "url": "https://github.com/firecrawl/open-agent-builder",
-    "lang": "TypeScript",
-    "desc": "🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution"
-  },
-  {
-    "createdAt": "2025-10-17T15:05:35Z",
-    "stars": 1444,
-    "name": "BehiSecc/awesome-claude-skills",
-    "url": "https://github.com/BehiSecc/awesome-claude-skills",
-    "lang": "",
-    "desc": "A curated list of Claude Skills."
-  },
-  {
-    "createdAt": "2025-10-16T20:42:39Z",
-    "stars": 1097,
-    "name": "travisvn/awesome-claude-skills",
-    "url": "https://github.com/travisvn/awesome-claude-skills",
-    "lang": "",
-    "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code"
-  },
-  {
     "createdAt": "2025-10-20T15:09:57Z",
-    "stars": 1085,
+    "stars": 1566,
     "name": "deta/surf",
     "url": "https://github.com/deta/surf",
     "lang": "TypeScript",
     "desc": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local)."
   },
   {
+    "createdAt": "2025-10-17T15:05:35Z",
+    "stars": 1544,
+    "name": "BehiSecc/awesome-claude-skills",
+    "url": "https://github.com/BehiSecc/awesome-claude-skills",
+    "lang": "",
+    "desc": "A curated list of Claude Skills."
+  },
+  {
     "createdAt": "2025-10-20T02:52:10Z",
-    "stars": 919,
+    "stars": 977,
     "name": "anthropic-experimental/sandbox-runtime",
     "url": "https://github.com/anthropic-experimental/sandbox-runtime",
     "lang": "TypeScript",
     "desc": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container."
   },
   {
+    "createdAt": "2025-10-23T18:09:11Z",
+    "stars": 562,
+    "name": "mocred/spyder-osint",
+    "url": "https://github.com/mocred/spyder-osint",
+    "lang": "Python",
+    "desc": "An universal OSINT tool."
+  },
+  {
     "createdAt": "2025-10-21T17:24:55Z",
-    "stars": 569,
+    "stars": 545,
     "name": "s4myot/crypto-tax-calculator",
     "url": "https://github.com/s4myot/crypto-tax-calculator",
     "lang": "Python",
     "desc": "An advanced cryptocurrency & personal income tax calculator."
   },
   {
+    "createdAt": "2025-10-21T07:12:36Z",
+    "stars": 518,
+    "name": "lightly-ai/lightly-studio",
+    "url": "https://github.com/lightly-ai/lightly-studio",
+    "lang": "Python",
+    "desc": "Curate, Annotate, and Manage Your Data in LightlyStudio."
+  },
+  {
     "createdAt": "2025-10-19T21:33:51Z",
-    "stars": 492,
+    "stars": 513,
     "name": "lackeyjb/playwright-skill",
     "url": "https://github.com/lackeyjb/playwright-skill",
     "lang": "JavaScript",
@@ -73,87 +73,31 @@
   },
   {
     "createdAt": "2025-10-19T10:14:36Z",
-    "stars": 445,
+    "stars": 493,
     "name": "Katakate/k7",
     "url": "https://github.com/Katakate/k7",
     "lang": "Python",
     "desc": "Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐"
   },
   {
+    "createdAt": "2025-10-23T09:07:31Z",
+    "stars": 470,
+    "name": "vercel/workflow",
+    "url": "https://github.com/vercel/workflow",
+    "lang": "TypeScript",
+    "desc": "Workflow DevKit: Build durable, resilient, and observable workflows"
+  },
+  {
     "createdAt": "2025-10-21T00:26:39Z",
-    "stars": 427,
+    "stars": 466,
     "name": "rdumasia303/deepseek_ocr_app",
     "url": "https://github.com/rdumasia303/deepseek_ocr_app",
     "lang": "JavaScript",
     "desc": "A quick vibe coded app for deepseek OCR"
   },
   {
-    "createdAt": "2025-10-21T07:12:36Z",
-    "stars": 417,
-    "name": "lightly-ai/lightly-studio",
-    "url": "https://github.com/lightly-ai/lightly-studio",
-    "lang": "Python",
-    "desc": "Curate, Annotate, and Manage Your Data in LightlyStudio."
-  },
-  {
-    "createdAt": "2025-10-19T18:16:33Z",
-    "stars": 378,
-    "name": "aeyakovenko/percolator",
-    "url": "https://github.com/aeyakovenko/percolator",
-    "lang": "Makefile",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-21T23:30:09Z",
-    "stars": 332,
-    "name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
-    "url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-16T13:47:15Z",
-    "stars": 326,
-    "name": "Tencent-Hunyuan/HunyuanWorld-Mirror",
-    "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror",
-    "lang": "Python",
-    "desc": "Universal 3D World Reconstruction with Any-Prior Prompting"
-  },
-  {
-    "createdAt": "2025-10-20T12:00:28Z",
-    "stars": 321,
-    "name": "Lsangeles/sora2-watermark-remover",
-    "url": "https://github.com/Lsangeles/sora2-watermark-remover",
-    "lang": "Python",
-    "desc": "Watermark remover for Sora 2 generated videos"
-  },
-  {
-    "createdAt": "2025-10-17T14:43:19Z",
-    "stars": 319,
-    "name": "tianrun-chen/World-in-Novel-View",
-    "url": "https://github.com/tianrun-chen/World-in-Novel-View",
-    "lang": "Python",
-    "desc": "Scaling Novel View Synthesis for Static and Dynamic Scenes"
-  },
-  {
-    "createdAt": "2025-10-18T16:33:32Z",
-    "stars": 289,
-    "name": "schellingb/dosbox-pure-unleashed",
-    "url": "https://github.com/schellingb/dosbox-pure-unleashed",
-    "lang": "C++",
-    "desc": "DOSBox reimagined, with a friendly interface, ZIP loading and save states"
-  },
-  {
-    "createdAt": "2025-10-19T14:36:40Z",
-    "stars": 284,
-    "name": "EzioBy/Ditto",
-    "url": "https://github.com/EzioBy/Ditto",
-    "lang": "Python",
-    "desc": "[Preprint 2025] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset"
-  },
-  {
     "createdAt": "2025-10-17T07:15:18Z",
-    "stars": 283,
+    "stars": 434,
     "name": "Pokee-AI/PokeeResearchOSS",
     "url": "https://github.com/Pokee-AI/PokeeResearchOSS",
     "lang": "Python",
@@ -161,242 +105,298 @@
   },
   {
     "createdAt": "2025-10-21T20:25:03Z",
-    "stars": 281,
+    "stars": 425,
     "name": "setls/HacxGPT",
     "url": "https://github.com/setls/HacxGPT",
     "lang": "Python",
     "desc": "HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy."
   },
   {
-    "createdAt": "2025-10-19T22:13:38Z",
-    "stars": 266,
-    "name": "Matars/gitfetch",
-    "url": "https://github.com/Matars/gitfetch",
+    "createdAt": "2025-10-17T14:43:19Z",
+    "stars": 415,
+    "name": "tianrun-chen/World-in-Novel-View",
+    "url": "https://github.com/tianrun-chen/World-in-Novel-View",
     "lang": "Python",
-    "desc": "A neofetch alternative for GitHub quick view"
+    "desc": "Scaling Novel View Synthesis for Static and Dynamic Scenes"
+  },
+  {
+    "createdAt": "2025-10-21T23:30:09Z",
+    "stars": 414,
+    "name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-19T18:16:33Z",
+    "stars": 383,
+    "name": "aeyakovenko/percolator",
+    "url": "https://github.com/aeyakovenko/percolator",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-19T14:36:40Z",
+    "stars": 325,
+    "name": "EzioBy/Ditto",
+    "url": "https://github.com/EzioBy/Ditto",
+    "lang": "Python",
+    "desc": "[Preprint 2025] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset"
   },
   {
     "createdAt": "2025-10-20T07:23:51Z",
-    "stars": 262,
+    "stars": 311,
     "name": "chadyi/AITradeGame",
     "url": "https://github.com/chadyi/AITradeGame",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-17T05:35:15Z",
-    "stars": 257,
-    "name": "Lythrilla/NeedyClash",
-    "url": "https://github.com/Lythrilla/NeedyClash",
-    "lang": "TypeScript",
-    "desc": "世界上最好看的 clash？ 兼顾稳定性和性能"
+    "createdAt": "2025-10-18T16:33:32Z",
+    "stars": 304,
+    "name": "schellingb/dosbox-pure-unleashed",
+    "url": "https://github.com/schellingb/dosbox-pure-unleashed",
+    "lang": "C++",
+    "desc": "DOSBox reimagined, with a friendly interface, ZIP loading and save states"
   },
   {
-    "createdAt": "2025-10-17T09:27:47Z",
-    "stars": 241,
-    "name": "GRIffInlIOnZo/BSC-MEME-RUSH-BOT",
-    "url": "https://github.com/GRIffInlIOnZo/BSC-MEME-RUSH-BOT",
+    "createdAt": "2025-10-23T19:39:04Z",
+    "stars": 296,
+    "name": "pguso/ai-agents-from-scratch",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
+    "lang": "JavaScript",
+    "desc": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns."
+  },
+  {
+    "createdAt": "2025-10-19T22:13:38Z",
+    "stars": 280,
+    "name": "Matars/gitfetch",
+    "url": "https://github.com/Matars/gitfetch",
     "lang": "Python",
-    "desc": "EVM Sniper Bot v4.31 is a sniping bot for local trading of BNB and Meme Rush tokens on Binance Smart Chain."
+    "desc": "A neofetch alternative for GitHub quick view"
   },
   {
-    "createdAt": "2025-10-20T02:28:13Z",
-    "stars": 234,
-    "name": "gyj155/SearchPaperByEmbedding",
-    "url": "https://github.com/gyj155/SearchPaperByEmbedding",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-22T13:34:39Z",
-    "stars": 234,
-    "name": "Rouwang01/Hawkish-Eyes-NoDualHook",
-    "url": "https://github.com/Rouwang01/Hawkish-Eyes-NoDualHook",
-    "lang": "Python",
-    "desc": "Ethical Hacking Tool | Powerfull Tokens Grabber / Stealer Discord, Steal: Browsers Passwords & Cookies, Window Info, Files Sniper, Wallet, Minecraft Account, Bypass Firewall & Antivirus, Discord Injection JS, Chromium Injection JS (Brave, Chrome, OperaGX, Opera, Vivaldi, Edge, yandex)."
-  },
-  {
-    "createdAt": "2025-10-19T15:31:00Z",
-    "stars": 233,
-    "name": "justoneapi-support/taobao-api",
-    "url": "https://github.com/justoneapi-support/taobao-api",
+    "createdAt": "2025-10-24T12:50:58Z",
+    "stars": 279,
+    "name": "AnshulTulsian749/Ethereal-DEX-TRADING",
+    "url": "https://github.com/AnshulTulsian749/Ethereal-DEX-TRADING",
     "lang": "",
-    "desc": "淘宝接口,淘宝API,taobao api,taobao,天猫接口,天猫API,tmall api,tmall"
+    "desc": "Ethereal - Next-Generation Blockchain Infrastructure Platform"
   },
   {
-    "createdAt": "2025-10-20T01:59:07Z",
-    "stars": 233,
-    "name": "ltjed/freephdlabor",
-    "url": "https://github.com/ltjed/freephdlabor",
-    "lang": "Python",
-    "desc": "freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem"
-  },
-  {
-    "createdAt": "2025-10-16T12:07:52Z",
-    "stars": 216,
-    "name": "Gezine/Y2JB",
-    "url": "https://github.com/Gezine/Y2JB",
-    "lang": "Python",
-    "desc": "Y2JB is userland code execution using PS5 Youtube app"
-  },
-  {
-    "createdAt": "2025-10-17T03:23:00Z",
-    "stars": 210,
-    "name": "Dexmal/dexbotic",
-    "url": "https://github.com/Dexmal/dexbotic",
-    "lang": "Python",
-    "desc": "Dexbotic: Open-Source Vision-Language-Action Toolbox"
-  },
-  {
-    "createdAt": "2025-10-16T19:30:22Z",
-    "stars": 196,
-    "name": "alexzhang13/rlm",
-    "url": "https://github.com/alexzhang13/rlm",
-    "lang": "Python",
-    "desc": "Super basic implementation (gist-like) of RLMs with REPL environments."
-  },
-  {
-    "createdAt": "2025-10-18T22:09:46Z",
-    "stars": 194,
-    "name": "Jagalite/superseedr",
-    "url": "https://github.com/Jagalite/superseedr",
-    "lang": "Rust",
-    "desc": "A BitTorrent Client in your Terminal"
-  },
-  {
-    "createdAt": "2025-10-17T20:05:15Z",
-    "stars": 193,
-    "name": "ZA1815/caniscrape",
-    "url": "https://github.com/ZA1815/caniscrape",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-18T16:24:12Z",
-    "stars": 190,
-    "name": "abubakarsiddik31/claude-skills-collection",
-    "url": "https://github.com/abubakarsiddik31/claude-skills-collection",
+    "createdAt": "2025-10-24T12:07:00Z",
+    "stars": 279,
+    "name": "PerformMAx/Active-UNDELETE-Ultimate",
+    "url": "https://github.com/PerformMAx/Active-UNDELETE-Ultimate",
     "lang": "",
-    "desc": "A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more."
+    "desc": "Download Active UNDELETE Ultimate 2025 - Recover Deleted Files, Photos, Documents & Partitions with Advanced Data Restoration"
   },
   {
-    "createdAt": "2025-10-21T04:48:02Z",
-    "stars": 185,
-    "name": "ahpxex/Aictionary",
-    "url": "https://github.com/ahpxex/Aictionary",
-    "lang": "C#",
-    "desc": "一个桌面词典：快速、简洁，并且真的让你学会英语"
-  },
-  {
-    "createdAt": "2025-10-20T00:35:57Z",
-    "stars": 184,
-    "name": "Gajesh2007/ai-trading-agent",
-    "url": "https://github.com/Gajesh2007/ai-trading-agent",
-    "lang": "Python",
-    "desc": "AI Trading Agent on Hyperliquid"
-  },
-  {
-    "createdAt": "2025-10-21T22:02:11Z",
-    "stars": 184,
-    "name": "nik-rev/awesome-tiny-crates",
-    "url": "https://github.com/nik-rev/awesome-tiny-crates",
+    "createdAt": "2025-10-24T13:13:14Z",
+    "stars": 279,
+    "name": "atul695/Hibachi-Trade",
+    "url": "https://github.com/atul695/Hibachi-Trade",
     "lang": "",
-    "desc": "A bunch of small crates that make writing Rust more fun"
+    "desc": "Hibachi.xyz - Advanced Multi-Chain DEX Aggregator & Yield Optimizer"
   },
   {
-    "createdAt": "2025-10-20T23:26:57Z",
-    "stars": 180,
-    "name": "AmadeusGB/alpha-arena",
-    "url": "https://github.com/AmadeusGB/alpha-arena",
-    "lang": "Python",
-    "desc": "一个让 AI 模型在真实市场中进行实盘交易与对抗的实验平台。目标是通过不断迭代，让智能体真正学会在不确定市场中生存和盈利。"
+    "createdAt": "2025-10-24T12:12:52Z",
+    "stars": 279,
+    "name": "Ghlbishi/Abelssoft-SyncManager-Pro",
+    "url": "https://github.com/Ghlbishi/Abelssoft-SyncManager-Pro",
+    "lang": "",
+    "desc": "Download Abelssoft SyncManager Pro 2025 – Advanced File Synchronization, Backup, and Cloud Management Tool for Windows"
   },
   {
-    "createdAt": "2025-10-22T05:01:24Z",
-    "stars": 177,
-    "name": "LuigiTheMalDev/Syn-Stealer",
-    "url": "https://github.com/LuigiTheMalDev/Syn-Stealer",
-    "lang": "C#",
-    "desc": "Syn Stealer Is Advanced Stealer That Grabs Wallets, Passwords, Blq Blq, And Sends Back To Panel. Using TCP Sockets."
+    "createdAt": "2025-10-24T13:08:16Z",
+    "stars": 279,
+    "name": "ashashty/Gradient-Network",
+    "url": "https://github.com/ashashty/Gradient-Network",
+    "lang": "",
+    "desc": "Gradient-Network Gradient-free-download Gradient-setup-2024 Gradient-install Gradient-crypto Gradient-tools Gradient-Reger Gradient-Farmer Gradient-Miner Gradient-Multireger Gradient-Multifarmer Gradient-Extension-Bot Gradient-Bot Gradient-Multiwallet Gradient-AutoFarm airdrop crypto blockchain"
   },
   {
-    "createdAt": "2025-10-16T16:03:07Z",
-    "stars": 175,
-    "name": "EvolvingLMMs-Lab/NEO",
-    "url": "https://github.com/EvolvingLMMs-Lab/NEO",
-    "lang": "Python",
-    "desc": "NEO Series: Native Vision-Language Models from First Principles"
+    "createdAt": "2025-10-24T12:41:25Z",
+    "stars": 279,
+    "name": "Alexif11/BONK--Arena",
+    "url": "https://github.com/Alexif11/BONK--Arena",
+    "lang": "",
+    "desc": "Download BONK! Arena Trainer Hack 2025 - Unlimited Coins, Free Skins, God Mode & More Cheats"
   },
   {
-    "createdAt": "2025-10-16T12:06:05Z",
-    "stars": 172,
-    "name": "meituan-longcat/LongCat-Audio-Codec",
-    "url": "https://github.com/meituan-longcat/LongCat-Audio-Codec",
-    "lang": "Python",
-    "desc": "LongCat Audio Tokenizer and Detokenizer"
+    "createdAt": "2025-10-24T12:38:52Z",
+    "stars": 279,
+    "name": "Stayyker/benefits-of-krnl-for-roblox",
+    "url": "https://github.com/Stayyker/benefits-of-krnl-for-roblox",
+    "lang": "",
+    "desc": "wave-download zorara-download electron-executor benefits-of-electron-executor krnl"
   },
   {
-    "createdAt": "2025-10-18T03:03:21Z",
-    "stars": 168,
-    "name": "severity1/claude-code-prompt-improver",
-    "url": "https://github.com/severity1/claude-code-prompt-improver",
-    "lang": "Python",
-    "desc": "Intelligent prompt improver hook for Claude Code. Type vibes, ship precision."
+    "createdAt": "2025-10-24T12:05:17Z",
+    "stars": 279,
+    "name": "Pradana123/Adobe-1llustrator",
+    "url": "https://github.com/Pradana123/Adobe-1llustrator",
+    "lang": "",
+    "desc": "Download Adobe Illustrator Vector Design Tools - Best Features for Graphic Design, Illustration & Logo Creation in 2025"
   },
   {
-    "createdAt": "2025-10-21T19:25:32Z",
-    "stars": 167,
-    "name": "Augani/adabraka-ui",
-    "url": "https://github.com/Augani/adabraka-ui",
-    "lang": "Rust",
-    "desc": "A ui component library for building desktop applications in rust"
+    "createdAt": "2025-10-24T12:37:33Z",
+    "stars": 279,
+    "name": "Akash1067/benefits-of-electron-executor",
+    "url": "https://github.com/Akash1067/benefits-of-electron-executor",
+    "lang": "",
+    "desc": "wave-download zorara-download electron-executor benefits-of-electron-executor"
   },
   {
-    "createdAt": "2025-10-20T07:05:47Z",
-    "stars": 164,
-    "name": "huojichuanqi/ds",
-    "url": "https://github.com/huojichuanqi/ds",
-    "lang": "Python",
-    "desc": "用deepseek做交易（搞着玩，注意风险）"
+    "createdAt": "2025-10-24T12:43:14Z",
+    "stars": 279,
+    "name": "aman2425/DAWN-Bot",
+    "url": "https://github.com/aman2425/DAWN-Bot",
+    "lang": "",
+    "desc": "DAWN-Reger DAWN-Farmer DAWN-Miner DAWN-Multireger DAWN-Multifarmer DAWN-Autofarm DAWN-Extension-Bot DAWN-Bot DAWN-Multiwallet airdrop crypto blockchain"
   },
   {
-    "createdAt": "2025-10-21T18:48:03Z",
-    "stars": 158,
-    "name": "coollabsio/minio",
-    "url": "https://github.com/coollabsio/minio",
-    "lang": "Dockerfile",
-    "desc": "Automated MinIO docker images"
+    "createdAt": "2025-10-24T12:34:57Z",
+    "stars": 279,
+    "name": "akankshaaa17/Axie-Infinity",
+    "url": "https://github.com/akankshaaa17/Axie-Infinity",
+    "lang": "",
+    "desc": "Download Axie Infinity Trainer Hack 2025 - Unlimited Energy, Auto Battle, SLP Farming & More Cheats"
   },
   {
-    "createdAt": "2025-10-19T05:36:13Z",
-    "stars": 156,
-    "name": "PleasePrompto/notebooklm-skill",
-    "url": "https://github.com/PleasePrompto/notebooklm-skill",
-    "lang": "Python",
-    "desc": "Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base."
+    "createdAt": "2025-10-24T13:01:07Z",
+    "stars": 279,
+    "name": "termegro-designs/Form-Bnb-bot",
+    "url": "https://github.com/termegro-designs/Form-Bnb-bot",
+    "lang": "",
+    "desc": "FormBNB Auto-Bot is a powerful automation solution designed to maximize your earnings in the FormBNB ecosystem. Our advanced bot enables efficient airdrop farming through intelligent form automation and multi-account management capabilities."
   },
   {
-    "createdAt": "2025-10-17T05:08:04Z",
-    "stars": 156,
-    "name": "crashpredictorss/Aviator-Predictor",
-    "url": "https://github.com/crashpredictorss/Aviator-Predictor",
-    "lang": "TypeScript",
-    "desc": "Our downloadable SHA256 analysis tool powers the Aviator predictor, Aviator predictor app, and aviator crash predictor. Available for desktop and as an Aviator predictor APK, it’s designed for research, fairness verification, and safe demo testing"
+    "createdAt": "2025-10-24T13:14:31Z",
+    "stars": 279,
+    "name": "AayushaBhattarai1/lighter-TRADING",
+    "url": "https://github.com/AayushaBhattarai1/lighter-TRADING",
+    "lang": "",
+    "desc": "Lighter.xyz - Lightning Fast Crypto Derivatives & Perpetuals Exchange"
   },
   {
-    "createdAt": "2025-10-17T19:38:53Z",
-    "stars": 152,
-    "name": "1420970597/fucto",
-    "url": "https://github.com/1420970597/fucto",
-    "lang": "Python",
-    "desc": "自建cto中转，2api，open-ai格式，支持多号轮询"
+    "createdAt": "2025-10-24T11:40:11Z",
+    "stars": 279,
+    "name": "21f1000135/Aiarty-Image-Matting",
+    "url": "https://github.com/21f1000135/Aiarty-Image-Matting",
+    "lang": "",
+    "desc": "Download Aiarty Image Matting - Advanced AI-Powered Background Removal & Foreground Extraction Tool 2025"
   },
   {
-    "createdAt": "2025-10-23T09:07:31Z",
-    "stars": 147,
-    "name": "vercel/workflow",
-    "url": "https://github.com/vercel/workflow",
-    "lang": "TypeScript",
-    "desc": "Workflow DevKit: Build durable, resilient, and observable workflows"
+    "createdAt": "2025-10-24T12:16:32Z",
+    "stars": 279,
+    "name": "afandi2kk/3D-Youtube-Downloader",
+    "url": "https://github.com/afandi2kk/3D-Youtube-Downloader",
+    "lang": "",
+    "desc": "Download 3D YouTube Downloader – Download High-Quality 3D Videos, 360° VR, and 8K Content from YouTube in 2025"
+  },
+  {
+    "createdAt": "2025-10-24T13:02:54Z",
+    "stars": 279,
+    "name": "ItsMeRik/Form-trading-bot",
+    "url": "https://github.com/ItsMeRik/Form-trading-bot",
+    "lang": "",
+    "desc": "Form Trading Bot is an advanced algorithmic trading system designed to automate and optimize your trading strategies across multiple financial markets. Leveraging cutting-edge AI and quantitative analysis, it executes trades with precision and speed unmatched by manual trading."
+  },
+  {
+    "createdAt": "2025-10-24T13:18:21Z",
+    "stars": 279,
+    "name": "azhrzuhro/Pacifica-DEX",
+    "url": "https://github.com/azhrzuhro/Pacifica-DEX",
+    "lang": "",
+    "desc": "Trade automatically on pacificaDEX and profit from trades and future airdrop"
+  },
+  {
+    "createdAt": "2025-10-24T12:48:01Z",
+    "stars": 279,
+    "name": "Aniketsharma2002/DAWN-CRYPTO",
+    "url": "https://github.com/Aniketsharma2002/DAWN-CRYPTO",
+    "lang": "",
+    "desc": "DAWN DAWN-workflow DAWN-decentralized DAWN-Testnet DAWN-free-download DAWN-setup-2025 DAWN-install DAWN-platform DAWN-tools DAWN-crypto DAWN-for-developers DAWN-blockchain DAWN-automation DAWN-decentralized-workflows DAWN-crypto-workflow"
+  },
+  {
+    "createdAt": "2025-10-24T12:30:59Z",
+    "stars": 279,
+    "name": "jefouz/Avantisfi-DEX-TRADING",
+    "url": "https://github.com/jefouz/Avantisfi-DEX-TRADING",
+    "lang": "",
+    "desc": "AvantisFi Quantum Trader 2025 - AI-Powered DeFi Yield Optimizer"
+  },
+  {
+    "createdAt": "2025-10-24T12:23:31Z",
+    "stars": 279,
+    "name": "777704/Alaska-Gold-Rush",
+    "url": "https://github.com/777704/Alaska-Gold-Rush",
+    "lang": "",
+    "desc": "Download Alaska Gold Rush Hack 2025 - Unlimited Gold, Auto Mining & No Ban Trainer"
+  },
+  {
+    "createdAt": "2025-10-24T12:21:10Z",
+    "stars": 279,
+    "name": "AhmetHadziaganovic/TradingView-Crack",
+    "url": "https://github.com/AhmetHadziaganovic/TradingView-Crack",
+    "lang": "",
+    "desc": "trading-view tradingview tradingview-download-on-pc tradingview-app tradingview-premium tradingview-premium-free tradingview-free-premium tradingview-Crack tradingview Crack download download crack tradingview download premium tradingview trading view free tradingview "
+  },
+  {
+    "createdAt": "2025-10-24T13:04:47Z",
+    "stars": 279,
+    "name": "9472arnav/getgrass-bot",
+    "url": "https://github.com/9472arnav/getgrass-bot",
+    "lang": "",
+    "desc": " - bot  - proxy  - farming  - grass  - automated  - airdrop  - solana  - getgrass-io  - getgrass  - getgrassnode  - getgrassmining  - getgrass-bot-miner  - getgrass-bot  - getgrass-auto-miner  - getgrass-io-bot  - grass-bot-github  - getgrass-bot-github  - getgrass-proxy  - getgrass-js"
+  },
+  {
+    "createdAt": "2025-10-24T11:59:02Z",
+    "stars": 279,
+    "name": "Abdullah-pixel-gift/AdobePhotoshop",
+    "url": "https://github.com/Abdullah-pixel-gift/AdobePhotoshop",
+    "lang": "",
+    "desc": "Download Adobe Photoshop 2025 - Advanced Photo Editing, AI-Powered Tools, and Creative Design Features for Professionals"
+  },
+  {
+    "createdAt": "2025-10-24T12:18:16Z",
+    "stars": 279,
+    "name": "ahmadlal4445/AbletonLive",
+    "url": "https://github.com/ahmadlal4445/AbletonLive",
+    "lang": "",
+    "desc": "Download Ultimate Guide to Ableton Live 2025: DAW Features, Music Production Tools, MIDI Editing, Audio Effects, and Live Performance"
+  },
+  {
+    "createdAt": "2025-10-24T13:15:37Z",
+    "stars": 279,
+    "name": "azaan303/Monad-Bot",
+    "url": "https://github.com/azaan303/Monad-Bot",
+    "lang": "",
+    "desc": "- nodejs  - node  - monad  - monad-bot  - monadscore  - monadscore-bot  - monadscore-auto-bot - monad-testnet  - monad-automation  - monad-token-earnings  - monad-script  - monadscore-autofarm  - monadscore-reger  - monadscore-farmer"
+  },
+  {
+    "createdAt": "2025-10-24T12:25:24Z",
+    "stars": 279,
+    "name": "Ainsren/Aster-Protocol---Overview",
+    "url": "https://github.com/Ainsren/Aster-Protocol---Overview",
+    "lang": "",
+    "desc": "Aster - Next-Generation Blockchain Orchestration Platform"
+  },
+  {
+    "createdAt": "2025-10-24T11:42:32Z",
+    "stars": 279,
+    "name": "ioppll0/Agisoft-PhotoScan-Professional",
+    "url": "https://github.com/ioppll0/Agisoft-PhotoScan-Professional",
+    "lang": "",
+    "desc": "Download Agisoft PhotoScan Professional - Advanced Photogrammetry Software for 3D Modeling, Orthophoto Generation, and Point Cloud Processing in 2025"
+  },
+  {
+    "createdAt": "2025-10-24T12:15:00Z",
+    "stars": 279,
+    "name": "afad34838/7-Zip",
+    "url": "https://github.com/afad34838/7-Zip",
+    "lang": "",
+    "desc": "Download 7-Zip - High-Speed File Archiver with AES-256 Encryption, LZMA2 Compression, and Multi-Format Support in 2025"
   }
 ]
