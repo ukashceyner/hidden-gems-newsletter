@@ -1,47 +1,39 @@
 [
   {
-    "createdAt": "2025-10-17T06:14:27Z",
-    "stars": 16753,
-    "name": "deepseek-ai/DeepSeek-OCR",
-    "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
-    "lang": "Python",
-    "desc": "Contexts Optical Compression"
-  },
-  {
-    "createdAt": "2025-10-17T14:43:48Z",
-    "stars": 1659,
-    "name": "yusufkaraaslan/Skill_Seekers",
-    "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
-    "lang": "Python",
-    "desc": "Single powerful tool to convert ANY documentation website into a Claude skill"
-  },
-  {
     "createdAt": "2025-10-20T15:09:57Z",
-    "stars": 1566,
+    "stars": 1707,
     "name": "deta/surf",
     "url": "https://github.com/deta/surf",
     "lang": "TypeScript",
     "desc": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local)."
   },
   {
-    "createdAt": "2025-10-17T15:05:35Z",
-    "stars": 1544,
-    "name": "BehiSecc/awesome-claude-skills",
-    "url": "https://github.com/BehiSecc/awesome-claude-skills",
-    "lang": "",
-    "desc": "A curated list of Claude Skills."
-  },
-  {
     "createdAt": "2025-10-20T02:52:10Z",
-    "stars": 977,
+    "stars": 1068,
     "name": "anthropic-experimental/sandbox-runtime",
     "url": "https://github.com/anthropic-experimental/sandbox-runtime",
     "lang": "TypeScript",
     "desc": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container."
   },
   {
+    "createdAt": "2025-10-21T00:26:39Z",
+    "stars": 759,
+    "name": "rdumasia303/deepseek_ocr_app",
+    "url": "https://github.com/rdumasia303/deepseek_ocr_app",
+    "lang": "JavaScript",
+    "desc": "A quick vibe coded app for deepseek OCR"
+  },
+  {
+    "createdAt": "2025-10-23T09:07:31Z",
+    "stars": 585,
+    "name": "vercel/workflow",
+    "url": "https://github.com/vercel/workflow",
+    "lang": "TypeScript",
+    "desc": "Workflow DevKit: Build durable, resilient, and observable workflows"
+  },
+  {
     "createdAt": "2025-10-23T18:09:11Z",
-    "stars": 562,
+    "stars": 565,
     "name": "mocred/spyder-osint",
     "url": "https://github.com/mocred/spyder-osint",
     "lang": "Python",
@@ -49,103 +41,111 @@
   },
   {
     "createdAt": "2025-10-21T17:24:55Z",
-    "stars": 545,
+    "stars": 544,
     "name": "s4myot/crypto-tax-calculator",
     "url": "https://github.com/s4myot/crypto-tax-calculator",
     "lang": "Python",
     "desc": "An advanced cryptocurrency & personal income tax calculator."
   },
   {
-    "createdAt": "2025-10-21T07:12:36Z",
-    "stars": 518,
-    "name": "lightly-ai/lightly-studio",
-    "url": "https://github.com/lightly-ai/lightly-studio",
-    "lang": "Python",
-    "desc": "Curate, Annotate, and Manage Your Data in LightlyStudio."
-  },
-  {
     "createdAt": "2025-10-19T21:33:51Z",
-    "stars": 513,
+    "stars": 544,
     "name": "lackeyjb/playwright-skill",
     "url": "https://github.com/lackeyjb/playwright-skill",
     "lang": "JavaScript",
     "desc": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation."
   },
   {
+    "createdAt": "2025-10-21T07:12:36Z",
+    "stars": 543,
+    "name": "lightly-ai/lightly-studio",
+    "url": "https://github.com/lightly-ai/lightly-studio",
+    "lang": "Python",
+    "desc": "Curate, Annotate, and Manage Your Data in LightlyStudio."
+  },
+  {
     "createdAt": "2025-10-19T10:14:36Z",
-    "stars": 493,
+    "stars": 509,
     "name": "Katakate/k7",
     "url": "https://github.com/Katakate/k7",
     "lang": "Python",
     "desc": "Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐"
   },
   {
-    "createdAt": "2025-10-23T09:07:31Z",
-    "stars": 470,
-    "name": "vercel/workflow",
-    "url": "https://github.com/vercel/workflow",
-    "lang": "TypeScript",
-    "desc": "Workflow DevKit: Build durable, resilient, and observable workflows"
-  },
-  {
-    "createdAt": "2025-10-21T00:26:39Z",
-    "stars": 466,
-    "name": "rdumasia303/deepseek_ocr_app",
-    "url": "https://github.com/rdumasia303/deepseek_ocr_app",
+    "createdAt": "2025-10-23T19:39:04Z",
+    "stars": 492,
+    "name": "pguso/ai-agents-from-scratch",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
     "lang": "JavaScript",
-    "desc": "A quick vibe coded app for deepseek OCR"
-  },
-  {
-    "createdAt": "2025-10-17T07:15:18Z",
-    "stars": 434,
-    "name": "Pokee-AI/PokeeResearchOSS",
-    "url": "https://github.com/Pokee-AI/PokeeResearchOSS",
-    "lang": "Python",
-    "desc": "Pokee Deep Research Model Open Source Repo"
-  },
-  {
-    "createdAt": "2025-10-21T20:25:03Z",
-    "stars": 425,
-    "name": "setls/HacxGPT",
-    "url": "https://github.com/setls/HacxGPT",
-    "lang": "Python",
-    "desc": "HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy."
-  },
-  {
-    "createdAt": "2025-10-17T14:43:19Z",
-    "stars": 415,
-    "name": "tianrun-chen/World-in-Novel-View",
-    "url": "https://github.com/tianrun-chen/World-in-Novel-View",
-    "lang": "Python",
-    "desc": "Scaling Novel View Synthesis for Static and Dynamic Scenes"
+    "desc": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns."
   },
   {
     "createdAt": "2025-10-21T23:30:09Z",
-    "stars": 414,
+    "stars": 448,
     "name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
     "url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-10-21T20:25:03Z",
+    "stars": 435,
+    "name": "setls/HacxGPT",
+    "url": "https://github.com/setls/HacxGPT",
+    "lang": "Python",
+    "desc": "HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy."
+  },
+  {
     "createdAt": "2025-10-19T18:16:33Z",
-    "stars": 383,
+    "stars": 400,
     "name": "aeyakovenko/percolator",
     "url": "https://github.com/aeyakovenko/percolator",
     "lang": "Rust",
     "desc": ""
   },
   {
+    "createdAt": "2025-10-21T04:48:02Z",
+    "stars": 377,
+    "name": "ahpxex/Aictionary",
+    "url": "https://github.com/ahpxex/Aictionary",
+    "lang": "C#",
+    "desc": "一个桌面词典：快速、简洁，并且真的让你学会英语"
+  },
+  {
+    "createdAt": "2025-10-18T03:03:21Z",
+    "stars": 353,
+    "name": "severity1/claude-code-prompt-improver",
+    "url": "https://github.com/severity1/claude-code-prompt-improver",
+    "lang": "Python",
+    "desc": "Intelligent prompt improver hook for Claude Code. Type vibes, ship precision."
+  },
+  {
     "createdAt": "2025-10-19T14:36:40Z",
-    "stars": 325,
+    "stars": 341,
     "name": "EzioBy/Ditto",
     "url": "https://github.com/EzioBy/Ditto",
     "lang": "Python",
     "desc": "[Preprint 2025] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset"
   },
   {
+    "createdAt": "2025-10-19T15:31:00Z",
+    "stars": 331,
+    "name": "justoneapi-support/taobao-api",
+    "url": "https://github.com/justoneapi-support/taobao-api",
+    "lang": "",
+    "desc": "淘宝接口,淘宝API,taobao api,taobao,天猫接口,天猫API,tmall api,tmall"
+  },
+  {
+    "createdAt": "2025-10-21T18:19:17Z",
+    "stars": 330,
+    "name": "boukrat/sora2-watermark-remover",
+    "url": "https://github.com/boukrat/sora2-watermark-remover",
+    "lang": "Python",
+    "desc": "Sora 2 generated videos AI watermark remover"
+  },
+  {
     "createdAt": "2025-10-20T07:23:51Z",
-    "stars": 311,
+    "stars": 324,
     "name": "chadyi/AITradeGame",
     "url": "https://github.com/chadyi/AITradeGame",
     "lang": "Python",
@@ -153,23 +153,23 @@
   },
   {
     "createdAt": "2025-10-18T16:33:32Z",
-    "stars": 304,
+    "stars": 317,
     "name": "schellingb/dosbox-pure-unleashed",
     "url": "https://github.com/schellingb/dosbox-pure-unleashed",
     "lang": "C++",
     "desc": "DOSBox reimagined, with a friendly interface, ZIP loading and save states"
   },
   {
-    "createdAt": "2025-10-23T19:39:04Z",
-    "stars": 296,
-    "name": "pguso/ai-agents-from-scratch",
-    "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "lang": "JavaScript",
-    "desc": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns."
+    "createdAt": "2025-10-20T16:28:30Z",
+    "stars": 315,
+    "name": "sql-hkr/tiny8",
+    "url": "https://github.com/sql-hkr/tiny8",
+    "lang": "Python",
+    "desc": "A tiny CPU simulator written in Python"
   },
   {
     "createdAt": "2025-10-19T22:13:38Z",
-    "stars": 280,
+    "stars": 290,
     "name": "Matars/gitfetch",
     "url": "https://github.com/Matars/gitfetch",
     "lang": "Python",
@@ -177,7 +177,7 @@
   },
   {
     "createdAt": "2025-10-24T12:50:58Z",
-    "stars": 279,
+    "stars": 272,
     "name": "AnshulTulsian749/Ethereal-DEX-TRADING",
     "url": "https://github.com/AnshulTulsian749/Ethereal-DEX-TRADING",
     "lang": "",
@@ -185,7 +185,7 @@
   },
   {
     "createdAt": "2025-10-24T12:07:00Z",
-    "stars": 279,
+    "stars": 272,
     "name": "PerformMAx/Active-UNDELETE-Ultimate",
     "url": "https://github.com/PerformMAx/Active-UNDELETE-Ultimate",
     "lang": "",
@@ -193,7 +193,7 @@
   },
   {
     "createdAt": "2025-10-24T13:13:14Z",
-    "stars": 279,
+    "stars": 272,
     "name": "atul695/Hibachi-Trade",
     "url": "https://github.com/atul695/Hibachi-Trade",
     "lang": "",
@@ -201,7 +201,7 @@
   },
   {
     "createdAt": "2025-10-24T12:12:52Z",
-    "stars": 279,
+    "stars": 272,
     "name": "Ghlbishi/Abelssoft-SyncManager-Pro",
     "url": "https://github.com/Ghlbishi/Abelssoft-SyncManager-Pro",
     "lang": "",
@@ -209,47 +209,47 @@
   },
   {
     "createdAt": "2025-10-24T13:08:16Z",
-    "stars": 279,
+    "stars": 272,
     "name": "ashashty/Gradient-Network",
     "url": "https://github.com/ashashty/Gradient-Network",
     "lang": "",
     "desc": "Gradient-Network Gradient-free-download Gradient-setup-2024 Gradient-install Gradient-crypto Gradient-tools Gradient-Reger Gradient-Farmer Gradient-Miner Gradient-Multireger Gradient-Multifarmer Gradient-Extension-Bot Gradient-Bot Gradient-Multiwallet Gradient-AutoFarm airdrop crypto blockchain"
   },
   {
-    "createdAt": "2025-10-24T12:41:25Z",
-    "stars": 279,
-    "name": "Alexif11/BONK--Arena",
-    "url": "https://github.com/Alexif11/BONK--Arena",
-    "lang": "",
-    "desc": "Download BONK! Arena Trainer Hack 2025 - Unlimited Coins, Free Skins, God Mode & More Cheats"
-  },
-  {
     "createdAt": "2025-10-24T12:38:52Z",
-    "stars": 279,
+    "stars": 272,
     "name": "Stayyker/benefits-of-krnl-for-roblox",
     "url": "https://github.com/Stayyker/benefits-of-krnl-for-roblox",
     "lang": "",
     "desc": "wave-download zorara-download electron-executor benefits-of-electron-executor krnl"
   },
   {
-    "createdAt": "2025-10-24T12:05:17Z",
-    "stars": 279,
-    "name": "Pradana123/Adobe-1llustrator",
-    "url": "https://github.com/Pradana123/Adobe-1llustrator",
+    "createdAt": "2025-10-24T12:41:25Z",
+    "stars": 272,
+    "name": "Alexif11/BONK--Arena",
+    "url": "https://github.com/Alexif11/BONK--Arena",
     "lang": "",
-    "desc": "Download Adobe Illustrator Vector Design Tools - Best Features for Graphic Design, Illustration & Logo Creation in 2025"
+    "desc": "Download BONK! Arena Trainer Hack 2025 - Unlimited Coins, Free Skins, God Mode & More Cheats"
   },
   {
     "createdAt": "2025-10-24T12:37:33Z",
-    "stars": 279,
+    "stars": 272,
     "name": "Akash1067/benefits-of-electron-executor",
     "url": "https://github.com/Akash1067/benefits-of-electron-executor",
     "lang": "",
     "desc": "wave-download zorara-download electron-executor benefits-of-electron-executor"
   },
   {
+    "createdAt": "2025-10-24T12:05:17Z",
+    "stars": 272,
+    "name": "Pradana123/Adobe-1llustrator",
+    "url": "https://github.com/Pradana123/Adobe-1llustrator",
+    "lang": "",
+    "desc": "Download Adobe Illustrator Vector Design Tools - Best Features for Graphic Design, Illustration & Logo Creation in 2025"
+  },
+  {
     "createdAt": "2025-10-24T12:43:14Z",
-    "stars": 279,
+    "stars": 272,
     "name": "aman2425/DAWN-Bot",
     "url": "https://github.com/aman2425/DAWN-Bot",
     "lang": "",
@@ -257,7 +257,7 @@
   },
   {
     "createdAt": "2025-10-24T12:34:57Z",
-    "stars": 279,
+    "stars": 272,
     "name": "akankshaaa17/Axie-Infinity",
     "url": "https://github.com/akankshaaa17/Axie-Infinity",
     "lang": "",
@@ -265,7 +265,7 @@
   },
   {
     "createdAt": "2025-10-24T13:01:07Z",
-    "stars": 279,
+    "stars": 272,
     "name": "termegro-designs/Form-Bnb-bot",
     "url": "https://github.com/termegro-designs/Form-Bnb-bot",
     "lang": "",
@@ -273,7 +273,7 @@
   },
   {
     "createdAt": "2025-10-24T13:14:31Z",
-    "stars": 279,
+    "stars": 272,
     "name": "AayushaBhattarai1/lighter-TRADING",
     "url": "https://github.com/AayushaBhattarai1/lighter-TRADING",
     "lang": "",
@@ -281,7 +281,7 @@
   },
   {
     "createdAt": "2025-10-24T11:40:11Z",
-    "stars": 279,
+    "stars": 272,
     "name": "21f1000135/Aiarty-Image-Matting",
     "url": "https://github.com/21f1000135/Aiarty-Image-Matting",
     "lang": "",
@@ -289,7 +289,7 @@
   },
   {
     "createdAt": "2025-10-24T12:16:32Z",
-    "stars": 279,
+    "stars": 272,
     "name": "afandi2kk/3D-Youtube-Downloader",
     "url": "https://github.com/afandi2kk/3D-Youtube-Downloader",
     "lang": "",
@@ -297,7 +297,7 @@
   },
   {
     "createdAt": "2025-10-24T13:02:54Z",
-    "stars": 279,
+    "stars": 272,
     "name": "ItsMeRik/Form-trading-bot",
     "url": "https://github.com/ItsMeRik/Form-trading-bot",
     "lang": "",
@@ -305,7 +305,7 @@
   },
   {
     "createdAt": "2025-10-24T13:18:21Z",
-    "stars": 279,
+    "stars": 272,
     "name": "azhrzuhro/Pacifica-DEX",
     "url": "https://github.com/azhrzuhro/Pacifica-DEX",
     "lang": "",
@@ -313,7 +313,7 @@
   },
   {
     "createdAt": "2025-10-24T12:48:01Z",
-    "stars": 279,
+    "stars": 272,
     "name": "Aniketsharma2002/DAWN-CRYPTO",
     "url": "https://github.com/Aniketsharma2002/DAWN-CRYPTO",
     "lang": "",
@@ -321,7 +321,7 @@
   },
   {
     "createdAt": "2025-10-24T12:30:59Z",
-    "stars": 279,
+    "stars": 272,
     "name": "jefouz/Avantisfi-DEX-TRADING",
     "url": "https://github.com/jefouz/Avantisfi-DEX-TRADING",
     "lang": "",
@@ -329,47 +329,47 @@
   },
   {
     "createdAt": "2025-10-24T12:23:31Z",
-    "stars": 279,
+    "stars": 272,
     "name": "777704/Alaska-Gold-Rush",
     "url": "https://github.com/777704/Alaska-Gold-Rush",
     "lang": "",
     "desc": "Download Alaska Gold Rush Hack 2025 - Unlimited Gold, Auto Mining & No Ban Trainer"
   },
   {
-    "createdAt": "2025-10-24T12:21:10Z",
-    "stars": 279,
-    "name": "AhmetHadziaganovic/TradingView-Crack",
-    "url": "https://github.com/AhmetHadziaganovic/TradingView-Crack",
-    "lang": "",
-    "desc": "trading-view tradingview tradingview-download-on-pc tradingview-app tradingview-premium tradingview-premium-free tradingview-free-premium tradingview-Crack tradingview Crack download download crack tradingview download premium tradingview trading view free tradingview "
-  },
-  {
     "createdAt": "2025-10-24T13:04:47Z",
-    "stars": 279,
+    "stars": 272,
     "name": "9472arnav/getgrass-bot",
     "url": "https://github.com/9472arnav/getgrass-bot",
     "lang": "",
     "desc": " - bot  - proxy  - farming  - grass  - automated  - airdrop  - solana  - getgrass-io  - getgrass  - getgrassnode  - getgrassmining  - getgrass-bot-miner  - getgrass-bot  - getgrass-auto-miner  - getgrass-io-bot  - grass-bot-github  - getgrass-bot-github  - getgrass-proxy  - getgrass-js"
   },
   {
-    "createdAt": "2025-10-24T11:59:02Z",
-    "stars": 279,
-    "name": "Abdullah-pixel-gift/AdobePhotoshop",
-    "url": "https://github.com/Abdullah-pixel-gift/AdobePhotoshop",
+    "createdAt": "2025-10-24T12:21:10Z",
+    "stars": 272,
+    "name": "AhmetHadziaganovic/TradingView-Crack",
+    "url": "https://github.com/AhmetHadziaganovic/TradingView-Crack",
     "lang": "",
-    "desc": "Download Adobe Photoshop 2025 - Advanced Photo Editing, AI-Powered Tools, and Creative Design Features for Professionals"
+    "desc": "trading-view tradingview tradingview-download-on-pc tradingview-app tradingview-premium tradingview-premium-free tradingview-free-premium tradingview-Crack tradingview Crack download download crack tradingview download premium tradingview trading view free tradingview "
   },
   {
     "createdAt": "2025-10-24T12:18:16Z",
-    "stars": 279,
+    "stars": 272,
     "name": "ahmadlal4445/AbletonLive",
     "url": "https://github.com/ahmadlal4445/AbletonLive",
     "lang": "",
     "desc": "Download Ultimate Guide to Ableton Live 2025: DAW Features, Music Production Tools, MIDI Editing, Audio Effects, and Live Performance"
   },
   {
+    "createdAt": "2025-10-24T11:59:02Z",
+    "stars": 272,
+    "name": "Abdullah-pixel-gift/AdobePhotoshop",
+    "url": "https://github.com/Abdullah-pixel-gift/AdobePhotoshop",
+    "lang": "",
+    "desc": "Download Adobe Photoshop 2025 - Advanced Photo Editing, AI-Powered Tools, and Creative Design Features for Professionals"
+  },
+  {
     "createdAt": "2025-10-24T13:15:37Z",
-    "stars": 279,
+    "stars": 272,
     "name": "azaan303/Monad-Bot",
     "url": "https://github.com/azaan303/Monad-Bot",
     "lang": "",
@@ -377,26 +377,26 @@
   },
   {
     "createdAt": "2025-10-24T12:25:24Z",
-    "stars": 279,
+    "stars": 272,
     "name": "Ainsren/Aster-Protocol---Overview",
     "url": "https://github.com/Ainsren/Aster-Protocol---Overview",
     "lang": "",
     "desc": "Aster - Next-Generation Blockchain Orchestration Platform"
   },
   {
-    "createdAt": "2025-10-24T11:42:32Z",
-    "stars": 279,
-    "name": "ioppll0/Agisoft-PhotoScan-Professional",
-    "url": "https://github.com/ioppll0/Agisoft-PhotoScan-Professional",
-    "lang": "",
-    "desc": "Download Agisoft PhotoScan Professional - Advanced Photogrammetry Software for 3D Modeling, Orthophoto Generation, and Point Cloud Processing in 2025"
-  },
-  {
     "createdAt": "2025-10-24T12:15:00Z",
-    "stars": 279,
+    "stars": 272,
     "name": "afad34838/7-Zip",
     "url": "https://github.com/afad34838/7-Zip",
     "lang": "",
     "desc": "Download 7-Zip - High-Speed File Archiver with AES-256 Encryption, LZMA2 Compression, and Multi-Format Support in 2025"
+  },
+  {
+    "createdAt": "2025-10-24T11:42:32Z",
+    "stars": 272,
+    "name": "ioppll0/Agisoft-PhotoScan-Professional",
+    "url": "https://github.com/ioppll0/Agisoft-PhotoScan-Professional",
+    "lang": "",
+    "desc": "Download Agisoft PhotoScan Professional - Advanced Photogrammetry Software for 3D Modeling, Orthophoto Generation, and Point Cloud Processing in 2025"
   }
 ]
