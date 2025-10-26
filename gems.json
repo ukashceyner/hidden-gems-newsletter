@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-10-20T15:09:57Z",
-    "stars": 1707,
+    "stars": 1798,
     "name": "deta/surf",
     "url": "https://github.com/deta/surf",
     "lang": "TypeScript",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-10-20T02:52:10Z",
-    "stars": 1068,
+    "stars": 1116,
     "name": "anthropic-experimental/sandbox-runtime",
     "url": "https://github.com/anthropic-experimental/sandbox-runtime",
     "lang": "TypeScript",
@@ -17,27 +17,67 @@
   },
   {
     "createdAt": "2025-10-21T00:26:39Z",
-    "stars": 759,
+    "stars": 955,
     "name": "rdumasia303/deepseek_ocr_app",
     "url": "https://github.com/rdumasia303/deepseek_ocr_app",
     "lang": "JavaScript",
     "desc": "A quick vibe coded app for deepseek OCR"
   },
   {
+    "createdAt": "2025-10-21T21:15:35Z",
+    "stars": 771,
+    "name": "apple/pico-banana-400k",
+    "url": "https://github.com/apple/pico-banana-400k",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-10-23T09:07:31Z",
-    "stars": 585,
+    "stars": 666,
     "name": "vercel/workflow",
     "url": "https://github.com/vercel/workflow",
     "lang": "TypeScript",
     "desc": "Workflow DevKit: Build durable, resilient, and observable workflows"
   },
   {
+    "createdAt": "2025-10-23T19:39:04Z",
+    "stars": 645,
+    "name": "pguso/ai-agents-from-scratch",
+    "url": "https://github.com/pguso/ai-agents-from-scratch",
+    "lang": "JavaScript",
+    "desc": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns."
+  },
+  {
+    "createdAt": "2025-10-21T23:30:09Z",
+    "stars": 600,
+    "name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-19T21:33:51Z",
+    "stars": 572,
+    "name": "lackeyjb/playwright-skill",
+    "url": "https://github.com/lackeyjb/playwright-skill",
+    "lang": "JavaScript",
+    "desc": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation."
+  },
+  {
     "createdAt": "2025-10-23T18:09:11Z",
-    "stars": 565,
+    "stars": 566,
     "name": "mocred/spyder-osint",
     "url": "https://github.com/mocred/spyder-osint",
     "lang": "Python",
     "desc": "An universal OSINT tool."
+  },
+  {
+    "createdAt": "2025-10-21T07:12:36Z",
+    "stars": 548,
+    "name": "lightly-ai/lightly-studio",
+    "url": "https://github.com/lightly-ai/lightly-studio",
+    "lang": "Python",
+    "desc": "Curate, Annotate, and Manage Your Data in LightlyStudio."
   },
   {
     "createdAt": "2025-10-21T17:24:55Z",
@@ -48,80 +88,64 @@
     "desc": "An advanced cryptocurrency & personal income tax calculator."
   },
   {
-    "createdAt": "2025-10-19T21:33:51Z",
-    "stars": 544,
-    "name": "lackeyjb/playwright-skill",
-    "url": "https://github.com/lackeyjb/playwright-skill",
-    "lang": "JavaScript",
-    "desc": "Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation."
-  },
-  {
-    "createdAt": "2025-10-21T07:12:36Z",
-    "stars": 543,
-    "name": "lightly-ai/lightly-studio",
-    "url": "https://github.com/lightly-ai/lightly-studio",
-    "lang": "Python",
-    "desc": "Curate, Annotate, and Manage Your Data in LightlyStudio."
-  },
-  {
     "createdAt": "2025-10-19T10:14:36Z",
-    "stars": 509,
+    "stars": 527,
     "name": "Katakate/k7",
     "url": "https://github.com/Katakate/k7",
     "lang": "Python",
     "desc": "Your own self-hosted infra for lightweight VM sandboxes to safely execute untrusted code. CLI, API, Python SDK. ⭐ Star it if you like it! ⭐"
   },
   {
-    "createdAt": "2025-10-23T19:39:04Z",
-    "stars": 492,
-    "name": "pguso/ai-agents-from-scratch",
-    "url": "https://github.com/pguso/ai-agents-from-scratch",
-    "lang": "JavaScript",
-    "desc": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns."
+    "createdAt": "2025-10-19T16:12:49Z",
+    "stars": 481,
+    "name": "CaviraOSS/OpenMemory",
+    "url": "https://github.com/CaviraOSS/OpenMemory",
+    "lang": "TypeScript",
+    "desc": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free."
   },
   {
-    "createdAt": "2025-10-21T23:30:09Z",
-    "stars": 448,
-    "name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
-    "url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
-    "lang": "Python",
-    "desc": ""
+    "createdAt": "2025-10-25T13:42:10Z",
+    "stars": 475,
+    "name": "TimmyOVO/deepseek-ocr.rs",
+    "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
+    "lang": "Rust",
+    "desc": "Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run."
   },
   {
     "createdAt": "2025-10-21T20:25:03Z",
-    "stars": 435,
+    "stars": 437,
     "name": "setls/HacxGPT",
     "url": "https://github.com/setls/HacxGPT",
     "lang": "Python",
     "desc": "HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy."
   },
   {
-    "createdAt": "2025-10-19T18:16:33Z",
-    "stars": 400,
-    "name": "aeyakovenko/percolator",
-    "url": "https://github.com/aeyakovenko/percolator",
-    "lang": "Rust",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-10-21T04:48:02Z",
-    "stars": 377,
+    "stars": 416,
     "name": "ahpxex/Aictionary",
     "url": "https://github.com/ahpxex/Aictionary",
     "lang": "C#",
     "desc": "一个桌面词典：快速、简洁，并且真的让你学会英语"
   },
   {
-    "createdAt": "2025-10-18T03:03:21Z",
-    "stars": 353,
-    "name": "severity1/claude-code-prompt-improver",
-    "url": "https://github.com/severity1/claude-code-prompt-improver",
+    "createdAt": "2025-10-19T18:16:33Z",
+    "stars": 407,
+    "name": "aeyakovenko/percolator",
+    "url": "https://github.com/aeyakovenko/percolator",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-23T12:45:00Z",
+    "stars": 406,
+    "name": "HKUDS/AI-Trader",
+    "url": "https://github.com/HKUDS/AI-Trader",
     "lang": "Python",
-    "desc": "Intelligent prompt improver hook for Claude Code. Type vibes, ship precision."
+    "desc": "\"AI-Trader: Can AI Beat the Market?\""
   },
   {
     "createdAt": "2025-10-19T14:36:40Z",
-    "stars": 341,
+    "stars": 370,
     "name": "EzioBy/Ditto",
     "url": "https://github.com/EzioBy/Ditto",
     "lang": "Python",
@@ -129,51 +153,59 @@
   },
   {
     "createdAt": "2025-10-19T15:31:00Z",
-    "stars": 331,
+    "stars": 369,
     "name": "justoneapi-support/taobao-api",
     "url": "https://github.com/justoneapi-support/taobao-api",
     "lang": "",
     "desc": "淘宝接口,淘宝API,taobao api,taobao,天猫接口,天猫API,tmall api,tmall"
   },
   {
-    "createdAt": "2025-10-21T18:19:17Z",
-    "stars": 330,
-    "name": "boukrat/sora2-watermark-remover",
-    "url": "https://github.com/boukrat/sora2-watermark-remover",
-    "lang": "Python",
-    "desc": "Sora 2 generated videos AI watermark remover"
-  },
-  {
-    "createdAt": "2025-10-20T07:23:51Z",
-    "stars": 324,
-    "name": "chadyi/AITradeGame",
-    "url": "https://github.com/chadyi/AITradeGame",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-18T16:33:32Z",
-    "stars": 317,
-    "name": "schellingb/dosbox-pure-unleashed",
-    "url": "https://github.com/schellingb/dosbox-pure-unleashed",
-    "lang": "C++",
-    "desc": "DOSBox reimagined, with a friendly interface, ZIP loading and save states"
-  },
-  {
     "createdAt": "2025-10-20T16:28:30Z",
-    "stars": 315,
+    "stars": 363,
     "name": "sql-hkr/tiny8",
     "url": "https://github.com/sql-hkr/tiny8",
     "lang": "Python",
     "desc": "A tiny CPU simulator written in Python"
   },
   {
+    "createdAt": "2025-10-20T07:23:51Z",
+    "stars": 348,
+    "name": "chadyi/AITradeGame",
+    "url": "https://github.com/chadyi/AITradeGame",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-21T18:19:17Z",
+    "stars": 346,
+    "name": "boukrat/sora2-watermark-remover",
+    "url": "https://github.com/boukrat/sora2-watermark-remover",
+    "lang": "Python",
+    "desc": "Sora 2 generated videos AI watermark remover"
+  },
+  {
+    "createdAt": "2025-10-20T00:35:57Z",
+    "stars": 302,
+    "name": "Gajesh2007/ai-trading-agent",
+    "url": "https://github.com/Gajesh2007/ai-trading-agent",
+    "lang": "Python",
+    "desc": "AI Trading Agent on Hyperliquid"
+  },
+  {
     "createdAt": "2025-10-19T22:13:38Z",
-    "stars": 290,
+    "stars": 295,
     "name": "Matars/gitfetch",
     "url": "https://github.com/Matars/gitfetch",
     "lang": "Python",
     "desc": "A neofetch alternative for GitHub quick view"
+  },
+  {
+    "createdAt": "2025-10-20T23:26:57Z",
+    "stars": 280,
+    "name": "AmadeusGB/alpha-arena",
+    "url": "https://github.com/AmadeusGB/alpha-arena",
+    "lang": "Python",
+    "desc": "一个让 AI 模型在真实市场中进行实盘交易与对抗的实验平台。目标是通过不断迭代，让智能体真正学会在不确定市场中生存和盈利。"
   },
   {
     "createdAt": "2025-10-24T12:50:58Z",
@@ -312,20 +344,20 @@
     "desc": "Trade automatically on pacificaDEX and profit from trades and future airdrop"
   },
   {
+    "createdAt": "2025-10-20T07:05:47Z",
+    "stars": 272,
+    "name": "huojichuanqi/ds",
+    "url": "https://github.com/huojichuanqi/ds",
+    "lang": "Python",
+    "desc": "用deepseek做交易（搞着玩，注意风险）"
+  },
+  {
     "createdAt": "2025-10-24T12:48:01Z",
     "stars": 272,
     "name": "Aniketsharma2002/DAWN-CRYPTO",
     "url": "https://github.com/Aniketsharma2002/DAWN-CRYPTO",
     "lang": "",
     "desc": "DAWN DAWN-workflow DAWN-decentralized DAWN-Testnet DAWN-free-download DAWN-setup-2025 DAWN-install DAWN-platform DAWN-tools DAWN-crypto DAWN-for-developers DAWN-blockchain DAWN-automation DAWN-decentralized-workflows DAWN-crypto-workflow"
-  },
-  {
-    "createdAt": "2025-10-24T12:30:59Z",
-    "stars": 272,
-    "name": "jefouz/Avantisfi-DEX-TRADING",
-    "url": "https://github.com/jefouz/Avantisfi-DEX-TRADING",
-    "lang": "",
-    "desc": "AvantisFi Quantum Trader 2025 - AI-Powered DeFi Yield Optimizer"
   },
   {
     "createdAt": "2025-10-24T12:23:31Z",
@@ -366,37 +398,5 @@
     "url": "https://github.com/Abdullah-pixel-gift/AdobePhotoshop",
     "lang": "",
     "desc": "Download Adobe Photoshop 2025 - Advanced Photo Editing, AI-Powered Tools, and Creative Design Features for Professionals"
-  },
-  {
-    "createdAt": "2025-10-24T13:15:37Z",
-    "stars": 272,
-    "name": "azaan303/Monad-Bot",
-    "url": "https://github.com/azaan303/Monad-Bot",
-    "lang": "",
-    "desc": "- nodejs  - node  - monad  - monad-bot  - monadscore  - monadscore-bot  - monadscore-auto-bot - monad-testnet  - monad-automation  - monad-token-earnings  - monad-script  - monadscore-autofarm  - monadscore-reger  - monadscore-farmer"
-  },
-  {
-    "createdAt": "2025-10-24T12:25:24Z",
-    "stars": 272,
-    "name": "Ainsren/Aster-Protocol---Overview",
-    "url": "https://github.com/Ainsren/Aster-Protocol---Overview",
-    "lang": "",
-    "desc": "Aster - Next-Generation Blockchain Orchestration Platform"
-  },
-  {
-    "createdAt": "2025-10-24T12:15:00Z",
-    "stars": 272,
-    "name": "afad34838/7-Zip",
-    "url": "https://github.com/afad34838/7-Zip",
-    "lang": "",
-    "desc": "Download 7-Zip - High-Speed File Archiver with AES-256 Encryption, LZMA2 Compression, and Multi-Format Support in 2025"
-  },
-  {
-    "createdAt": "2025-10-24T11:42:32Z",
-    "stars": 272,
-    "name": "ioppll0/Agisoft-PhotoScan-Professional",
-    "url": "https://github.com/ioppll0/Agisoft-PhotoScan-Professional",
-    "lang": "",
-    "desc": "Download Agisoft PhotoScan Professional - Advanced Photogrammetry Software for 3D Modeling, Orthophoto Generation, and Point Cloud Processing in 2025"
   }
 ]
