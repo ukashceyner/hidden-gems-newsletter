@@ -1,107 +1,91 @@
 [
   {
-    "createdAt": "2025-10-22T18:17:32Z",
-    "stars": 2979,
-    "name": "johannschopplich/toon",
-    "url": "https://github.com/johannschopplich/toon",
-    "lang": "TypeScript",
-    "desc": "🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost"
-  },
-  {
     "createdAt": "2025-10-23T12:45:00Z",
-    "stars": 2233,
+    "stars": 4645,
     "name": "HKUDS/AI-Trader",
     "url": "https://github.com/HKUDS/AI-Trader",
     "lang": "Python",
     "desc": "\"AI-Trader: Can AI Beat the Market?\" Live Trading: https://hkuds.github.io/AI-Trader/"
   },
   {
-    "createdAt": "2025-10-25T13:42:10Z",
-    "stars": 1259,
-    "name": "TimmyOVO/deepseek-ocr.rs",
-    "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
-    "lang": "Rust",
-    "desc": "Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run."
+    "createdAt": "2025-10-22T18:17:32Z",
+    "stars": 4221,
+    "name": "johannschopplich/toon",
+    "url": "https://github.com/johannschopplich/toon",
+    "lang": "TypeScript",
+    "desc": "🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost"
   },
   {
     "createdAt": "2025-10-22T16:30:45Z",
-    "stars": 1252,
+    "stars": 2076,
     "name": "wquguru/nof0",
     "url": "https://github.com/wquguru/nof0",
     "lang": "TypeScript",
     "desc": "nof1.ai完整复刻版（持续开发）"
   },
   {
-    "createdAt": "2025-10-21T21:15:35Z",
-    "stars": 1163,
-    "name": "apple/pico-banana-400k",
-    "url": "https://github.com/apple/pico-banana-400k",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-21T00:26:39Z",
-    "stars": 1145,
-    "name": "rdumasia303/deepseek_ocr_app",
-    "url": "https://github.com/rdumasia303/deepseek_ocr_app",
-    "lang": "JavaScript",
-    "desc": "A quick vibe coded app for deepseek OCR"
+    "createdAt": "2025-10-25T13:42:10Z",
+    "stars": 1399,
+    "name": "TimmyOVO/deepseek-ocr.rs",
+    "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
+    "lang": "Rust",
+    "desc": "Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run."
   },
   {
     "createdAt": "2025-10-23T19:39:04Z",
-    "stars": 1081,
+    "stars": 1200,
     "name": "pguso/ai-agents-from-scratch",
     "url": "https://github.com/pguso/ai-agents-from-scratch",
     "lang": "JavaScript",
     "desc": "Demystify AI agents by building them yourself. Local LLMs, no black boxes, real understanding of function calling, memory, and ReAct patterns."
   },
   {
-    "createdAt": "2025-10-21T23:30:09Z",
-    "stars": 886,
-    "name": "Bogdanovich77/DeekSeek-OCR---Dockerized-API",
-    "url": "https://github.com/Bogdanovich77/DeekSeek-OCR---Dockerized-API",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-10-23T09:07:31Z",
-    "stars": 860,
+    "stars": 905,
     "name": "vercel/workflow",
     "url": "https://github.com/vercel/workflow",
     "lang": "TypeScript",
     "desc": "Workflow DevKit: Build durable, resilient, and observable workflows"
   },
   {
-    "createdAt": "2025-10-25T06:49:49Z",
-    "stars": 681,
-    "name": "meituan-longcat/LongCat-Video",
-    "url": "https://github.com/meituan-longcat/LongCat-Video",
-    "lang": "Python",
-    "desc": ""
+    "createdAt": "2025-10-28T07:17:53Z",
+    "stars": 848,
+    "name": "tinkle-community/nofx",
+    "url": "https://github.com/tinkle-community/nofx",
+    "lang": "Go",
+    "desc": "Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard"
   },
   {
     "createdAt": "2025-10-25T21:28:29Z",
-    "stars": 644,
+    "stars": 822,
     "name": "MiniMax-AI/MiniMax-M2",
     "url": "https://github.com/MiniMax-AI/MiniMax-M2",
     "lang": "",
     "desc": "MiniMax-M2, a Mini model built for Max coding & agentic workflows."
   },
   {
-    "createdAt": "2025-10-21T07:12:36Z",
-    "stars": 562,
-    "name": "lightly-ai/lightly-studio",
-    "url": "https://github.com/lightly-ai/lightly-studio",
+    "createdAt": "2025-10-25T06:49:49Z",
+    "stars": 771,
+    "name": "meituan-longcat/LongCat-Video",
+    "url": "https://github.com/meituan-longcat/LongCat-Video",
     "lang": "Python",
-    "desc": "Curate, Annotate, and Manage Your Data in LightlyStudio."
+    "desc": ""
   },
   {
     "createdAt": "2025-10-26T12:49:48Z",
-    "stars": 553,
+    "stars": 598,
     "name": "rolflobker/recall-for-linux",
     "url": "https://github.com/rolflobker/recall-for-linux",
     "lang": "Shell",
     "desc": "Bring Microsoft Recall to Linux!"
+  },
+  {
+    "createdAt": "2025-10-28T01:40:36Z",
+    "stars": 578,
+    "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
+    "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
+    "lang": "C#",
+    "desc": ""
   },
   {
     "createdAt": "2025-10-23T18:09:11Z",
@@ -112,20 +96,20 @@
     "desc": "An universal OSINT tool."
   },
   {
-    "createdAt": "2025-10-21T17:24:55Z",
-    "stars": 529,
-    "name": "s4myot/crypto-tax-calculator",
-    "url": "https://github.com/s4myot/crypto-tax-calculator",
-    "lang": "Python",
-    "desc": "An advanced cryptocurrency & personal income tax calculator."
+    "createdAt": "2025-10-24T10:05:19Z",
+    "stars": 509,
+    "name": "terryso/nof1-tracker",
+    "url": "https://github.com/terryso/nof1-tracker",
+    "lang": "TypeScript",
+    "desc": "A command-line tool for tracking nof1.ai AI Agent trading signals and automatically executing Binance futures trades"
   },
   {
-    "createdAt": "2025-10-21T04:48:02Z",
-    "stars": 449,
-    "name": "ahpxex/Aictionary",
-    "url": "https://github.com/ahpxex/Aictionary",
-    "lang": "C#",
-    "desc": "一个桌面词典：快速、简洁，并且真的让你学会英语"
+    "createdAt": "2025-10-25T07:48:57Z",
+    "stars": 464,
+    "name": "AnasMalas/pcb-edge-usb-c",
+    "url": "https://github.com/AnasMalas/pcb-edge-usb-c",
+    "lang": "",
+    "desc": "Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions"
   },
   {
     "createdAt": "2025-10-26T17:40:39Z",
@@ -136,72 +120,48 @@
     "desc": "Bitcoin utilities and protocol library for interacting with the network"
   },
   {
-    "createdAt": "2025-10-25T07:48:57Z",
-    "stars": 429,
-    "name": "AnasMalas/pcb-edge-usb-c",
-    "url": "https://github.com/AnasMalas/pcb-edge-usb-c",
-    "lang": "",
-    "desc": "Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions"
-  },
-  {
-    "createdAt": "2025-10-21T20:25:03Z",
-    "stars": 426,
-    "name": "setls/HacxGPT",
-    "url": "https://github.com/setls/HacxGPT",
-    "lang": "Python",
-    "desc": "HacxGPT — a highly experimental language model derived from WormGPT’s core architecture. Created to investigate the nature of unrestricted reasoning, synthetic cognition, and the ethics of machine autonomy."
-  },
-  {
     "createdAt": "2025-10-26T20:21:55Z",
-    "stars": 387,
+    "stars": 430,
     "name": "HannesStark/boltzgen",
     "url": "https://github.com/HannesStark/boltzgen",
     "lang": "Jupyter Notebook",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-24T10:05:19Z",
-    "stars": 380,
-    "name": "terryso/nof1-tracker",
-    "url": "https://github.com/terryso/nof1-tracker",
-    "lang": "TypeScript",
-    "desc": "A command-line tool for tracking nof1.ai AI Agent trading signals and automatically executing Binance futures trades"
-  },
-  {
-    "createdAt": "2025-10-27T16:41:59Z",
-    "stars": 351,
-    "name": "silver10t/sora2-watermark-remover",
-    "url": "https://github.com/silver10t/sora2-watermark-remover",
-    "lang": "Python",
-    "desc": "Sora 2 generated videos gentle watermark remover"
-  },
-  {
     "createdAt": "2025-10-22T03:04:27Z",
-    "stars": 318,
+    "stars": 358,
     "name": "zmrlft/GreenWall",
     "url": "https://github.com/zmrlft/GreenWall",
     "lang": "TypeScript",
     "desc": "在你的GitHub贡献历史上画画！customizing the GitHub contribution graph, allowing you to draw various patterns on it."
   },
   {
-    "createdAt": "2025-10-28T01:40:36Z",
-    "stars": 304,
-    "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
-    "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
-    "lang": "C#",
-    "desc": ""
+    "createdAt": "2025-10-27T14:51:26Z",
+    "stars": 326,
+    "name": "kirodaki/eth-python-utils",
+    "url": "https://github.com/kirodaki/eth-python-utils",
+    "lang": "Python",
+    "desc": "Ethereum utilities and protocol library for interacting with the network"
   },
   {
     "createdAt": "2025-10-22T11:49:32Z",
-    "stars": 302,
+    "stars": 325,
     "name": "yihao-meng/HoloCine",
     "url": "https://github.com/yihao-meng/HoloCine",
     "lang": "Python",
     "desc": "Official Implementations for Paper - HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives"
   },
   {
+    "createdAt": "2025-10-22T13:43:42Z",
+    "stars": 296,
+    "name": "nexmoe/VidBee",
+    "url": "https://github.com/nexmoe/VidBee",
+    "lang": "TypeScript",
+    "desc": "Download videos from almost any website worldwide"
+  },
+  {
     "createdAt": "2025-10-24T15:28:18Z",
-    "stars": 291,
+    "stars": 290,
     "name": "PYrOogrEvENUs/BSC-MEME-RUSH-BOT",
     "url": "https://github.com/PYrOogrEvENUs/BSC-MEME-RUSH-BOT",
     "lang": "Python",
@@ -209,15 +169,23 @@
   },
   {
     "createdAt": "2025-10-25T10:13:32Z",
-    "stars": 274,
+    "stars": 287,
     "name": "anshlambagit/Data_Engineer_Roadmap",
     "url": "https://github.com/anshlambagit/Data_Engineer_Roadmap",
     "lang": "",
     "desc": ""
   },
   {
+    "createdAt": "2025-10-22T06:35:16Z",
+    "stars": 269,
+    "name": "LargeCupPanda/AITradingSimulator",
+    "url": "https://github.com/LargeCupPanda/AITradingSimulator",
+    "lang": "Python",
+    "desc": "基于大语言模型模拟的智能交易决策系统，支持自定义交易策略、实时市场数据、专业级绩效分析和实时交易大屏。"
+  },
+  {
     "createdAt": "2025-10-24T13:18:21Z",
-    "stars": 273,
+    "stars": 263,
     "name": "azhrzuhro/Pacifica-DEX",
     "url": "https://github.com/azhrzuhro/Pacifica-DEX",
     "lang": "",
@@ -225,7 +193,7 @@
   },
   {
     "createdAt": "2025-10-24T12:50:58Z",
-    "stars": 272,
+    "stars": 262,
     "name": "AnshulTulsian749/Ethereal-DEX-TRADING",
     "url": "https://github.com/AnshulTulsian749/Ethereal-DEX-TRADING",
     "lang": "",
@@ -233,7 +201,7 @@
   },
   {
     "createdAt": "2025-10-24T12:07:00Z",
-    "stars": 272,
+    "stars": 262,
     "name": "PerformMAx/Active-UNDELETE-Ultimate",
     "url": "https://github.com/PerformMAx/Active-UNDELETE-Ultimate",
     "lang": "",
@@ -241,7 +209,7 @@
   },
   {
     "createdAt": "2025-10-24T13:13:14Z",
-    "stars": 272,
+    "stars": 262,
     "name": "atul695/Hibachi-Trade",
     "url": "https://github.com/atul695/Hibachi-Trade",
     "lang": "",
@@ -249,7 +217,7 @@
   },
   {
     "createdAt": "2025-10-24T13:08:16Z",
-    "stars": 272,
+    "stars": 262,
     "name": "ashashty/Gradient-Network",
     "url": "https://github.com/ashashty/Gradient-Network",
     "lang": "",
@@ -257,7 +225,7 @@
   },
   {
     "createdAt": "2025-10-24T12:43:14Z",
-    "stars": 272,
+    "stars": 262,
     "name": "aman2425/DAWN-Bot",
     "url": "https://github.com/aman2425/DAWN-Bot",
     "lang": "",
@@ -265,7 +233,7 @@
   },
   {
     "createdAt": "2025-10-24T13:01:07Z",
-    "stars": 272,
+    "stars": 262,
     "name": "termegro-designs/Form-Bnb-bot",
     "url": "https://github.com/termegro-designs/Form-Bnb-bot",
     "lang": "",
@@ -273,7 +241,7 @@
   },
   {
     "createdAt": "2025-10-24T13:14:31Z",
-    "stars": 272,
+    "stars": 262,
     "name": "AayushaBhattarai1/lighter-TRADING",
     "url": "https://github.com/AayushaBhattarai1/lighter-TRADING",
     "lang": "",
@@ -281,15 +249,23 @@
   },
   {
     "createdAt": "2025-10-24T13:02:54Z",
-    "stars": 272,
+    "stars": 262,
     "name": "ItsMeRik/Form-trading-bot",
     "url": "https://github.com/ItsMeRik/Form-trading-bot",
     "lang": "",
     "desc": "Form Trading Bot is an advanced algorithmic trading system designed to automate and optimize your trading strategies across multiple financial markets. Leveraging cutting-edge AI and quantitative analysis, it executes trades with precision and speed unmatched by manual trading."
   },
   {
+    "createdAt": "2025-10-24T19:23:52Z",
+    "stars": 262,
+    "name": "sam1am/anyapk",
+    "url": "https://github.com/sam1am/anyapk",
+    "lang": "Kotlin",
+    "desc": "Install any apk on the device you own. "
+  },
+  {
     "createdAt": "2025-10-24T12:48:01Z",
-    "stars": 272,
+    "stars": 262,
     "name": "Aniketsharma2002/DAWN-CRYPTO",
     "url": "https://github.com/Aniketsharma2002/DAWN-CRYPTO",
     "lang": "",
@@ -297,106 +273,130 @@
   },
   {
     "createdAt": "2025-10-24T12:23:31Z",
-    "stars": 272,
+    "stars": 262,
     "name": "777704/Alaska-Gold-Rush",
     "url": "https://github.com/777704/Alaska-Gold-Rush",
     "lang": "",
     "desc": "Download Alaska Gold Rush Hack 2025 - Unlimited Gold, Auto Mining & No Ban Trainer"
   },
   {
-    "createdAt": "2025-10-22T06:35:16Z",
-    "stars": 251,
-    "name": "LargeCupPanda/AITradingSimulator",
-    "url": "https://github.com/LargeCupPanda/AITradingSimulator",
-    "lang": "Python",
-    "desc": "基于大语言模型模拟的智能交易决策系统，支持自定义交易策略、实时市场数据、专业级绩效分析和实时交易大屏。"
-  },
-  {
-    "createdAt": "2025-10-21T18:48:03Z",
-    "stars": 243,
-    "name": "coollabsio/minio",
-    "url": "https://github.com/coollabsio/minio",
-    "lang": "Dockerfile",
-    "desc": "Automated MinIO docker images"
-  },
-  {
-    "createdAt": "2025-10-24T19:23:52Z",
-    "stars": 235,
-    "name": "sam1am/anyapk",
-    "url": "https://github.com/sam1am/anyapk",
-    "lang": "Kotlin",
-    "desc": "Install any apk on the device you own. "
-  },
-  {
-    "createdAt": "2025-10-21T22:02:11Z",
-    "stars": 225,
-    "name": "nik-rev/awesome-tiny-crates",
-    "url": "https://github.com/nik-rev/awesome-tiny-crates",
-    "lang": "",
-    "desc": "A bunch of small crates that make writing Rust more fun"
-  },
-  {
     "createdAt": "2025-10-27T14:16:01Z",
-    "stars": 224,
+    "stars": 253,
     "name": "juchain-network/chain",
     "url": "https://github.com/juchain-network/chain",
     "lang": "Go",
     "desc": "JuChain: Ethereum-compatible blockchain with JPoSA consensus (DPoS+PoA). Fast, low-cost, EVM compatible. "
   },
   {
-    "createdAt": "2025-10-21T18:15:39Z",
-    "stars": 218,
-    "name": "context-machine-lab/sleepless-agent",
-    "url": "https://github.com/context-machine-lab/sleepless-agent",
-    "lang": "Python",
-    "desc": "🤖 24/7 AI agent that maximizes Claude Code Pro usage via Slack. Auto-processes tasks, manages isolated workspaces, creates Git commits/PRs, and optimizes day/night usage thresholds."
-  },
-  {
-    "createdAt": "2025-10-22T00:51:00Z",
-    "stars": 217,
-    "name": "ihatecsv/deepseek-ocr-client",
-    "url": "https://github.com/ihatecsv/deepseek-ocr-client",
-    "lang": "JavaScript",
-    "desc": "A real-time Electron-based desktop GUI for DeepSeek-OCR"
-  },
-  {
-    "createdAt": "2025-10-22T13:34:39Z",
-    "stars": 214,
-    "name": "Rouwang01/Hawkish-Eyes-NoDualHook",
-    "url": "https://github.com/Rouwang01/Hawkish-Eyes-NoDualHook",
-    "lang": "Python",
-    "desc": "Ethical Hacking Tool | Powerfull Tokens Grabber / Stealer Discord, Steal: Browsers Passwords & Cookies, Window Info, Files Sniper, Wallet, Minecraft Account, Bypass Firewall & Antivirus, Discord Injection JS, Chromium Injection JS (Brave, Chrome, OperaGX, Opera, Vivaldi, Edge, yandex)."
-  },
-  {
-    "createdAt": "2025-10-23T04:43:54Z",
-    "stars": 211,
-    "name": "mrgoonie/claudekit-skills",
-    "url": "https://github.com/mrgoonie/claudekit-skills",
-    "lang": "Python",
-    "desc": "All powerful skills of ClaudeKit.cc!"
+    "createdAt": "2025-10-23T07:28:12Z",
+    "stars": 241,
+    "name": "fufankeji/DeepSeek-OCR-Web",
+    "url": "https://github.com/fufankeji/DeepSeek-OCR-Web",
+    "lang": "TypeScript",
+    "desc": "Out-of-the-box DeepSeek OCR document parsing Web Studio"
   },
   {
     "createdAt": "2025-10-24T01:43:38Z",
-    "stars": 209,
+    "stars": 238,
     "name": "world-grow/WorldGrow",
     "url": "https://github.com/world-grow/WorldGrow",
     "lang": "",
     "desc": "WorldGrow: Generating Infinite 3D World"
   },
   {
+    "createdAt": "2025-10-26T19:43:54Z",
+    "stars": 238,
+    "name": "numman-ali/openskills",
+    "url": "https://github.com/numman-ali/openskills",
+    "lang": "TypeScript",
+    "desc": "Universal skills loader for AI coding agents - npm i -g openskills"
+  },
+  {
+    "createdAt": "2025-10-27T12:32:20Z",
+    "stars": 234,
+    "name": "sahaj-b/ghostty-cursor-shaders",
+    "url": "https://github.com/sahaj-b/ghostty-cursor-shaders",
+    "lang": "GLSL",
+    "desc": "My custom cursor shaders for ghostty (trails and ripple/pulse effects)"
+  },
+  {
+    "createdAt": "2025-10-22T00:51:00Z",
+    "stars": 229,
+    "name": "ihatecsv/deepseek-ocr-client",
+    "url": "https://github.com/ihatecsv/deepseek-ocr-client",
+    "lang": "JavaScript",
+    "desc": "A real-time Electron-based desktop GUI for DeepSeek-OCR"
+  },
+  {
+    "createdAt": "2025-10-23T04:43:54Z",
+    "stars": 229,
+    "name": "mrgoonie/claudekit-skills",
+    "url": "https://github.com/mrgoonie/claudekit-skills",
+    "lang": "Python",
+    "desc": "All powerful skills of ClaudeKit.cc!"
+  },
+  {
     "createdAt": "2025-10-23T02:01:32Z",
-    "stars": 209,
+    "stars": 216,
     "name": "vercel/workflow-examples",
     "url": "https://github.com/vercel/workflow-examples",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-21T10:20:53Z",
-    "stars": 208,
-    "name": "etrobot/open-alpha-arena",
-    "url": "https://github.com/etrobot/open-alpha-arena",
+    "createdAt": "2025-10-22T13:34:39Z",
+    "stars": 213,
+    "name": "Rouwang01/Hawkish-Eyes-NoDualHook",
+    "url": "https://github.com/Rouwang01/Hawkish-Eyes-NoDualHook",
     "lang": "Python",
-    "desc": "AI paper trading project inspired by nof1 Alpha Arena,  using cctx for quotation."
+    "desc": "Ethical Hacking Tool | Powerfull Tokens Grabber / Stealer Discord, Steal: Browsers Passwords & Cookies, Window Info, Files Sniper, Wallet, Minecraft Account, Bypass Firewall & Antivirus, Discord Injection JS, Chromium Injection JS (Brave, Chrome, OperaGX, Opera, Vivaldi, Edge, yandex)."
+  },
+  {
+    "createdAt": "2025-10-28T06:03:30Z",
+    "stars": 207,
+    "name": "0xEdgeAI/EdgeML",
+    "url": "https://github.com/0xEdgeAI/EdgeML",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-23T15:01:49Z",
+    "stars": 202,
+    "name": "serialdotai/car-counter",
+    "url": "https://github.com/serialdotai/car-counter",
+    "lang": "Python",
+    "desc": "🚗 Effortlessly count cars in videos using YOLOv8-powered computer vision program for streamlined traffic monitoring."
+  },
+  {
+    "createdAt": "2025-10-22T00:00:55Z",
+    "stars": 201,
+    "name": "platform-engineering-labs/formae",
+    "url": "https://github.com/platform-engineering-labs/formae",
+    "lang": "Go",
+    "desc": "Infrastructure-as-Code Platform Built for the Future"
+  },
+  {
+    "createdAt": "2025-10-24T17:12:24Z",
+    "stars": 193,
+    "name": "sahaj-b/brainrot.nvim",
+    "url": "https://github.com/sahaj-b/brainrot.nvim",
+    "lang": "Lua",
+    "desc": "brainrot in neovim"
+  },
+  {
+    "createdAt": "2025-10-24T12:34:21Z",
+    "stars": 178,
+    "name": "metauto-ai/HGM",
+    "url": "https://github.com/metauto-ai/HGM",
+    "lang": "Python",
+    "desc": "🧬 The Huxley-Gödel Machine"
+  },
+  {
+    "createdAt": "2025-10-23T11:02:44Z",
+    "stars": 176,
+    "name": "izadoesdev/keypal",
+    "url": "https://github.com/izadoesdev/keypal",
+    "lang": "TypeScript",
+    "desc": "A TypeScript library for secure API key management with cryptographic hashing, expiration, scopes, and pluggable storage"
   }
 ]
