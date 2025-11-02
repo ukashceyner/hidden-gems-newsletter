@@ -1,63 +1,39 @@
 [
   {
     "createdAt": "2025-10-28T07:17:53Z",
-    "stars": 4186,
-    "name": "tinkle-community/nofx",
-    "url": "https://github.com/tinkle-community/nofx",
+    "stars": 4995,
+    "name": "NoFxAiOS/nofx",
+    "url": "https://github.com/NoFxAiOS/nofx",
     "lang": "Go",
     "desc": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard"
   },
   {
     "createdAt": "2025-10-30T03:12:16Z",
-    "stars": 1643,
+    "stars": 2430,
     "name": "diet103/claude-code-infrastructure-showcase",
     "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
     "lang": "Shell",
     "desc": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents"
   },
   {
-    "createdAt": "2025-10-25T13:42:10Z",
-    "stars": 1580,
-    "name": "TimmyOVO/deepseek-ocr.rs",
-    "url": "https://github.com/TimmyOVO/deepseek-ocr.rs",
-    "lang": "Rust",
-    "desc": "Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run."
-  },
-  {
-    "createdAt": "2025-10-25T21:28:29Z",
-    "stars": 1074,
-    "name": "MiniMax-AI/MiniMax-M2",
-    "url": "https://github.com/MiniMax-AI/MiniMax-M2",
-    "lang": "",
-    "desc": "MiniMax-M2, a model built for Max coding & agentic workflows."
-  },
-  {
-    "createdAt": "2025-10-28T01:40:36Z",
-    "stars": 866,
-    "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
-    "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
-    "lang": "C#",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-25T06:49:49Z",
-    "stars": 864,
-    "name": "meituan-longcat/LongCat-Video",
-    "url": "https://github.com/meituan-longcat/LongCat-Video",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-10-29T13:40:19Z",
-    "stars": 858,
+    "stars": 933,
     "name": "baaivision/Emu3.5",
     "url": "https://github.com/baaivision/Emu3.5",
     "lang": "Python",
     "desc": "Native Multimodal Models are World Learners"
   },
   {
+    "createdAt": "2025-10-28T01:40:36Z",
+    "stars": 905,
+    "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
+    "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
+    "lang": "C#",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-10-29T18:18:03Z",
-    "stars": 777,
+    "stars": 849,
     "name": "MoonshotAI/Kimi-Linear",
     "url": "https://github.com/MoonshotAI/Kimi-Linear",
     "lang": "",
@@ -65,39 +41,31 @@
   },
   {
     "createdAt": "2025-10-26T12:49:48Z",
-    "stars": 683,
+    "stars": 696,
     "name": "rolflobker/recall-for-linux",
     "url": "https://github.com/rolflobker/recall-for-linux",
     "lang": "Shell",
     "desc": "Bring Microsoft Recall to Linux!"
   },
   {
-    "createdAt": "2025-10-26T20:21:55Z",
-    "stars": 499,
-    "name": "HannesStark/boltzgen",
-    "url": "https://github.com/HannesStark/boltzgen",
-    "lang": "Jupyter Notebook",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-25T07:48:57Z",
-    "stars": 496,
-    "name": "AnasMalas/pcb-edge-usb-c",
-    "url": "https://github.com/AnasMalas/pcb-edge-usb-c",
-    "lang": "",
-    "desc": "Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions"
-  },
-  {
     "createdAt": "2025-10-26T19:43:54Z",
-    "stars": 494,
+    "stars": 583,
     "name": "numman-ali/openskills",
     "url": "https://github.com/numman-ali/openskills",
     "lang": "TypeScript",
     "desc": "Universal skills loader for AI coding agents - npm i -g openskills"
   },
   {
+    "createdAt": "2025-10-26T20:21:55Z",
+    "stars": 505,
+    "name": "HannesStark/boltzgen",
+    "url": "https://github.com/HannesStark/boltzgen",
+    "lang": "Jupyter Notebook",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-10-26T17:40:39Z",
-    "stars": 442,
+    "stars": 443,
     "name": "kirodaki/btc-python-utils",
     "url": "https://github.com/kirodaki/btc-python-utils",
     "lang": "Python",
@@ -105,7 +73,7 @@
   },
   {
     "createdAt": "2025-10-30T16:30:16Z",
-    "stars": 402,
+    "stars": 404,
     "name": "oyokki/sora2-watermark-remover",
     "url": "https://github.com/oyokki/sora2-watermark-remover",
     "lang": "Python",
@@ -113,11 +81,19 @@
   },
   {
     "createdAt": "2025-10-29T09:29:16Z",
-    "stars": 357,
+    "stars": 366,
     "name": "jun6ry/sora2-api",
     "url": "https://github.com/jun6ry/sora2-api",
     "lang": "Python",
     "desc": "A tool for generating videos using the Sora 2 API."
+  },
+  {
+    "createdAt": "2025-10-31T14:38:53Z",
+    "stars": 327,
+    "name": "knightnemo/Awesome-World-Models",
+    "url": "https://github.com/knightnemo/Awesome-World-Models",
+    "lang": "",
+    "desc": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling."
   },
   {
     "createdAt": "2025-10-27T14:51:26Z",
@@ -129,107 +105,139 @@
   },
   {
     "createdAt": "2025-10-27T12:32:20Z",
-    "stars": 313,
+    "stars": 320,
     "name": "sahaj-b/ghostty-cursor-shaders",
     "url": "https://github.com/sahaj-b/ghostty-cursor-shaders",
     "lang": "GLSL",
     "desc": "My custom cursor shaders for ghostty (trails and ripple/pulse effects)"
   },
   {
-    "createdAt": "2025-10-25T10:13:32Z",
-    "stars": 303,
-    "name": "anshlambagit/Data_Engineer_Roadmap",
-    "url": "https://github.com/anshlambagit/Data_Engineer_Roadmap",
-    "lang": "",
-    "desc": ""
+    "createdAt": "2025-11-01T10:54:51Z",
+    "stars": 319,
+    "name": "borndotcom/react-native-godot",
+    "url": "https://github.com/borndotcom/react-native-godot",
+    "lang": "C++",
+    "desc": "React Native Godot - Embed Godot Engine in React Native apps"
   },
   {
     "createdAt": "2025-10-27T14:16:01Z",
-    "stars": 292,
+    "stars": 294,
     "name": "juchain-network/chain",
     "url": "https://github.com/juchain-network/chain",
     "lang": "Go",
     "desc": "JuChain: Ethereum-compatible blockchain with JPoSA consensus (DPoS+PoA). Fast, low-cost, EVM compatible. "
   },
   {
-    "createdAt": "2025-10-27T04:58:37Z",
-    "stars": 221,
-    "name": "195440/nof1.ai",
-    "url": "https://github.com/195440/nof1.ai",
-    "lang": "TypeScript",
-    "desc": "⚡ Open nof1.ai  | Autonomous AI Trading Agent (自主AI交易系统) | https://open-nof1.195440.com"
+    "createdAt": "2025-11-01T23:05:46Z",
+    "stars": 285,
+    "name": "skydoves/compose-stability-analyzer",
+    "url": "https://github.com/skydoves/compose-stability-analyzer",
+    "lang": "Kotlin",
+    "desc": "🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ."
   },
   {
     "createdAt": "2025-10-27T06:31:01Z",
-    "stars": 219,
+    "stars": 278,
     "name": "FoundationAgents/ReCode",
     "url": "https://github.com/FoundationAgents/ReCode",
     "lang": "Python",
     "desc": "Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making."
   },
   {
-    "createdAt": "2025-10-28T06:03:30Z",
-    "stars": 216,
-    "name": "0xEdgeAI/EdgeML",
-    "url": "https://github.com/0xEdgeAI/EdgeML",
-    "lang": "",
-    "desc": ""
+    "createdAt": "2025-10-27T04:58:37Z",
+    "stars": 238,
+    "name": "195440/nof1.ai",
+    "url": "https://github.com/195440/nof1.ai",
+    "lang": "TypeScript",
+    "desc": "⚡ Open nof1.ai  | Autonomous AI Trading Agent (自主AI交易系统) | https://open-nof1.195440.com"
+  },
+  {
+    "createdAt": "2025-10-30T01:24:24Z",
+    "stars": 223,
+    "name": "xiamuceer-j/MuMuAINovel",
+    "url": "https://github.com/xiamuceer-j/MuMuAINovel",
+    "lang": "Python",
+    "desc": "一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事"
   },
   {
     "createdAt": "2025-10-28T15:01:32Z",
-    "stars": 198,
+    "stars": 219,
     "name": "theNetworkChuck/ai-in-the-terminal",
     "url": "https://github.com/theNetworkChuck/ai-in-the-terminal",
     "lang": "",
     "desc": "Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows"
   },
   {
+    "createdAt": "2025-10-28T06:03:30Z",
+    "stars": 217,
+    "name": "0xEdgeAI/EdgeML",
+    "url": "https://github.com/0xEdgeAI/EdgeML",
+    "lang": "",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-10-26T21:26:22Z",
-    "stars": 193,
+    "stars": 205,
     "name": "yarlson/vite-plugin-use-golang",
     "url": "https://github.com/yarlson/vite-plugin-use-golang",
     "lang": "TypeScript",
     "desc": ""
   },
   {
+    "createdAt": "2025-10-31T12:29:47Z",
+    "stars": 202,
+    "name": "abdullahalhwyji/BTC-Wallet-Finder",
+    "url": "https://github.com/abdullahalhwyji/BTC-Wallet-Finder",
+    "lang": "",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-10-26T17:39:13Z",
-    "stars": 183,
+    "stars": 193,
     "name": "soltia48/suica-viewer",
     "url": "https://github.com/soltia48/suica-viewer",
     "lang": "Python",
     "desc": "Suica Viewer is a CLI and GUI tool that reads FeliCa-based transit IC cards, resolving detailed card, balance, and trip history data via a remote authentication server."
   },
   {
-    "createdAt": "2025-10-25T06:07:29Z",
-    "stars": 181,
-    "name": "Weizhi-Zhao-quant/Quantitative-Research-Projects",
-    "url": "https://github.com/Weizhi-Zhao-quant/Quantitative-Research-Projects",
-    "lang": "Jupyter Notebook",
-    "desc": "A curated collection of my quantitative finance research projects. Explores sector rotation, multi-factor models, and AI-driven strategies (machine learning/deep learning) across high, mid, and low frequencies. Each project includes full code and analysis. Continuously updated."
+    "createdAt": "2025-10-31T01:54:39Z",
+    "stars": 192,
+    "name": "samrolken/nokode",
+    "url": "https://github.com/samrolken/nokode",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-27T07:32:36Z",
+    "stars": 189,
+    "name": "HammerGPT/Hyper-Alpha-Arena",
+    "url": "https://github.com/HammerGPT/Hyper-Alpha-Arena",
+    "lang": "Python",
+    "desc": "Hyper Alpha Arena is an advanced AI trading competition platform in live cryptocurrency trading,inspired by nof1 Alpha Arena."
   },
   {
     "createdAt": "2025-10-27T07:32:38Z",
-    "stars": 178,
+    "stars": 185,
     "name": "eight-atulya/eye",
     "url": "https://github.com/eight-atulya/eye",
     "lang": "TypeScript",
     "desc": "Part of BRAIN project"
   },
   {
-    "createdAt": "2025-10-31T14:38:53Z",
-    "stars": 175,
-    "name": "knightnemo/Awesome-World-Models",
-    "url": "https://github.com/knightnemo/Awesome-World-Models",
-    "lang": "",
-    "desc": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling."
-  },
-  {
     "createdAt": "2025-10-28T05:42:53Z",
-    "stars": 175,
+    "stars": 177,
     "name": "OS-HUBU/opentalent-new",
     "url": "https://github.com/OS-HUBU/opentalent-new",
     "lang": "Vue",
     "desc": ""
+  },
+  {
+    "createdAt": "2025-10-26T09:23:00Z",
+    "stars": 172,
+    "name": "oficcejo/alpha-arena-okx",
+    "url": "https://github.com/oficcejo/alpha-arena-okx",
+    "lang": "Python",
+    "desc": "比特币BTC加密货币ai自动交易机器人，基于nof1:alphaarena项目，让ai模型deepseek或qwen3-max自动炒币的程序，支持欧易okx交易所。无需人工干预，请看演示网站（演示为新版本，正在持续测试中，稳定盈利后更新，请关注更新）"
   },
   {
     "createdAt": "2025-10-26T10:57:46Z",
@@ -240,52 +248,52 @@
     "desc": "This is an open-source Embodied Intelligent Imitation Learning framework."
   },
   {
-    "createdAt": "2025-10-27T07:32:36Z",
-    "stars": 170,
-    "name": "HammerGPT/Hyper-Alpha-Arena",
-    "url": "https://github.com/HammerGPT/Hyper-Alpha-Arena",
-    "lang": "Python",
-    "desc": "Hyper Alpha Arena is an advanced AI trading competition platform in live cryptocurrency trading,inspired by nof1 Alpha Arena."
-  },
-  {
-    "createdAt": "2025-10-26T09:23:00Z",
-    "stars": 161,
-    "name": "oficcejo/alpha-arena-okx",
-    "url": "https://github.com/oficcejo/alpha-arena-okx",
-    "lang": "Python",
-    "desc": "比特币BTC加密货币ai自动交易机器人，基于nof1:alphaarena项目，让ai模型deepseek或qwen3-max自动炒币的程序，支持欧易okx交易所。无需人工干预，请看演示网站（演示为新版本，正在持续测试中，稳定盈利后更新，请关注更新）"
-  },
-  {
-    "createdAt": "2025-10-31T12:29:47Z",
-    "stars": 160,
-    "name": "abdullahalhwyji/BTC-Wallet-Finder",
-    "url": "https://github.com/abdullahalhwyji/BTC-Wallet-Finder",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-25T17:19:29Z",
-    "stars": 159,
-    "name": "dennisyang1986/getk",
-    "url": "https://github.com/dennisyang1986/getk",
-    "lang": "Go",
-    "desc": "一个基于长桥证券接口（LongPort OpenAPI）的抓取工具，按配置批量抓取指定股票在指定日期的历史 K 线并写入 PostgreSQL。支持多只股票、多日期、去重插入、进度显示。"
-  },
-  {
-    "createdAt": "2025-10-25T09:51:21Z",
-    "stars": 157,
-    "name": "saidsurucu/borsaci",
-    "url": "https://github.com/saidsurucu/borsaci",
-    "lang": "Python",
-    "desc": "AI Agent for Istanbul Stock Exchange and Turkish Investment Fund Data"
-  },
-  {
     "createdAt": "2025-10-26T08:45:50Z",
-    "stars": 151,
+    "stars": 166,
     "name": "kosty-cloud/kosty",
     "url": "https://github.com/kosty-cloud/kosty",
     "lang": "Python",
     "desc": "🚀 Identify AWS cost waste and security vulnerabilities across 16 core services with a single command"
+  },
+  {
+    "createdAt": "2025-10-31T16:54:33Z",
+    "stars": 160,
+    "name": "joelseverin/linux-wasm",
+    "url": "https://github.com/joelseverin/linux-wasm",
+    "lang": "JavaScript",
+    "desc": "WebAssembly (Wasm) arch support for the Linux kernel"
+  },
+  {
+    "createdAt": "2025-10-30T09:03:04Z",
+    "stars": 159,
+    "name": "p0dalirius/ShareHound",
+    "url": "https://github.com/p0dalirius/ShareHound",
+    "lang": "Python",
+    "desc": "A python tool to map the access rights of network shares into a BloodHound OpenGraphs easily"
+  },
+  {
+    "createdAt": "2025-10-27T20:25:50Z",
+    "stars": 156,
+    "name": "wildminder/ComfyUI-DyPE",
+    "url": "https://github.com/wildminder/ComfyUI-DyPE",
+    "lang": "Python",
+    "desc": "ComfyUI node brings DyPE to FLUX, enabling artifact-free 4K+ image generation"
+  },
+  {
+    "createdAt": "2025-10-26T13:47:59Z",
+    "stars": 155,
+    "name": "lifuguan/IGGT_official",
+    "url": "https://github.com/lifuguan/IGGT_official",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-26T12:25:47Z",
+    "stars": 150,
+    "name": "faithleysath/fuckit.sh",
+    "url": "https://github.com/faithleysath/fuckit.sh",
+    "lang": "Shell",
+    "desc": "一个靠谱的 AI 命令行老哥，能把人话直接干成 Shell 命令，顺便让 man和tldr 提前退休。"
   },
   {
     "createdAt": "2025-11-01T00:46:24Z",
@@ -296,28 +304,12 @@
     "desc": "AI watermark remover and media cleaner by Claude + GPT-5 hybrid model. Clean and retouch your own videos and images with realistic, artifact-free results."
   },
   {
-    "createdAt": "2025-10-26T12:25:47Z",
-    "stars": 142,
-    "name": "faithleysath/fuckit.sh",
-    "url": "https://github.com/faithleysath/fuckit.sh",
-    "lang": "Shell",
-    "desc": "一个靠谱的 AI 命令行老哥，能把人话直接干成 Shell 命令，顺便让 man和tldr 提前退休。"
-  },
-  {
-    "createdAt": "2025-10-30T09:03:04Z",
-    "stars": 141,
-    "name": "p0dalirius/ShareHound",
-    "url": "https://github.com/p0dalirius/ShareHound",
-    "lang": "Python",
-    "desc": "A python tool to map the access rights of network shares into a BloodHound OpenGraphs easily"
-  },
-  {
-    "createdAt": "2025-10-25T02:30:07Z",
-    "stars": 141,
-    "name": "jiansiting/CVE-2025-59287",
-    "url": "https://github.com/jiansiting/CVE-2025-59287",
-    "lang": "Python",
-    "desc": "WSUS Unauthenticated RCE"
+    "createdAt": "2025-10-31T22:13:06Z",
+    "stars": 144,
+    "name": "Weather-OS/WineGDK",
+    "url": "https://github.com/Weather-OS/WineGDK",
+    "lang": "C",
+    "desc": "GDK Components and *some* WinRT Components ported to Wine."
   },
   {
     "createdAt": "2025-10-30T05:11:02Z",
@@ -328,48 +320,40 @@
     "desc": "小红书接口,小红书API,xiaohongshu api,xiaohongshu"
   },
   {
-    "createdAt": "2025-10-27T20:25:50Z",
+    "createdAt": "2025-10-30T03:21:37Z",
     "stars": 138,
-    "name": "wildminder/ComfyUI-DyPE",
-    "url": "https://github.com/wildminder/ComfyUI-DyPE",
+    "name": "Dexmal/realtime-vla",
+    "url": "https://github.com/Dexmal/realtime-vla",
     "lang": "Python",
-    "desc": "ComfyUI node brings DyPE to FLUX, enabling artifact-free 4K+ image generation"
-  },
-  {
-    "createdAt": "2025-10-30T01:24:24Z",
-    "stars": 135,
-    "name": "xiamuceer-j/MuMuAINovel",
-    "url": "https://github.com/xiamuceer-j/MuMuAINovel",
-    "lang": "Python",
-    "desc": "一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事"
-  },
-  {
-    "createdAt": "2025-10-26T13:47:59Z",
-    "stars": 134,
-    "name": "lifuguan/IGGT_official",
-    "url": "https://github.com/lifuguan/IGGT_official",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-26T12:26:27Z",
-    "stars": 128,
-    "name": "Bria-AI/FIBO",
-    "url": "https://github.com/Bria-AI/FIBO",
-    "lang": "Python",
-    "desc": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation."
+    "desc": "Running VLA at 30Hz frame rate and 480Hz trajectory frequency"
   },
   {
     "createdAt": "2025-10-28T13:47:48Z",
-    "stars": 123,
+    "stars": 136,
     "name": "xue160709/My-Hub",
     "url": "https://github.com/xue160709/My-Hub",
     "lang": "TypeScript",
     "desc": "Make Your Bookmarks and History Work Harder."
   },
   {
+    "createdAt": "2025-10-26T12:26:27Z",
+    "stars": 135,
+    "name": "Bria-AI/FIBO",
+    "url": "https://github.com/Bria-AI/FIBO",
+    "lang": "Python",
+    "desc": "FIBO is a SOTA, first open-source, JSON-native text-to-image model built for controllable, predictable, and legally safe image generation."
+  },
+  {
+    "createdAt": "2025-10-31T00:02:21Z",
+    "stars": 134,
+    "name": "hcavarsan/pipedash",
+    "url": "https://github.com/hcavarsan/pipedash",
+    "lang": "Rust",
+    "desc": "A desktop app for managing CI/CD pipelines from multiple providers"
+  },
+  {
     "createdAt": "2025-10-29T20:59:52Z",
-    "stars": 122,
+    "stars": 133,
     "name": "TesslateAI/Studio",
     "url": "https://github.com/TesslateAI/Studio",
     "lang": "Python",
@@ -377,11 +361,19 @@
   },
   {
     "createdAt": "2025-10-29T02:35:37Z",
-    "stars": 119,
+    "stars": 130,
     "name": "hkirat/ai-trading-agent",
     "url": "https://github.com/hkirat/ai-trading-agent",
     "lang": "TypeScript",
     "desc": "Trade using LLMs "
+  },
+  {
+    "createdAt": "2025-10-29T08:42:08Z",
+    "stars": 119,
+    "name": "gaoxiang12/lightning-lm",
+    "url": "https://github.com/gaoxiang12/lightning-lm",
+    "lang": "C++",
+    "desc": "Lidar Localization and Mapping"
   },
   {
     "createdAt": "2025-10-27T02:16:18Z",
@@ -392,11 +384,19 @@
     "desc": "A relation-free graph constrcution method for efficient GraphRAG."
   },
   {
-    "createdAt": "2025-10-30T03:21:37Z",
-    "stars": 118,
-    "name": "Dexmal/realtime-vla",
-    "url": "https://github.com/Dexmal/realtime-vla",
-    "lang": "Python",
-    "desc": "Running VLA at 30Hz frame rate and 480Hz trajectory frequency"
+    "createdAt": "2025-10-28T13:36:42Z",
+    "stars": 116,
+    "name": "voiderSMS/Tbom_Mrep",
+    "url": "https://github.com/voiderSMS/Tbom_Mrep",
+    "lang": "",
+    "desc": "2025's BEST TOOL"
+  },
+  {
+    "createdAt": "2025-10-26T10:19:04Z",
+    "stars": 115,
+    "name": "TwoSevenOneT/EDR-Redir",
+    "url": "https://github.com/TwoSevenOneT/EDR-Redir",
+    "lang": "C++",
+    "desc": "EDR-Redir : a tool used to redirect the EDR's folder to another location."
   }
 ]
