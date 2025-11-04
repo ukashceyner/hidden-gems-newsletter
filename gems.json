@@ -1,23 +1,31 @@
 [
   {
     "createdAt": "2025-10-28T07:17:53Z",
-    "stars": 6049,
+    "stars": 6444,
     "name": "NoFxAiOS/nofx",
     "url": "https://github.com/NoFxAiOS/nofx",
-    "lang": "Go",
+    "lang": "TypeScript",
     "desc": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard"
   },
   {
     "createdAt": "2025-10-30T03:12:16Z",
-    "stars": 3305,
+    "stars": 3740,
     "name": "diet103/claude-code-infrastructure-showcase",
     "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
     "lang": "Shell",
     "desc": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents"
   },
   {
+    "createdAt": "2025-11-03T20:58:58Z",
+    "stars": 2131,
+    "name": "rxliuli/apps.apple.com",
+    "url": "https://github.com/rxliuli/apps.apple.com",
+    "lang": "HTML",
+    "desc": "App Store web version"
+  },
+  {
     "createdAt": "2025-11-01T10:54:51Z",
-    "stars": 1409,
+    "stars": 1791,
     "name": "borndotcom/react-native-godot",
     "url": "https://github.com/borndotcom/react-native-godot",
     "lang": "C++",
@@ -25,7 +33,7 @@
   },
   {
     "createdAt": "2025-10-29T13:40:19Z",
-    "stars": 1044,
+    "stars": 1088,
     "name": "baaivision/Emu3.5",
     "url": "https://github.com/baaivision/Emu3.5",
     "lang": "Python",
@@ -33,7 +41,7 @@
   },
   {
     "createdAt": "2025-10-29T18:18:03Z",
-    "stars": 957,
+    "stars": 1007,
     "name": "MoonshotAI/Kimi-Linear",
     "url": "https://github.com/MoonshotAI/Kimi-Linear",
     "lang": "",
@@ -41,7 +49,7 @@
   },
   {
     "createdAt": "2025-10-28T01:40:36Z",
-    "stars": 944,
+    "stars": 975,
     "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
     "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
     "lang": "C#",
@@ -49,7 +57,7 @@
   },
   {
     "createdAt": "2025-11-01T23:05:46Z",
-    "stars": 602,
+    "stars": 705,
     "name": "skydoves/compose-stability-analyzer",
     "url": "https://github.com/skydoves/compose-stability-analyzer",
     "lang": "Kotlin",
@@ -57,7 +65,7 @@
   },
   {
     "createdAt": "2025-10-31T14:38:53Z",
-    "stars": 497,
+    "stars": 594,
     "name": "knightnemo/Awesome-World-Models",
     "url": "https://github.com/knightnemo/Awesome-World-Models",
     "lang": "",
@@ -65,99 +73,99 @@
   },
   {
     "createdAt": "2025-10-31T16:54:33Z",
-    "stars": 338,
+    "stars": 583,
     "name": "joelseverin/linux-wasm",
     "url": "https://github.com/joelseverin/linux-wasm",
     "lang": "JavaScript",
     "desc": "WebAssembly (Wasm) arch support for the Linux kernel"
   },
   {
-    "createdAt": "2025-10-27T12:32:20Z",
-    "stars": 322,
-    "name": "sahaj-b/ghostty-cursor-shaders",
-    "url": "https://github.com/sahaj-b/ghostty-cursor-shaders",
-    "lang": "GLSL",
-    "desc": "My custom cursor shaders for ghostty (trails and ripple/pulse effects)"
-  },
-  {
-    "createdAt": "2025-10-29T09:29:16Z",
-    "stars": 316,
-    "name": "jun6ry/sora2-api",
-    "url": "https://github.com/jun6ry/sora2-api",
-    "lang": "Python",
-    "desc": "A tool for generating videos using the Sora 2 API."
-  },
-  {
-    "createdAt": "2025-10-27T06:31:01Z",
-    "stars": 315,
-    "name": "FoundationAgents/ReCode",
-    "url": "https://github.com/FoundationAgents/ReCode",
-    "lang": "Python",
-    "desc": "Next paradigm for LLM Agent. Unify plan and action through recursive code generation for adaptive, human-like decision-making."
+    "createdAt": "2025-10-29T08:42:08Z",
+    "stars": 486,
+    "name": "gaoxiang12/lightning-lm",
+    "url": "https://github.com/gaoxiang12/lightning-lm",
+    "lang": "C++",
+    "desc": "Lidar Localization and Mapping"
   },
   {
     "createdAt": "2025-10-30T01:24:24Z",
-    "stars": 307,
+    "stars": 358,
     "name": "xiamuceer-j/MuMuAINovel",
     "url": "https://github.com/xiamuceer-j/MuMuAINovel",
     "lang": "Python",
     "desc": "一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事"
   },
   {
-    "createdAt": "2025-10-27T14:16:01Z",
-    "stars": 294,
-    "name": "juchain-network/chain",
-    "url": "https://github.com/juchain-network/chain",
-    "lang": "Go",
-    "desc": "JuChain: Ethereum-compatible blockchain with JPoSA consensus (DPoS+PoA). Fast, low-cost, EVM compatible. "
+    "createdAt": "2025-11-04T10:38:17Z",
+    "stars": 354,
+    "name": "Snowflake-Labs/pg_lake",
+    "url": "https://github.com/Snowflake-Labs/pg_lake",
+    "lang": "C",
+    "desc": "pg_lake: Postgres with Iceberg and data lake access"
+  },
+  {
+    "createdAt": "2025-10-30T02:12:40Z",
+    "stars": 344,
+    "name": "liujuntao123/smart-excalidraw-next",
+    "url": "https://github.com/liujuntao123/smart-excalidraw-next",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-02T03:30:37Z",
+    "stars": 323,
+    "name": "codykociemba/NoLongerEvil-Thermostat",
+    "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
+    "lang": "C",
+    "desc": "Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!"
+  },
+  {
+    "createdAt": "2025-10-29T09:29:16Z",
+    "stars": 319,
+    "name": "jun6ry/sora2-api",
+    "url": "https://github.com/jun6ry/sora2-api",
+    "lang": "Python",
+    "desc": "A tool for generating videos using the Sora 2 API."
   },
   {
     "createdAt": "2025-10-31T22:13:06Z",
-    "stars": 270,
+    "stars": 318,
     "name": "Weather-OS/WineGDK",
     "url": "https://github.com/Weather-OS/WineGDK",
     "lang": "C",
     "desc": "GDK Components and *some* WinRT Components ported to Wine."
   },
   {
-    "createdAt": "2025-10-27T14:51:26Z",
-    "stars": 270,
-    "name": "kirodaki/eth-python-utils",
-    "url": "https://github.com/kirodaki/eth-python-utils",
-    "lang": "Python",
-    "desc": "Ethereum utilities and protocol library for interacting with the network"
+    "createdAt": "2025-10-31T00:02:21Z",
+    "stars": 285,
+    "name": "hcavarsan/pipedash",
+    "url": "https://github.com/hcavarsan/pipedash",
+    "lang": "Rust",
+    "desc": "A desktop app for managing CI/CD pipelines from multiple providers"
   },
   {
-    "createdAt": "2025-10-27T04:58:37Z",
-    "stars": 255,
-    "name": "195440/nof1.ai",
-    "url": "https://github.com/195440/nof1.ai",
-    "lang": "TypeScript",
-    "desc": "⚡ Open nof1.ai  | Autonomous AI Trading Agent (自主AI交易系统) | https://open-nof1.195440.com"
-  },
-  {
-    "createdAt": "2025-10-28T15:01:32Z",
-    "stars": 241,
-    "name": "theNetworkChuck/ai-in-the-terminal",
-    "url": "https://github.com/theNetworkChuck/ai-in-the-terminal",
+    "createdAt": "2025-11-04T05:47:39Z",
+    "stars": 267,
+    "name": "armadillomaxwell8/crypto-casino-bonus",
+    "url": "https://github.com/armadillomaxwell8/crypto-casino-bonus",
     "lang": "",
-    "desc": "Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows"
+    "desc": "Claim your Crypto Casino Bonus 2025 at NexusRoll! 🪙 Get a $100 casino deposit bonus with code 2025, play in secure crypto casinos, and enjoy instant payouts, stake bonuses, and no KYC registration. Discover fast, private, and rewarding gaming experiences today!"
   },
   {
     "createdAt": "2025-10-31T01:54:39Z",
-    "stars": 240,
+    "stars": 258,
     "name": "samrolken/nokode",
     "url": "https://github.com/samrolken/nokode",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-27T07:32:36Z",
-    "stars": 222,
-    "name": "HammerGPT/Hyper-Alpha-Arena",
-    "url": "https://github.com/HammerGPT/Hyper-Alpha-Arena",
-    "lang": "Python",
-    "desc": "Hyper Alpha Arena is an advanced AI trading competition platform in live cryptocurrency trading,inspired by nof1 Alpha Arena."
+    "createdAt": "2025-10-28T15:01:32Z",
+    "stars": 253,
+    "name": "theNetworkChuck/ai-in-the-terminal",
+    "url": "https://github.com/theNetworkChuck/ai-in-the-terminal",
+    "lang": "",
+    "desc": "Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows"
   },
   {
     "createdAt": "2025-10-28T06:03:30Z",
@@ -168,108 +176,92 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-11-02T13:56:17Z",
-    "stars": 220,
-    "name": "Sid6Effect/CVE-2025-59287",
-    "url": "https://github.com/Sid6Effect/CVE-2025-59287",
-    "lang": "Python",
-    "desc": "WSUS vulnerability PoC"
-  },
-  {
-    "createdAt": "2025-11-03T11:37:51Z",
-    "stars": 217,
-    "name": "welcome-bonus/casino-bonus-november-2025",
-    "url": "https://github.com/welcome-bonus/casino-bonus-november-2025",
-    "lang": "HTML",
-    "desc": "Get the best casino bonus and no deposit bonus for new users this November 2025! 🎰 Claim exclusive rewards, deposit matches, and crypto casino offers. Enjoy instant payouts, free spins, and trusted promotions — start your casino adventure with top bonuses today!"
-  },
-  {
-    "createdAt": "2025-10-31T00:02:21Z",
-    "stars": 213,
-    "name": "hcavarsan/pipedash",
-    "url": "https://github.com/hcavarsan/pipedash",
-    "lang": "Rust",
-    "desc": "A desktop app for managing CI/CD pipelines from multiple providers"
-  },
-  {
-    "createdAt": "2025-10-28T13:36:42Z",
-    "stars": 206,
-    "name": "voiderSMS/Tbom_Mrep",
-    "url": "https://github.com/voiderSMS/Tbom_Mrep",
-    "lang": "",
-    "desc": "2025's BEST TOOL"
-  },
-  {
-    "createdAt": "2025-10-31T12:29:47Z",
-    "stars": 200,
-    "name": "abdullahalhwyji/BTC-Wallet-Finder",
-    "url": "https://github.com/abdullahalhwyji/BTC-Wallet-Finder",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-27T07:32:38Z",
-    "stars": 192,
-    "name": "eight-atulya/eye",
-    "url": "https://github.com/eight-atulya/eye",
-    "lang": "TypeScript",
-    "desc": "Part of BRAIN project"
-  },
-  {
-    "createdAt": "2025-10-28T05:42:53Z",
-    "stars": 180,
-    "name": "OS-HUBU/opentalent-new",
-    "url": "https://github.com/OS-HUBU/opentalent-new",
-    "lang": "Vue",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-03T00:04:06Z",
-    "stars": 171,
-    "name": "bestbonuses/casino-bonus",
-    "url": "https://github.com/bestbonuses/casino-bonus",
-    "lang": "HTML",
-    "desc": "Crypto Casino Bonus 2025 💎 Get casino no deposit bonus with code 2025 and enjoy instant crypto payouts, secure blockchain gaming, and exclusive promotions. Join the future of gaming with top crypto casino bonuses and win bigger this year!"
-  },
-  {
-    "createdAt": "2025-10-30T09:03:04Z",
-    "stars": 171,
-    "name": "p0dalirius/ShareHound",
-    "url": "https://github.com/p0dalirius/ShareHound",
-    "lang": "Python",
-    "desc": "A python tool to map the access rights of network shares into a BloodHound OpenGraphs easily"
-  },
-  {
     "createdAt": "2025-10-30T03:21:37Z",
-    "stars": 170,
+    "stars": 195,
     "name": "Dexmal/realtime-vla",
     "url": "https://github.com/Dexmal/realtime-vla",
     "lang": "Python",
     "desc": "Running VLA at 30Hz frame rate and 480Hz trajectory frequency"
   },
   {
-    "createdAt": "2025-10-27T20:25:50Z",
-    "stars": 163,
-    "name": "wildminder/ComfyUI-DyPE",
-    "url": "https://github.com/wildminder/ComfyUI-DyPE",
+    "createdAt": "2025-10-28T05:42:53Z",
+    "stars": 184,
+    "name": "OS-HUBU/opentalent-new",
+    "url": "https://github.com/OS-HUBU/opentalent-new",
+    "lang": "Vue",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-31T11:17:49Z",
+    "stars": 177,
+    "name": "MisterPrada/singularity",
+    "url": "https://github.com/MisterPrada/singularity",
+    "lang": "JavaScript",
+    "desc": "Black Hole -> Three.js -> TSL -> (WebGPU/WebGL)"
+  },
+  {
+    "createdAt": "2025-11-04T05:24:25Z",
+    "stars": 176,
+    "name": "casino-bonus-2025-no-deposit/casino-bonus",
+    "url": "https://github.com/casino-bonus-2025-no-deposit/casino-bonus",
+    "lang": "HTML",
+    "desc": "Claim the best Casino Bonus 2025, get a $100 casino deposit bonus with code 2025 and explore the world of crypto casino gaming. Enjoy instant rewards, stake bonuses, and no KYC signup for privacy and speed. Start playing and winning today!"
+  },
+  {
+    "createdAt": "2025-10-30T09:03:04Z",
+    "stars": 176,
+    "name": "p0dalirius/ShareHound",
+    "url": "https://github.com/p0dalirius/ShareHound",
     "lang": "Python",
-    "desc": "ComfyUI node brings DyPE to FLUX, enabling artifact-free 4K+ image generation"
+    "desc": "A python tool to map the access rights of network shares into a BloodHound OpenGraphs easily"
+  },
+  {
+    "createdAt": "2025-10-29T20:59:52Z",
+    "stars": 154,
+    "name": "TesslateAI/Studio",
+    "url": "https://github.com/TesslateAI/Studio",
+    "lang": "Python",
+    "desc": "Open Source Locally Hosted Lovable with Full Stack Support"
   },
   {
     "createdAt": "2025-10-28T13:47:48Z",
-    "stars": 146,
+    "stars": 153,
     "name": "xue160709/My-Hub",
     "url": "https://github.com/xue160709/My-Hub",
     "lang": "TypeScript",
     "desc": "Make Your Bookmarks and History Work Harder."
   },
   {
-    "createdAt": "2025-10-29T20:59:52Z",
-    "stars": 143,
-    "name": "TesslateAI/Studio",
-    "url": "https://github.com/TesslateAI/Studio",
+    "createdAt": "2025-11-02T22:00:05Z",
+    "stars": 153,
+    "name": "loosehose/SilentButDeadly",
+    "url": "https://github.com/loosehose/SilentButDeadly",
+    "lang": "C",
+    "desc": "SilentButDeadly is a network communication blocker specifically designed to neutralize EDR/AV software by preventing their cloud connectivity using Windows Filtering Platform (WFP). This version focuses solely on network isolation without process termination."
+  },
+  {
+    "createdAt": "2025-11-01T00:53:22Z",
+    "stars": 148,
+    "name": "Amal-David/keyleak-detector",
+    "url": "https://github.com/Amal-David/keyleak-detector",
     "lang": "Python",
-    "desc": "Open Source Locally Hosted Lovable with Full Stack Support"
+    "desc": "KeyLeak Detector – Scan websites for exposed API keys and secrets"
+  },
+  {
+    "createdAt": "2025-10-30T08:32:16Z",
+    "stars": 143,
+    "name": "WeatherPal-AI/MCP-handle",
+    "url": "https://github.com/WeatherPal-AI/MCP-handle",
+    "lang": "Python",
+    "desc": "MCP integration platforms making AI-Agents developers focusing on their own tasks"
+  },
+  {
+    "createdAt": "2025-11-04T04:06:52Z",
+    "stars": 142,
+    "name": "Infatoshi/all-of-it",
+    "url": "https://github.com/Infatoshi/all-of-it",
+    "lang": "Jupyter Notebook",
+    "desc": ""
   },
   {
     "createdAt": "2025-10-30T05:11:02Z",
@@ -280,123 +272,131 @@
     "desc": "小红书接口,小红书API,xiaohongshu api,xiaohongshu"
   },
   {
-    "createdAt": "2025-10-29T08:42:08Z",
-    "stars": 132,
-    "name": "gaoxiang12/lightning-lm",
-    "url": "https://github.com/gaoxiang12/lightning-lm",
-    "lang": "C++",
-    "desc": "Lidar Localization and Mapping"
-  },
-  {
-    "createdAt": "2025-11-01T00:53:22Z",
-    "stars": 132,
-    "name": "Amal-David/keyleak-detector",
-    "url": "https://github.com/Amal-David/keyleak-detector",
+    "createdAt": "2025-10-28T06:30:01Z",
+    "stars": 138,
+    "name": "jsjfai/AgentDNS",
+    "url": "https://github.com/jsjfai/AgentDNS",
     "lang": "Python",
-    "desc": "KeyLeak Detector – Scan websites for exposed API keys and secrets"
-  },
-  {
-    "createdAt": "2025-10-29T02:35:37Z",
-    "stars": 130,
-    "name": "hkirat/ai-trading-agent",
-    "url": "https://github.com/hkirat/ai-trading-agent",
-    "lang": "TypeScript",
-    "desc": "Trade using LLMs "
-  },
-  {
-    "createdAt": "2025-10-31T11:17:49Z",
-    "stars": 126,
-    "name": "MisterPrada/singularity",
-    "url": "https://github.com/MisterPrada/singularity",
-    "lang": "JavaScript",
-    "desc": "Black Hole -> Three.js -> TSL -> (WebGPU/WebGL)"
-  },
-  {
-    "createdAt": "2025-10-27T02:16:18Z",
-    "stars": 124,
-    "name": "DEEP-PolyU/LinearRAG",
-    "url": "https://github.com/DEEP-PolyU/LinearRAG",
-    "lang": "Python",
-    "desc": "A relation-free graph constrcution method for efficient GraphRAG."
-  },
-  {
-    "createdAt": "2025-10-27T14:40:04Z",
-    "stars": 119,
-    "name": "xaviviro/python-toon",
-    "url": "https://github.com/xaviviro/python-toon",
-    "lang": "Python",
-    "desc": "🐍 TOON for Python (Token-Oriented Object Notation) Encoder/Decoder - Reduce LLM token costs by 30-60% with structured data."
-  },
-  {
-    "createdAt": "2025-10-28T10:36:33Z",
-    "stars": 111,
-    "name": "gagarinyury/claude-config-editor",
-    "url": "https://github.com/gagarinyury/claude-config-editor",
-    "lang": "HTML",
-    "desc": "Claude Config Editor is a lightweight web tool that helps you clean and optimize your Claude Code/Desktop config files (.claude.json). Analyze project sizes, bulk delete chat histories, export data for backup, manage servers visually, and speed up Claude—all locally, with auto-backup, no dependencies, and cross-platform support."
-  },
-  {
-    "createdAt": "2025-10-27T13:28:21Z",
-    "stars": 110,
-    "name": "shajidhasan/spoilerjs",
-    "url": "https://github.com/shajidhasan/spoilerjs",
-    "lang": "Svelte",
-    "desc": "A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations."
-  },
-  {
-    "createdAt": "2025-10-27T16:12:44Z",
-    "stars": 110,
-    "name": "schollz/e2ecp",
-    "url": "https://github.com/schollz/e2ecp",
-    "lang": "Go",
-    "desc": "End-to-end encrypted copy file tool"
-  },
-  {
-    "createdAt": "2025-10-28T14:41:35Z",
-    "stars": 109,
-    "name": "jofpin/brash",
-    "url": "https://github.com/jofpin/brash",
-    "lang": "JavaScript",
-    "desc": "Chromium Browser DoS Attack via document.title Exploitation"
-  },
-  {
-    "createdAt": "2025-10-27T15:47:11Z",
-    "stars": 108,
-    "name": "cupid3d/Cupid",
-    "url": "https://github.com/cupid3d/Cupid",
-    "lang": "",
-    "desc": "Cupid: A 3D generator that links 2D image with camera"
-  },
-  {
-    "createdAt": "2025-11-01T14:24:55Z",
-    "stars": 108,
-    "name": "lu0b0/cloudflare-manager",
-    "url": "https://github.com/lu0b0/cloudflare-manager",
-    "lang": "TypeScript",
-    "desc": "一个强大的Cloudflare多账号Workers批量管理系统，支持账号管理、批量操作、实时监控和Workers脚本管理。"
+    "desc": "AgentDNS is the core component of Agent network that facilitates agent registration and discovery, enabling large language models (LLMs) to browse the internet freely, just like humans."
   },
   {
     "createdAt": "2025-10-28T16:14:23Z",
-    "stars": 107,
+    "stars": 138,
     "name": "Ricky-7-Yan/intelligent-audit-system",
     "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system",
     "lang": "Python",
     "desc": "🤖 AutoAudit--智能审计决策系统 Python FastAPI License  基于大语言模型的智能审计平台 | 集成知识图谱、RAG、强化学习等前沿技术  功能特性 • 快速开始 • 技术架构 • 文档  📋 项目简介 智能审计决策系统是一个基于大语言模型（LLM）的智能审计平台，集成了知识图谱、RAG检索增强生成、强化学习等前沿技术，为审计工作提供智能化支持。  🎯 核心价值: 突破传统审计工具局限，支持复杂业务逻辑的深度推理"
   },
   {
-    "createdAt": "2025-10-27T05:08:52Z",
-    "stars": 105,
-    "name": "zjost/intro-to-gnns-course",
-    "url": "https://github.com/zjost/intro-to-gnns-course",
-    "lang": "Jupyter Notebook",
-    "desc": "Videos, quizzes, code, and slideshows for an Introduction to Graph Neural Networks course"
+    "createdAt": "2025-10-29T02:35:37Z",
+    "stars": 131,
+    "name": "hkirat/ai-trading-agent",
+    "url": "https://github.com/hkirat/ai-trading-agent",
+    "lang": "TypeScript",
+    "desc": "Trade using LLMs "
   },
   {
-    "createdAt": "2025-10-30T08:32:16Z",
-    "stars": 104,
-    "name": "WeatherPal-AI/MCP-handle",
-    "url": "https://github.com/WeatherPal-AI/MCP-handle",
+    "createdAt": "2025-10-28T03:14:31Z",
+    "stars": 130,
+    "name": "jsjfai/AgentConnector",
+    "url": "https://github.com/jsjfai/AgentConnector",
+    "lang": "TypeScript",
+    "desc": "AgentConnector is a feature-rich open-source Agent Network Client built upon DeepChat, supporting Agent network, multiple cloud and local large language models with powerful search enhancement and tool calling capabilities."
+  },
+  {
+    "createdAt": "2025-11-02T04:13:48Z",
+    "stars": 119,
+    "name": "MorDavid/DonPwner",
+    "url": "https://github.com/MorDavid/DonPwner",
     "lang": "Python",
-    "desc": "MCP integration platforms making AI-Agents developers focusing on their own tasks"
+    "desc": "Advanced Domain Controller attack and credential analysis tool leveraging DonPAPI database"
+  },
+  {
+    "createdAt": "2025-11-01T14:24:55Z",
+    "stars": 118,
+    "name": "lu0b0/cloudflare-manager",
+    "url": "https://github.com/lu0b0/cloudflare-manager",
+    "lang": "TypeScript",
+    "desc": "一个强大的Cloudflare多账号Workers批量管理系统，支持账号管理、批量操作、实时监控和Workers脚本管理。"
+  },
+  {
+    "createdAt": "2025-10-28T06:03:44Z",
+    "stars": 117,
+    "name": "jsjfai/AgentDNS-Node",
+    "url": "https://github.com/jsjfai/AgentDNS-Node",
+    "lang": "TypeScript",
+    "desc": "AgentDNS·Node makes it easy to manage and scale multiple MCP (Model Context Protocol) servers by organizing them into flexible Streamable HTTP (SSE) endpoints—supporting access to all servers, individual servers, or logical server groups."
+  },
+  {
+    "createdAt": "2025-10-28T06:40:36Z",
+    "stars": 116,
+    "name": "jsjfai/AgentDNS-lite-client",
+    "url": "https://github.com/jsjfai/AgentDNS-lite-client",
+    "lang": "Python",
+    "desc": "AgentDNS-lite-client is a lightweight command-line tool for interacting with the AgentDNS network. It enables fast querying and invocation of intelligent agents directly from your terminal."
+  },
+  {
+    "createdAt": "2025-10-28T06:51:11Z",
+    "stars": 116,
+    "name": "jsjfai/AgentWeb",
+    "url": "https://github.com/jsjfai/AgentWeb",
+    "lang": "",
+    "desc": "AgentWeb is a next-generation network designed to enable LLMs to interact with the internet."
+  },
+  {
+    "createdAt": "2025-10-28T14:41:35Z",
+    "stars": 114,
+    "name": "jofpin/brash",
+    "url": "https://github.com/jofpin/brash",
+    "lang": "JavaScript",
+    "desc": "Chromium Browser DoS Attack via document.title Exploitation"
+  },
+  {
+    "createdAt": "2025-10-28T10:36:33Z",
+    "stars": 114,
+    "name": "gagarinyury/claude-config-editor",
+    "url": "https://github.com/gagarinyury/claude-config-editor",
+    "lang": "HTML",
+    "desc": "Claude Config Editor is a lightweight web tool that helps you clean and optimize your Claude Code/Desktop config files (.claude.json). Analyze project sizes, bulk delete chat histories, export data for backup, manage servers visually, and speed up Claude—all locally, with auto-backup, no dependencies, and cross-platform support."
+  },
+  {
+    "createdAt": "2025-11-01T08:06:47Z",
+    "stars": 113,
+    "name": "supzza/clianpro",
+    "url": "https://github.com/supzza/clianpro",
+    "lang": "",
+    "desc": "超链PRO 开箱即用的网盘下载/解析解决方案 支持直链解析、不限速下载、批量下载、Aria2加速等功能。完全免费，无需登录，一键获取网盘直链，解决下载限速问题。"
+  },
+  {
+    "createdAt": "2025-11-02T11:14:49Z",
+    "stars": 112,
+    "name": "mitsuhiko/agent-commands",
+    "url": "https://github.com/mitsuhiko/agent-commands",
+    "lang": "JavaScript",
+    "desc": "These are commands I use with agents, mostly Claude"
+  },
+  {
+    "createdAt": "2025-10-29T03:29:43Z",
+    "stars": 111,
+    "name": "bestrever/4GTV-for-cloudflare-works",
+    "url": "https://github.com/bestrever/4GTV-for-cloudflare-works",
+    "lang": "",
+    "desc": "這是一個cloudflare works上執行的js代碼，通過它，你可以在使用cloudflare 全球cdn觀看4GTV"
+  },
+  {
+    "createdAt": "2025-10-30T14:50:21Z",
+    "stars": 109,
+    "name": "sail-sg/Precision-RL",
+    "url": "https://github.com/sail-sg/Precision-RL",
+    "lang": "Python",
+    "desc": "Defeating the Training-Inference Mismatch via FP16"
+  },
+  {
+    "createdAt": "2025-10-28T13:36:42Z",
+    "stars": 107,
+    "name": "voiderSMS/Tbom_Mrep",
+    "url": "https://github.com/voiderSMS/Tbom_Mrep",
+    "lang": "",
+    "desc": "2025's BEST TOOL"
   }
 ]
