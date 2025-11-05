@@ -1,31 +1,23 @@
 [
   {
-    "createdAt": "2025-10-28T07:17:53Z",
-    "stars": 6444,
-    "name": "NoFxAiOS/nofx",
-    "url": "https://github.com/NoFxAiOS/nofx",
-    "lang": "TypeScript",
-    "desc": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard"
-  },
-  {
-    "createdAt": "2025-10-30T03:12:16Z",
-    "stars": 3740,
-    "name": "diet103/claude-code-infrastructure-showcase",
-    "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
-    "lang": "Shell",
-    "desc": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents"
-  },
-  {
     "createdAt": "2025-11-03T20:58:58Z",
-    "stars": 2131,
+    "stars": 8982,
     "name": "rxliuli/apps.apple.com",
     "url": "https://github.com/rxliuli/apps.apple.com",
     "lang": "HTML",
     "desc": "App Store web version"
   },
   {
+    "createdAt": "2025-10-30T03:12:16Z",
+    "stars": 3886,
+    "name": "diet103/claude-code-infrastructure-showcase",
+    "url": "https://github.com/diet103/claude-code-infrastructure-showcase",
+    "lang": "Shell",
+    "desc": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents"
+  },
+  {
     "createdAt": "2025-11-01T10:54:51Z",
-    "stars": 1791,
+    "stars": 1987,
     "name": "borndotcom/react-native-godot",
     "url": "https://github.com/borndotcom/react-native-godot",
     "lang": "C++",
@@ -33,7 +25,7 @@
   },
   {
     "createdAt": "2025-10-29T13:40:19Z",
-    "stars": 1088,
+    "stars": 1133,
     "name": "baaivision/Emu3.5",
     "url": "https://github.com/baaivision/Emu3.5",
     "lang": "Python",
@@ -41,95 +33,79 @@
   },
   {
     "createdAt": "2025-10-29T18:18:03Z",
-    "stars": 1007,
+    "stars": 1030,
     "name": "MoonshotAI/Kimi-Linear",
     "url": "https://github.com/MoonshotAI/Kimi-Linear",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-28T01:40:36Z",
-    "stars": 975,
-    "name": "Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
-    "url": "https://github.com/Mr-sans-and-InitLoader-s-team/Escape-From-Duckov-Coop-Mod-Preview",
-    "lang": "C#",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-01T23:05:46Z",
-    "stars": 705,
-    "name": "skydoves/compose-stability-analyzer",
-    "url": "https://github.com/skydoves/compose-stability-analyzer",
-    "lang": "Kotlin",
-    "desc": "🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ."
-  },
-  {
-    "createdAt": "2025-10-31T14:38:53Z",
-    "stars": 594,
-    "name": "knightnemo/Awesome-World-Models",
-    "url": "https://github.com/knightnemo/Awesome-World-Models",
-    "lang": "",
-    "desc": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling."
-  },
-  {
-    "createdAt": "2025-10-31T16:54:33Z",
-    "stars": 583,
-    "name": "joelseverin/linux-wasm",
-    "url": "https://github.com/joelseverin/linux-wasm",
-    "lang": "JavaScript",
-    "desc": "WebAssembly (Wasm) arch support for the Linux kernel"
-  },
-  {
-    "createdAt": "2025-10-29T08:42:08Z",
-    "stars": 486,
-    "name": "gaoxiang12/lightning-lm",
-    "url": "https://github.com/gaoxiang12/lightning-lm",
-    "lang": "C++",
-    "desc": "Lidar Localization and Mapping"
-  },
-  {
-    "createdAt": "2025-10-30T01:24:24Z",
-    "stars": 358,
-    "name": "xiamuceer-j/MuMuAINovel",
-    "url": "https://github.com/xiamuceer-j/MuMuAINovel",
-    "lang": "Python",
-    "desc": "一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事"
-  },
-  {
     "createdAt": "2025-11-04T10:38:17Z",
-    "stars": 354,
+    "stars": 859,
     "name": "Snowflake-Labs/pg_lake",
     "url": "https://github.com/Snowflake-Labs/pg_lake",
     "lang": "C",
     "desc": "pg_lake: Postgres with Iceberg and data lake access"
   },
   {
+    "createdAt": "2025-10-29T08:42:08Z",
+    "stars": 783,
+    "name": "gaoxiang12/lightning-lm",
+    "url": "https://github.com/gaoxiang12/lightning-lm",
+    "lang": "C++",
+    "desc": "Lidar Localization and Mapping"
+  },
+  {
+    "createdAt": "2025-11-01T23:05:46Z",
+    "stars": 754,
+    "name": "skydoves/compose-stability-analyzer",
+    "url": "https://github.com/skydoves/compose-stability-analyzer",
+    "lang": "Kotlin",
+    "desc": "🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ."
+  },
+  {
+    "createdAt": "2025-10-31T16:54:33Z",
+    "stars": 719,
+    "name": "joelseverin/linux-wasm",
+    "url": "https://github.com/joelseverin/linux-wasm",
+    "lang": "JavaScript",
+    "desc": "WebAssembly (Wasm) arch support for the Linux kernel"
+  },
+  {
+    "createdAt": "2025-10-31T14:38:53Z",
+    "stars": 637,
+    "name": "knightnemo/Awesome-World-Models",
+    "url": "https://github.com/knightnemo/Awesome-World-Models",
+    "lang": "",
+    "desc": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling."
+  },
+  {
     "createdAt": "2025-10-30T02:12:40Z",
-    "stars": 344,
+    "stars": 549,
     "name": "liujuntao123/smart-excalidraw-next",
     "url": "https://github.com/liujuntao123/smart-excalidraw-next",
     "lang": "JavaScript",
-    "desc": ""
+    "desc": "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language"
   },
   {
     "createdAt": "2025-11-02T03:30:37Z",
-    "stars": 323,
+    "stars": 492,
     "name": "codykociemba/NoLongerEvil-Thermostat",
     "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
     "lang": "C",
     "desc": "Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!"
   },
   {
-    "createdAt": "2025-10-29T09:29:16Z",
-    "stars": 319,
-    "name": "jun6ry/sora2-api",
-    "url": "https://github.com/jun6ry/sora2-api",
+    "createdAt": "2025-10-30T01:24:24Z",
+    "stars": 388,
+    "name": "xiamuceer-j/MuMuAINovel",
+    "url": "https://github.com/xiamuceer-j/MuMuAINovel",
     "lang": "Python",
-    "desc": "A tool for generating videos using the Sora 2 API."
+    "desc": "一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事"
   },
   {
     "createdAt": "2025-10-31T22:13:06Z",
-    "stars": 318,
+    "stars": 346,
     "name": "Weather-OS/WineGDK",
     "url": "https://github.com/Weather-OS/WineGDK",
     "lang": "C",
@@ -137,266 +113,290 @@
   },
   {
     "createdAt": "2025-10-31T00:02:21Z",
-    "stars": 285,
+    "stars": 334,
     "name": "hcavarsan/pipedash",
     "url": "https://github.com/hcavarsan/pipedash",
     "lang": "Rust",
     "desc": "A desktop app for managing CI/CD pipelines from multiple providers"
   },
   {
-    "createdAt": "2025-11-04T05:47:39Z",
-    "stars": 267,
-    "name": "armadillomaxwell8/crypto-casino-bonus",
-    "url": "https://github.com/armadillomaxwell8/crypto-casino-bonus",
-    "lang": "",
-    "desc": "Claim your Crypto Casino Bonus 2025 at NexusRoll! 🪙 Get a $100 casino deposit bonus with code 2025, play in secure crypto casinos, and enjoy instant payouts, stake bonuses, and no KYC registration. Discover fast, private, and rewarding gaming experiences today!"
-  },
-  {
     "createdAt": "2025-10-31T01:54:39Z",
-    "stars": 258,
+    "stars": 276,
     "name": "samrolken/nokode",
     "url": "https://github.com/samrolken/nokode",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-28T15:01:32Z",
-    "stars": 253,
-    "name": "theNetworkChuck/ai-in-the-terminal",
-    "url": "https://github.com/theNetworkChuck/ai-in-the-terminal",
-    "lang": "",
-    "desc": "Complete companion guide for NetworkChuck's 'AI in the Terminal' video - Gemini CLI, Claude Code, Codex, and opencode workflows"
-  },
-  {
-    "createdAt": "2025-10-28T06:03:30Z",
-    "stars": 220,
-    "name": "0xEdgeAI/EdgeML",
-    "url": "https://github.com/0xEdgeAI/EdgeML",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-30T03:21:37Z",
-    "stars": 195,
-    "name": "Dexmal/realtime-vla",
-    "url": "https://github.com/Dexmal/realtime-vla",
-    "lang": "Python",
-    "desc": "Running VLA at 30Hz frame rate and 480Hz trajectory frequency"
-  },
-  {
-    "createdAt": "2025-10-28T05:42:53Z",
-    "stars": 184,
-    "name": "OS-HUBU/opentalent-new",
-    "url": "https://github.com/OS-HUBU/opentalent-new",
-    "lang": "Vue",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-10-31T11:17:49Z",
-    "stars": 177,
-    "name": "MisterPrada/singularity",
-    "url": "https://github.com/MisterPrada/singularity",
-    "lang": "JavaScript",
-    "desc": "Black Hole -> Three.js -> TSL -> (WebGPU/WebGL)"
-  },
-  {
-    "createdAt": "2025-11-04T05:24:25Z",
-    "stars": 176,
-    "name": "casino-bonus-2025-no-deposit/casino-bonus",
-    "url": "https://github.com/casino-bonus-2025-no-deposit/casino-bonus",
-    "lang": "HTML",
-    "desc": "Claim the best Casino Bonus 2025, get a $100 casino deposit bonus with code 2025 and explore the world of crypto casino gaming. Enjoy instant rewards, stake bonuses, and no KYC signup for privacy and speed. Start playing and winning today!"
-  },
-  {
-    "createdAt": "2025-10-30T09:03:04Z",
-    "stars": 176,
-    "name": "p0dalirius/ShareHound",
-    "url": "https://github.com/p0dalirius/ShareHound",
-    "lang": "Python",
-    "desc": "A python tool to map the access rights of network shares into a BloodHound OpenGraphs easily"
-  },
-  {
-    "createdAt": "2025-10-29T20:59:52Z",
-    "stars": 154,
-    "name": "TesslateAI/Studio",
-    "url": "https://github.com/TesslateAI/Studio",
-    "lang": "Python",
-    "desc": "Open Source Locally Hosted Lovable with Full Stack Support"
-  },
-  {
-    "createdAt": "2025-10-28T13:47:48Z",
-    "stars": 153,
-    "name": "xue160709/My-Hub",
-    "url": "https://github.com/xue160709/My-Hub",
-    "lang": "TypeScript",
-    "desc": "Make Your Bookmarks and History Work Harder."
-  },
-  {
-    "createdAt": "2025-11-02T22:00:05Z",
-    "stars": 153,
-    "name": "loosehose/SilentButDeadly",
-    "url": "https://github.com/loosehose/SilentButDeadly",
-    "lang": "C",
-    "desc": "SilentButDeadly is a network communication blocker specifically designed to neutralize EDR/AV software by preventing their cloud connectivity using Windows Filtering Platform (WFP). This version focuses solely on network isolation without process termination."
-  },
-  {
-    "createdAt": "2025-11-01T00:53:22Z",
-    "stars": 148,
-    "name": "Amal-David/keyleak-detector",
-    "url": "https://github.com/Amal-David/keyleak-detector",
-    "lang": "Python",
-    "desc": "KeyLeak Detector – Scan websites for exposed API keys and secrets"
-  },
-  {
-    "createdAt": "2025-10-30T08:32:16Z",
-    "stars": 143,
-    "name": "WeatherPal-AI/MCP-handle",
-    "url": "https://github.com/WeatherPal-AI/MCP-handle",
-    "lang": "Python",
-    "desc": "MCP integration platforms making AI-Agents developers focusing on their own tasks"
-  },
-  {
     "createdAt": "2025-11-04T04:06:52Z",
-    "stars": 142,
+    "stars": 238,
     "name": "Infatoshi/all-of-it",
     "url": "https://github.com/Infatoshi/all-of-it",
     "lang": "Jupyter Notebook",
     "desc": ""
   },
   {
+    "createdAt": "2025-10-30T08:32:16Z",
+    "stars": 206,
+    "name": "WeatherPal-AI/MCP-handle",
+    "url": "https://github.com/WeatherPal-AI/MCP-handle",
+    "lang": "Python",
+    "desc": "MCP integration platforms making AI-Agents developers focusing on their own tasks"
+  },
+  {
+    "createdAt": "2025-10-30T03:21:37Z",
+    "stars": 202,
+    "name": "Dexmal/realtime-vla",
+    "url": "https://github.com/Dexmal/realtime-vla",
+    "lang": "Python",
+    "desc": "Running VLA at 30Hz frame rate and 480Hz trajectory frequency"
+  },
+  {
+    "createdAt": "2025-10-31T11:17:49Z",
+    "stars": 199,
+    "name": "MisterPrada/singularity",
+    "url": "https://github.com/MisterPrada/singularity",
+    "lang": "JavaScript",
+    "desc": "Black Hole -> Three.js -> TSL -> (WebGPU/WebGL)"
+  },
+  {
+    "createdAt": "2025-10-30T15:45:14Z",
+    "stars": 195,
+    "name": "shaochenze/calm",
+    "url": "https://github.com/shaochenze/calm",
+    "lang": "Python",
+    "desc": "Official implementation of \"Continuous Autoregressive Language Models\""
+  },
+  {
+    "createdAt": "2025-10-30T09:03:04Z",
+    "stars": 183,
+    "name": "p0dalirius/ShareHound",
+    "url": "https://github.com/p0dalirius/ShareHound",
+    "lang": "Python",
+    "desc": "A python tool to map the access rights of network shares into a BloodHound OpenGraphs easily"
+  },
+  {
+    "createdAt": "2025-11-02T22:00:05Z",
+    "stars": 181,
+    "name": "loosehose/SilentButDeadly",
+    "url": "https://github.com/loosehose/SilentButDeadly",
+    "lang": "C",
+    "desc": "SilentButDeadly is a network communication blocker specifically designed to neutralize EDR/AV software by preventing their cloud connectivity using Windows Filtering Platform (WFP). This version focuses solely on network isolation without process termination."
+  },
+  {
+    "createdAt": "2025-11-02T13:57:13Z",
+    "stars": 169,
+    "name": "ginobefun/deep-reading-analyst-skill",
+    "url": "https://github.com/ginobefun/deep-reading-analyst-skill",
+    "lang": "Shell",
+    "desc": "A professional Claude AI skill for deep reading analysis"
+  },
+  {
+    "createdAt": "2025-10-29T20:59:52Z",
+    "stars": 159,
+    "name": "TesslateAI/Studio",
+    "url": "https://github.com/TesslateAI/Studio",
+    "lang": "Python",
+    "desc": "Open Source Locally Hosted Lovable with Full Stack Support"
+  },
+  {
+    "createdAt": "2025-11-01T00:53:22Z",
+    "stars": 158,
+    "name": "Amal-David/keyleak-detector",
+    "url": "https://github.com/Amal-David/keyleak-detector",
+    "lang": "Python",
+    "desc": "KeyLeak Detector – Scan websites for exposed API keys and secrets"
+  },
+  {
+    "createdAt": "2025-11-05T03:51:40Z",
+    "stars": 149,
+    "name": "adysec/docx_compressor",
+    "url": "https://github.com/adysec/docx_compressor",
+    "lang": "Rust",
+    "desc": "一个轻量级的跨平台工具，用于压缩 Word (.docx) 文件中的图片，显著减小文档体积。支持 Windows 与 Linux，拥有简洁的图形化界面。"
+  },
+  {
     "createdAt": "2025-10-30T05:11:02Z",
-    "stars": 140,
+    "stars": 141,
     "name": "justoneapi-01/xiaohongshu-api",
     "url": "https://github.com/justoneapi-01/xiaohongshu-api",
     "lang": "",
     "desc": "小红书接口,小红书API,xiaohongshu api,xiaohongshu"
   },
   {
-    "createdAt": "2025-10-28T06:30:01Z",
-    "stars": 138,
-    "name": "jsjfai/AgentDNS",
-    "url": "https://github.com/jsjfai/AgentDNS",
-    "lang": "Python",
-    "desc": "AgentDNS is the core component of Agent network that facilitates agent registration and discovery, enabling large language models (LLMs) to browse the internet freely, just like humans."
-  },
-  {
-    "createdAt": "2025-10-28T16:14:23Z",
-    "stars": 138,
-    "name": "Ricky-7-Yan/intelligent-audit-system",
-    "url": "https://github.com/Ricky-7-Yan/intelligent-audit-system",
-    "lang": "Python",
-    "desc": "🤖 AutoAudit--智能审计决策系统 Python FastAPI License  基于大语言模型的智能审计平台 | 集成知识图谱、RAG、强化学习等前沿技术  功能特性 • 快速开始 • 技术架构 • 文档  📋 项目简介 智能审计决策系统是一个基于大语言模型（LLM）的智能审计平台，集成了知识图谱、RAG检索增强生成、强化学习等前沿技术，为审计工作提供智能化支持。  🎯 核心价值: 突破传统审计工具局限，支持复杂业务逻辑的深度推理"
-  },
-  {
     "createdAt": "2025-10-29T02:35:37Z",
-    "stars": 131,
+    "stars": 133,
     "name": "hkirat/ai-trading-agent",
     "url": "https://github.com/hkirat/ai-trading-agent",
     "lang": "TypeScript",
     "desc": "Trade using LLMs "
   },
   {
-    "createdAt": "2025-10-28T03:14:31Z",
-    "stars": 130,
-    "name": "jsjfai/AgentConnector",
-    "url": "https://github.com/jsjfai/AgentConnector",
-    "lang": "TypeScript",
-    "desc": "AgentConnector is a feature-rich open-source Agent Network Client built upon DeepChat, supporting Agent network, multiple cloud and local large language models with powerful search enhancement and tool calling capabilities."
-  },
-  {
-    "createdAt": "2025-11-02T04:13:48Z",
-    "stars": 119,
-    "name": "MorDavid/DonPwner",
-    "url": "https://github.com/MorDavid/DonPwner",
-    "lang": "Python",
-    "desc": "Advanced Domain Controller attack and credential analysis tool leveraging DonPAPI database"
-  },
-  {
-    "createdAt": "2025-11-01T14:24:55Z",
-    "stars": 118,
-    "name": "lu0b0/cloudflare-manager",
-    "url": "https://github.com/lu0b0/cloudflare-manager",
-    "lang": "TypeScript",
-    "desc": "一个强大的Cloudflare多账号Workers批量管理系统，支持账号管理、批量操作、实时监控和Workers脚本管理。"
-  },
-  {
-    "createdAt": "2025-10-28T06:03:44Z",
-    "stars": 117,
-    "name": "jsjfai/AgentDNS-Node",
-    "url": "https://github.com/jsjfai/AgentDNS-Node",
-    "lang": "TypeScript",
-    "desc": "AgentDNS·Node makes it easy to manage and scale multiple MCP (Model Context Protocol) servers by organizing them into flexible Streamable HTTP (SSE) endpoints—supporting access to all servers, individual servers, or logical server groups."
-  },
-  {
-    "createdAt": "2025-10-28T06:40:36Z",
-    "stars": 116,
-    "name": "jsjfai/AgentDNS-lite-client",
-    "url": "https://github.com/jsjfai/AgentDNS-lite-client",
-    "lang": "Python",
-    "desc": "AgentDNS-lite-client is a lightweight command-line tool for interacting with the AgentDNS network. It enables fast querying and invocation of intelligent agents directly from your terminal."
-  },
-  {
-    "createdAt": "2025-10-28T06:51:11Z",
-    "stars": 116,
-    "name": "jsjfai/AgentWeb",
-    "url": "https://github.com/jsjfai/AgentWeb",
-    "lang": "",
-    "desc": "AgentWeb is a next-generation network designed to enable LLMs to interact with the internet."
-  },
-  {
-    "createdAt": "2025-10-28T14:41:35Z",
-    "stars": 114,
-    "name": "jofpin/brash",
-    "url": "https://github.com/jofpin/brash",
-    "lang": "JavaScript",
-    "desc": "Chromium Browser DoS Attack via document.title Exploitation"
-  },
-  {
-    "createdAt": "2025-10-28T10:36:33Z",
-    "stars": 114,
-    "name": "gagarinyury/claude-config-editor",
-    "url": "https://github.com/gagarinyury/claude-config-editor",
-    "lang": "HTML",
-    "desc": "Claude Config Editor is a lightweight web tool that helps you clean and optimize your Claude Code/Desktop config files (.claude.json). Analyze project sizes, bulk delete chat histories, export data for backup, manage servers visually, and speed up Claude—all locally, with auto-backup, no dependencies, and cross-platform support."
-  },
-  {
-    "createdAt": "2025-11-01T08:06:47Z",
-    "stars": 113,
-    "name": "supzza/clianpro",
-    "url": "https://github.com/supzza/clianpro",
-    "lang": "",
-    "desc": "超链PRO 开箱即用的网盘下载/解析解决方案 支持直链解析、不限速下载、批量下载、Aria2加速等功能。完全免费，无需登录，一键获取网盘直链，解决下载限速问题。"
-  },
-  {
     "createdAt": "2025-11-02T11:14:49Z",
-    "stars": 112,
+    "stars": 132,
     "name": "mitsuhiko/agent-commands",
     "url": "https://github.com/mitsuhiko/agent-commands",
     "lang": "JavaScript",
     "desc": "These are commands I use with agents, mostly Claude"
   },
   {
+    "createdAt": "2025-11-02T04:13:48Z",
+    "stars": 127,
+    "name": "MorDavid/DonPwner",
+    "url": "https://github.com/MorDavid/DonPwner",
+    "lang": "Python",
+    "desc": "Advanced Domain Controller attack and credential analysis tool leveraging DonPAPI database"
+  },
+  {
+    "createdAt": "2025-11-01T08:06:47Z",
+    "stars": 121,
+    "name": "supzza/clianpro",
+    "url": "https://github.com/supzza/clianpro",
+    "lang": "",
+    "desc": "超链PRO 开箱即用的网盘下载/解析解决方案 支持直链解析、不限速下载、批量下载、Aria2加速等功能。完全免费，无需登录，一键获取网盘直链，解决下载限速问题。"
+  },
+  {
     "createdAt": "2025-10-29T03:29:43Z",
-    "stars": 111,
+    "stars": 120,
     "name": "bestrever/4GTV-for-cloudflare-works",
     "url": "https://github.com/bestrever/4GTV-for-cloudflare-works",
     "lang": "",
     "desc": "這是一個cloudflare works上執行的js代碼，通過它，你可以在使用cloudflare 全球cdn觀看4GTV"
   },
   {
+    "createdAt": "2025-11-01T14:24:55Z",
+    "stars": 120,
+    "name": "lu0b0/cloudflare-manager",
+    "url": "https://github.com/lu0b0/cloudflare-manager",
+    "lang": "TypeScript",
+    "desc": "一个强大的Cloudflare多账号Workers批量管理系统，支持账号管理、批量操作、实时监控和Workers脚本管理。"
+  },
+  {
     "createdAt": "2025-10-30T14:50:21Z",
-    "stars": 109,
+    "stars": 119,
     "name": "sail-sg/Precision-RL",
     "url": "https://github.com/sail-sg/Precision-RL",
     "lang": "Python",
     "desc": "Defeating the Training-Inference Mismatch via FP16"
   },
   {
-    "createdAt": "2025-10-28T13:36:42Z",
+    "createdAt": "2025-11-01T20:00:57Z",
+    "stars": 113,
+    "name": "MCXGK3/KnightInSilkSong",
+    "url": "https://github.com/MCXGK3/KnightInSilkSong",
+    "lang": "C#",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-01T15:08:46Z",
+    "stars": 111,
+    "name": "NtDallas/BOF_Spawn",
+    "url": "https://github.com/NtDallas/BOF_Spawn",
+    "lang": "C++",
+    "desc": "Cobalt Strike BOF for beacon/shellcode injection using fork & run technique with Draugr synthetic stack frames"
+  },
+  {
+    "createdAt": "2025-10-30T19:34:43Z",
+    "stars": 109,
+    "name": "warpnet/COM-Fuzzer",
+    "url": "https://github.com/warpnet/COM-Fuzzer",
+    "lang": "PowerShell",
+    "desc": "Gain insights into COM/DCOM implementations that may be vulnerable using an automated approach and make it easy to visualize the data. By following this approach, a security researcher will hopefully identify interesting (D)COM classes/implementations in such a time that would take a manual approach significantly more."
+  },
+  {
+    "createdAt": "2025-10-30T20:31:53Z",
     "stars": 107,
-    "name": "voiderSMS/Tbom_Mrep",
-    "url": "https://github.com/voiderSMS/Tbom_Mrep",
+    "name": "malerba118/tailwindcss-fade",
+    "url": "https://github.com/malerba118/tailwindcss-fade",
+    "lang": "TypeScript",
+    "desc": "Mask-powered fade utils for tailwind"
+  },
+  {
+    "createdAt": "2025-11-01T14:04:15Z",
+    "stars": 107,
+    "name": "LaravelDaily/Large-Laravel-PHP-Project-Examples",
+    "url": "https://github.com/LaravelDaily/Large-Laravel-PHP-Project-Examples",
     "lang": "",
-    "desc": "2025's BEST TOOL"
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-01T19:54:58Z",
+    "stars": 107,
+    "name": "yusufkaraaslan/lazy-bird",
+    "url": "https://github.com/yusufkaraaslan/lazy-bird",
+    "lang": "Shell",
+    "desc": "Universal development automation for ANY project. Claude Code implements features, runs tests, creates PRs autonomously. 15+ framework presets or custom commands.   Issue-driven, secure, scalable. Save 20-100 hrs/month. MIT license."
+  },
+  {
+    "createdAt": "2025-10-29T01:47:21Z",
+    "stars": 104,
+    "name": "papa-torb/adtruth",
+    "url": "https://github.com/papa-torb/adtruth",
+    "lang": "HTML",
+    "desc": "Open-source ad fraud detection for small businesses using machine learning. Detect click fraud and bot traffic from Google Ads, Facebook Ads, and other platforms. Completely free."
+  },
+  {
+    "createdAt": "2025-10-30T23:57:03Z",
+    "stars": 98,
+    "name": "flash131307/multi-agent-investment",
+    "url": "https://github.com/flash131307/multi-agent-investment",
+    "lang": "Python",
+    "desc": "An AI-powered multi-agent platform for automated investment research — combining LLM reasoning, RAG retrieval, and real-time market data to generate smart financial insights and dynamic reports."
+  },
+  {
+    "createdAt": "2025-10-30T06:05:59Z",
+    "stars": 95,
+    "name": "DAVIAN-Robotics/PHUMA",
+    "url": "https://github.com/DAVIAN-Robotics/PHUMA",
+    "lang": "Python",
+    "desc": "Official implementation for \"PHUMA: Physically-Grounded Humanoid Locomotion Dataset\""
+  },
+  {
+    "createdAt": "2025-11-03T16:45:48Z",
+    "stars": 92,
+    "name": "uint23/xpet",
+    "url": "https://github.com/uint23/xpet",
+    "lang": "C",
+    "desc": "a suckless, x11 (and wayland) on screen pet"
+  },
+  {
+    "createdAt": "2025-10-29T09:29:16Z",
+    "stars": 90,
+    "name": "jun6ry/sora2-api",
+    "url": "https://github.com/jun6ry/sora2-api",
+    "lang": "Python",
+    "desc": "A tool for generating videos using the Sora 2 API."
+  },
+  {
+    "createdAt": "2025-11-02T14:40:17Z",
+    "stars": 85,
+    "name": "7hePr0fess0r/ADCSDevilCOM",
+    "url": "https://github.com/7hePr0fess0r/ADCSDevilCOM",
+    "lang": "C#",
+    "desc": "A C# tool for requesting certificates from ADCS using DCOM over SMB. This tool allows you to remotely request X.509 certificates from CA server using the MS-WCCE protocol over DCOM and It bypasses the traditional endpoint mapper requirement by using SMB directly."
+  },
+  {
+    "createdAt": "2025-11-05T01:28:45Z",
+    "stars": 85,
+    "name": "lshung/readable-rust-code",
+    "url": "https://github.com/lshung/readable-rust-code",
+    "lang": "",
+    "desc": "100 Techniques for Writing Readable Rust Code"
+  },
+  {
+    "createdAt": "2025-10-30T06:51:01Z",
+    "stars": 84,
+    "name": "xenitV1/cursor-dynamic-rules-system",
+    "url": "https://github.com/xenitV1/cursor-dynamic-rules-system",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-10-31T15:15:13Z",
+    "stars": 82,
+    "name": "bradrevans/myrient-downloader",
+    "url": "https://github.com/bradrevans/myrient-downloader",
+    "lang": "JavaScript",
+    "desc": "A Desktop Application to simplify the download of files from the various repositories on Myrient."
   }
 ]
