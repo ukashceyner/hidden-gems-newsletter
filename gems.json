@@ -1,15 +1,23 @@
 [
   {
     "createdAt": "2025-11-01T10:54:51Z",
-    "stars": 2226,
+    "stars": 2253,
     "name": "borndotcom/react-native-godot",
     "url": "https://github.com/borndotcom/react-native-godot",
     "lang": "C++",
     "desc": "React Native Godot - Embed Godot Engine in React Native apps"
   },
   {
+    "createdAt": "2025-11-06T17:33:28Z",
+    "stars": 1988,
+    "name": "Snapchat/Valdi",
+    "url": "https://github.com/Snapchat/Valdi",
+    "lang": "C++",
+    "desc": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity."
+  },
+  {
     "createdAt": "2025-11-04T10:38:17Z",
-    "stars": 1050,
+    "stars": 1089,
     "name": "Snowflake-Labs/pg_lake",
     "url": "https://github.com/Snowflake-Labs/pg_lake",
     "lang": "C",
@@ -17,103 +25,79 @@
   },
   {
     "createdAt": "2025-11-01T23:05:46Z",
-    "stars": 831,
+    "stars": 843,
     "name": "skydoves/compose-stability-analyzer",
     "url": "https://github.com/skydoves/compose-stability-analyzer",
     "lang": "Kotlin",
     "desc": "🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ."
   },
   {
-    "createdAt": "2025-10-31T16:54:33Z",
-    "stars": 776,
-    "name": "joelseverin/linux-wasm",
-    "url": "https://github.com/joelseverin/linux-wasm",
-    "lang": "JavaScript",
-    "desc": "WebAssembly (Wasm) arch support for the Linux kernel"
-  },
-  {
-    "createdAt": "2025-10-31T14:38:53Z",
-    "stars": 681,
-    "name": "knightnemo/Awesome-World-Models",
-    "url": "https://github.com/knightnemo/Awesome-World-Models",
-    "lang": "",
-    "desc": "A Curated List of Awesome Works in World Modeling, Aiming to Serve as a One-stop Resource for Researchers, Practitioners, and Enthusiasts Interested in World Modeling."
+    "createdAt": "2025-11-01T19:52:16Z",
+    "stars": 763,
+    "name": "sayyadirfanali/Myna",
+    "url": "https://github.com/sayyadirfanali/Myna",
+    "lang": "Perl",
+    "desc": "monospace typeface designed for symbol-rich programming"
   },
   {
     "createdAt": "2025-11-05T10:17:20Z",
-    "stars": 680,
+    "stars": 729,
     "name": "openpcc/openpcc",
     "url": "https://github.com/openpcc/openpcc",
     "lang": "Go",
     "desc": "An open-source framework for provably private AI inference"
   },
   {
+    "createdAt": "2025-11-06T20:08:59Z",
+    "stars": 686,
+    "name": "SolanaUpdateTools/solana-starter-kit",
+    "url": "https://github.com/SolanaUpdateTools/solana-starter-kit",
+    "lang": "",
+    "desc": "Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI."
+  },
+  {
     "createdAt": "2025-11-02T03:30:37Z",
-    "stars": 604,
+    "stars": 619,
     "name": "codykociemba/NoLongerEvil-Thermostat",
     "url": "https://github.com/codykociemba/NoLongerEvil-Thermostat",
     "lang": "C",
     "desc": "Breathe fresh life into your bricked Nest Gen 1 & 2, now with 100% less evil!"
   },
   {
-    "createdAt": "2025-10-31T00:02:21Z",
-    "stars": 402,
-    "name": "hcavarsan/pipedash",
-    "url": "https://github.com/hcavarsan/pipedash",
-    "lang": "Rust",
-    "desc": "A desktop app for managing CI/CD pipelines from multiple providers"
+    "createdAt": "2025-11-06T11:43:07Z",
+    "stars": 425,
+    "name": "eooce/Auto-login-netlib",
+    "url": "https://github.com/eooce/Auto-login-netlib",
+    "lang": "JavaScript",
+    "desc": "自动登录netlib.re网站保活域名"
   },
   {
     "createdAt": "2025-11-05T15:20:06Z",
-    "stars": 395,
+    "stars": 391,
     "name": "rakkiez/sora2-watermark-remover",
     "url": "https://github.com/rakkiez/sora2-watermark-remover",
     "lang": "Python",
     "desc": "Sora 2 AI generated videos gentle watermark remover"
   },
   {
-    "createdAt": "2025-10-31T22:13:06Z",
-    "stars": 384,
-    "name": "Weather-OS/WineGDK",
-    "url": "https://github.com/Weather-OS/WineGDK",
-    "lang": "C",
-    "desc": "GDK Components and *some* WinRT Components ported to Wine."
-  },
-  {
-    "createdAt": "2025-11-01T19:52:16Z",
-    "stars": 364,
-    "name": "sayyadirfanali/Myna",
-    "url": "https://github.com/sayyadirfanali/Myna",
-    "lang": "Shell",
-    "desc": "monospace typeface designed for symbol-rich programming"
-  },
-  {
-    "createdAt": "2025-10-31T01:54:39Z",
-    "stars": 296,
-    "name": "samrolken/nokode",
-    "url": "https://github.com/samrolken/nokode",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-11-01T14:04:15Z",
-    "stars": 294,
+    "stars": 349,
     "name": "LaravelDaily/Large-Laravel-PHP-Project-Examples",
     "url": "https://github.com/LaravelDaily/Large-Laravel-PHP-Project-Examples",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-31T14:03:09Z",
-    "stars": 269,
-    "name": "gensyn-ai/codeassist",
-    "url": "https://github.com/gensyn-ai/codeassist",
+    "createdAt": "2025-11-06T10:13:39Z",
+    "stars": 263,
+    "name": "qy527145/acemcp",
+    "url": "https://github.com/qy527145/acemcp",
     "lang": "Python",
-    "desc": "A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code."
+    "desc": "一个将ACE(Augment Context Engine) 做成MCP的项目"
   },
   {
     "createdAt": "2025-11-04T04:06:52Z",
-    "stars": 256,
+    "stars": 257,
     "name": "Infatoshi/all-of-it",
     "url": "https://github.com/Infatoshi/all-of-it",
     "lang": "Jupyter Notebook",
@@ -121,47 +105,47 @@
   },
   {
     "createdAt": "2025-11-02T20:47:33Z",
-    "stars": 232,
+    "stars": 248,
     "name": "imtonyjaa/twitterxdownload",
     "url": "https://github.com/imtonyjaa/twitterxdownload",
     "lang": "JavaScript",
     "desc": "a powerful twitter video downloader and twitter marketing online tool. repost any tweet auto translation."
   },
   {
+    "createdAt": "2025-11-05T03:29:59Z",
+    "stars": 230,
+    "name": "steipete/mcporter",
+    "url": "https://github.com/steipete/mcporter",
+    "lang": "TypeScript",
+    "desc": "Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli."
+  },
+  {
     "createdAt": "2025-11-04T18:38:28Z",
-    "stars": 229,
+    "stars": 225,
     "name": "th1n0/CVE-2025-59287",
     "url": "https://github.com/th1n0/CVE-2025-59287",
     "lang": "Python",
     "desc": "WSUS vulnerability PoC"
   },
   {
-    "createdAt": "2025-11-06T10:13:39Z",
-    "stars": 224,
-    "name": "qy527145/acemcp",
-    "url": "https://github.com/qy527145/acemcp",
-    "lang": "Python",
-    "desc": "一个将ACE(Augment Context Engine) 做成MCP的项目"
-  },
-  {
     "createdAt": "2025-11-02T22:00:05Z",
-    "stars": 219,
+    "stars": 224,
     "name": "loosehose/SilentButDeadly",
     "url": "https://github.com/loosehose/SilentButDeadly",
     "lang": "C",
     "desc": "SilentButDeadly is a network communication blocker specifically designed to neutralize EDR/AV software by preventing their cloud connectivity using Windows Filtering Platform (WFP). This version focuses solely on network isolation without process termination."
   },
   {
-    "createdAt": "2025-10-31T11:17:49Z",
-    "stars": 208,
-    "name": "MisterPrada/singularity",
-    "url": "https://github.com/MisterPrada/singularity",
-    "lang": "JavaScript",
-    "desc": "Black Hole -> Three.js -> TSL -> (WebGPU/WebGL)"
+    "createdAt": "2025-11-06T01:54:47Z",
+    "stars": 197,
+    "name": "ShepAlderson/copilot-orchestra",
+    "url": "https://github.com/ShepAlderson/copilot-orchestra",
+    "lang": "",
+    "desc": ""
   },
   {
     "createdAt": "2025-11-02T13:57:13Z",
-    "stars": 189,
+    "stars": 194,
     "name": "ginobefun/deep-reading-analyst-skill",
     "url": "https://github.com/ginobefun/deep-reading-analyst-skill",
     "lang": "Shell",
@@ -169,51 +153,91 @@
   },
   {
     "createdAt": "2025-11-01T00:53:22Z",
-    "stars": 185,
+    "stars": 189,
     "name": "Amal-David/keyleak-detector",
     "url": "https://github.com/Amal-David/keyleak-detector",
     "lang": "Python",
     "desc": "KeyLeak Detector – Scan websites for exposed API keys and secrets"
   },
   {
-    "createdAt": "2025-11-06T08:24:22Z",
-    "stars": 168,
-    "name": "akinloluwami/domains-lookup",
-    "url": "https://github.com/akinloluwami/domains-lookup",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-05T03:29:59Z",
-    "stars": 165,
-    "name": "steipete/mcporter",
-    "url": "https://github.com/steipete/mcporter",
-    "lang": "TypeScript",
-    "desc": "Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli."
-  },
-  {
-    "createdAt": "2025-11-05T00:00:37Z",
-    "stars": 161,
-    "name": "amazon-far/TWIST2",
-    "url": "https://github.com/amazon-far/TWIST2",
-    "lang": "",
-    "desc": "[arXiv 2025] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System"
-  },
-  {
     "createdAt": "2025-11-04T11:20:40Z",
-    "stars": 155,
+    "stars": 174,
     "name": "AgnetLabs/Laddr",
     "url": "https://github.com/AgnetLabs/Laddr",
     "lang": "Python",
     "desc": "Laddr is a python framework for building multi-agent systems where agents communicate, delegate tasks, and execute work in parallel. Think of it as a microservices architecture for AI agents — with built-in message queues, observability, and horizontal scalability."
   },
   {
+    "createdAt": "2025-11-05T00:00:37Z",
+    "stars": 173,
+    "name": "amazon-far/TWIST2",
+    "url": "https://github.com/amazon-far/TWIST2",
+    "lang": "",
+    "desc": "[arXiv 2025] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System"
+  },
+  {
+    "createdAt": "2025-11-06T08:24:22Z",
+    "stars": 172,
+    "name": "akinloluwami/domains-lookup",
+    "url": "https://github.com/akinloluwami/domains-lookup",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-06T15:46:18Z",
+    "stars": 164,
+    "name": "YuvDwi/Steve",
+    "url": "https://github.com/YuvDwi/Steve",
+    "lang": "Java",
+    "desc": "Cursor for Minecraft"
+  },
+  {
+    "createdAt": "2025-11-07T17:00:27Z",
+    "stars": 159,
+    "name": "boku7/venom",
+    "url": "https://github.com/boku7/venom",
+    "lang": "Python",
+    "desc": "Venom C2 is a dependency‑free Python3 Command & Control framework for redteam persistence"
+  },
+  {
+    "createdAt": "2025-11-05T12:54:29Z",
+    "stars": 158,
+    "name": "gamosoft/NoteDiscovery",
+    "url": "https://github.com/gamosoft/NoteDiscovery",
+    "lang": "JavaScript",
+    "desc": "Your Self-Hosted Knowledge Base"
+  },
+  {
     "createdAt": "2025-11-02T04:13:48Z",
-    "stars": 153,
+    "stars": 157,
     "name": "MorDavid/DonPwner",
     "url": "https://github.com/MorDavid/DonPwner",
     "lang": "Python",
     "desc": "Advanced Domain Controller attack and credential analysis tool leveraging DonPAPI database"
+  },
+  {
+    "createdAt": "2025-11-05T07:41:44Z",
+    "stars": 157,
+    "name": "sheepbox8646/ChatTutor",
+    "url": "https://github.com/sheepbox8646/ChatTutor",
+    "lang": "TypeScript",
+    "desc": "👨‍🏫 ChatTutor: Visual and Interactive AI Tutor"
+  },
+  {
+    "createdAt": "2025-11-02T11:14:49Z",
+    "stars": 156,
+    "name": "mitsuhiko/agent-commands",
+    "url": "https://github.com/mitsuhiko/agent-commands",
+    "lang": "JavaScript",
+    "desc": "These are commands I use with agents, mostly Claude"
+  },
+  {
+    "createdAt": "2025-11-07T20:45:21Z",
+    "stars": 150,
+    "name": "wesbos/sticker-dream",
+    "url": "https://github.com/wesbos/sticker-dream",
+    "lang": "TypeScript",
+    "desc": "voice activated sticker dreamer and printer. "
   },
   {
     "createdAt": "2025-11-05T03:51:40Z",
@@ -224,116 +248,92 @@
     "desc": "一个轻量级的跨平台工具，用于压缩 Word (.docx) 文件中的图片，显著减小文档体积。支持 Windows 与 Linux，拥有简洁的图形化界面。"
   },
   {
-    "createdAt": "2025-11-02T11:14:49Z",
-    "stars": 142,
-    "name": "mitsuhiko/agent-commands",
-    "url": "https://github.com/mitsuhiko/agent-commands",
-    "lang": "JavaScript",
-    "desc": "These are commands I use with agents, mostly Claude"
-  },
-  {
-    "createdAt": "2025-11-06T01:54:47Z",
-    "stars": 139,
-    "name": "ShepAlderson/copilot-orchestra",
-    "url": "https://github.com/ShepAlderson/copilot-orchestra",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-01T08:06:47Z",
-    "stars": 133,
-    "name": "supzza/clianpro",
-    "url": "https://github.com/supzza/clianpro",
-    "lang": "",
-    "desc": "超链PRO 开箱即用的网盘下载/解析解决方案 支持直链解析、不限速下载、批量下载、Aria2加速等功能。完全免费，无需登录，一键获取网盘直链，解决下载限速问题。"
+    "createdAt": "2025-11-06T09:09:41Z",
+    "stars": 145,
+    "name": "DavidVivancos/Neuraxon",
+    "url": "https://github.com/DavidVivancos/Neuraxon",
+    "lang": "Python",
+    "desc": "Neuraxon Paper With Code"
   },
   {
     "createdAt": "2025-11-01T19:54:58Z",
-    "stars": 133,
+    "stars": 140,
     "name": "yusufkaraaslan/lazy-bird",
     "url": "https://github.com/yusufkaraaslan/lazy-bird",
     "lang": "Shell",
     "desc": "Universal development automation for ANY project. Claude Code implements features, runs tests, creates PRs autonomously. 15+ framework presets or custom commands.   Issue-driven, secure, scalable. Save 20-100 hrs/month. MIT license."
   },
   {
-    "createdAt": "2025-11-04T21:49:06Z",
-    "stars": 130,
-    "name": "JuliaGomesRoel/Sora-Watermark-Remover",
-    "url": "https://github.com/JuliaGomesRoel/Sora-Watermark-Remover",
+    "createdAt": "2025-11-01T08:06:47Z",
+    "stars": 139,
+    "name": "supzza/clianpro",
+    "url": "https://github.com/supzza/clianpro",
     "lang": "",
-    "desc": "Watermarker Remover - Powered by advanced AI models, it removes text, logos, and demo marks automatically while preserving quality, edges, and natural detail."
+    "desc": "超链PRO 开箱即用的网盘下载/解析解决方案 支持直链解析、不限速下载、批量下载、Aria2加速等功能。完全免费，无需登录，一键获取网盘直链，解决下载限速问题。"
   },
   {
-    "createdAt": "2025-10-31T13:26:31Z",
-    "stars": 126,
-    "name": "Kamyil/work-tuimer",
-    "url": "https://github.com/Kamyil/work-tuimer",
-    "lang": "Rust",
-    "desc": "Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions"
-  },
-  {
-    "createdAt": "2025-11-01T14:24:55Z",
-    "stars": 125,
-    "name": "lu0b0/cloudflare-manager",
-    "url": "https://github.com/lu0b0/cloudflare-manager",
-    "lang": "TypeScript",
-    "desc": "一个强大的Cloudflare多账号Workers批量管理系统，支持账号管理、批量操作、实时监控和Workers脚本管理。"
-  },
-  {
-    "createdAt": "2025-11-06T15:46:18Z",
-    "stars": 122,
-    "name": "YuvDwi/Steve",
-    "url": "https://github.com/YuvDwi/Steve",
-    "lang": "Java",
-    "desc": "Cursor for Minecraft"
-  },
-  {
-    "createdAt": "2025-11-01T15:08:46Z",
-    "stars": 122,
-    "name": "NtDallas/BOF_Spawn",
-    "url": "https://github.com/NtDallas/BOF_Spawn",
-    "lang": "C++",
-    "desc": "Cobalt Strike BOF for beacon/shellcode injection using fork & run technique with Draugr synthetic stack frames"
+    "createdAt": "2025-11-03T03:12:38Z",
+    "stars": 136,
+    "name": "H-EmbodVis/NAUTILUS",
+    "url": "https://github.com/H-EmbodVis/NAUTILUS",
+    "lang": "Python",
+    "desc": "[NeurIPS 2025] NAUTILUS: A Large Multimodal Model for Underwater Scene Understanding"
   },
   {
     "createdAt": "2025-11-01T21:01:52Z",
-    "stars": 121,
+    "stars": 133,
     "name": "toon-format/toon-python",
     "url": "https://github.com/toon-format/toon-python",
     "lang": "Python",
     "desc": "🐍 Community-driven Python implementation of TOON"
   },
   {
+    "createdAt": "2025-11-02T14:09:42Z",
+    "stars": 132,
+    "name": "chi111i/BypassAIGC",
+    "url": "https://github.com/chi111i/BypassAIGC",
+    "lang": "JavaScript",
+    "desc": "论文润色，AIGC 降重工具(gptzero,朱雀 等检测网站)"
+  },
+  {
+    "createdAt": "2025-11-04T21:49:06Z",
+    "stars": 132,
+    "name": "JuliaGomesRoel/Sora-Watermark-Remover",
+    "url": "https://github.com/JuliaGomesRoel/Sora-Watermark-Remover",
+    "lang": "",
+    "desc": "Watermarker Remover - Powered by advanced AI models, it removes text, logos, and demo marks automatically while preserving quality, edges, and natural detail."
+  },
+  {
+    "createdAt": "2025-11-01T14:24:55Z",
+    "stars": 127,
+    "name": "lu0b0/cloudflare-manager",
+    "url": "https://github.com/lu0b0/cloudflare-manager",
+    "lang": "TypeScript",
+    "desc": "一个强大的Cloudflare多账号Workers批量管理系统，支持账号管理、批量操作、实时监控和Workers脚本管理。"
+  },
+  {
+    "createdAt": "2025-11-01T15:08:46Z",
+    "stars": 124,
+    "name": "NtDallas/BOF_Spawn",
+    "url": "https://github.com/NtDallas/BOF_Spawn",
+    "lang": "C++",
+    "desc": "Cobalt Strike BOF for beacon/shellcode injection using fork & run technique with Draugr synthetic stack frames"
+  },
+  {
     "createdAt": "2025-11-01T20:00:57Z",
-    "stars": 119,
+    "stars": 122,
     "name": "MCXGK3/KnightInSilkSong",
     "url": "https://github.com/MCXGK3/KnightInSilkSong",
     "lang": "C#",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-02T14:09:42Z",
-    "stars": 117,
-    "name": "chi111i/BypassAIGC",
-    "url": "https://github.com/chi111i/BypassAIGC",
-    "lang": "JavaScript",
-    "desc": "论文润色，AIGC 降重工具/Paper polishing, AIGC reduction tool"
-  },
-  {
-    "createdAt": "2025-10-31T02:50:38Z",
-    "stars": 116,
-    "name": "agentfront/frontmcp",
-    "url": "https://github.com/agentfront/frontmcp",
-    "lang": "TypeScript",
-    "desc": "FrontMCP Framework"
-  },
-  {
-    "createdAt": "2025-11-03T03:12:38Z",
-    "stars": 113,
-    "name": "H-EmbodVis/NAUTILUS",
-    "url": "https://github.com/H-EmbodVis/NAUTILUS",
+    "createdAt": "2025-11-01T19:47:40Z",
+    "stars": 121,
+    "name": "tritant/ComfyUI_SuperScaler",
+    "url": "https://github.com/tritant/ComfyUI_SuperScaler",
     "lang": "Python",
-    "desc": "[NeurIPS 2025] NAUTILUS: A Large Multimodal Model for Underwater Scene Understanding"
+    "desc": ""
   },
   {
     "createdAt": "2025-11-04T16:57:27Z",
@@ -344,59 +344,59 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-11-02T14:40:17Z",
-    "stars": 104,
-    "name": "7hePr0fess0r/ADCSDevilCOM",
-    "url": "https://github.com/7hePr0fess0r/ADCSDevilCOM",
-    "lang": "C#",
-    "desc": "A C# tool for requesting certificates from ADCS using DCOM over SMB. This tool allows you to remotely request X.509 certificates from CA server using the MS-WCCE protocol over DCOM and It bypasses the traditional endpoint mapper requirement by using SMB directly."
-  },
-  {
     "createdAt": "2025-11-03T16:45:48Z",
-    "stars": 101,
+    "stars": 109,
     "name": "uint23/xpet",
     "url": "https://github.com/uint23/xpet",
     "lang": "C",
     "desc": "a suckless, x11 (and wayland) on screen pet"
   },
   {
-    "createdAt": "2025-11-06T20:08:59Z",
-    "stars": 100,
-    "name": "SolanaUpdateTools/solana-starter-kit",
-    "url": "https://github.com/SolanaUpdateTools/solana-starter-kit",
-    "lang": "",
-    "desc": "Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI."
+    "createdAt": "2025-11-02T14:40:17Z",
+    "stars": 108,
+    "name": "7hePr0fess0r/ADCSDevilCOM",
+    "url": "https://github.com/7hePr0fess0r/ADCSDevilCOM",
+    "lang": "C#",
+    "desc": "A C# tool for requesting certificates from ADCS using DCOM over SMB. This tool allows you to remotely request X.509 certificates from CA server using the MS-WCCE protocol over DCOM and It bypasses the traditional endpoint mapper requirement by using SMB directly."
   },
   {
-    "createdAt": "2025-11-01T19:47:40Z",
-    "stars": 99,
-    "name": "tritant/ComfyUI_SuperScaler",
-    "url": "https://github.com/tritant/ComfyUI_SuperScaler",
-    "lang": "Python",
-    "desc": ""
+    "createdAt": "2025-11-06T08:56:50Z",
+    "stars": 107,
+    "name": "tongjingqi/Thinking-with-Video",
+    "url": "https://github.com/tongjingqi/Thinking-with-Video",
+    "lang": "",
+    "desc": "Moving beyond the traditional paradigms of “Thinking with Text” (e.g., Chain-of-Thought) and “Thinking with Images”, we propose “Thinking with Video”. It naturally enables human-like dynamic reasoning through video generation, such as drawing and imagination."
   },
   {
     "createdAt": "2025-11-03T14:49:47Z",
-    "stars": 97,
+    "stars": 104,
     "name": "SalmonDXH/Anime_Vanguard-Macro-2",
     "url": "https://github.com/SalmonDXH/Anime_Vanguard-Macro-2",
     "lang": "AutoHotkey",
     "desc": ""
   },
   {
-    "createdAt": "2025-10-31T00:42:55Z",
-    "stars": 95,
-    "name": "TierZeroSecurity/teams-cookies-bof",
-    "url": "https://github.com/TierZeroSecurity/teams-cookies-bof",
-    "lang": "C",
-    "desc": "BOF to steal Teams cookies"
+    "createdAt": "2025-11-05T00:12:16Z",
+    "stars": 102,
+    "name": "getmydia/mydia",
+    "url": "https://github.com/getmydia/mydia",
+    "lang": "Elixir",
+    "desc": "Your personal media companion, built with Phoenix LiveView"
   },
   {
-    "createdAt": "2025-11-06T08:56:50Z",
-    "stars": 94,
-    "name": "tongjingqi/Thinking-with-Video",
-    "url": "https://github.com/tongjingqi/Thinking-with-Video",
-    "lang": "",
-    "desc": "Moving beyond the traditional paradigms of “Thinking with Text” (e.g., Chain-of-Thought) and “Thinking with Images”, we propose “Thinking with Video”. It naturally enables human-like dynamic reasoning through video generation, such as drawing and imagination."
+    "createdAt": "2025-11-03T09:59:12Z",
+    "stars": 101,
+    "name": "KartikLabhshetwar/stage",
+    "url": "https://github.com/KartikLabhshetwar/stage",
+    "lang": "TypeScript",
+    "desc": "Create stunning visual designs with Stage A modern canvas editor that brings your ideas to life. Add images, text, backgrounds, and export your creations in high quality. Built for designers and creators."
+  },
+  {
+    "createdAt": "2025-11-06T23:22:47Z",
+    "stars": 98,
+    "name": "hadley/genzplyr",
+    "url": "https://github.com/hadley/genzplyr",
+    "lang": "R",
+    "desc": "dplyr but make it bussin fr fr no cap"
   }
 ]
