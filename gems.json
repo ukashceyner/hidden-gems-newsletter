@@ -1,47 +1,47 @@
 [
   {
     "createdAt": "2025-11-06T17:33:28Z",
-    "stars": 6705,
+    "stars": 7768,
     "name": "Snapchat/Valdi",
     "url": "https://github.com/Snapchat/Valdi",
     "lang": "C++",
     "desc": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity."
   },
   {
-    "createdAt": "2025-11-04T10:38:17Z",
-    "stars": 1180,
-    "name": "Snowflake-Labs/pg_lake",
-    "url": "https://github.com/Snowflake-Labs/pg_lake",
-    "lang": "C",
-    "desc": "pg_lake: Postgres with Iceberg and data lake access"
-  },
-  {
     "createdAt": "2025-11-06T22:38:00Z",
-    "stars": 1012,
+    "stars": 1513,
     "name": "facebookresearch/omnilingual-asr",
     "url": "https://github.com/facebookresearch/omnilingual-asr",
     "lang": "Python",
     "desc": "Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages"
   },
   {
-    "createdAt": "2025-11-05T10:17:20Z",
-    "stars": 795,
-    "name": "openpcc/openpcc",
-    "url": "https://github.com/openpcc/openpcc",
-    "lang": "Go",
-    "desc": "An open-source framework for verifiably private AI inference"
-  },
-  {
     "createdAt": "2025-11-06T11:43:07Z",
-    "stars": 769,
+    "stars": 882,
     "name": "eooce/Auto-login-netlib",
     "url": "https://github.com/eooce/Auto-login-netlib",
     "lang": "JavaScript",
     "desc": "自动登录netlib.re网站保活域名"
   },
   {
+    "createdAt": "2025-11-11T12:00:02Z",
+    "stars": 856,
+    "name": "cryptocj520/crypto-trading-open",
+    "url": "https://github.com/cryptocj520/crypto-trading-open",
+    "lang": "Python",
+    "desc": "crypto-trading-open"
+  },
+  {
+    "createdAt": "2025-11-05T10:17:20Z",
+    "stars": 810,
+    "name": "openpcc/openpcc",
+    "url": "https://github.com/openpcc/openpcc",
+    "lang": "Go",
+    "desc": "An open-source framework for verifiably private AI inference"
+  },
+  {
     "createdAt": "2025-11-06T15:46:18Z",
-    "stars": 515,
+    "stars": 656,
     "name": "YuvDwi/Steve",
     "url": "https://github.com/YuvDwi/Steve",
     "lang": "Java",
@@ -49,7 +49,7 @@
   },
   {
     "createdAt": "2025-11-10T00:16:19Z",
-    "stars": 505,
+    "stars": 593,
     "name": "f/git-rewrite-commits",
     "url": "https://github.com/f/git-rewrite-commits",
     "lang": "TypeScript",
@@ -57,7 +57,7 @@
   },
   {
     "createdAt": "2025-11-05T12:54:29Z",
-    "stars": 504,
+    "stars": 564,
     "name": "gamosoft/NoteDiscovery",
     "url": "https://github.com/gamosoft/NoteDiscovery",
     "lang": "JavaScript",
@@ -65,7 +65,7 @@
   },
   {
     "createdAt": "2025-11-06T20:08:59Z",
-    "stars": 495,
+    "stars": 486,
     "name": "SolanaUpdateTools/solana-starter-kit",
     "url": "https://github.com/SolanaUpdateTools/solana-starter-kit",
     "lang": "",
@@ -73,7 +73,7 @@
   },
   {
     "createdAt": "2025-11-05T07:41:44Z",
-    "stars": 431,
+    "stars": 464,
     "name": "sheepbox8646/ChatTutor",
     "url": "https://github.com/sheepbox8646/ChatTutor",
     "lang": "TypeScript",
@@ -81,63 +81,63 @@
   },
   {
     "createdAt": "2025-11-09T18:14:31Z",
-    "stars": 431,
+    "stars": 447,
     "name": "crowmd/2K-N8NWORKFLOWS",
     "url": "https://github.com/crowmd/2K-N8NWORKFLOWS",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-08T18:16:13Z",
-    "stars": 384,
-    "name": "Doriandarko/kimi-writer",
-    "url": "https://github.com/Doriandarko/kimi-writer",
-    "lang": "Python",
-    "desc": "AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning"
-  },
-  {
-    "createdAt": "2025-11-11T12:00:02Z",
-    "stars": 382,
-    "name": "cryptocj520/crypto-trading-open",
-    "url": "https://github.com/cryptocj520/crypto-trading-open",
-    "lang": "Python",
-    "desc": "crypto-trading-open"
-  },
-  {
-    "createdAt": "2025-11-07T20:45:21Z",
-    "stars": 367,
-    "name": "wesbos/sticker-dream",
-    "url": "https://github.com/wesbos/sticker-dream",
-    "lang": "TypeScript",
-    "desc": "voice activated sticker dreamer and printer. "
-  },
-  {
     "createdAt": "2025-11-06T10:13:39Z",
-    "stars": 353,
+    "stars": 435,
     "name": "qy527145/acemcp",
     "url": "https://github.com/qy527145/acemcp",
     "lang": "Python",
     "desc": "一个将ACE(Augment Context Engine) 做成MCP的项目"
   },
   {
+    "createdAt": "2025-11-08T18:16:13Z",
+    "stars": 419,
+    "name": "Doriandarko/kimi-writer",
+    "url": "https://github.com/Doriandarko/kimi-writer",
+    "lang": "Python",
+    "desc": "AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning"
+  },
+  {
     "createdAt": "2025-11-06T14:56:40Z",
-    "stars": 353,
+    "stars": 403,
     "name": "BnanZ0/ok-duet-night-abyss",
     "url": "https://github.com/BnanZ0/ok-duet-night-abyss",
     "lang": "Python",
     "desc": "二重螺旋 后台副本挂机 Automation for Duet Night Abyss"
   },
   {
-    "createdAt": "2025-11-05T19:28:56Z",
-    "stars": 293,
-    "name": "ADA-Markets/midnight_fetcher_bot_public",
-    "url": "https://github.com/ADA-Markets/midnight_fetcher_bot_public",
+    "createdAt": "2025-11-07T20:45:21Z",
+    "stars": 379,
+    "name": "wesbos/sticker-dream",
+    "url": "https://github.com/wesbos/sticker-dream",
     "lang": "TypeScript",
-    "desc": ""
+    "desc": "voice activated sticker dreamer and printer. "
+  },
+  {
+    "createdAt": "2025-11-05T02:56:20Z",
+    "stars": 353,
+    "name": "davialabs/davia",
+    "url": "https://github.com/davialabs/davia",
+    "lang": "TypeScript",
+    "desc": "Documentation that writes itself"
+  },
+  {
+    "createdAt": "2025-11-08T10:17:52Z",
+    "stars": 312,
+    "name": "daodao97/code-switch",
+    "url": "https://github.com/daodao97/code-switch",
+    "lang": "Vue",
+    "desc": "Claude Code & Codex 多供应商代理与管理工具"
   },
   {
     "createdAt": "2025-11-07T17:00:27Z",
-    "stars": 291,
+    "stars": 304,
     "name": "boku7/venom",
     "url": "https://github.com/boku7/venom",
     "lang": "Python",
@@ -145,179 +145,187 @@
   },
   {
     "createdAt": "2025-11-05T03:29:59Z",
-    "stars": 286,
+    "stars": 303,
     "name": "steipete/mcporter",
     "url": "https://github.com/steipete/mcporter",
     "lang": "TypeScript",
     "desc": "Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli."
   },
   {
-    "createdAt": "2025-11-04T04:06:52Z",
-    "stars": 262,
-    "name": "Infatoshi/all-of-it",
-    "url": "https://github.com/Infatoshi/all-of-it",
-    "lang": "Jupyter Notebook",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-05T02:56:20Z",
-    "stars": 257,
-    "name": "davialabs/davia",
-    "url": "https://github.com/davialabs/davia",
+    "createdAt": "2025-11-05T19:28:56Z",
+    "stars": 295,
+    "name": "ADA-Markets/midnight_fetcher_bot_public",
+    "url": "https://github.com/ADA-Markets/midnight_fetcher_bot_public",
     "lang": "TypeScript",
-    "desc": "Documentation that writes itself"
-  },
-  {
-    "createdAt": "2025-11-04T11:20:40Z",
-    "stars": 237,
-    "name": "AgnetLabs/Laddr",
-    "url": "https://github.com/AgnetLabs/Laddr",
-    "lang": "Python",
-    "desc": "Laddr is a python framework for building multi-agent systems where agents communicate, delegate tasks, and execute work in parallel. Think of it as a microservices architecture for AI agents — with built-in message queues, observability, and horizontal scalability."
-  },
-  {
-    "createdAt": "2025-11-06T01:54:47Z",
-    "stars": 235,
-    "name": "ShepAlderson/copilot-orchestra",
-    "url": "https://github.com/ShepAlderson/copilot-orchestra",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-08T10:17:52Z",
-    "stars": 231,
-    "name": "daodao97/code-switch",
-    "url": "https://github.com/daodao97/code-switch",
-    "lang": "Vue",
-    "desc": "Claude Code & Codex 多供应商代理与管理工具"
-  },
-  {
-    "createdAt": "2025-11-10T09:21:03Z",
-    "stars": 230,
-    "name": "Meph1s-t/Startrail-Gal",
-    "url": "https://github.com/Meph1s-t/Startrail-Gal",
-    "lang": "Ren'Py",
     "desc": ""
   },
   {
     "createdAt": "2025-11-06T02:53:15Z",
-    "stars": 212,
+    "stars": 255,
     "name": "YuzeHao2023/Awesome-MCP-Servers",
     "url": "https://github.com/YuzeHao2023/Awesome-MCP-Servers",
     "lang": "",
     "desc": "A curated list of Model Context Protocol (MCP) servers MCP资源及服务列表"
   },
   {
-    "createdAt": "2025-11-08T07:27:02Z",
-    "stars": 208,
-    "name": "xhyata/crypto-tax-calculator",
-    "url": "https://github.com/xhyata/crypto-tax-calculator",
-    "lang": "Python",
-    "desc": "An advanced cryptocurrency & personal income tax calculator."
-  },
-  {
-    "createdAt": "2025-11-05T00:00:37Z",
-    "stars": 207,
-    "name": "amazon-far/TWIST2",
-    "url": "https://github.com/amazon-far/TWIST2",
-    "lang": "",
-    "desc": "[arXiv 2025] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System"
-  },
-  {
-    "createdAt": "2025-11-06T08:24:22Z",
-    "stars": 195,
-    "name": "akinloluwami/domains-lookup",
-    "url": "https://github.com/akinloluwami/domains-lookup",
-    "lang": "JavaScript",
+    "createdAt": "2025-11-10T09:21:03Z",
+    "stars": 251,
+    "name": "Meph1s-t/Startrail-Gal",
+    "url": "https://github.com/Meph1s-t/Startrail-Gal",
+    "lang": "Ren'Py",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-05T10:38:14Z",
-    "stars": 190,
-    "name": "team-codebug/babua-dsa-patterns-course",
-    "url": "https://github.com/team-codebug/babua-dsa-patterns-course",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-04T07:35:19Z",
-    "stars": 187,
-    "name": "MapleShaw/auto-claude-writing-agent-pub",
-    "url": "https://github.com/MapleShaw/auto-claude-writing-agent-pub",
+    "createdAt": "2025-11-06T01:54:47Z",
+    "stars": 244,
+    "name": "ShepAlderson/copilot-orchestra",
+    "url": "https://github.com/ShepAlderson/copilot-orchestra",
     "lang": "",
     "desc": ""
   },
   {
     "createdAt": "2025-11-05T16:46:30Z",
-    "stars": 185,
+    "stars": 222,
     "name": "GuDaStudio/codexmcp",
     "url": "https://github.com/GuDaStudio/codexmcp",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-07T02:26:16Z",
-    "stars": 179,
-    "name": "fastgs/FastGS",
-    "url": "https://github.com/fastgs/FastGS",
-    "lang": "",
-    "desc": "Offical code for \"FastGS: Training 3D Gaussian Splatting in 100 Seconds\""
-  },
-  {
-    "createdAt": "2025-11-06T08:56:50Z",
-    "stars": 166,
-    "name": "tongjingqi/Thinking-with-Video",
-    "url": "https://github.com/tongjingqi/Thinking-with-Video",
-    "lang": "",
-    "desc": "We introduce 'Thinking with Video', a new paradigm leveraging video generation for multimodal reasoning. Our VideoThinkBench shows that Sora-2 surpasses GPT5 by 10% on eyeballing puzzles and reaches 69% accuracy on MMMU."
-  },
-  {
     "createdAt": "2025-11-09T03:31:19Z",
-    "stars": 163,
+    "stars": 210,
     "name": "princepainter/ComfyUI-PainterI2V",
     "url": "https://github.com/princepainter/ComfyUI-PainterI2V",
     "lang": "Python",
     "desc": "An enhanced Wan2.2 Image-to-Video node specifically designed to fix the slow-motion issue in 4-step LoRAs (like lightx2v)."
   },
   {
-    "createdAt": "2025-11-06T09:09:41Z",
-    "stars": 162,
-    "name": "DavidVivancos/Neuraxon",
-    "url": "https://github.com/DavidVivancos/Neuraxon",
-    "lang": "Python",
-    "desc": "Neuraxon Paper With Code"
+    "createdAt": "2025-11-05T00:00:37Z",
+    "stars": 210,
+    "name": "amazon-far/TWIST2",
+    "url": "https://github.com/amazon-far/TWIST2",
+    "lang": "",
+    "desc": "[arXiv 2025] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System"
+  },
+  {
+    "createdAt": "2025-11-05T10:38:14Z",
+    "stars": 204,
+    "name": "team-codebug/babua-dsa-patterns-course",
+    "url": "https://github.com/team-codebug/babua-dsa-patterns-course",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-07T02:26:16Z",
+    "stars": 199,
+    "name": "fastgs/FastGS",
+    "url": "https://github.com/fastgs/FastGS",
+    "lang": "",
+    "desc": "Offical code for \"FastGS: Training 3D Gaussian Splatting in 100 Seconds\""
+  },
+  {
+    "createdAt": "2025-11-06T08:24:22Z",
+    "stars": 196,
+    "name": "akinloluwami/domains-lookup",
+    "url": "https://github.com/akinloluwami/domains-lookup",
+    "lang": "JavaScript",
+    "desc": ""
   },
   {
     "createdAt": "2025-11-05T13:33:26Z",
-    "stars": 159,
+    "stars": 176,
     "name": "nuskey8/UnityAgentClient",
     "url": "https://github.com/nuskey8/UnityAgentClient",
     "lang": "C#",
     "desc": "Provides integration of any AI agent (Gemini CLI, Claude Code, Codex CLI, etc.) with the Unity editor using Agent Client Protocol"
   },
   {
-    "createdAt": "2025-11-07T06:34:27Z",
-    "stars": 155,
-    "name": "AIDC-AI/Pixelle-Video",
-    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "createdAt": "2025-11-06T08:56:50Z",
+    "stars": 169,
+    "name": "tongjingqi/Thinking-with-Video",
+    "url": "https://github.com/tongjingqi/Thinking-with-Video",
+    "lang": "",
+    "desc": "We introduce 'Thinking with Video', a new paradigm leveraging video generation for multimodal reasoning. Our VideoThinkBench shows that Sora-2 surpasses GPT5 by 10% on eyeballing puzzles and reaches 69% accuracy on MMMU."
+  },
+  {
+    "createdAt": "2025-11-06T09:09:41Z",
+    "stars": 164,
+    "name": "DavidVivancos/Neuraxon",
+    "url": "https://github.com/DavidVivancos/Neuraxon",
     "lang": "Python",
-    "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    "desc": "Neuraxon Paper With Code"
   },
   {
     "createdAt": "2025-11-05T00:12:16Z",
-    "stars": 154,
+    "stars": 163,
     "name": "getmydia/mydia",
     "url": "https://github.com/getmydia/mydia",
     "lang": "Elixir",
     "desc": "Your personal media companion, built with Phoenix LiveView"
   },
   {
-    "createdAt": "2025-11-04T16:57:27Z",
+    "createdAt": "2025-11-07T22:46:00Z",
+    "stars": 162,
+    "name": "DucPhamNgoc08/CodeVisualizer",
+    "url": "https://github.com/DucPhamNgoc08/CodeVisualizer",
+    "lang": "TypeScript",
+    "desc": "CodeVisualizer is a powerful VS Code extension that provides two main visualization capabilities: function-level flowcharts for understanding code control flow, and codebase-level dependency graphs for analyzing project structure and module relationships."
+  },
+  {
+    "createdAt": "2025-11-07T06:34:27Z",
+    "stars": 161,
+    "name": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "lang": "Python",
+    "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+  },
+  {
+    "createdAt": "2025-11-09T07:38:14Z",
+    "stars": 156,
+    "name": "rit3zh/expo-apple-maps-sheet",
+    "url": "https://github.com/rit3zh/expo-apple-maps-sheet",
+    "lang": "TypeScript",
+    "desc": "🗺️ Apple Maps–style bottom sheet for React Native"
+  },
+  {
+    "createdAt": "2025-11-08T15:24:47Z",
+    "stars": 154,
+    "name": "wfnuser/OpenNof1",
+    "url": "https://github.com/wfnuser/OpenNof1",
+    "lang": "Python",
+    "desc": "Your custom 24/7 AI trading agent. Inspired by nof1.ai"
+  },
+  {
+    "createdAt": "2025-11-06T06:59:21Z",
+    "stars": 153,
+    "name": "adysec/rusub",
+    "url": "https://github.com/adysec/rusub",
+    "lang": "Rust",
+    "desc": "rusub 是一款高速、智能的跨平台子域枚举工具，支持启发式扫描、内置 10 万+ 词表、异步高并发、多格式输出及自动断点续传。"
+  },
+  {
+    "createdAt": "2025-11-10T08:26:49Z",
     "stars": 152,
-    "name": "drsaikrishnathota/drones-privacy-ledger",
-    "url": "https://github.com/drsaikrishnathota/drones-privacy-ledger",
-    "lang": "Java",
+    "name": "lvzhaobo/qoder-rules",
+    "url": "https://github.com/lvzhaobo/qoder-rules",
+    "lang": "Python",
     "desc": ""
+  },
+  {
+    "createdAt": "2025-11-08T23:06:49Z",
+    "stars": 151,
+    "name": "mbruhler/claude-orchestration",
+    "url": "https://github.com/mbruhler/claude-orchestration",
+    "lang": "",
+    "desc": "Multi-agent workflow orchestration plugin for Claude Code"
+  },
+  {
+    "createdAt": "2025-11-08T10:18:32Z",
+    "stars": 147,
+    "name": "ynsmroztas/InspectJS",
+    "url": "https://github.com/ynsmroztas/InspectJS",
+    "lang": "Python",
+    "desc": "Advanced JavaScript File Discovery and Analysis Tool"
   },
   {
     "createdAt": "2025-11-05T03:51:40Z",
@@ -328,75 +336,67 @@
     "desc": "一个轻量级的跨平台工具，用于压缩 Word (.docx) 文件中的图片，显著减小文档体积。支持 Windows 与 Linux，拥有简洁的图形化界面。"
   },
   {
-    "createdAt": "2025-11-04T01:40:47Z",
-    "stars": 146,
-    "name": "alibaba/SmartResume",
-    "url": "https://github.com/alibaba/SmartResume",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-09T07:38:14Z",
-    "stars": 146,
-    "name": "rit3zh/expo-apple-maps-sheet",
-    "url": "https://github.com/rit3zh/expo-apple-maps-sheet",
-    "lang": "TypeScript",
-    "desc": "🗺️ Apple Maps–style bottom sheet for React Native"
-  },
-  {
-    "createdAt": "2025-11-06T06:59:21Z",
-    "stars": 145,
-    "name": "adysec/rusub",
-    "url": "https://github.com/adysec/rusub",
+    "createdAt": "2025-11-06T12:51:31Z",
+    "stars": 144,
+    "name": "bgreenwell/xleak",
+    "url": "https://github.com/bgreenwell/xleak",
     "lang": "Rust",
-    "desc": "rusub 是一款高速、智能的跨平台子域枚举工具，支持启发式扫描、内置 10 万+ 词表、异步高并发、多格式输出及自动断点续传。"
-  },
-  {
-    "createdAt": "2025-11-08T10:18:32Z",
-    "stars": 143,
-    "name": "ynsmroztas/InspectJS",
-    "url": "https://github.com/ynsmroztas/InspectJS",
-    "lang": "Python",
-    "desc": "Advanced JavaScript File Discovery and Analysis Tool"
+    "desc": "A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui."
   },
   {
     "createdAt": "2025-11-05T17:30:02Z",
-    "stars": 140,
+    "stars": 141,
     "name": "pkulium/DeepOCR",
     "url": "https://github.com/pkulium/DeepOCR",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-04T17:35:34Z",
-    "stars": 139,
-    "name": "perplexityai/pplx-garden",
-    "url": "https://github.com/perplexityai/pplx-garden",
+    "createdAt": "2025-11-12T07:19:10Z",
+    "stars": 138,
+    "name": "JakobLiljenberg/JakobLiljenberg",
+    "url": "https://github.com/JakobLiljenberg/JakobLiljenberg",
     "lang": "Rust",
-    "desc": "Perplexity open source garden for inference technology"
+    "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer."
   },
   {
-    "createdAt": "2025-11-08T02:55:55Z",
-    "stars": 130,
-    "name": "steipete/agent-scripts",
-    "url": "https://github.com/steipete/agent-scripts",
-    "lang": "TypeScript",
-    "desc": "Scripts for agents, shared between my repositories."
+    "createdAt": "2025-11-08T09:07:43Z",
+    "stars": 138,
+    "name": "gisketch/triforce.nvim",
+    "url": "https://github.com/gisketch/triforce.nvim",
+    "lang": "Lua",
+    "desc": "Triforce is a Neovim plugin with beautiful UI that adds a bit of RPG flavor to your coding — XP, levels, and achievements while you work."
   },
   {
     "createdAt": "2025-11-06T23:22:47Z",
-    "stars": 130,
+    "stars": 136,
     "name": "hadley/genzplyr",
     "url": "https://github.com/hadley/genzplyr",
     "lang": "R",
     "desc": "dplyr but make it bussin fr fr no cap"
   },
   {
-    "createdAt": "2025-11-08T09:07:43Z",
-    "stars": 128,
-    "name": "gisketch/triforce.nvim",
-    "url": "https://github.com/gisketch/triforce.nvim",
-    "lang": "Lua",
-    "desc": "Triforce is a Neovim plugin with beautiful UI that adds a bit of RPG flavor to your coding — XP, levels, and achievements while you work."
+    "createdAt": "2025-11-07T22:32:29Z",
+    "stars": 132,
+    "name": "alrpal/TinyETL",
+    "url": "https://github.com/alrpal/TinyETL",
+    "lang": "Rust",
+    "desc": "Fast, zero-config ETL in a single binary"
+  },
+  {
+    "createdAt": "2025-11-08T02:55:55Z",
+    "stars": 131,
+    "name": "steipete/agent-scripts",
+    "url": "https://github.com/steipete/agent-scripts",
+    "lang": "TypeScript",
+    "desc": "Scripts for agents, shared between my repositories."
+  },
+  {
+    "createdAt": "2025-11-11T00:41:59Z",
+    "stars": 130,
+    "name": "benx421/backend-engineer-path",
+    "url": "https://github.com/benx421/backend-engineer-path",
+    "lang": "",
+    "desc": "Build systems handling concurrency, distributed transactions, and high-throughput ingestion. Learn by doing, not watching tutorials."
   }
 ]
