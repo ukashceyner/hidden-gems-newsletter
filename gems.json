@@ -1,71 +1,39 @@
 [
   {
-    "createdAt": "2025-11-06T17:33:28Z",
-    "stars": 8429,
-    "name": "Snapchat/Valdi",
-    "url": "https://github.com/Snapchat/Valdi",
-    "lang": "C++",
-    "desc": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity."
-  },
-  {
-    "createdAt": "2025-11-06T22:38:00Z",
-    "stars": 1704,
-    "name": "facebookresearch/omnilingual-asr",
-    "url": "https://github.com/facebookresearch/omnilingual-asr",
-    "lang": "Python",
-    "desc": "Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages"
-  },
-  {
     "createdAt": "2025-11-11T12:00:02Z",
-    "stars": 998,
+    "stars": 1092,
     "name": "cryptocj520/crypto-trading-open",
     "url": "https://github.com/cryptocj520/crypto-trading-open",
     "lang": "Python",
     "desc": "crypto-trading-open"
   },
   {
-    "createdAt": "2025-11-06T11:43:07Z",
-    "stars": 951,
-    "name": "eooce/Auto-login-netlib",
-    "url": "https://github.com/eooce/Auto-login-netlib",
-    "lang": "JavaScript",
-    "desc": "自动登录netlib.re网站保活域名"
-  },
-  {
-    "createdAt": "2025-11-06T15:46:18Z",
-    "stars": 698,
-    "name": "YuvDwi/Steve",
-    "url": "https://github.com/YuvDwi/Steve",
-    "lang": "Java",
-    "desc": "Cursor for Minecraft"
-  },
-  {
     "createdAt": "2025-11-10T00:16:19Z",
-    "stars": 681,
+    "stars": 709,
     "name": "f/git-rewrite-commits",
     "url": "https://github.com/f/git-rewrite-commits",
     "lang": "TypeScript",
     "desc": "AI-powered git commit message rewriter using GPT"
   },
   {
-    "createdAt": "2025-11-06T20:08:59Z",
-    "stars": 480,
-    "name": "SolanaUpdateTools/solana-starter-kit",
-    "url": "https://github.com/SolanaUpdateTools/solana-starter-kit",
-    "lang": "",
-    "desc": "Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI."
+    "createdAt": "2025-11-12T08:44:03Z",
+    "stars": 527,
+    "name": "ByteDance-Seed/Depth-Anything-3",
+    "url": "https://github.com/ByteDance-Seed/Depth-Anything-3",
+    "lang": "Jupyter Notebook",
+    "desc": "Depth Anything 3"
   },
   {
-    "createdAt": "2025-11-06T10:13:39Z",
-    "stars": 471,
-    "name": "qy527145/acemcp",
-    "url": "https://github.com/qy527145/acemcp",
+    "createdAt": "2025-11-07T15:52:20Z",
+    "stars": 481,
+    "name": "hopx-ai/hopx",
+    "url": "https://github.com/hopx-ai/hopx",
     "lang": "Python",
-    "desc": "一个将ACE(Augment Context Engine) 做成MCP的项目"
+    "desc": "The Cloud for AI Agents — secure, real-world environments that spin up in milliseconds."
   },
   {
     "createdAt": "2025-11-09T18:14:31Z",
-    "stars": 450,
+    "stars": 456,
     "name": "crowmd/2K-N8NWORKFLOWS",
     "url": "https://github.com/crowmd/2K-N8NWORKFLOWS",
     "lang": "",
@@ -73,23 +41,15 @@
   },
   {
     "createdAt": "2025-11-08T18:16:13Z",
-    "stars": 433,
+    "stars": 445,
     "name": "Doriandarko/kimi-writer",
     "url": "https://github.com/Doriandarko/kimi-writer",
     "lang": "Python",
     "desc": "AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning"
   },
   {
-    "createdAt": "2025-11-06T14:56:40Z",
-    "stars": 424,
-    "name": "BnanZ0/ok-duet-night-abyss",
-    "url": "https://github.com/BnanZ0/ok-duet-night-abyss",
-    "lang": "Python",
-    "desc": "二重螺旋 后台副本挂机 Automation for Duet Night Abyss"
-  },
-  {
     "createdAt": "2025-11-07T20:45:21Z",
-    "stars": 415,
+    "stars": 421,
     "name": "wesbos/sticker-dream",
     "url": "https://github.com/wesbos/sticker-dream",
     "lang": "TypeScript",
@@ -97,107 +57,147 @@
   },
   {
     "createdAt": "2025-11-08T10:17:52Z",
-    "stars": 367,
+    "stars": 389,
     "name": "daodao97/code-switch",
     "url": "https://github.com/daodao97/code-switch",
-    "lang": "Vue",
+    "lang": "Go",
     "desc": "Claude Code & Codex 多供应商代理与管理工具"
   },
   {
-    "createdAt": "2025-11-07T17:00:27Z",
-    "stars": 322,
-    "name": "boku7/venom",
-    "url": "https://github.com/boku7/venom",
-    "lang": "Python",
-    "desc": "Venom C2 is a dependency‑free Python3 Command & Control framework for redteam persistence"
-  },
-  {
-    "createdAt": "2025-11-06T02:53:15Z",
-    "stars": 315,
-    "name": "YuzeHao2023/Awesome-MCP-Servers",
-    "url": "https://github.com/YuzeHao2023/Awesome-MCP-Servers",
-    "lang": "",
-    "desc": "A curated list of Model Context Protocol (MCP) servers MCP资源及服务列表"
-  },
-  {
-    "createdAt": "2025-11-06T12:51:31Z",
-    "stars": 292,
-    "name": "bgreenwell/xleak",
-    "url": "https://github.com/bgreenwell/xleak",
-    "lang": "Rust",
-    "desc": "A fast terminal Excel viewer with an interactive TUI. Features full-text search, formula display, lazy loading for large files, clipboard support, and export to CSV/JSON. Built with Rust and ratatui."
-  },
-  {
     "createdAt": "2025-11-11T14:29:00Z",
-    "stars": 257,
+    "stars": 346,
     "name": "rbalestr-lab/lejepa",
     "url": "https://github.com/rbalestr-lab/lejepa",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-10T09:21:03Z",
-    "stars": 256,
-    "name": "Meph1s-t/Startrail-Gal",
-    "url": "https://github.com/Meph1s-t/Startrail-Gal",
-    "lang": "Ren'Py",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-06T01:54:47Z",
-    "stars": 254,
-    "name": "ShepAlderson/copilot-orchestra",
-    "url": "https://github.com/ShepAlderson/copilot-orchestra",
-    "lang": "",
-    "desc": ""
+    "createdAt": "2025-11-07T17:00:27Z",
+    "stars": 332,
+    "name": "boku7/venom",
+    "url": "https://github.com/boku7/venom",
+    "lang": "Python",
+    "desc": "Venom C2 is a dependency‑free Python3 Command & Control framework for redteam persistence"
   },
   {
     "createdAt": "2025-11-09T03:31:19Z",
-    "stars": 249,
+    "stars": 270,
     "name": "princepainter/ComfyUI-PainterI2V",
     "url": "https://github.com/princepainter/ComfyUI-PainterI2V",
     "lang": "Python",
     "desc": "An enhanced Wan2.2 Image-to-Video node specifically designed to fix the slow-motion issue in 4-step LoRAs (like lightx2v)."
   },
   {
+    "createdAt": "2025-11-10T17:13:18Z",
+    "stars": 264,
+    "name": "hopx-ai/mcp",
+    "url": "https://github.com/hopx-ai/mcp",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-10T09:21:03Z",
+    "stars": 258,
+    "name": "Meph1s-t/Startrail-Gal",
+    "url": "https://github.com/Meph1s-t/Startrail-Gal",
+    "lang": "Ren'Py",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-11-07T02:26:16Z",
-    "stars": 220,
+    "stars": 239,
     "name": "fastgs/FastGS",
     "url": "https://github.com/fastgs/FastGS",
     "lang": "",
     "desc": "Offical code for \"FastGS: Training 3D Gaussian Splatting in 100 Seconds\""
   },
   {
-    "createdAt": "2025-11-06T08:24:22Z",
-    "stars": 196,
-    "name": "akinloluwami/domains-lookup",
-    "url": "https://github.com/akinloluwami/domains-lookup",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-11-07T22:46:00Z",
-    "stars": 187,
+    "stars": 220,
     "name": "DucPhamNgoc08/CodeVisualizer",
     "url": "https://github.com/DucPhamNgoc08/CodeVisualizer",
     "lang": "TypeScript",
     "desc": "CodeVisualizer is a powerful VS Code extension that provides two main visualization capabilities: function-level flowcharts for understanding code control flow, and codebase-level dependency graphs for analyzing project structure and module relationships."
   },
   {
-    "createdAt": "2025-11-11T23:41:31Z",
-    "stars": 182,
-    "name": "stokemrnegotive/Discord-Nitro-Generator",
-    "url": "https://github.com/stokemrnegotive/Discord-Nitro-Generator",
+    "createdAt": "2025-11-11T23:39:42Z",
+    "stars": 220,
+    "name": "obstraction9851/ethereum-vanity-address-generator",
+    "url": "https://github.com/obstraction9851/ethereum-vanity-address-generator",
     "lang": "Python",
-    "desc": "🔥 discord nitro generator 🔥 nitro generator & checker ⭐ gens discord nitro codes and checks - discord nitro generator nitro gen bruteforce discord nitro checker discord nitro bruteforcer discord nitro checker discord nitro gen discord nitro generator nitro gen bruteforce discord nitro checker discord nitro bruteforcer ffs"
+    "desc": "ethereum vanity address generator 🔥 working 2025 🔥 vanity ethereum ethereum address generator ethereum address zero address vanity contract vanity ethereum vanity custom address ethereum address vanity address ethereum address vanity ethereum address vanity generator vanity gen eth vanity gen ethereum vanity qvf"
   },
   {
-    "createdAt": "2025-11-06T08:56:50Z",
-    "stars": 176,
-    "name": "tongjingqi/Thinking-with-Video",
-    "url": "https://github.com/tongjingqi/Thinking-with-Video",
+    "createdAt": "2025-11-12T15:50:43Z",
+    "stars": 207,
+    "name": "xPOURY4/CodeCraft-Architect",
+    "url": "https://github.com/xPOURY4/CodeCraft-Architect",
     "lang": "",
-    "desc": "We introduce 'Thinking with Video', a new paradigm leveraging video generation for multimodal reasoning. Our VideoThinkBench shows that Sora-2 surpasses GPT5 by 10% on eyeballing puzzles and reaches 69% accuracy on MMMU."
+    "desc": "AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices. Designed to boost developer productivity and code quality when used as the primary prompt."
+  },
+  {
+    "createdAt": "2025-11-10T17:41:06Z",
+    "stars": 204,
+    "name": "Producdevity/gamehub-lite",
+    "url": "https://github.com/Producdevity/gamehub-lite",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-07T06:34:27Z",
+    "stars": 191,
+    "name": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "lang": "Python",
+    "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+  },
+  {
+    "createdAt": "2025-11-07T08:12:18Z",
+    "stars": 178,
+    "name": "raulcd/datanomy",
+    "url": "https://github.com/raulcd/datanomy",
+    "lang": "Python",
+    "desc": "Dissecting data structures"
+  },
+  {
+    "createdAt": "2025-11-13T11:58:56Z",
+    "stars": 178,
+    "name": "Haleclipse/Claudix",
+    "url": "https://github.com/Haleclipse/Claudix",
+    "lang": "TypeScript",
+    "desc": "Gorgeous Claude Code Extend for VS Code."
+  },
+  {
+    "createdAt": "2025-11-10T08:26:49Z",
+    "stars": 177,
+    "name": "lvzhaobo/qoder-rules",
+    "url": "https://github.com/lvzhaobo/qoder-rules",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-11T23:47:20Z",
+    "stars": 176,
+    "name": "avebonkers176/spoofer-hwid",
+    "url": "https://github.com/avebonkers176/spoofer-hwid",
+    "lang": "Python",
+    "desc": "hwid spoofer hwid changer 🔑︎ disk, guid, mac, gpu, pc-name, win-id, efi, smbios spoofing fortnite warzone apex rust escape from tarkov and all eac be games hwid spoof hwid changer hwid spoof hwid changer hwid spoof hwid changer hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid v"
+  },
+  {
+    "createdAt": "2025-11-11T23:40:11Z",
+    "stars": 174,
+    "name": "ahoaparadox8/python-keylogger",
+    "url": "https://github.com/ahoaparadox8/python-keylogger",
+    "lang": "Python",
+    "desc": "paython keylogger windows keylogger keylogger discord webhook + email 💥 keylogger windows 10/11 linux 💥 python keylogger working on all os. keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger  c"
+  },
+  {
+    "createdAt": "2025-11-07T22:32:29Z",
+    "stars": 174,
+    "name": "alrpal/TinyETL",
+    "url": "https://github.com/alrpal/TinyETL",
+    "lang": "Rust",
+    "desc": "Fast, zero-config ETL in a single binary"
   },
   {
     "createdAt": "2025-11-11T23:44:06Z",
@@ -208,12 +208,12 @@
     "desc": "zphisher python edition 🔥 unflagged 🔥 phishmailer gophish socialphish phishing page generator phishing mail zphish phishmailer phishing template shellphisher blackphish  phishmailer gophish socialphish phishing page generator phishing mail zphish phishmailer phishing template shellphisher d"
   },
   {
-    "createdAt": "2025-11-06T09:09:41Z",
-    "stars": 169,
-    "name": "DavidVivancos/Neuraxon",
-    "url": "https://github.com/DavidVivancos/Neuraxon",
+    "createdAt": "2025-11-11T23:45:46Z",
+    "stars": 170,
+    "name": "hotchocolate469/PyPhisher",
+    "url": "https://github.com/hotchocolate469/PyPhisher",
     "lang": "Python",
-    "desc": "Neuraxon Paper With Code"
+    "desc": "phisher pyphisher 💥 best phisher in python 💥 phisher written in python for educational purpose. phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website r"
   },
   {
     "createdAt": "2025-11-11T23:39:44Z",
@@ -224,76 +224,44 @@
     "desc": "grabber 🔥 blank grabber 🔥 updated 2025 🔥 blank password grabber written in python. cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber p"
   },
   {
-    "createdAt": "2025-11-10T08:26:49Z",
-    "stars": 166,
-    "name": "lvzhaobo/qoder-rules",
-    "url": "https://github.com/lvzhaobo/qoder-rules",
+    "createdAt": "2025-11-11T23:40:25Z",
+    "stars": 168,
+    "name": "tailerxoreoxx8/BlackCap-Grabber-NoDualHook",
+    "url": "https://github.com/tailerxoreoxx8/BlackCap-Grabber-NoDualHook",
     "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-07T06:34:27Z",
-    "stars": 166,
-    "name": "AIDC-AI/Pixelle-Video",
-    "url": "https://github.com/AIDC-AI/Pixelle-Video",
-    "lang": "Python",
-    "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
-  },
-  {
-    "createdAt": "2025-11-12T15:50:43Z",
-    "stars": 165,
-    "name": "xPOURY4/CodeCraft-Architect",
-    "url": "https://github.com/xPOURY4/CodeCraft-Architect",
-    "lang": "",
-    "desc": "AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices. Designed to boost developer productivity and code quality when used as the primary prompt."
-  },
-  {
-    "createdAt": "2025-11-09T07:38:14Z",
-    "stars": 159,
-    "name": "rit3zh/expo-apple-maps-sheet",
-    "url": "https://github.com/rit3zh/expo-apple-maps-sheet",
-    "lang": "TypeScript",
-    "desc": "🗺️ Apple Maps–style bottom sheet for React Native"
-  },
-  {
-    "createdAt": "2025-11-10T17:41:06Z",
-    "stars": 159,
-    "name": "Producdevity/gamehub-lite",
-    "url": "https://github.com/Producdevity/gamehub-lite",
-    "lang": "",
-    "desc": ""
+    "desc": "grabber 🔥 blackcap grabber 🔥 fixed stealer - dualhook removed - python3 logger blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber m"
   },
   {
     "createdAt": "2025-11-08T23:06:49Z",
-    "stars": 159,
+    "stars": 166,
     "name": "mbruhler/claude-orchestration",
     "url": "https://github.com/mbruhler/claude-orchestration",
     "lang": "",
     "desc": "Multi-agent workflow orchestration plugin for Claude Code"
   },
   {
+    "createdAt": "2025-11-09T07:38:14Z",
+    "stars": 164,
+    "name": "rit3zh/expo-apple-maps-sheet",
+    "url": "https://github.com/rit3zh/expo-apple-maps-sheet",
+    "lang": "TypeScript",
+    "desc": "🗺️ Apple Maps–style bottom sheet for React Native"
+  },
+  {
     "createdAt": "2025-11-08T15:24:47Z",
-    "stars": 158,
+    "stars": 164,
     "name": "wfnuser/OpenNof1",
     "url": "https://github.com/wfnuser/OpenNof1",
     "lang": "Python",
     "desc": "Your custom 24/7 AI trading agent. Inspired by nof1.ai"
   },
   {
-    "createdAt": "2025-11-06T06:59:21Z",
-    "stars": 154,
-    "name": "adysec/rusub",
-    "url": "https://github.com/adysec/rusub",
-    "lang": "Rust",
-    "desc": "rusub 是一款高速、智能的跨平台子域枚举工具，支持启发式扫描、内置 10 万+ 词表、异步高并发、多格式输出及自动断点续传。"
-  },
-  {
-    "createdAt": "2025-11-07T22:32:29Z",
-    "stars": 154,
-    "name": "alrpal/TinyETL",
-    "url": "https://github.com/alrpal/TinyETL",
-    "lang": "Rust",
-    "desc": "Fast, zero-config ETL in a single binary"
+    "createdAt": "2025-11-08T09:07:43Z",
+    "stars": 160,
+    "name": "gisketch/triforce.nvim",
+    "url": "https://github.com/gisketch/triforce.nvim",
+    "lang": "Lua",
+    "desc": "Triforce is a Neovim plugin with beautiful UI that adds a bit of RPG flavor to your coding — XP, levels, and achievements while you work."
   },
   {
     "createdAt": "2025-11-08T10:18:32Z",
@@ -304,36 +272,60 @@
     "desc": "Advanced JavaScript File Discovery and Analysis Tool"
   },
   {
-    "createdAt": "2025-11-08T09:07:43Z",
+    "createdAt": "2025-11-11T14:11:48Z",
     "stars": 151,
-    "name": "gisketch/triforce.nvim",
-    "url": "https://github.com/gisketch/triforce.nvim",
-    "lang": "Lua",
-    "desc": "Triforce is a Neovim plugin with beautiful UI that adds a bit of RPG flavor to your coding — XP, levels, and achievements while you work."
+    "name": "dartcv/AuroraTik",
+    "url": "https://github.com/dartcv/AuroraTik",
+    "lang": "Kotlin",
+    "desc": "抖音功能增强"
   },
   {
-    "createdAt": "2025-11-06T23:22:47Z",
-    "stars": 140,
-    "name": "hadley/genzplyr",
-    "url": "https://github.com/hadley/genzplyr",
-    "lang": "R",
-    "desc": "dplyr but make it bussin fr fr no cap"
+    "createdAt": "2025-11-11T23:42:07Z",
+    "stars": 151,
+    "name": "swordofragemiwka/tiktok-bot",
+    "url": "https://github.com/swordofragemiwka/tiktok-bot",
+    "lang": "Python",
+    "desc": "tiktok bot tiktok botting 🔥 tiktok follower 🔥 tiktok likes 🔥 tiktok views tiktok automater tiktok aio i"
+  },
+  {
+    "createdAt": "2025-11-11T02:58:33Z",
+    "stars": 149,
+    "name": "ScrapeGraphAI/toonify",
+    "url": "https://github.com/ScrapeGraphAI/toonify",
+    "lang": "Python",
+    "desc": "Toonify: Compact data format reducing LLM token usage by 30-60%"
   },
   {
     "createdAt": "2025-11-08T04:20:32Z",
-    "stars": 139,
+    "stars": 145,
     "name": "gabyslaw/IsoBridge",
     "url": "https://github.com/gabyslaw/IsoBridge",
     "lang": "C#",
     "desc": ""
   },
   {
+    "createdAt": "2025-11-13T03:25:51Z",
+    "stars": 142,
+    "name": "adysec/dht-spider",
+    "url": "https://github.com/adysec/dht-spider",
+    "lang": "Rust",
+    "desc": "Rust 实现的 BitTorrent DHT（BEP‑5）与爬虫，并内置元数据下载（BEP‑9/10）与 PeX（BEP‑11/ut_pex）。"
+  },
+  {
     "createdAt": "2025-11-11T00:41:59Z",
-    "stars": 136,
+    "stars": 141,
     "name": "benx421/backend-engineer-path",
     "url": "https://github.com/benx421/backend-engineer-path",
     "lang": "",
     "desc": "Build systems handling concurrency, distributed transactions, and high-throughput ingestion. Learn by doing, not watching tutorials."
+  },
+  {
+    "createdAt": "2025-11-11T23:26:22Z",
+    "stars": 139,
+    "name": "sonymixgrange424/TikTokUsernameChecker",
+    "url": "https://github.com/sonymixgrange424/TikTokUsernameChecker",
+    "lang": "Python",
+    "desc": "tiktok username checker 🔥 check tiktok usernames to get 3 letter / 3letter og usernames tiktok username checker ogusernames easy tiktok username checker fast request tiktok username checker from a list checks usernames tiktok bot username checker dt"
   },
   {
     "createdAt": "2025-11-08T02:55:55Z",
@@ -344,24 +336,8 @@
     "desc": "Scripts for agents, shared between my repositories."
   },
   {
-    "createdAt": "2025-11-11T02:58:33Z",
-    "stars": 131,
-    "name": "ScrapeGraphAI/toonify",
-    "url": "https://github.com/ScrapeGraphAI/toonify",
-    "lang": "Python",
-    "desc": "Toonify: Compact data format reducing LLM token usage by 30-60%"
-  },
-  {
-    "createdAt": "2025-11-11T14:11:48Z",
-    "stars": 128,
-    "name": "dartcv/AuroraTik",
-    "url": "https://github.com/dartcv/AuroraTik",
-    "lang": "Kotlin",
-    "desc": "抖音功能增强"
-  },
-  {
     "createdAt": "2025-11-08T03:04:36Z",
-    "stars": 128,
+    "stars": 131,
     "name": "winsecurity/MaleficentVM",
     "url": "https://github.com/winsecurity/MaleficentVM",
     "lang": "",
@@ -369,34 +345,58 @@
   },
   {
     "createdAt": "2025-11-08T21:19:13Z",
-    "stars": 128,
+    "stars": 131,
     "name": "muratcankoylan/readwren",
     "url": "https://github.com/muratcankoylan/readwren",
     "lang": "Python",
     "desc": "An adaptive multi-agent system that extracts your literary DNA through conversation and generates actionable reading profiles."
   },
   {
+    "createdAt": "2025-11-07T03:40:17Z",
+    "stars": 117,
+    "name": "Yangr116/VST",
+    "url": "https://github.com/Yangr116/VST",
+    "lang": "Jupyter Notebook",
+    "desc": "Visual Spatial Tuning"
+  },
+  {
     "createdAt": "2025-11-08T13:40:18Z",
-    "stars": 114,
+    "stars": 116,
     "name": "alexfazio/cc-trace",
     "url": "https://github.com/alexfazio/cc-trace",
     "lang": "Shell",
     "desc": "Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy"
   },
   {
-    "createdAt": "2025-11-06T04:04:46Z",
+    "createdAt": "2025-11-07T08:44:34Z",
+    "stars": 115,
+    "name": "Pluviobyte/Claude-Codex",
+    "url": "https://github.com/Pluviobyte/Claude-Codex",
+    "lang": "Shell",
+    "desc": "Framework for Claude-driven task execution with Codex."
+  },
+  {
+    "createdAt": "2025-11-10T07:33:41Z",
     "stars": 114,
-    "name": "sash9696/frontend-interview-kit",
-    "url": "https://github.com/sash9696/frontend-interview-kit",
-    "lang": "",
+    "name": "ioniks/MarkdownTaskManager",
+    "url": "https://github.com/ioniks/MarkdownTaskManager",
+    "lang": "HTML",
+    "desc": "Local-first Kanban task manager"
+  },
+  {
+    "createdAt": "2025-11-08T14:59:37Z",
+    "stars": 114,
+    "name": "snehotosh/langgraph-notebooks",
+    "url": "https://github.com/snehotosh/langgraph-notebooks",
+    "lang": "Jupyter Notebook",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-07T03:40:17Z",
-    "stars": 114,
-    "name": "Yangr116/VST",
-    "url": "https://github.com/Yangr116/VST",
-    "lang": "Jupyter Notebook",
-    "desc": "Visual Spatial Tuning"
+    "createdAt": "2025-11-08T19:16:12Z",
+    "stars": 113,
+    "name": "wiretap-retro/Mini-Rack-1U-Pi-NAS",
+    "url": "https://github.com/wiretap-retro/Mini-Rack-1U-Pi-NAS",
+    "lang": "",
+    "desc": "A 10\" rackmount NAS utilizing the Raspberry Pi 5 and a 5.25\" hot swap bay."
   }
 ]
