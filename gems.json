@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-11-12T08:44:03Z",
-    "stars": 1298,
+    "stars": 1791,
     "name": "ByteDance-Seed/Depth-Anything-3",
     "url": "https://github.com/ByteDance-Seed/Depth-Anything-3",
     "lang": "Jupyter Notebook",
@@ -9,39 +9,39 @@
   },
   {
     "createdAt": "2025-11-11T12:00:02Z",
-    "stars": 1150,
+    "stars": 1174,
     "name": "cryptocj520/crypto-trading-open",
     "url": "https://github.com/cryptocj520/crypto-trading-open",
     "lang": "Python",
     "desc": "crypto-trading-open"
   },
   {
-    "createdAt": "2025-11-10T00:16:19Z",
-    "stars": 743,
-    "name": "f/git-rewrite-commits",
-    "url": "https://github.com/f/git-rewrite-commits",
-    "lang": "TypeScript",
-    "desc": "AI-powered git commit message rewriter using Ollama or GPT"
+    "createdAt": "2025-11-16T14:48:46Z",
+    "stars": 940,
+    "name": "straight-tamago/misaka26",
+    "url": "https://github.com/straight-tamago/misaka26",
+    "lang": "",
+    "desc": "iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. "
   },
   {
     "createdAt": "2025-11-11T09:35:44Z",
-    "stars": 588,
+    "stars": 762,
     "name": "universal-tool-calling-protocol/code-mode",
     "url": "https://github.com/universal-tool-calling-protocol/code-mode",
     "lang": "TypeScript",
     "desc": "🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. "
   },
   {
-    "createdAt": "2025-11-09T18:14:31Z",
-    "stars": 466,
-    "name": "crowmd/2K-N8NWORKFLOWS",
-    "url": "https://github.com/crowmd/2K-N8NWORKFLOWS",
-    "lang": "",
-    "desc": ""
+    "createdAt": "2025-11-10T00:16:19Z",
+    "stars": 754,
+    "name": "f/git-rewrite-commits",
+    "url": "https://github.com/f/git-rewrite-commits",
+    "lang": "TypeScript",
+    "desc": "AI-powered git commit message rewriter using Ollama or GPT"
   },
   {
     "createdAt": "2025-11-11T14:29:00Z",
-    "stars": 430,
+    "stars": 482,
     "name": "rbalestr-lab/lejepa",
     "url": "https://github.com/rbalestr-lab/lejepa",
     "lang": "Python",
@@ -49,35 +49,35 @@
   },
   {
     "createdAt": "2025-11-12T11:44:04Z",
-    "stars": 353,
+    "stars": 420,
     "name": "nusquama/n8nworkflows.xyz",
     "url": "https://github.com/nusquama/n8nworkflows.xyz",
     "lang": "",
     "desc": "N8N Workflows Catalog"
   },
   {
-    "createdAt": "2025-11-09T03:31:19Z",
-    "stars": 307,
-    "name": "princepainter/ComfyUI-PainterI2V",
-    "url": "https://github.com/princepainter/ComfyUI-PainterI2V",
-    "lang": "Python",
-    "desc": "An enhanced Wan2.2 Image-to-Video node specifically designed to fix the slow-motion issue in 4-step LoRAs (like lightx2v)."
+    "createdAt": "2025-11-13T11:58:56Z",
+    "stars": 313,
+    "name": "Haleclipse/Claudix",
+    "url": "https://github.com/Haleclipse/Claudix",
+    "lang": "TypeScript",
+    "desc": "Gorgeous Claude Code Extend for VS Code."
   },
   {
-    "createdAt": "2025-11-11T23:44:19Z",
-    "stars": 274,
-    "name": "tagal6727/SelfDiscord",
-    "url": "https://github.com/tagal6727/SelfDiscord",
-    "lang": "Python",
-    "desc": "discord selfbot selfdiscord discord selfbot ✅ updated latest api update 2025 ✅ discord selfbot in python using discord api. discord self bot discord account automator discord auto responder discord self bot discord account automator discord auto responder discord self bot discord account automator discord auto responder discord self bot r"
+    "createdAt": "2025-11-12T15:50:43Z",
+    "stars": 267,
+    "name": "xPOURY4/CodeCraft-Architect",
+    "url": "https://github.com/xPOURY4/CodeCraft-Architect",
+    "lang": "",
+    "desc": "AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices. Designed to boost developer productivity and code quality when used as the primary prompt."
   },
   {
-    "createdAt": "2025-11-11T23:47:42Z",
-    "stars": 269,
-    "name": "kukuvitaminekcz58/binance-trading-bot",
-    "url": "https://github.com/kukuvitaminekcz58/binance-trading-bot",
-    "lang": "Python",
-    "desc": "binance trading ✅ working 2025 ✅ crypto trading bot on binance trade crypto automated binance trading bot trade bitcoin ethereum automated trading bot binance afk bot passive money o"
+    "createdAt": "2025-11-10T09:21:03Z",
+    "stars": 264,
+    "name": "Meph1s-t/Startrail-Gal",
+    "url": "https://github.com/Meph1s-t/Startrail-Gal",
+    "lang": "Ren'Py",
+    "desc": ""
   },
   {
     "createdAt": "2025-11-10T17:13:18Z",
@@ -88,172 +88,132 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-11-13T11:58:56Z",
-    "stars": 262,
-    "name": "Haleclipse/Claudix",
-    "url": "https://github.com/Haleclipse/Claudix",
-    "lang": "TypeScript",
-    "desc": "Gorgeous Claude Code Extend for VS Code."
-  },
-  {
-    "createdAt": "2025-11-10T09:21:03Z",
-    "stars": 261,
-    "name": "Meph1s-t/Startrail-Gal",
-    "url": "https://github.com/Meph1s-t/Startrail-Gal",
-    "lang": "Ren'Py",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-12T15:50:43Z",
-    "stars": 249,
-    "name": "xPOURY4/CodeCraft-Architect",
-    "url": "https://github.com/xPOURY4/CodeCraft-Architect",
-    "lang": "",
-    "desc": "AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices. Designed to boost developer productivity and code quality when used as the primary prompt."
-  },
-  {
     "createdAt": "2025-11-10T17:41:06Z",
-    "stars": 244,
+    "stars": 260,
     "name": "Producdevity/gamehub-lite",
     "url": "https://github.com/Producdevity/gamehub-lite",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-11T23:39:42Z",
-    "stars": 221,
-    "name": "obstraction9851/ethereum-vanity-address-generator",
-    "url": "https://github.com/obstraction9851/ethereum-vanity-address-generator",
-    "lang": "Python",
-    "desc": "ethereum vanity address generator 🔥 working 2025 🔥 vanity ethereum ethereum address generator ethereum address zero address vanity contract vanity ethereum vanity custom address ethereum address vanity address ethereum address vanity ethereum address vanity generator vanity gen eth vanity gen ethereum vanity qvf"
+    "createdAt": "2025-11-16T01:36:56Z",
+    "stars": 217,
+    "name": "zigbook/zigbook",
+    "url": "https://github.com/zigbook/zigbook",
+    "lang": "Zig",
+    "desc": "A comprehensive guide to the Zig programming language, a journey from fundamentals to advanced systems programming."
+  },
+  {
+    "createdAt": "2025-11-15T18:09:24Z",
+    "stars": 209,
+    "name": "medusalix/FreeMDU",
+    "url": "https://github.com/medusalix/FreeMDU",
+    "lang": "Rust",
+    "desc": "Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface"
   },
   {
     "createdAt": "2025-11-10T08:26:49Z",
-    "stars": 186,
+    "stars": 198,
     "name": "lvzhaobo/qoder-rules",
     "url": "https://github.com/lvzhaobo/qoder-rules",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-11T23:47:31Z",
-    "stars": 178,
-    "name": "vooltex5083/NFT-generator",
-    "url": "https://github.com/vooltex5083/NFT-generator",
-    "lang": "Python",
-    "desc": "🔥 nft generator 🔥 nft generator written in python3 nft generator designed to perform its designated function. nft generator tool nft generator utility nft generator crypto bot nft generator bot utility tool nft generator nft generator crypto bot utility nft generator automation nft generator crypto utility bot tool utility 🔥 🔥 tos"
-  },
-  {
     "createdAt": "2025-11-11T02:58:33Z",
-    "stars": 178,
+    "stars": 186,
     "name": "ScrapeGraphAI/toonify",
     "url": "https://github.com/ScrapeGraphAI/toonify",
     "lang": "Python",
     "desc": "Toonify: Compact data format reducing LLM token usage by 30-60%"
   },
   {
-    "createdAt": "2025-11-11T23:47:20Z",
-    "stars": 177,
-    "name": "avebonkers176/spoofer-hwid",
-    "url": "https://github.com/avebonkers176/spoofer-hwid",
-    "lang": "Python",
-    "desc": "hwid spoofer hwid changer 🔑︎ disk, guid, mac, gpu, pc-name, win-id, efi, smbios spoofing fortnite warzone apex rust escape from tarkov and all eac be games hwid spoof hwid changer hwid spoof hwid changer hwid spoof hwid changer hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid hwid v"
-  },
-  {
-    "createdAt": "2025-11-11T23:40:11Z",
-    "stars": 174,
-    "name": "ahoaparadox8/python-keylogger",
-    "url": "https://github.com/ahoaparadox8/python-keylogger",
-    "lang": "Python",
-    "desc": "paython keylogger windows keylogger keylogger discord webhook + email 💥 keylogger windows 10/11 linux 💥 python keylogger working on all os. keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger keylogging keylogger  c"
+    "createdAt": "2025-11-15T15:42:23Z",
+    "stars": 182,
+    "name": "hanakim3945/bl_sbx",
+    "url": "https://github.com/hanakim3945/bl_sbx",
+    "lang": "",
+    "desc": "itunesstored & bookassetd sbx escape"
   },
   {
     "createdAt": "2025-11-11T14:11:48Z",
-    "stars": 174,
+    "stars": 178,
     "name": "dartcv/AuroraTik",
     "url": "https://github.com/dartcv/AuroraTik",
     "lang": "Kotlin",
     "desc": "抖音功能增强"
   },
   {
-    "createdAt": "2025-11-11T23:44:06Z",
-    "stars": 173,
-    "name": "powerblade1266/ZPhisher-Python",
-    "url": "https://github.com/powerblade1266/ZPhisher-Python",
+    "createdAt": "2025-11-13T18:02:17Z",
+    "stars": 177,
+    "name": "glittercowboy/taches-cc-prompts",
+    "url": "https://github.com/glittercowboy/taches-cc-prompts",
+    "lang": "HTML",
+    "desc": "A collection of my favorite Claude Code prompts and prompt systems."
+  },
+  {
+    "createdAt": "2025-11-13T08:09:51Z",
+    "stars": 176,
+    "name": "modelscope/AgentEvolver",
+    "url": "https://github.com/modelscope/AgentEvolver",
     "lang": "Python",
-    "desc": "zphisher python edition 🔥 unflagged 🔥 phishmailer gophish socialphish phishing page generator phishing mail zphish phishmailer phishing template shellphisher blackphish  phishmailer gophish socialphish phishing page generator phishing mail zphish phishmailer phishing template shellphisher d"
-  },
-  {
-    "createdAt": "2025-11-11T23:45:46Z",
-    "stars": 170,
-    "name": "hotchocolate469/PyPhisher",
-    "url": "https://github.com/hotchocolate469/PyPhisher",
-    "lang": "Python",
-    "desc": "phisher pyphisher 💥 best phisher in python 💥 phisher written in python for educational purpose. phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website phisher phishing website r"
-  },
-  {
-    "createdAt": "2025-11-11T23:39:44Z",
-    "stars": 169,
-    "name": "bossdlyavseh410/Blank-Grabber",
-    "url": "https://github.com/bossdlyavseh410/Blank-Grabber",
-    "lang": "Python",
-    "desc": "grabber 🔥 blank grabber 🔥 updated 2025 🔥 blank password grabber written in python. cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber password grabber wallet grabber cookie stealer password stealer wallet stealer cookie grabber p"
-  },
-  {
-    "createdAt": "2025-11-11T23:40:25Z",
-    "stars": 168,
-    "name": "tailerxoreoxx8/BlackCap-Grabber-NoDualHook",
-    "url": "https://github.com/tailerxoreoxx8/BlackCap-Grabber-NoDualHook",
-    "lang": "Python",
-    "desc": "grabber 🔥 blackcap grabber 🔥 fixed stealer - dualhook removed - python3 logger blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber blackcap grabber m"
-  },
-  {
-    "createdAt": "2025-11-09T07:38:14Z",
-    "stars": 165,
-    "name": "rit3zh/expo-apple-maps-sheet",
-    "url": "https://github.com/rit3zh/expo-apple-maps-sheet",
-    "lang": "TypeScript",
-    "desc": "🗺️ Apple Maps–style bottom sheet for React Native"
-  },
-  {
-    "createdAt": "2025-11-15T08:03:52Z",
-    "stars": 164,
-    "name": "raduacg/game-mechanics-optimizations",
-    "url": "https://github.com/raduacg/game-mechanics-optimizations",
-    "lang": "",
-    "desc": "A list of 171 game mechanics techniques, performance optimizations and player experience tips to use as inspiration for your next games!"
-  },
-  {
-    "createdAt": "2025-11-11T23:42:07Z",
-    "stars": 152,
-    "name": "swordofragemiwka/tiktok-bot",
-    "url": "https://github.com/swordofragemiwka/tiktok-bot",
-    "lang": "Python",
-    "desc": "tiktok bot tiktok botting 🔥 tiktok follower 🔥 tiktok likes 🔥 tiktok views tiktok automater tiktok aio i"
-  },
-  {
-    "createdAt": "2025-11-13T07:20:44Z",
-    "stars": 151,
-    "name": "runxiyu/furgit",
-    "url": "https://github.com/runxiyu/furgit",
-    "lang": "Go",
-    "desc": "Fast Git library in pure Go"
+    "desc": "AgentEvolver: Towards Efficient Self-Evolving Agent System"
   },
   {
     "createdAt": "2025-11-10T12:00:07Z",
-    "stars": 146,
+    "stars": 172,
     "name": "elusznik/mcp-server-code-execution-mode",
     "url": "https://github.com/elusznik/mcp-server-code-execution-mode",
     "lang": "Python",
     "desc": "An MCP server that executes Python code in isolated rootless containers with optional MCP server proxying. Implementation of Anthropic's and Cloudflare's ideas for reducing MCP tool definitions context bloat."
   },
   {
-    "createdAt": "2025-11-13T03:25:51Z",
+    "createdAt": "2025-11-13T07:20:44Z",
+    "stars": 172,
+    "name": "runxiyu/furgit",
+    "url": "https://github.com/runxiyu/furgit",
+    "lang": "Go",
+    "desc": "Fast Git library in pure Go"
+  },
+  {
+    "createdAt": "2025-11-15T08:03:52Z",
+    "stars": 168,
+    "name": "raduacg/game-mechanics-optimizations",
+    "url": "https://github.com/raduacg/game-mechanics-optimizations",
+    "lang": "",
+    "desc": "A list of 171 game mechanics techniques, performance optimizations and player experience tips to use as inspiration for your next games!"
+  },
+  {
+    "createdAt": "2025-11-13T08:40:03Z",
+    "stars": 151,
+    "name": "yunshenwuchuxun/smart-drawio-next",
+    "url": "https://github.com/yunshenwuchuxun/smart-drawio-next",
+    "lang": "JavaScript",
+    "desc": "AI-powered Draw.io diagram generator with natural language - 用自然语言生成专业 Draw.io 图表"
+  },
+  {
+    "createdAt": "2025-11-15T05:26:16Z",
+    "stars": 151,
+    "name": "u192164745958katherinelopez/douyin-api",
+    "url": "https://github.com/u192164745958katherinelopez/douyin-api",
+    "lang": "",
+    "desc": "抖音接口,抖音API,douyin api,douyin"
+  },
+  {
+    "createdAt": "2025-11-14T17:13:57Z",
+    "stars": 149,
+    "name": "steipete/oracle",
+    "url": "https://github.com/steipete/oracle",
+    "lang": "TypeScript",
+    "desc": "Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files."
+  },
+  {
+    "createdAt": "2025-11-13T15:38:33Z",
     "stars": 142,
-    "name": "adysec/dht-spider",
-    "url": "https://github.com/adysec/dht-spider",
-    "lang": "Rust",
-    "desc": "Rust 实现的 BitTorrent DHT（BEP‑5）与爬虫，并内置元数据下载（BEP‑9/10）与 PeX（BEP‑11/ut_pex）。"
+    "name": "FuQuan233/HeyTea_AutoUpload",
+    "url": "https://github.com/FuQuan233/HeyTea_AutoUpload",
+    "lang": "Python",
+    "desc": "一个带GUI界面的喜茶自定义杯贴上传工具，支持短信验证码登录和图片上传功能。"
   },
   {
     "createdAt": "2025-11-11T00:41:59Z",
@@ -272,96 +232,48 @@
     "desc": "tisa is an emulator for the Tiny ISA"
   },
   {
-    "createdAt": "2025-11-16T14:48:46Z",
+    "createdAt": "2025-11-13T03:25:51Z",
     "stars": 141,
-    "name": "straight-tamago/misaka26",
-    "url": "https://github.com/straight-tamago/misaka26",
-    "lang": "",
-    "desc": "iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. "
-  },
-  {
-    "createdAt": "2025-11-11T23:26:22Z",
-    "stars": 139,
-    "name": "sonymixgrange424/TikTokUsernameChecker",
-    "url": "https://github.com/sonymixgrange424/TikTokUsernameChecker",
-    "lang": "Python",
-    "desc": "tiktok username checker 🔥 check tiktok usernames to get 3 letter / 3letter og usernames tiktok username checker ogusernames easy tiktok username checker fast request tiktok username checker from a list checks usernames tiktok bot username checker dt"
-  },
-  {
-    "createdAt": "2025-11-15T15:42:23Z",
-    "stars": 136,
-    "name": "hanakim3945/bl_sbx",
-    "url": "https://github.com/hanakim3945/bl_sbx",
-    "lang": "",
-    "desc": "itunesstored & bookassetd sbx escape"
-  },
-  {
-    "createdAt": "2025-11-13T23:00:34Z",
-    "stars": 133,
-    "name": "localhubs/web3decoder",
-    "url": "https://github.com/localhubs/web3decoder",
-    "lang": "Python",
-    "desc": "Web3 Decoder is a powerful tool for interpreting and analyzing smart contract data in Ethereum and EVM ecosystems. It decodes calldata, ABI definitions, events, bytecode, and transactions — making it valuable for auditors, security researchers, developers, and Web3 analysts."
-  },
-  {
-    "createdAt": "2025-11-13T15:38:33Z",
-    "stars": 132,
-    "name": "FuQuan233/HeyTea_AutoUpload",
-    "url": "https://github.com/FuQuan233/HeyTea_AutoUpload",
-    "lang": "Python",
-    "desc": "一个带GUI界面的喜茶自定义杯贴上传工具，支持短信验证码登录和图片上传功能。"
+    "name": "adysec/dht-spider",
+    "url": "https://github.com/adysec/dht-spider",
+    "lang": "Rust",
+    "desc": "Rust 实现的 BitTorrent DHT（BEP‑5）与爬虫，并内置元数据下载（BEP‑9/10）与 PeX（BEP‑11/ut_pex）。"
   },
   {
     "createdAt": "2025-11-11T23:05:19Z",
-    "stars": 132,
+    "stars": 141,
     "name": "ngongcm/public-api-list",
     "url": "https://github.com/ngongcm/public-api-list",
     "lang": "",
     "desc": "A curated collection of the best free, freemium, and paid APIs for developers.  "
   },
   {
-    "createdAt": "2025-11-13T08:09:51Z",
-    "stars": 127,
-    "name": "modelscope/AgentEvolver",
-    "url": "https://github.com/modelscope/AgentEvolver",
-    "lang": "Python",
-    "desc": "AgentEvolver: Towards Efficient Self-Evolving Agent System"
-  },
-  {
-    "createdAt": "2025-11-13T08:40:03Z",
-    "stars": 125,
-    "name": "yunshenwuchuxun/smart-drawio-next",
-    "url": "https://github.com/yunshenwuchuxun/smart-drawio-next",
-    "lang": "JavaScript",
-    "desc": "AI-powered Draw.io diagram generator with natural language - 用自然语言生成专业 Draw.io 图表"
-  },
-  {
-    "createdAt": "2025-11-10T07:33:41Z",
-    "stars": 124,
-    "name": "ioniks/MarkdownTaskManager",
-    "url": "https://github.com/ioniks/MarkdownTaskManager",
-    "lang": "HTML",
-    "desc": "Local-first Kanban task manager"
-  },
-  {
-    "createdAt": "2025-11-13T18:02:17Z",
-    "stars": 123,
-    "name": "glittercowboy/taches-cc-prompts",
-    "url": "https://github.com/glittercowboy/taches-cc-prompts",
-    "lang": "HTML",
-    "desc": "A collection of my favorite Claude Code prompts and prompt systems."
-  },
-  {
     "createdAt": "2025-11-12T14:20:58Z",
-    "stars": 120,
+    "stars": 131,
     "name": "ai-tmarks/tmarks",
     "url": "https://github.com/ai-tmarks/tmarks",
     "lang": "TypeScript",
     "desc": ""
   },
   {
+    "createdAt": "2025-11-10T07:33:41Z",
+    "stars": 129,
+    "name": "ioniks/MarkdownTaskManager",
+    "url": "https://github.com/ioniks/MarkdownTaskManager",
+    "lang": "HTML",
+    "desc": "Local-first Kanban task manager"
+  },
+  {
+    "createdAt": "2025-11-10T03:05:31Z",
+    "stars": 128,
+    "name": "yeuxuan/Ace-Mcp-Node",
+    "url": "https://github.com/yeuxuan/Ace-Mcp-Node",
+    "lang": "TypeScript",
+    "desc": "Acemcp 是一个高性能的 MCP (Model Context Protocol) 服务器，专为 AI 助手（如 Claude、GPT 等）提供代码库索引和语义搜索能力。通过 Acemcp，AI 助手可以：  🔍 快速搜索和理解大型代码库 📊 获取带行号的精确代码片段 🤖 自动增量更新索引 🌐 通过 Web 界面管理和调试"
+  },
+  {
     "createdAt": "2025-11-11T06:13:02Z",
-    "stars": 118,
+    "stars": 128,
     "name": "Zhiyuan-Zeng/RLVE",
     "url": "https://github.com/Zhiyuan-Zeng/RLVE",
     "lang": "Python",
@@ -369,34 +281,122 @@
   },
   {
     "createdAt": "2025-11-11T09:22:32Z",
-    "stars": 117,
+    "stars": 125,
     "name": "JayanAXHF/filessh",
     "url": "https://github.com/JayanAXHF/filessh",
     "lang": "Rust",
     "desc": "A fast and convenient TUI file browser for remote servers"
   },
   {
-    "createdAt": "2025-11-10T03:05:31Z",
-    "stars": 112,
-    "name": "yeuxuan/Ace-Mcp-Node",
-    "url": "https://github.com/yeuxuan/Ace-Mcp-Node",
+    "createdAt": "2025-11-14T19:23:39Z",
+    "stars": 124,
+    "name": "shanselman/WindowsEdgeLight",
+    "url": "https://github.com/shanselman/WindowsEdgeLight",
+    "lang": "C#",
+    "desc": "A lightweight WPF application that adds a customizable glowing edge light effect around your primary monitor"
+  },
+  {
+    "createdAt": "2025-11-13T21:15:28Z",
+    "stars": 121,
+    "name": "Whamp/chirp",
+    "url": "https://github.com/Whamp/chirp",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-11T03:39:20Z",
+    "stars": 119,
+    "name": "wzdnzd/resume",
+    "url": "https://github.com/wzdnzd/resume",
     "lang": "TypeScript",
-    "desc": "Acemcp 是一个高性能的 MCP (Model Context Protocol) 服务器，专为 AI 助手（如 Claude、GPT 等）提供代码库索引和语义搜索能力。通过 Acemcp，AI 助手可以：  🔍 快速搜索和理解大型代码库 📊 获取带行号的精确代码片段 🤖 自动增量更新索引 🌐 通过 Web 界面管理和调试"
+    "desc": "A Feature-Rich Resume Builder that Supports Flexible Customization"
   },
   {
-    "createdAt": "2025-11-09T22:05:16Z",
+    "createdAt": "2025-11-15T22:43:58Z",
+    "stars": 115,
+    "name": "steipete/Trimmy",
+    "url": "https://github.com/steipete/Trimmy",
+    "lang": "Swift",
+    "desc": "\"Paste once, run once.\" — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run."
+  },
+  {
+    "createdAt": "2025-11-14T15:39:35Z",
+    "stars": 113,
+    "name": "Wemino/MadnessPatch",
+    "url": "https://github.com/Wemino/MadnessPatch",
+    "lang": "C++",
+    "desc": "A patch that fixes various issues in the PC port of Alice: Madness Returns"
+  },
+  {
+    "createdAt": "2025-11-14T00:51:19Z",
     "stars": 112,
-    "name": "blendi-remade/falcraft",
-    "url": "https://github.com/blendi-remade/falcraft",
-    "lang": "Java",
-    "desc": "AI-powered texture remixing for Minecraft using fal"
+    "name": "moistrr/TGbot-D1",
+    "url": "https://github.com/moistrr/TGbot-D1",
+    "lang": "JavaScript",
+    "desc": "实现了：人机验证、私聊到话题模式的转发、管理员回复中继、话题名动态更新、已编辑消息处理、用户屏蔽功能、关键词自动回复,存储已从 Cloudflare KV 切换到 D1 (SQLite) 以获取更高的写入容量。"
   },
   {
-    "createdAt": "2025-11-09T11:58:59Z",
-    "stars": 107,
-    "name": "aikitoria/nanotrace",
-    "url": "https://github.com/aikitoria/nanotrace",
-    "lang": "C",
-    "desc": "Low overhead tracing library and trace visualizer for pipelined CUDA kernels"
+    "createdAt": "2025-11-15T11:11:36Z",
+    "stars": 112,
+    "name": "rit3zh/expo-linear-like-bottom-tabs",
+    "url": "https://github.com/rit3zh/expo-linear-like-bottom-tabs",
+    "lang": "TypeScript",
+    "desc": "🎨 Clean and simple bottom tabs inspired by Linear. Easy gestures, smooth animations."
+  },
+  {
+    "createdAt": "2025-11-10T12:02:31Z",
+    "stars": 111,
+    "name": "std-microblock/fripack",
+    "url": "https://github.com/std-microblock/fripack",
+    "lang": "Rust",
+    "desc": "Package your Frida script into an executable."
+  },
+  {
+    "createdAt": "2025-11-10T05:53:54Z",
+    "stars": 110,
+    "name": "kmccleary3301/nested_learning",
+    "url": "https://github.com/kmccleary3301/nested_learning",
+    "lang": "Python",
+    "desc": "A Reproduction of GDM's Nested Learning Paper"
+  },
+  {
+    "createdAt": "2025-11-11T07:08:48Z",
+    "stars": 109,
+    "name": "spike0en/awesome_nothing",
+    "url": "https://github.com/spike0en/awesome_nothing",
+    "lang": "",
+    "desc": "Curated list of everything related to Nothing ecosystem"
+  },
+  {
+    "createdAt": "2025-11-10T12:47:09Z",
+    "stars": 104,
+    "name": "susanbrown94364susanbrown/weibo-api",
+    "url": "https://github.com/susanbrown94364susanbrown/weibo-api",
+    "lang": "",
+    "desc": "微博接口,新浪微博接口,微博API,新浪微博API,weibo api,sina weibo api,weibo,sina weibo"
+  },
+  {
+    "createdAt": "2025-11-11T13:33:40Z",
+    "stars": 103,
+    "name": "HenryLoM/CliWaifuTamagotchi",
+    "url": "https://github.com/HenryLoM/CliWaifuTamagotchi",
+    "lang": "Go",
+    "desc": "CLI ASCII avatar for entertainment and motivational purposes"
+  },
+  {
+    "createdAt": "2025-11-14T05:16:28Z",
+    "stars": 102,
+    "name": "Ssoutnn/heytea-diy",
+    "url": "https://github.com/Ssoutnn/heytea-diy",
+    "lang": "JavaScript",
+    "desc": "喜茶免抓包自定义喜帖上传"
+  },
+  {
+    "createdAt": "2025-11-15T19:58:26Z",
+    "stars": 102,
+    "name": "mit-han-lab/flash-moba",
+    "url": "https://github.com/mit-han-lab/flash-moba",
+    "lang": "C++",
+    "desc": ""
   }
 ]
