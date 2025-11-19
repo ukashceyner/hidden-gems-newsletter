@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-11-12T08:44:03Z",
-    "stars": 2081,
+    "stars": 2273,
     "name": "ByteDance-Seed/Depth-Anything-3",
     "url": "https://github.com/ByteDance-Seed/Depth-Anything-3",
     "lang": "Jupyter Notebook",
@@ -9,55 +9,39 @@
   },
   {
     "createdAt": "2025-11-16T14:48:46Z",
-    "stars": 1544,
+    "stars": 1815,
     "name": "straight-tamago/misaka26",
     "url": "https://github.com/straight-tamago/misaka26",
     "lang": "",
     "desc": "iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. "
   },
   {
-    "createdAt": "2025-11-11T12:00:02Z",
-    "stars": 1196,
-    "name": "cryptocj520/crypto-trading-open",
-    "url": "https://github.com/cryptocj520/crypto-trading-open",
-    "lang": "Python",
-    "desc": "crypto-trading-open"
-  },
-  {
     "createdAt": "2025-11-18T02:37:00Z",
-    "stars": 840,
+    "stars": 1376,
     "name": "karpathy/reader3",
     "url": "https://github.com/karpathy/reader3",
     "lang": "Python",
     "desc": "Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it."
   },
   {
-    "createdAt": "2025-11-11T09:35:44Z",
-    "stars": 833,
-    "name": "universal-tool-calling-protocol/code-mode",
-    "url": "https://github.com/universal-tool-calling-protocol/code-mode",
-    "lang": "TypeScript",
-    "desc": "🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution. "
-  },
-  {
     "createdAt": "2025-11-12T11:44:04Z",
-    "stars": 745,
+    "stars": 845,
     "name": "nusquama/n8nworkflows.xyz",
     "url": "https://github.com/nusquama/n8nworkflows.xyz",
     "lang": "",
     "desc": "N8N Workflows Catalog"
   },
   {
-    "createdAt": "2025-11-11T14:29:00Z",
-    "stars": 537,
-    "name": "rbalestr-lab/lejepa",
-    "url": "https://github.com/rbalestr-lab/lejepa",
+    "createdAt": "2025-11-16T22:39:26Z",
+    "stars": 576,
+    "name": "K-Dense-AI/karpathy",
+    "url": "https://github.com/K-Dense-AI/karpathy",
     "lang": "Python",
-    "desc": ""
+    "desc": "An agentic Machine Learning Engineer"
   },
   {
     "createdAt": "2025-11-15T08:59:04Z",
-    "stars": 386,
+    "stars": 458,
     "name": "AnandChowdhary/continuous-claude",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
     "lang": "Shell",
@@ -65,123 +49,139 @@
   },
   {
     "createdAt": "2025-11-13T11:58:56Z",
-    "stars": 376,
+    "stars": 428,
     "name": "Haleclipse/Claudix",
     "url": "https://github.com/Haleclipse/Claudix",
     "lang": "TypeScript",
     "desc": "Gorgeous Claude Code Extend for VS Code."
   },
   {
-    "createdAt": "2025-11-15T18:09:24Z",
-    "stars": 363,
-    "name": "medusalix/FreeMDU",
-    "url": "https://github.com/medusalix/FreeMDU",
-    "lang": "Rust",
-    "desc": "Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface"
-  },
-  {
-    "createdAt": "2025-11-16T22:39:26Z",
-    "stars": 338,
-    "name": "K-Dense-AI/karpathy",
-    "url": "https://github.com/K-Dense-AI/karpathy",
-    "lang": "Python",
-    "desc": "An agentic Machine Learning Engineer"
-  },
-  {
     "createdAt": "2025-11-17T22:03:19Z",
-    "stars": 302,
+    "stars": 411,
     "name": "buyukakyuz/install-nothing",
     "url": "https://github.com/buyukakyuz/install-nothing",
     "lang": "Rust",
     "desc": "A terminal application that simulates installing things but doesn't actually install anything"
   },
   {
-    "createdAt": "2025-11-12T15:50:43Z",
-    "stars": 291,
-    "name": "xPOURY4/CodeCraft-Architect",
-    "url": "https://github.com/xPOURY4/CodeCraft-Architect",
-    "lang": "",
-    "desc": "AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices. Designed to boost developer productivity and code quality when used as the primary prompt."
-  },
-  {
-    "createdAt": "2025-11-16T01:36:56Z",
-    "stars": 258,
-    "name": "zigbook/zigbook",
-    "url": "https://github.com/zigbook/zigbook",
-    "lang": "Zig",
-    "desc": "A comprehensive guide to the Zig programming language, a journey from fundamentals to advanced systems programming."
+    "createdAt": "2025-11-15T18:09:24Z",
+    "stars": 384,
+    "name": "medusalix/FreeMDU",
+    "url": "https://github.com/medusalix/FreeMDU",
+    "lang": "Rust",
+    "desc": "Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface"
   },
   {
     "createdAt": "2025-11-13T08:09:51Z",
-    "stars": 254,
+    "stars": 377,
     "name": "modelscope/AgentEvolver",
     "url": "https://github.com/modelscope/AgentEvolver",
     "lang": "Python",
     "desc": "AgentEvolver: Towards Efficient Self-Evolving Agent System"
   },
   {
-    "createdAt": "2025-11-14T17:13:57Z",
-    "stars": 240,
-    "name": "steipete/oracle",
-    "url": "https://github.com/steipete/oracle",
-    "lang": "TypeScript",
-    "desc": "Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files."
+    "createdAt": "2025-11-12T15:50:43Z",
+    "stars": 326,
+    "name": "xPOURY4/CodeCraft-Architect",
+    "url": "https://github.com/xPOURY4/CodeCraft-Architect",
+    "lang": "",
+    "desc": "AI-powered software architect and full-stack engineer prompt that elevates web code development by enforcing production-grade architecture, consistent coding standards, and automated quality practices. Designed to boost developer productivity and code quality when used as the primary prompt."
   },
   {
     "createdAt": "2025-11-13T18:02:17Z",
-    "stars": 230,
+    "stars": 294,
     "name": "glittercowboy/taches-cc-resources",
     "url": "https://github.com/glittercowboy/taches-cc-resources",
     "lang": "",
     "desc": "A collection of my favorite Claude Code prompts and prompt systems."
   },
   {
-    "createdAt": "2025-11-11T02:58:33Z",
-    "stars": 199,
-    "name": "ScrapeGraphAI/toonify",
-    "url": "https://github.com/ScrapeGraphAI/toonify",
+    "createdAt": "2025-11-16T01:36:56Z",
+    "stars": 277,
+    "name": "zigbook/zigbook",
+    "url": "https://github.com/zigbook/zigbook",
+    "lang": "Zig",
+    "desc": "A comprehensive guide to the Zig programming language, a journey from fundamentals to advanced systems programming."
+  },
+  {
+    "createdAt": "2025-11-14T17:13:57Z",
+    "stars": 271,
+    "name": "steipete/oracle",
+    "url": "https://github.com/steipete/oracle",
+    "lang": "TypeScript",
+    "desc": "Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files."
+  },
+  {
+    "createdAt": "2025-11-17T10:40:39Z",
+    "stars": 270,
+    "name": "Mic92/strace-macos",
+    "url": "https://github.com/Mic92/strace-macos",
     "lang": "Python",
-    "desc": "Toonify: Compact data format reducing LLM token usage by 30-60%"
+    "desc": "A clone of the strace command for macOS"
+  },
+  {
+    "createdAt": "2025-11-18T08:23:58Z",
+    "stars": 210,
+    "name": "supertone-inc/supertonic",
+    "url": "https://github.com/supertone-inc/supertonic",
+    "lang": "Swift",
+    "desc": "Lightning-fast, on-device TTS — running natively via ONNX."
   },
   {
     "createdAt": "2025-11-15T15:42:23Z",
-    "stars": 198,
+    "stars": 201,
     "name": "hanakim3945/bl_sbx",
     "url": "https://github.com/hanakim3945/bl_sbx",
     "lang": "",
     "desc": "itunesstored & bookassetd sbx escape"
   },
   {
-    "createdAt": "2025-11-11T00:41:59Z",
-    "stars": 196,
-    "name": "benx421/backend-engineer-path",
-    "url": "https://github.com/benx421/backend-engineer-path",
-    "lang": "",
-    "desc": "Build systems handling concurrency, distributed transactions, and high-throughput ingestion. Learn by doing, not watching tutorials."
-  },
-  {
     "createdAt": "2025-11-13T07:20:44Z",
-    "stars": 186,
+    "stars": 200,
     "name": "runxiyu/furgit",
     "url": "https://github.com/runxiyu/furgit",
     "lang": "Go",
     "desc": "Fast Git library in pure Go"
   },
   {
-    "createdAt": "2025-11-11T14:11:48Z",
-    "stars": 180,
-    "name": "dartcv/AuroraTik",
-    "url": "https://github.com/dartcv/AuroraTik",
-    "lang": "Kotlin",
-    "desc": "抖音功能增强"
+    "createdAt": "2025-11-13T08:14:44Z",
+    "stars": 186,
+    "name": "zelestcarlyone/stacks",
+    "url": "https://github.com/zelestcarlyone/stacks",
+    "lang": "Python",
+    "desc": "Lightweight download manager for Anna's Archive with fast downloads, web UI, and API support."
   },
   {
-    "createdAt": "2025-11-11T13:55:47Z",
-    "stars": 173,
-    "name": "angel10x/Gnad.fun-SmartContract",
-    "url": "https://github.com/angel10x/Gnad.fun-SmartContract",
-    "lang": "Solidity",
-    "desc": "Monad Memecoin Launchpad like pumpfun"
+    "createdAt": "2025-11-14T15:31:14Z",
+    "stars": 176,
+    "name": "maxandrews/Epstein-doc-explorer",
+    "url": "https://github.com/maxandrews/Epstein-doc-explorer",
+    "lang": "JavaScript",
+    "desc": "a graph explorer of the Epstein emails"
+  },
+  {
+    "createdAt": "2025-11-18T13:04:59Z",
+    "stars": 176,
+    "name": "Norsico/Video-Materials-AutoGEN-Workstation",
+    "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
+    "lang": "Python",
+    "desc": "一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。"
+  },
+  {
+    "createdAt": "2025-11-13T20:48:46Z",
+    "stars": 174,
+    "name": "seceq/hpcrypt",
+    "url": "https://github.com/seceq/hpcrypt",
+    "lang": "Rust",
+    "desc": "High-performance cryptography library in 100% safe Rust"
+  },
+  {
+    "createdAt": "2025-11-16T17:19:45Z",
+    "stars": 171,
+    "name": "9j/claude-code-mux",
+    "url": "https://github.com/9j/claude-code-mux",
+    "lang": "Rust",
+    "desc": "High-performance AI routing proxy built in Rust with automatic failover, priority-based routing, and    support for 15+ providers (Anthropic, OpenAI, Cerebras, Minimax, Kimi, etc.)"
   },
   {
     "createdAt": "2025-11-15T08:03:52Z",
@@ -192,6 +192,30 @@
     "desc": "A list of 171 game mechanics techniques, performance optimizations and player experience tips to use as inspiration for your next games!"
   },
   {
+    "createdAt": "2025-11-14T19:23:39Z",
+    "stars": 169,
+    "name": "shanselman/WindowsEdgeLight",
+    "url": "https://github.com/shanselman/WindowsEdgeLight",
+    "lang": "C#",
+    "desc": "A lightweight WPF application that adds a customizable glowing edge light effect around your primary monitor"
+  },
+  {
+    "createdAt": "2025-11-13T15:38:33Z",
+    "stars": 169,
+    "name": "FuQuan233/HeyTea_AutoUpload",
+    "url": "https://github.com/FuQuan233/HeyTea_AutoUpload",
+    "lang": "Python",
+    "desc": "一个带GUI界面的喜茶自定义杯贴上传工具，支持短信验证码登录和图片上传功能。"
+  },
+  {
+    "createdAt": "2025-11-13T08:40:03Z",
+    "stars": 168,
+    "name": "yunshenwuchuxun/smart-drawio-next",
+    "url": "https://github.com/yunshenwuchuxun/smart-drawio-next",
+    "lang": "JavaScript",
+    "desc": "AI-powered Draw.io diagram generator with natural language - 用自然语言生成专业 Draw.io 图表"
+  },
+  {
     "createdAt": "2025-11-15T05:26:16Z",
     "stars": 165,
     "name": "u192164745958katherinelopez/douyin-api",
@@ -200,36 +224,36 @@
     "desc": "抖音接口,抖音API,douyin api,douyin"
   },
   {
-    "createdAt": "2025-11-13T08:40:03Z",
-    "stars": 163,
-    "name": "yunshenwuchuxun/smart-drawio-next",
-    "url": "https://github.com/yunshenwuchuxun/smart-drawio-next",
-    "lang": "JavaScript",
-    "desc": "AI-powered Draw.io diagram generator with natural language - 用自然语言生成专业 Draw.io 图表"
+    "createdAt": "2025-11-15T19:58:26Z",
+    "stars": 159,
+    "name": "mit-han-lab/flash-moba",
+    "url": "https://github.com/mit-han-lab/flash-moba",
+    "lang": "C++",
+    "desc": ""
   },
   {
-    "createdAt": "2025-11-14T15:31:14Z",
-    "stars": 157,
-    "name": "maxandrews/Epstein-doc-explorer",
-    "url": "https://github.com/maxandrews/Epstein-doc-explorer",
-    "lang": "JavaScript",
-    "desc": "a graph explorer of the Epstein emails"
+    "createdAt": "2025-11-15T22:43:58Z",
+    "stars": 150,
+    "name": "steipete/Trimmy",
+    "url": "https://github.com/steipete/Trimmy",
+    "lang": "Swift",
+    "desc": "\"Paste once, run once.\" — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run."
   },
   {
-    "createdAt": "2025-11-14T19:23:39Z",
-    "stars": 155,
-    "name": "shanselman/WindowsEdgeLight",
-    "url": "https://github.com/shanselman/WindowsEdgeLight",
-    "lang": "C#",
-    "desc": "A lightweight WPF application that adds a customizable glowing edge light effect around your primary monitor"
-  },
-  {
-    "createdAt": "2025-11-13T15:38:33Z",
-    "stars": 151,
-    "name": "FuQuan233/HeyTea_AutoUpload",
-    "url": "https://github.com/FuQuan233/HeyTea_AutoUpload",
+    "createdAt": "2025-11-13T21:15:28Z",
+    "stars": 147,
+    "name": "Whamp/chirp",
+    "url": "https://github.com/Whamp/chirp",
     "lang": "Python",
-    "desc": "一个带GUI界面的喜茶自定义杯贴上传工具，支持短信验证码登录和图片上传功能。"
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-16T15:58:48Z",
+    "stars": 143,
+    "name": "Aeastr/SettingsKit",
+    "url": "https://github.com/Aeastr/SettingsKit",
+    "lang": "Swift",
+    "desc": "A declarative SwiftUI package for building settings interfaces with navigation, search, and customizable styling"
   },
   {
     "createdAt": "2025-11-13T03:25:51Z",
@@ -248,155 +272,131 @@
     "desc": "tisa is an emulator for the Tiny ISA"
   },
   {
-    "createdAt": "2025-11-15T19:58:26Z",
-    "stars": 141,
-    "name": "mit-han-lab/flash-moba",
-    "url": "https://github.com/mit-han-lab/flash-moba",
-    "lang": "C++",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-15T22:43:58Z",
-    "stars": 139,
-    "name": "steipete/Trimmy",
-    "url": "https://github.com/steipete/Trimmy",
-    "lang": "Swift",
-    "desc": "\"Paste once, run once.\" — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run."
-  },
-  {
-    "createdAt": "2025-11-16T17:19:45Z",
-    "stars": 138,
-    "name": "9j/claude-code-mux",
-    "url": "https://github.com/9j/claude-code-mux",
-    "lang": "HTML",
-    "desc": "High-performance AI routing proxy built in Rust with automatic failover, priority-based routing, and    support for 15+ providers (Anthropic, OpenAI, Cerebras, Minimax, Kimi, etc.)"
-  },
-  {
     "createdAt": "2025-11-12T14:20:58Z",
-    "stars": 138,
+    "stars": 140,
     "name": "ai-tmarks/tmarks",
     "url": "https://github.com/ai-tmarks/tmarks",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-13T21:15:28Z",
-    "stars": 137,
-    "name": "Whamp/chirp",
-    "url": "https://github.com/Whamp/chirp",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-11-14T15:39:35Z",
-    "stars": 136,
+    "stars": 137,
     "name": "Wemino/MadnessPatch",
     "url": "https://github.com/Wemino/MadnessPatch",
     "lang": "C++",
     "desc": "A patch that fixes various issues in the PC port of Alice: Madness Returns"
   },
   {
-    "createdAt": "2025-11-11T09:22:32Z",
-    "stars": 133,
-    "name": "JayanAXHF/filessh",
-    "url": "https://github.com/JayanAXHF/filessh",
-    "lang": "Rust",
-    "desc": "A fast and convenient TUI file browser for remote servers"
-  },
-  {
-    "createdAt": "2025-11-11T06:13:02Z",
-    "stars": 130,
-    "name": "Zhiyuan-Zeng/RLVE",
-    "url": "https://github.com/Zhiyuan-Zeng/RLVE",
-    "lang": "Python",
-    "desc": "[Preprint] RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Environments"
-  },
-  {
-    "createdAt": "2025-11-16T15:58:48Z",
-    "stars": 130,
-    "name": "Aeastr/SettingsKit",
-    "url": "https://github.com/Aeastr/SettingsKit",
-    "lang": "Swift",
-    "desc": "A declarative SwiftUI package for building settings interfaces with navigation, search, and customizable styling"
-  },
-  {
-    "createdAt": "2025-11-14T00:51:19Z",
-    "stars": 125,
-    "name": "moistrr/TGbot-D1",
-    "url": "https://github.com/moistrr/TGbot-D1",
-    "lang": "JavaScript",
-    "desc": "实现了：人机验证、私聊到话题模式的转发、管理员回复中继、话题名动态更新、已编辑消息处理、用户屏蔽功能、关键词自动回复,存储已从 Cloudflare KV 切换到 D1 (SQLite) 以获取更高的写入容量。"
-  },
-  {
-    "createdAt": "2025-11-17T10:40:39Z",
-    "stars": 123,
-    "name": "Mic92/strace-macos",
-    "url": "https://github.com/Mic92/strace-macos",
-    "lang": "Python",
-    "desc": "A clone of the strace command for macOS"
-  },
-  {
-    "createdAt": "2025-11-11T23:05:19Z",
-    "stars": 123,
-    "name": "ngongcm/public-api-list",
-    "url": "https://github.com/ngongcm/public-api-list",
-    "lang": "",
-    "desc": "A curated collection of the best free, freemium, and paid APIs for developers.  "
-  },
-  {
-    "createdAt": "2025-11-11T03:39:20Z",
-    "stars": 122,
-    "name": "wzdnzd/resume",
-    "url": "https://github.com/wzdnzd/resume",
-    "lang": "TypeScript",
-    "desc": "A Feature-Rich Resume Builder that Supports Flexible Customization"
-  },
-  {
-    "createdAt": "2025-11-15T11:11:36Z",
-    "stars": 119,
-    "name": "rit3zh/expo-linear-like-bottom-tabs",
-    "url": "https://github.com/rit3zh/expo-linear-like-bottom-tabs",
-    "lang": "TypeScript",
-    "desc": "🎨 Clean and simple bottom tabs inspired by Linear. Easy gestures, smooth animations."
-  },
-  {
-    "createdAt": "2025-11-12T14:33:41Z",
-    "stars": 114,
-    "name": "joebwd/mental-wellness-prompts",
-    "url": "https://github.com/joebwd/mental-wellness-prompts",
-    "lang": "",
-    "desc": "Templates for AI-powered mental wellness support. Includes conversation frameworks, safety protocols, crisis resources, and implementation guides derived from evidence-based practices."
-  },
-  {
-    "createdAt": "2025-11-11T07:08:48Z",
-    "stars": 112,
-    "name": "spike0en/awesome_nothing",
-    "url": "https://github.com/spike0en/awesome_nothing",
-    "lang": "",
-    "desc": "Curated list of everything related to Nothing ecosystem"
-  },
-  {
     "createdAt": "2025-11-13T15:42:56Z",
-    "stars": 111,
+    "stars": 136,
     "name": "tuist/magnolia",
     "url": "https://github.com/tuist/magnolia",
     "lang": "Rust",
     "desc": "Run your CI pipelines locally"
   },
   {
-    "createdAt": "2025-11-11T13:33:40Z",
-    "stars": 107,
-    "name": "HenryLoM/CliWaifuTamagotchi",
-    "url": "https://github.com/HenryLoM/CliWaifuTamagotchi",
-    "lang": "Go",
-    "desc": "CLI ASCII avatar for entertainment and motivational purposes"
+    "createdAt": "2025-11-18T05:58:40Z",
+    "stars": 135,
+    "name": "rlresearch/dr-tulu",
+    "url": "https://github.com/rlresearch/dr-tulu",
+    "lang": "Python",
+    "desc": ""
   },
   {
-    "createdAt": "2025-11-14T05:16:28Z",
-    "stars": 106,
-    "name": "Ssoutnn/heytea-diy",
-    "url": "https://github.com/Ssoutnn/heytea-diy",
+    "createdAt": "2025-11-14T00:51:19Z",
+    "stars": 135,
+    "name": "moistrr/TGbot-D1",
+    "url": "https://github.com/moistrr/TGbot-D1",
     "lang": "JavaScript",
-    "desc": "喜茶免抓包自定义喜帖上传"
+    "desc": "实现了：人机验证、私聊到话题模式的转发、管理员回复中继、话题名动态更新、已编辑消息处理、用户屏蔽功能、关键词自动回复,存储已从 Cloudflare KV 切换到 D1 (SQLite) 以获取更高的写入容量。"
+  },
+  {
+    "createdAt": "2025-11-12T14:33:41Z",
+    "stars": 133,
+    "name": "joebwd/mental-wellness-prompts",
+    "url": "https://github.com/joebwd/mental-wellness-prompts",
+    "lang": "",
+    "desc": "Templates for AI-powered mental wellness support. Includes conversation frameworks, safety protocols, crisis resources, and implementation guides derived from evidence-based practices."
+  },
+  {
+    "createdAt": "2025-11-17T15:18:28Z",
+    "stars": 133,
+    "name": "BrownFineSecurity/iothackbot",
+    "url": "https://github.com/BrownFineSecurity/iothackbot",
+    "lang": "Python",
+    "desc": "IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting"
+  },
+  {
+    "createdAt": "2025-11-17T18:02:58Z",
+    "stars": 129,
+    "name": "theNetworkChuck/dark-web-scraping-guide",
+    "url": "https://github.com/theNetworkChuck/dark-web-scraping-guide",
+    "lang": "",
+    "desc": "Comprehensive guide for NetworkChuck Episode 480 - Robin AI Dark Web Scraping Tool. Installation, usage, safety guidelines, and troubleshooting for educational security research."
+  },
+  {
+    "createdAt": "2025-11-19T07:02:55Z",
+    "stars": 126,
+    "name": "deepseek-ai/LPLB",
+    "url": "https://github.com/deepseek-ai/LPLB",
+    "lang": "Python",
+    "desc": "An early research stage MoE load balancer based on inear programming."
+  },
+  {
+    "createdAt": "2025-11-15T11:11:36Z",
+    "stars": 124,
+    "name": "rit3zh/expo-linear-like-bottom-tabs",
+    "url": "https://github.com/rit3zh/expo-linear-like-bottom-tabs",
+    "lang": "TypeScript",
+    "desc": "🎨 Clean and simple bottom tabs inspired by Linear. Easy gestures, smooth animations."
+  },
+  {
+    "createdAt": "2025-11-12T06:36:25Z",
+    "stars": 123,
+    "name": "TeleHuman/TextOp",
+    "url": "https://github.com/TeleHuman/TextOp",
+    "lang": "Python",
+    "desc": "TextOp: Real-time Interactive Text-Driven Humanoid Robot Motion Generation and Control"
+  },
+  {
+    "createdAt": "2025-11-17T13:38:35Z",
+    "stars": 122,
+    "name": "seceq/hptls",
+    "url": "https://github.com/seceq/hptls",
+    "lang": "Rust",
+    "desc": "High-performance TLS/DTLS/QUIC library in 100% safe Rust"
+  },
+  {
+    "createdAt": "2025-11-13T04:45:31Z",
+    "stars": 122,
+    "name": "typv/nest-turbo-starter",
+    "url": "https://github.com/typv/nest-turbo-starter",
+    "lang": "TypeScript",
+    "desc": "A production-ready NestJS monorepo starter kit for building scalable microservices with Turborepo and pnpm."
+  },
+  {
+    "createdAt": "2025-11-12T22:37:13Z",
+    "stars": 117,
+    "name": "ricardojoserf/SAMDump",
+    "url": "https://github.com/ricardojoserf/SAMDump",
+    "lang": "C++",
+    "desc": "Extract SAM and SYSTEM using Volume Shadow Copy (VSS) API. With multiple exfiltration options and XOR obfuscation"
+  },
+  {
+    "createdAt": "2025-11-12T21:30:44Z",
+    "stars": 114,
+    "name": "vishakhasadhwani/60DaysToCloud",
+    "url": "https://github.com/vishakhasadhwani/60DaysToCloud",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-16T10:57:16Z",
+    "stars": 113,
+    "name": "divagr18/memlayer",
+    "url": "https://github.com/divagr18/memlayer",
+    "lang": "Python",
+    "desc": "The plug-and-play memory layer for LLMs. Add persistent, intelligent, human-like memory and recall to any model in minutes."
   }
 ]
