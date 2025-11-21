@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-11-16T14:48:46Z",
-    "stars": 2013,
+    "stars": 2145,
     "name": "straight-tamago/misaka26",
     "url": "https://github.com/straight-tamago/misaka26",
     "lang": "",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-11-18T02:37:00Z",
-    "stars": 1624,
+    "stars": 1719,
     "name": "karpathy/reader3",
     "url": "https://github.com/karpathy/reader3",
     "lang": "Python",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-11-16T22:39:26Z",
-    "stars": 671,
+    "stars": 823,
     "name": "K-Dense-AI/karpathy",
     "url": "https://github.com/K-Dense-AI/karpathy",
     "lang": "Python",
@@ -25,63 +25,31 @@
   },
   {
     "createdAt": "2025-11-15T08:59:04Z",
-    "stars": 508,
+    "stars": 564,
     "name": "AnandChowdhary/continuous-claude",
     "url": "https://github.com/AnandChowdhary/continuous-claude",
     "lang": "Shell",
     "desc": "🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging"
   },
   {
-    "createdAt": "2025-11-13T08:09:51Z",
-    "stars": 463,
-    "name": "modelscope/AgentEvolver",
-    "url": "https://github.com/modelscope/AgentEvolver",
-    "lang": "Python",
-    "desc": "AgentEvolver: Towards Efficient Self-Evolving Agent System"
-  },
-  {
-    "createdAt": "2025-11-17T22:03:19Z",
-    "stars": 462,
-    "name": "buyukakyuz/install-nothing",
-    "url": "https://github.com/buyukakyuz/install-nothing",
-    "lang": "Rust",
-    "desc": "A terminal application that simulates installing things but doesn't actually install anything"
-  },
-  {
-    "createdAt": "2025-11-13T11:58:56Z",
-    "stars": 449,
-    "name": "Haleclipse/Claudix",
-    "url": "https://github.com/Haleclipse/Claudix",
-    "lang": "TypeScript",
-    "desc": "Gorgeous Claude Code Extend for VS Code."
-  },
-  {
-    "createdAt": "2025-11-15T18:09:24Z",
-    "stars": 415,
-    "name": "medusalix/FreeMDU",
-    "url": "https://github.com/medusalix/FreeMDU",
-    "lang": "Rust",
-    "desc": "Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface"
-  },
-  {
     "createdAt": "2025-11-18T08:23:58Z",
-    "stars": 397,
+    "stars": 527,
     "name": "supertone-inc/supertonic",
     "url": "https://github.com/supertone-inc/supertonic",
     "lang": "Swift",
     "desc": "Lightning-fast, on-device TTS — running natively via ONNX."
   },
   {
-    "createdAt": "2025-11-13T18:02:17Z",
-    "stars": 323,
-    "name": "glittercowboy/taches-cc-resources",
-    "url": "https://github.com/glittercowboy/taches-cc-resources",
-    "lang": "",
-    "desc": "A collection of my favorite custom Claude Code resources to make life easier."
+    "createdAt": "2025-11-17T22:03:19Z",
+    "stars": 492,
+    "name": "buyukakyuz/install-nothing",
+    "url": "https://github.com/buyukakyuz/install-nothing",
+    "lang": "Rust",
+    "desc": "A terminal application that simulates installing things but doesn't actually install anything"
   },
   {
     "createdAt": "2025-11-18T13:04:59Z",
-    "stars": 317,
+    "stars": 446,
     "name": "Norsico/Video-Materials-AutoGEN-Workstation",
     "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
     "lang": "Python",
@@ -89,79 +57,95 @@
   },
   {
     "createdAt": "2025-11-14T02:24:51Z",
-    "stars": 307,
+    "stars": 436,
     "name": "difyz9/ytb2bili",
     "url": "https://github.com/difyz9/ytb2bili",
     "lang": "Go",
     "desc": "一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。"
   },
   {
-    "createdAt": "2025-11-17T10:40:39Z",
-    "stars": 295,
-    "name": "Mic92/strace-macos",
-    "url": "https://github.com/Mic92/strace-macos",
-    "lang": "Python",
-    "desc": "A clone of the strace command for macOS"
+    "createdAt": "2025-11-15T18:09:24Z",
+    "stars": 420,
+    "name": "medusalix/FreeMDU",
+    "url": "https://github.com/medusalix/FreeMDU",
+    "lang": "Rust",
+    "desc": "Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface"
+  },
+  {
+    "createdAt": "2025-11-20T14:54:10Z",
+    "stars": 342,
+    "name": "hexagonal-sun/moss",
+    "url": "https://github.com/hexagonal-sun/moss",
+    "lang": "Rust",
+    "desc": "Rust Linux-compatible kernel"
   },
   {
     "createdAt": "2025-11-14T17:13:57Z",
-    "stars": 294,
+    "stars": 341,
     "name": "steipete/oracle",
     "url": "https://github.com/steipete/oracle",
     "lang": "TypeScript",
     "desc": "Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files."
   },
   {
-    "createdAt": "2025-11-16T01:36:56Z",
-    "stars": 287,
-    "name": "zigbook/zigbook",
-    "url": "https://github.com/zigbook/zigbook",
-    "lang": "Zig",
-    "desc": "A comprehensive guide to the Zig programming language, a journey from fundamentals to advanced systems programming."
+    "createdAt": "2025-11-17T10:40:39Z",
+    "stars": 314,
+    "name": "Mic92/strace-macos",
+    "url": "https://github.com/Mic92/strace-macos",
+    "lang": "Python",
+    "desc": "A clone of the strace command for macOS"
+  },
+  {
+    "createdAt": "2025-11-20T06:15:42Z",
+    "stars": 310,
+    "name": "Tencent-Hunyuan/HunyuanVideo-1.5",
+    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
+    "lang": "Python",
+    "desc": "HunyuanVideo-1.5: A leading lightweight video generation model"
   },
   {
     "createdAt": "2025-11-16T17:19:45Z",
-    "stars": 256,
+    "stars": 301,
     "name": "9j/claude-code-mux",
     "url": "https://github.com/9j/claude-code-mux",
     "lang": "Rust",
     "desc": "High-performance AI routing proxy built in Rust with automatic failover, priority-based routing, and    support for 15+ providers (Anthropic, OpenAI, Cerebras, Minimax, Kimi, etc.)"
   },
   {
-    "createdAt": "2025-11-13T08:14:44Z",
-    "stars": 235,
-    "name": "zelestcarlyone/stacks",
-    "url": "https://github.com/zelestcarlyone/stacks",
-    "lang": "Python",
-    "desc": "Lightweight download manager for Anna's Archive with fast downloads, web UI, and API support."
-  },
-  {
     "createdAt": "2025-11-19T07:02:55Z",
-    "stars": 218,
+    "stars": 299,
     "name": "deepseek-ai/LPLB",
     "url": "https://github.com/deepseek-ai/LPLB",
     "lang": "Python",
     "desc": "An early research stage MoE load balancer based on inear programming."
   },
   {
+    "createdAt": "2025-11-16T01:36:56Z",
+    "stars": 295,
+    "name": "zigbook/zigbook",
+    "url": "https://github.com/zigbook/zigbook",
+    "lang": "Zig",
+    "desc": "A comprehensive guide to the Zig programming language, a journey from fundamentals to advanced systems programming."
+  },
+  {
     "createdAt": "2025-11-19T05:33:56Z",
-    "stars": 211,
+    "stars": 273,
     "name": "dzhng/claude-agent-server",
     "url": "https://github.com/dzhng/claude-agent-server",
     "lang": "TypeScript",
     "desc": "Run Claude Agent (Claude Code) in a sandbox, control it via websocket"
   },
   {
-    "createdAt": "2025-11-13T07:20:44Z",
-    "stars": 211,
-    "name": "runxiyu/furgit",
-    "url": "https://github.com/runxiyu/furgit",
-    "lang": "Go",
-    "desc": "Fast Git library in pure Go"
+    "createdAt": "2025-11-16T13:32:46Z",
+    "stars": 245,
+    "name": "YYsuni/2025-blog-public",
+    "url": "https://github.com/YYsuni/2025-blog-public",
+    "lang": "TypeScript",
+    "desc": "An open-source blog focused on front-end UI controls, where content is submitted via the blog's UI rather than through code updates."
   },
   {
     "createdAt": "2025-11-15T15:42:23Z",
-    "stars": 209,
+    "stars": 212,
     "name": "hanakim3945/bl_sbx",
     "url": "https://github.com/hanakim3945/bl_sbx",
     "lang": "",
@@ -169,51 +153,91 @@
   },
   {
     "createdAt": "2025-11-14T15:31:14Z",
-    "stars": 192,
+    "stars": 204,
     "name": "maxandrews/Epstein-doc-explorer",
     "url": "https://github.com/maxandrews/Epstein-doc-explorer",
     "lang": "JavaScript",
     "desc": "a graph explorer of the Epstein emails"
   },
   {
+    "createdAt": "2025-11-19T17:56:04Z",
+    "stars": 190,
+    "name": "Parskatt/RoMaV2",
+    "url": "https://github.com/Parskatt/RoMaV2",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-20T08:09:02Z",
+    "stars": 188,
+    "name": "PallavAg/iOS-Clone-SwiftUI",
+    "url": "https://github.com/PallavAg/iOS-Clone-SwiftUI",
+    "lang": "Swift",
+    "desc": "iOS Clone built by Gemini 3.0 Pro in SwiftUI"
+  },
+  {
     "createdAt": "2025-11-14T19:23:39Z",
-    "stars": 179,
+    "stars": 186,
     "name": "shanselman/WindowsEdgeLight",
     "url": "https://github.com/shanselman/WindowsEdgeLight",
     "lang": "C#",
     "desc": "A lightweight WPF application that adds a customizable glowing edge light effect around your primary monitor"
   },
   {
-    "createdAt": "2025-11-13T08:40:03Z",
-    "stars": 179,
-    "name": "yunshenwuchuxun/smart-drawio-next",
-    "url": "https://github.com/yunshenwuchuxun/smart-drawio-next",
-    "lang": "JavaScript",
-    "desc": "AI-powered Draw.io diagram generator with natural language - 用自然语言生成专业 Draw.io 图表"
+    "createdAt": "2025-11-16T16:45:42Z",
+    "stars": 178,
+    "name": "ast-grep/claude-skill",
+    "url": "https://github.com/ast-grep/claude-skill",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-17T15:18:28Z",
+    "stars": 176,
+    "name": "BrownFineSecurity/iothackbot",
+    "url": "https://github.com/BrownFineSecurity/iothackbot",
+    "lang": "Python",
+    "desc": "IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting"
   },
   {
     "createdAt": "2025-11-15T08:03:52Z",
-    "stars": 173,
+    "stars": 175,
     "name": "raduacg/game-mechanics-optimizations",
     "url": "https://github.com/raduacg/game-mechanics-optimizations",
     "lang": "",
     "desc": "A list of 171 game mechanics techniques, performance optimizations and player experience tips to use as inspiration for your next games!"
   },
   {
-    "createdAt": "2025-11-13T15:38:33Z",
-    "stars": 170,
-    "name": "FuQuan233/HeyTea_AutoUpload",
-    "url": "https://github.com/FuQuan233/HeyTea_AutoUpload",
-    "lang": "Python",
-    "desc": "一个带GUI界面的喜茶自定义杯贴上传工具，支持短信验证码登录和图片上传功能。"
-  },
-  {
     "createdAt": "2025-11-18T05:58:40Z",
-    "stars": 165,
+    "stars": 175,
     "name": "rlresearch/dr-tulu",
     "url": "https://github.com/rlresearch/dr-tulu",
     "lang": "Python",
     "desc": ""
+  },
+  {
+    "createdAt": "2025-11-15T22:43:58Z",
+    "stars": 170,
+    "name": "steipete/Trimmy",
+    "url": "https://github.com/steipete/Trimmy",
+    "lang": "Swift",
+    "desc": "\"Paste once, run once.\" — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run."
+  },
+  {
+    "createdAt": "2025-11-15T19:58:26Z",
+    "stars": 167,
+    "name": "mit-han-lab/flash-moba",
+    "url": "https://github.com/mit-han-lab/flash-moba",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-16T15:58:48Z",
+    "stars": 167,
+    "name": "Aeastr/SettingsKit",
+    "url": "https://github.com/Aeastr/SettingsKit",
+    "lang": "Swift",
+    "desc": "A declarative SwiftUI package for building settings interfaces with navigation, search, and customizable styling"
   },
   {
     "createdAt": "2025-11-15T05:26:16Z",
@@ -224,76 +248,44 @@
     "desc": "抖音接口,抖音API,douyin api,douyin"
   },
   {
-    "createdAt": "2025-11-13T20:48:46Z",
-    "stars": 164,
-    "name": "seceq/hpcrypt",
-    "url": "https://github.com/seceq/hpcrypt",
-    "lang": "Rust",
-    "desc": "High-performance cryptography library in 100% safe Rust"
-  },
-  {
-    "createdAt": "2025-11-15T19:58:26Z",
-    "stars": 164,
-    "name": "mit-han-lab/flash-moba",
-    "url": "https://github.com/mit-han-lab/flash-moba",
-    "lang": "C++",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-15T22:43:58Z",
-    "stars": 163,
-    "name": "steipete/Trimmy",
-    "url": "https://github.com/steipete/Trimmy",
-    "lang": "Swift",
-    "desc": "\"Paste once, run once.\" — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run."
-  },
-  {
-    "createdAt": "2025-11-16T13:32:46Z",
-    "stars": 162,
-    "name": "YYsuni/2025-blog-public",
-    "url": "https://github.com/YYsuni/2025-blog-public",
-    "lang": "TypeScript",
-    "desc": "An open-source blog focused on front-end UI controls, where content is submitted via the blog's UI rather than through code updates."
-  },
-  {
-    "createdAt": "2025-11-17T15:18:28Z",
-    "stars": 159,
-    "name": "BrownFineSecurity/iothackbot",
-    "url": "https://github.com/BrownFineSecurity/iothackbot",
-    "lang": "Python",
-    "desc": "IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting"
-  },
-  {
-    "createdAt": "2025-11-16T15:58:48Z",
-    "stars": 155,
-    "name": "Aeastr/SettingsKit",
-    "url": "https://github.com/Aeastr/SettingsKit",
-    "lang": "Swift",
-    "desc": "A declarative SwiftUI package for building settings interfaces with navigation, search, and customizable styling"
-  },
-  {
-    "createdAt": "2025-11-13T21:15:28Z",
-    "stars": 148,
-    "name": "Whamp/chirp",
-    "url": "https://github.com/Whamp/chirp",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-11-17T18:02:58Z",
-    "stars": 147,
+    "stars": 160,
     "name": "theNetworkChuck/dark-web-scraping-guide",
     "url": "https://github.com/theNetworkChuck/dark-web-scraping-guide",
     "lang": "",
     "desc": "Comprehensive guide for NetworkChuck Episode 480 - Robin AI Dark Web Scraping Tool. Installation, usage, safety guidelines, and troubleshooting for educational security research."
   },
   {
-    "createdAt": "2025-11-13T03:25:51Z",
-    "stars": 142,
-    "name": "adysec/dht-spider",
-    "url": "https://github.com/adysec/dht-spider",
-    "lang": "Rust",
-    "desc": "Rust 实现的 BitTorrent DHT（BEP‑5）与爬虫，并内置元数据下载（BEP‑9/10）与 PeX（BEP‑11/ut_pex）。"
+    "createdAt": "2025-11-16T10:57:16Z",
+    "stars": 154,
+    "name": "divagr18/memlayer",
+    "url": "https://github.com/divagr18/memlayer",
+    "lang": "Python",
+    "desc": "Plug-and-play memory for LLMs in 3 lines of code. Add persistent, intelligent, human-like memory and recall to any model in minutes."
+  },
+  {
+    "createdAt": "2025-11-18T17:58:25Z",
+    "stars": 148,
+    "name": "mega002/llm-interp-tau",
+    "url": "https://github.com/mega002/llm-interp-tau",
+    "lang": "",
+    "desc": "Course Materials for Interpretability of Large Language Models (0368.4264) at Tel Aviv University"
+  },
+  {
+    "createdAt": "2025-11-14T00:51:19Z",
+    "stars": 147,
+    "name": "moistrr/TGbot-D1",
+    "url": "https://github.com/moistrr/TGbot-D1",
+    "lang": "JavaScript",
+    "desc": "实现了：人机验证、私聊到话题模式的转发、管理员回复中继、话题名动态更新、已编辑消息处理、用户屏蔽功能、关键词自动回复,存储已从 Cloudflare KV 切换到 D1 (SQLite) 以获取更高的写入容量。"
+  },
+  {
+    "createdAt": "2025-11-14T15:39:35Z",
+    "stars": 144,
+    "name": "Wemino/MadnessPatch",
+    "url": "https://github.com/Wemino/MadnessPatch",
+    "lang": "C++",
+    "desc": "A patch that fixes various issues in the PC port of Alice: Madness Returns"
   },
   {
     "createdAt": "2025-11-15T14:20:07Z",
@@ -304,92 +296,68 @@
     "desc": "tisa is an emulator for the Tiny ISA"
   },
   {
-    "createdAt": "2025-11-14T15:39:35Z",
-    "stars": 142,
-    "name": "Wemino/MadnessPatch",
-    "url": "https://github.com/Wemino/MadnessPatch",
-    "lang": "C++",
-    "desc": "A patch that fixes various issues in the PC port of Alice: Madness Returns"
+    "createdAt": "2025-11-18T11:10:35Z",
+    "stars": 133,
+    "name": "cos43/flowpilot",
+    "url": "https://github.com/cos43/flowpilot",
+    "lang": "TypeScript",
+    "desc": ""
   },
   {
-    "createdAt": "2025-11-14T00:51:19Z",
-    "stars": 142,
-    "name": "moistrr/TGbot-D1",
-    "url": "https://github.com/moistrr/TGbot-D1",
-    "lang": "JavaScript",
-    "desc": "实现了：人机验证、私聊到话题模式的转发、管理员回复中继、话题名动态更新、已编辑消息处理、用户屏蔽功能、关键词自动回复,存储已从 Cloudflare KV 切换到 D1 (SQLite) 以获取更高的写入容量。"
-  },
-  {
-    "createdAt": "2025-11-18T17:58:25Z",
-    "stars": 141,
-    "name": "mega002/llm-interp-tau",
-    "url": "https://github.com/mega002/llm-interp-tau",
-    "lang": "",
-    "desc": "Course Materials for Interpretability of Large Language Models (0368.4264) at Tel Aviv University"
-  },
-  {
-    "createdAt": "2025-11-16T10:57:16Z",
-    "stars": 141,
-    "name": "divagr18/memlayer",
-    "url": "https://github.com/divagr18/memlayer",
+    "createdAt": "2025-11-17T15:47:59Z",
+    "stars": 131,
+    "name": "wilpel/caveman-compression",
+    "url": "https://github.com/wilpel/caveman-compression",
     "lang": "Python",
-    "desc": "The plug-and-play memory layer for LLMs. Add persistent, intelligent, human-like memory and recall to any model in minutes."
-  },
-  {
-    "createdAt": "2025-11-13T15:42:56Z",
-    "stars": 138,
-    "name": "tuist/magnolia",
-    "url": "https://github.com/tuist/magnolia",
-    "lang": "Rust",
-    "desc": "Run your CI pipelines locally"
-  },
-  {
-    "createdAt": "2025-11-13T17:56:50Z",
-    "stars": 132,
-    "name": "langchain-ai/deepagents-quickstarts",
-    "url": "https://github.com/langchain-ai/deepagents-quickstarts",
-    "lang": "Jupyter Notebook",
-    "desc": "Build common agent use-cases with deepagents library "
+    "desc": "Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that defines meaning."
   },
   {
     "createdAt": "2025-11-15T11:11:36Z",
-    "stars": 128,
+    "stars": 130,
     "name": "rit3zh/expo-linear-like-bottom-tabs",
     "url": "https://github.com/rit3zh/expo-linear-like-bottom-tabs",
     "lang": "TypeScript",
     "desc": "🎨 Clean and simple bottom tabs inspired by Linear. Easy gestures, smooth animations."
   },
   {
-    "createdAt": "2025-11-13T04:45:31Z",
-    "stars": 125,
-    "name": "typv/nest-turbo-starter",
-    "url": "https://github.com/typv/nest-turbo-starter",
-    "lang": "TypeScript",
-    "desc": "A production-ready NestJS monorepo starter kit for building scalable microservices with Turborepo and pnpm."
+    "createdAt": "2025-11-17T19:04:12Z",
+    "stars": 129,
+    "name": "nari-labs/dia2",
+    "url": "https://github.com/nari-labs/dia2",
+    "lang": "Python",
+    "desc": "TTS model capable of streaming conversational audio in realtime."
   },
   {
-    "createdAt": "2025-11-16T16:45:42Z",
-    "stars": 120,
-    "name": "ast-grep/claude-skill",
-    "url": "https://github.com/ast-grep/claude-skill",
-    "lang": "",
+    "createdAt": "2025-11-19T19:32:08Z",
+    "stars": 126,
+    "name": "duolaAmengweb3/polysurge",
+    "url": "https://github.com/duolaAmengweb3/polysurge",
+    "lang": "Python",
     "desc": ""
   },
   {
     "createdAt": "2025-11-15T23:14:19Z",
-    "stars": 117,
+    "stars": 123,
     "name": "PozzettiAndrea/ComfyUI-DepthAnythingV3",
     "url": "https://github.com/PozzettiAndrea/ComfyUI-DepthAnythingV3",
     "lang": "Python",
     "desc": "ComfyUI support for DepthAnything V3 model"
   },
   {
-    "createdAt": "2025-11-18T11:10:35Z",
-    "stars": 115,
-    "name": "cos43/flowpilot",
-    "url": "https://github.com/cos43/flowpilot",
-    "lang": "TypeScript",
-    "desc": ""
+    "createdAt": "2025-11-16T17:00:44Z",
+    "stars": 119,
+    "name": "steipete/CodexBar",
+    "url": "https://github.com/steipete/CodexBar",
+    "lang": "Swift",
+    "desc": "Show usage stats for OpenAI Codex."
+  },
+  {
+    "createdAt": "2025-11-16T10:18:08Z",
+    "stars": 114,
+    "name": "0xSero/ai-data-extraction",
+    "url": "https://github.com/0xSero/ai-data-extraction",
+    "lang": "Python",
+    "desc": "extract all your personal data history from cursor, codex, claude-code, windsurf, and trae"
   },
   {
     "createdAt": "2025-11-14T05:16:28Z",
@@ -398,5 +366,37 @@
     "url": "https://github.com/Ssoutnn/heytea-diy",
     "lang": "JavaScript",
     "desc": "喜茶免抓包自定义喜帖上传"
+  },
+  {
+    "createdAt": "2025-11-19T12:00:12Z",
+    "stars": 113,
+    "name": "donlon/cloudflare-error-page",
+    "url": "https://github.com/donlon/cloudflare-error-page",
+    "lang": "HTML",
+    "desc": "Cloudflare error page generator"
+  },
+  {
+    "createdAt": "2025-11-19T09:18:22Z",
+    "stars": 111,
+    "name": "midudev/disable-cloudflare-cli",
+    "url": "https://github.com/midudev/disable-cloudflare-cli",
+    "lang": "JavaScript",
+    "desc": "CLI to disable Cloudflare without having to access Cloudflare Dashboard"
+  },
+  {
+    "createdAt": "2025-11-14T15:16:24Z",
+    "stars": 110,
+    "name": "winterknife/SILVERPICK",
+    "url": "https://github.com/winterknife/SILVERPICK",
+    "lang": "C++",
+    "desc": "Windows User-Mode Shellcode Development Framework (WUMSDF)"
+  },
+  {
+    "createdAt": "2025-11-17T13:38:35Z",
+    "stars": 110,
+    "name": "seceq/hptls",
+    "url": "https://github.com/seceq/hptls",
+    "lang": "Rust",
+    "desc": "High-performance TLS/DTLS/QUIC library in 100% safe Rust"
   }
 ]
