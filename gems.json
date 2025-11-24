@@ -1,15 +1,7 @@
 [
   {
-    "createdAt": "2025-11-16T14:48:46Z",
-    "stars": 2415,
-    "name": "straight-tamago/misaka26",
-    "url": "https://github.com/straight-tamago/misaka26",
-    "lang": "",
-    "desc": "iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. "
-  },
-  {
     "createdAt": "2025-11-22T23:24:14Z",
-    "stars": 2113,
+    "stars": 4431,
     "name": "karpathy/llm-council",
     "url": "https://github.com/karpathy/llm-council",
     "lang": "Python",
@@ -17,31 +9,23 @@
   },
   {
     "createdAt": "2025-11-18T02:37:00Z",
-    "stars": 1970,
+    "stars": 2087,
     "name": "karpathy/reader3",
     "url": "https://github.com/karpathy/reader3",
     "lang": "Python",
     "desc": "Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it."
   },
   {
-    "createdAt": "2025-11-16T22:39:26Z",
-    "stars": 991,
-    "name": "K-Dense-AI/karpathy",
-    "url": "https://github.com/K-Dense-AI/karpathy",
-    "lang": "Python",
-    "desc": "An agentic Machine Learning Engineer"
-  },
-  {
     "createdAt": "2025-11-18T08:23:58Z",
-    "stars": 786,
+    "stars": 970,
     "name": "supertone-inc/supertonic",
     "url": "https://github.com/supertone-inc/supertonic",
-    "lang": "JavaScript",
+    "lang": "Swift",
     "desc": "Lightning-fast, on-device TTS — running natively via ONNX."
   },
   {
     "createdAt": "2025-11-17T22:03:19Z",
-    "stars": 704,
+    "stars": 869,
     "name": "buyukakyuz/install-nothing",
     "url": "https://github.com/buyukakyuz/install-nothing",
     "lang": "Rust",
@@ -49,7 +33,7 @@
   },
   {
     "createdAt": "2025-11-18T13:04:59Z",
-    "stars": 644,
+    "stars": 741,
     "name": "Norsico/Video-Materials-AutoGEN-Workstation",
     "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
     "lang": "Python",
@@ -57,7 +41,7 @@
   },
   {
     "createdAt": "2025-11-20T14:54:10Z",
-    "stars": 601,
+    "stars": 698,
     "name": "hexagonal-sun/moss",
     "url": "https://github.com/hexagonal-sun/moss",
     "lang": "Rust",
@@ -65,23 +49,31 @@
   },
   {
     "createdAt": "2025-11-20T06:15:42Z",
-    "stars": 494,
+    "stars": 591,
     "name": "Tencent-Hunyuan/HunyuanVideo-1.5",
     "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
     "lang": "Python",
     "desc": "HunyuanVideo-1.5: A leading lightweight video generation model"
   },
   {
-    "createdAt": "2025-11-16T17:19:45Z",
-    "stars": 364,
-    "name": "9j/claude-code-mux",
-    "url": "https://github.com/9j/claude-code-mux",
-    "lang": "Rust",
-    "desc": "High-performance AI routing proxy built in Rust with automatic failover, priority-based routing, and    support for 15+ providers (Anthropic, OpenAI, Cerebras, Minimax, Kimi, etc.)"
+    "createdAt": "2025-11-21T06:14:31Z",
+    "stars": 464,
+    "name": "Ryandonofrio3/osgrep",
+    "url": "https://github.com/Ryandonofrio3/osgrep",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-21T10:33:50Z",
+    "stars": 410,
+    "name": "glidea/banana-prompt-quicker",
+    "url": "https://github.com/glidea/banana-prompt-quicker",
+    "lang": "JavaScript",
+    "desc": "🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly"
   },
   {
     "createdAt": "2025-11-19T05:33:56Z",
-    "stars": 345,
+    "stars": 382,
     "name": "dzhng/claude-agent-server",
     "url": "https://github.com/dzhng/claude-agent-server",
     "lang": "TypeScript",
@@ -89,7 +81,7 @@
   },
   {
     "createdAt": "2025-11-19T07:02:55Z",
-    "stars": 332,
+    "stars": 356,
     "name": "deepseek-ai/LPLB",
     "url": "https://github.com/deepseek-ai/LPLB",
     "lang": "Python",
@@ -97,191 +89,215 @@
   },
   {
     "createdAt": "2025-11-17T10:40:39Z",
-    "stars": 323,
+    "stars": 331,
     "name": "Mic92/strace-macos",
     "url": "https://github.com/Mic92/strace-macos",
     "lang": "Python",
     "desc": "A clone of the strace command for macOS"
   },
   {
-    "createdAt": "2025-11-16T01:36:56Z",
-    "stars": 307,
-    "name": "zigbook/zigbook",
-    "url": "https://github.com/zigbook/zigbook",
-    "lang": "Zig",
-    "desc": "A comprehensive guide to the Zig programming language, a journey from fundamentals to advanced systems programming."
-  },
-  {
-    "createdAt": "2025-11-16T03:56:10Z",
-    "stars": 287,
-    "name": "MadAppGang/dingo",
-    "url": "https://github.com/MadAppGang/dingo",
-    "lang": "Go",
-    "desc": "  A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility"
-  },
-  {
-    "createdAt": "2025-11-21T06:14:31Z",
-    "stars": 283,
-    "name": "Ryandonofrio3/osgrep",
-    "url": "https://github.com/Ryandonofrio3/osgrep",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-16T13:32:46Z",
-    "stars": 280,
-    "name": "YYsuni/2025-blog-public",
-    "url": "https://github.com/YYsuni/2025-blog-public",
-    "lang": "TypeScript",
-    "desc": "An open-source blog focused on front-end UI controls, where content is submitted via the blog's UI rather than through code updates."
-  },
-  {
-    "createdAt": "2025-11-16T16:45:42Z",
-    "stars": 276,
-    "name": "ast-grep/claude-skill",
-    "url": "https://github.com/ast-grep/claude-skill",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-20T08:09:02Z",
-    "stars": 272,
-    "name": "PallavAg/iOS-Clone-SwiftUI",
-    "url": "https://github.com/PallavAg/iOS-Clone-SwiftUI",
-    "lang": "Swift",
-    "desc": "iOS Clone built by Gemini 3.0 Pro in SwiftUI"
-  },
-  {
-    "createdAt": "2025-11-17T15:18:28Z",
-    "stars": 267,
-    "name": "BrownFineSecurity/iothackbot",
-    "url": "https://github.com/BrownFineSecurity/iothackbot",
-    "lang": "Python",
-    "desc": "IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting"
-  },
-  {
-    "createdAt": "2025-11-18T05:58:40Z",
-    "stars": 248,
-    "name": "rlresearch/dr-tulu",
-    "url": "https://github.com/rlresearch/dr-tulu",
-    "lang": "Python",
-    "desc": "Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research"
-  },
-  {
-    "createdAt": "2025-11-20T09:26:14Z",
-    "stars": 238,
-    "name": "miiot/micam",
-    "url": "https://github.com/miiot/micam",
-    "lang": "Python",
-    "desc": "🎦 Micam 是一个专为小米摄像头设计的 RTSP 桥接服务，能够将小米摄像头的视频流本地转推为 RTSP 格式，支持接入 HomeAssistant、Go2rtc、Frigate、Scrypted、Homekit 等多种 NVR 和智能家居系统。该项目采用 Docker Compose 快速部署方案，集成了 Miloco（小米摄像头管理工具）和 Go2rtc（RTSP 流转发服务），无需 GPU 即可运行，使小米摄像头能与各类主流智能家居平台无缝集成。"
-  },
-  {
-    "createdAt": "2025-11-21T10:33:50Z",
-    "stars": 221,
-    "name": "glidea/banana-prompt-quicker",
-    "url": "https://github.com/glidea/banana-prompt-quicker",
-    "lang": "JavaScript",
-    "desc": "🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly"
-  },
-  {
-    "createdAt": "2025-11-17T19:04:12Z",
-    "stars": 221,
-    "name": "nari-labs/dia2",
-    "url": "https://github.com/nari-labs/dia2",
-    "lang": "Python",
-    "desc": "TTS model capable of streaming conversational audio in realtime."
-  },
-  {
-    "createdAt": "2025-11-19T17:56:04Z",
-    "stars": 219,
-    "name": "Parskatt/RoMaV2",
-    "url": "https://github.com/Parskatt/RoMaV2",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-11-22T01:52:29Z",
-    "stars": 210,
+    "stars": 307,
     "name": "ZimengXiong/ExcaliDash",
     "url": "https://github.com/ZimengXiong/ExcaliDash",
     "lang": "TypeScript",
     "desc": "A self hosted dashboard and organizer for Excalidraw with live collaboration."
   },
   {
-    "createdAt": "2025-11-16T10:57:16Z",
-    "stars": 186,
-    "name": "divagr18/memlayer",
-    "url": "https://github.com/divagr18/memlayer",
+    "createdAt": "2025-11-17T15:18:28Z",
+    "stars": 304,
+    "name": "BrownFineSecurity/iothackbot",
+    "url": "https://github.com/BrownFineSecurity/iothackbot",
     "lang": "Python",
-    "desc": "Plug-and-play memory for LLMs in 3 lines of code. Add persistent, intelligent, human-like memory and recall to any model in minutes."
+    "desc": "IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting"
   },
   {
-    "createdAt": "2025-11-17T18:02:58Z",
-    "stars": 185,
-    "name": "theNetworkChuck/dark-web-scraping-guide",
-    "url": "https://github.com/theNetworkChuck/dark-web-scraping-guide",
-    "lang": "",
-    "desc": "Comprehensive guide for NetworkChuck Episode 480 - Robin AI Dark Web Scraping Tool. Installation, usage, safety guidelines, and troubleshooting for educational security research."
+    "createdAt": "2025-11-22T13:49:09Z",
+    "stars": 295,
+    "name": "thevangelist/dembrandt",
+    "url": "https://github.com/thevangelist/dembrandt",
+    "lang": "JavaScript",
+    "desc": "Extract any website’s full design system in few seconds - colors, typography, spacing, shadows, breakpoints. One command."
   },
   {
-    "createdAt": "2025-11-16T15:58:48Z",
-    "stars": 176,
-    "name": "Aeastr/SettingsKit",
-    "url": "https://github.com/Aeastr/SettingsKit",
-    "lang": "Swift",
-    "desc": "A declarative SwiftUI package for building settings interfaces with navigation, search, and customizable styling"
-  },
-  {
-    "createdAt": "2025-11-17T15:47:59Z",
-    "stars": 163,
-    "name": "wilpel/caveman-compression",
-    "url": "https://github.com/wilpel/caveman-compression",
+    "createdAt": "2025-11-18T05:58:40Z",
+    "stars": 295,
+    "name": "rlresearch/dr-tulu",
+    "url": "https://github.com/rlresearch/dr-tulu",
     "lang": "Python",
-    "desc": "Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that defines meaning."
-  },
-  {
-    "createdAt": "2025-11-22T03:42:33Z",
-    "stars": 157,
-    "name": "Kindness-Kismet/Stelliberty",
-    "url": "https://github.com/Kindness-Kismet/Stelliberty",
-    "lang": "Dart",
-    "desc": "A modern proxy client built with Flutter and Rust, powered by Clash Mihomo core"
-  },
-  {
-    "createdAt": "2025-11-18T17:58:25Z",
-    "stars": 156,
-    "name": "mega002/llm-interp-tau",
-    "url": "https://github.com/mega002/llm-interp-tau",
-    "lang": "",
-    "desc": "Course Materials for Interpretability of Large Language Models (0368.4264) at Tel Aviv University"
+    "desc": "Official repository for DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research"
   },
   {
     "createdAt": "2025-11-17T20:19:26Z",
-    "stars": 155,
+    "stars": 290,
     "name": "bol-van/zapret2",
     "url": "https://github.com/bol-van/zapret2",
     "lang": "C",
     "desc": "anti-dpi software"
   },
   {
+    "createdAt": "2025-11-20T08:09:02Z",
+    "stars": 287,
+    "name": "PallavAg/iOS-Clone-SwiftUI",
+    "url": "https://github.com/PallavAg/iOS-Clone-SwiftUI",
+    "lang": "Swift",
+    "desc": "iOS Clone built by Gemini 3.0 Pro in SwiftUI"
+  },
+  {
+    "createdAt": "2025-11-17T19:04:12Z",
+    "stars": 281,
+    "name": "nari-labs/dia2",
+    "url": "https://github.com/nari-labs/dia2",
+    "lang": "Python",
+    "desc": "TTS model capable of streaming conversational audio in realtime."
+  },
+  {
+    "createdAt": "2025-11-20T09:26:14Z",
+    "stars": 280,
+    "name": "miiot/micam",
+    "url": "https://github.com/miiot/micam",
+    "lang": "Python",
+    "desc": "🎦 Micam 是一个专为小米摄像头设计的 RTSP 桥接服务(非官方)，能够将小米摄像头的视频流本地转推到RTSP服务器，支持接入 HomeAssistant、Go2rtc、Frigate、Scrypted、Homekit 等多种NVR和智能家居系统。该项目采用 Docker Compose 快速部署方案，基于小米官方的Miloco，并集成Go2rtc实现RTSP流服务，无需GPU即可运行，使小米摄像头能与各类主流智能家居平台无缝集成。"
+  },
+  {
+    "createdAt": "2025-11-19T17:56:04Z",
+    "stars": 266,
+    "name": "Parskatt/RoMaV2",
+    "url": "https://github.com/Parskatt/RoMaV2",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-20T15:45:51Z",
+    "stars": 235,
+    "name": "bscript/rep",
+    "url": "https://github.com/bscript/rep",
+    "lang": "JavaScript",
+    "desc": "rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks"
+  },
+  {
+    "createdAt": "2025-11-23T03:25:12Z",
+    "stars": 224,
+    "name": "RhysSullivan/twitter-account-location-in-username",
+    "url": "https://github.com/RhysSullivan/twitter-account-location-in-username",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-22T03:42:33Z",
+    "stars": 203,
+    "name": "Kindness-Kismet/Stelliberty",
+    "url": "https://github.com/Kindness-Kismet/Stelliberty",
+    "lang": "Dart",
+    "desc": "A modern client built with Flutter and Rust, powered by Clash Mihomo core"
+  },
+  {
+    "createdAt": "2025-11-17T18:02:58Z",
+    "stars": 197,
+    "name": "theNetworkChuck/dark-web-scraping-guide",
+    "url": "https://github.com/theNetworkChuck/dark-web-scraping-guide",
+    "lang": "",
+    "desc": "Comprehensive guide for NetworkChuck Episode 480 - Robin AI Dark Web Scraping Tool. Installation, usage, safety guidelines, and troubleshooting for educational security research."
+  },
+  {
     "createdAt": "2025-11-18T18:02:57Z",
-    "stars": 152,
+    "stars": 180,
     "name": "rustmailer/bichon",
     "url": "https://github.com/rustmailer/bichon",
     "lang": "TypeScript",
     "desc": "Bichon – A lightweight, high-performance Rust email archiver with WebUI"
   },
   {
-    "createdAt": "2025-11-16T17:00:44Z",
-    "stars": 140,
-    "name": "steipete/CodexBar",
-    "url": "https://github.com/steipete/CodexBar",
-    "lang": "Swift",
-    "desc": "Show usage stats for OpenAI Codex."
+    "createdAt": "2025-11-21T02:36:29Z",
+    "stars": 178,
+    "name": "pshenok/server-survival",
+    "url": "https://github.com/pshenok/server-survival",
+    "lang": "JavaScript",
+    "desc": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling."
+  },
+  {
+    "createdAt": "2025-11-17T15:47:59Z",
+    "stars": 176,
+    "name": "wilpel/caveman-compression",
+    "url": "https://github.com/wilpel/caveman-compression",
+    "lang": "Python",
+    "desc": "Caveman Compression is a semantic compression method for LLM contexts. It removes predictable grammar while preserving the unpredictable, factual content that defines meaning."
+  },
+  {
+    "createdAt": "2025-11-22T13:01:40Z",
+    "stars": 175,
+    "name": "manoss96/onlymaps",
+    "url": "https://github.com/manoss96/onlymaps",
+    "lang": "Python",
+    "desc": "A Python micro-ORM"
+  },
+  {
+    "createdAt": "2025-11-19T08:54:41Z",
+    "stars": 166,
+    "name": "XiaomiMiMo/MiMo-Embodied",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Embodied",
+    "lang": "Python",
+    "desc": "MiMo-Embodied"
+  },
+  {
+    "createdAt": "2025-11-18T17:58:25Z",
+    "stars": 163,
+    "name": "mega002/llm-interp-tau",
+    "url": "https://github.com/mega002/llm-interp-tau",
+    "lang": "",
+    "desc": "Course Materials for Interpretability of Large Language Models (0368.4264) at Tel Aviv University"
+  },
+  {
+    "createdAt": "2025-11-22T12:29:41Z",
+    "stars": 156,
+    "name": "arpxspace/smartcommit",
+    "url": "https://github.com/arpxspace/smartcommit",
+    "lang": "Go",
+    "desc": "Enforce the habit of self-documenting code through better commit messages."
+  },
+  {
+    "createdAt": "2025-11-22T03:35:15Z",
+    "stars": 155,
+    "name": "1rhino2/go-memory-visualizer",
+    "url": "https://github.com/1rhino2/go-memory-visualizer",
+    "lang": "TypeScript",
+    "desc": "Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering."
+  },
+  {
+    "createdAt": "2025-11-21T07:33:26Z",
+    "stars": 151,
+    "name": "lofcz/Infidex",
+    "url": "https://github.com/lofcz/Infidex",
+    "lang": "C#",
+    "desc": "The high-performance .NET search engine based on pattern recognition."
+  },
+  {
+    "createdAt": "2025-11-19T02:03:03Z",
+    "stars": 149,
+    "name": "low-rb/low_type",
+    "url": "https://github.com/low-rb/low_type",
+    "lang": "Ruby",
+    "desc": "Elegant types in Ruby"
+  },
+  {
+    "createdAt": "2025-11-19T20:26:01Z",
+    "stars": 149,
+    "name": "PozzettiAndrea/ComfyUI-SAM3",
+    "url": "https://github.com/PozzettiAndrea/ComfyUI-SAM3",
+    "lang": "Python",
+    "desc": "ComfyUI wrapper for segment anything 3"
+  },
+  {
+    "createdAt": "2025-11-20T07:14:07Z",
+    "stars": 144,
+    "name": "ZeroLu/awesome-gemini-ai",
+    "url": "https://github.com/ZeroLu/awesome-gemini-ai",
+    "lang": "",
+    "desc": "The ultimate collection of Awesome Gemini Prompts, use cases, and examples. Curated from X (Twitter), Reddit, and top prompt engineers. Includes prompts for coding, agents, design, and productivity using Google Gemini 1.5 Pro and Ultra."
   },
   {
     "createdAt": "2025-11-18T11:10:35Z",
-    "stars": 138,
+    "stars": 142,
     "name": "cos43/flowpilot",
     "url": "https://github.com/cos43/flowpilot",
     "lang": "TypeScript",
@@ -289,114 +305,98 @@
   },
   {
     "createdAt": "2025-11-17T08:31:05Z",
-    "stars": 133,
+    "stars": 141,
     "name": "abhishekkrthakur/search",
     "url": "https://github.com/abhishekkrthakur/search",
     "lang": "Python",
     "desc": "How to build the best search, one step at a time!"
   },
   {
-    "createdAt": "2025-11-21T07:33:26Z",
-    "stars": 132,
-    "name": "lofcz/Infidex",
-    "url": "https://github.com/lofcz/Infidex",
-    "lang": "C#",
-    "desc": "∞į̴͓͖̜͐͗͐͑̒͘̚̕ḋ̸̢̞͇̳̟̹́̌͘e̷̙̫̥̹̱͓̬̿̄̆͝x̵̱̣̹͐̓̏̔̌̆͝"
-  },
-  {
-    "createdAt": "2025-11-19T19:32:08Z",
-    "stars": 131,
-    "name": "duolaAmengweb3/polysurge",
-    "url": "https://github.com/duolaAmengweb3/polysurge",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-21T02:36:29Z",
-    "stars": 130,
-    "name": "pshenok/server-survival",
-    "url": "https://github.com/pshenok/server-survival",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-20T07:30:56Z",
-    "stars": 125,
-    "name": "PolymathicAI/walrus",
-    "url": "https://github.com/PolymathicAI/walrus",
-    "lang": "Python",
-    "desc": ""
+    "createdAt": "2025-11-24T04:45:31Z",
+    "stars": 140,
+    "name": "d0rc/egg.c",
+    "url": "https://github.com/d0rc/egg.c",
+    "lang": "C",
+    "desc": "EGGROLL in C, integer-only training of a language model directly on the CPU"
   },
   {
     "createdAt": "2025-11-19T23:43:20Z",
-    "stars": 124,
+    "stars": 138,
     "name": "rhcp011235/A12_Bypass_OSS",
     "url": "https://github.com/rhcp011235/A12_Bypass_OSS",
     "lang": "C#",
     "desc": "This is the highly paid version of the IOS A12 bypass for 100% free"
   },
   {
-    "createdAt": "2025-11-19T08:54:41Z",
-    "stars": 124,
-    "name": "XiaomiMiMo/MiMo-Embodied",
-    "url": "https://github.com/XiaomiMiMo/MiMo-Embodied",
-    "lang": "Python",
-    "desc": "MiMo-Embodied"
+    "createdAt": "2025-11-21T11:39:27Z",
+    "stars": 137,
+    "name": "modelcontextprotocol/ext-apps",
+    "url": "https://github.com/modelcontextprotocol/ext-apps",
+    "lang": "MDX",
+    "desc": "Official repo for SDK of upcoming Apps / UI extension"
   },
   {
-    "createdAt": "2025-11-19T12:00:12Z",
-    "stars": 123,
-    "name": "donlon/cloudflare-error-page",
-    "url": "https://github.com/donlon/cloudflare-error-page",
-    "lang": "HTML",
-    "desc": "Cloudflare error page generator"
+    "createdAt": "2025-11-19T19:32:08Z",
+    "stars": 134,
+    "name": "duolaAmengweb3/polysurge",
+    "url": "https://github.com/duolaAmengweb3/polysurge",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-20T07:30:56Z",
+    "stars": 134,
+    "name": "PolymathicAI/walrus",
+    "url": "https://github.com/PolymathicAI/walrus",
+    "lang": "Python",
+    "desc": ""
   },
   {
     "createdAt": "2025-11-18T11:36:33Z",
-    "stars": 121,
+    "stars": 133,
     "name": "Kwai-Kolors/CoTyle",
     "url": "https://github.com/Kwai-Kolors/CoTyle",
     "lang": "Python",
     "desc": "🎨 A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space"
   },
   {
+    "createdAt": "2025-11-20T08:41:05Z",
+    "stars": 126,
+    "name": "7a72/meta-magic_mount",
+    "url": "https://github.com/7a72/meta-magic_mount",
+    "lang": "C",
+    "desc": "Magic Mount Metamodule"
+  },
+  {
+    "createdAt": "2025-11-19T12:00:12Z",
+    "stars": 126,
+    "name": "donlon/cloudflare-error-page",
+    "url": "https://github.com/donlon/cloudflare-error-page",
+    "lang": "HTML",
+    "desc": "Cloudflare error page generator"
+  },
+  {
+    "createdAt": "2025-11-20T18:29:07Z",
+    "stars": 125,
+    "name": "PozzettiAndrea/ComfyUI-SAM3DBody",
+    "url": "https://github.com/PozzettiAndrea/ComfyUI-SAM3DBody",
+    "lang": "JavaScript",
+    "desc": "ComfyUI wrapper for sam-3d-body"
+  },
+  {
     "createdAt": "2025-11-19T09:18:22Z",
-    "stars": 121,
+    "stars": 123,
     "name": "midudev/disable-cloudflare-cli",
     "url": "https://github.com/midudev/disable-cloudflare-cli",
     "lang": "JavaScript",
     "desc": "CLI to disable Cloudflare without having to access Cloudflare Dashboard"
   },
   {
-    "createdAt": "2025-11-20T07:14:07Z",
-    "stars": 120,
-    "name": "ZeroLu/awesome-gemini-ai",
-    "url": "https://github.com/ZeroLu/awesome-gemini-ai",
-    "lang": "",
-    "desc": "The ultimate collection of Awesome Gemini Prompts, use cases, and examples. Curated from X (Twitter), Reddit, and top prompt engineers. Includes prompts for coding, agents, design, and productivity using Google Gemini 1.5 Pro and Ultra."
-  },
-  {
-    "createdAt": "2025-11-19T02:03:03Z",
-    "stars": 118,
-    "name": "low-rb/low_type",
-    "url": "https://github.com/low-rb/low_type",
-    "lang": "Ruby",
-    "desc": "Elegant types in Ruby"
-  },
-  {
-    "createdAt": "2025-11-16T10:18:08Z",
-    "stars": 116,
-    "name": "0xSero/ai-data-extraction",
-    "url": "https://github.com/0xSero/ai-data-extraction",
-    "lang": "Python",
-    "desc": "extract all your personal data history from cursor, codex, claude-code, windsurf, and trae"
-  },
-  {
-    "createdAt": "2025-11-19T20:26:01Z",
-    "stars": 113,
-    "name": "PozzettiAndrea/ComfyUI-SAM3",
-    "url": "https://github.com/PozzettiAndrea/ComfyUI-SAM3",
-    "lang": "Python",
-    "desc": "ComfyUI wrapper for segment anything 3"
+    "createdAt": "2025-11-19T17:46:24Z",
+    "stars": 121,
+    "name": "MonchiLin/antigravity-agent",
+    "url": "https://github.com/MonchiLin/antigravity-agent",
+    "lang": "TypeScript",
+    "desc": ""
   }
 ]
