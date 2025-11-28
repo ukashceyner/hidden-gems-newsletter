@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-11-22T23:24:14Z",
-    "stars": 7123,
+    "stars": 7473,
     "name": "karpathy/llm-council",
     "url": "https://github.com/karpathy/llm-council",
     "lang": "Python",
@@ -9,47 +9,39 @@
   },
   {
     "createdAt": "2025-11-24T08:18:33Z",
-    "stars": 2304,
+    "stars": 2615,
     "name": "Facepunch/sbox-public",
     "url": "https://github.com/Facepunch/sbox-public",
     "lang": "C#",
     "desc": "s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games"
   },
   {
-    "createdAt": "2025-11-25T10:12:54Z",
-    "stars": 1420,
-    "name": "HisMax/RedInk",
-    "url": "https://github.com/HisMax/RedInk",
-    "lang": "Python",
-    "desc": "红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\""
-  },
-  {
     "createdAt": "2025-11-26T09:18:10Z",
-    "stars": 916,
+    "stars": 1851,
     "name": "Tongyi-MAI/Z-Image",
     "url": "https://github.com/Tongyi-MAI/Z-Image",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-20T14:54:10Z",
-    "stars": 830,
-    "name": "hexagonal-sun/moss-kernel",
-    "url": "https://github.com/hexagonal-sun/moss-kernel",
-    "lang": "Rust",
-    "desc": "Rust Linux-compatible kernel"
+    "createdAt": "2025-11-25T10:12:54Z",
+    "stars": 1806,
+    "name": "HisMax/RedInk",
+    "url": "https://github.com/HisMax/RedInk",
+    "lang": "Python",
+    "desc": "红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\""
   },
   {
-    "createdAt": "2025-11-20T06:15:42Z",
-    "stars": 790,
-    "name": "Tencent-Hunyuan/HunyuanVideo-1.5",
-    "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5",
-    "lang": "Python",
-    "desc": "HunyuanVideo-1.5: A leading lightweight video generation model"
+    "createdAt": "2025-11-27T06:12:26Z",
+    "stars": 882,
+    "name": "deepseek-ai/DeepSeek-Math-V2",
+    "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
+    "lang": "",
+    "desc": ""
   },
   {
     "createdAt": "2025-11-24T23:28:49Z",
-    "stars": 776,
+    "stars": 837,
     "name": "black-forest-labs/flux2",
     "url": "https://github.com/black-forest-labs/flux2",
     "lang": "Python",
@@ -57,7 +49,7 @@
   },
   {
     "createdAt": "2025-11-21T10:33:50Z",
-    "stars": 696,
+    "stars": 733,
     "name": "glidea/banana-prompt-quicker",
     "url": "https://github.com/glidea/banana-prompt-quicker",
     "lang": "JavaScript",
@@ -65,95 +57,111 @@
   },
   {
     "createdAt": "2025-11-21T06:14:31Z",
-    "stars": 682,
+    "stars": 705,
     "name": "Ryandonofrio3/osgrep",
     "url": "https://github.com/Ryandonofrio3/osgrep",
     "lang": "TypeScript",
     "desc": "Open Source Semantic Search for your AI Agent"
   },
   {
-    "createdAt": "2025-11-20T15:45:51Z",
-    "stars": 506,
-    "name": "bscript/rep",
-    "url": "https://github.com/bscript/rep",
-    "lang": "JavaScript",
-    "desc": "rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks"
+    "createdAt": "2025-11-23T07:17:48Z",
+    "stars": 604,
+    "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
+    "lang": "TypeScript",
+    "desc": "🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library"
   },
   {
     "createdAt": "2025-11-22T13:49:09Z",
-    "stars": 499,
+    "stars": 521,
     "name": "thevangelist/dembrandt",
     "url": "https://github.com/thevangelist/dembrandt",
     "lang": "JavaScript",
     "desc": "Extract any website’s design system into design tokens in a few seconds: logo, colors, typography, borders, and more. One command."
   },
   {
+    "createdAt": "2025-11-24T17:01:56Z",
+    "stars": 417,
+    "name": "drak6y/Trading-Bot-For-Binance-Future",
+    "url": "https://github.com/drak6y/Trading-Bot-For-Binance-Future",
+    "lang": "Python",
+    "desc": "Technical-analysis–driven crypto trading bot for Binance Futures."
+  },
+  {
     "createdAt": "2025-11-22T01:52:29Z",
-    "stars": 393,
+    "stars": 405,
     "name": "ZimengXiong/ExcaliDash",
     "url": "https://github.com/ZimengXiong/ExcaliDash",
     "lang": "TypeScript",
     "desc": "A self hosted dashboard and organizer for Excalidraw with live collaboration."
   },
   {
-    "createdAt": "2025-11-20T09:26:14Z",
-    "stars": 329,
-    "name": "miiot/micam",
-    "url": "https://github.com/miiot/micam",
-    "lang": "Python",
-    "desc": "🎦 Micam 是一个专为小米摄像头设计的 RTSP 桥接服务(非官方)，能够将小米摄像头的视频流本地转推到RTSP服务器，支持接入 HomeAssistant、Go2rtc、Frigate、Scrypted、Homekit 等多种NVR和智能家居系统。该项目采用 Docker Compose 快速部署方案，基于小米官方的Miloco，并集成Go2rtc实现RTSP流服务，无需GPU即可运行，使小米摄像头能与各类主流智能家居平台无缝集成。"
-  },
-  {
-    "createdAt": "2025-11-27T06:12:26Z",
-    "stars": 320,
-    "name": "deepseek-ai/DeepSeek-Math-V2",
-    "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-20T08:09:02Z",
-    "stars": 306,
-    "name": "PallavAg/iOS-Clone-SwiftUI",
-    "url": "https://github.com/PallavAg/iOS-Clone-SwiftUI",
-    "lang": "Swift",
-    "desc": "iOS Clone built by Gemini 3.0 Pro in SwiftUI"
-  },
-  {
-    "createdAt": "2025-11-22T03:42:33Z",
-    "stars": 299,
-    "name": "Kindness-Kismet/Stelliberty",
-    "url": "https://github.com/Kindness-Kismet/Stelliberty",
-    "lang": "Dart",
-    "desc": "A modern client built with Flutter and Rust, powered by Clash Mihomo core"
+    "createdAt": "2025-11-23T08:16:30Z",
+    "stars": 400,
+    "name": "6rests/polyseed-monero",
+    "url": "https://github.com/6rests/polyseed-monero",
+    "lang": "C",
+    "desc": "Mnemonic seed library for Monero and other CryptoNote-based currencies."
   },
   {
     "createdAt": "2025-11-22T23:03:10Z",
-    "stars": 293,
+    "stars": 333,
     "name": "ArcadeAI/blueprint-mcp",
     "url": "https://github.com/ArcadeAI/blueprint-mcp",
     "lang": "Python",
     "desc": "Diagram generation for understanding codebases and system architecture using Nano Banana Pro."
   },
   {
+    "createdAt": "2025-11-22T03:42:33Z",
+    "stars": 311,
+    "name": "Kindness-Kismet/Stelliberty",
+    "url": "https://github.com/Kindness-Kismet/Stelliberty",
+    "lang": "Dart",
+    "desc": "A modern client built with Flutter and Rust, powered by Clash Mihomo core"
+  },
+  {
     "createdAt": "2025-11-24T04:45:31Z",
-    "stars": 290,
+    "stars": 298,
     "name": "d0rc/egg.c",
     "url": "https://github.com/d0rc/egg.c",
     "lang": "Cuda",
     "desc": "EGGROLL in C, integer-only training of a language model directly on the CPU"
   },
   {
+    "createdAt": "2025-11-21T21:22:57Z",
+    "stars": 297,
+    "name": "Dancode-188/synckit",
+    "url": "https://github.com/Dancode-188/synckit",
+    "lang": "TypeScript",
+    "desc": "🔄 A powerful, type-safe sync engine for building real-time collaborative applications. Local-first, CRDT-based, with zero-config offline support."
+  },
+  {
     "createdAt": "2025-11-23T03:25:12Z",
-    "stars": 289,
+    "stars": 294,
     "name": "RhysSullivan/twitter-account-location-in-username",
     "url": "https://github.com/RhysSullivan/twitter-account-location-in-username",
     "lang": "JavaScript",
     "desc": ""
   },
   {
+    "createdAt": "2025-11-21T17:37:05Z",
+    "stars": 279,
+    "name": "IAmTomShaw/f1-race-replay",
+    "url": "https://github.com/IAmTomShaw/f1-race-replay",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-11-25T06:14:22Z",
+    "stars": 278,
+    "name": "jwangkun/ai-coding-prompt-java",
+    "url": "https://github.com/jwangkun/ai-coding-prompt-java",
+    "lang": "",
+    "desc": "java+vue3+uniapp全栈开发Prompt"
+  },
+  {
     "createdAt": "2025-11-21T02:36:29Z",
-    "stars": 269,
+    "stars": 276,
     "name": "pshenok/server-survival",
     "url": "https://github.com/pshenok/server-survival",
     "lang": "JavaScript",
@@ -161,51 +169,59 @@
   },
   {
     "createdAt": "2025-11-23T12:57:00Z",
-    "stars": 260,
+    "stars": 267,
     "name": "classicshi/sora-api",
     "url": "https://github.com/classicshi/sora-api",
     "lang": "Python",
     "desc": "This project is designed to simplify the process of creating Sora 2 AI videos using the API and a web interface."
   },
   {
-    "createdAt": "2025-11-21T17:37:05Z",
-    "stars": 254,
-    "name": "IAmTomShaw/f1-race-replay",
-    "url": "https://github.com/IAmTomShaw/f1-race-replay",
+    "createdAt": "2025-11-27T12:15:12Z",
+    "stars": 261,
+    "name": "chr15m/runprompt",
+    "url": "https://github.com/chr15m/runprompt",
+    "lang": "Python",
+    "desc": "Tiny script to run .prompt files"
+  },
+  {
+    "createdAt": "2025-11-23T13:35:39Z",
+    "stars": 260,
+    "name": "classicshi/web3-decoder",
+    "url": "https://github.com/classicshi/web3-decoder",
+    "lang": "Python",
+    "desc": "Web3 Decoder is a Burp Suite Extension designed for analyzing blockchain operations and smart contract interactions. It processes JSON-RPC calls to Ethereum and compatible networks (including Polygon, Arbitrum, BSC, and others)"
+  },
+  {
+    "createdAt": "2025-11-23T14:04:09Z",
+    "stars": 253,
+    "name": "xup6jammy/AI-Vision-Traffic-Monitoring",
+    "url": "https://github.com/xup6jammy/AI-Vision-Traffic-Monitoring",
     "lang": "Python",
     "desc": ""
   },
   {
     "createdAt": "2025-11-25T01:57:42Z",
-    "stars": 246,
+    "stars": 248,
     "name": "Angel7Dev/monad-nad.fun-sniper-bundler-bot",
     "url": "https://github.com/Angel7Dev/monad-nad.fun-sniper-bundler-bot",
     "lang": "JavaScript",
     "desc": "Trading Bot for Nad.Fun & Monad Blockchain. Include snipe new tokens and bundler multiwallet."
   },
   {
-    "createdAt": "2025-11-23T08:16:30Z",
-    "stars": 235,
-    "name": "6rests/polyseed-monero",
-    "url": "https://github.com/6rests/polyseed-monero",
-    "lang": "C",
-    "desc": "Mnemonic seed library for Monero and other CryptoNote-based currencies."
+    "createdAt": "2025-11-22T03:35:15Z",
+    "stars": 225,
+    "name": "1rhino2/go-memory-visualizer",
+    "url": "https://github.com/1rhino2/go-memory-visualizer",
+    "lang": "TypeScript",
+    "desc": "Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering."
   },
   {
-    "createdAt": "2025-11-24T17:01:56Z",
-    "stars": 235,
-    "name": "drak6y/Trading-Bot-For-Binance-Future",
-    "url": "https://github.com/drak6y/Trading-Bot-For-Binance-Future",
-    "lang": "Python",
-    "desc": "Technical-analysis–driven crypto trading bot for Binance Futures."
-  },
-  {
-    "createdAt": "2025-11-25T06:14:22Z",
-    "stars": 234,
-    "name": "jwangkun/ai-coding-prompt-java",
-    "url": "https://github.com/jwangkun/ai-coding-prompt-java",
-    "lang": "",
-    "desc": "java+vue3+uniapp全栈开发Prompt"
+    "createdAt": "2025-11-24T10:16:47Z",
+    "stars": 221,
+    "name": "steipete/warelay",
+    "url": "https://github.com/steipete/warelay",
+    "lang": "TypeScript",
+    "desc": "Invoke actions on your machine when you get a WhatsApp message and send replies! Uses Twilio and TailScale. Great for connecting Claude Code with WhatsApp."
   },
   {
     "createdAt": "2025-11-23T08:38:57Z",
@@ -216,64 +232,40 @@
     "desc": "Hacx GPT a powerful, evil brother of WormGPT."
   },
   {
-    "createdAt": "2025-11-22T03:35:15Z",
-    "stars": 218,
-    "name": "1rhino2/go-memory-visualizer",
-    "url": "https://github.com/1rhino2/go-memory-visualizer",
-    "lang": "TypeScript",
-    "desc": "Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering."
-  },
-  {
-    "createdAt": "2025-11-23T13:35:39Z",
-    "stars": 217,
-    "name": "classicshi/web3-decoder",
-    "url": "https://github.com/classicshi/web3-decoder",
-    "lang": "Python",
-    "desc": "Web3 Decoder is a Burp Suite Extension designed for analyzing blockchain operations and smart contract interactions. It processes JSON-RPC calls to Ethereum and compatible networks (including Polygon, Arbitrum, BSC, and others)"
-  },
-  {
-    "createdAt": "2025-11-23T14:04:09Z",
-    "stars": 212,
-    "name": "xup6jammy/AI-Vision-Traffic-Monitoring",
-    "url": "https://github.com/xup6jammy/AI-Vision-Traffic-Monitoring",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-22T13:01:40Z",
-    "stars": 203,
-    "name": "manoss96/onlymaps",
-    "url": "https://github.com/manoss96/onlymaps",
-    "lang": "Python",
-    "desc": "A Python micro-ORM"
-  },
-  {
     "createdAt": "2025-11-23T02:09:58Z",
-    "stars": 201,
+    "stars": 209,
     "name": "ethgan/CF-Worker-BestIP-collector",
     "url": "https://github.com/ethgan/CF-Worker-BestIP-collector",
     "lang": "JavaScript",
     "desc": "由于GitHub版的被官方以滥用资源为理由封禁了项目，特推出基于Cloudflare worker版的优选IP，更快，更高效，更直观！抛弃github Action~"
   },
   {
-    "createdAt": "2025-11-20T07:14:07Z",
-    "stars": 199,
-    "name": "ZeroLu/awesome-gemini-ai",
-    "url": "https://github.com/ZeroLu/awesome-gemini-ai",
-    "lang": "",
-    "desc": "The ultimate collection of Awesome Gemini Prompts, use cases, and examples. Curated from X (Twitter), Reddit, and top prompt engineers. Includes prompts for coding, agents, design, and productivity using Google Gemini 1.5 Pro and Ultra."
-  },
-  {
     "createdAt": "2025-11-21T14:14:06Z",
-    "stars": 199,
+    "stars": 209,
     "name": "GoldHEN/henloader_lp",
     "url": "https://github.com/GoldHEN/henloader_lp",
     "lang": "C",
     "desc": "Lapse (9.00-12.02) + Poops (9.00-12.52) exploit"
   },
   {
+    "createdAt": "2025-11-22T13:01:40Z",
+    "stars": 205,
+    "name": "manoss96/onlymaps",
+    "url": "https://github.com/manoss96/onlymaps",
+    "lang": "Python",
+    "desc": "A Python micro-ORM"
+  },
+  {
+    "createdAt": "2025-11-27T16:34:58Z",
+    "stars": 205,
+    "name": "portrret/spyder-osint",
+    "url": "https://github.com/portrret/spyder-osint",
+    "lang": "Python",
+    "desc": "An universal osint tool."
+  },
+  {
     "createdAt": "2025-11-22T12:29:41Z",
-    "stars": 197,
+    "stars": 203,
     "name": "arpxspace/smartcommit",
     "url": "https://github.com/arpxspace/smartcommit",
     "lang": "Go",
@@ -281,7 +273,7 @@
   },
   {
     "createdAt": "2025-11-21T07:33:26Z",
-    "stars": 187,
+    "stars": 190,
     "name": "lofcz/Infidex",
     "url": "https://github.com/lofcz/Infidex",
     "lang": "C#",
@@ -289,7 +281,7 @@
   },
   {
     "createdAt": "2025-11-21T11:39:27Z",
-    "stars": 178,
+    "stars": 184,
     "name": "modelcontextprotocol/ext-apps",
     "url": "https://github.com/modelcontextprotocol/ext-apps",
     "lang": "TypeScript",
@@ -297,11 +289,27 @@
   },
   {
     "createdAt": "2025-11-23T07:11:08Z",
-    "stars": 171,
+    "stars": 177,
     "name": "naikaku1/YouTube_Music-Modern-UI",
     "url": "https://github.com/naikaku1/YouTube_Music-Modern-UI",
     "lang": "JavaScript",
     "desc": "YouTube Music向けの拡張機能です。"
+  },
+  {
+    "createdAt": "2025-11-24T15:49:49Z",
+    "stars": 173,
+    "name": "leggedrobotics/robotic_world_model",
+    "url": "https://github.com/leggedrobotics/robotic_world_model",
+    "lang": "Python",
+    "desc": "Repository for our paper: Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics"
+  },
+  {
+    "createdAt": "2025-11-24T12:46:59Z",
+    "stars": 169,
+    "name": "H-EmbodVis/GRANT",
+    "url": "https://github.com/H-EmbodVis/GRANT",
+    "lang": "Python",
+    "desc": "[AAAI 2026 Oral] Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution"
   },
   {
     "createdAt": "2025-11-23T09:26:29Z",
@@ -309,39 +317,39 @@
     "name": "justoneapi-38/public-opinion-api",
     "url": "https://github.com/justoneapi-38/public-opinion-api",
     "lang": "",
-    "desc": "舆情搜索接口,舆情搜索API,新闻搜索,新闻API,news search,news api,news,public opinion api,public opinion,sentiment search,media monitor"
-  },
-  {
-    "createdAt": "2025-11-20T08:41:05Z",
-    "stars": 163,
-    "name": "7a72/meta-magic_mount",
-    "url": "https://github.com/7a72/meta-magic_mount",
-    "lang": "C",
-    "desc": "Magic Mount Metamodule"
-  },
-  {
-    "createdAt": "2025-11-21T21:22:57Z",
-    "stars": 161,
-    "name": "Dancode-188/synckit",
-    "url": "https://github.com/Dancode-188/synckit",
-    "lang": "TypeScript",
-    "desc": "🔄 A powerful, type-safe sync engine for building real-time collaborative applications. Local-first, CRDT-based, with zero-config offline support."
-  },
-  {
-    "createdAt": "2025-11-20T07:30:56Z",
-    "stars": 158,
-    "name": "PolymathicAI/walrus",
-    "url": "https://github.com/PolymathicAI/walrus",
-    "lang": "Python",
-    "desc": ""
+    "desc": "舆情搜索接口,舆情搜索API,新闻搜索,新闻API,接口,接口服务,news search,news api,news,public opinion api,public opinion,sentiment search,media monitor"
   },
   {
     "createdAt": "2025-11-21T12:54:06Z",
-    "stars": 156,
+    "stars": 163,
     "name": "abhixdd/UptimeKit-CLI",
     "url": "https://github.com/abhixdd/UptimeKit-CLI",
     "lang": "JavaScript",
     "desc": "A modern, cross‑platform CLI to monitor websites and APIs. "
+  },
+  {
+    "createdAt": "2025-11-24T10:00:23Z",
+    "stars": 158,
+    "name": "TheSmallHanCat/flow2api",
+    "url": "https://github.com/TheSmallHanCat/flow2api",
+    "lang": "Python",
+    "desc": "无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等"
+  },
+  {
+    "createdAt": "2025-11-26T00:46:27Z",
+    "stars": 156,
+    "name": "waryas/WaryasSWHE",
+    "url": "https://github.com/waryas/WaryasSWHE",
+    "lang": "C++",
+    "desc": "Usermode exploit to bypass any AC using a 0day shatter attack."
+  },
+  {
+    "createdAt": "2025-11-23T07:46:09Z",
+    "stars": 155,
+    "name": "jamietso/Tabular_Review",
+    "url": "https://github.com/jamietso/Tabular_Review",
+    "lang": "TypeScript",
+    "desc": "An AI-powered tabular review tool for legal professionals. Ingest unstructured documents, define dynamic extraction columns, and query your data with an integrated analyst chat."
   },
   {
     "createdAt": "2025-11-23T22:43:21Z",
@@ -352,20 +360,28 @@
     "desc": "4D World Model for Autonomous Driving"
   },
   {
-    "createdAt": "2025-11-23T07:46:09Z",
-    "stars": 147,
-    "name": "jamietso/Tabular_Review",
-    "url": "https://github.com/jamietso/Tabular_Review",
-    "lang": "TypeScript",
-    "desc": "An AI-powered tabular review tool for legal professionals. Ingest unstructured documents, define dynamic extraction columns, and query your data with an integrated analyst chat."
+    "createdAt": "2025-11-23T11:15:12Z",
+    "stars": 148,
+    "name": "SaladDay/cc-switch-cli",
+    "url": "https://github.com/SaladDay/cc-switch-cli",
+    "lang": "Rust",
+    "desc": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
   },
   {
-    "createdAt": "2025-11-24T10:00:23Z",
-    "stars": 144,
-    "name": "TheSmallHanCat/flow2api",
-    "url": "https://github.com/TheSmallHanCat/flow2api",
+    "createdAt": "2025-11-25T10:42:59Z",
+    "stars": 146,
+    "name": "022122/academic-doc-generator",
+    "url": "https://github.com/022122/academic-doc-generator",
+    "lang": "JavaScript",
+    "desc": "A realistic academic document simulator for testing and       verification flows. React + HeroUI."
+  },
+  {
+    "createdAt": "2025-11-21T00:43:09Z",
+    "stars": 145,
+    "name": "MCG-NJU/SteadyDancer",
+    "url": "https://github.com/MCG-NJU/SteadyDancer",
     "lang": "Python",
-    "desc": "无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等"
+    "desc": "SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation"
   },
   {
     "createdAt": "2025-11-26T14:09:02Z",
@@ -376,27 +392,11 @@
     "desc": "Custom SOL vanity address generator"
   },
   {
-    "createdAt": "2025-11-20T18:29:07Z",
-    "stars": 144,
-    "name": "PozzettiAndrea/ComfyUI-SAM3DBody",
-    "url": "https://github.com/PozzettiAndrea/ComfyUI-SAM3DBody",
-    "lang": "JavaScript",
-    "desc": "ComfyUI wrapper for sam-3d-body"
-  },
-  {
-    "createdAt": "2025-11-23T11:15:12Z",
+    "createdAt": "2025-11-26T16:03:13Z",
     "stars": 142,
-    "name": "SaladDay/cc-switch-cli",
-    "url": "https://github.com/SaladDay/cc-switch-cli",
-    "lang": "Rust",
-    "desc": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
-  },
-  {
-    "createdAt": "2025-11-27T07:26:30Z",
-    "stars": 139,
-    "name": "adysec/proxychains-rs",
-    "url": "https://github.com/adysec/proxychains-rs",
-    "lang": "Rust",
-    "desc": "Rust implementation of proxychains — injectable library for chaining TCP/UDP connections via multiple proxies."
+    "name": "CodeOne45/vex-tui",
+    "url": "https://github.com/CodeOne45/vex-tui",
+    "lang": "Go",
+    "desc": "A beautiful, fast, and feature-rich terminal-based Excel and CSV viewer built with Go."
   }
 ]
