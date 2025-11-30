@@ -1,15 +1,7 @@
 [
   {
-    "createdAt": "2025-11-22T23:24:14Z",
-    "stars": 7770,
-    "name": "karpathy/llm-council",
-    "url": "https://github.com/karpathy/llm-council",
-    "lang": "Python",
-    "desc": "LLM Council works together to answer your hardest questions"
-  },
-  {
     "createdAt": "2025-11-24T08:18:33Z",
-    "stars": 2791,
+    "stars": 2879,
     "name": "Facepunch/sbox-public",
     "url": "https://github.com/Facepunch/sbox-public",
     "lang": "C#",
@@ -17,7 +9,7 @@
   },
   {
     "createdAt": "2025-11-26T09:18:10Z",
-    "stars": 2315,
+    "stars": 2789,
     "name": "Tongyi-MAI/Z-Image",
     "url": "https://github.com/Tongyi-MAI/Z-Image",
     "lang": "",
@@ -25,7 +17,7 @@
   },
   {
     "createdAt": "2025-11-25T10:12:54Z",
-    "stars": 1947,
+    "stars": 2023,
     "name": "HisMax/RedInk",
     "url": "https://github.com/HisMax/RedInk",
     "lang": "Python",
@@ -33,43 +25,59 @@
   },
   {
     "createdAt": "2025-11-27T06:12:26Z",
-    "stars": 1043,
+    "stars": 1168,
     "name": "deepseek-ai/DeepSeek-Math-V2",
     "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-24T23:28:49Z",
-    "stars": 895,
-    "name": "black-forest-labs/flux2",
-    "url": "https://github.com/black-forest-labs/flux2",
-    "lang": "Python",
-    "desc": "Official inference repo for FLUX.2 models"
-  },
-  {
     "createdAt": "2025-11-23T07:17:48Z",
-    "stars": 887,
+    "stars": 1126,
     "name": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
     "lang": "TypeScript",
     "desc": "🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library"
   },
   {
+    "createdAt": "2025-11-24T23:28:49Z",
+    "stars": 964,
+    "name": "black-forest-labs/flux2",
+    "url": "https://github.com/black-forest-labs/flux2",
+    "lang": "Python",
+    "desc": "Official inference repo for FLUX.2 models"
+  },
+  {
     "createdAt": "2025-11-28T09:36:04Z",
-    "stars": 575,
+    "stars": 857,
     "name": "Rohithgilla12/data-peek",
     "url": "https://github.com/Rohithgilla12/data-peek",
     "lang": "TypeScript",
     "desc": "A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat."
   },
   {
-    "createdAt": "2025-11-22T13:49:09Z",
-    "stars": 533,
-    "name": "thevangelist/dembrandt",
-    "url": "https://github.com/thevangelist/dembrandt",
-    "lang": "JavaScript",
-    "desc": "Extract any website’s design system into design tokens in a few seconds: logo, colors, typography, borders, and more. One command."
+    "createdAt": "2025-11-28T15:45:40Z",
+    "stars": 676,
+    "name": "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
+    "url": "https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
+    "lang": "HTML",
+    "desc": "Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court"
+  },
+  {
+    "createdAt": "2025-11-27T16:34:58Z",
+    "stars": 590,
+    "name": "portrret/spyder-osint",
+    "url": "https://github.com/portrret/spyder-osint",
+    "lang": "Python",
+    "desc": "An universal osint tool."
+  },
+  {
+    "createdAt": "2025-11-29T09:19:54Z",
+    "stars": 529,
+    "name": "Gururagavendra/gmail-cleaner",
+    "url": "https://github.com/Gururagavendra/gmail-cleaner",
+    "lang": "Python",
+    "desc": "web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like"
   },
   {
     "createdAt": "2025-11-24T17:01:56Z",
@@ -80,28 +88,20 @@
     "desc": "Technical-analysis–driven crypto trading bot for Binance Futures."
   },
   {
-    "createdAt": "2025-11-28T15:45:40Z",
-    "stars": 488,
-    "name": "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
-    "url": "https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
-    "lang": "HTML",
-    "desc": "Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court"
-  },
-  {
-    "createdAt": "2025-11-27T16:34:58Z",
-    "stars": 442,
-    "name": "portrret/spyder-osint",
-    "url": "https://github.com/portrret/spyder-osint",
+    "createdAt": "2025-11-23T13:35:39Z",
+    "stars": 494,
+    "name": "classicshi/web3-decoder",
+    "url": "https://github.com/classicshi/web3-decoder",
     "lang": "Python",
-    "desc": "An universal osint tool."
+    "desc": "Web3 Decoder is a Burp Suite Extension designed for analyzing blockchain operations and smart contract interactions. It processes JSON-RPC calls to Ethereum and compatible networks (including Polygon, Arbitrum, BSC, and others)"
   },
   {
-    "createdAt": "2025-11-22T01:52:29Z",
-    "stars": 417,
-    "name": "ZimengXiong/ExcaliDash",
-    "url": "https://github.com/ZimengXiong/ExcaliDash",
-    "lang": "TypeScript",
-    "desc": "A self hosted dashboard and organizer for Excalidraw with live collaboration."
+    "createdAt": "2025-11-23T08:38:57Z",
+    "stars": 460,
+    "name": "drak6y/HacxGPT",
+    "url": "https://github.com/drak6y/HacxGPT",
+    "lang": "Python",
+    "desc": "Hacx GPT a powerful, evil brother of WormGPT."
   },
   {
     "createdAt": "2025-11-23T08:16:30Z",
@@ -112,48 +112,40 @@
     "desc": "Mnemonic seed library for Monero and other CryptoNote-based currencies."
   },
   {
-    "createdAt": "2025-11-22T23:03:10Z",
-    "stars": 361,
-    "name": "ArcadeAI/blueprint-mcp",
-    "url": "https://github.com/ArcadeAI/blueprint-mcp",
-    "lang": "Python",
-    "desc": "Diagram generation for understanding codebases and system architecture using Nano Banana Pro."
-  },
-  {
-    "createdAt": "2025-11-23T13:35:39Z",
-    "stars": 342,
-    "name": "classicshi/web3-decoder",
-    "url": "https://github.com/classicshi/web3-decoder",
-    "lang": "Python",
-    "desc": "Web3 Decoder is a Burp Suite Extension designed for analyzing blockchain operations and smart contract interactions. It processes JSON-RPC calls to Ethereum and compatible networks (including Polygon, Arbitrum, BSC, and others)"
-  },
-  {
-    "createdAt": "2025-11-22T03:42:33Z",
-    "stars": 325,
-    "name": "Kindness-Kismet/Stelliberty",
-    "url": "https://github.com/Kindness-Kismet/Stelliberty",
-    "lang": "Dart",
-    "desc": "A modern client built with Flutter and Rust, powered by Clash Mihomo core"
-  },
-  {
     "createdAt": "2025-11-27T12:15:12Z",
-    "stars": 309,
+    "stars": 326,
     "name": "chr15m/runprompt",
     "url": "https://github.com/chr15m/runprompt",
     "lang": "Python",
     "desc": "Tiny script to run .prompt files"
   },
   {
+    "createdAt": "2025-11-25T10:42:59Z",
+    "stars": 312,
+    "name": "022122/academic-doc-generator",
+    "url": "https://github.com/022122/academic-doc-generator",
+    "lang": "JavaScript",
+    "desc": "A realistic academic document simulator for testing and       verification flows. React + HeroUI."
+  },
+  {
     "createdAt": "2025-11-24T04:45:31Z",
-    "stars": 307,
+    "stars": 309,
     "name": "d0rc/egg.c",
     "url": "https://github.com/d0rc/egg.c",
     "lang": "Cuda",
     "desc": "EGGROLL in C, integer-only training of a language model directly on the CPU"
   },
   {
+    "createdAt": "2025-11-28T19:10:45Z",
+    "stars": 309,
+    "name": "gavrielc/Nano-PDF",
+    "url": "https://github.com/gavrielc/Nano-PDF",
+    "lang": "Python",
+    "desc": "Edit PDF files with Nano Banana"
+  },
+  {
     "createdAt": "2025-11-23T14:04:09Z",
-    "stars": 300,
+    "stars": 306,
     "name": "xup6jammy/AI-Vision-Traffic-Monitoring",
     "url": "https://github.com/xup6jammy/AI-Vision-Traffic-Monitoring",
     "lang": "Python",
@@ -161,35 +153,51 @@
   },
   {
     "createdAt": "2025-11-23T03:25:12Z",
-    "stars": 298,
+    "stars": 301,
     "name": "RhysSullivan/twitter-account-location-in-username",
     "url": "https://github.com/RhysSullivan/twitter-account-location-in-username",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-29T09:19:54Z",
-    "stars": 287,
-    "name": "Gururagavendra/gmail-cleaner",
-    "url": "https://github.com/Gururagavendra/gmail-cleaner",
-    "lang": "Python",
-    "desc": "web based GUI to cleanup gmail delete, mark as read, unsubsribe from uncessary things u dont like"
-  },
-  {
     "createdAt": "2025-11-25T06:14:22Z",
-    "stars": 285,
+    "stars": 288,
     "name": "jwangkun/ai-coding-prompt-java",
     "url": "https://github.com/jwangkun/ai-coding-prompt-java",
     "lang": "",
     "desc": "java+vue3+uniapp全栈开发Prompt"
   },
   {
-    "createdAt": "2025-11-23T08:38:57Z",
-    "stars": 280,
-    "name": "drak6y/HacxGPT",
-    "url": "https://github.com/drak6y/HacxGPT",
+    "createdAt": "2025-11-26T16:03:13Z",
+    "stars": 276,
+    "name": "CodeOne45/vex-tui",
+    "url": "https://github.com/CodeOne45/vex-tui",
+    "lang": "Go",
+    "desc": "A beautiful, fast, and feature-rich terminal-based Excel and CSV viewer built with Go."
+  },
+  {
+    "createdAt": "2025-11-24T13:56:05Z",
+    "stars": 274,
+    "name": "Hugo-Dz/spritefusion-pixel-snapper",
+    "url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
+    "lang": "Rust",
+    "desc": "A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI."
+  },
+  {
+    "createdAt": "2025-11-24T12:46:59Z",
+    "stars": 270,
+    "name": "H-EmbodVis/GRANT",
+    "url": "https://github.com/H-EmbodVis/GRANT",
     "lang": "Python",
-    "desc": "Hacx GPT a powerful, evil brother of WormGPT."
+    "desc": "[AAAI 2026 Oral] Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution"
+  },
+  {
+    "createdAt": "2025-11-23T09:20:41Z",
+    "stars": 269,
+    "name": "wannalie/sora2-watermark-remover",
+    "url": "https://github.com/wannalie/sora2-watermark-remover",
+    "lang": "Python",
+    "desc": "Sora2 AI generated videos gentle watermark remover"
   },
   {
     "createdAt": "2025-11-23T12:57:00Z",
@@ -200,12 +208,12 @@
     "desc": "This project is designed to simplify the process of creating Sora 2 AI videos using the API and a web interface."
   },
   {
-    "createdAt": "2025-11-25T10:42:59Z",
-    "stars": 250,
-    "name": "022122/academic-doc-generator",
-    "url": "https://github.com/022122/academic-doc-generator",
-    "lang": "JavaScript",
-    "desc": "A realistic academic document simulator for testing and       verification flows. React + HeroUI."
+    "createdAt": "2025-11-24T10:16:47Z",
+    "stars": 253,
+    "name": "steipete/warelay",
+    "url": "https://github.com/steipete/warelay",
+    "lang": "TypeScript",
+    "desc": "Invoke actions on your machine when you get a WhatsApp message and send replies! Uses Twilio and TailScale. Great for connecting Claude Code with WhatsApp."
   },
   {
     "createdAt": "2025-11-25T01:57:42Z",
@@ -216,108 +224,116 @@
     "desc": "Trading Bot for Nad.Fun & Monad Blockchain. Include snipe new tokens and bundler multiwallet."
   },
   {
-    "createdAt": "2025-11-24T10:16:47Z",
-    "stars": 245,
-    "name": "steipete/warelay",
-    "url": "https://github.com/steipete/warelay",
-    "lang": "TypeScript",
-    "desc": "Invoke actions on your machine when you get a WhatsApp message and send replies! Uses Twilio and TailScale. Great for connecting Claude Code with WhatsApp."
-  },
-  {
-    "createdAt": "2025-11-22T03:35:15Z",
-    "stars": 234,
-    "name": "1rhino2/go-memory-visualizer",
-    "url": "https://github.com/1rhino2/go-memory-visualizer",
-    "lang": "TypeScript",
-    "desc": "Real-time Go struct memory layout visualization and optimization for VS Code. Analyze padding, alignment, and cache performance with one-click field reordering."
-  },
-  {
-    "createdAt": "2025-11-26T16:03:13Z",
-    "stars": 231,
-    "name": "CodeOne45/vex-tui",
-    "url": "https://github.com/CodeOne45/vex-tui",
-    "lang": "Go",
-    "desc": "A beautiful, fast, and feature-rich terminal-based Excel and CSV viewer built with Go."
-  },
-  {
-    "createdAt": "2025-11-24T12:46:59Z",
-    "stars": 223,
-    "name": "H-EmbodVis/GRANT",
-    "url": "https://github.com/H-EmbodVis/GRANT",
-    "lang": "Python",
-    "desc": "[AAAI 2026 Oral] Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution"
-  },
-  {
-    "createdAt": "2025-11-23T02:09:58Z",
-    "stars": 218,
-    "name": "ethgan/CF-Worker-BestIP-collector",
-    "url": "https://github.com/ethgan/CF-Worker-BestIP-collector",
-    "lang": "JavaScript",
-    "desc": "由于GitHub版的被官方以滥用资源为理由封禁了项目，特推出基于Cloudflare worker版的优选IP，更快，更高效，更直观！抛弃github Action~"
-  },
-  {
-    "createdAt": "2025-11-22T12:29:41Z",
-    "stars": 207,
-    "name": "arpxspace/smartcommit",
-    "url": "https://github.com/arpxspace/smartcommit",
-    "lang": "Go",
-    "desc": "Enforce the habit of self-documenting code through better commit messages."
-  },
-  {
-    "createdAt": "2025-11-22T13:01:40Z",
-    "stars": 206,
-    "name": "manoss96/onlymaps",
-    "url": "https://github.com/manoss96/onlymaps",
-    "lang": "Python",
-    "desc": "A Python micro-ORM"
-  },
-  {
-    "createdAt": "2025-11-24T15:49:49Z",
-    "stars": 201,
-    "name": "leggedrobotics/robotic_world_model",
-    "url": "https://github.com/leggedrobotics/robotic_world_model",
-    "lang": "Python",
-    "desc": "Repository for our paper: Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics"
-  },
-  {
     "createdAt": "2025-11-25T00:40:43Z",
-    "stars": 188,
+    "stars": 232,
     "name": "Gen-Verse/LatentMAS",
     "url": "https://github.com/Gen-Verse/LatentMAS",
     "lang": "Python",
     "desc": "Latent Collaboration in Multi-Agent Systems (LatentMAS)"
   },
   {
-    "createdAt": "2025-11-23T07:11:08Z",
-    "stars": 185,
-    "name": "naikaku1/YouTube_Music-Modern-UI",
-    "url": "https://github.com/naikaku1/YouTube_Music-Modern-UI",
+    "createdAt": "2025-11-23T02:09:58Z",
+    "stars": 224,
+    "name": "ethgan/CF-Worker-BestIP-collector",
+    "url": "https://github.com/ethgan/CF-Worker-BestIP-collector",
     "lang": "JavaScript",
-    "desc": "YouTube Music向けの拡張機能です。"
+    "desc": "由于GitHub版的被官方以滥用资源为理由封禁了项目，特推出基于Cloudflare worker版的优选IP，更快，更高效，更直观！抛弃github Action~"
+  },
+  {
+    "createdAt": "2025-11-24T15:49:49Z",
+    "stars": 222,
+    "name": "leggedrobotics/robotic_world_model",
+    "url": "https://github.com/leggedrobotics/robotic_world_model",
+    "lang": "Python",
+    "desc": "Repository for our paper: Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics"
   },
   {
     "createdAt": "2025-11-25T03:44:34Z",
-    "stars": 175,
+    "stars": 216,
     "name": "open-gigaai/giga-world-0",
     "url": "https://github.com/open-gigaai/giga-world-0",
     "lang": "Python",
     "desc": "GigaWorld-0: World Models as Data Engine to Empower Embodied AI"
   },
   {
+    "createdAt": "2025-11-23T07:11:08Z",
+    "stars": 190,
+    "name": "naikaku1/YTM-Modern-UI",
+    "url": "https://github.com/naikaku1/YTM-Modern-UI",
+    "lang": "JavaScript",
+    "desc": "YouTube Music向けの拡張機能です。"
+  },
+  {
     "createdAt": "2025-11-24T10:00:23Z",
-    "stars": 173,
+    "stars": 187,
     "name": "TheSmallHanCat/flow2api",
     "url": "https://github.com/TheSmallHanCat/flow2api",
     "lang": "Python",
     "desc": "无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等"
   },
   {
+    "createdAt": "2025-11-26T17:59:09Z",
+    "stars": 185,
+    "name": "Dicklesworthstone/beads_viewer",
+    "url": "https://github.com/Dicklesworthstone/beads_viewer",
+    "lang": "Go",
+    "desc": "View your beads (Steve Yegge's task management system for coding agents) like a king. "
+  },
+  {
+    "createdAt": "2025-11-24T08:30:22Z",
+    "stars": 178,
+    "name": "mult1v4c/hestia-core",
+    "url": "https://github.com/mult1v4c/hestia-core",
+    "lang": "JavaScript",
+    "desc": "A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations."
+  },
+  {
+    "createdAt": "2025-11-27T18:57:15Z",
+    "stars": 174,
+    "name": "xoxor4d/gta4-rtx",
+    "url": "https://github.com/xoxor4d/gta4-rtx",
+    "lang": "C++",
+    "desc": "GTAIV RTX Remix Compatibility Mod"
+  },
+  {
     "createdAt": "2025-11-26T00:46:27Z",
-    "stars": 165,
+    "stars": 172,
     "name": "waryas/WaryasSWHE",
     "url": "https://github.com/waryas/WaryasSWHE",
     "lang": "C++",
     "desc": "Usermode exploit to bypass any AC using a 0day shatter attack."
+  },
+  {
+    "createdAt": "2025-11-27T19:40:48Z",
+    "stars": 169,
+    "name": "moleculemmeng020425/christmas-tree",
+    "url": "https://github.com/moleculemmeng020425/christmas-tree",
+    "lang": "TypeScript",
+    "desc": "一棵高保真3D交互圣诞树"
+  },
+  {
+    "createdAt": "2025-11-24T08:36:01Z",
+    "stars": 169,
+    "name": "grigio/network-monitor",
+    "url": "https://github.com/grigio/network-monitor",
+    "lang": "Rust",
+    "desc": "A real-time network connection monitoring tool built with Rust and GTK4, displaying active connections with live I/O statistics in a modern graphical interface."
+  },
+  {
+    "createdAt": "2025-11-23T11:15:12Z",
+    "stars": 167,
+    "name": "SaladDay/cc-switch-cli",
+    "url": "https://github.com/SaladDay/cc-switch-cli",
+    "lang": "Rust",
+    "desc": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
+  },
+  {
+    "createdAt": "2025-11-27T12:40:54Z",
+    "stars": 165,
+    "name": "monsieurPale/RSA-Backdoor",
+    "url": "https://github.com/monsieurPale/RSA-Backdoor",
+    "lang": "Go",
+    "desc": ""
   },
   {
     "createdAt": "2025-11-23T09:26:29Z",
@@ -328,28 +344,52 @@
     "desc": "舆情搜索接口,舆情搜索API,新闻搜索,新闻API,接口,接口服务,news search,news api,news,public opinion api,public opinion,sentiment search,media monitor"
   },
   {
-    "createdAt": "2025-11-23T11:15:12Z",
-    "stars": 161,
-    "name": "SaladDay/cc-switch-cli",
-    "url": "https://github.com/SaladDay/cc-switch-cli",
-    "lang": "Rust",
-    "desc": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI."
-  },
-  {
     "createdAt": "2025-11-23T07:46:09Z",
-    "stars": 161,
+    "stars": 163,
     "name": "jamietso/Tabular_Review",
     "url": "https://github.com/jamietso/Tabular_Review",
     "lang": "TypeScript",
     "desc": "An AI-powered tabular review tool for legal professionals. Ingest unstructured documents, define dynamic extraction columns, and query your data with an integrated analyst chat."
   },
   {
-    "createdAt": "2025-11-27T18:57:15Z",
-    "stars": 158,
-    "name": "xoxor4d/gta4-rtx",
-    "url": "https://github.com/xoxor4d/gta4-rtx",
+    "createdAt": "2025-11-27T02:29:55Z",
+    "stars": 162,
+    "name": "KalyanKS-NLP/Prompt-Engineering-Techniques-Hub",
+    "url": "https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub",
+    "lang": "",
+    "desc": "This repo contains implementation of 25+ prompt engineering techniques. "
+  },
+  {
+    "createdAt": "2025-11-30T00:36:03Z",
+    "stars": 161,
+    "name": "TelegramMessenger/cocoon",
+    "url": "https://github.com/TelegramMessenger/cocoon",
     "lang": "C++",
-    "desc": "GTAIV RTX Remix Compatibility Mod"
+    "desc": "cocoon"
+  },
+  {
+    "createdAt": "2025-11-29T12:35:13Z",
+    "stars": 158,
+    "name": "coleam00/remote-agentic-coding-system",
+    "url": "https://github.com/coleam00/remote-agentic-coding-system",
+    "lang": "TypeScript",
+    "desc": "Remote Coding Agent for the Dynamous Agentic Coding Course and special Black Friday livestream. Connect Claude Code or Codex to Slack, Telegram, GitHub, etc."
+  },
+  {
+    "createdAt": "2025-11-26T20:55:47Z",
+    "stars": 157,
+    "name": "Xthebuilder/JRVS",
+    "url": "https://github.com/Xthebuilder/JRVS",
+    "lang": "Python",
+    "desc": "JRVS AI Agent with JARCORE autonomous coding engine - RAG knowledge base, web   scraping, calendar, code generation. Powered by whatever local AI you choose."
+  },
+  {
+    "createdAt": "2025-11-26T07:44:10Z",
+    "stars": 156,
+    "name": "chunrapeepat/awesome-coders-guide-to-everything-except-coding",
+    "url": "https://github.com/chunrapeepat/awesome-coders-guide-to-everything-except-coding",
+    "lang": "",
+    "desc": "A curated list of online resources for coders, engineers, and nerds that are completely unrelated to coding."
   },
   {
     "createdAt": "2025-11-23T22:43:21Z",
@@ -358,45 +398,5 @@
     "url": "https://github.com/rtennety/Voxel4D",
     "lang": "Python",
     "desc": "4D World Model for Autonomous Driving"
-  },
-  {
-    "createdAt": "2025-11-26T07:44:10Z",
-    "stars": 148,
-    "name": "chunrapeepat/awesome-coders-guide-to-everything-except-coding",
-    "url": "https://github.com/chunrapeepat/awesome-coders-guide-to-everything-except-coding",
-    "lang": "",
-    "desc": "A curated list of online resources for coders, engineers, and nerds that are completely unrelated to coding."
-  },
-  {
-    "createdAt": "2025-11-26T17:59:09Z",
-    "stars": 147,
-    "name": "Dicklesworthstone/beads_viewer",
-    "url": "https://github.com/Dicklesworthstone/beads_viewer",
-    "lang": "Go",
-    "desc": "View your beads (Steve Yegge's task management system for coding agents) like a king. "
-  },
-  {
-    "createdAt": "2025-11-27T02:42:56Z",
-    "stars": 145,
-    "name": "InternRobotics/G2VLM",
-    "url": "https://github.com/InternRobotics/G2VLM",
-    "lang": "Python",
-    "desc": "G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning"
-  },
-  {
-    "createdAt": "2025-11-26T14:09:02Z",
-    "stars": 144,
-    "name": "DevNexaro/custom-sol-address",
-    "url": "https://github.com/DevNexaro/custom-sol-address",
-    "lang": "C",
-    "desc": "Custom SOL vanity address generator"
-  },
-  {
-    "createdAt": "2025-11-28T05:25:49Z",
-    "stars": 143,
-    "name": "alexzhang1433/VPS-TGbot",
-    "url": "https://github.com/alexzhang1433/VPS-TGbot",
-    "lang": "Python",
-    "desc": "VPS-TG双向私聊机器人托管平台-修改版"
   }
 ]
