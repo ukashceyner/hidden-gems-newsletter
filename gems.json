@@ -1,55 +1,39 @@
 [
   {
     "createdAt": "2025-11-26T09:18:10Z",
-    "stars": 3883,
+    "stars": 4238,
     "name": "Tongyi-MAI/Z-Image",
     "url": "https://github.com/Tongyi-MAI/Z-Image",
-    "lang": "",
+    "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-25T10:12:54Z",
-    "stars": 2334,
-    "name": "HisMax/RedInk",
-    "url": "https://github.com/HisMax/RedInk",
-    "lang": "Python",
-    "desc": "红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\""
-  },
-  {
     "createdAt": "2025-11-27T06:12:26Z",
-    "stars": 1350,
+    "stars": 1382,
     "name": "deepseek-ai/DeepSeek-Math-V2",
     "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-11-28T04:41:02Z",
+    "stars": 1251,
+    "name": "666OS/ClashMac",
+    "url": "https://github.com/666OS/ClashMac",
+    "lang": "",
+    "desc": "基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端"
+  },
+  {
     "createdAt": "2025-11-28T09:36:04Z",
-    "stars": 1119,
+    "stars": 1165,
     "name": "Rohithgilla12/data-peek",
     "url": "https://github.com/Rohithgilla12/data-peek",
     "lang": "TypeScript",
     "desc": "A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat."
   },
   {
-    "createdAt": "2025-11-27T16:34:58Z",
-    "stars": 821,
-    "name": "portrret/spyder-osint",
-    "url": "https://github.com/portrret/spyder-osint",
-    "lang": "Python",
-    "desc": "An universal osint tool."
-  },
-  {
-    "createdAt": "2025-11-28T15:45:40Z",
-    "stars": 795,
-    "name": "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
-    "url": "https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
-    "lang": "HTML",
-    "desc": "Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court"
-  },
-  {
     "createdAt": "2025-11-29T09:19:54Z",
-    "stars": 778,
+    "stars": 842,
     "name": "Gururagavendra/gmail-cleaner",
     "url": "https://github.com/Gururagavendra/gmail-cleaner",
     "lang": "Python",
@@ -57,23 +41,23 @@
   },
   {
     "createdAt": "2025-11-28T14:42:44Z",
-    "stars": 743,
+    "stars": 836,
     "name": "stepfun-ai/gelab-zero",
     "url": "https://github.com/stepfun-ai/gelab-zero",
     "lang": "Python",
     "desc": "GELab: GUI Exploration Lab. One of the best GUI agent solutions in the galaxy, built by the StepFun-GELab team and powered by Step’s research capabilities."
   },
   {
-    "createdAt": "2025-11-28T04:41:02Z",
-    "stars": 509,
-    "name": "666OS/ClashMac",
-    "url": "https://github.com/666OS/ClashMac",
-    "lang": "",
-    "desc": "基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端"
+    "createdAt": "2025-11-28T15:45:40Z",
+    "stars": 834,
+    "name": "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
+    "url": "https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
+    "lang": "HTML",
+    "desc": "Hong Kong Fire (Tai Po, 11/26): A major blaze swept through Wang Fuk Court"
   },
   {
     "createdAt": "2025-11-28T19:10:45Z",
-    "stars": 463,
+    "stars": 630,
     "name": "gavrielc/Nano-PDF",
     "url": "https://github.com/gavrielc/Nano-PDF",
     "lang": "Python",
@@ -81,103 +65,87 @@
   },
   {
     "createdAt": "2025-11-30T00:36:03Z",
-    "stars": 440,
+    "stars": 476,
     "name": "TelegramMessenger/cocoon",
     "url": "https://github.com/TelegramMessenger/cocoon",
     "lang": "C++",
     "desc": "cocoon"
   },
   {
-    "createdAt": "2025-11-25T03:44:34Z",
-    "stars": 375,
-    "name": "open-gigaai/giga-world-0",
-    "url": "https://github.com/open-gigaai/giga-world-0",
-    "lang": "Python",
-    "desc": "GigaWorld-0: World Models as Data Engine to Empower Embodied AI"
-  },
-  {
     "createdAt": "2025-11-27T13:57:58Z",
-    "stars": 366,
+    "stars": 400,
     "name": "soufianekhiat/ImAnim",
     "url": "https://github.com/soufianekhiat/ImAnim",
     "lang": "C++",
-    "desc": "Animation Enginer for Dear ImGui"
+    "desc": "Animation Engine for Dear ImGui"
   },
   {
     "createdAt": "2025-11-27T12:15:12Z",
-    "stars": 350,
+    "stars": 360,
     "name": "chr15m/runprompt",
     "url": "https://github.com/chr15m/runprompt",
     "lang": "Python",
     "desc": "Tiny script to run .prompt files"
   },
   {
-    "createdAt": "2025-11-25T10:42:59Z",
-    "stars": 348,
-    "name": "022122/academic-doc-generator",
-    "url": "https://github.com/022122/academic-doc-generator",
-    "lang": "JavaScript",
-    "desc": "A realistic academic document simulator for testing and       verification flows. React + HeroUI."
-  },
-  {
-    "createdAt": "2025-11-25T00:40:43Z",
-    "stars": 343,
-    "name": "Gen-Verse/LatentMAS",
-    "url": "https://github.com/Gen-Verse/LatentMAS",
-    "lang": "Python",
-    "desc": "Latent Collaboration in Multi-Agent Systems (LatentMAS)"
+    "createdAt": "2025-11-30T16:18:24Z",
+    "stars": 350,
+    "name": "antonmedv/gitmal",
+    "url": "https://github.com/antonmedv/gitmal",
+    "lang": "Go",
+    "desc": "A static page generator for repos"
   },
   {
     "createdAt": "2025-11-26T16:03:13Z",
-    "stars": 313,
+    "stars": 334,
     "name": "CodeOne45/vex-tui",
     "url": "https://github.com/CodeOne45/vex-tui",
     "lang": "Go",
     "desc": "A beautiful, fast, and feature-rich terminal-based Excel and CSV viewer built with Go."
   },
   {
-    "createdAt": "2025-11-25T06:14:22Z",
-    "stars": 297,
-    "name": "jwangkun/ai-coding-prompt-java",
-    "url": "https://github.com/jwangkun/ai-coding-prompt-java",
-    "lang": "",
-    "desc": "java+vue3+uniapp全栈开发Prompt"
-  },
-  {
-    "createdAt": "2025-11-29T12:35:13Z",
-    "stars": 272,
-    "name": "coleam00/remote-agentic-coding-system",
-    "url": "https://github.com/coleam00/remote-agentic-coding-system",
-    "lang": "TypeScript",
-    "desc": "Remote Coding Agent for the Dynamous Agentic Coding Course and special Black Friday livestream. Connect Claude Code or Codex to Slack, Telegram, GitHub, etc."
-  },
-  {
     "createdAt": "2025-11-27T19:40:48Z",
-    "stars": 255,
+    "stars": 285,
     "name": "moleculemmeng020425/christmas-tree",
     "url": "https://github.com/moleculemmeng020425/christmas-tree",
     "lang": "TypeScript",
     "desc": "一棵高保真3D交互圣诞树"
   },
   {
-    "createdAt": "2025-11-25T01:57:42Z",
-    "stars": 248,
-    "name": "Angel7Dev/monad-nad.fun-sniper-bundler-bot",
-    "url": "https://github.com/Angel7Dev/monad-nad.fun-sniper-bundler-bot",
-    "lang": "JavaScript",
-    "desc": "Trading Bot for Nad.Fun & Monad Blockchain. Include snipe new tokens and bundler multiwallet."
+    "createdAt": "2025-11-29T12:35:13Z",
+    "stars": 277,
+    "name": "coleam00/remote-agentic-coding-system",
+    "url": "https://github.com/coleam00/remote-agentic-coding-system",
+    "lang": "TypeScript",
+    "desc": "Remote Coding Agent for the Dynamous Agentic Coding Course and special Black Friday livestream. Connect Claude Code or Codex to Slack, Telegram, GitHub, etc."
+  },
+  {
+    "createdAt": "2025-11-30T11:36:31Z",
+    "stars": 267,
+    "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "lang": "Python",
+    "desc": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms"
   },
   {
     "createdAt": "2025-11-27T02:29:55Z",
-    "stars": 221,
+    "stars": 266,
     "name": "KalyanKS-NLP/Prompt-Engineering-Techniques-Hub",
     "url": "https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub",
     "lang": "",
     "desc": "This repo contains implementation of 25+ prompt engineering techniques. "
   },
   {
+    "createdAt": "2025-11-30T19:39:05Z",
+    "stars": 261,
+    "name": "LeslieLeung/glean",
+    "url": "https://github.com/LeslieLeung/glean",
+    "lang": "TypeScript",
+    "desc": "A self-hosted RSS reader and personal knowledge management tool."
+  },
+  {
     "createdAt": "2025-11-27T03:46:16Z",
-    "stars": 208,
+    "stars": 259,
     "name": "xup6jammy/AI-INVOICE-OCR-ENGINE",
     "url": "https://github.com/xup6jammy/AI-INVOICE-OCR-ENGINE",
     "lang": "Python",
@@ -185,55 +153,31 @@
   },
   {
     "createdAt": "2025-11-26T17:59:09Z",
-    "stars": 206,
+    "stars": 214,
     "name": "Dicklesworthstone/beads_viewer",
     "url": "https://github.com/Dicklesworthstone/beads_viewer",
     "lang": "Go",
     "desc": "View your beads (Steve Yegge's task management system for coding agents) like a king. "
   },
   {
-    "createdAt": "2025-11-30T16:18:24Z",
-    "stars": 203,
-    "name": "antonmedv/gitmal",
-    "url": "https://github.com/antonmedv/gitmal",
-    "lang": "Go",
-    "desc": "A static page generator for repos"
-  },
-  {
     "createdAt": "2025-11-27T18:57:15Z",
-    "stars": 199,
+    "stars": 211,
     "name": "xoxor4d/gta4-rtx",
     "url": "https://github.com/xoxor4d/gta4-rtx",
     "lang": "C++",
     "desc": "GTAIV RTX Remix Compatibility Mod"
   },
   {
-    "createdAt": "2025-11-25T23:53:41Z",
-    "stars": 197,
-    "name": "NVlabs/ToolOrchestra",
-    "url": "https://github.com/NVlabs/ToolOrchestra",
-    "lang": "Python",
-    "desc": "ToolOrchestra is an end-to-end RL training framework for orchestrating tools and agentic workflows."
-  },
-  {
     "createdAt": "2025-11-26T20:55:47Z",
-    "stars": 194,
+    "stars": 200,
     "name": "Xthebuilder/JRVS",
     "url": "https://github.com/Xthebuilder/JRVS",
     "lang": "Python",
     "desc": "JRVS AI Agent with JARCORE autonomous coding engine - RAG knowledge base, web   scraping, calendar, code generation. Powered by whatever local AI you choose."
   },
   {
-    "createdAt": "2025-12-02T16:41:39Z",
-    "stars": 189,
-    "name": "wannalie/sora-watermark-cleaner",
-    "url": "https://github.com/wannalie/sora-watermark-cleaner",
-    "lang": "Python",
-    "desc": "Sora2 Watermark Cleaner (GUI) is a graphical application for removing your own technical or test watermarks from images and videos during development or internal workflows."
-  },
-  {
     "createdAt": "2025-11-27T12:40:54Z",
-    "stars": 187,
+    "stars": 194,
     "name": "monsieurPale/RSA-Backdoor",
     "url": "https://github.com/monsieurPale/RSA-Backdoor",
     "lang": "Go",
@@ -241,7 +185,7 @@
   },
   {
     "createdAt": "2025-11-26T00:46:27Z",
-    "stars": 183,
+    "stars": 190,
     "name": "waryas/WaryasSWHE",
     "url": "https://github.com/waryas/WaryasSWHE",
     "lang": "C++",
@@ -249,27 +193,27 @@
   },
   {
     "createdAt": "2025-11-27T02:42:56Z",
-    "stars": 179,
+    "stars": 183,
     "name": "InternRobotics/G2VLM",
     "url": "https://github.com/InternRobotics/G2VLM",
     "lang": "Python",
     "desc": "G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning"
   },
   {
-    "createdAt": "2025-11-30T19:39:05Z",
-    "stars": 177,
-    "name": "LeslieLeung/glean",
-    "url": "https://github.com/LeslieLeung/glean",
-    "lang": "TypeScript",
-    "desc": "A self-hosted RSS reader and personal knowledge management tool."
+    "createdAt": "2025-11-28T01:35:13Z",
+    "stars": 172,
+    "name": "skylerhes/sms-bridge",
+    "url": "https://github.com/skylerhes/sms-bridge",
+    "lang": "Python",
+    "desc": "把几十块钱的 USB 上网卡插到玩客云 / 树莓派 / 任意 Linux 设备，让它变成一台“云手机”。自动收短信、转发短信、网页发短信保号。"
   },
   {
-    "createdAt": "2025-12-02T16:27:31Z",
+    "createdAt": "2025-11-28T11:15:56Z",
     "stars": 171,
-    "name": "wannalie/Sora2WatermarkCleaner",
-    "url": "https://github.com/wannalie/Sora2WatermarkCleaner",
-    "lang": "Python",
-    "desc": "Sora2 Watermark Cleaner is a command-line utility designed to remove your own technical or test watermarks from images or videos generated by your workflows, prototypes, or internal tools.   It is intended for developers, researchers, and creators who need to clean up assets during experimentation or post-processing."
+    "name": "RookieEnough/Orion-Store",
+    "url": "https://github.com/RookieEnough/Orion-Store",
+    "lang": "TypeScript",
+    "desc": "The ultimate home for modded apps. OrionStore offers instant access to YouTube ReVanced, Spotify Premium, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love."
   },
   {
     "createdAt": "2025-12-01T20:48:05Z",
@@ -280,6 +224,22 @@
     "desc": "Native Android app for Hyperliquid. DEX trading"
   },
   {
+    "createdAt": "2025-11-27T05:20:14Z",
+    "stars": 168,
+    "name": "ddcat666/business-gemini-pool",
+    "url": "https://github.com/ddcat666/business-gemini-pool",
+    "lang": "HTML",
+    "desc": "Gemini Enterprise Business 版 账号轮训池（提供OpenAPI接口服务）"
+  },
+  {
+    "createdAt": "2025-11-26T18:39:48Z",
+    "stars": 162,
+    "name": "Anashost/HA-Animated-cards",
+    "url": "https://github.com/Anashost/HA-Animated-cards",
+    "lang": "",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-11-26T07:44:10Z",
     "stars": 160,
     "name": "chunrapeepat/awesome-coders-guide-to-everything-except-coding",
@@ -288,24 +248,8 @@
     "desc": "A curated list of online resources for coders, engineers, and nerds that are completely unrelated to coding."
   },
   {
-    "createdAt": "2025-11-28T01:35:13Z",
-    "stars": 160,
-    "name": "skylerhes/sms-bridge",
-    "url": "https://github.com/skylerhes/sms-bridge",
-    "lang": "Python",
-    "desc": "把几十块钱的 USB 上网卡插到玩客云 / 树莓派 / 任意 Linux 设备，让它变成一台“云手机”。自动收短信、转发短信、网页发短信保号。"
-  },
-  {
-    "createdAt": "2025-11-27T05:20:14Z",
-    "stars": 158,
-    "name": "ddcat666/business-gemini-pool",
-    "url": "https://github.com/ddcat666/business-gemini-pool",
-    "lang": "HTML",
-    "desc": "Gemini Enterprise Business 版 账号轮训池（提供OpenAPI接口服务）"
-  },
-  {
     "createdAt": "2025-11-28T05:25:49Z",
-    "stars": 152,
+    "stars": 158,
     "name": "alexzhang1433/VPS-TGbot",
     "url": "https://github.com/alexzhang1433/VPS-TGbot",
     "lang": "Python",
@@ -313,27 +257,43 @@
   },
   {
     "createdAt": "2025-11-29T07:06:01Z",
-    "stars": 152,
+    "stars": 158,
     "name": "legeling/PromptHub",
     "url": "https://github.com/legeling/PromptHub",
     "lang": "TypeScript",
     "desc": "一款开源、纯本地 AI Prompt 管理工具，帮助你高效管理、版本控制和复用 Prompt | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts"
   },
   {
-    "createdAt": "2025-11-25T09:29:58Z",
-    "stars": 150,
-    "name": "DPIRD-DMA/Smoothify",
-    "url": "https://github.com/DPIRD-DMA/Smoothify",
-    "lang": "Jupyter Notebook",
-    "desc": "A Python package for smoothing and refining geometries derived from raster data classifications. Smoothify transforms jagged polygons and lines resulting from raster-to-vector conversion into smooth, visually appealing features using an optimized implementation of Chaikin's corner-cutting algorithm."
-  },
-  {
     "createdAt": "2025-11-28T18:51:53Z",
-    "stars": 150,
+    "stars": 154,
     "name": "gvanrossum/abc-unix",
     "url": "https://github.com/gvanrossum/abc-unix",
     "lang": "C",
     "desc": "The original ABC language (Python's predecessor), from 1991"
+  },
+  {
+    "createdAt": "2025-12-01T02:06:32Z",
+    "stars": 151,
+    "name": "dabit3/fabricate",
+    "url": "https://github.com/dabit3/fabricate",
+    "lang": "Python",
+    "desc": "An experimental research tool for fabricating GitHub personas with AI-generated repositories"
+  },
+  {
+    "createdAt": "2025-11-29T04:54:46Z",
+    "stars": 147,
+    "name": "ccbikai/aigc-weekly",
+    "url": "https://github.com/ccbikai/aigc-weekly",
+    "lang": "TypeScript",
+    "desc": "Agili 的 AIGC 周刊 - 一个由 Agentic AI Agent 驱动的 AIGC（人工智能生成内容）精选周刊。"
+  },
+  {
+    "createdAt": "2025-11-30T11:31:32Z",
+    "stars": 146,
+    "name": "YU-deep/Awesome-Latent-Space",
+    "url": "https://github.com/YU-deep/Awesome-Latent-Space",
+    "lang": "",
+    "desc": "A paper list of Awesome Latent Space."
   },
   {
     "createdAt": "2025-11-26T14:09:02Z",
@@ -344,12 +304,12 @@
     "desc": "Custom SOL vanity address generator"
   },
   {
-    "createdAt": "2025-11-26T18:39:48Z",
+    "createdAt": "2025-11-26T07:22:04Z",
     "stars": 145,
-    "name": "Anashost/HA-Animated-cards",
-    "url": "https://github.com/Anashost/HA-Animated-cards",
-    "lang": "",
-    "desc": ""
+    "name": "sese972010/CloudNav-",
+    "url": "https://github.com/sese972010/CloudNav-",
+    "lang": "TypeScript",
+    "desc": "托管在cloudflare上的轻量化导航，可以同步谷歌书签"
   },
   {
     "createdAt": "2025-11-27T10:06:29Z",
@@ -360,12 +320,12 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-11-26T07:22:04Z",
+    "createdAt": "2025-11-29T06:26:41Z",
     "stars": 142,
-    "name": "sese972010/CloudNav-",
-    "url": "https://github.com/sese972010/CloudNav-",
-    "lang": "TypeScript",
-    "desc": "托管在cloudflare上的轻量化导航，可以同步谷歌书签"
+    "name": "claudekit/frontend-design-pro-demo",
+    "url": "https://github.com/claudekit/frontend-design-pro-demo",
+    "lang": "HTML",
+    "desc": "Frontend Design Pro Demo - Showcasing 11 distinct design aesthetics"
   },
   {
     "createdAt": "2025-11-27T07:26:30Z",
@@ -376,27 +336,67 @@
     "desc": "Rust implementation of proxychains — injectable library for chaining TCP/UDP connections via multiple proxies."
   },
   {
-    "createdAt": "2025-11-29T06:26:41Z",
-    "stars": 139,
-    "name": "claudekit/frontend-design-pro-demo",
-    "url": "https://github.com/claudekit/frontend-design-pro-demo",
-    "lang": "HTML",
-    "desc": "Frontend Design Pro Demo - Showcasing 11 distinct design aesthetics"
-  },
-  {
     "createdAt": "2025-11-29T00:32:02Z",
-    "stars": 138,
+    "stars": 140,
     "name": "alienwaregf/CF-Worker-BestIP-collector-UI",
     "url": "https://github.com/alienwaregf/CF-Worker-BestIP-collector-UI",
     "lang": "JavaScript",
     "desc": "Cloudflare 优选IP 收集器升级版UI"
   },
   {
-    "createdAt": "2025-11-29T04:54:46Z",
-    "stars": 137,
-    "name": "ccbikai/aigc-weekly",
-    "url": "https://github.com/ccbikai/aigc-weekly",
+    "createdAt": "2025-11-29T13:54:59Z",
+    "stars": 140,
+    "name": "simone46b/polymarket-trading-bot",
+    "url": "https://github.com/simone46b/polymarket-trading-bot",
     "lang": "TypeScript",
-    "desc": "Agili 的 AIGC 周刊 - 一个由 Agentic AI Agent 驱动的 AIGC（人工智能生成内容）精选周刊。"
+    "desc": "Polymarket trading bot: Polymarket copytrading bot, Polymarket arbitrage bot on Polymarket, Monitor real price on Polymarket and calculate prob and automatically mirror positions with intelligent sizing and safety checks on Polymarket.(copytrading bot & arbitrage bot))"
+  },
+  {
+    "createdAt": "2025-11-30T10:35:32Z",
+    "stars": 135,
+    "name": "kaima2022/ShowImageWeb",
+    "url": "https://github.com/kaima2022/ShowImageWeb",
+    "lang": "Python",
+    "desc": "AI图像生成网页交互平台 - 基于Streamlit构建的Web应用，提供简洁的用户界面和实用的图像生成功能"
+  },
+  {
+    "createdAt": "2025-12-02T13:45:58Z",
+    "stars": 134,
+    "name": "mtvpls/MoonTVPlus",
+    "url": "https://github.com/mtvpls/MoonTVPlus",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-03T09:15:43Z",
+    "stars": 131,
+    "name": "norish-recipes/norish",
+    "url": "https://github.com/norish-recipes/norish",
+    "lang": "TypeScript",
+    "desc": "Norish - A realtime, self-hosted recipe app for families & friends "
+  },
+  {
+    "createdAt": "2025-11-26T06:24:43Z",
+    "stars": 131,
+    "name": "akshayaggarwal99/jarvis-ai-assistant",
+    "url": "https://github.com/akshayaggarwal99/jarvis-ai-assistant",
+    "lang": "TypeScript",
+    "desc": "Jarvis AI Assistant - Voice-powered AI assistant for Mac"
+  },
+  {
+    "createdAt": "2025-11-27T23:57:25Z",
+    "stars": 131,
+    "name": "roryork1/tg-bot",
+    "url": "https://github.com/roryork1/tg-bot",
+    "lang": "JavaScript",
+    "desc": "Cloudflare Worker 部署的 Telegram 私信机器人（中转 / 分组转发功能）"
+  },
+  {
+    "createdAt": "2025-12-02T00:36:15Z",
+    "stars": 131,
+    "name": "PlummersSoftwareLLC/retropad",
+    "url": "https://github.com/PlummersSoftwareLLC/retropad",
+    "lang": "C",
+    "desc": ""
   }
 ]
