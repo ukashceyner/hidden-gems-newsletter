@@ -1,23 +1,15 @@
 [
   {
     "createdAt": "2025-11-28T04:41:02Z",
-    "stars": 1473,
+    "stars": 1555,
     "name": "666OS/ClashMac",
     "url": "https://github.com/666OS/ClashMac",
     "lang": "",
-    "desc": "基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端"
-  },
-  {
-    "createdAt": "2025-11-27T06:12:26Z",
-    "stars": 1401,
-    "name": "deepseek-ai/DeepSeek-Math-V2",
-    "url": "https://github.com/deepseek-ai/DeepSeek-Math-V2",
-    "lang": "Python",
-    "desc": ""
+    "desc": "基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client."
   },
   {
     "createdAt": "2025-11-28T09:36:04Z",
-    "stars": 1213,
+    "stars": 1234,
     "name": "Rohithgilla12/data-peek",
     "url": "https://github.com/Rohithgilla12/data-peek",
     "lang": "TypeScript",
@@ -25,7 +17,7 @@
   },
   {
     "createdAt": "2025-11-28T14:42:44Z",
-    "stars": 922,
+    "stars": 1002,
     "name": "stepfun-ai/gelab-zero",
     "url": "https://github.com/stepfun-ai/gelab-zero",
     "lang": "Python",
@@ -33,7 +25,7 @@
   },
   {
     "createdAt": "2025-11-29T09:19:54Z",
-    "stars": 872,
+    "stars": 942,
     "name": "Gururagavendra/gmail-cleaner",
     "url": "https://github.com/Gururagavendra/gmail-cleaner",
     "lang": "Python",
@@ -41,7 +33,7 @@
   },
   {
     "createdAt": "2025-11-28T15:45:40Z",
-    "stars": 849,
+    "stars": 855,
     "name": "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
     "url": "https://github.com/Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary",
     "lang": "HTML",
@@ -49,7 +41,7 @@
   },
   {
     "createdAt": "2025-11-28T19:10:45Z",
-    "stars": 693,
+    "stars": 722,
     "name": "gavrielc/Nano-PDF",
     "url": "https://github.com/gavrielc/Nano-PDF",
     "lang": "Python",
@@ -57,7 +49,7 @@
   },
   {
     "createdAt": "2025-12-03T21:16:22Z",
-    "stars": 549,
+    "stars": 639,
     "name": "ejpir/CVE-2025-55182-research",
     "url": "https://github.com/ejpir/CVE-2025-55182-research",
     "lang": "JavaScript",
@@ -65,7 +57,7 @@
   },
   {
     "createdAt": "2025-11-30T16:18:24Z",
-    "stars": 504,
+    "stars": 634,
     "name": "antonmedv/gitmal",
     "url": "https://github.com/antonmedv/gitmal",
     "lang": "Go",
@@ -73,95 +65,71 @@
   },
   {
     "createdAt": "2025-11-30T00:36:03Z",
-    "stars": 501,
+    "stars": 512,
     "name": "TelegramMessenger/cocoon",
     "url": "https://github.com/TelegramMessenger/cocoon",
     "lang": "C++",
     "desc": "cocoon"
   },
   {
-    "createdAt": "2025-11-27T13:57:58Z",
-    "stars": 410,
-    "name": "soufianekhiat/ImAnim",
-    "url": "https://github.com/soufianekhiat/ImAnim",
-    "lang": "C++",
-    "desc": "Animation Engine for Dear ImGui"
-  },
-  {
     "createdAt": "2025-11-30T11:36:31Z",
-    "stars": 393,
+    "stars": 480,
     "name": "nextlevelbuilder/ui-ux-pro-max-skill",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
     "lang": "Python",
     "desc": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms"
   },
   {
-    "createdAt": "2025-11-27T12:15:12Z",
-    "stars": 365,
-    "name": "chr15m/runprompt",
-    "url": "https://github.com/chr15m/runprompt",
+    "createdAt": "2025-12-04T11:49:55Z",
+    "stars": 436,
+    "name": "msanft/CVE-2025-55182",
+    "url": "https://github.com/msanft/CVE-2025-55182",
     "lang": "Python",
-    "desc": "Tiny script to run .prompt files"
-  },
-  {
-    "createdAt": "2025-11-27T19:40:48Z",
-    "stars": 321,
-    "name": "moleculemmeng020425/christmas-tree",
-    "url": "https://github.com/moleculemmeng020425/christmas-tree",
-    "lang": "TypeScript",
-    "desc": "一棵高保真3D交互圣诞树"
-  },
-  {
-    "createdAt": "2025-11-27T03:46:16Z",
-    "stars": 309,
-    "name": "xup6jammy/AI-INVOICE-OCR-ENGINE",
-    "url": "https://github.com/xup6jammy/AI-INVOICE-OCR-ENGINE",
-    "lang": "Python",
-    "desc": ""
+    "desc": "Explanation and full RCE PoC for CVE-2025-55182"
   },
   {
     "createdAt": "2025-11-30T19:39:05Z",
-    "stars": 304,
+    "stars": 335,
     "name": "LeslieLeung/glean",
     "url": "https://github.com/LeslieLeung/glean",
     "lang": "TypeScript",
     "desc": "A self-hosted RSS reader and personal knowledge management tool."
   },
   {
-    "createdAt": "2025-11-29T12:35:13Z",
-    "stars": 282,
-    "name": "coleam00/remote-agentic-coding-system",
-    "url": "https://github.com/coleam00/remote-agentic-coding-system",
-    "lang": "TypeScript",
-    "desc": "Remote Coding Agent for the Dynamous Agentic Coding Course and special Black Friday livestream. Connect Claude Code or Codex to Slack, Telegram, GitHub, etc."
-  },
-  {
-    "createdAt": "2025-11-27T02:29:55Z",
-    "stars": 273,
-    "name": "KalyanKS-NLP/Prompt-Engineering-Techniques-Hub",
-    "url": "https://github.com/KalyanKS-NLP/Prompt-Engineering-Techniques-Hub",
-    "lang": "",
-    "desc": "This repo contains implementation of 25+ prompt engineering techniques. "
+    "createdAt": "2025-12-04T06:55:04Z",
+    "stars": 325,
+    "name": "assetnote/react2shell-scanner",
+    "url": "https://github.com/assetnote/react2shell-scanner",
+    "lang": "Python",
+    "desc": "High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)"
   },
   {
     "createdAt": "2025-11-28T11:15:56Z",
-    "stars": 249,
+    "stars": 286,
     "name": "RookieEnough/Orion-Store",
     "url": "https://github.com/RookieEnough/Orion-Store",
     "lang": "TypeScript",
     "desc": "The ultimate home for modded apps. OrionStore offers instant access to YouTube ReVanced, Spotify Premium, and essential open-source tools without the clutter. No servers, no tracking, just a beautiful, modern gateway to the apps you love."
   },
   {
-    "createdAt": "2025-11-27T18:57:15Z",
-    "stars": 222,
-    "name": "xoxor4d/gta4-rtx",
-    "url": "https://github.com/xoxor4d/gta4-rtx",
-    "lang": "C++",
-    "desc": "GTAIV RTX Remix Compatibility Mod"
+    "createdAt": "2025-11-29T12:35:13Z",
+    "stars": 284,
+    "name": "coleam00/remote-agentic-coding-system",
+    "url": "https://github.com/coleam00/remote-agentic-coding-system",
+    "lang": "TypeScript",
+    "desc": "Remote Coding Agent for the Dynamous Agentic Coding Course and special Black Friday livestream. Connect Claude Code or Codex to Slack, Telegram, GitHub, etc."
+  },
+  {
+    "createdAt": "2025-12-04T12:49:07Z",
+    "stars": 277,
+    "name": "guhcostan/mac-cleaner-cli",
+    "url": "https://github.com/guhcostan/mac-cleaner-cli",
+    "lang": "TypeScript",
+    "desc": ""
   },
   {
     "createdAt": "2025-11-30T03:13:09Z",
-    "stars": 215,
+    "stars": 249,
     "name": "guiyumin/vget",
     "url": "https://github.com/guiyumin/vget",
     "lang": "Go",
@@ -169,43 +137,67 @@
   },
   {
     "createdAt": "2025-12-03T09:15:43Z",
-    "stars": 209,
+    "stars": 247,
     "name": "norish-recipes/norish",
     "url": "https://github.com/norish-recipes/norish",
     "lang": "TypeScript",
     "desc": "Norish - A realtime, self-hosted recipe app for families & friends "
   },
   {
-    "createdAt": "2025-11-27T12:40:54Z",
-    "stars": 195,
-    "name": "monsieurPale/RSA-Backdoor",
-    "url": "https://github.com/monsieurPale/RSA-Backdoor",
-    "lang": "Go",
+    "createdAt": "2025-12-05T08:00:07Z",
+    "stars": 209,
+    "name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+    "url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
+    "lang": "JavaScript",
+    "desc": "Original Proof-of-Concept's for React2Shell CVE-2025-55182"
+  },
+  {
+    "createdAt": "2025-11-29T14:28:56Z",
+    "stars": 193,
+    "name": "chsbuffer/ReVancedXposed_Spotify",
+    "url": "https://github.com/chsbuffer/ReVancedXposed_Spotify",
+    "lang": "Kotlin",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-27T02:42:56Z",
-    "stars": 189,
-    "name": "InternRobotics/G2VLM",
-    "url": "https://github.com/InternRobotics/G2VLM",
-    "lang": "Python",
-    "desc": "G2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning"
-  },
-  {
     "createdAt": "2025-11-28T01:35:13Z",
-    "stars": 183,
+    "stars": 188,
     "name": "skylerhes/sms-bridge",
     "url": "https://github.com/skylerhes/sms-bridge",
     "lang": "Python",
     "desc": "把几十块钱的 USB 上网卡插到玩客云 / 树莓派 / 任意 Linux 设备，让它变成一台“云手机”。自动收短信、转发短信、网页发短信保号。"
   },
   {
-    "createdAt": "2025-11-27T05:20:14Z",
+    "createdAt": "2025-11-29T07:06:01Z",
+    "stars": 177,
+    "name": "legeling/PromptHub",
+    "url": "https://github.com/legeling/PromptHub",
+    "lang": "TypeScript",
+    "desc": "一款开源、纯本地 AI Prompt 管理工具，帮助你高效管理、版本控制和复用 Prompt | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts"
+  },
+  {
+    "createdAt": "2025-12-02T22:50:12Z",
+    "stars": 176,
+    "name": "rjykgafi/polymarket-sniper-bot",
+    "url": "https://github.com/rjykgafi/polymarket-sniper-bot",
+    "lang": "TypeScript",
+    "desc": "Polymarket Sniper Copytrading Bot - Mempool monitoring , Front trigger transaction same block with higher priority, PolymarketBot, Polymarket Copytrading Bot, FrontRun Bot, Polymarket Trading Bot, Polygon Tradinb Bot, Arbitrage Bot, Polymarket Trading Bot, Polymarket Trading Bot, Polymarket Trading Bot, Polymarket Trading Bot, Polymarket Trading"
+  },
+  {
+    "createdAt": "2025-12-01T02:06:32Z",
     "stars": 174,
-    "name": "ddcat666/business-gemini-pool",
-    "url": "https://github.com/ddcat666/business-gemini-pool",
-    "lang": "HTML",
-    "desc": "Gemini Enterprise Business 版 账号轮训池（提供OpenAPI接口服务）"
+    "name": "dabit3/fabricate",
+    "url": "https://github.com/dabit3/fabricate",
+    "lang": "Python",
+    "desc": "An experimental research tool for fabricating GitHub personas with AI-generated repositories"
+  },
+  {
+    "createdAt": "2025-11-28T05:25:49Z",
+    "stars": 170,
+    "name": "alexzhang1433/VPS-TGbot",
+    "url": "https://github.com/alexzhang1433/VPS-TGbot",
+    "lang": "Python",
+    "desc": "VPS-TG双向私聊机器人托管平台-修改版"
   },
   {
     "createdAt": "2025-12-01T20:48:05Z",
@@ -216,64 +208,56 @@
     "desc": "Native Android app for Hyperliquid. DEX trading"
   },
   {
-    "createdAt": "2025-11-28T05:25:49Z",
-    "stars": 168,
-    "name": "alexzhang1433/VPS-TGbot",
-    "url": "https://github.com/alexzhang1433/VPS-TGbot",
-    "lang": "Python",
-    "desc": "VPS-TG双向私聊机器人托管平台-修改版"
-  },
-  {
-    "createdAt": "2025-12-01T02:06:32Z",
-    "stars": 168,
-    "name": "dabit3/fabricate",
-    "url": "https://github.com/dabit3/fabricate",
-    "lang": "Python",
-    "desc": "An experimental research tool for fabricating GitHub personas with AI-generated repositories"
-  },
-  {
-    "createdAt": "2025-11-29T07:06:01Z",
-    "stars": 162,
-    "name": "legeling/PromptHub",
-    "url": "https://github.com/legeling/PromptHub",
-    "lang": "TypeScript",
-    "desc": "一款开源、纯本地 AI Prompt 管理工具，帮助你高效管理、版本控制和复用 Prompt | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts"
-  },
-  {
-    "createdAt": "2025-11-29T14:28:56Z",
-    "stars": 162,
-    "name": "chsbuffer/ReVancedXposed_Spotify",
-    "url": "https://github.com/chsbuffer/ReVancedXposed_Spotify",
-    "lang": "Kotlin",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-11-28T18:51:53Z",
-    "stars": 155,
-    "name": "gvanrossum/abc-unix",
-    "url": "https://github.com/gvanrossum/abc-unix",
-    "lang": "C",
-    "desc": "The original ABC language (Python's predecessor), from 1991"
-  },
-  {
     "createdAt": "2025-11-30T11:31:32Z",
-    "stars": 154,
+    "stars": 167,
     "name": "YU-deep/Awesome-Latent-Space",
     "url": "https://github.com/YU-deep/Awesome-Latent-Space",
     "lang": "",
     "desc": "A paper list of Awesome Latent Space."
   },
   {
+    "createdAt": "2025-12-03T19:19:15Z",
+    "stars": 166,
+    "name": "devcarron/casino-game-smartContract",
+    "url": "https://github.com/devcarron/casino-game-smartContract",
+    "lang": "TypeScript",
+    "desc": "jackpot, casino, solana. Casino Game Smart Contract: A decentralized casino(Jackpot) smart contract built on the Solana blockchain using the Anchor framework. This project implements a jackpot system with secure random number generation using ORAO Network's VRF"
+  },
+  {
+    "createdAt": "2025-12-04T10:28:58Z",
+    "stars": 163,
+    "name": "mostafaaElsherbiny/backend-interview-questions",
+    "url": "https://github.com/mostafaaElsherbiny/backend-interview-questions",
+    "lang": "",
+    "desc": "Comprehensive backend interview questions covering general concepts, .NET Core, Node.js, and PHP Laravel - 169 questions total"
+  },
+  {
     "createdAt": "2025-12-02T13:45:58Z",
-    "stars": 149,
+    "stars": 159,
     "name": "mtvpls/MoonTVPlus",
     "url": "https://github.com/mtvpls/MoonTVPlus",
     "lang": "TypeScript",
     "desc": ""
   },
   {
+    "createdAt": "2025-11-28T18:51:53Z",
+    "stars": 156,
+    "name": "gvanrossum/abc-unix",
+    "url": "https://github.com/gvanrossum/abc-unix",
+    "lang": "C",
+    "desc": "The original ABC language (Python's predecessor), from 1991"
+  },
+  {
+    "createdAt": "2025-12-02T01:05:29Z",
+    "stars": 153,
+    "name": "mit-han-lab/vlash",
+    "url": "https://github.com/mit-han-lab/vlash",
+    "lang": "Python",
+    "desc": "Real-Time VLAs via Future-state-aware Asynchronous Inference."
+  },
+  {
     "createdAt": "2025-12-02T00:36:15Z",
-    "stars": 149,
+    "stars": 152,
     "name": "PlummersSoftwareLLC/retropad",
     "url": "https://github.com/PlummersSoftwareLLC/retropad",
     "lang": "C",
@@ -281,7 +265,7 @@
   },
   {
     "createdAt": "2025-11-29T00:32:02Z",
-    "stars": 148,
+    "stars": 150,
     "name": "alienwaregf/CF-Worker-BestIP-collector-UI",
     "url": "https://github.com/alienwaregf/CF-Worker-BestIP-collector-UI",
     "lang": "JavaScript",
@@ -289,35 +273,35 @@
   },
   {
     "createdAt": "2025-11-29T04:54:46Z",
-    "stars": 148,
+    "stars": 150,
     "name": "ccbikai/aigc-weekly",
     "url": "https://github.com/ccbikai/aigc-weekly",
     "lang": "TypeScript",
     "desc": "Agili 的 AIGC 周刊 - 一个由 Agentic AI Agent 驱动的 AIGC（人工智能生成内容）精选周刊。"
   },
   {
+    "createdAt": "2025-12-05T07:13:26Z",
+    "stars": 149,
+    "name": "BlackSky-Jose/Prediction-market-SOLANA",
+    "url": "https://github.com/BlackSky-Jose/Prediction-market-SOLANA",
+    "lang": "TypeScript",
+    "desc": "Prediction, market, solana .A fully decentralized prediction market platform on Solana enabling users to create custom markets, add liquidity, place token-based bets, and automatically resolve outcomes using Switchboard oracles and Anchor smart contracts."
+  },
+  {
     "createdAt": "2025-11-29T06:26:41Z",
-    "stars": 144,
+    "stars": 146,
     "name": "claudekit/frontend-design-pro-demo",
     "url": "https://github.com/claudekit/frontend-design-pro-demo",
     "lang": "HTML",
     "desc": "Frontend Design Pro Demo - Showcasing 11 distinct design aesthetics"
   },
   {
-    "createdAt": "2025-11-27T11:07:31Z",
-    "stars": 143,
-    "name": "YouMind-OpenLab/awesome-gemini-3-prompts",
-    "url": "https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts",
-    "lang": "TypeScript",
-    "desc": "♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library"
-  },
-  {
-    "createdAt": "2025-11-27T10:06:29Z",
+    "createdAt": "2025-12-04T06:39:15Z",
     "stars": 142,
-    "name": "adysec/FuckACE",
-    "url": "https://github.com/adysec/FuckACE",
+    "name": "CryptomSol/prediction-market",
+    "url": "https://github.com/CryptomSol/prediction-market",
     "lang": "Rust",
-    "desc": ""
+    "desc": "prediction market platform built on solana with microservices architecture. This platform enables users to create, trade, and settle prediction markets with real-time order matching, price updates, and comprehensive market analytics."
   },
   {
     "createdAt": "2025-11-29T13:54:59Z",
@@ -328,28 +312,20 @@
     "desc": "Polymarket trading bot: Polymarket copytrading bot, Polymarket arbitrage bot on Polymarket, Monitor real price on Polymarket and calculate prob and automatically mirror positions with intelligent sizing and safety checks on Polymarket.(copytrading bot & arbitrage bot))"
   },
   {
-    "createdAt": "2025-11-27T11:44:07Z",
-    "stars": 142,
-    "name": "jasonwong1991/easy_proxies",
-    "url": "https://github.com/jasonwong1991/easy_proxies",
-    "lang": "Go",
-    "desc": "A proxy node pool management tool based on sing-box, supporting multiple protocols, automatic failover and load balancing.  基于 sing-box 的代理节点池管理工具，支持多协议、多节点自动故障转移和负载均衡。"
+    "createdAt": "2025-11-29T15:28:13Z",
+    "stars": 137,
+    "name": "Alan-TheGentleman/prompts-dev",
+    "url": "https://github.com/Alan-TheGentleman/prompts-dev",
+    "lang": "",
+    "desc": ""
   },
   {
-    "createdAt": "2025-11-27T07:26:30Z",
-    "stars": 141,
-    "name": "adysec/proxychains-rs",
-    "url": "https://github.com/adysec/proxychains-rs",
-    "lang": "Rust",
-    "desc": "Rust implementation of proxychains — injectable library for chaining TCP/UDP connections via multiple proxies."
-  },
-  {
-    "createdAt": "2025-12-02T01:05:29Z",
+    "createdAt": "2025-11-28T15:47:26Z",
     "stars": 136,
-    "name": "mit-han-lab/vlash",
-    "url": "https://github.com/mit-han-lab/vlash",
-    "lang": "Python",
-    "desc": "Real-Time VLAs via Future-state-aware Asynchronous Inference."
+    "name": "arnarg/nixtml",
+    "url": "https://github.com/arnarg/nixtml",
+    "lang": "Nix",
+    "desc": "Static website and blog generator written in nix"
   },
   {
     "createdAt": "2025-11-30T10:35:32Z",
@@ -360,43 +336,67 @@
     "desc": "AI图像生成网页交互平台 - 基于Streamlit构建的Web应用，提供简洁的用户界面和实用的图像生成功能"
   },
   {
-    "createdAt": "2025-11-29T10:44:53Z",
+    "createdAt": "2025-12-02T13:29:53Z",
     "stars": 136,
-    "name": "phishdestroy/DestroyScammers",
-    "url": "https://github.com/phishdestroy/DestroyScammers",
-    "lang": "JavaScript",
-    "desc": "Scam intelligence, phishing attribution, drainer mapping.   Legal OSINT only. Public data. Real cases.   For researchers and victims."
-  },
-  {
-    "createdAt": "2025-11-28T15:47:26Z",
-    "stars": 133,
-    "name": "arnarg/nixtml",
-    "url": "https://github.com/arnarg/nixtml",
-    "lang": "Nix",
-    "desc": "Static website and blog generator written in nix"
+    "name": "deepreinforce-ai/CUDA-L2",
+    "url": "https://github.com/deepreinforce-ai/CUDA-L2",
+    "lang": "Cuda",
+    "desc": "CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication through Reinforcement Learning"
   },
   {
     "createdAt": "2025-11-28T01:49:19Z",
-    "stars": 132,
+    "stars": 135,
     "name": "akimify/Xserver-VPS-Renew",
     "url": "https://github.com/akimify/Xserver-VPS-Renew",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-11-27T23:57:25Z",
-    "stars": 132,
-    "name": "roryork1/tg-bot",
-    "url": "https://github.com/roryork1/tg-bot",
+    "createdAt": "2025-12-03T12:30:22Z",
+    "stars": 135,
+    "name": "0xsline/StoryGen-Atelier",
+    "url": "https://github.com/0xsline/StoryGen-Atelier",
     "lang": "JavaScript",
-    "desc": "Cloudflare Worker 部署的 Telegram 私信机器人（中转 / 分组转发功能）"
+    "desc": "AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-in logs and gallery management."
   },
   {
-    "createdAt": "2025-11-27T03:59:58Z",
-    "stars": 131,
-    "name": "niezhicheng/pveui",
-    "url": "https://github.com/niezhicheng/pveui",
-    "lang": "Vue",
-    "desc": "绝美pve ui 默认账号admin 密码admin123"
+    "createdAt": "2025-11-28T03:58:21Z",
+    "stars": 135,
+    "name": "redreamality/Paper-Comicizer",
+    "url": "https://github.com/redreamality/Paper-Comicizer",
+    "lang": "TypeScript",
+    "desc": "Turn boring papers into fun comics with the help of Gemini!"
+  },
+  {
+    "createdAt": "2025-11-28T01:50:21Z",
+    "stars": 125,
+    "name": "cmxh666/budget-tracker",
+    "url": "https://github.com/cmxh666/budget-tracker",
+    "lang": "Python",
+    "desc": "# 简单记账工具（Budget Tracker）"
+  },
+  {
+    "createdAt": "2025-11-28T15:11:44Z",
+    "stars": 123,
+    "name": "sljqcm/Tj_Took",
+    "url": "https://github.com/sljqcm/Tj_Took",
+    "lang": "Python",
+    "desc": "自用的TG机器人，不能用"
+  },
+  {
+    "createdAt": "2025-11-28T02:20:13Z",
+    "stars": 123,
+    "name": "mylukin/agent-foreman",
+    "url": "https://github.com/mylukin/agent-foreman",
+    "lang": "TypeScript",
+    "desc": "Long Task Harness for AI agents - feature-driven development with external memory"
+  },
+  {
+    "createdAt": "2025-11-29T07:48:59Z",
+    "stars": 122,
+    "name": "erosDiffusion/ComfyUI-EulerDiscreteScheduler",
+    "url": "https://github.com/erosDiffusion/ComfyUI-EulerDiscreteScheduler",
+    "lang": "Python",
+    "desc": ""
   }
 ]
