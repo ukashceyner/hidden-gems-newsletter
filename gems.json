@@ -1,15 +1,23 @@
 [
   {
     "createdAt": "2025-12-04T06:55:04Z",
-    "stars": 1476,
+    "stars": 1931,
     "name": "assetnote/react2shell-scanner",
     "url": "https://github.com/assetnote/react2shell-scanner",
     "lang": "Python",
     "desc": "High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)"
   },
   {
+    "createdAt": "2025-12-08T09:23:44Z",
+    "stars": 1858,
+    "name": "zai-org/Open-AutoGLM",
+    "url": "https://github.com/zai-org/Open-AutoGLM",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-12-04T11:49:55Z",
-    "stars": 737,
+    "stars": 975,
     "name": "msanft/CVE-2025-55182",
     "url": "https://github.com/msanft/CVE-2025-55182",
     "lang": "Python",
@@ -17,7 +25,7 @@
   },
   {
     "createdAt": "2025-12-03T21:16:22Z",
-    "stars": 721,
+    "stars": 737,
     "name": "ejpir/CVE-2025-55182-research",
     "url": "https://github.com/ejpir/CVE-2025-55182-research",
     "lang": "JavaScript",
@@ -25,39 +33,79 @@
   },
   {
     "createdAt": "2025-12-05T08:00:07Z",
-    "stars": 617,
+    "stars": 707,
     "name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
     "url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
     "lang": "JavaScript",
     "desc": "Original Proof-of-Concepts for React2Shell CVE-2025-55182"
   },
   {
-    "createdAt": "2025-12-04T12:49:07Z",
-    "stars": 605,
-    "name": "guhcostan/mac-cleaner-cli",
-    "url": "https://github.com/guhcostan/mac-cleaner-cli",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-12-04T11:06:10Z",
-    "stars": 520,
+    "stars": 702,
     "name": "Alibaba-Quark/LiveAvatar",
     "url": "https://github.com/Alibaba-Quark/LiveAvatar",
     "lang": "Python",
     "desc": "Implementation of \"Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length\""
   },
   {
+    "createdAt": "2025-12-04T12:49:07Z",
+    "stars": 688,
+    "name": "guhcostan/mac-cleaner-cli",
+    "url": "https://github.com/guhcostan/mac-cleaner-cli",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-12-07T06:27:57Z",
-    "stars": 420,
+    "stars": 646,
     "name": "PastKing/tgbot-verify",
     "url": "https://github.com/PastKing/tgbot-verify",
     "lang": "Python",
     "desc": "一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。"
   },
   {
+    "createdAt": "2025-12-07T06:15:43Z",
+    "stars": 558,
+    "name": "HKUDS/Paper2Slides",
+    "url": "https://github.com/HKUDS/Paper2Slides",
+    "lang": "Python",
+    "desc": "\"Paper2Slides: From Paper to Presentation in One Click\""
+  },
+  {
+    "createdAt": "2025-12-04T14:10:16Z",
+    "stars": 557,
+    "name": "Nerds489/NETREAPER",
+    "url": "https://github.com/Nerds489/NETREAPER",
+    "lang": "Shell",
+    "desc": "Network security framework. 70+ tools. Built mean, runs clean."
+  },
+  {
+    "createdAt": "2025-12-06T07:20:27Z",
+    "stars": 507,
+    "name": "byJoey/ech-wk",
+    "url": "https://github.com/byJoey/ech-wk",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-08T14:22:57Z",
+    "stars": 446,
+    "name": "tobi/qmd",
+    "url": "https://github.com/tobi/qmd",
+    "lang": "TypeScript",
+    "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+  },
+  {
+    "createdAt": "2025-12-06T14:33:31Z",
+    "stars": 434,
+    "name": "TanShilongMario/PromptFill",
+    "url": "https://github.com/TanShilongMario/PromptFill",
+    "lang": "JavaScript",
+    "desc": "一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。"
+  },
+  {
     "createdAt": "2025-12-05T05:53:25Z",
-    "stars": 340,
+    "stars": 391,
     "name": "mrknow001/RSC_Detector",
     "url": "https://github.com/mrknow001/RSC_Detector",
     "lang": "JavaScript",
@@ -65,7 +113,7 @@
   },
   {
     "createdAt": "2025-12-03T09:15:43Z",
-    "stars": 335,
+    "stars": 342,
     "name": "norish-recipes/norish",
     "url": "https://github.com/norish-recipes/norish",
     "lang": "TypeScript",
@@ -73,31 +121,31 @@
   },
   {
     "createdAt": "2025-12-05T16:26:38Z",
-    "stars": 333,
+    "stars": 341,
     "name": "crowmd/GoogleMapAIagent",
     "url": "https://github.com/crowmd/GoogleMapAIagent",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-06T07:20:27Z",
-    "stars": 309,
-    "name": "byJoey/ech-wk",
-    "url": "https://github.com/byJoey/ech-wk",
+    "createdAt": "2025-12-07T18:26:31Z",
+    "stars": 317,
+    "name": "alicankiraz1/Ai-Arastirma-Okumalarim-TR",
+    "url": "https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR",
+    "lang": "",
+    "desc": "Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz."
+  },
+  {
+    "createdAt": "2025-12-03T06:26:54Z",
+    "stars": 307,
+    "name": "meituan-longcat/LongCat-Image",
+    "url": "https://github.com/meituan-longcat/LongCat-Image",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-05T15:13:32Z",
-    "stars": 302,
-    "name": "Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
-    "url": "https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
-    "lang": "Python",
-    "desc": "Living memory for AI"
-  },
-  {
     "createdAt": "2025-12-04T13:13:33Z",
-    "stars": 280,
+    "stars": 307,
     "name": "Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478",
     "url": "https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478",
     "lang": "Go",
@@ -105,79 +153,71 @@
   },
   {
     "createdAt": "2025-12-06T17:36:46Z",
-    "stars": 277,
+    "stars": 306,
     "name": "twostraws/SwiftAgents",
     "url": "https://github.com/twostraws/SwiftAgents",
     "lang": "",
     "desc": "An AGENTS.md file for Swift and SwiftUI projects."
   },
   {
-    "createdAt": "2025-12-07T18:26:31Z",
-    "stars": 268,
-    "name": "alicankiraz1/Ai-Arastirma-Okumalarim-TR",
-    "url": "https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR",
-    "lang": "",
-    "desc": "Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz."
-  },
-  {
-    "createdAt": "2025-12-06T14:33:31Z",
-    "stars": 259,
-    "name": "TanShilongMario/PromptFill",
-    "url": "https://github.com/TanShilongMario/PromptFill",
-    "lang": "JavaScript",
-    "desc": "一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。"
-  },
-  {
-    "createdAt": "2025-12-03T06:26:54Z",
-    "stars": 233,
-    "name": "meituan-longcat/LongCat-Image",
-    "url": "https://github.com/meituan-longcat/LongCat-Image",
+    "createdAt": "2025-12-05T15:13:32Z",
+    "stars": 306,
+    "name": "Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
+    "url": "https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
     "lang": "Python",
-    "desc": ""
+    "desc": "Living memory for AI"
+  },
+  {
+    "createdAt": "2025-12-08T18:56:59Z",
+    "stars": 271,
+    "name": "mistralai/mistral-vibe",
+    "url": "https://github.com/mistralai/mistral-vibe",
+    "lang": "Python",
+    "desc": "Minimal CLI coding agent by Mistral"
   },
   {
     "createdAt": "2025-12-06T00:36:16Z",
-    "stars": 225,
+    "stars": 248,
     "name": "emredavut/CVE-2025-55182",
     "url": "https://github.com/emredavut/CVE-2025-55182",
     "lang": "JavaScript",
     "desc": "RSC/Next.js RCE Vulnerability Detector & PoC Chrome Extension – CVE-2025-55182 & CVE-2025-66478"
   },
   {
-    "createdAt": "2025-12-05T18:51:51Z",
-    "stars": 219,
-    "name": "cporter202/automate-for-growth",
-    "url": "https://github.com/cporter202/automate-for-growth",
-    "lang": "",
-    "desc": "Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration."
-  },
-  {
-    "createdAt": "2025-12-04T10:28:58Z",
-    "stars": 214,
-    "name": "mostafaaElsherbiny/backend-interview-questions",
-    "url": "https://github.com/mostafaaElsherbiny/backend-interview-questions",
-    "lang": "",
-    "desc": "Comprehensive backend interview questions covering general concepts, .NET Core, Node.js, and PHP Laravel - 169 questions total"
-  },
-  {
-    "createdAt": "2025-12-04T14:10:16Z",
-    "stars": 213,
-    "name": "Nerds489/NETREAPER",
-    "url": "https://github.com/Nerds489/NETREAPER",
-    "lang": "Shell",
-    "desc": "🔥 Network security & WiFi assault toolkit. 70+ tools in one menacing CLI."
-  },
-  {
     "createdAt": "2025-12-06T14:36:55Z",
-    "stars": 212,
+    "stars": 232,
     "name": "zack0x01/CVE-2025-55182-advanced-scanner-",
     "url": "https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-",
     "lang": "Shell",
     "desc": ""
   },
   {
+    "createdAt": "2025-12-02T21:52:33Z",
+    "stars": 231,
+    "name": "dennisklappe/CloudMeet",
+    "url": "https://github.com/dennisklappe/CloudMeet",
+    "lang": "TypeScript",
+    "desc": "Open-source Calendly alternative running on Cloudflare's free tier. Meeting scheduler with Google Calendar and Outlook sync."
+  },
+  {
+    "createdAt": "2025-12-02T13:32:46Z",
+    "stars": 229,
+    "name": "tulerfeng/OneThinker",
+    "url": "https://github.com/tulerfeng/OneThinker",
+    "lang": "Python",
+    "desc": "🔥 OneThinker: All-in-one Reasoning Model for Image and Video"
+  },
+  {
+    "createdAt": "2025-12-05T18:51:51Z",
+    "stars": 229,
+    "name": "cporter202/automate-for-growth",
+    "url": "https://github.com/cporter202/automate-for-growth",
+    "lang": "",
+    "desc": "Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration."
+  },
+  {
     "createdAt": "2025-12-04T00:28:18Z",
-    "stars": 194,
+    "stars": 227,
     "name": "markrai/gitpow",
     "url": "https://github.com/markrai/gitpow",
     "lang": "JavaScript",
@@ -185,218 +225,178 @@
   },
   {
     "createdAt": "2025-12-03T12:30:22Z",
-    "stars": 192,
+    "stars": 222,
     "name": "0xsline/StoryGen-Atelier",
     "url": "https://github.com/0xsline/StoryGen-Atelier",
     "lang": "JavaScript",
     "desc": "AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-in logs and gallery management."
   },
   {
-    "createdAt": "2025-12-02T13:32:46Z",
-    "stars": 191,
-    "name": "tulerfeng/OneThinker",
-    "url": "https://github.com/tulerfeng/OneThinker",
-    "lang": "Python",
-    "desc": "🔥 OneThinker: All-in-one Reasoning Model for Image and Video"
-  },
-  {
-    "createdAt": "2025-12-05T07:13:26Z",
-    "stars": 190,
-    "name": "BlackSky-Jose/Prediction-market",
-    "url": "https://github.com/BlackSky-Jose/Prediction-market",
-    "lang": "TypeScript",
-    "desc": "Prediction, market, solana .A fully decentralized prediction market platform on Solana enabling users to create custom markets, add liquidity, place token-based bets, and automatically resolve outcomes using Switchboard oracles and Anchor smart contracts."
-  },
-  {
-    "createdAt": "2025-12-01T02:06:32Z",
-    "stars": 190,
-    "name": "dabit3/fabricate",
-    "url": "https://github.com/dabit3/fabricate",
-    "lang": "Python",
-    "desc": "An experimental research tool for fabricating GitHub personas with AI-generated repositories"
-  },
-  {
-    "createdAt": "2025-12-02T13:45:58Z",
-    "stars": 189,
-    "name": "mtvpls/MoonTVPlus",
-    "url": "https://github.com/mtvpls/MoonTVPlus",
-    "lang": "TypeScript",
-    "desc": "MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。"
-  },
-  {
-    "createdAt": "2025-12-07T06:15:43Z",
-    "stars": 189,
-    "name": "HKUDS/Paper2Slides",
-    "url": "https://github.com/HKUDS/Paper2Slides",
-    "lang": "Python",
-    "desc": "\"Paper2Slides: From Paper to Presentation in One Click\""
-  },
-  {
-    "createdAt": "2025-12-02T21:52:33Z",
-    "stars": 185,
-    "name": "dennisklappe/CloudMeet",
-    "url": "https://github.com/dennisklappe/CloudMeet",
-    "lang": "TypeScript",
-    "desc": "Open-source Calendly alternative running on Cloudflare's free tier. Meeting scheduler with Google Calendar and Outlook sync."
-  },
-  {
-    "createdAt": "2025-12-02T09:14:26Z",
-    "stars": 184,
-    "name": "DDULDDUCK/pingora-proxy-manager",
-    "url": "https://github.com/DDULDDUCK/pingora-proxy-manager",
-    "lang": "TypeScript",
-    "desc": "A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!"
-  },
-  {
-    "createdAt": "2025-12-02T22:50:12Z",
-    "stars": 182,
-    "name": "rjykgafi/polymarket-sniper-bot",
-    "url": "https://github.com/rjykgafi/polymarket-sniper-bot",
-    "lang": "TypeScript",
-    "desc": "Polymarket Sniper Copytrading Bot - Mempool monitoring , Front trigger transaction same block with higher priority, PolymarketBot, Polymarket Copytrading Bot, FrontRun Bot, Polymarket Trading Bot, Polygon Tradinb Bot, Arbitrage Bot, Polymarket Trading Bot, Polymarket Trading Bot, Polymarket Trading Bot, Polymarket Trading Bot, Polymarket Trading"
-  },
-  {
-    "createdAt": "2025-12-02T01:05:29Z",
-    "stars": 181,
-    "name": "mit-han-lab/vlash",
-    "url": "https://github.com/mit-han-lab/vlash",
-    "lang": "Python",
-    "desc": "Real-Time VLAs via Future-state-aware Asynchronous Inference."
-  },
-  {
-    "createdAt": "2025-12-06T02:41:12Z",
-    "stars": 181,
-    "name": "vercel-labs/fix-react2shell-next",
-    "url": "https://github.com/vercel-labs/fix-react2shell-next",
-    "lang": "JavaScript",
-    "desc": "One command to fix CVE-2025-66478 (React 2 Shell RCE) in your Next.js / React RSC app."
-  },
-  {
-    "createdAt": "2025-12-02T13:29:53Z",
-    "stars": 175,
-    "name": "deepreinforce-ai/CUDA-L2",
-    "url": "https://github.com/deepreinforce-ai/CUDA-L2",
-    "lang": "Cuda",
-    "desc": "CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication through Reinforcement Learning"
-  },
-  {
-    "createdAt": "2025-12-03T13:35:03Z",
-    "stars": 174,
-    "name": "illarion/lockenv",
-    "url": "https://github.com/illarion/lockenv",
-    "lang": "Go",
-    "desc": "Simple, password-based encrypted vault for .env and infrastructure secrets. Like git-crypt or sops, but dramatically simpler. Ideal for small teams and IaC workflows"
-  },
-  {
-    "createdAt": "2025-12-05T16:12:53Z",
-    "stars": 174,
-    "name": "cporter202/ai-agent-tools",
-    "url": "https://github.com/cporter202/ai-agent-tools",
-    "lang": "",
-    "desc": "A curated collection of AI tools, utilities, and resources for developers and creators"
-  },
-  {
-    "createdAt": "2025-12-04T06:39:15Z",
-    "stars": 173,
-    "name": "CryptomSol/prediction-market",
-    "url": "https://github.com/CryptomSol/prediction-market",
-    "lang": "Rust",
-    "desc": "prediction market platform built on solana with microservices architecture. This platform enables users to create, trade, and settle prediction markets with real-time order matching, price updates, and comprehensive market analytics."
-  },
-  {
-    "createdAt": "2025-12-03T19:19:15Z",
-    "stars": 172,
-    "name": "devcarron/casino-game-smartContract",
-    "url": "https://github.com/devcarron/casino-game-smartContract",
-    "lang": "TypeScript",
-    "desc": "jackpot, casino, solana. Casino Game Smart Contract: A decentralized casino(Jackpot) smart contract built on the Solana blockchain using the Anchor framework. This project implements a jackpot system with secure random number generation using ORAO Network's VRF"
-  },
-  {
-    "createdAt": "2025-12-01T20:48:05Z",
-    "stars": 169,
-    "name": "pEgaSuShoOFtR/APP-HyperDefi",
-    "url": "https://github.com/pEgaSuShoOFtR/APP-HyperDefi",
-    "lang": "",
-    "desc": "Native Android app for Hyperliquid. DEX trading"
-  },
-  {
-    "createdAt": "2025-12-04T06:02:24Z",
-    "stars": 169,
-    "name": "DeNA/llm-study20251201",
-    "url": "https://github.com/DeNA/llm-study20251201",
-    "lang": "HTML",
-    "desc": "DeNA社内で実施したLLM勉強会の資料とソースコード"
-  },
-  {
-    "createdAt": "2025-12-02T00:36:15Z",
-    "stars": 165,
-    "name": "PlummersSoftwareLLC/retropad",
-    "url": "https://github.com/PlummersSoftwareLLC/retropad",
-    "lang": "C",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-04T22:26:06Z",
-    "stars": 164,
-    "name": "AnswerDotAI/clipmd",
-    "url": "https://github.com/AnswerDotAI/clipmd",
-    "lang": "JavaScript",
-    "desc": "Convert clipboard from HTML to MD"
-  },
-  {
-    "createdAt": "2025-12-06T03:57:51Z",
-    "stars": 157,
-    "name": "rs-4/tanstack-ai-demo",
-    "url": "https://github.com/rs-4/tanstack-ai-demo",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-05T18:46:59Z",
-    "stars": 154,
-    "name": "Miziziziz/Steam-And-Itch-Command-Line-Tools-Guide",
-    "url": "https://github.com/Miziziziz/Steam-And-Itch-Command-Line-Tools-Guide",
-    "lang": "",
-    "desc": "How To Upload To Steam And Itch Using Command Line Tools"
-  },
-  {
     "createdAt": "2025-12-04T07:07:38Z",
-    "stars": 153,
+    "stars": 216,
     "name": "TakatoHonda/sui-lang",
     "url": "https://github.com/TakatoHonda/sui-lang",
     "lang": "Python",
     "desc": "粋 (Sui) - A programming language optimized for LLM code generation"
   },
   {
-    "createdAt": "2025-12-05T17:28:20Z",
-    "stars": 148,
-    "name": "P4nda0s/IDA-NO-MCP",
-    "url": "https://github.com/P4nda0s/IDA-NO-MCP",
-    "lang": "Python",
-    "desc": "Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP"
-  },
-  {
-    "createdAt": "2025-12-01T03:19:52Z",
-    "stars": 143,
-    "name": "byJoey/yx-auto",
-    "url": "https://github.com/byJoey/yx-auto",
+    "createdAt": "2025-12-06T02:41:12Z",
+    "stars": 215,
+    "name": "vercel-labs/fix-react2shell-next",
+    "url": "https://github.com/vercel-labs/fix-react2shell-next",
     "lang": "JavaScript",
-    "desc": ""
+    "desc": "One command to fix CVE-2025-66478 (React 2 Shell RCE) in your Next.js / React RSC app."
   },
   {
-    "createdAt": "2025-12-03T13:43:56Z",
-    "stars": 138,
-    "name": "JaydenLyh/Reward-Forcing",
-    "url": "https://github.com/JaydenLyh/Reward-Forcing",
-    "lang": "Python",
-    "desc": "Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation"
+    "createdAt": "2025-12-04T10:28:58Z",
+    "stars": 215,
+    "name": "mostafaaElsherbiny/backend-interview-questions",
+    "url": "https://github.com/mostafaaElsherbiny/backend-interview-questions",
+    "lang": "",
+    "desc": "Comprehensive backend interview questions covering general concepts, .NET Core, Node.js, and PHP Laravel - 169 questions total"
   },
   {
     "createdAt": "2025-12-04T19:30:35Z",
-    "stars": 131,
+    "stars": 215,
     "name": "HGHugo/FreeboxOS-Ultra-Dashboard",
     "url": "https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard",
     "lang": "TypeScript",
     "desc": "Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargements, fichiers, téléphonie, TV, machines virtuelles, contrôle parental et statistiques réseau avancées, le tout dans un dashboard unique."
+  },
+  {
+    "createdAt": "2025-12-03T13:35:03Z",
+    "stars": 213,
+    "name": "illarion/lockenv",
+    "url": "https://github.com/illarion/lockenv",
+    "lang": "Go",
+    "desc": "Simple, password-based encrypted vault for .env and infrastructure secrets. Like git-crypt or sops, but dramatically simpler. Ideal for small teams and IaC workflows"
+  },
+  {
+    "createdAt": "2025-12-02T09:14:26Z",
+    "stars": 212,
+    "name": "DDULDDUCK/pingora-proxy-manager",
+    "url": "https://github.com/DDULDDUCK/pingora-proxy-manager",
+    "lang": "TypeScript",
+    "desc": "A high-performance, zero-downtime reverse proxy manager built on Cloudflare's Pingora. Simple, Modern, and Fast. Now supports Wildcard SSL & TCP/UDP Streams!"
+  },
+  {
+    "createdAt": "2025-12-05T07:13:26Z",
+    "stars": 200,
+    "name": "BlackSky-Jose/Prediction-market",
+    "url": "https://github.com/BlackSky-Jose/Prediction-market",
+    "lang": "TypeScript",
+    "desc": "Prediction, market, solana .A fully decentralized prediction market platform on Solana enabling users to create custom markets, add liquidity, place token-based bets, and automatically resolve outcomes using Switchboard oracles and Anchor smart contracts."
+  },
+  {
+    "createdAt": "2025-12-02T13:45:58Z",
+    "stars": 199,
+    "name": "mtvpls/MoonTVPlus",
+    "url": "https://github.com/mtvpls/MoonTVPlus",
+    "lang": "TypeScript",
+    "desc": "MoonTVPlus 是基于 MoonTV v100 二次开发的增强版影视聚合播放器。它在原版基础上新增了外部播放器支持、视频超分、弹幕系统、评论抓取等实用功能，提供更强大的观影体验。"
+  },
+  {
+    "createdAt": "2025-12-02T01:05:29Z",
+    "stars": 197,
+    "name": "mit-han-lab/vlash",
+    "url": "https://github.com/mit-han-lab/vlash",
+    "lang": "Python",
+    "desc": "Real-Time VLAs via Future-state-aware Asynchronous Inference."
+  },
+  {
+    "createdAt": "2025-12-05T16:12:53Z",
+    "stars": 194,
+    "name": "cporter202/ai-agent-tools",
+    "url": "https://github.com/cporter202/ai-agent-tools",
+    "lang": "",
+    "desc": "A curated collection of AI tools, utilities, and resources for developers and creators"
+  },
+  {
+    "createdAt": "2025-12-07T14:56:14Z",
+    "stars": 185,
+    "name": "gommzystudio/device-activity-tracker",
+    "url": "https://github.com/gommzystudio/device-activity-tracker",
+    "lang": "TypeScript",
+    "desc": "How (almost) any phone number can be tracked via WhatsApp / Signal"
+  },
+  {
+    "createdAt": "2025-12-02T22:50:12Z",
+    "stars": 183,
+    "name": "rjykgafi/polymarket-sniper-bot",
+    "url": "https://github.com/rjykgafi/polymarket-sniper-bot",
+    "lang": "TypeScript",
+    "desc": "Polymarket Sniper Copytrading Bot - Mempool monitoring , Front trigger transaction same block with higher priority, PolymarketBot, Polymarket Copytrading Bot, FrontRun Bot, Polymarket Trading Bot, Polygon Tradinb Bot, Arbitrage Bot, Polymarket Trading Bot, Polymarket Trading Bot, Polymarket Trading Bot, Polymarket Trading Bot, Polymarket Trading"
+  },
+  {
+    "createdAt": "2025-12-09T02:43:09Z",
+    "stars": 182,
+    "name": "doggy8088/better-rm",
+    "url": "https://github.com/doggy8088/better-rm",
+    "lang": "Shell",
+    "desc": "給你一個更好、更安全的 rm 命令"
+  },
+  {
+    "createdAt": "2025-12-02T01:07:09Z",
+    "stars": 181,
+    "name": "moeleak/connecttool-qt",
+    "url": "https://github.com/moeleak/connecttool-qt",
+    "lang": "C++",
+    "desc": "Use Tailsteam instead of Tailscale!!!"
+  },
+  {
+    "createdAt": "2025-12-02T13:29:53Z",
+    "stars": 179,
+    "name": "deepreinforce-ai/CUDA-L2",
+    "url": "https://github.com/deepreinforce-ai/CUDA-L2",
+    "lang": "Cuda",
+    "desc": "CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication through Reinforcement Learning"
+  },
+  {
+    "createdAt": "2025-12-04T22:26:06Z",
+    "stars": 177,
+    "name": "AnswerDotAI/clipmd",
+    "url": "https://github.com/AnswerDotAI/clipmd",
+    "lang": "JavaScript",
+    "desc": "Convert clipboard from HTML to MD"
+  },
+  {
+    "createdAt": "2025-12-02T00:36:15Z",
+    "stars": 175,
+    "name": "PlummersSoftwareLLC/retropad",
+    "url": "https://github.com/PlummersSoftwareLLC/retropad",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-04T06:39:15Z",
+    "stars": 174,
+    "name": "CryptomSol/prediction-market",
+    "url": "https://github.com/CryptomSol/prediction-market",
+    "lang": "Rust",
+    "desc": "prediction market platform built on solana with microservices architecture. This platform enables users to create, trade, and settle prediction markets with real-time order matching, price updates, and comprehensive market analytics."
+  },
+  {
+    "createdAt": "2025-12-06T03:57:51Z",
+    "stars": 174,
+    "name": "rs-4/tanstack-ai-demo",
+    "url": "https://github.com/rs-4/tanstack-ai-demo",
+    "lang": "TypeScript",
+    "desc": "A modern AI chat template built with TanStack Start, featuring multi-model support, real-time streaming, and a clean, responsive UI."
+  },
+  {
+    "createdAt": "2025-12-04T06:02:24Z",
+    "stars": 174,
+    "name": "DeNA/llm-study20251201",
+    "url": "https://github.com/DeNA/llm-study20251201",
+    "lang": "HTML",
+    "desc": "DeNA社内で実施したLLM勉強会の資料とソースコード"
+  },
+  {
+    "createdAt": "2025-12-03T19:19:15Z",
+    "stars": 171,
+    "name": "devcarron/casino-game-smartContract",
+    "url": "https://github.com/devcarron/casino-game-smartContract",
+    "lang": "TypeScript",
+    "desc": "jackpot, casino, solana. Casino Game Smart Contract: A decentralized casino(Jackpot) smart contract built on the Solana blockchain using the Anchor framework. This project implements a jackpot system with secure random number generation using ORAO Network's VRF"
   }
 ]
