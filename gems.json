@@ -1,63 +1,39 @@
 [
   {
     "createdAt": "2025-12-08T09:23:44Z",
-    "stars": 8757,
+    "stars": 12244,
     "name": "zai-org/Open-AutoGLM",
     "url": "https://github.com/zai-org/Open-AutoGLM",
     "lang": "Python",
     "desc": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone"
   },
   {
-    "createdAt": "2025-12-04T06:55:04Z",
-    "stars": 2069,
-    "name": "assetnote/react2shell-scanner",
-    "url": "https://github.com/assetnote/react2shell-scanner",
-    "lang": "Python",
-    "desc": "High Fidelity Detection Mechanism for RSC/Next.js RCE (CVE-2025-55182 & CVE-2025-66478)"
-  },
-  {
-    "createdAt": "2025-12-07T06:15:43Z",
-    "stars": 1431,
-    "name": "HKUDS/Paper2Slides",
-    "url": "https://github.com/HKUDS/Paper2Slides",
-    "lang": "Python",
-    "desc": "\"Paper2Slides: From Paper to Presentation in One Click\""
-  },
-  {
     "createdAt": "2025-12-08T18:56:59Z",
-    "stars": 1354,
+    "stars": 1826,
     "name": "mistralai/mistral-vibe",
     "url": "https://github.com/mistralai/mistral-vibe",
     "lang": "Python",
     "desc": "Minimal CLI coding agent by Mistral"
   },
   {
-    "createdAt": "2025-12-04T11:49:55Z",
-    "stars": 1148,
-    "name": "msanft/CVE-2025-55182",
-    "url": "https://github.com/msanft/CVE-2025-55182",
+    "createdAt": "2025-12-07T06:15:43Z",
+    "stars": 1713,
+    "name": "HKUDS/Paper2Slides",
+    "url": "https://github.com/HKUDS/Paper2Slides",
     "lang": "Python",
-    "desc": "Explanation and full RCE PoC for CVE-2025-55182"
+    "desc": "\"Paper2Slides: From Paper to Presentation in One Click\""
   },
   {
     "createdAt": "2025-12-06T07:20:27Z",
-    "stars": 972,
+    "stars": 1102,
     "name": "byJoey/ech-wk",
     "url": "https://github.com/byJoey/ech-wk",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-04T11:06:10Z",
-    "stars": 880,
-    "name": "Alibaba-Quark/LiveAvatar",
-    "url": "https://github.com/Alibaba-Quark/LiveAvatar",
-    "lang": "Python",
-    "desc": "Implementation of \"Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length\""
-  },
-  {
     "createdAt": "2025-12-07T06:27:57Z",
-    "stars": 864,
+    "stars": 954,
     "name": "PastKing/tgbot-verify",
     "url": "https://github.com/PastKing/tgbot-verify",
     "lang": "Python",
@@ -65,47 +41,23 @@
   },
   {
     "createdAt": "2025-12-09T15:36:20Z",
-    "stars": 849,
+    "stars": 903,
     "name": "cporter202/API-mega-list",
     "url": "https://github.com/cporter202/API-mega-list",
     "lang": "JavaScript",
     "desc": "This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪"
   },
   {
-    "createdAt": "2025-12-04T12:49:07Z",
-    "stars": 807,
-    "name": "guhcostan/mac-cleaner-cli",
-    "url": "https://github.com/guhcostan/mac-cleaner-cli",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-12-05T08:00:07Z",
-    "stars": 806,
+    "stars": 837,
     "name": "lachlan2k/React2Shell-CVE-2025-55182-original-poc",
     "url": "https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc",
     "lang": "JavaScript",
     "desc": "Original Proof-of-Concepts for React2Shell CVE-2025-55182"
   },
   {
-    "createdAt": "2025-12-04T14:10:16Z",
-    "stars": 718,
-    "name": "Nerds489/NETREAPER",
-    "url": "https://github.com/Nerds489/NETREAPER",
-    "lang": "Shell",
-    "desc": "Network security framework. 70+ tools. Built mean, runs clean."
-  },
-  {
-    "createdAt": "2025-12-04T23:22:32Z",
-    "stars": 620,
-    "name": "durable-streams/durable-streams",
-    "url": "https://github.com/durable-streams/durable-streams",
-    "lang": "TypeScript",
-    "desc": "The open protocol for real-time sync to client applications"
-  },
-  {
     "createdAt": "2025-12-06T14:33:31Z",
-    "stars": 610,
+    "stars": 654,
     "name": "TanShilongMario/PromptFill",
     "url": "https://github.com/TanShilongMario/PromptFill",
     "lang": "JavaScript",
@@ -113,15 +65,31 @@
   },
   {
     "createdAt": "2025-12-08T14:22:57Z",
-    "stars": 531,
+    "stars": 552,
     "name": "tobi/qmd",
     "url": "https://github.com/tobi/qmd",
     "lang": "TypeScript",
     "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
   },
   {
+    "createdAt": "2025-12-07T14:56:14Z",
+    "stars": 546,
+    "name": "gommzystudio/device-activity-tracker",
+    "url": "https://github.com/gommzystudio/device-activity-tracker",
+    "lang": "TypeScript",
+    "desc": "A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)"
+  },
+  {
+    "createdAt": "2025-12-06T04:50:56Z",
+    "stars": 519,
+    "name": "zai-org/GLM-TTS",
+    "url": "https://github.com/zai-org/GLM-TTS",
+    "lang": "Python",
+    "desc": "GLM-TTS: Controllable & Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning"
+  },
+  {
     "createdAt": "2025-12-05T05:53:25Z",
-    "stars": 453,
+    "stars": 467,
     "name": "mrknow001/RSC_Detector",
     "url": "https://github.com/mrknow001/RSC_Detector",
     "lang": "JavaScript",
@@ -129,7 +97,7 @@
   },
   {
     "createdAt": "2025-12-08T06:09:38Z",
-    "stars": 428,
+    "stars": 436,
     "name": "typsusan-zzz/canvas-drawing-editor",
     "url": "https://github.com/typsusan-zzz/canvas-drawing-editor",
     "lang": "TypeScript",
@@ -137,19 +105,43 @@
   },
   {
     "createdAt": "2025-12-09T17:27:18Z",
-    "stars": 377,
+    "stars": 425,
     "name": "zai-org/GLM-ASR",
     "url": "https://github.com/zai-org/GLM-ASR",
     "lang": "Python",
     "desc": "GLM-ASR-Nano: A robust, open-source speech recognition model with 1.5B parameters"
   },
   {
-    "createdAt": "2025-12-06T04:50:56Z",
+    "createdAt": "2025-12-10T18:35:41Z",
     "stars": 372,
-    "name": "zai-org/GLM-TTS",
-    "url": "https://github.com/zai-org/GLM-TTS",
+    "name": "cporter202/scraping-apis-for-devs",
+    "url": "https://github.com/cporter202/scraping-apis-for-devs",
+    "lang": "JavaScript",
+    "desc": "This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. "
+  },
+  {
+    "createdAt": "2025-12-11T11:07:23Z",
+    "stars": 351,
+    "name": "actionstatelabs/android-action-kernel",
+    "url": "https://github.com/actionstatelabs/android-action-kernel",
     "lang": "Python",
-    "desc": "GLM-TTS: Controllable & Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning"
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-06T17:36:46Z",
+    "stars": 344,
+    "name": "twostraws/SwiftAgents",
+    "url": "https://github.com/twostraws/SwiftAgents",
+    "lang": "",
+    "desc": "An AGENTS.md file for Swift and SwiftUI projects."
+  },
+  {
+    "createdAt": "2025-12-07T18:26:31Z",
+    "stars": 342,
+    "name": "alicankiraz1/Ai-Arastirma-Okumalarim-TR",
+    "url": "https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR",
+    "lang": "",
+    "desc": "Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz."
   },
   {
     "createdAt": "2025-12-05T16:26:38Z",
@@ -160,72 +152,32 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-12-07T18:26:31Z",
-    "stars": 338,
-    "name": "alicankiraz1/Ai-Arastirma-Okumalarim-TR",
-    "url": "https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR",
-    "lang": "",
-    "desc": "Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz."
-  },
-  {
-    "createdAt": "2025-12-04T13:13:33Z",
-    "stars": 337,
-    "name": "Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478",
-    "url": "https://github.com/Malayke/Next.js-RSC-RCE-Scanner-CVE-2025-66478",
-    "lang": "Go",
-    "desc": "A command-line scanner for batch detection of Next.js application versions and determining if they are affected by CVE-2025-66478 vulnerability."
-  },
-  {
-    "createdAt": "2025-12-06T17:36:46Z",
-    "stars": 328,
-    "name": "twostraws/SwiftAgents",
-    "url": "https://github.com/twostraws/SwiftAgents",
-    "lang": "",
-    "desc": "An AGENTS.md file for Swift and SwiftUI projects."
-  },
-  {
     "createdAt": "2025-12-08T23:23:24Z",
-    "stars": 317,
+    "stars": 339,
     "name": "t3tra-dev/MoZuku",
     "url": "https://github.com/t3tra-dev/MoZuku",
     "lang": "C++",
     "desc": "日本語文章の解析・校正を行う LSP サーバー。"
   },
   {
+    "createdAt": "2025-12-10T16:10:52Z",
+    "stars": 326,
+    "name": "karpathy/hn-time-capsule",
+    "url": "https://github.com/karpathy/hn-time-capsule",
+    "lang": "Python",
+    "desc": "Analyzing Hacker News discussions from a decade ago in hindsight with LLMs"
+  },
+  {
     "createdAt": "2025-12-05T15:13:32Z",
-    "stars": 310,
+    "stars": 311,
     "name": "Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
     "url": "https://github.com/Sean-V-Dev/HMLR-Agentic-AI-Memory-System",
     "lang": "Python",
     "desc": "Living memory for AI"
   },
   {
-    "createdAt": "2025-12-07T14:56:14Z",
-    "stars": 302,
-    "name": "gommzystudio/device-activity-tracker",
-    "url": "https://github.com/gommzystudio/device-activity-tracker",
-    "lang": "TypeScript",
-    "desc": "A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)"
-  },
-  {
-    "createdAt": "2025-12-04T07:07:38Z",
-    "stars": 288,
-    "name": "TakatoHonda/sui-lang",
-    "url": "https://github.com/TakatoHonda/sui-lang",
-    "lang": "Python",
-    "desc": "粋 (Sui) - A programming language optimized for LLM code generation"
-  },
-  {
-    "createdAt": "2025-12-06T00:36:16Z",
-    "stars": 276,
-    "name": "emredavut/CVE-2025-55182",
-    "url": "https://github.com/emredavut/CVE-2025-55182",
-    "lang": "JavaScript",
-    "desc": "RSC/Next.js RCE Vulnerability Detector & PoC Chrome Extension – CVE-2025-55182 & CVE-2025-66478"
-  },
-  {
     "createdAt": "2025-12-06T02:05:44Z",
-    "stars": 270,
+    "stars": 305,
     "name": "ali-vilab/Wan-Move",
     "url": "https://github.com/ali-vilab/Wan-Move",
     "lang": "Python",
@@ -233,83 +185,107 @@
   },
   {
     "createdAt": "2025-12-06T02:41:12Z",
-    "stars": 270,
+    "stars": 297,
     "name": "vercel-labs/fix-react2shell-next",
     "url": "https://github.com/vercel-labs/fix-react2shell-next",
     "lang": "JavaScript",
     "desc": "One command to fix CVE-2025-66478 (React 2 Shell RCE) in your Next.js / React RSC app."
   },
   {
-    "createdAt": "2025-12-04T00:28:18Z",
-    "stars": 265,
-    "name": "markrai/gitpow",
-    "url": "https://github.com/markrai/gitpow",
-    "lang": "JavaScript",
-    "desc": "an open-source, cross-platform git client"
-  },
-  {
     "createdAt": "2025-12-07T06:20:38Z",
-    "stars": 264,
+    "stars": 284,
     "name": "Visionary-Laboratory/visionary",
     "url": "https://github.com/Visionary-Laboratory/visionary",
     "lang": "Python",
     "desc": "Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform"
   },
   {
-    "createdAt": "2025-12-10T16:10:52Z",
-    "stars": 255,
-    "name": "karpathy/hn-time-capsule",
-    "url": "https://github.com/karpathy/hn-time-capsule",
-    "lang": "Python",
-    "desc": "Analyzing Hacker News discussions from a decade ago in hindsight with LLMs"
-  },
-  {
-    "createdAt": "2025-12-04T19:30:35Z",
-    "stars": 254,
-    "name": "HGHugo/FreeboxOS-Ultra-Dashboard",
-    "url": "https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard",
-    "lang": "TypeScript",
-    "desc": "Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargements, fichiers, téléphonie, TV, machines virtuelles, contrôle parental et statistiques réseau avancées, le tout dans un dashboard unique."
-  },
-  {
-    "createdAt": "2025-12-06T14:36:55Z",
-    "stars": 241,
-    "name": "zack0x01/CVE-2025-55182-advanced-scanner-",
-    "url": "https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-",
-    "lang": "Shell",
-    "desc": ""
+    "createdAt": "2025-12-06T00:36:16Z",
+    "stars": 283,
+    "name": "emredavut/CVE-2025-55182",
+    "url": "https://github.com/emredavut/CVE-2025-55182",
+    "lang": "JavaScript",
+    "desc": "RSC/Next.js RCE Vulnerability Detector & PoC Chrome Extension – CVE-2025-55182 & CVE-2025-66478"
   },
   {
     "createdAt": "2025-12-05T18:51:51Z",
-    "stars": 240,
+    "stars": 246,
     "name": "cporter202/automate-for-growth",
     "url": "https://github.com/cporter202/automate-for-growth",
     "lang": "",
     "desc": "Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration."
   },
   {
-    "createdAt": "2025-12-09T02:43:09Z",
-    "stars": 223,
-    "name": "doggy8088/better-rm",
-    "url": "https://github.com/doggy8088/better-rm",
+    "createdAt": "2025-12-06T14:36:55Z",
+    "stars": 245,
+    "name": "zack0x01/CVE-2025-55182-advanced-scanner-",
+    "url": "https://github.com/zack0x01/CVE-2025-55182-advanced-scanner-",
     "lang": "Shell",
-    "desc": "給你一個更好、更安全的 rm 命令"
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-11T20:26:42Z",
+    "stars": 238,
+    "name": "stoolap/stoolap",
+    "url": "https://github.com/stoolap/stoolap",
+    "lang": "Rust",
+    "desc": "A Modern Embedded SQL Database written in Rust"
+  },
+  {
+    "createdAt": "2025-12-08T20:00:06Z",
+    "stars": 235,
+    "name": "qwwzdyj/AIA-Academic-Illustrator-",
+    "url": "https://github.com/qwwzdyj/AIA-Academic-Illustrator-",
+    "lang": "JavaScript",
+    "desc": "An AI agent that automates the creation of CVPR/NeurIPS standard academic diagrams. Implements a strict \"Logic (Architect) -> Vision (Renderer)\" workflow to transform paper abstracts into high-fidelity scientific illustrations."
   },
   {
     "createdAt": "2025-12-05T16:12:53Z",
-    "stars": 220,
+    "stars": 232,
     "name": "cporter202/ai-agent-tools",
     "url": "https://github.com/cporter202/ai-agent-tools",
     "lang": "",
     "desc": "A curated collection of AI tools, utilities, and resources for developers and creators"
   },
   {
-    "createdAt": "2025-12-04T10:28:58Z",
-    "stars": 219,
-    "name": "mostafaaElsherbiny/backend-interview-questions",
-    "url": "https://github.com/mostafaaElsherbiny/backend-interview-questions",
-    "lang": "",
-    "desc": "Comprehensive backend interview questions covering general concepts, .NET Core, Node.js, and PHP Laravel - 169 questions total"
+    "createdAt": "2025-12-09T02:43:09Z",
+    "stars": 227,
+    "name": "doggy8088/better-rm",
+    "url": "https://github.com/doggy8088/better-rm",
+    "lang": "Shell",
+    "desc": "給你一個更好、更安全的 rm 命令"
+  },
+  {
+    "createdAt": "2025-12-05T17:28:20Z",
+    "stars": 225,
+    "name": "P4nda0s/IDA-NO-MCP",
+    "url": "https://github.com/P4nda0s/IDA-NO-MCP",
+    "lang": "Python",
+    "desc": "Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP"
+  },
+  {
+    "createdAt": "2025-12-09T01:16:59Z",
+    "stars": 222,
+    "name": "farouqaldori/claude-island",
+    "url": "https://github.com/farouqaldori/claude-island",
+    "lang": "Swift",
+    "desc": "Claude Code notifications without the context switch. A minimal, always-present session manager for macOS."
+  },
+  {
+    "createdAt": "2025-12-09T15:06:28Z",
+    "stars": 222,
+    "name": "devcarron/casino-games-web3",
+    "url": "https://github.com/devcarron/casino-games-web3",
+    "lang": "JavaScript",
+    "desc": "casino games blockchain, multichain, solana, ethereum, bitcoin, ethereum, binance, tron, erc-20, bep-20, trc-20, A modern crypto-powered gaming platform supporting multi-chain tokens and exciting on-chain games. This platform provides a comprehensive gaming experience with real-time multiplayer gameplay, secure wallet integration."
+  },
+  {
+    "createdAt": "2025-12-09T16:21:49Z",
+    "stars": 221,
+    "name": "3lp4tr0n/SessionHop",
+    "url": "https://github.com/3lp4tr0n/SessionHop",
+    "lang": "C#",
+    "desc": "Windows Session Hijacking via COM"
   },
   {
     "createdAt": "2025-12-05T07:13:26Z",
@@ -320,40 +296,32 @@
     "desc": "Prediction, market, solana .A fully decentralized prediction market platform on Solana enabling users to create custom markets, add liquidity, place token-based bets, and automatically resolve outcomes using Switchboard oracles and Anchor smart contracts."
   },
   {
-    "createdAt": "2025-12-09T15:06:28Z",
-    "stars": 212,
-    "name": "devcarron/casino-games-web3",
-    "url": "https://github.com/devcarron/casino-games-web3",
-    "lang": "JavaScript",
-    "desc": "casino games blockchain, multichain, solana, ethereum, bitcoin, ethereum, binance, tron, erc-20, bep-20, trc-20, A modern crypto-powered gaming platform supporting multi-chain tokens and exciting on-chain games. This platform provides a comprehensive gaming experience with real-time multiplayer gameplay, secure wallet integration."
-  },
-  {
-    "createdAt": "2025-12-05T17:28:20Z",
-    "stars": 208,
-    "name": "P4nda0s/IDA-NO-MCP",
-    "url": "https://github.com/P4nda0s/IDA-NO-MCP",
+    "createdAt": "2025-12-10T18:13:11Z",
+    "stars": 210,
+    "name": "ZiHuixi/QQgroup-annual-report-analyzer",
+    "url": "https://github.com/ZiHuixi/QQgroup-annual-report-analyzer",
     "lang": "Python",
-    "desc": "Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP"
+    "desc": "一个用于分析QQ群聊记录并生成年度热词报告的工具。支持热词发现、趣味统计、可视化报告生成等功能。"
   },
   {
-    "createdAt": "2025-12-08T20:00:06Z",
-    "stars": 202,
-    "name": "qwwzdyj/AIA-Academic-Illustrator-",
-    "url": "https://github.com/qwwzdyj/AIA-Academic-Illustrator-",
-    "lang": "JavaScript",
-    "desc": "An AI agent that automates the creation of CVPR/NeurIPS standard academic diagrams. Implements a strict \"Logic (Architect) -> Vision (Renderer)\" workflow to transform paper abstracts into high-fidelity scientific illustrations."
+    "createdAt": "2025-12-08T10:08:00Z",
+    "stars": 196,
+    "name": "ByteDance-Seed/DAComp",
+    "url": "https://github.com/ByteDance-Seed/DAComp",
+    "lang": "Python",
+    "desc": "DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle"
   },
   {
-    "createdAt": "2025-12-04T22:26:06Z",
-    "stars": 191,
-    "name": "AnswerDotAI/clipmd",
-    "url": "https://github.com/AnswerDotAI/clipmd",
-    "lang": "JavaScript",
-    "desc": "Convert clipboard from HTML to MD"
+    "createdAt": "2025-12-05T13:16:47Z",
+    "stars": 192,
+    "name": "davidberenstein1957/dspydantic",
+    "url": "https://github.com/davidberenstein1957/dspydantic",
+    "lang": "Python",
+    "desc": "DSPydantic: Auto-Optimize Your Pydantic Models with DSPy"
   },
   {
     "createdAt": "2025-12-06T03:57:51Z",
-    "stars": 189,
+    "stars": 190,
     "name": "rs-4/tanstack-ai-demo",
     "url": "https://github.com/rs-4/tanstack-ai-demo",
     "lang": "TypeScript",
@@ -361,42 +329,74 @@
   },
   {
     "createdAt": "2025-12-08T03:12:24Z",
-    "stars": 184,
+    "stars": 189,
     "name": "C4KEW4LK/rpi_usb_ip_display",
     "url": "https://github.com/C4KEW4LK/rpi_usb_ip_display",
     "lang": "C++",
     "desc": "small usb micro controller with built-in LCD, designed to query a host rpi system and retrieve the ip address(es) and hostname of the system "
   },
   {
-    "createdAt": "2025-12-04T07:28:56Z",
-    "stars": 184,
-    "name": "oziriemeka/laravel-llm-suite",
-    "url": "https://github.com/oziriemeka/laravel-llm-suite",
-    "lang": "PHP",
-    "desc": "A unified, driver-based Laravel toolkit for working with multiple LLM providers for chat, image generation, and more."
-  },
-  {
-    "createdAt": "2025-12-04T06:02:24Z",
-    "stars": 183,
-    "name": "DeNA/llm-study20251201",
-    "url": "https://github.com/DeNA/llm-study20251201",
-    "lang": "HTML",
-    "desc": "DeNA社内で実施したLLM勉強会の資料とソースコード"
-  },
-  {
-    "createdAt": "2025-12-05T13:16:47Z",
-    "stars": 179,
-    "name": "davidberenstein1957/dspydantic",
-    "url": "https://github.com/davidberenstein1957/dspydantic",
-    "lang": "Python",
-    "desc": "DSPydantic: Auto-Optimize Your Pydantic Models with DSPy"
-  },
-  {
     "createdAt": "2025-12-08T08:52:34Z",
-    "stars": 169,
+    "stars": 174,
     "name": "tommyreid622/aster-trading-bot",
     "url": "https://github.com/tommyreid622/aster-trading-bot",
     "lang": "TypeScript",
     "desc": "A fully automated Astar DEX trading bot that optimizes swaps, liquidity actions, and trade execution for the best possible on-chain prices."
+  },
+  {
+    "createdAt": "2025-12-07T17:49:30Z",
+    "stars": 168,
+    "name": "hwbp/CLR-Unhook",
+    "url": "https://github.com/hwbp/CLR-Unhook",
+    "lang": "C++",
+    "desc": "Modern security products (CrowdStrike, Bitdefender, SentinelOne, etc.) hook the nLoadImage function inside clr.dll to intercept and scan in-memory .NET assembly loads. This tool unhooks that function. "
+  },
+  {
+    "createdAt": "2025-12-05T18:46:59Z",
+    "stars": 167,
+    "name": "Miziziziz/Steam-And-Itch-Command-Line-Tools-Guide",
+    "url": "https://github.com/Miziziziz/Steam-And-Itch-Command-Line-Tools-Guide",
+    "lang": "",
+    "desc": "How To Upload To Steam And Itch Using Command Line Tools"
+  },
+  {
+    "createdAt": "2025-12-10T03:39:57Z",
+    "stars": 164,
+    "name": "baidu/vLLM-Kunlun",
+    "url": "https://github.com/baidu/vLLM-Kunlun",
+    "lang": "Python",
+    "desc": "vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU."
+  },
+  {
+    "createdAt": "2025-12-05T16:26:16Z",
+    "stars": 157,
+    "name": "shootthesound/comfyUI-Realtime-Lora",
+    "url": "https://github.com/shootthesound/comfyUI-Realtime-Lora",
+    "lang": "Python",
+    "desc": "Train LoRAs directly inside ComfyUI for Z-image Turbo, SDXL, Flux, WAN 2.2, SD 1.5"
+  },
+  {
+    "createdAt": "2025-12-10T15:18:26Z",
+    "stars": 157,
+    "name": "xietao778899-rgb/Open-AutoGLM-Hybrid",
+    "url": "https://github.com/xietao778899-rgb/Open-AutoGLM-Hybrid",
+    "lang": "Kotlin",
+    "desc": "Open-AutoGLM混合方案 - 在手机上运行AI自动化，无需电脑"
+  },
+  {
+    "createdAt": "2025-12-05T02:46:21Z",
+    "stars": 155,
+    "name": "TeleAI-UAGI/telemem",
+    "url": "https://github.com/TeleAI-UAGI/telemem",
+    "lang": "Python",
+    "desc": "TeleMem is a high-performance multi-character memory system fully compatible with Mem0, featuring semantic deduplication, long-term dialogue memory, and multimodal video reasoning."
+  },
+  {
+    "createdAt": "2025-12-10T17:34:09Z",
+    "stars": 153,
+    "name": "kallie45s/Fourmeme-Bundler-BNB",
+    "url": "https://github.com/kallie45s/Fourmeme-Bundler-BNB",
+    "lang": "TypeScript",
+    "desc": ""
   }
 ]
