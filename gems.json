@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-12-08T09:23:44Z",
-    "stars": 14411,
+    "stars": 15511,
     "name": "zai-org/Open-AutoGLM",
     "url": "https://github.com/zai-org/Open-AutoGLM",
     "lang": "Python",
@@ -9,39 +9,15 @@
   },
   {
     "createdAt": "2025-12-08T18:56:59Z",
-    "stars": 1952,
+    "stars": 2014,
     "name": "mistralai/mistral-vibe",
     "url": "https://github.com/mistralai/mistral-vibe",
     "lang": "Python",
     "desc": "Minimal CLI coding agent by Mistral"
   },
   {
-    "createdAt": "2025-12-07T06:15:43Z",
-    "stars": 1924,
-    "name": "HKUDS/Paper2Slides",
-    "url": "https://github.com/HKUDS/Paper2Slides",
-    "lang": "Python",
-    "desc": "\"Paper2Slides: From Paper to Presentation in One Click\""
-  },
-  {
-    "createdAt": "2025-12-07T06:27:57Z",
-    "stars": 1139,
-    "name": "PastKing/tgbot-verify",
-    "url": "https://github.com/PastKing/tgbot-verify",
-    "lang": "Python",
-    "desc": "一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。"
-  },
-  {
-    "createdAt": "2025-12-07T14:56:14Z",
-    "stars": 966,
-    "name": "gommzystudio/device-activity-tracker",
-    "url": "https://github.com/gommzystudio/device-activity-tracker",
-    "lang": "TypeScript",
-    "desc": "A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)"
-  },
-  {
     "createdAt": "2025-12-09T15:36:20Z",
-    "stars": 962,
+    "stars": 1005,
     "name": "cporter202/API-mega-list",
     "url": "https://github.com/cporter202/API-mega-list",
     "lang": "JavaScript",
@@ -49,7 +25,7 @@
   },
   {
     "createdAt": "2025-12-13T11:36:04Z",
-    "stars": 745,
+    "stars": 967,
     "name": "eooce/Gla-deploy",
     "url": "https://github.com/eooce/Gla-deploy",
     "lang": "JavaScript",
@@ -57,7 +33,7 @@
   },
   {
     "createdAt": "2025-12-10T18:35:41Z",
-    "stars": 737,
+    "stars": 932,
     "name": "cporter202/scraping-apis-for-devs",
     "url": "https://github.com/cporter202/scraping-apis-for-devs",
     "lang": "JavaScript",
@@ -65,39 +41,39 @@
   },
   {
     "createdAt": "2025-12-11T11:07:23Z",
-    "stars": 646,
+    "stars": 715,
     "name": "actionstatelabs/android-action-kernel",
     "url": "https://github.com/actionstatelabs/android-action-kernel",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-08T06:09:38Z",
-    "stars": 608,
-    "name": "typsusan-zzz/canvas-drawing-editor",
-    "url": "https://github.com/typsusan-zzz/canvas-drawing-editor",
-    "lang": "TypeScript",
-    "desc": "强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML"
-  },
-  {
-    "createdAt": "2025-12-08T14:22:57Z",
-    "stars": 570,
-    "name": "tobi/qmd",
-    "url": "https://github.com/tobi/qmd",
-    "lang": "TypeScript",
-    "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
-  },
-  {
     "createdAt": "2025-12-12T17:41:11Z",
-    "stars": 524,
+    "stars": 658,
     "name": "tombcato/clash-ip-checker",
     "url": "https://github.com/tombcato/clash-ip-checker",
     "lang": "Python",
     "desc": "🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)"
   },
   {
+    "createdAt": "2025-12-08T14:22:57Z",
+    "stars": 577,
+    "name": "tobi/qmd",
+    "url": "https://github.com/tobi/qmd",
+    "lang": "TypeScript",
+    "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local"
+  },
+  {
+    "createdAt": "2025-12-08T06:09:38Z",
+    "stars": 537,
+    "name": "typsusan-zzz/canvas-drawing-editor",
+    "url": "https://github.com/typsusan-zzz/canvas-drawing-editor",
+    "lang": "TypeScript",
+    "desc": "强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML"
+  },
+  {
     "createdAt": "2025-12-09T17:27:18Z",
-    "stars": 496,
+    "stars": 526,
     "name": "zai-org/GLM-ASR",
     "url": "https://github.com/zai-org/GLM-ASR",
     "lang": "Python",
@@ -105,7 +81,7 @@
   },
   {
     "createdAt": "2025-12-10T18:13:11Z",
-    "stars": 402,
+    "stars": 505,
     "name": "ZiHuixi/QQgroup-annual-report-analyzer",
     "url": "https://github.com/ZiHuixi/QQgroup-annual-report-analyzer",
     "lang": "Python",
@@ -113,7 +89,7 @@
   },
   {
     "createdAt": "2025-12-09T01:16:59Z",
-    "stars": 378,
+    "stars": 420,
     "name": "farouqaldori/claude-island",
     "url": "https://github.com/farouqaldori/claude-island",
     "lang": "Swift",
@@ -121,47 +97,71 @@
   },
   {
     "createdAt": "2025-12-10T16:10:52Z",
-    "stars": 378,
+    "stars": 405,
     "name": "karpathy/hn-time-capsule",
     "url": "https://github.com/karpathy/hn-time-capsule",
     "lang": "Python",
     "desc": "Analyzing Hacker News discussions from a decade ago in hindsight with LLMs"
   },
   {
+    "createdAt": "2025-12-11T00:05:47Z",
+    "stars": 396,
+    "name": "meltylabs/chorus",
+    "url": "https://github.com/meltylabs/chorus",
+    "lang": "TypeScript",
+    "desc": "Chorus - AI chat app for Mac"
+  },
+  {
     "createdAt": "2025-12-08T23:23:24Z",
-    "stars": 351,
+    "stars": 354,
     "name": "t3tra-dev/MoZuku",
     "url": "https://github.com/t3tra-dev/MoZuku",
     "lang": "C++",
     "desc": "日本語文章の解析・校正を行う LSP サーバー。"
   },
   {
-    "createdAt": "2025-12-07T18:26:31Z",
-    "stars": 347,
-    "name": "alicankiraz1/Ai-Arastirma-Okumalarim-TR",
-    "url": "https://github.com/alicankiraz1/Ai-Arastirma-Okumalarim-TR",
-    "lang": "",
-    "desc": "Ai konusunda yayınlanan makale ve araştırmaların Türkçe detaylı-açıklamalı çevirilerine ve Türkçe Ai'a hazırlattığım Derin Araştırma Dökümanlarıma ulaşabilirsiniz."
+    "createdAt": "2025-12-12T14:56:07Z",
+    "stars": 340,
+    "name": "eliasjudin/oai-skills",
+    "url": "https://github.com/eliasjudin/oai-skills",
+    "lang": "Python",
+    "desc": "The contents of /home/oai/skills in ChatGPT's code interpreter environment"
   },
   {
     "createdAt": "2025-12-11T20:26:42Z",
-    "stars": 317,
+    "stars": 336,
     "name": "stoolap/stoolap",
     "url": "https://github.com/stoolap/stoolap",
     "lang": "Rust",
     "desc": "A Modern Embedded SQL Database written in Rust"
   },
   {
-    "createdAt": "2025-12-07T06:20:38Z",
-    "stars": 302,
-    "name": "Visionary-Laboratory/visionary",
-    "url": "https://github.com/Visionary-Laboratory/visionary",
+    "createdAt": "2025-12-12T21:08:12Z",
+    "stars": 321,
+    "name": "Gentleman-Programming/gentleman-guardian-angel",
+    "url": "https://github.com/Gentleman-Programming/gentleman-guardian-angel",
+    "lang": "Shell",
+    "desc": "😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards."
+  },
+  {
+    "createdAt": "2025-12-10T15:18:26Z",
+    "stars": 296,
+    "name": "xietao778899-rgb/Open-AutoGLM-Hybrid",
+    "url": "https://github.com/xietao778899-rgb/Open-AutoGLM-Hybrid",
+    "lang": "Kotlin",
+    "desc": "Open-AutoGLM混合方案 - 在手机上运行AI自动化，无需电脑"
+  },
+  {
+    "createdAt": "2025-12-09T18:18:08Z",
+    "stars": 295,
+    "name": "HKUDS/AnyTool",
+    "url": "https://github.com/HKUDS/AnyTool",
     "lang": "Python",
-    "desc": "Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform"
+    "desc": "\"AnyTool: Universal Tool-Use Layer for AI Agents\""
   },
   {
     "createdAt": "2025-12-08T20:00:06Z",
-    "stars": 268,
+    "stars": 279,
     "name": "qwwzdyj/AIA-Academic-Illustrator-",
     "url": "https://github.com/qwwzdyj/AIA-Academic-Illustrator-",
     "lang": "JavaScript",
@@ -169,63 +169,47 @@
   },
   {
     "createdAt": "2025-12-09T16:21:49Z",
-    "stars": 246,
+    "stars": 256,
     "name": "3lp4tr0n/SessionHop",
     "url": "https://github.com/3lp4tr0n/SessionHop",
     "lang": "C#",
     "desc": "Windows Session Hijacking via COM"
   },
   {
-    "createdAt": "2025-12-10T15:18:26Z",
-    "stars": 232,
-    "name": "xietao778899-rgb/Open-AutoGLM-Hybrid",
-    "url": "https://github.com/xietao778899-rgb/Open-AutoGLM-Hybrid",
-    "lang": "Kotlin",
-    "desc": "Open-AutoGLM混合方案 - 在手机上运行AI自动化，无需电脑"
-  },
-  {
     "createdAt": "2025-12-09T02:43:09Z",
-    "stars": 231,
+    "stars": 236,
     "name": "doggy8088/better-rm",
     "url": "https://github.com/doggy8088/better-rm",
     "lang": "Shell",
     "desc": "給你一個更好、更安全的 rm 命令"
   },
   {
-    "createdAt": "2025-12-11T00:05:47Z",
-    "stars": 228,
-    "name": "meltylabs/chorus",
-    "url": "https://github.com/meltylabs/chorus",
-    "lang": "TypeScript",
-    "desc": "Chorus - AI chat app for Mac"
-  },
-  {
-    "createdAt": "2025-12-12T14:56:07Z",
-    "stars": 225,
-    "name": "eliasjudin/oai-skills",
-    "url": "https://github.com/eliasjudin/oai-skills",
-    "lang": "Python",
-    "desc": "The contents of /home/oai/skills in ChatGPT's code interpreter environment"
-  },
-  {
     "createdAt": "2025-12-09T15:06:28Z",
-    "stars": 224,
+    "stars": 229,
     "name": "devcarron/casino-games-web3",
     "url": "https://github.com/devcarron/casino-games-web3",
     "lang": "JavaScript",
     "desc": "casino games blockchain, multichain, solana, ethereum, bitcoin, ethereum, binance, tron, erc-20, bep-20, trc-20, A modern crypto-powered gaming platform supporting multi-chain tokens and exciting on-chain games. This platform provides a comprehensive gaming experience with real-time multiplayer gameplay, secure wallet integration."
   },
   {
-    "createdAt": "2025-12-12T21:08:12Z",
-    "stars": 214,
-    "name": "Gentleman-Programming/gentleman-guardian-angel",
-    "url": "https://github.com/Gentleman-Programming/gentleman-guardian-angel",
-    "lang": "Shell",
-    "desc": "😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards."
+    "createdAt": "2025-12-09T07:11:42Z",
+    "stars": 225,
+    "name": "Turbo1123/roubao",
+    "url": "https://github.com/Turbo1123/roubao",
+    "lang": "Kotlin",
+    "desc": "Android Automation Tool Based on Vision-Language Models"
+  },
+  {
+    "createdAt": "2025-12-10T06:54:33Z",
+    "stars": 223,
+    "name": "hugohe3/ppt-master",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "lang": "Python",
+    "desc": "AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈等多格式 | 15 个示例 | 229 页 | 生成可编辑的 ppt 格式"
   },
   {
     "createdAt": "2025-12-08T10:08:00Z",
-    "stars": 209,
+    "stars": 212,
     "name": "ByteDance-Seed/DAComp",
     "url": "https://github.com/ByteDance-Seed/DAComp",
     "lang": "Python",
@@ -233,10 +217,26 @@
   },
   {
     "createdAt": "2025-12-10T17:34:09Z",
-    "stars": 202,
+    "stars": 210,
     "name": "kallie45s/Fourmeme-Bundler-BNB",
     "url": "https://github.com/kallie45s/Fourmeme-Bundler-BNB",
     "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-09T23:46:18Z",
+    "stars": 209,
+    "name": "NoeFabris/opencode-antigravity-auth",
+    "url": "https://github.com/NoeFabris/opencode-antigravity-auth",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-10T18:22:20Z",
+    "stars": 202,
+    "name": "kallie45s/hyperliquid-trading-bot",
+    "url": "https://github.com/kallie45s/hyperliquid-trading-bot",
+    "lang": "Python",
     "desc": ""
   },
   {
@@ -248,155 +248,155 @@
     "desc": "Flashloan Arbitrage Bot for Ethereum"
   },
   {
-    "createdAt": "2025-12-10T18:22:20Z",
-    "stars": 194,
-    "name": "kallie45s/hyperliquid-trading-bot",
-    "url": "https://github.com/kallie45s/hyperliquid-trading-bot",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-12-10T17:49:28Z",
-    "stars": 193,
+    "stars": 199,
     "name": "kallie45s/fourmeme-copytrading-bot-bnb",
     "url": "https://github.com/kallie45s/fourmeme-copytrading-bot-bnb",
     "lang": "",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-08T03:12:24Z",
-    "stars": 191,
-    "name": "C4KEW4LK/rpi_usb_ip_display",
-    "url": "https://github.com/C4KEW4LK/rpi_usb_ip_display",
-    "lang": "C++",
-    "desc": "small usb micro controller with built-in LCD, designed to query a host rpi system and retrieve the ip address(es) and hostname of the system "
-  },
-  {
     "createdAt": "2025-12-10T18:17:41Z",
-    "stars": 191,
+    "stars": 197,
     "name": "kallie45s/hyperliquid-arbitrage-bot",
     "url": "https://github.com/kallie45s/hyperliquid-arbitrage-bot",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-10T06:54:33Z",
-    "stars": 182,
-    "name": "hugohe3/ppt-master",
-    "url": "https://github.com/hugohe3/ppt-master",
-    "lang": "Python",
-    "desc": "PPT Master 是一个基于多角色 AI 工作流的 SVG 视觉内容生成框架，用来把源文档自动转化为高质量、多终端适配的演示和营销视觉稿（PPT、小红书、朋友圈、Story 等），并配套完整的模板与 Python 工具链。下面的链接为示例的ppt，大家可以看看效果。"
-  },
-  {
-    "createdAt": "2025-12-09T18:18:08Z",
-    "stars": 178,
-    "name": "HKUDS/AnyTool",
-    "url": "https://github.com/HKUDS/AnyTool",
-    "lang": "Python",
-    "desc": "\"AnyTool: Universal Tool-Use Layer for AI Agents\""
-  },
-  {
-    "createdAt": "2025-12-09T07:11:42Z",
-    "stars": 176,
-    "name": "Turbo1123/roubao",
-    "url": "https://github.com/Turbo1123/roubao",
-    "lang": "Kotlin",
-    "desc": "Android Automation Tool Based on Vision-Language Models"
-  },
-  {
-    "createdAt": "2025-12-08T08:52:34Z",
-    "stars": 174,
-    "name": "tommyreid622/aster-trading-bot",
-    "url": "https://github.com/tommyreid622/aster-trading-bot",
-    "lang": "TypeScript",
-    "desc": "A fully automated Astar DEX trading bot that optimizes swaps, liquidity actions, and trade execution for the best possible on-chain prices."
-  },
-  {
-    "createdAt": "2025-12-07T17:49:30Z",
-    "stars": 171,
-    "name": "hwbp/CLR-Unhook",
-    "url": "https://github.com/hwbp/CLR-Unhook",
+    "createdAt": "2025-12-08T03:12:24Z",
+    "stars": 192,
+    "name": "C4KEW4LK/rpi_usb_ip_display",
+    "url": "https://github.com/C4KEW4LK/rpi_usb_ip_display",
     "lang": "C++",
-    "desc": "Modern security products (CrowdStrike, Bitdefender, SentinelOne, etc.) hook the nLoadImage function inside clr.dll to intercept and scan in-memory .NET assembly loads. This tool unhooks that function. "
+    "desc": "small usb micro controller with built-in LCD, designed to query a host rpi system and retrieve the ip address(es) and hostname of the system "
+  },
+  {
+    "createdAt": "2025-12-09T13:04:25Z",
+    "stars": 183,
+    "name": "MAA-AI/MaaMCP",
+    "url": "https://github.com/MAA-AI/MaaMCP",
+    "lang": "Python",
+    "desc": "基于 MaaFramework 的 MCP 服务器 为 AI 助手提供 Android 设备和 Windows 桌面自动化能力"
+  },
+  {
+    "createdAt": "2025-12-15T01:46:48Z",
+    "stars": 180,
+    "name": "FunAudioLLM/Fun-ASR",
+    "url": "https://github.com/FunAudioLLM/Fun-ASR",
+    "lang": "Python",
+    "desc": "Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. "
   },
   {
     "createdAt": "2025-12-10T03:39:57Z",
-    "stars": 170,
+    "stars": 176,
     "name": "baidu/vLLM-Kunlun",
     "url": "https://github.com/baidu/vLLM-Kunlun",
     "lang": "Python",
     "desc": "vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU."
   },
   {
-    "createdAt": "2025-12-09T10:43:09Z",
-    "stars": 157,
-    "name": "stepfun-ai/PaCoRe",
-    "url": "https://github.com/stepfun-ai/PaCoRe",
-    "lang": "Python",
-    "desc": "PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning"
-  },
-  {
-    "createdAt": "2025-12-13T20:17:14Z",
-    "stars": 155,
-    "name": "NotAnyoneMe/ProxyChecker",
-    "url": "https://github.com/NotAnyoneMe/ProxyChecker",
-    "lang": "Python",
-    "desc": "HTTP, SOCKS4, SOCKS5 proxies checker with gui style"
-  },
-  {
-    "createdAt": "2025-12-11T02:07:53Z",
-    "stars": 149,
-    "name": "YangJiiii/Disable-Call-Recording-BookRestore-",
-    "url": "https://github.com/YangJiiii/Disable-Call-Recording-BookRestore-",
-    "lang": "Python",
-    "desc": "Use the bl_sbx exploit to hide the call-recording notification sound on iOS"
-  },
-  {
-    "createdAt": "2025-12-07T15:24:54Z",
-    "stars": 146,
-    "name": "YangJiiii/bl_sbx_apple_wallet",
-    "url": "https://github.com/YangJiiii/bl_sbx_apple_wallet",
-    "lang": "Python",
-    "desc": "Replace your Apple Wallet background image using the bl_sbx exploit"
-  },
-  {
-    "createdAt": "2025-12-09T13:04:25Z",
-    "stars": 145,
-    "name": "MaaXYZ/MaaMCP",
-    "url": "https://github.com/MaaXYZ/MaaMCP",
-    "lang": "Python",
-    "desc": "基于 MaaFramework 的 MCP 服务器 为 AI 助手提供 Android 设备和 Windows 桌面自动化能力"
+    "createdAt": "2025-12-08T08:52:34Z",
+    "stars": 175,
+    "name": "tommyreid622/aster-trading-bot",
+    "url": "https://github.com/tommyreid622/aster-trading-bot",
+    "lang": "TypeScript",
+    "desc": "A fully automated Astar DEX trading bot that optimizes swaps, liquidity actions, and trade execution for the best possible on-chain prices."
   },
   {
     "createdAt": "2025-12-10T23:57:53Z",
-    "stars": 144,
+    "stars": 174,
     "name": "schwartz1375/genai-security-training",
     "url": "https://github.com/schwartz1375/genai-security-training",
     "lang": "Jupyter Notebook",
     "desc": ""
   },
   {
+    "createdAt": "2025-12-09T10:43:09Z",
+    "stars": 169,
+    "name": "stepfun-ai/PaCoRe",
+    "url": "https://github.com/stepfun-ai/PaCoRe",
+    "lang": "Python",
+    "desc": "PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning"
+  },
+  {
+    "createdAt": "2025-12-10T09:47:41Z",
+    "stars": 167,
+    "name": "andrewmd5/dawn",
+    "url": "https://github.com/andrewmd5/dawn",
+    "lang": "C",
+    "desc": "A distraction-free writing environment; draft anything, write now."
+  },
+  {
+    "createdAt": "2025-12-11T02:07:53Z",
+    "stars": 167,
+    "name": "YangJiiii/Disable-Call-Recording-BookRestore-",
+    "url": "https://github.com/YangJiiii/Disable-Call-Recording-BookRestore-",
+    "lang": "Python",
+    "desc": "Use the bl_sbx exploit to hide the call-recording notification sound on iOS"
+  },
+  {
+    "createdAt": "2025-12-13T20:17:14Z",
+    "stars": 161,
+    "name": "NotAnyoneMe/ProxyChecker",
+    "url": "https://github.com/NotAnyoneMe/ProxyChecker",
+    "lang": "Python",
+    "desc": "HTTP, SOCKS4, SOCKS5 proxies checker with gui style"
+  },
+  {
+    "createdAt": "2025-12-13T22:43:13Z",
+    "stars": 155,
+    "name": "BesianSherifaj-AI/PromptCraft",
+    "url": "https://github.com/BesianSherifaj-AI/PromptCraft",
+    "lang": "JavaScript",
+    "desc": "An AI image gen prompt manager !"
+  },
+  {
+    "createdAt": "2025-12-08T22:51:39Z",
+    "stars": 147,
+    "name": "cporter202/automate-faceless-content",
+    "url": "https://github.com/cporter202/automate-faceless-content",
+    "lang": "",
+    "desc": "Learn how to automate faceless short-form + long-form video content and dominate YouTube, TikTok, Facebook & Instagram on autopilot — from idea → script → video → scheduled posts."
+  },
+  {
     "createdAt": "2025-12-08T11:04:33Z",
-    "stars": 143,
+    "stars": 144,
     "name": "juu17/browser-fingerprint-shuffler",
     "url": "https://github.com/juu17/browser-fingerprint-shuffler",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-07T20:02:52Z",
-    "stars": 138,
-    "name": "joelhooks/opencode-config",
-    "url": "https://github.com/joelhooks/opencode-config",
-    "lang": "TypeScript",
-    "desc": "Personal OpenCode configuration - commands, tools, agents, knowledge"
+    "createdAt": "2025-12-12T03:46:09Z",
+    "stars": 144,
+    "name": "apple/ml-sharp",
+    "url": "https://github.com/apple/ml-sharp",
+    "lang": "Python",
+    "desc": "Sharp Monocular View Synthesis in Less Than a Second"
   },
   {
-    "createdAt": "2025-12-08T15:32:58Z",
-    "stars": 138,
-    "name": "horsenyet/RSC-Detect-CVE-2025-55182",
-    "url": "https://github.com/horsenyet/RSC-Detect-CVE-2025-55182",
-    "lang": "Python",
-    "desc": "rsc-detect-cve-2025-55182 is a static analysis tool designed to detect potential indicators of CVE-2025-55182"
+    "createdAt": "2025-12-10T23:57:33Z",
+    "stars": 144,
+    "name": "akinloluwami/outray",
+    "url": "https://github.com/akinloluwami/outray",
+    "lang": "TypeScript",
+    "desc": "OpenSource ngrok alternative."
+  },
+  {
+    "createdAt": "2025-12-09T16:59:54Z",
+    "stars": 143,
+    "name": "gleanwork/remote-mcp-server",
+    "url": "https://github.com/gleanwork/remote-mcp-server",
+    "lang": "",
+    "desc": "Remote MCP Server that securely connects Enterprise context with your LLM, IDE, or agent platform of choice."
+  },
+  {
+    "createdAt": "2025-12-08T10:38:30Z",
+    "stars": 141,
+    "name": "lizhiqi49/MoCA",
+    "url": "https://github.com/lizhiqi49/MoCA",
+    "lang": "",
+    "desc": "\"MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation\""
   }
 ]
