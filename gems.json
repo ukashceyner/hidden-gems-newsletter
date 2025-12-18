@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-12-12T03:46:09Z",
-    "stars": 1910,
+    "stars": 2982,
     "name": "apple/ml-sharp",
     "url": "https://github.com/apple/ml-sharp",
     "lang": "Python",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-12-16T01:44:50Z",
-    "stars": 1202,
+    "stars": 1722,
     "name": "productdevbook/port-killer",
     "url": "https://github.com/productdevbook/port-killer",
     "lang": "Swift",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-12-11T11:07:23Z",
-    "stars": 1141,
+    "stars": 1159,
     "name": "actionstatelabs/android-action-kernel",
     "url": "https://github.com/actionstatelabs/android-action-kernel",
     "lang": "Python",
@@ -25,23 +25,23 @@
   },
   {
     "createdAt": "2025-12-13T11:36:04Z",
-    "stars": 1103,
+    "stars": 1139,
     "name": "eooce/Gla-deploy",
     "url": "https://github.com/eooce/Gla-deploy",
     "lang": "JavaScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-10T18:35:41Z",
-    "stars": 1061,
-    "name": "cporter202/scraping-apis-for-devs",
-    "url": "https://github.com/cporter202/scraping-apis-for-devs",
-    "lang": "JavaScript",
-    "desc": "This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications. "
+    "createdAt": "2025-12-13T00:10:36Z",
+    "stars": 797,
+    "name": "Maxteabag/sqlit",
+    "url": "https://github.com/Maxteabag/sqlit",
+    "lang": "Python",
+    "desc": "A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more."
   },
   {
     "createdAt": "2025-12-12T17:41:11Z",
-    "stars": 749,
+    "stars": 769,
     "name": "tombcato/clash-ip-checker",
     "url": "https://github.com/tombcato/clash-ip-checker",
     "lang": "Python",
@@ -49,55 +49,31 @@
   },
   {
     "createdAt": "2025-12-16T09:57:01Z",
-    "stars": 612,
+    "stars": 707,
     "name": "gaearon/rscexplorer",
     "url": "https://github.com/gaearon/rscexplorer",
     "lang": "TypeScript",
     "desc": "A tool for people curious about the React Server Components protocol"
   },
   {
-    "createdAt": "2025-12-13T00:10:36Z",
-    "stars": 611,
-    "name": "Maxteabag/sqlit",
-    "url": "https://github.com/Maxteabag/sqlit",
-    "lang": "Python",
-    "desc": "A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more."
-  },
-  {
-    "createdAt": "2025-12-10T18:13:11Z",
-    "stars": 606,
-    "name": "ZiHuixi/QQgroup-annual-report-analyzer",
-    "url": "https://github.com/ZiHuixi/QQgroup-annual-report-analyzer",
-    "lang": "Python",
-    "desc": "一个用于分析QQ群聊记录并生成年度热词报告的工具。支持热词发现、趣味统计、可视化报告生成等功能。"
-  },
-  {
-    "createdAt": "2025-12-11T00:05:47Z",
-    "stars": 506,
-    "name": "meltylabs/chorus",
-    "url": "https://github.com/meltylabs/chorus",
-    "lang": "TypeScript",
-    "desc": "Chorus - AI chat app for Mac"
-  },
-  {
     "createdAt": "2025-12-15T16:28:22Z",
-    "stars": 446,
+    "stars": 647,
     "name": "XiaomiMiMo/MiMo-V2-Flash",
     "url": "https://github.com/XiaomiMiMo/MiMo-V2-Flash",
     "lang": "",
     "desc": "MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model"
   },
   {
-    "createdAt": "2025-12-10T16:10:52Z",
-    "stars": 438,
-    "name": "karpathy/hn-time-capsule",
-    "url": "https://github.com/karpathy/hn-time-capsule",
-    "lang": "Python",
-    "desc": "Analyzing Hacker News discussions from a decade ago in hindsight with LLMs"
+    "createdAt": "2025-12-11T00:05:47Z",
+    "stars": 517,
+    "name": "meltylabs/chorus",
+    "url": "https://github.com/meltylabs/chorus",
+    "lang": "TypeScript",
+    "desc": "Chorus - AI chat app for Mac"
   },
   {
     "createdAt": "2025-12-15T01:46:48Z",
-    "stars": 391,
+    "stars": 415,
     "name": "FunAudioLLM/Fun-ASR",
     "url": "https://github.com/FunAudioLLM/Fun-ASR",
     "lang": "Python",
@@ -105,23 +81,15 @@
   },
   {
     "createdAt": "2025-12-12T14:56:07Z",
-    "stars": 384,
+    "stars": 397,
     "name": "eliasjudin/oai-skills",
     "url": "https://github.com/eliasjudin/oai-skills",
     "lang": "Python",
     "desc": "The contents of /home/oai/skills in ChatGPT's code interpreter environment"
   },
   {
-    "createdAt": "2025-12-10T15:18:26Z",
-    "stars": 377,
-    "name": "xietao778899-rgb/Open-AutoGLM-Hybrid",
-    "url": "https://github.com/xietao778899-rgb/Open-AutoGLM-Hybrid",
-    "lang": "Kotlin",
-    "desc": "Open-AutoGLM混合方案 - 在手机上运行AI自动化，无需电脑"
-  },
-  {
     "createdAt": "2025-12-12T21:08:12Z",
-    "stars": 364,
+    "stars": 375,
     "name": "Gentleman-Programming/gentleman-guardian-angel",
     "url": "https://github.com/Gentleman-Programming/gentleman-guardian-angel",
     "lang": "Shell",
@@ -129,155 +97,107 @@
   },
   {
     "createdAt": "2025-12-11T20:26:42Z",
-    "stars": 358,
+    "stars": 360,
     "name": "stoolap/stoolap",
     "url": "https://github.com/stoolap/stoolap",
     "lang": "Rust",
     "desc": "A Modern Embedded SQL Database written in Rust"
   },
   {
-    "createdAt": "2025-12-10T06:46:39Z",
-    "stars": 313,
-    "name": "Tencent-Hunyuan/HY-WorldPlay",
-    "url": "https://github.com/Tencent-Hunyuan/HY-WorldPlay",
-    "lang": "Python",
-    "desc": "WorldPlay: Interactive World Modeling with Real-Time Latency and Geometric Consistency"
-  },
-  {
-    "createdAt": "2025-12-14T17:54:14Z",
-    "stars": 289,
-    "name": "waynesutton/markdown-site",
-    "url": "https://github.com/waynesutton/markdown-site",
-    "lang": "TypeScript",
-    "desc": "A minimalist markdown sync site that's always in sync built with React, Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery."
-  },
-  {
-    "createdAt": "2025-12-10T06:54:33Z",
-    "stars": 283,
-    "name": "hugohe3/ppt-master",
-    "url": "https://github.com/hugohe3/ppt-master",
-    "lang": "Python",
-    "desc": "AI 驱动的 SVG 演示文稿生成系统，支持 PPT、小红书、朋友圈等多格式 | 15 个示例 | 229 页 | 生成可编辑的 ppt 格式"
-  },
-  {
-    "createdAt": "2025-12-16T02:42:45Z",
-    "stars": 281,
-    "name": "taetaehoho/poly-kalshi-arb",
-    "url": "https://github.com/taetaehoho/poly-kalshi-arb",
-    "lang": "Rust",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-12T23:56:01Z",
-    "stars": 277,
-    "name": "cmontella/purrtran",
-    "url": "https://github.com/cmontella/purrtran",
-    "lang": "",
-    "desc": "😻 It's the cat's meow! 😽 "
-  },
-  {
-    "createdAt": "2025-12-14T17:22:24Z",
-    "stars": 271,
-    "name": "Kruszoneq/macUSB",
-    "url": "https://github.com/Kruszoneq/macUSB",
-    "lang": "Swift",
-    "desc": "The easiest way to create legacy macOS bootable drives on modern Macs. Revive old Intel Macs using your Apple Silicon machine - no Terminal knowledge required."
-  },
-  {
-    "createdAt": "2025-12-12T19:36:11Z",
-    "stars": 265,
-    "name": "fcoury/tsql",
-    "url": "https://github.com/fcoury/tsql",
-    "lang": "Rust",
-    "desc": "🐘 tsql — A modern PostgreSQL manager TUI"
-  },
-  {
-    "createdAt": "2025-12-10T09:47:41Z",
-    "stars": 251,
-    "name": "andrewmd5/dawn",
-    "url": "https://github.com/andrewmd5/dawn",
-    "lang": "C",
-    "desc": "A distraction-free writing environment; draft anything, write now."
-  },
-  {
     "createdAt": "2025-12-13T07:06:48Z",
-    "stars": 240,
+    "stars": 323,
     "name": "Shichun-Liu/Agent-Memory-Paper-List",
     "url": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
     "lang": "",
     "desc": "The paper list of \"Memory in the Age of AI Agents: A Survey\""
   },
   {
-    "createdAt": "2025-12-10T19:16:51Z",
-    "stars": 232,
-    "name": "m0n0x41d/quint-code",
-    "url": "https://github.com/m0n0x41d/quint-code",
-    "lang": "Shell",
-    "desc": "Structured reasoning commands for Claude Code, Gemini, Cursor and Codex — hypothesis-driven decision making with auditable evidence trails"
+    "createdAt": "2025-12-16T02:42:45Z",
+    "stars": 316,
+    "name": "taetaehoho/poly-kalshi-arb",
+    "url": "https://github.com/taetaehoho/poly-kalshi-arb",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-14T17:22:24Z",
+    "stars": 305,
+    "name": "Kruszoneq/macUSB",
+    "url": "https://github.com/Kruszoneq/macUSB",
+    "lang": "Swift",
+    "desc": "The easiest way to create legacy macOS bootable drives on modern Macs. Revive old Intel Macs using your Apple Silicon machine - no Terminal knowledge required."
+  },
+  {
+    "createdAt": "2025-12-14T17:54:14Z",
+    "stars": 296,
+    "name": "waynesutton/markdown-site",
+    "url": "https://github.com/waynesutton/markdown-site",
+    "lang": "TypeScript",
+    "desc": "A minimalist markdown sync site that's always in sync built with React, Convex, and Vite. Optimized for SEO, AI agents, and LLM discovery."
+  },
+  {
+    "createdAt": "2025-12-12T23:56:01Z",
+    "stars": 289,
+    "name": "cmontella/purrtran",
+    "url": "https://github.com/cmontella/purrtran",
+    "lang": "",
+    "desc": "😻 It's the cat's meow! 😽 "
+  },
+  {
+    "createdAt": "2025-12-12T19:36:11Z",
+    "stars": 287,
+    "name": "fcoury/tsql",
+    "url": "https://github.com/fcoury/tsql",
+    "lang": "Rust",
+    "desc": "🐘 tsql — A modern PostgreSQL manager TUI"
+  },
+  {
+    "createdAt": "2025-12-16T14:54:52Z",
+    "stars": 286,
+    "name": "GuDaStudio/skills",
+    "url": "https://github.com/GuDaStudio/skills",
+    "lang": "PowerShell",
+    "desc": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools."
   },
   {
     "createdAt": "2025-12-15T19:36:09Z",
-    "stars": 231,
+    "stars": 258,
     "name": "hyperbrowserai/hyperbooklm",
     "url": "https://github.com/hyperbrowserai/hyperbooklm",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-10T08:00:40Z",
-    "stars": 227,
-    "name": "iam-veeramalla/mlops-zero-to-hero",
-    "url": "https://github.com/iam-veeramalla/mlops-zero-to-hero",
-    "lang": "",
-    "desc": "Notes for my MLOps Zero to Hero Udemy course."
-  },
-  {
-    "createdAt": "2025-12-10T17:34:09Z",
-    "stars": 217,
-    "name": "kallie45s/Fourmeme-Bundler-BNB",
-    "url": "https://github.com/kallie45s/Fourmeme-Bundler-BNB",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-10T18:22:20Z",
-    "stars": 210,
-    "name": "kallie45s/hyperliquid-trading-bot",
-    "url": "https://github.com/kallie45s/hyperliquid-trading-bot",
+    "createdAt": "2025-12-17T08:26:18Z",
+    "stars": 235,
+    "name": "Noumena-Network/nmoe",
+    "url": "https://github.com/Noumena-Network/nmoe",
     "lang": "Python",
-    "desc": ""
+    "desc": "MoE training for Me and You and maybe other people "
   },
   {
-    "createdAt": "2025-12-10T18:17:41Z",
-    "stars": 207,
-    "name": "kallie45s/hyperliquid-arbitrage-bot",
-    "url": "https://github.com/kallie45s/hyperliquid-arbitrage-bot",
+    "createdAt": "2025-12-15T11:56:42Z",
+    "stars": 224,
+    "name": "MrSibe/KnowNote",
+    "url": "https://github.com/MrSibe/KnowNote",
     "lang": "TypeScript",
-    "desc": ""
+    "desc": "一个类似于Notebook LM，以用户自有知识为中心的 AI 工作空间，帮助你思考、研究与写作。更方便，更轻量，更懂你！"
   },
   {
     "createdAt": "2025-12-16T01:07:48Z",
-    "stars": 205,
+    "stars": 220,
     "name": "xmannv/xkey",
     "url": "https://github.com/xmannv/xkey",
     "lang": "Swift",
     "desc": "Vietnamese Input for macOS - Bộ gõ Tiếng Việt mã nguồn mở cho macOS"
   },
   {
-    "createdAt": "2025-12-10T17:49:28Z",
-    "stars": 205,
-    "name": "kallie45s/fourmeme-copytrading-bot-bnb",
-    "url": "https://github.com/kallie45s/fourmeme-copytrading-bot-bnb",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-15T11:56:42Z",
-    "stars": 204,
-    "name": "MrSibe/KnowNote",
-    "url": "https://github.com/MrSibe/KnowNote",
-    "lang": "TypeScript",
-    "desc": "一个类似于Notebook LM，以用户自有知识为中心的 AI 工作空间，帮助你思考、研究与写作。更方便，更轻量，更懂你！"
+    "createdAt": "2025-12-15T07:39:51Z",
+    "stars": 212,
+    "name": "aiflowy/aiflowy",
+    "url": "https://github.com/aiflowy/aiflowy",
+    "lang": "Vue",
+    "desc": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze."
   },
   {
     "createdAt": "2025-12-12T13:57:31Z",
@@ -289,75 +209,107 @@
   },
   {
     "createdAt": "2025-12-11T02:07:53Z",
-    "stars": 190,
+    "stars": 194,
     "name": "YangJiiii/Disable-Call-Recording-BookRestore-",
     "url": "https://github.com/YangJiiii/Disable-Call-Recording-BookRestore-",
     "lang": "Python",
     "desc": "Use the bl_sbx exploit to hide the call-recording notification sound on iOS"
   },
   {
-    "createdAt": "2025-12-10T23:57:53Z",
-    "stars": 189,
-    "name": "schwartz1375/genai-security-training",
-    "url": "https://github.com/schwartz1375/genai-security-training",
-    "lang": "Jupyter Notebook",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-10T03:39:57Z",
-    "stars": 185,
-    "name": "baidu/vLLM-Kunlun",
-    "url": "https://github.com/baidu/vLLM-Kunlun",
+    "createdAt": "2025-12-17T02:45:17Z",
+    "stars": 184,
+    "name": "dsphper/lanhu-mcp",
+    "url": "https://github.com/dsphper/lanhu-mcp",
     "lang": "Python",
-    "desc": "vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU."
-  },
-  {
-    "createdAt": "2025-12-16T14:54:52Z",
-    "stars": 183,
-    "name": "GuDaStudio/skills",
-    "url": "https://github.com/GuDaStudio/skills",
-    "lang": "PowerShell",
-    "desc": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools."
-  },
-  {
-    "createdAt": "2025-12-13T20:17:14Z",
-    "stars": 165,
-    "name": "NotAnyoneMe/ProxyChecker",
-    "url": "https://github.com/NotAnyoneMe/ProxyChecker",
-    "lang": "Python",
-    "desc": "HTTP, SOCKS4, SOCKS5 proxies checker with gui style"
+    "desc": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图"
   },
   {
     "createdAt": "2025-12-13T15:30:45Z",
-    "stars": 163,
+    "stars": 181,
     "name": "Aratako/T5Gemma-TTS",
     "url": "https://github.com/Aratako/T5Gemma-TTS",
     "lang": "Python",
     "desc": "Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM"
   },
   {
+    "createdAt": "2025-12-15T09:13:52Z",
+    "stars": 176,
+    "name": "Dao-AILab/sonic-moe",
+    "url": "https://github.com/Dao-AILab/sonic-moe",
+    "lang": "Python",
+    "desc": "Accelerating MoE with IO and Tile-aware Optimizations"
+  },
+  {
+    "createdAt": "2025-12-17T12:11:53Z",
+    "stars": 170,
+    "name": "KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "url": "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "lang": "",
+    "desc": "100+ LLM interview questions with answers. "
+  },
+  {
+    "createdAt": "2025-12-15T11:06:31Z",
+    "stars": 167,
+    "name": "hanebox/ekphos",
+    "url": "https://github.com/hanebox/ekphos",
+    "lang": "Rust",
+    "desc": "A lightweight, fast, terminal-based markdown research tool inspired by Obsidian"
+  },
+  {
+    "createdAt": "2025-12-13T20:17:14Z",
+    "stars": 166,
+    "name": "NotAnyoneMe/ProxyChecker",
+    "url": "https://github.com/NotAnyoneMe/ProxyChecker",
+    "lang": "Python",
+    "desc": "HTTP, SOCKS4, SOCKS5 proxies checker with gui style"
+  },
+  {
     "createdAt": "2025-12-13T22:43:13Z",
-    "stars": 162,
+    "stars": 166,
     "name": "BesianSherifaj-AI/PromptCraft",
     "url": "https://github.com/BesianSherifaj-AI/PromptCraft",
     "lang": "JavaScript",
     "desc": "An AI image gen prompt manager !"
   },
   {
-    "createdAt": "2025-12-15T07:39:51Z",
-    "stars": 158,
-    "name": "aiflowy/aiflowy",
-    "url": "https://github.com/aiflowy/aiflowy",
-    "lang": "Vue",
-    "desc": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze."
+    "createdAt": "2025-12-14T16:56:03Z",
+    "stars": 166,
+    "name": "curionox/lifekline",
+    "url": "https://github.com/curionox/lifekline",
+    "lang": "",
+    "desc": "人生K线 - 基于AI的八字命理可视化工具"
+  },
+  {
+    "createdAt": "2025-12-11T10:32:23Z",
+    "stars": 163,
+    "name": "MiniMax-AI/VTP",
+    "url": "https://github.com/MiniMax-AI/VTP",
+    "lang": "Python",
+    "desc": "Towards Scalable Pre-training of Visual Tokenizers for Generation"
+  },
+  {
+    "createdAt": "2025-12-14T17:16:47Z",
+    "stars": 161,
+    "name": "kijai/ComfyUI-SCAIL-Pose",
+    "url": "https://github.com/kijai/ComfyUI-SCAIL-Pose",
+    "lang": "Python",
+    "desc": "ComfyUI nodes for SCAIL-Pose preprocessing"
   },
   {
     "createdAt": "2025-12-11T15:36:51Z",
-    "stars": 151,
+    "stars": 156,
     "name": "inclusionAI/LLaDA2.0",
     "url": "https://github.com/inclusionAI/LLaDA2.0",
     "lang": "",
     "desc": "LLaDA2.0 is the diffusion language model series developed by InclusionAI team, Ant Group."
+  },
+  {
+    "createdAt": "2025-12-13T12:37:37Z",
+    "stars": 154,
+    "name": "alibaba-damo-academy/T2I-Distill",
+    "url": "https://github.com/alibaba-damo-academy/T2I-Distill",
+    "lang": "Python",
+    "desc": "[Tech Report] Few-Step Distillation for Text-to-Image Generation: A Practical Guide"
   },
   {
     "createdAt": "2025-12-12T02:38:13Z",
@@ -368,28 +320,20 @@
     "desc": ""
   },
   {
-    "createdAt": "2025-12-14T16:56:03Z",
+    "createdAt": "2025-12-15T17:26:58Z",
     "stars": 149,
-    "name": "curionox/lifekline",
-    "url": "https://github.com/curionox/lifekline",
-    "lang": "",
-    "desc": "人生K线 - 基于AI的八字命理可视化工具"
+    "name": "superstarryeyes/hys",
+    "url": "https://github.com/superstarryeyes/hys",
+    "lang": "Zig",
+    "desc": "Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll"
   },
   {
-    "createdAt": "2025-12-10T23:57:33Z",
-    "stars": 148,
-    "name": "akinloluwami/outray",
-    "url": "https://github.com/akinloluwami/outray",
-    "lang": "TypeScript",
-    "desc": "OpenSource ngrok alternative."
-  },
-  {
-    "createdAt": "2025-12-10T09:34:51Z",
-    "stars": 147,
-    "name": "ZonD80/familycall",
-    "url": "https://github.com/ZonD80/familycall",
-    "lang": "JavaScript",
-    "desc": "Self-hosted приложение для видео и аудиозвонков для своей семьи в виде одного бинарника"
+    "createdAt": "2025-12-11T07:47:32Z",
+    "stars": 146,
+    "name": "zai-org/RealVideo",
+    "url": "https://github.com/zai-org/RealVideo",
+    "lang": "Python",
+    "desc": "A real-time streaming conversational video system that transforms text interactions into continuous, high-fidelity video responses using autoregressive diffusion. "
   },
   {
     "createdAt": "2025-12-12T14:35:40Z",
@@ -398,5 +342,61 @@
     "url": "https://github.com/josejacas/SwiftAnimPlayground",
     "lang": "Swift",
     "desc": ""
+  },
+  {
+    "createdAt": "2025-12-16T11:37:33Z",
+    "stars": 143,
+    "name": "nexxeln/opencode-config",
+    "url": "https://github.com/nexxeln/opencode-config",
+    "lang": "TypeScript",
+    "desc": "my opencode config"
+  },
+  {
+    "createdAt": "2025-12-11T14:31:35Z",
+    "stars": 142,
+    "name": "dh374374/ChaiChaiEmbyTV",
+    "url": "https://github.com/dh374374/ChaiChaiEmbyTV",
+    "lang": "",
+    "desc": "Emby Android TV 客户端"
+  },
+  {
+    "createdAt": "2025-12-12T00:56:53Z",
+    "stars": 142,
+    "name": "VibiumDev/vibium",
+    "url": "https://github.com/VibiumDev/vibium",
+    "lang": "Go",
+    "desc": "Browser automation for AI agents and humans"
+  },
+  {
+    "createdAt": "2025-12-18T13:35:16Z",
+    "stars": 141,
+    "name": "terauss/Polymarket-Kalshi-Arbitrage-bot",
+    "url": "https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot",
+    "lang": "Rust",
+    "desc": "Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market. "
+  },
+  {
+    "createdAt": "2025-12-11T03:56:51Z",
+    "stars": 138,
+    "name": "LeoChen-CoreMind/UDX710-TOOLS",
+    "url": "https://github.com/LeoChen-CoreMind/UDX710-TOOLS",
+    "lang": "HTML",
+    "desc": "UDX710-UOOLS"
+  },
+  {
+    "createdAt": "2025-12-12T05:54:59Z",
+    "stars": 135,
+    "name": "Ami3466/tomcp",
+    "url": "https://github.com/Ami3466/tomcp",
+    "lang": "HTML",
+    "desc": "Turn any website or doc into an MCP server"
+  },
+  {
+    "createdAt": "2025-12-14T16:11:38Z",
+    "stars": 133,
+    "name": "samwho/llmwalk",
+    "url": "https://github.com/samwho/llmwalk",
+    "lang": "Python",
+    "desc": "Explore the answer-space of open LLMs"
   }
 ]
