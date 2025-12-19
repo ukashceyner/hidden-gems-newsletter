@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-12-12T03:46:09Z",
-    "stars": 2982,
+    "stars": 3681,
     "name": "apple/ml-sharp",
     "url": "https://github.com/apple/ml-sharp",
     "lang": "Python",
@@ -9,23 +9,15 @@
   },
   {
     "createdAt": "2025-12-16T01:44:50Z",
-    "stars": 1722,
+    "stars": 2163,
     "name": "productdevbook/port-killer",
     "url": "https://github.com/productdevbook/port-killer",
     "lang": "Swift",
-    "desc": "Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers."
-  },
-  {
-    "createdAt": "2025-12-11T11:07:23Z",
-    "stars": 1159,
-    "name": "actionstatelabs/android-action-kernel",
-    "url": "https://github.com/actionstatelabs/android-action-kernel",
-    "lang": "Python",
-    "desc": ""
+    "desc": "Native macOS app for finding and killing processes on open ports. Perfect for developers."
   },
   {
     "createdAt": "2025-12-13T11:36:04Z",
-    "stars": 1139,
+    "stars": 1163,
     "name": "eooce/Gla-deploy",
     "url": "https://github.com/eooce/Gla-deploy",
     "lang": "JavaScript",
@@ -33,15 +25,23 @@
   },
   {
     "createdAt": "2025-12-13T00:10:36Z",
-    "stars": 797,
+    "stars": 984,
     "name": "Maxteabag/sqlit",
     "url": "https://github.com/Maxteabag/sqlit",
     "lang": "Python",
     "desc": "A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more."
   },
   {
+    "createdAt": "2025-12-16T15:47:19Z",
+    "stars": 837,
+    "name": "agentskills/agentskills",
+    "url": "https://github.com/agentskills/agentskills",
+    "lang": "Python",
+    "desc": "Specification and documentation for Agent Skills"
+  },
+  {
     "createdAt": "2025-12-12T17:41:11Z",
-    "stars": 769,
+    "stars": 779,
     "name": "tombcato/clash-ip-checker",
     "url": "https://github.com/tombcato/clash-ip-checker",
     "lang": "Python",
@@ -49,7 +49,7 @@
   },
   {
     "createdAt": "2025-12-16T09:57:01Z",
-    "stars": 707,
+    "stars": 777,
     "name": "gaearon/rscexplorer",
     "url": "https://github.com/gaearon/rscexplorer",
     "lang": "TypeScript",
@@ -57,63 +57,95 @@
   },
   {
     "createdAt": "2025-12-15T16:28:22Z",
-    "stars": 647,
+    "stars": 722,
     "name": "XiaomiMiMo/MiMo-V2-Flash",
     "url": "https://github.com/XiaomiMiMo/MiMo-V2-Flash",
     "lang": "",
     "desc": "MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model"
   },
   {
-    "createdAt": "2025-12-11T00:05:47Z",
-    "stars": 517,
-    "name": "meltylabs/chorus",
-    "url": "https://github.com/meltylabs/chorus",
-    "lang": "TypeScript",
-    "desc": "Chorus - AI chat app for Mac"
+    "createdAt": "2025-12-14T13:48:15Z",
+    "stars": 710,
+    "name": "DGoettlich/history-llms",
+    "url": "https://github.com/DGoettlich/history-llms",
+    "lang": "",
+    "desc": "Information hub for our project training the largest possible historical LLMs."
   },
   {
     "createdAt": "2025-12-15T01:46:48Z",
-    "stars": 415,
+    "stars": 439,
     "name": "FunAudioLLM/Fun-ASR",
     "url": "https://github.com/FunAudioLLM/Fun-ASR",
     "lang": "Python",
     "desc": "Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. "
   },
   {
+    "createdAt": "2025-12-17T00:10:23Z",
+    "stars": 409,
+    "name": "2025Emma/vibe-coding-cn",
+    "url": "https://github.com/2025Emma/vibe-coding-cn",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-12-12T14:56:07Z",
-    "stars": 397,
+    "stars": 399,
     "name": "eliasjudin/oai-skills",
     "url": "https://github.com/eliasjudin/oai-skills",
     "lang": "Python",
     "desc": "The contents of /home/oai/skills in ChatGPT's code interpreter environment"
   },
   {
+    "createdAt": "2025-12-12T16:58:12Z",
+    "stars": 399,
+    "name": "hezhizheng/go-wxpush",
+    "url": "https://github.com/hezhizheng/go-wxpush",
+    "lang": "Go",
+    "desc": "极简且免费的微信消息推送服务 (基于golang)"
+  },
+  {
     "createdAt": "2025-12-12T21:08:12Z",
-    "stars": 375,
+    "stars": 398,
     "name": "Gentleman-Programming/gentleman-guardian-angel",
     "url": "https://github.com/Gentleman-Programming/gentleman-guardian-angel",
     "lang": "Shell",
     "desc": "😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards."
   },
   {
-    "createdAt": "2025-12-11T20:26:42Z",
-    "stars": 360,
-    "name": "stoolap/stoolap",
-    "url": "https://github.com/stoolap/stoolap",
-    "lang": "Rust",
-    "desc": "A Modern Embedded SQL Database written in Rust"
+    "createdAt": "2025-12-16T14:54:52Z",
+    "stars": 385,
+    "name": "GuDaStudio/skills",
+    "url": "https://github.com/GuDaStudio/skills",
+    "lang": "PowerShell",
+    "desc": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools."
+  },
+  {
+    "createdAt": "2025-12-17T12:11:53Z",
+    "stars": 371,
+    "name": "KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "url": "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "lang": "",
+    "desc": "100+ LLM interview questions with answers. "
   },
   {
     "createdAt": "2025-12-13T07:06:48Z",
-    "stars": 323,
+    "stars": 351,
     "name": "Shichun-Liu/Agent-Memory-Paper-List",
     "url": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
     "lang": "",
     "desc": "The paper list of \"Memory in the Age of AI Agents: A Survey\""
   },
   {
+    "createdAt": "2025-12-15T09:13:52Z",
+    "stars": 345,
+    "name": "Dao-AILab/sonic-moe",
+    "url": "https://github.com/Dao-AILab/sonic-moe",
+    "lang": "Python",
+    "desc": "Accelerating MoE with IO and Tile-aware Optimizations"
+  },
+  {
     "createdAt": "2025-12-16T02:42:45Z",
-    "stars": 316,
+    "stars": 330,
     "name": "taetaehoho/poly-kalshi-arb",
     "url": "https://github.com/taetaehoho/poly-kalshi-arb",
     "lang": "Rust",
@@ -121,15 +153,23 @@
   },
   {
     "createdAt": "2025-12-14T17:22:24Z",
-    "stars": 305,
+    "stars": 322,
     "name": "Kruszoneq/macUSB",
     "url": "https://github.com/Kruszoneq/macUSB",
     "lang": "Swift",
     "desc": "The easiest way to create legacy macOS bootable drives on modern Macs. Revive old Intel Macs using your Apple Silicon machine - no Terminal knowledge required."
   },
   {
+    "createdAt": "2025-12-12T19:36:11Z",
+    "stars": 306,
+    "name": "fcoury/tsql",
+    "url": "https://github.com/fcoury/tsql",
+    "lang": "Rust",
+    "desc": "🐘 tsql — A modern PostgreSQL manager TUI"
+  },
+  {
     "createdAt": "2025-12-14T17:54:14Z",
-    "stars": 296,
+    "stars": 306,
     "name": "waynesutton/markdown-site",
     "url": "https://github.com/waynesutton/markdown-site",
     "lang": "TypeScript",
@@ -137,31 +177,31 @@
   },
   {
     "createdAt": "2025-12-12T23:56:01Z",
-    "stars": 289,
+    "stars": 294,
     "name": "cmontella/purrtran",
     "url": "https://github.com/cmontella/purrtran",
     "lang": "",
     "desc": "😻 It's the cat's meow! 😽 "
   },
   {
-    "createdAt": "2025-12-12T19:36:11Z",
-    "stars": 287,
-    "name": "fcoury/tsql",
-    "url": "https://github.com/fcoury/tsql",
-    "lang": "Rust",
-    "desc": "🐘 tsql — A modern PostgreSQL manager TUI"
+    "createdAt": "2025-12-15T13:40:25Z",
+    "stars": 281,
+    "name": "mmarinovic/tailwindsql",
+    "url": "https://github.com/mmarinovic/tailwindsql",
+    "lang": "TypeScript",
+    "desc": ""
   },
   {
-    "createdAt": "2025-12-16T14:54:52Z",
-    "stars": 286,
-    "name": "GuDaStudio/skills",
-    "url": "https://github.com/GuDaStudio/skills",
-    "lang": "PowerShell",
-    "desc": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools."
+    "createdAt": "2025-12-15T07:39:51Z",
+    "stars": 278,
+    "name": "aiflowy/aiflowy",
+    "url": "https://github.com/aiflowy/aiflowy",
+    "lang": "Vue",
+    "desc": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze."
   },
   {
     "createdAt": "2025-12-15T19:36:09Z",
-    "stars": 258,
+    "stars": 276,
     "name": "hyperbrowserai/hyperbooklm",
     "url": "https://github.com/hyperbrowserai/hyperbooklm",
     "lang": "TypeScript",
@@ -169,35 +209,75 @@
   },
   {
     "createdAt": "2025-12-17T08:26:18Z",
-    "stars": 235,
+    "stars": 270,
     "name": "Noumena-Network/nmoe",
     "url": "https://github.com/Noumena-Network/nmoe",
     "lang": "Python",
     "desc": "MoE training for Me and You and maybe other people "
   },
   {
-    "createdAt": "2025-12-15T11:56:42Z",
-    "stars": 224,
-    "name": "MrSibe/KnowNote",
-    "url": "https://github.com/MrSibe/KnowNote",
-    "lang": "TypeScript",
-    "desc": "一个类似于Notebook LM，以用户自有知识为中心的 AI 工作空间，帮助你思考、研究与写作。更方便，更轻量，更懂你！"
+    "createdAt": "2025-12-18T13:35:16Z",
+    "stars": 257,
+    "name": "terauss/Polymarket-Kalshi-Arbitrage-bot",
+    "url": "https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot",
+    "lang": "Rust",
+    "desc": "Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market. "
+  },
+  {
+    "createdAt": "2025-12-17T02:45:17Z",
+    "stars": 257,
+    "name": "dsphper/lanhu-mcp",
+    "url": "https://github.com/dsphper/lanhu-mcp",
+    "lang": "Python",
+    "desc": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图"
+  },
+  {
+    "createdAt": "2025-12-16T07:23:55Z",
+    "stars": 240,
+    "name": "lwj2015/lightron",
+    "url": "https://github.com/lwj2015/lightron",
+    "lang": "Python",
+    "desc": "A light implementation of megatron for research and study"
   },
   {
     "createdAt": "2025-12-16T01:07:48Z",
-    "stars": 220,
+    "stars": 233,
     "name": "xmannv/xkey",
     "url": "https://github.com/xmannv/xkey",
     "lang": "Swift",
     "desc": "Vietnamese Input for macOS - Bộ gõ Tiếng Việt mã nguồn mở cho macOS"
   },
   {
-    "createdAt": "2025-12-15T07:39:51Z",
+    "createdAt": "2025-12-15T11:56:42Z",
+    "stars": 230,
+    "name": "MrSibe/KnowNote",
+    "url": "https://github.com/MrSibe/KnowNote",
+    "lang": "TypeScript",
+    "desc": "一个类似于Notebook LM，以用户自有知识为中心的 AI 工作空间，帮助你思考、研究与写作。更方便，更轻量，更懂你！"
+  },
+  {
+    "createdAt": "2025-12-14T21:24:02Z",
+    "stars": 228,
+    "name": "jgthms/picknplace.js",
+    "url": "https://github.com/jgthms/picknplace.js",
+    "lang": "JavaScript",
+    "desc": "A proof of concept of a viable drag and drop alternative"
+  },
+  {
+    "createdAt": "2025-12-16T14:54:25Z",
     "stars": 212,
-    "name": "aiflowy/aiflowy",
-    "url": "https://github.com/aiflowy/aiflowy",
-    "lang": "Vue",
-    "desc": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze."
+    "name": "moasq/production-saas-starter",
+    "url": "https://github.com/moasq/production-saas-starter",
+    "lang": "Go",
+    "desc": "Production-ready B2B SaaS Starter Kit (Go + Next.js). Modular Monolith. Hexagonal Arch."
+  },
+  {
+    "createdAt": "2025-12-17T21:20:38Z",
+    "stars": 205,
+    "name": "AshkanYarmoradi/go-invoice-ninja",
+    "url": "https://github.com/AshkanYarmoradi/go-invoice-ninja",
+    "lang": "Go",
+    "desc": "Go SDK for Invoice Ninja API - payments, invoices, clients, webhooks with retry & rate limiting"
   },
   {
     "createdAt": "2025-12-12T13:57:31Z",
@@ -208,56 +288,88 @@
     "desc": "Flashloan Arbitrage Bot for Ethereum"
   },
   {
-    "createdAt": "2025-12-11T02:07:53Z",
-    "stars": 194,
-    "name": "YangJiiii/Disable-Call-Recording-BookRestore-",
-    "url": "https://github.com/YangJiiii/Disable-Call-Recording-BookRestore-",
-    "lang": "Python",
-    "desc": "Use the bl_sbx exploit to hide the call-recording notification sound on iOS"
-  },
-  {
-    "createdAt": "2025-12-17T02:45:17Z",
-    "stars": 184,
-    "name": "dsphper/lanhu-mcp",
-    "url": "https://github.com/dsphper/lanhu-mcp",
-    "lang": "Python",
-    "desc": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图"
-  },
-  {
     "createdAt": "2025-12-13T15:30:45Z",
-    "stars": 181,
+    "stars": 199,
     "name": "Aratako/T5Gemma-TTS",
     "url": "https://github.com/Aratako/T5Gemma-TTS",
     "lang": "Python",
     "desc": "Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM"
   },
   {
-    "createdAt": "2025-12-15T09:13:52Z",
-    "stars": 176,
-    "name": "Dao-AILab/sonic-moe",
-    "url": "https://github.com/Dao-AILab/sonic-moe",
-    "lang": "Python",
-    "desc": "Accelerating MoE with IO and Tile-aware Optimizations"
-  },
-  {
-    "createdAt": "2025-12-17T12:11:53Z",
-    "stars": 170,
-    "name": "KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
-    "url": "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
-    "lang": "",
-    "desc": "100+ LLM interview questions with answers. "
-  },
-  {
     "createdAt": "2025-12-15T11:06:31Z",
-    "stars": 167,
+    "stars": 190,
     "name": "hanebox/ekphos",
     "url": "https://github.com/hanebox/ekphos",
     "lang": "Rust",
     "desc": "A lightweight, fast, terminal-based markdown research tool inspired by Obsidian"
   },
   {
+    "createdAt": "2025-12-13T12:37:37Z",
+    "stars": 186,
+    "name": "alibaba-damo-academy/T2I-Distill",
+    "url": "https://github.com/alibaba-damo-academy/T2I-Distill",
+    "lang": "Python",
+    "desc": "[Tech Report] Few-Step Distillation for Text-to-Image Generation: A Practical Guide"
+  },
+  {
+    "createdAt": "2025-12-17T03:25:48Z",
+    "stars": 183,
+    "name": "gemini-cli-extensions/conductor",
+    "url": "https://github.com/gemini-cli-extensions/conductor",
+    "lang": "",
+    "desc": "Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features."
+  },
+  {
+    "createdAt": "2025-12-15T17:26:58Z",
+    "stars": 181,
+    "name": "superstarryeyes/hys",
+    "url": "https://github.com/superstarryeyes/hys",
+    "lang": "Zig",
+    "desc": "Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll"
+  },
+  {
+    "createdAt": "2025-12-18T16:57:53Z",
+    "stars": 179,
+    "name": "sebastienros/comptime",
+    "url": "https://github.com/sebastienros/comptime",
+    "lang": "C#",
+    "desc": "Comptime brings meta-programming capabilities to C#, enabling compile-time code generation and evaluation."
+  },
+  {
+    "createdAt": "2025-12-12T00:56:53Z",
+    "stars": 175,
+    "name": "VibiumDev/vibium",
+    "url": "https://github.com/VibiumDev/vibium",
+    "lang": "Go",
+    "desc": "Browser automation for AI agents and humans"
+  },
+  {
+    "createdAt": "2025-12-14T17:16:47Z",
+    "stars": 174,
+    "name": "kijai/ComfyUI-SCAIL-Pose",
+    "url": "https://github.com/kijai/ComfyUI-SCAIL-Pose",
+    "lang": "Python",
+    "desc": "ComfyUI nodes for SCAIL-Pose preprocessing"
+  },
+  {
+    "createdAt": "2025-12-16T08:55:47Z",
+    "stars": 174,
+    "name": "inclusionAI/AEnvironment",
+    "url": "https://github.com/inclusionAI/AEnvironment",
+    "lang": "Python",
+    "desc": "Standardized environment infrastructure for Agentic AI development."
+  },
+  {
+    "createdAt": "2025-12-14T16:56:03Z",
+    "stars": 170,
+    "name": "curionox/lifekline",
+    "url": "https://github.com/curionox/lifekline",
+    "lang": "",
+    "desc": "人生K线 - 基于AI的八字命理可视化工具"
+  },
+  {
     "createdAt": "2025-12-13T20:17:14Z",
-    "stars": 166,
+    "stars": 168,
     "name": "NotAnyoneMe/ProxyChecker",
     "url": "https://github.com/NotAnyoneMe/ProxyChecker",
     "lang": "Python",
@@ -265,138 +377,26 @@
   },
   {
     "createdAt": "2025-12-13T22:43:13Z",
-    "stars": 166,
+    "stars": 167,
     "name": "BesianSherifaj-AI/PromptCraft",
     "url": "https://github.com/BesianSherifaj-AI/PromptCraft",
     "lang": "JavaScript",
     "desc": "An AI image gen prompt manager !"
   },
   {
-    "createdAt": "2025-12-14T16:56:03Z",
-    "stars": 166,
-    "name": "curionox/lifekline",
-    "url": "https://github.com/curionox/lifekline",
-    "lang": "",
-    "desc": "人生K线 - 基于AI的八字命理可视化工具"
-  },
-  {
-    "createdAt": "2025-12-11T10:32:23Z",
-    "stars": 163,
-    "name": "MiniMax-AI/VTP",
-    "url": "https://github.com/MiniMax-AI/VTP",
-    "lang": "Python",
-    "desc": "Towards Scalable Pre-training of Visual Tokenizers for Generation"
-  },
-  {
-    "createdAt": "2025-12-14T17:16:47Z",
-    "stars": 161,
-    "name": "kijai/ComfyUI-SCAIL-Pose",
-    "url": "https://github.com/kijai/ComfyUI-SCAIL-Pose",
-    "lang": "Python",
-    "desc": "ComfyUI nodes for SCAIL-Pose preprocessing"
-  },
-  {
-    "createdAt": "2025-12-11T15:36:51Z",
-    "stars": 156,
-    "name": "inclusionAI/LLaDA2.0",
-    "url": "https://github.com/inclusionAI/LLaDA2.0",
-    "lang": "",
-    "desc": "LLaDA2.0 is the diffusion language model series developed by InclusionAI team, Ant Group."
-  },
-  {
-    "createdAt": "2025-12-13T12:37:37Z",
-    "stars": 154,
-    "name": "alibaba-damo-academy/T2I-Distill",
-    "url": "https://github.com/alibaba-damo-academy/T2I-Distill",
-    "lang": "Python",
-    "desc": "[Tech Report] Few-Step Distillation for Text-to-Image Generation: A Practical Guide"
+    "createdAt": "2025-12-15T18:32:58Z",
+    "stars": 152,
+    "name": "Minerchu/dongguaTV",
+    "url": "https://github.com/Minerchu/dongguaTV",
+    "lang": "HTML",
+    "desc": "冬瓜TV —— 打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放"
   },
   {
     "createdAt": "2025-12-12T02:38:13Z",
-    "stars": 150,
+    "stars": 151,
     "name": "lb-li/WinIsland",
     "url": "https://github.com/lb-li/WinIsland",
     "lang": "C#",
     "desc": ""
-  },
-  {
-    "createdAt": "2025-12-15T17:26:58Z",
-    "stars": 149,
-    "name": "superstarryeyes/hys",
-    "url": "https://github.com/superstarryeyes/hys",
-    "lang": "Zig",
-    "desc": "Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll"
-  },
-  {
-    "createdAt": "2025-12-11T07:47:32Z",
-    "stars": 146,
-    "name": "zai-org/RealVideo",
-    "url": "https://github.com/zai-org/RealVideo",
-    "lang": "Python",
-    "desc": "A real-time streaming conversational video system that transforms text interactions into continuous, high-fidelity video responses using autoregressive diffusion. "
-  },
-  {
-    "createdAt": "2025-12-12T14:35:40Z",
-    "stars": 145,
-    "name": "josejacas/SwiftAnimPlayground",
-    "url": "https://github.com/josejacas/SwiftAnimPlayground",
-    "lang": "Swift",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-16T11:37:33Z",
-    "stars": 143,
-    "name": "nexxeln/opencode-config",
-    "url": "https://github.com/nexxeln/opencode-config",
-    "lang": "TypeScript",
-    "desc": "my opencode config"
-  },
-  {
-    "createdAt": "2025-12-11T14:31:35Z",
-    "stars": 142,
-    "name": "dh374374/ChaiChaiEmbyTV",
-    "url": "https://github.com/dh374374/ChaiChaiEmbyTV",
-    "lang": "",
-    "desc": "Emby Android TV 客户端"
-  },
-  {
-    "createdAt": "2025-12-12T00:56:53Z",
-    "stars": 142,
-    "name": "VibiumDev/vibium",
-    "url": "https://github.com/VibiumDev/vibium",
-    "lang": "Go",
-    "desc": "Browser automation for AI agents and humans"
-  },
-  {
-    "createdAt": "2025-12-18T13:35:16Z",
-    "stars": 141,
-    "name": "terauss/Polymarket-Kalshi-Arbitrage-bot",
-    "url": "https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot",
-    "lang": "Rust",
-    "desc": "Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market. "
-  },
-  {
-    "createdAt": "2025-12-11T03:56:51Z",
-    "stars": 138,
-    "name": "LeoChen-CoreMind/UDX710-TOOLS",
-    "url": "https://github.com/LeoChen-CoreMind/UDX710-TOOLS",
-    "lang": "HTML",
-    "desc": "UDX710-UOOLS"
-  },
-  {
-    "createdAt": "2025-12-12T05:54:59Z",
-    "stars": 135,
-    "name": "Ami3466/tomcp",
-    "url": "https://github.com/Ami3466/tomcp",
-    "lang": "HTML",
-    "desc": "Turn any website or doc into an MCP server"
-  },
-  {
-    "createdAt": "2025-12-14T16:11:38Z",
-    "stars": 133,
-    "name": "samwho/llmwalk",
-    "url": "https://github.com/samwho/llmwalk",
-    "lang": "Python",
-    "desc": "Explore the answer-space of open LLMs"
   }
 ]
