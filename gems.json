@@ -1,55 +1,39 @@
 [
   {
-    "createdAt": "2025-12-16T01:44:50Z",
-    "stars": 2293,
-    "name": "productdevbook/port-killer",
-    "url": "https://github.com/productdevbook/port-killer",
-    "lang": "Swift",
-    "desc": "Native macOS app for finding and killing processes on open ports. Perfect for developers."
-  },
-  {
     "createdAt": "2025-12-16T15:47:19Z",
-    "stars": 1520,
+    "stars": 2387,
     "name": "agentskills/agentskills",
     "url": "https://github.com/agentskills/agentskills",
     "lang": "Python",
     "desc": "Specification and documentation for Agent Skills"
   },
   {
-    "createdAt": "2025-12-13T11:36:04Z",
-    "stars": 1194,
-    "name": "eooce/Gla-deploy",
-    "url": "https://github.com/eooce/Gla-deploy",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-13T00:10:36Z",
-    "stars": 1125,
-    "name": "Maxteabag/sqlit",
-    "url": "https://github.com/Maxteabag/sqlit",
-    "lang": "Python",
-    "desc": "A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more."
-  },
-  {
-    "createdAt": "2025-12-14T13:48:15Z",
-    "stars": 899,
-    "name": "DGoettlich/history-llms",
-    "url": "https://github.com/DGoettlich/history-llms",
-    "lang": "",
-    "desc": "Information hub for our project training the largest possible historical LLMs."
+    "createdAt": "2025-12-16T01:44:50Z",
+    "stars": 2349,
+    "name": "productdevbook/port-killer",
+    "url": "https://github.com/productdevbook/port-killer",
+    "lang": "Swift",
+    "desc": "Native macOS app for finding and killing processes on open ports. Perfect for developers."
   },
   {
     "createdAt": "2025-12-17T00:10:23Z",
-    "stars": 837,
+    "stars": 1071,
     "name": "2025Emma/vibe-coding-cn",
     "url": "https://github.com/2025Emma/vibe-coding-cn",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2025-12-14T13:48:15Z",
+    "stars": 1010,
+    "name": "DGoettlich/history-llms",
+    "url": "https://github.com/DGoettlich/history-llms",
+    "lang": "",
+    "desc": "Information hub for our project training the largest possible historical LLMs."
+  },
+  {
     "createdAt": "2025-12-16T09:57:01Z",
-    "stars": 803,
+    "stars": 824,
     "name": "gaearon/rscexplorer",
     "url": "https://github.com/gaearon/rscexplorer",
     "lang": "TypeScript",
@@ -57,7 +41,7 @@
   },
   {
     "createdAt": "2025-12-15T16:28:22Z",
-    "stars": 745,
+    "stars": 776,
     "name": "XiaomiMiMo/MiMo-V2-Flash",
     "url": "https://github.com/XiaomiMiMo/MiMo-V2-Flash",
     "lang": "",
@@ -65,167 +49,167 @@
   },
   {
     "createdAt": "2025-12-15T13:40:25Z",
-    "stars": 492,
+    "stars": 635,
     "name": "mmarinovic/tailwindsql",
     "url": "https://github.com/mmarinovic/tailwindsql",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-17T12:11:53Z",
-    "stars": 453,
-    "name": "KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
-    "url": "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
-    "lang": "",
-    "desc": "100+ LLM interview questions with answers. "
-  },
-  {
-    "createdAt": "2025-12-16T14:54:52Z",
-    "stars": 452,
-    "name": "GuDaStudio/skills",
-    "url": "https://github.com/GuDaStudio/skills",
-    "lang": "PowerShell",
-    "desc": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools."
-  },
-  {
-    "createdAt": "2025-12-15T01:46:48Z",
-    "stars": 448,
-    "name": "FunAudioLLM/Fun-ASR",
-    "url": "https://github.com/FunAudioLLM/Fun-ASR",
-    "lang": "Python",
-    "desc": "Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. "
-  },
-  {
-    "createdAt": "2025-12-18T18:47:20Z",
-    "stars": 438,
-    "name": "Lulzx/tinypdf",
-    "url": "https://github.com/Lulzx/tinypdf",
-    "lang": "TypeScript",
-    "desc": "Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs."
-  },
-  {
-    "createdAt": "2025-12-13T17:23:15Z",
-    "stars": 396,
-    "name": "aiclientproxy/proxycast",
-    "url": "https://github.com/aiclientproxy/proxycast",
-    "lang": "Rust",
-    "desc": "让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。"
-  },
-  {
-    "createdAt": "2025-12-15T09:13:52Z",
-    "stars": 376,
-    "name": "Dao-AILab/sonic-moe",
-    "url": "https://github.com/Dao-AILab/sonic-moe",
-    "lang": "Python",
-    "desc": "Accelerating MoE with IO and Tile-aware Optimizations"
-  },
-  {
-    "createdAt": "2025-12-13T07:06:48Z",
-    "stars": 376,
-    "name": "Shichun-Liu/Agent-Memory-Paper-List",
-    "url": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
-    "lang": "",
-    "desc": "The paper list of \"Memory in the Age of AI Agents: A Survey\""
-  },
-  {
-    "createdAt": "2025-12-16T07:23:55Z",
-    "stars": 373,
-    "name": "lwj2015/lightron",
-    "url": "https://github.com/lwj2015/lightron",
-    "lang": "Python",
-    "desc": "A light implementation of megatron for research and study"
-  },
-  {
-    "createdAt": "2025-12-17T03:25:48Z",
-    "stars": 346,
-    "name": "gemini-cli-extensions/conductor",
-    "url": "https://github.com/gemini-cli-extensions/conductor",
-    "lang": "",
-    "desc": "Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features."
-  },
-  {
-    "createdAt": "2025-12-18T08:54:50Z",
-    "stars": 344,
-    "name": "QwenLM/Qwen-Image-Layered",
-    "url": "https://github.com/QwenLM/Qwen-Image-Layered",
-    "lang": "Python",
-    "desc": "Qwen-Image-Layered: Layered Decomposition for Inherent Editablity"
-  },
-  {
-    "createdAt": "2025-12-18T13:35:16Z",
-    "stars": 342,
-    "name": "terauss/Polymarket-Kalshi-Arbitrage-bot",
-    "url": "https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot",
-    "lang": "Rust",
-    "desc": "Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market. "
-  },
-  {
-    "createdAt": "2025-12-16T02:42:45Z",
-    "stars": 336,
-    "name": "taetaehoho/poly-kalshi-arb",
-    "url": "https://github.com/taetaehoho/poly-kalshi-arb",
-    "lang": "Rust",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-16T14:54:25Z",
-    "stars": 332,
-    "name": "moasq/production-saas-starter",
-    "url": "https://github.com/moasq/production-saas-starter",
-    "lang": "Go",
-    "desc": "Production-ready B2B SaaS Starter Kit (Go + Next.js). Modular Monolith. Hexagonal Arch."
-  },
-  {
-    "createdAt": "2025-12-14T17:22:24Z",
-    "stars": 329,
-    "name": "Kruszoneq/macUSB",
-    "url": "https://github.com/Kruszoneq/macUSB",
-    "lang": "Swift",
-    "desc": "The easiest way to create legacy macOS bootable drives on modern Macs. Revive old Intel Macs using your Apple Silicon machine - no Terminal knowledge required."
-  },
-  {
-    "createdAt": "2025-12-19T20:44:03Z",
-    "stars": 323,
-    "name": "sOLarFLaMEPyL/Arbitrage_Mev_BOT",
-    "url": "https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT",
-    "lang": "Solidity",
-    "desc": "Basically, contract for MEV: takes flash loans, runs arbitrage between DEXes, does liquidations. Everything is ready, deploy and use."
-  },
-  {
-    "createdAt": "2025-12-15T07:39:51Z",
-    "stars": 322,
-    "name": "aiflowy/aiflowy",
-    "url": "https://github.com/aiflowy/aiflowy",
-    "lang": "Vue",
-    "desc": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze."
-  },
-  {
     "createdAt": "2025-12-19T12:06:10Z",
-    "stars": 316,
+    "stars": 630,
     "name": "journey-ad/gemini-watermark-remover",
     "url": "https://github.com/journey-ad/gemini-watermark-remover",
     "lang": "JavaScript",
     "desc": "A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法"
   },
   {
-    "createdAt": "2025-12-14T17:54:14Z",
-    "stars": 313,
-    "name": "waynesutton/markdown-site",
-    "url": "https://github.com/waynesutton/markdown-site",
+    "createdAt": "2025-12-18T18:47:20Z",
+    "stars": 539,
+    "name": "Lulzx/tinypdf",
+    "url": "https://github.com/Lulzx/tinypdf",
     "lang": "TypeScript",
-    "desc": "An open-source markdown sync site for developers and AI agents. Publish from the terminal with npm run sync. Write locally, sync instantly with real-time updates. Powered by Convex and Netlify."
+    "desc": "Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs."
+  },
+  {
+    "createdAt": "2025-12-16T14:54:52Z",
+    "stars": 490,
+    "name": "GuDaStudio/skills",
+    "url": "https://github.com/GuDaStudio/skills",
+    "lang": "PowerShell",
+    "desc": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools."
+  },
+  {
+    "createdAt": "2025-12-16T07:23:55Z",
+    "stars": 487,
+    "name": "lwj2015/lightron",
+    "url": "https://github.com/lwj2015/lightron",
+    "lang": "Python",
+    "desc": "A light implementation of megatron for research and study"
+  },
+  {
+    "createdAt": "2025-12-17T12:11:53Z",
+    "stars": 480,
+    "name": "KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "url": "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
+    "lang": "",
+    "desc": "100+ LLM interview questions with answers. "
+  },
+  {
+    "createdAt": "2025-12-18T08:54:50Z",
+    "stars": 473,
+    "name": "QwenLM/Qwen-Image-Layered",
+    "url": "https://github.com/QwenLM/Qwen-Image-Layered",
+    "lang": "Python",
+    "desc": "Qwen-Image-Layered: Layered Decomposition for Inherent Editablity"
+  },
+  {
+    "createdAt": "2025-12-17T17:03:47Z",
+    "stars": 471,
+    "name": "MineDojo/NitroGen",
+    "url": "https://github.com/MineDojo/NitroGen",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-17T03:25:48Z",
+    "stars": 465,
+    "name": "gemini-cli-extensions/conductor",
+    "url": "https://github.com/gemini-cli-extensions/conductor",
+    "lang": "",
+    "desc": "Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features."
+  },
+  {
+    "createdAt": "2025-12-15T01:46:48Z",
+    "stars": 455,
+    "name": "FunAudioLLM/Fun-ASR",
+    "url": "https://github.com/FunAudioLLM/Fun-ASR",
+    "lang": "Python",
+    "desc": "Fun-ASR is an end-to-end speech recognition large model launched by Tongyi Lab. "
+  },
+  {
+    "createdAt": "2025-12-15T09:13:52Z",
+    "stars": 401,
+    "name": "Dao-AILab/sonic-moe",
+    "url": "https://github.com/Dao-AILab/sonic-moe",
+    "lang": "Python",
+    "desc": "Accelerating MoE with IO and Tile-aware Optimizations"
+  },
+  {
+    "createdAt": "2025-12-19T23:12:38Z",
+    "stars": 388,
+    "name": "RhysSullivan/epstein-files-browser",
+    "url": "https://github.com/RhysSullivan/epstein-files-browser",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-19T20:44:03Z",
+    "stars": 372,
+    "name": "sOLarFLaMEPyL/Arbitrage_Mev_BOT",
+    "url": "https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT",
+    "lang": "Solidity",
+    "desc": "Basically, contract for MEV: takes flash loans, runs arbitrage between DEXes, does liquidations. Everything is ready, deploy and use."
+  },
+  {
+    "createdAt": "2025-12-18T13:35:16Z",
+    "stars": 370,
+    "name": "terauss/Polymarket-Kalshi-Arbitrage-bot",
+    "url": "https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot",
+    "lang": "Rust",
+    "desc": "Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market. "
+  },
+  {
+    "createdAt": "2025-12-16T14:54:25Z",
+    "stars": 369,
+    "name": "moasq/production-saas-starter",
+    "url": "https://github.com/moasq/production-saas-starter",
+    "lang": "Go",
+    "desc": "Production-ready B2B SaaS Starter Kit (Go + Next.js). Modular Monolith. Hexagonal Arch."
+  },
+  {
+    "createdAt": "2025-12-16T02:42:45Z",
+    "stars": 344,
+    "name": "taetaehoho/poly-kalshi-arb",
+    "url": "https://github.com/taetaehoho/poly-kalshi-arb",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-14T17:22:24Z",
+    "stars": 334,
+    "name": "Kruszoneq/macUSB",
+    "url": "https://github.com/Kruszoneq/macUSB",
+    "lang": "Swift",
+    "desc": "The easiest way to create legacy macOS bootable drives on modern Macs. Revive old Intel Macs using your Apple Silicon machine - no Terminal knowledge required."
   },
   {
     "createdAt": "2025-12-15T18:32:58Z",
-    "stars": 293,
+    "stars": 333,
     "name": "Minerchu/dongguaTV",
     "url": "https://github.com/Minerchu/dongguaTV",
     "lang": "HTML",
     "desc": "冬瓜TV —— 打造你的私人 Netflix！TMDb 智能刮削 + 全网聚合 + 极速播放"
   },
   {
+    "createdAt": "2025-12-15T07:39:51Z",
+    "stars": 328,
+    "name": "aiflowy/aiflowy",
+    "url": "https://github.com/aiflowy/aiflowy",
+    "lang": "Vue",
+    "desc": "AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze."
+  },
+  {
+    "createdAt": "2025-12-14T17:54:14Z",
+    "stars": 324,
+    "name": "waynesutton/markdown-site",
+    "url": "https://github.com/waynesutton/markdown-site",
+    "lang": "TypeScript",
+    "desc": "An open-source publishing framework for AI agents and developers. Write markdown, sync from the terminal. Your content is instantly available to browsers, LLMs, and AI agents. Built on Convex and Netlify."
+  },
+  {
     "createdAt": "2025-12-15T19:36:09Z",
-    "stars": 290,
+    "stars": 297,
     "name": "hyperbrowserai/hyperbooklm",
     "url": "https://github.com/hyperbrowserai/hyperbooklm",
     "lang": "TypeScript",
@@ -233,67 +217,83 @@
   },
   {
     "createdAt": "2025-12-17T02:45:17Z",
-    "stars": 284,
+    "stars": 289,
     "name": "dsphper/lanhu-mcp",
     "url": "https://github.com/dsphper/lanhu-mcp",
     "lang": "Python",
     "desc": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图"
   },
   {
+    "createdAt": "2025-12-19T04:24:32Z",
+    "stars": 287,
+    "name": "yeahhe365/gemini-nexus",
+    "url": "https://github.com/yeahhe365/gemini-nexus",
+    "lang": "JavaScript",
+    "desc": "A powerful browser extension that integrates Google Gemini AI directly into your web experience. Features include sidebar chat, OCR text extraction, area sniping, and conversation history."
+  },
+  {
     "createdAt": "2025-12-17T08:26:18Z",
-    "stars": 281,
+    "stars": 286,
     "name": "Noumena-Network/nmoe",
     "url": "https://github.com/Noumena-Network/nmoe",
     "lang": "Python",
     "desc": "MoE training for Me and You and maybe other people "
   },
   {
-    "createdAt": "2025-12-14T21:24:02Z",
-    "stars": 257,
-    "name": "jgthms/picknplace.js",
-    "url": "https://github.com/jgthms/picknplace.js",
-    "lang": "JavaScript",
-    "desc": "A proof of concept of a viable drag and drop alternative"
+    "createdAt": "2025-12-15T11:06:31Z",
+    "stars": 285,
+    "name": "hanebox/ekphos",
+    "url": "https://github.com/hanebox/ekphos",
+    "lang": "Rust",
+    "desc": "A lightweight, fast, terminal-based markdown research tool inspired by Obsidian"
   },
   {
     "createdAt": "2025-12-18T16:57:53Z",
-    "stars": 249,
+    "stars": 279,
     "name": "sebastienros/comptime",
     "url": "https://github.com/sebastienros/comptime",
     "lang": "C#",
     "desc": "Comptime brings meta-programming capabilities to C#, enabling compile-time code generation and evaluation."
   },
   {
-    "createdAt": "2025-12-17T17:03:47Z",
-    "stars": 249,
-    "name": "MineDojo/NitroGen",
-    "url": "https://github.com/MineDojo/NitroGen",
-    "lang": "Python",
-    "desc": ""
+    "createdAt": "2025-12-14T21:24:02Z",
+    "stars": 275,
+    "name": "jgthms/picknplace.js",
+    "url": "https://github.com/jgthms/picknplace.js",
+    "lang": "JavaScript",
+    "desc": "A proof of concept of a viable drag and drop alternative"
+  },
+  {
+    "createdAt": "2025-12-16T01:07:48Z",
+    "stars": 242,
+    "name": "xmannv/xkey",
+    "url": "https://github.com/xmannv/xkey",
+    "lang": "Swift",
+    "desc": "Vietnamese Input for macOS - Bộ gõ Tiếng Việt mã nguồn mở cho macOS"
   },
   {
     "createdAt": "2025-12-15T11:56:42Z",
-    "stars": 237,
+    "stars": 240,
     "name": "MrSibe/KnowNote",
     "url": "https://github.com/MrSibe/KnowNote",
     "lang": "TypeScript",
     "desc": "一个类似于Notebook LM，以用户自有知识为中心的 AI 工作空间，帮助你思考、研究与写作。更方便，更轻量，更懂你！"
   },
   {
-    "createdAt": "2025-12-19T23:12:38Z",
-    "stars": 236,
-    "name": "RhysSullivan/epstein-files-browser",
-    "url": "https://github.com/RhysSullivan/epstein-files-browser",
-    "lang": "TypeScript",
-    "desc": ""
+    "createdAt": "2025-12-18T15:15:33Z",
+    "stars": 233,
+    "name": "AIM-Intelligence/video2robot",
+    "url": "https://github.com/AIM-Intelligence/video2robot",
+    "lang": "Python",
+    "desc": "End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot motions"
   },
   {
-    "createdAt": "2025-12-16T01:07:48Z",
-    "stars": 234,
-    "name": "xmannv/xkey",
-    "url": "https://github.com/xmannv/xkey",
-    "lang": "Swift",
-    "desc": "Vietnamese Input for macOS - Bộ gõ Tiếng Việt mã nguồn mở cho macOS"
+    "createdAt": "2025-12-17T11:42:11Z",
+    "stars": 226,
+    "name": "marckohlbrugge/unofficial-37signals-coding-style-guide",
+    "url": "https://github.com/marckohlbrugge/unofficial-37signals-coding-style-guide",
+    "lang": "",
+    "desc": "Transferable Rails patterns and development philosophy extracted from 37signals' Fizzy codebase"
   },
   {
     "createdAt": "2025-12-17T21:20:38Z",
@@ -304,64 +304,40 @@
     "desc": "Go SDK for Invoice Ninja API - payments, invoices, clients, webhooks with retry & rate limiting"
   },
   {
-    "createdAt": "2025-12-13T15:30:45Z",
-    "stars": 204,
-    "name": "Aratako/T5Gemma-TTS",
-    "url": "https://github.com/Aratako/T5Gemma-TTS",
-    "lang": "Python",
-    "desc": "Multilingual TTS model with voice cloning and duration control, based on T5Gemma encoder-decoder LLM"
-  },
-  {
-    "createdAt": "2025-12-19T04:24:32Z",
-    "stars": 203,
-    "name": "yeahhe365/gemini-nexus",
-    "url": "https://github.com/yeahhe365/gemini-nexus",
-    "lang": "JavaScript",
-    "desc": "A powerful browser extension that integrates Google Gemini AI directly into your web experience. Features include sidebar chat, OCR text extraction, area sniping, and conversation history."
-  },
-  {
-    "createdAt": "2025-12-15T11:06:31Z",
-    "stars": 200,
-    "name": "hanebox/ekphos",
-    "url": "https://github.com/hanebox/ekphos",
-    "lang": "Rust",
-    "desc": "A lightweight, fast, terminal-based markdown research tool inspired by Obsidian"
-  },
-  {
-    "createdAt": "2025-12-13T12:37:37Z",
-    "stars": 200,
-    "name": "alibaba-damo-academy/T2I-Distill",
-    "url": "https://github.com/alibaba-damo-academy/T2I-Distill",
-    "lang": "Python",
-    "desc": "[Tech Report] Few-Step Distillation for Text-to-Image Generation: A Practical Guide"
-  },
-  {
     "createdAt": "2025-12-15T17:26:58Z",
-    "stars": 192,
+    "stars": 203,
     "name": "superstarryeyes/hys",
     "url": "https://github.com/superstarryeyes/hys",
     "lang": "Zig",
     "desc": "Terminal RSS Reader for Digital Minimalists in Zig — Tool for Escaping the Doomscroll"
   },
   {
-    "createdAt": "2025-12-17T11:42:11Z",
-    "stars": 184,
-    "name": "marckohlbrugge/unofficial-37signals-coding-style-guide",
-    "url": "https://github.com/marckohlbrugge/unofficial-37signals-coding-style-guide",
-    "lang": "",
-    "desc": "Transferable Rails patterns and development philosophy extracted from 37signals' Fizzy codebase"
+    "createdAt": "2025-12-16T19:40:19Z",
+    "stars": 200,
+    "name": "buildermethods/design-os",
+    "url": "https://github.com/buildermethods/design-os",
+    "lang": "TypeScript",
+    "desc": "The missing design process between your product idea and your codebase."
   },
   {
     "createdAt": "2025-12-16T08:55:47Z",
-    "stars": 181,
+    "stars": 192,
     "name": "inclusionAI/AEnvironment",
     "url": "https://github.com/inclusionAI/AEnvironment",
     "lang": "Python",
     "desc": "Standardized environment infrastructure for Agentic AI development."
   },
   {
+    "createdAt": "2025-12-17T23:12:39Z",
+    "stars": 190,
+    "name": "ysharma3501/MiraTTS",
+    "url": "https://github.com/ysharma3501/MiraTTS",
+    "lang": "Python",
+    "desc": "A high quality and fast TTS repository"
+  },
+  {
     "createdAt": "2025-12-14T17:16:47Z",
-    "stars": 180,
+    "stars": 185,
     "name": "kijai/ComfyUI-SCAIL-Pose",
     "url": "https://github.com/kijai/ComfyUI-SCAIL-Pose",
     "lang": "Python",
@@ -369,34 +345,58 @@
   },
   {
     "createdAt": "2025-12-14T16:56:03Z",
-    "stars": 175,
+    "stars": 180,
     "name": "curionox/lifekline",
     "url": "https://github.com/curionox/lifekline",
     "lang": "",
     "desc": "人生K线 - 基于AI的八字命理可视化工具"
   },
   {
-    "createdAt": "2025-12-13T22:43:13Z",
-    "stars": 169,
-    "name": "BesianSherifaj-AI/PromptCraft",
-    "url": "https://github.com/BesianSherifaj-AI/PromptCraft",
-    "lang": "JavaScript",
-    "desc": "An AI image gen prompt manager !"
-  },
-  {
-    "createdAt": "2025-12-13T20:17:14Z",
-    "stars": 168,
-    "name": "NotAnyoneMe/ProxyChecker",
-    "url": "https://github.com/NotAnyoneMe/ProxyChecker",
+    "createdAt": "2025-12-17T20:31:30Z",
+    "stars": 176,
+    "name": "skillcreatorai/Ai-Agent-Skills",
+    "url": "https://github.com/skillcreatorai/Ai-Agent-Skills",
     "lang": "Python",
-    "desc": "HTTP, SOCKS4, SOCKS5 proxies checker with gui style"
+    "desc": "Homebrew for AI agent skills."
   },
   {
-    "createdAt": "2025-12-16T19:40:19Z",
-    "stars": 164,
-    "name": "buildermethods/design-os",
-    "url": "https://github.com/buildermethods/design-os",
+    "createdAt": "2025-12-15T15:44:57Z",
+    "stars": 170,
+    "name": "aicodeking/yt-tutorial",
+    "url": "https://github.com/aicodeking/yt-tutorial",
+    "lang": "",
+    "desc": "Tutorial Assets"
+  },
+  {
+    "createdAt": "2025-12-18T23:38:31Z",
+    "stars": 162,
+    "name": "jgarzik/hk",
+    "url": "https://github.com/jgarzik/hk",
+    "lang": "Rust",
+    "desc": "A modern, Linux compatible OS kernel"
+  },
+  {
+    "createdAt": "2025-12-17T01:37:53Z",
+    "stars": 158,
+    "name": "EdNovas/dongguaTV",
+    "url": "https://github.com/EdNovas/dongguaTV",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-18T12:17:55Z",
+    "stars": 153,
+    "name": "mdsaban/universal-app-opener",
+    "url": "https://github.com/mdsaban/universal-app-opener",
     "lang": "TypeScript",
-    "desc": "The missing design process between your product idea and your codebase."
+    "desc": "A zero-dependency JavaScript library that converts standard HTTP URLs (YouTube, LinkedIn) into Native Mobile Deep Links (Custom Schemes & Android Intents)."
+  },
+  {
+    "createdAt": "2025-12-17T08:49:07Z",
+    "stars": 153,
+    "name": "PanSalut/Koffan",
+    "url": "https://github.com/PanSalut/Koffan",
+    "lang": "JavaScript",
+    "desc": "Free selfhosted groceries list for families and shared households"
   }
 ]
