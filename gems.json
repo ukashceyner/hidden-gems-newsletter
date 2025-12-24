@@ -1,23 +1,15 @@
 [
   {
-    "createdAt": "2025-12-16T15:47:19Z",
-    "stars": 3374,
-    "name": "agentskills/agentskills",
-    "url": "https://github.com/agentskills/agentskills",
-    "lang": "Python",
-    "desc": "Specification and documentation for Agent Skills"
-  },
-  {
-    "createdAt": "2025-12-16T01:44:50Z",
-    "stars": 2449,
-    "name": "productdevbook/port-killer",
-    "url": "https://github.com/productdevbook/port-killer",
-    "lang": "Swift",
-    "desc": "Native macOS app for finding and killing processes on open ports. Perfect for developers."
+    "createdAt": "2025-12-22T14:20:32Z",
+    "stars": 2668,
+    "name": "bellard/mquickjs",
+    "url": "https://github.com/bellard/mquickjs",
+    "lang": "C",
+    "desc": "Public repository of the Micro QuickJS Javascript Engine"
   },
   {
     "createdAt": "2025-12-17T00:10:23Z",
-    "stars": 1822,
+    "stars": 2071,
     "name": "2025Emma/vibe-coding-cn",
     "url": "https://github.com/2025Emma/vibe-coding-cn",
     "lang": "Python",
@@ -25,7 +17,7 @@
   },
   {
     "createdAt": "2025-12-21T02:43:42Z",
-    "stars": 1065,
+    "stars": 1510,
     "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
     "lang": "Python",
@@ -33,39 +25,23 @@
   },
   {
     "createdAt": "2025-12-19T12:06:10Z",
-    "stars": 1025,
+    "stars": 1100,
     "name": "journey-ad/gemini-watermark-remover",
     "url": "https://github.com/journey-ad/gemini-watermark-remover",
     "lang": "JavaScript",
     "desc": "A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法"
   },
   {
-    "createdAt": "2025-12-22T14:20:32Z",
-    "stars": 943,
-    "name": "bellard/mquickjs",
-    "url": "https://github.com/bellard/mquickjs",
-    "lang": "C",
-    "desc": "Public repository of the Micro QuickJS Javascript Engine"
-  },
-  {
     "createdAt": "2025-12-18T18:47:20Z",
-    "stars": 941,
+    "stars": 983,
     "name": "Lulzx/tinypdf",
     "url": "https://github.com/Lulzx/tinypdf",
     "lang": "TypeScript",
     "desc": "Minimal PDF creation library. <400 LOC, zero dependencies, makes real PDFs."
   },
   {
-    "createdAt": "2025-12-16T09:57:01Z",
-    "stars": 859,
-    "name": "gaearon/rscexplorer",
-    "url": "https://github.com/gaearon/rscexplorer",
-    "lang": "TypeScript",
-    "desc": "A tool for people curious about the React Server Components protocol"
-  },
-  {
     "createdAt": "2025-12-18T08:54:50Z",
-    "stars": 840,
+    "stars": 935,
     "name": "QwenLM/Qwen-Image-Layered",
     "url": "https://github.com/QwenLM/Qwen-Image-Layered",
     "lang": "Python",
@@ -73,7 +49,7 @@
   },
   {
     "createdAt": "2025-12-17T17:03:47Z",
-    "stars": 811,
+    "stars": 900,
     "name": "MineDojo/NitroGen",
     "url": "https://github.com/MineDojo/NitroGen",
     "lang": "Python",
@@ -81,31 +57,15 @@
   },
   {
     "createdAt": "2025-12-17T03:25:48Z",
-    "stars": 761,
+    "stars": 847,
     "name": "gemini-cli-extensions/conductor",
     "url": "https://github.com/gemini-cli-extensions/conductor",
     "lang": "",
     "desc": "Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features."
   },
   {
-    "createdAt": "2025-12-16T07:23:55Z",
-    "stars": 717,
-    "name": "lwj2015/lightron",
-    "url": "https://github.com/lwj2015/lightron",
-    "lang": "Python",
-    "desc": "A light implementation of megatron for research and study"
-  },
-  {
-    "createdAt": "2025-12-16T14:54:52Z",
-    "stars": 601,
-    "name": "GuDaStudio/skills",
-    "url": "https://github.com/GuDaStudio/skills",
-    "lang": "PowerShell",
-    "desc": "This repository contains a collection of Agent Skills developed by GudaStudio, enabling seamless collaboration between Claude and other AI models and tools."
-  },
-  {
     "createdAt": "2025-12-19T04:24:32Z",
-    "stars": 576,
+    "stars": 620,
     "name": "yeahhe365/gemini-nexus",
     "url": "https://github.com/yeahhe365/gemini-nexus",
     "lang": "JavaScript",
@@ -113,7 +73,7 @@
   },
   {
     "createdAt": "2025-12-17T12:11:53Z",
-    "stars": 553,
+    "stars": 570,
     "name": "KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
     "url": "https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub",
     "lang": "",
@@ -121,91 +81,107 @@
   },
   {
     "createdAt": "2025-12-19T23:12:38Z",
-    "stars": 488,
+    "stars": 507,
     "name": "RhysSullivan/epstein-files-browser",
     "url": "https://github.com/RhysSullivan/epstein-files-browser",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-18T13:35:16Z",
-    "stars": 430,
-    "name": "terauss/Polymarket-Kalshi-Arbitrage-bot",
-    "url": "https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot",
-    "lang": "Rust",
-    "desc": "Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market. "
-  },
-  {
-    "createdAt": "2025-12-19T20:44:03Z",
-    "stars": 410,
-    "name": "sOLarFLaMEPyL/Arbitrage_Mev_BOT",
-    "url": "https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT",
-    "lang": "Solidity",
-    "desc": "Basically, contract for MEV: takes flash loans, runs arbitrage between DEXes, does liquidations. Everything is ready, deploy and use."
-  },
-  {
-    "createdAt": "2025-12-16T14:54:25Z",
-    "stars": 396,
-    "name": "moasq/production-saas-starter",
-    "url": "https://github.com/moasq/production-saas-starter",
-    "lang": "Go",
-    "desc": "Production-ready B2B SaaS Starter Kit (Go + Next.js). Modular Monolith. Hexagonal Arch."
-  },
-  {
-    "createdAt": "2025-12-18T15:15:33Z",
-    "stars": 392,
-    "name": "AIM-Intelligence/video2robot",
-    "url": "https://github.com/AIM-Intelligence/video2robot",
-    "lang": "Python",
-    "desc": "End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot motions"
-  },
-  {
     "createdAt": "2025-12-21T08:32:08Z",
-    "stars": 383,
+    "stars": 495,
     "name": "eyeblech/cinecli",
     "url": "https://github.com/eyeblech/cinecli",
     "lang": "Python",
     "desc": "CineCLI is a cross-platform command-line movie browser built with Python."
   },
   {
-    "createdAt": "2025-12-16T02:42:45Z",
-    "stars": 353,
-    "name": "taetaehoho/poly-kalshi-arb",
-    "url": "https://github.com/taetaehoho/poly-kalshi-arb",
+    "createdAt": "2025-12-19T20:44:03Z",
+    "stars": 481,
+    "name": "sOLarFLaMEPyL/Arbitrage_Mev_BOT",
+    "url": "https://github.com/sOLarFLaMEPyL/Arbitrage_Mev_BOT",
+    "lang": "Solidity",
+    "desc": "Basically, contract for MEV: takes flash loans, runs arbitrage between DEXes, does liquidations. Everything is ready, deploy and use."
+  },
+  {
+    "createdAt": "2025-12-18T13:35:16Z",
+    "stars": 443,
+    "name": "terauss/Polymarket-Kalshi-Arbitrage-bot",
+    "url": "https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot",
     "lang": "Rust",
+    "desc": "Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market. "
+  },
+  {
+    "createdAt": "2025-12-22T14:36:39Z",
+    "stars": 421,
+    "name": "jlongster/tigma",
+    "url": "https://github.com/jlongster/tigma",
+    "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-17T23:12:39Z",
-    "stars": 326,
-    "name": "ysharma3501/MiraTTS",
-    "url": "https://github.com/ysharma3501/MiraTTS",
+    "createdAt": "2025-12-18T15:15:33Z",
+    "stars": 411,
+    "name": "AIM-Intelligence/video2robot",
+    "url": "https://github.com/AIM-Intelligence/video2robot",
     "lang": "Python",
-    "desc": "A high quality and fast TTS repository"
+    "desc": "End-to-end pipeline converting generative videos (Veo, Sora) to humanoid robot motions"
   },
   {
     "createdAt": "2025-12-20T23:35:35Z",
-    "stars": 322,
+    "stars": 355,
     "name": "open-tinker/OpenTinker",
     "url": "https://github.com/open-tinker/OpenTinker",
     "lang": "Python",
     "desc": "OpenTinker is an RL-as-a-Service infrastructure for foundation models"
   },
   {
+    "createdAt": "2025-12-17T23:12:39Z",
+    "stars": 342,
+    "name": "ysharma3501/MiraTTS",
+    "url": "https://github.com/ysharma3501/MiraTTS",
+    "lang": "Python",
+    "desc": "A high quality and fast TTS repository"
+  },
+  {
+    "createdAt": "2025-12-17T18:18:20Z",
+    "stars": 329,
+    "name": "danieldev23/trafexia",
+    "url": "https://github.com/danieldev23/trafexia",
+    "lang": "TypeScript",
+    "desc": "Trafexia - Mobile Traffic Interceptor"
+  },
+  {
+    "createdAt": "2025-12-18T16:57:53Z",
+    "stars": 324,
+    "name": "sebastienros/comptime",
+    "url": "https://github.com/sebastienros/comptime",
+    "lang": "C#",
+    "desc": "Comptime brings meta-programming capabilities to C#, enabling compile-time code generation and evaluation."
+  },
+  {
     "createdAt": "2025-12-17T02:45:17Z",
-    "stars": 310,
+    "stars": 315,
     "name": "dsphper/lanhu-mcp",
     "url": "https://github.com/dsphper/lanhu-mcp",
     "lang": "Python",
     "desc": "⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图"
   },
   {
-    "createdAt": "2025-12-18T16:57:53Z",
-    "stars": 304,
-    "name": "sebastienros/comptime",
-    "url": "https://github.com/sebastienros/comptime",
-    "lang": "C#",
-    "desc": "Comptime brings meta-programming capabilities to C#, enabling compile-time code generation and evaluation."
+    "createdAt": "2025-12-18T23:38:31Z",
+    "stars": 303,
+    "name": "jgarzik/hk",
+    "url": "https://github.com/jgarzik/hk",
+    "lang": "Rust",
+    "desc": "A modern, Linux compatible OS kernel"
+  },
+  {
+    "createdAt": "2025-12-23T07:06:36Z",
+    "stars": 295,
+    "name": "FunAudioLLM/Fun-Audio-Chat",
+    "url": "https://github.com/FunAudioLLM/Fun-Audio-Chat",
+    "lang": "Python",
+    "desc": "Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions."
   },
   {
     "createdAt": "2025-12-17T08:26:18Z",
@@ -216,64 +192,48 @@
     "desc": "MoE training for Me and You and maybe other people "
   },
   {
-    "createdAt": "2025-12-18T23:38:31Z",
-    "stars": 291,
-    "name": "jgarzik/hk",
-    "url": "https://github.com/jgarzik/hk",
-    "lang": "Rust",
-    "desc": "A modern, Linux compatible OS kernel"
-  },
-  {
     "createdAt": "2025-12-19T17:12:26Z",
-    "stars": 289,
+    "stars": 290,
     "name": "open-experiments/agent-exchange",
     "url": "https://github.com/open-experiments/agent-exchange",
     "lang": "Mermaid",
     "desc": "Agent Discovery & Work Exchange Platform"
   },
   {
-    "createdAt": "2025-12-16T19:40:19Z",
-    "stars": 261,
-    "name": "buildermethods/design-os",
-    "url": "https://github.com/buildermethods/design-os",
-    "lang": "TypeScript",
-    "desc": "The missing design process between your product idea and your codebase."
-  },
-  {
-    "createdAt": "2025-12-17T11:42:11Z",
-    "stars": 259,
-    "name": "marckohlbrugge/unofficial-37signals-coding-style-guide",
-    "url": "https://github.com/marckohlbrugge/unofficial-37signals-coding-style-guide",
-    "lang": "",
-    "desc": "Transferable Rails patterns and development philosophy extracted from 37signals' Fizzy codebase"
-  },
-  {
-    "createdAt": "2025-12-16T01:07:48Z",
-    "stars": 252,
-    "name": "xmannv/xkey",
-    "url": "https://github.com/xmannv/xkey",
-    "lang": "Swift",
-    "desc": "Vietnamese Input for macOS - Bộ gõ Tiếng Việt mã nguồn mở cho macOS"
-  },
-  {
-    "createdAt": "2025-12-22T14:36:39Z",
-    "stars": 251,
-    "name": "jlongster/tigma",
-    "url": "https://github.com/jlongster/tigma",
-    "lang": "TypeScript",
-    "desc": ""
+    "createdAt": "2025-12-23T06:28:32Z",
+    "stars": 288,
+    "name": "leedrake5/unredact",
+    "url": "https://github.com/leedrake5/unredact",
+    "lang": "Python",
+    "desc": "A simple tool for reading in poorly redacted documents and reproducing their origional form"
   },
   {
     "createdAt": "2025-12-22T14:18:51Z",
-    "stars": 236,
+    "stars": 287,
     "name": "remorses/tuitube",
     "url": "https://github.com/remorses/tuitube",
     "lang": "TypeScript",
     "desc": "Download videos from the command line with a TUI"
   },
   {
+    "createdAt": "2025-12-17T11:42:11Z",
+    "stars": 262,
+    "name": "marckohlbrugge/unofficial-37signals-coding-style-guide",
+    "url": "https://github.com/marckohlbrugge/unofficial-37signals-coding-style-guide",
+    "lang": "",
+    "desc": "Transferable Rails patterns and development philosophy extracted from 37signals' Fizzy codebase"
+  },
+  {
+    "createdAt": "2025-12-22T05:55:04Z",
+    "stars": 253,
+    "name": "elijah0528/video2ascii",
+    "url": "https://github.com/elijah0528/video2ascii",
+    "lang": "TypeScript",
+    "desc": "WebGL-powered React Component for video to ASCII conversion"
+  },
+  {
     "createdAt": "2025-12-17T20:31:30Z",
-    "stars": 235,
+    "stars": 249,
     "name": "skillcreatorai/Ai-Agent-Skills",
     "url": "https://github.com/skillcreatorai/Ai-Agent-Skills",
     "lang": "Python",
@@ -281,7 +241,7 @@
   },
   {
     "createdAt": "2025-12-17T03:27:37Z",
-    "stars": 220,
+    "stars": 243,
     "name": "Francis-Rings/FlashPortrait",
     "url": "https://github.com/Francis-Rings/FlashPortrait",
     "lang": "Python",
@@ -289,39 +249,39 @@
   },
   {
     "createdAt": "2025-12-17T01:37:53Z",
-    "stars": 212,
+    "stars": 237,
     "name": "EdNovas/dongguaTV",
     "url": "https://github.com/EdNovas/dongguaTV",
     "lang": "HTML",
     "desc": ""
   },
   {
+    "createdAt": "2025-12-23T09:43:28Z",
+    "stars": 234,
+    "name": "cyl19970726/poly-sdk",
+    "url": "https://github.com/cyl19970726/poly-sdk",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-22T22:29:15Z",
+    "stars": 226,
+    "name": "antonmedv/textarea",
+    "url": "https://github.com/antonmedv/textarea",
+    "lang": "HTML",
+    "desc": "A notes webapp"
+  },
+  {
     "createdAt": "2025-12-21T02:39:11Z",
-    "stars": 208,
+    "stars": 224,
     "name": "KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
     "url": "https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
     "lang": "",
     "desc": "100+ RAG interview questions with answers."
   },
   {
-    "createdAt": "2025-12-23T06:28:32Z",
-    "stars": 204,
-    "name": "leedrake5/unredact",
-    "url": "https://github.com/leedrake5/unredact",
-    "lang": "Python",
-    "desc": "A simple tool for reading in poorly redacted documents and reproducing their origional form"
-  },
-  {
-    "createdAt": "2025-12-16T08:55:47Z",
-    "stars": 202,
-    "name": "inclusionAI/AEnvironment",
-    "url": "https://github.com/inclusionAI/AEnvironment",
-    "lang": "Python",
-    "desc": "Standardized environment infrastructure for Agentic AI development."
-  },
-  {
     "createdAt": "2025-12-17T08:19:02Z",
-    "stars": 190,
+    "stars": 201,
     "name": "PozzettiAndrea/ComfyUI-TRELLIS2",
     "url": "https://github.com/PozzettiAndrea/ComfyUI-TRELLIS2",
     "lang": "Python",
@@ -329,35 +289,59 @@
   },
   {
     "createdAt": "2025-12-23T01:26:17Z",
-    "stars": 182,
+    "stars": 196,
     "name": "focus-creative-games/leanclr",
     "url": "https://github.com/focus-creative-games/leanclr",
     "lang": "",
     "desc": "LeanCLR is a lean, cross-platform implementation of the Common Language Runtime (CLR)."
   },
   {
-    "createdAt": "2025-12-17T21:20:38Z",
-    "stars": 172,
-    "name": "AshkanYarmoradi/go-invoice-ninja",
-    "url": "https://github.com/AshkanYarmoradi/go-invoice-ninja",
-    "lang": "Go",
-    "desc": "Go SDK for Invoice Ninja API - payments, invoices, clients, webhooks with retry & rate limiting"
-  },
-  {
     "createdAt": "2025-12-19T11:38:04Z",
-    "stars": 171,
+    "stars": 183,
     "name": "zero2504/EDR-GhostLocker",
     "url": "https://github.com/zero2504/EDR-GhostLocker",
     "lang": "C",
     "desc": "AppLocker-Based EDR Neutralization"
   },
   {
+    "createdAt": "2025-12-20T11:56:05Z",
+    "stars": 175,
+    "name": "LemonHX/Xmas.JS",
+    "url": "https://github.com/LemonHX/Xmas.JS",
+    "lang": "Rust",
+    "desc": "Xmas.JS is a lightweight, high-performance JavaScript/TypeScript runtime"
+  },
+  {
+    "createdAt": "2025-12-19T12:23:15Z",
+    "stars": 173,
+    "name": "vstorm-co/full-stack-fastapi-nextjs-llm-template",
+    "url": "https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template",
+    "lang": "Python",
+    "desc": "Full-stack FastAPI + Next.js template generator with PydanticAI/LangChain agents, WebSocket streaming, 20+ enterprise integrations, and Logfire/LangSmith observability. Ship AI apps fast. CLI tool to generate production-ready FastAPI + Next.js projects with AI agents, auth, and observability."
+  },
+  {
+    "createdAt": "2025-12-18T12:17:55Z",
+    "stars": 173,
+    "name": "mdsaban/universal-app-opener",
+    "url": "https://github.com/mdsaban/universal-app-opener",
+    "lang": "TypeScript",
+    "desc": "A zero-dependency JavaScript library that converts standard HTTP URLs (YouTube, LinkedIn) into Native Mobile Deep Links (Custom Schemes & Android Intents)."
+  },
+  {
     "createdAt": "2025-12-17T12:12:48Z",
-    "stars": 169,
+    "stars": 171,
     "name": "ByteDance-Seed/Seed-1.8",
     "url": "https://github.com/ByteDance-Seed/Seed-1.8",
     "lang": "Jupyter Notebook",
     "desc": ""
+  },
+  {
+    "createdAt": "2025-12-17T18:29:15Z",
+    "stars": 169,
+    "name": "SihanXU/nepa",
+    "url": "https://github.com/SihanXU/nepa",
+    "lang": "Python",
+    "desc": "PyTorch implementation of NEPA"
   },
   {
     "createdAt": "2025-12-17T08:49:07Z",
@@ -368,35 +352,51 @@
     "desc": "Free selfhosted groceries list for families and shared households"
   },
   {
-    "createdAt": "2025-12-18T12:17:55Z",
-    "stars": 165,
-    "name": "mdsaban/universal-app-opener",
-    "url": "https://github.com/mdsaban/universal-app-opener",
+    "createdAt": "2025-12-17T10:56:46Z",
+    "stars": 159,
+    "name": "muhammedaksam/waha-tui",
+    "url": "https://github.com/muhammedaksam/waha-tui",
     "lang": "TypeScript",
-    "desc": "A zero-dependency JavaScript library that converts standard HTTP URLs (YouTube, LinkedIn) into Native Mobile Deep Links (Custom Schemes & Android Intents)."
+    "desc": "A beautiful Terminal User Interface for WhatsApp using WAHA (WhatsApp HTTP API). Manage your WhatsApp sessions, chats, and messages directly from your terminal with an intuitive TUI powered by OpenTUI."
   },
   {
-    "createdAt": "2025-12-19T12:23:15Z",
-    "stars": 158,
-    "name": "vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "url": "https://github.com/vstorm-co/full-stack-fastapi-nextjs-llm-template",
-    "lang": "Python",
-    "desc": "Full-stack FastAPI + Next.js template generator with PydanticAI/LangChain agents, WebSocket streaming, 20+ enterprise integrations, and Logfire/LangSmith observability. Ship AI apps fast. CLI tool to generate production-ready FastAPI + Next.js projects with AI agents, auth, and observability."
+    "createdAt": "2025-12-17T19:18:04Z",
+    "stars": 159,
+    "name": "langchain-ai/lca-lc-foundations",
+    "url": "https://github.com/langchain-ai/lca-lc-foundations",
+    "lang": "TypeScript",
+    "desc": ""
   },
   {
-    "createdAt": "2025-12-17T18:29:15Z",
-    "stars": 158,
-    "name": "SihanXU/nepa",
-    "url": "https://github.com/SihanXU/nepa",
-    "lang": "Python",
-    "desc": "PyTorch implementation of NEPA"
-  },
-  {
-    "createdAt": "2025-12-16T11:37:33Z",
+    "createdAt": "2025-12-17T21:46:09Z",
     "stars": 157,
-    "name": "nexxeln/opencode-config",
-    "url": "https://github.com/nexxeln/opencode-config",
+    "name": "tuckershannon/ESP32-Desktop-Monitor",
+    "url": "https://github.com/tuckershannon/ESP32-Desktop-Monitor",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-17T21:20:38Z",
+    "stars": 156,
+    "name": "AshkanYarmoradi/go-invoice-ninja",
+    "url": "https://github.com/AshkanYarmoradi/go-invoice-ninja",
+    "lang": "Go",
+    "desc": "Go SDK for Invoice Ninja API - payments, invoices, clients, webhooks with retry & rate limiting"
+  },
+  {
+    "createdAt": "2025-12-18T20:55:33Z",
+    "stars": 151,
+    "name": "boonzy00/ringmpsc",
+    "url": "https://github.com/boonzy00/ringmpsc",
+    "lang": "Rust",
+    "desc": "Lock-free MPSC channel in Zig achieving 50+ billion messages/second via ring-decomposed architecture"
+  },
+  {
+    "createdAt": "2025-12-17T12:19:51Z",
+    "stars": 148,
+    "name": "steipete/summarize",
+    "url": "https://github.com/steipete/summarize",
     "lang": "TypeScript",
-    "desc": "my opencode config"
+    "desc": "Point at any URL or file. Get the gist."
   }
 ]
