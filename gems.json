@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-12-22T14:20:32Z",
-    "stars": 4421,
+    "stars": 4558,
     "name": "bellard/mquickjs",
     "url": "https://github.com/bellard/mquickjs",
     "lang": "C",
@@ -9,23 +9,15 @@
   },
   {
     "createdAt": "2025-12-21T02:43:42Z",
-    "stars": 3601,
+    "stars": 3877,
     "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
     "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
     "lang": "Python",
     "desc": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
   },
   {
-    "createdAt": "2025-12-20T17:26:59Z",
-    "stars": 1613,
-    "name": "pranshuparmar/witr",
-    "url": "https://github.com/pranshuparmar/witr",
-    "lang": "Go",
-    "desc": "Why is this running?"
-  },
-  {
     "createdAt": "2025-12-22T22:29:15Z",
-    "stars": 921,
+    "stars": 1012,
     "name": "antonmedv/textarea",
     "url": "https://github.com/antonmedv/textarea",
     "lang": "HTML",
@@ -33,7 +25,7 @@
   },
   {
     "createdAt": "2025-12-25T02:02:25Z",
-    "stars": 670,
+    "stars": 776,
     "name": "ClashConnectRules/Self-Configuration",
     "url": "https://github.com/ClashConnectRules/Self-Configuration",
     "lang": "",
@@ -41,15 +33,23 @@
   },
   {
     "createdAt": "2025-12-23T00:12:49Z",
-    "stars": 641,
+    "stars": 773,
     "name": "parcadei/Continuous-Claude-v2",
     "url": "https://github.com/parcadei/Continuous-Claude-v2",
     "lang": "Python",
     "desc": "Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows."
   },
   {
+    "createdAt": "2025-12-24T03:35:39Z",
+    "stars": 646,
+    "name": "abusoww/tuxmate",
+    "url": "https://github.com/abusoww/tuxmate",
+    "lang": "TypeScript",
+    "desc": "THE MISSING BULK APP INSTALLER FOR LINUX"
+  },
+  {
     "createdAt": "2025-12-21T08:32:08Z",
-    "stars": 609,
+    "stars": 627,
     "name": "eyeblech/cinecli",
     "url": "https://github.com/eyeblech/cinecli",
     "lang": "Python",
@@ -57,7 +57,7 @@
   },
   {
     "createdAt": "2025-12-24T11:22:01Z",
-    "stars": 543,
+    "stars": 554,
     "name": "dennisyang1986/opensqt_market_maker",
     "url": "https://github.com/dennisyang1986/opensqt_market_maker",
     "lang": "Go",
@@ -65,7 +65,7 @@
   },
   {
     "createdAt": "2025-12-22T14:36:39Z",
-    "stars": 489,
+    "stars": 491,
     "name": "jlongster/tigma",
     "url": "https://github.com/jlongster/tigma",
     "lang": "TypeScript",
@@ -73,159 +73,119 @@
   },
   {
     "createdAt": "2025-12-23T06:28:32Z",
-    "stars": 425,
+    "stars": 449,
     "name": "leedrake5/unredact",
     "url": "https://github.com/leedrake5/unredact",
     "lang": "Python",
     "desc": "A simple tool for reading in poorly redacted documents and reproducing their origional form"
   },
   {
-    "createdAt": "2025-12-22T05:55:04Z",
-    "stars": 417,
-    "name": "elijah0528/video2ascii",
-    "url": "https://github.com/elijah0528/video2ascii",
-    "lang": "TypeScript",
-    "desc": "WebGL-powered React Component for video to ASCII conversion"
-  },
-  {
-    "createdAt": "2025-12-23T07:06:36Z",
-    "stars": 416,
-    "name": "FunAudioLLM/Fun-Audio-Chat",
-    "url": "https://github.com/FunAudioLLM/Fun-Audio-Chat",
-    "lang": "Python",
-    "desc": "Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions."
-  },
-  {
-    "createdAt": "2025-12-20T23:35:35Z",
-    "stars": 397,
-    "name": "open-tinker/OpenTinker",
-    "url": "https://github.com/open-tinker/OpenTinker",
-    "lang": "Python",
-    "desc": "OpenTinker is an RL-as-a-Service infrastructure for foundation models"
-  },
-  {
-    "createdAt": "2025-12-24T03:35:39Z",
-    "stars": 365,
-    "name": "abusoww/tuxmate",
-    "url": "https://github.com/abusoww/tuxmate",
-    "lang": "TypeScript",
-    "desc": "THE MISSING BULK APP INSTALLER FOR LINUX"
-  },
-  {
-    "createdAt": "2025-12-23T09:43:28Z",
-    "stars": 345,
-    "name": "cyl19970726/poly-sdk",
-    "url": "https://github.com/cyl19970726/poly-sdk",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-24T10:44:41Z",
-    "stars": 329,
-    "name": "tiann/hapi",
-    "url": "https://github.com/tiann/hapi",
-    "lang": "TypeScript",
-    "desc": "App for agentic coding - access coding agent anywhere"
-  },
-  {
-    "createdAt": "2025-12-22T14:18:51Z",
-    "stars": 308,
-    "name": "remorses/tuitube",
-    "url": "https://github.com/remorses/tuitube",
-    "lang": "TypeScript",
-    "desc": "Download videos from the command line with a TUI"
-  },
-  {
-    "createdAt": "2025-12-20T13:58:06Z",
-    "stars": 302,
-    "name": "tddworks/ClaudeBar",
-    "url": "https://github.com/tddworks/ClaudeBar",
-    "lang": "Swift",
-    "desc": "A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, and Gemini usage at a glance."
-  },
-  {
-    "createdAt": "2025-12-21T02:39:11Z",
-    "stars": 282,
-    "name": "KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
-    "url": "https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
-    "lang": "",
-    "desc": "100+ RAG interview questions with answers."
-  },
-  {
-    "createdAt": "2025-12-20T03:17:03Z",
-    "stars": 270,
-    "name": "Dicklesworthstone/agentic_coding_flywheel_setup",
-    "url": "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup",
-    "lang": "TypeScript",
-    "desc": "System setup tool for beginners wanting agentic engineering capabilities - transforms a fresh VPS into a fully-armed agentic coding environment in under an hour."
-  },
-  {
     "createdAt": "2025-12-24T14:42:00Z",
-    "stars": 242,
+    "stars": 446,
     "name": "nguyenphutrong/quotio",
     "url": "https://github.com/nguyenphutrong/quotio",
     "lang": "Swift",
     "desc": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid."
   },
   {
-    "createdAt": "2025-12-24T04:16:00Z",
-    "stars": 240,
-    "name": "siinghd/yourinfo",
-    "url": "https://github.com/siinghd/yourinfo",
+    "createdAt": "2025-12-23T07:06:36Z",
+    "stars": 434,
+    "name": "FunAudioLLM/Fun-Audio-Chat",
+    "url": "https://github.com/FunAudioLLM/Fun-Audio-Chat",
+    "lang": "Python",
+    "desc": "Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions."
+  },
+  {
+    "createdAt": "2025-12-22T05:55:04Z",
+    "stars": 421,
+    "name": "elijah0528/video2ascii",
+    "url": "https://github.com/elijah0528/video2ascii",
     "lang": "TypeScript",
-    "desc": "Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization"
+    "desc": "WebGL-powered React Component for video to ASCII conversion"
+  },
+  {
+    "createdAt": "2025-12-27T22:16:10Z",
+    "stars": 355,
+    "name": "technomancer702/nodecast-tv",
+    "url": "https://github.com/technomancer702/nodecast-tv",
+    "lang": "JavaScript",
+    "desc": "A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly."
+  },
+  {
+    "createdAt": "2025-12-23T09:43:28Z",
+    "stars": 349,
+    "name": "cyl19970726/poly-sdk",
+    "url": "https://github.com/cyl19970726/poly-sdk",
+    "lang": "TypeScript",
+    "desc": ""
   },
   {
     "createdAt": "2025-12-24T21:23:30Z",
-    "stars": 226,
+    "stars": 345,
     "name": "simonw/claude-code-transcripts",
     "url": "https://github.com/simonw/claude-code-transcripts",
     "lang": "Python",
     "desc": "Tools for publishing transcripts for Claude Code sessions"
   },
   {
+    "createdAt": "2025-12-24T10:44:41Z",
+    "stars": 335,
+    "name": "tiann/hapi",
+    "url": "https://github.com/tiann/hapi",
+    "lang": "TypeScript",
+    "desc": "App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere"
+  },
+  {
+    "createdAt": "2025-12-26T00:30:40Z",
+    "stars": 322,
+    "name": "joe-desimone/mongobleed",
+    "url": "https://github.com/joe-desimone/mongobleed",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2025-12-22T14:18:51Z",
+    "stars": 312,
+    "name": "remorses/tuitube",
+    "url": "https://github.com/remorses/tuitube",
+    "lang": "TypeScript",
+    "desc": "Download videos from the command line with a TUI"
+  },
+  {
+    "createdAt": "2025-12-21T02:39:11Z",
+    "stars": 290,
+    "name": "KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
+    "url": "https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub",
+    "lang": "",
+    "desc": "100+ RAG interview questions with answers."
+  },
+  {
+    "createdAt": "2025-12-27T15:34:42Z",
+    "stars": 266,
+    "name": "tobi/AudioPriorityBar",
+    "url": "https://github.com/tobi/AudioPriorityBar",
+    "lang": "Swift",
+    "desc": "A native macOS menu bar app for managing audio device priorities"
+  },
+  {
+    "createdAt": "2025-12-24T04:16:00Z",
+    "stars": 256,
+    "name": "siinghd/yourinfo",
+    "url": "https://github.com/siinghd/yourinfo",
+    "lang": "TypeScript",
+    "desc": "Real-time browser fingerprinting demo with cross-browser tracking, behavioral analysis, Grok AI profiling, and interactive 3D globe visualization"
+  },
+  {
     "createdAt": "2025-12-21T09:28:32Z",
-    "stars": 212,
+    "stars": 230,
     "name": "Maldev-Academy/DumpChromeSecrets",
     "url": "https://github.com/Maldev-Academy/DumpChromeSecrets",
     "lang": "C",
     "desc": "Extract data from modern Chrome versions, including refresh tokens, cookies, saved credentials, autofill data, browsing history, and bookmarks"
   },
   {
-    "createdAt": "2025-12-20T11:56:05Z",
-    "stars": 211,
-    "name": "LemonHX/Xmas.JS",
-    "url": "https://github.com/LemonHX/Xmas.JS",
-    "lang": "Rust",
-    "desc": "Xmas.JS is a lightweight, high-performance JavaScript/TypeScript runtime"
-  },
-  {
-    "createdAt": "2025-12-24T08:01:40Z",
-    "stars": 210,
-    "name": "BlackSky-Jose/solana-fun-token-launch-pad",
-    "url": "https://github.com/BlackSky-Jose/solana-fun-token-launch-pad",
-    "lang": "TypeScript",
-    "desc": "A comprehensive Next.js-based token launchpad platform for creating and managing SPL tokens on the Solana blockchain. This application provides an intuitive interface for token creation, liquidity management, market creation, and token authority management"
-  },
-  {
-    "createdAt": "2025-12-23T01:26:17Z",
-    "stars": 209,
-    "name": "focus-creative-games/leanclr",
-    "url": "https://github.com/focus-creative-games/leanclr",
-    "lang": "",
-    "desc": "LeanCLR is a lean, cross-platform implementation of the Common Language Runtime (CLR)."
-  },
-  {
-    "createdAt": "2025-12-24T14:59:10Z",
-    "stars": 205,
-    "name": "Doriandarko/gemini-writer",
-    "url": "https://github.com/Doriandarko/gemini-writer",
-    "lang": "Python",
-    "desc": "AI writing agent powered by gemini 3 flash - autonomously creates novels and stories with deep reasoning"
-  },
-  {
     "createdAt": "2025-12-22T12:02:27Z",
-    "stars": 196,
+    "stars": 220,
     "name": "abhishekkrthakur/NyRAG",
     "url": "https://github.com/abhishekkrthakur/NyRAG",
     "lang": "Python",
@@ -233,39 +193,103 @@
   },
   {
     "createdAt": "2025-12-21T18:50:54Z",
-    "stars": 185,
+    "stars": 219,
     "name": "Chil30/vless-all-in-one",
     "url": "https://github.com/Chil30/vless-all-in-one",
     "lang": "Shell",
-    "desc": "🚀 v2.0 All-in-One Proxy Script: One-click deployment for 16 protocols including VLESS Reality, Hysteria2, TUIC v5, and Snell. Now supports multi-protocol coexistence, automatic BBR optimization, and easy Server/Client setup on Debian, Ubuntu, CentOS, and Alpine."
+    "desc": "🚀 v3.0.3 All-in-One Proxy Script: One-click deployment for 13 protocols including VLESS Reality, Hysteria2, TUIC v5, and Snell. Now supports multi-protocol coexistence, automatic BBR optimization, and easy Server/Client setup on Debian, Ubuntu, CentOS, and Alpine."
   },
   {
-    "createdAt": "2025-12-22T09:11:13Z",
-    "stars": 176,
-    "name": "MiniMax-AI/MiniMax-M2.1",
-    "url": "https://github.com/MiniMax-AI/MiniMax-M2.1",
+    "createdAt": "2025-12-24T08:01:40Z",
+    "stars": 218,
+    "name": "BlackSky-Jose/solana-fun-token-launch-pad",
+    "url": "https://github.com/BlackSky-Jose/solana-fun-token-launch-pad",
+    "lang": "TypeScript",
+    "desc": "A comprehensive Next.js-based token launchpad platform for creating and managing SPL tokens on the Solana blockchain. This application provides an intuitive interface for token creation, liquidity management, market creation, and token authority management"
+  },
+  {
+    "createdAt": "2025-12-24T14:59:10Z",
+    "stars": 213,
+    "name": "Doriandarko/gemini-writer",
+    "url": "https://github.com/Doriandarko/gemini-writer",
+    "lang": "Python",
+    "desc": "AI writing agent powered by gemini 3 flash - autonomously creates novels and stories with deep reasoning"
+  },
+  {
+    "createdAt": "2025-12-23T01:26:17Z",
+    "stars": 213,
+    "name": "focus-creative-games/leanclr",
+    "url": "https://github.com/focus-creative-games/leanclr",
     "lang": "",
-    "desc": "MiniMax M2.1, a SOTA model for real-world dev & agents."
+    "desc": "LeanCLR is a lean, cross-platform implementation of the Common Language Runtime (CLR)."
   },
   {
     "createdAt": "2025-12-24T04:15:18Z",
-    "stars": 174,
+    "stars": 192,
     "name": "popovicu/ultimate-linux",
     "url": "https://github.com/popovicu/ultimate-linux",
     "lang": "JavaScript",
     "desc": "The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!"
   },
   {
+    "createdAt": "2025-12-22T09:11:13Z",
+    "stars": 191,
+    "name": "MiniMax-AI/MiniMax-M2.1",
+    "url": "https://github.com/MiniMax-AI/MiniMax-M2.1",
+    "lang": "",
+    "desc": "MiniMax M2.1, a SOTA model for real-world dev & agents."
+  },
+  {
+    "createdAt": "2025-12-26T12:35:16Z",
+    "stars": 191,
+    "name": "simondaubner/Windows-Binary-Icon-Changer-V3",
+    "url": "https://github.com/simondaubner/Windows-Binary-Icon-Changer-V3",
+    "lang": "",
+    "desc": "A simple icon (.ico) changer for windows binaries"
+  },
+  {
     "createdAt": "2025-12-26T16:26:14Z",
-    "stars": 165,
+    "stars": 188,
     "name": "asklokesh/claudeskill-loki-mode",
     "url": "https://github.com/asklokesh/claudeskill-loki-mode",
     "lang": "Shell",
     "desc": "Multi-agent autonomous startup system for Claude Code"
   },
   {
+    "createdAt": "2025-12-26T18:43:19Z",
+    "stars": 182,
+    "name": "davidfowl/tally",
+    "url": "https://github.com/davidfowl/tally",
+    "lang": "Python",
+    "desc": "LLM-powered spending categorization. Let AI classify your bank transactions."
+  },
+  {
+    "createdAt": "2025-12-27T08:55:40Z",
+    "stars": 179,
+    "name": "UniSecurityGuard/UniSecurityGuard",
+    "url": "https://github.com/UniSecurityGuard/UniSecurityGuard",
+    "lang": "",
+    "desc": "本科华五，曾赴美qs50读博，某兄弟院校副教授，校园门卫亭女性主理人，为防止炸号的备份平台，是本人。"
+  },
+  {
+    "createdAt": "2025-12-27T10:17:35Z",
+    "stars": 178,
+    "name": "simondaubner/LiveStreamTranslateV3",
+    "url": "https://github.com/simondaubner/LiveStreamTranslateV3",
+    "lang": "",
+    "desc": "Uses LLM APIs to translate an audio source live. Perfect for live streaming with OBS."
+  },
+  {
+    "createdAt": "2025-12-25T21:02:28Z",
+    "stars": 178,
+    "name": "RackulaLives/Rackula",
+    "url": "https://github.com/RackulaLives/Rackula",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
     "createdAt": "2025-12-24T13:20:12Z",
-    "stars": 162,
+    "stars": 171,
     "name": "ink1ing/anti-api",
     "url": "https://github.com/ink1ing/anti-api",
     "lang": "TypeScript",
@@ -273,43 +297,83 @@
   },
   {
     "createdAt": "2025-12-22T17:58:42Z",
-    "stars": 160,
+    "stars": 171,
     "name": "0x0funky/audioghost-ai",
     "url": "https://github.com/0x0funky/audioghost-ai",
     "lang": "TypeScript",
     "desc": "Extract any sound with text prompts. Memory-optimized SAM-Audio with modern UI."
   },
   {
-    "createdAt": "2025-12-21T17:37:07Z",
-    "stars": 151,
-    "name": "nook24/lagident",
-    "url": "https://github.com/nook24/lagident",
-    "lang": "Go",
-    "desc": "Lagident pings targets and collects information about response time and packet loss. Helps you identify anomalies across your network"
-  },
-  {
     "createdAt": "2025-12-25T10:08:02Z",
-    "stars": 143,
+    "stars": 168,
     "name": "tsoding/formula",
     "url": "https://github.com/tsoding/formula",
     "lang": "JavaScript",
     "desc": "\"One Formula That Demystifies 3D Graphics\""
   },
   {
-    "createdAt": "2025-12-26T00:30:40Z",
-    "stars": 141,
-    "name": "joe-desimone/mongobleed",
-    "url": "https://github.com/joe-desimone/mongobleed",
+    "createdAt": "2025-12-24T22:20:19Z",
+    "stars": 163,
+    "name": "adnxy/rnsec",
+    "url": "https://github.com/adnxy/rnsec",
+    "lang": "TypeScript",
+    "desc": "Lightweight Security Scanner for React Native & Expo"
+  },
+  {
+    "createdAt": "2025-12-21T17:37:07Z",
+    "stars": 162,
+    "name": "nook24/lagident",
+    "url": "https://github.com/nook24/lagident",
+    "lang": "Go",
+    "desc": "Lagident pings targets and collects information about response time and packet loss. Helps you identify anomalies across your network"
+  },
+  {
+    "createdAt": "2025-12-26T22:59:22Z",
+    "stars": 157,
+    "name": "f1shy-dev/distracted",
+    "url": "https://github.com/f1shy-dev/distracted",
+    "lang": "TypeScript",
+    "desc": "blocks distracting websites! annoy you to get back on them..."
+  },
+  {
+    "createdAt": "2025-12-24T14:28:05Z",
+    "stars": 154,
+    "name": "supermemoryai/opencode-supermemory",
+    "url": "https://github.com/supermemoryai/opencode-supermemory",
+    "lang": "TypeScript",
+    "desc": "Supermemory plugin for OpenCode"
+  },
+  {
+    "createdAt": "2025-12-21T01:08:06Z",
+    "stars": 152,
+    "name": "teojs/clock-dashboard",
+    "url": "https://github.com/teojs/clock-dashboard",
+    "lang": "Vue",
+    "desc": "天气时钟看板"
+  },
+  {
+    "createdAt": "2025-12-23T01:25:16Z",
+    "stars": 145,
+    "name": "pierridotite/stonks-dashboard",
+    "url": "https://github.com/pierridotite/stonks-dashboard",
     "lang": "JavaScript",
-    "desc": ""
+    "desc": "A cyberpunk-style, real-time financial monitor that runs directly in the terminal. It visualizes cryptocurrency and stock market data using ASCII charts and dynamic coloring."
   },
   {
     "createdAt": "2025-12-24T06:16:08Z",
-    "stars": 141,
+    "stars": 144,
     "name": "tronghieuit/valtec-tts",
     "url": "https://github.com/tronghieuit/valtec-tts",
     "lang": "Python",
     "desc": "A Vietnamese Text-to-Speech system supporting multiple speakers with high-quality voice synthesis."
+  },
+  {
+    "createdAt": "2025-12-25T17:52:57Z",
+    "stars": 142,
+    "name": "kenryu42/claude-code-safety-net",
+    "url": "https://github.com/kenryu42/claude-code-safety-net",
+    "lang": "Python",
+    "desc": "A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute."
   },
   {
     "createdAt": "2025-12-27T00:21:56Z",
@@ -320,83 +384,19 @@
     "desc": "Lade dir jetzt den HugoSMP Client herunter und erhalte ein gratis Netherite Starterkit"
   },
   {
-    "createdAt": "2025-12-20T14:13:40Z",
-    "stars": 140,
-    "name": "NtDallas/BOF_ExecuteAssembly",
-    "url": "https://github.com/NtDallas/BOF_ExecuteAssembly",
-    "lang": "C++",
-    "desc": "Beacon Object File for Cobalt Strike that executes .NET assemblies in beacon with evasion techniques. "
-  },
-  {
-    "createdAt": "2025-12-23T01:25:16Z",
-    "stars": 137,
-    "name": "pierridotite/stonks-dashboard",
-    "url": "https://github.com/pierridotite/stonks-dashboard",
-    "lang": "JavaScript",
-    "desc": "A cyberpunk-style, real-time financial monitor that runs directly in the terminal. It visualizes cryptocurrency and stock market data using ASCII charts and dynamic coloring."
-  },
-  {
-    "createdAt": "2025-12-21T01:08:06Z",
-    "stars": 136,
-    "name": "teojs/clock-dashboard",
-    "url": "https://github.com/teojs/clock-dashboard",
-    "lang": "Vue",
-    "desc": "天气时钟看板"
+    "createdAt": "2025-12-25T18:47:32Z",
+    "stars": 138,
+    "name": "kubeden/clopus-watcher",
+    "url": "https://github.com/kubeden/clopus-watcher",
+    "lang": "Go",
+    "desc": "An autonomous 24/7 on-call engineer in the form of a Claude Code living in a cronjob."
   },
   {
     "createdAt": "2025-12-23T18:45:13Z",
-    "stars": 127,
+    "stars": 136,
     "name": "Lolendor/reVCDOS",
     "url": "https://github.com/Lolendor/reVCDOS",
     "lang": "Python",
     "desc": "Web-based port of GTA: Vice City running in browser via WebAssembly."
-  },
-  {
-    "createdAt": "2025-12-23T14:04:45Z",
-    "stars": 126,
-    "name": "kalil0321/reverse-api-engineer",
-    "url": "https://github.com/kalil0321/reverse-api-engineer",
-    "lang": "Python",
-    "desc": "Claude engineer that captures traffic and automatically generates Python API clients. Reverse engineer APIs!"
-  },
-  {
-    "createdAt": "2025-12-20T08:00:56Z",
-    "stars": 125,
-    "name": "grissomlin/taiwan-stock-monitor",
-    "url": "https://github.com/grissomlin/taiwan-stock-monitor",
-    "lang": "Python",
-    "desc": "自動化台股全方位監控系統：每日產出 9 張（週/月/年 × 高/收/低）10% 分箱報酬分析圖表，並透過 Resend API 發送互動式電子郵件報表。  Automated Taiwan Stock Monitor: Generates 9 comprehensive charts (Week/Month/Year × High/Close/Low) with 10% bin return analysis, delivering interactive daily email reports via Resend API."
-  },
-  {
-    "createdAt": "2025-12-26T22:59:22Z",
-    "stars": 124,
-    "name": "f1shy-dev/distracted",
-    "url": "https://github.com/f1shy-dev/distracted",
-    "lang": "TypeScript",
-    "desc": "blocks distracting websites! annoy you to get back on them..."
-  },
-  {
-    "createdAt": "2025-12-23T04:21:45Z",
-    "stars": 121,
-    "name": "chaogei/windsurf-account-manager-simple",
-    "url": "https://github.com/chaogei/windsurf-account-manager-simple",
-    "lang": "Vue",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-21T11:23:14Z",
-    "stars": 121,
-    "name": "letieu/jira.nvim",
-    "url": "https://github.com/letieu/jira.nvim",
-    "lang": "Lua",
-    "desc": "I got tired of opening my browser for Jira"
-  },
-  {
-    "createdAt": "2025-12-20T23:53:00Z",
-    "stars": 119,
-    "name": "JakeNesler/Claude_Prophet",
-    "url": "https://github.com/JakeNesler/Claude_Prophet",
-    "lang": "Go",
-    "desc": ""
   }
 ]
