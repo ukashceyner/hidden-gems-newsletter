@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2025-12-28T10:57:22Z",
-    "stars": 2426,
+    "stars": 2941,
     "name": "AnmolSaini16/mapcn",
     "url": "https://github.com/AnmolSaini16/mapcn",
     "lang": "TypeScript",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2025-12-28T15:35:54Z",
-    "stars": 1419,
+    "stars": 1456,
     "name": "HKUDS/DeepTutor",
     "url": "https://github.com/HKUDS/DeepTutor",
     "lang": "Python",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2025-12-29T11:09:18Z",
-    "stars": 1282,
+    "stars": 1319,
     "name": "Tencent-Hunyuan/HY-Motion-1.0",
     "url": "https://github.com/Tencent-Hunyuan/HY-Motion-1.0",
     "lang": "Python",
@@ -25,55 +25,63 @@
   },
   {
     "createdAt": "2025-12-29T22:24:33Z",
-    "stars": 1059,
+    "stars": 1122,
     "name": "buyukakyuz/corroded",
     "url": "https://github.com/buyukakyuz/corroded",
     "lang": "Rust",
     "desc": "Illegal rust"
   },
   {
-    "createdAt": "2025-12-29T21:13:40Z",
-    "stars": 808,
-    "name": "heilcheng/awesome-agent-skills",
-    "url": "https://github.com/heilcheng/awesome-agent-skills",
-    "lang": "",
-    "desc": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)"
-  },
-  {
-    "createdAt": "2025-12-26T00:30:40Z",
-    "stars": 804,
-    "name": "joe-desimone/mongobleed",
-    "url": "https://github.com/joe-desimone/mongobleed",
-    "lang": "JavaScript",
-    "desc": ""
-  },
-  {
     "createdAt": "2025-12-31T06:42:57Z",
-    "stars": 687,
+    "stars": 874,
     "name": "IQuestLab/IQuest-Coder-V1",
     "url": "https://github.com/IQuestLab/IQuest-Coder-V1",
     "lang": "Python",
     "desc": ""
   },
   {
+    "createdAt": "2026-01-01T02:20:41Z",
+    "stars": 849,
+    "name": "CloudAI-X/claude-workflow-v2",
+    "url": "https://github.com/CloudAI-X/claude-workflow-v2",
+    "lang": "Python",
+    "desc": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands"
+  },
+  {
+    "createdAt": "2025-12-29T21:13:40Z",
+    "stars": 833,
+    "name": "heilcheng/awesome-agent-skills",
+    "url": "https://github.com/heilcheng/awesome-agent-skills",
+    "lang": "",
+    "desc": "A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Copilot, VS Code)"
+  },
+  {
+    "createdAt": "2025-12-28T02:09:40Z",
+    "stars": 774,
+    "name": "backnotprop/plannotator",
+    "url": "https://github.com/backnotprop/plannotator",
+    "lang": "TypeScript",
+    "desc": "Annotate and review coding agent plans visually, share with your team, send feedback with one click."
+  },
+  {
     "createdAt": "2025-12-30T18:09:29Z",
-    "stars": 657,
+    "stars": 694,
     "name": "Lulzx/zpdf",
     "url": "https://github.com/Lulzx/zpdf",
     "lang": "Zig",
     "desc": "Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration."
   },
   {
-    "createdAt": "2026-01-01T02:20:41Z",
-    "stars": 620,
-    "name": "CloudAI-X/claude-workflow",
-    "url": "https://github.com/CloudAI-X/claude-workflow",
-    "lang": "Python",
-    "desc": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands"
+    "createdAt": "2025-12-28T22:13:35Z",
+    "stars": 670,
+    "name": "rohanprasadofficial/localflare",
+    "url": "https://github.com/rohanprasadofficial/localflare",
+    "lang": "TypeScript",
+    "desc": "local cloudflare"
   },
   {
     "createdAt": "2025-12-29T03:41:15Z",
-    "stars": 615,
+    "stars": 623,
     "name": "op7418/guizang-s-prompt",
     "url": "https://github.com/op7418/guizang-s-prompt",
     "lang": "",
@@ -81,322 +89,314 @@
   },
   {
     "createdAt": "2025-12-27T22:16:10Z",
-    "stars": 555,
+    "stars": 569,
     "name": "technomancer702/nodecast-tv",
     "url": "https://github.com/technomancer702/nodecast-tv",
     "lang": "JavaScript",
     "desc": "A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly."
   },
   {
-    "createdAt": "2025-12-26T18:43:19Z",
-    "stars": 547,
-    "name": "davidfowl/tally",
-    "url": "https://github.com/davidfowl/tally",
-    "lang": "Python",
-    "desc": "Let agents classify your bank transactions."
-  },
-  {
-    "createdAt": "2025-12-28T02:09:40Z",
-    "stars": 503,
-    "name": "backnotprop/plannotator",
-    "url": "https://github.com/backnotprop/plannotator",
-    "lang": "TypeScript",
-    "desc": "Annotate and review coding agent plans visually, share with your team, send feedback with one click."
-  },
-  {
-    "createdAt": "2025-12-27T15:34:42Z",
-    "stars": 487,
-    "name": "tobi/AudioPriorityBar",
-    "url": "https://github.com/tobi/AudioPriorityBar",
-    "lang": "Swift",
-    "desc": "A native macOS menu bar app for managing audio device priorities"
-  },
-  {
-    "createdAt": "2025-12-28T22:13:35Z",
-    "stars": 487,
-    "name": "rohanprasadofficial/localflare",
-    "url": "https://github.com/rohanprasadofficial/localflare",
-    "lang": "TypeScript",
-    "desc": "local cloudflare"
-  },
-  {
-    "createdAt": "2025-12-28T22:07:11Z",
-    "stars": 437,
-    "name": "liuxiaomingskm/datashield-lightweight-labs",
-    "url": "https://github.com/liuxiaomingskm/datashield-lightweight-labs",
-    "lang": "MDX",
-    "desc": "a lightweight tool to protect privacy/user data in Internet"
-  },
-  {
     "createdAt": "2025-12-31T03:19:29Z",
-    "stars": 406,
+    "stars": 506,
     "name": "VoidmatrixHeathcliff/VoidNovelEngine",
     "url": "https://github.com/VoidmatrixHeathcliff/VoidNovelEngine",
     "lang": "",
     "desc": "A free, modern engine for visual novels | 自由，现代化的视觉小说引擎"
   },
   {
-    "createdAt": "2025-12-26T19:23:08Z",
-    "stars": 394,
-    "name": "kavehtehrani/cloudflare-speed-cli",
-    "url": "https://github.com/kavehtehrani/cloudflare-speed-cli",
-    "lang": "Rust",
-    "desc": "CLI for internet speed test via cloudflare"
-  },
-  {
-    "createdAt": "2025-12-26T16:26:14Z",
-    "stars": 364,
-    "name": "asklokesh/claudeskill-loki-mode",
-    "url": "https://github.com/asklokesh/claudeskill-loki-mode",
-    "lang": "Shell",
-    "desc": "Multi-agent autonomous startup system for Claude Code"
-  },
-  {
-    "createdAt": "2025-12-28T16:45:28Z",
-    "stars": 364,
-    "name": "datawhalechina/easy-vibe",
-    "url": "https://github.com/datawhalechina/easy-vibe",
-    "lang": "",
-    "desc": "项目制学习教程，帮助你从 0 到 1 构建 AI 原生应用。 "
-  },
-  {
-    "createdAt": "2025-12-30T14:36:32Z",
-    "stars": 343,
-    "name": "Dimillian/Skills",
-    "url": "https://github.com/Dimillian/Skills",
-    "lang": "Python",
-    "desc": "My Codex Skills"
-  },
-  {
-    "createdAt": "2025-12-27T15:27:54Z",
-    "stars": 279,
-    "name": "garagesteve1155/PowerTrader_AI",
-    "url": "https://github.com/garagesteve1155/PowerTrader_AI",
-    "lang": "Python",
-    "desc": "Fully automated crypto trading powered by a custom price prediction AI and a structured/tiered DCA system."
-  },
-  {
-    "createdAt": "2025-12-30T19:23:21Z",
-    "stars": 278,
-    "name": "dabit3/openform",
-    "url": "https://github.com/dabit3/openform",
-    "lang": "TypeScript",
-    "desc": "Open Source TypeForm Clone"
-  },
-  {
-    "createdAt": "2026-01-02T02:55:25Z",
-    "stars": 271,
-    "name": "alexknowshtml/smaug",
-    "url": "https://github.com/alexknowshtml/smaug",
-    "lang": "JavaScript",
-    "desc": "Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug collects the valuable things you bookmark."
-  },
-  {
-    "createdAt": "2025-12-29T21:27:10Z",
-    "stars": 262,
-    "name": "humanplane/cross-market-state-fusion",
-    "url": "https://github.com/humanplane/cross-market-state-fusion",
-    "lang": "Python",
-    "desc": "RL agent fusing real-time Binance futures data into Polymarket prediction markets. On-device training with MLX on Apple Silicon."
-  },
-  {
-    "createdAt": "2025-12-27T08:55:40Z",
-    "stars": 247,
-    "name": "UniSecurityGuard/UniSecurityGuard",
-    "url": "https://github.com/UniSecurityGuard/UniSecurityGuard",
-    "lang": "",
-    "desc": "本科华五，曾赴美qs50读博，某兄弟院校副教授，校园门卫亭女性主理人，为防止炸号的备份平台，是本人。"
-  },
-  {
-    "createdAt": "2025-12-29T20:07:20Z",
-    "stars": 226,
-    "name": "ygwyg/merchant",
-    "url": "https://github.com/ygwyg/merchant",
-    "lang": "TypeScript",
-    "desc": "The backend for selling things on the internet."
-  },
-  {
-    "createdAt": "2025-12-30T21:05:15Z",
-    "stars": 226,
-    "name": "GMaN1911/claude-cognitive",
-    "url": "https://github.com/GMaN1911/claude-cognitive",
-    "lang": "Python",
-    "desc": "Working memory for Claude Code - persistent context and multi-instance coordination"
-  },
-  {
-    "createdAt": "2025-12-31T10:41:13Z",
-    "stars": 224,
-    "name": "felix068/LinuxGate",
-    "url": "https://github.com/felix068/LinuxGate",
-    "lang": "C#",
-    "desc": "A modern, user-friendly Windows application that simplifies the process of dual-booting Linux alongside Windows."
+    "createdAt": "2025-12-27T15:34:42Z",
+    "stars": 496,
+    "name": "tobi/AudioPriorityBar",
+    "url": "https://github.com/tobi/AudioPriorityBar",
+    "lang": "Swift",
+    "desc": "A native macOS menu bar app for managing audio device priorities"
   },
   {
     "createdAt": "2025-12-29T06:34:14Z",
-    "stars": 220,
+    "stars": 457,
     "name": "itshover/itshover",
     "url": "https://github.com/itshover/itshover",
     "lang": "TypeScript",
     "desc": "Icons that move with intent"
   },
   {
-    "createdAt": "2025-12-28T20:12:44Z",
-    "stars": 215,
-    "name": "Finsys/dockhand",
-    "url": "https://github.com/Finsys/dockhand",
-    "lang": "Svelte",
-    "desc": "Dockhand - Docker management you will like."
-  },
-  {
-    "createdAt": "2025-12-27T10:32:01Z",
-    "stars": 205,
-    "name": "Luokavin/AutoGLM-For-Android",
-    "url": "https://github.com/Luokavin/AutoGLM-For-Android",
-    "lang": "Kotlin",
-    "desc": "纯 Android 端 Open-AutoGLM 实现，无需电脑"
-  },
-  {
-    "createdAt": "2025-12-26T08:28:42Z",
-    "stars": 203,
-    "name": "Tencent-Hunyuan/HY-MT",
-    "url": "https://github.com/Tencent-Hunyuan/HY-MT",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-27T02:40:43Z",
-    "stars": 201,
-    "name": "iamzhihuix/happy-claude-skills",
-    "url": "https://github.com/iamzhihuix/happy-claude-skills",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2025-12-30T07:45:48Z",
-    "stars": 199,
-    "name": "marckohlbrugge/sessy",
-    "url": "https://github.com/marckohlbrugge/sessy",
-    "lang": "Ruby",
-    "desc": "Open-source email observability for AWS SES"
-  },
-  {
-    "createdAt": "2025-12-30T01:02:27Z",
-    "stars": 196,
-    "name": "tripleyak/SkillForge",
-    "url": "https://github.com/tripleyak/SkillForge",
-    "lang": "Python",
-    "desc": "The ultimate meta-skill for generating best-in-class Claude Code skills."
-  },
-  {
-    "createdAt": "2025-12-27T14:35:33Z",
-    "stars": 176,
-    "name": "rcarmo/PhotosExport",
-    "url": "https://github.com/rcarmo/PhotosExport",
-    "lang": "Swift",
-    "desc": "Export ALL your data from Apple Photos"
-  },
-  {
-    "createdAt": "2025-12-26T22:59:22Z",
-    "stars": 175,
-    "name": "f1shy-dev/distracted",
-    "url": "https://github.com/f1shy-dev/distracted",
-    "lang": "TypeScript",
-    "desc": "blocks distracting websites! annoy you to get back on them..."
-  },
-  {
-    "createdAt": "2025-12-26T12:58:32Z",
-    "stars": 174,
-    "name": "valdanylchuk/xcc700",
-    "url": "https://github.com/valdanylchuk/xcc700",
-    "lang": "C",
-    "desc": "mini C compiler for esp32"
-  },
-  {
-    "createdAt": "2025-12-31T02:01:28Z",
-    "stars": 173,
-    "name": "roshie548/proxmux",
-    "url": "https://github.com/roshie548/proxmux",
-    "lang": "TypeScript",
-    "desc": "Terminal UI for managing Proxmox VE - VMs, containers, storage, and more"
-  },
-  {
-    "createdAt": "2025-12-28T02:39:34Z",
-    "stars": 166,
-    "name": "jvdillon/netv",
-    "url": "https://github.com/jvdillon/netv",
-    "lang": "Python",
-    "desc": "IPTV in your Browser & Transcoding on your Server"
-  },
-  {
-    "createdAt": "2025-12-31T19:30:23Z",
-    "stars": 158,
-    "name": "nucufowidofi38/ai-apps",
-    "url": "https://github.com/nucufowidofi38/ai-apps",
+    "createdAt": "2025-12-28T16:45:28Z",
+    "stars": 449,
+    "name": "datawhalechina/easy-vibe",
+    "url": "https://github.com/datawhalechina/easy-vibe",
     "lang": "",
-    "desc": "Tired of wasting your time on shady tool? Try this:➜➜ https://proreviews.short.gy/ud. Realistic and Accurate images and videos generation in seconds. Used by 100k users daily. ➜➜ https://proreviews.short.gy/best-ai-adult"
+    "desc": "项目制学习教程，帮助你从 0 到 1 构建 AI 原生应用。 "
+  },
+  {
+    "createdAt": "2025-12-28T22:07:11Z",
+    "stars": 438,
+    "name": "liuxiaomingskm/datashield-lightweight-labs",
+    "url": "https://github.com/liuxiaomingskm/datashield-lightweight-labs",
+    "lang": "MDX",
+    "desc": "a lightweight tool to protect privacy/user data in Internet"
+  },
+  {
+    "createdAt": "2026-01-02T02:55:25Z",
+    "stars": 404,
+    "name": "alexknowshtml/smaug",
+    "url": "https://github.com/alexknowshtml/smaug",
+    "lang": "JavaScript",
+    "desc": "Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug collects the valuable things you bookmark."
+  },
+  {
+    "createdAt": "2025-12-30T14:36:32Z",
+    "stars": 373,
+    "name": "Dimillian/Skills",
+    "url": "https://github.com/Dimillian/Skills",
+    "lang": "Python",
+    "desc": "My Codex Skills"
+  },
+  {
+    "createdAt": "2025-12-30T03:32:38Z",
+    "stars": 334,
+    "name": "tukuaiai/tradecat",
+    "url": "https://github.com/tukuaiai/tradecat",
+    "lang": "Python",
+    "desc": "交易猫；tradecat；全市场量化交易数据平台"
   },
   {
     "createdAt": "2026-01-02T03:40:46Z",
-    "stars": 155,
+    "stars": 328,
     "name": "lklynet/hypermind",
     "url": "https://github.com/lklynet/hypermind",
     "lang": "JavaScript",
     "desc": "The High-Availability Solution to a Problem That Doesn't Exist."
   },
   {
-    "createdAt": "2025-12-27T04:51:50Z",
-    "stars": 150,
-    "name": "tsale/awesome-dfir-skills",
-    "url": "https://github.com/tsale/awesome-dfir-skills",
-    "lang": "Python",
-    "desc": "A curated collection of DFIR skills and workflows for InfoSec practitioners."
+    "createdAt": "2025-12-30T19:23:21Z",
+    "stars": 326,
+    "name": "dabit3/openform",
+    "url": "https://github.com/dabit3/openform",
+    "lang": "TypeScript",
+    "desc": "Open Source TypeForm Clone"
   },
   {
-    "createdAt": "2025-12-31T01:19:32Z",
-    "stars": 148,
-    "name": "GitAhubI-Lover/classify_i_machine_learning",
-    "url": "https://github.com/GitAhubI-Lover/classify_i_machine_learning",
+    "createdAt": "2025-12-27T15:27:54Z",
+    "stars": 297,
+    "name": "garagesteve1155/PowerTrader_AI",
+    "url": "https://github.com/garagesteve1155/PowerTrader_AI",
     "lang": "Python",
-    "desc": "classify_i_machine_learning"
+    "desc": "Fully automated crypto trading powered by a custom price prediction AI and a structured/tiered DCA system."
+  },
+  {
+    "createdAt": "2025-12-29T21:27:10Z",
+    "stars": 282,
+    "name": "humanplane/cross-market-state-fusion",
+    "url": "https://github.com/humanplane/cross-market-state-fusion",
+    "lang": "Python",
+    "desc": "RL agent fusing real-time Binance futures data into Polymarket prediction markets. On-device training with MLX on Apple Silicon."
+  },
+  {
+    "createdAt": "2025-12-30T21:05:15Z",
+    "stars": 279,
+    "name": "GMaN1911/claude-cognitive",
+    "url": "https://github.com/GMaN1911/claude-cognitive",
+    "lang": "Python",
+    "desc": "Working memory for Claude Code - persistent context and multi-instance coordination"
+  },
+  {
+    "createdAt": "2025-12-28T20:12:44Z",
+    "stars": 275,
+    "name": "Finsys/dockhand",
+    "url": "https://github.com/Finsys/dockhand",
+    "lang": "Svelte",
+    "desc": "Dockhand - Docker management you will like."
+  },
+  {
+    "createdAt": "2025-12-27T08:55:40Z",
+    "stars": 257,
+    "name": "UniSecurityGuard/UniSecurityGuard",
+    "url": "https://github.com/UniSecurityGuard/UniSecurityGuard",
+    "lang": "",
+    "desc": "本科华五，曾赴美qs50读博，某兄弟院校副教授，校园门卫亭女性主理人，为防止炸号的备份平台，是本人。"
+  },
+  {
+    "createdAt": "2025-12-31T22:00:52Z",
+    "stars": 257,
+    "name": "kamranahmedse/claude-run",
+    "url": "https://github.com/kamranahmedse/claude-run",
+    "lang": "TypeScript",
+    "desc": "A beautiful web UI for browsing Claude Code conversation history."
+  },
+  {
+    "createdAt": "2025-12-29T20:07:20Z",
+    "stars": 251,
+    "name": "ygwyg/merchant",
+    "url": "https://github.com/ygwyg/merchant",
+    "lang": "TypeScript",
+    "desc": "The backend for selling things on the internet."
+  },
+  {
+    "createdAt": "2025-12-27T10:32:01Z",
+    "stars": 240,
+    "name": "Luokavin/AutoGLM-For-Android",
+    "url": "https://github.com/Luokavin/AutoGLM-For-Android",
+    "lang": "Kotlin",
+    "desc": "纯 Android 端 Open-AutoGLM 实现，无需电脑"
+  },
+  {
+    "createdAt": "2025-12-31T10:41:13Z",
+    "stars": 237,
+    "name": "felix068/LinuxGate",
+    "url": "https://github.com/felix068/LinuxGate",
+    "lang": "C#",
+    "desc": "A modern, user-friendly Windows application that simplifies the process of dual-booting Linux alongside Windows."
   },
   {
     "createdAt": "2025-12-27T23:26:30Z",
-    "stars": 145,
+    "stars": 233,
     "name": "BreakingBread0/prometheus",
     "url": "https://github.com/BreakingBread0/prometheus",
     "lang": "C++",
     "desc": "Research and Reverse-Engineering project of Overwatch!"
   },
   {
-    "createdAt": "2025-12-28T05:31:06Z",
-    "stars": 144,
-    "name": "zhuokaizhao/academia_cv_template",
-    "url": "https://github.com/zhuokaizhao/academia_cv_template",
-    "lang": "TeX",
+    "createdAt": "2025-12-30T07:45:48Z",
+    "stars": 220,
+    "name": "marckohlbrugge/sessy",
+    "url": "https://github.com/marckohlbrugge/sessy",
+    "lang": "Ruby",
+    "desc": "Open-source email observability for AWS SES"
+  },
+  {
+    "createdAt": "2025-12-27T02:40:43Z",
+    "stars": 204,
+    "name": "iamzhihuix/happy-claude-skills",
+    "url": "https://github.com/iamzhihuix/happy-claude-skills",
+    "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2025-12-31T12:44:05Z",
-    "stars": 143,
-    "name": "YuukiJapanTech/AUhikari-802.1x",
-    "url": "https://github.com/YuukiJapanTech/AUhikari-802.1x",
+    "createdAt": "2025-12-27T19:02:08Z",
+    "stars": 203,
+    "name": "neiii/bridle",
+    "url": "https://github.com/neiii/bridle",
+    "lang": "Rust",
+    "desc": "TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose)"
+  },
+  {
+    "createdAt": "2025-12-30T01:02:27Z",
+    "stars": 203,
+    "name": "tripleyak/SkillForge",
+    "url": "https://github.com/tripleyak/SkillForge",
+    "lang": "Python",
+    "desc": "The ultimate meta-skill for generating best-in-class Claude Code skills."
+  },
+  {
+    "createdAt": "2025-12-31T10:07:10Z",
+    "stars": 202,
+    "name": "KartikLabhshetwar/oneurl",
+    "url": "https://github.com/KartikLabhshetwar/oneurl",
+    "lang": "TypeScript",
+    "desc": "One URL for all your links, An open-source alternative to Linktree. Create a beautiful profile page to share all your important links in one place."
+  },
+  {
+    "createdAt": "2026-01-03T07:37:28Z",
+    "stars": 199,
+    "name": "OthmanAdi/planning-with-files",
+    "url": "https://github.com/OthmanAdi/planning-with-files",
     "lang": "",
-    "desc": "auひかりでHGWの代わりに802.1x認証を行い、HGWを使用せずに接続します。"
+    "desc": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition."
+  },
+  {
+    "createdAt": "2025-12-31T01:19:32Z",
+    "stars": 191,
+    "name": "GitAhubI-Lover/classify_i_machine_learning",
+    "url": "https://github.com/GitAhubI-Lover/classify_i_machine_learning",
+    "lang": "Python",
+    "desc": "classify_i_machine_learning"
+  },
+  {
+    "createdAt": "2025-12-31T02:01:28Z",
+    "stars": 188,
+    "name": "roshie548/proxmux",
+    "url": "https://github.com/roshie548/proxmux",
+    "lang": "TypeScript",
+    "desc": "Terminal UI for managing Proxmox VE - VMs, containers, storage, and more"
+  },
+  {
+    "createdAt": "2025-12-28T19:38:26Z",
+    "stars": 187,
+    "name": "Minecraft-Radiance/Radiance",
+    "url": "https://github.com/Minecraft-Radiance/Radiance",
+    "lang": "",
+    "desc": "Radiance is rebuilt of Minecraft renderer on a Vulkan C++ backend, featuring native Hardware Ray Tracing on Windows & Linux. Break free from OpenGL limits for Minecraft."
+  },
+  {
+    "createdAt": "2026-01-02T15:36:46Z",
+    "stars": 184,
+    "name": "zhalice2011/ProxyLLM",
+    "url": "https://github.com/zhalice2011/ProxyLLM",
+    "lang": "TypeScript",
+    "desc": "ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to unify the capabilities of multiple LLM websites into an OpenAI-compatible API, enabling one-click integration with Claude Code)"
   },
   {
     "createdAt": "2025-12-29T14:14:08Z",
-    "stars": 141,
+    "stars": 183,
     "name": "guillevc/yubal",
     "url": "https://github.com/guillevc/yubal",
     "lang": "Python",
     "desc": "YouTube Music album downloader with Spotify metadata auto-tagging"
   },
   {
-    "createdAt": "2025-12-27T00:21:56Z",
-    "stars": 140,
-    "name": "HugoSMPnet/HugoSMP-Client",
-    "url": "https://github.com/HugoSMPnet/HugoSMP-Client",
-    "lang": "Java",
-    "desc": "Lade dir jetzt den HugoSMP Client herunter und erhalte ein gratis Netherite Starterkit"
+    "createdAt": "2025-12-27T14:35:33Z",
+    "stars": 182,
+    "name": "rcarmo/PhotosExport",
+    "url": "https://github.com/rcarmo/PhotosExport",
+    "lang": "Swift",
+    "desc": "Export ALL your data from Apple Photos"
+  },
+  {
+    "createdAt": "2025-12-28T02:39:34Z",
+    "stars": 176,
+    "name": "jvdillon/netv",
+    "url": "https://github.com/jvdillon/netv",
+    "lang": "Python",
+    "desc": "IPTV in your Browser & Transcoding on your Server"
+  },
+  {
+    "createdAt": "2026-01-01T10:25:45Z",
+    "stars": 175,
+    "name": "yifanzhang-pro/deep-delta-learning",
+    "url": "https://github.com/yifanzhang-pro/deep-delta-learning",
+    "lang": "HTML",
+    "desc": "Official Project Page for \"Deep Delta Learning\""
+  },
+  {
+    "createdAt": "2025-12-31T19:30:23Z",
+    "stars": 174,
+    "name": "nucufowidofi38/ai-apps",
+    "url": "https://github.com/nucufowidofi38/ai-apps",
+    "lang": "",
+    "desc": "Tired of wasting your time on shady tool? Try this:➜➜ https://proreviews.short.gy/ud. Realistic and Accurate images and videos generation in seconds. Used by 100k users daily. ➜➜ https://proreviews.short.gy/best-ai-adult"
+  },
+  {
+    "createdAt": "2026-01-02T16:09:14Z",
+    "stars": 168,
+    "name": "rohunvora/just-fucking-cancel",
+    "url": "https://github.com/rohunvora/just-fucking-cancel",
+    "lang": "HTML",
+    "desc": "claude code cancels your subscriptions for you"
+  },
+  {
+    "createdAt": "2025-12-31T06:39:05Z",
+    "stars": 166,
+    "name": "Maciejonos/qbitwebui",
+    "url": "https://github.com/Maciejonos/qbitwebui",
+    "lang": "TypeScript",
+    "desc": "A modern web interface for managing multiple qBittorrent instances"
+  },
+  {
+    "createdAt": "2025-12-27T04:51:50Z",
+    "stars": 158,
+    "name": "tsale/awesome-dfir-skills",
+    "url": "https://github.com/tsale/awesome-dfir-skills",
+    "lang": "Python",
+    "desc": "A curated collection of DFIR skills and workflows for InfoSec practitioners."
   }
 ]
