@@ -1,7 +1,7 @@
 [
   {
     "createdAt": "2026-01-03T07:37:28Z",
-    "stars": 5483,
+    "stars": 6500,
     "name": "OthmanAdi/planning-with-files",
     "url": "https://github.com/OthmanAdi/planning-with-files",
     "lang": "Shell",
@@ -9,7 +9,7 @@
   },
   {
     "createdAt": "2026-01-02T21:45:11Z",
-    "stars": 2061,
+    "stars": 3600,
     "name": "kepano/obsidian-skills",
     "url": "https://github.com/kepano/obsidian-skills",
     "lang": "",
@@ -17,7 +17,7 @@
   },
   {
     "createdAt": "2026-01-06T18:51:02Z",
-    "stars": 1833,
+    "stars": 3069,
     "name": "ChrisWiles/claude-code-showcase",
     "url": "https://github.com/ChrisWiles/claude-code-showcase",
     "lang": "JavaScript",
@@ -25,55 +25,79 @@
   },
   {
     "createdAt": "2026-01-02T01:35:07Z",
-    "stars": 1760,
+    "stars": 1846,
     "name": "jarrodwatts/claude-hud",
     "url": "https://github.com/jarrodwatts/claude-hud",
     "lang": "JavaScript",
     "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress"
   },
   {
-    "createdAt": "2026-01-04T09:50:22Z",
-    "stars": 1580,
-    "name": "huseyinbabal/taws",
-    "url": "https://github.com/huseyinbabal/taws",
-    "lang": "Rust",
-    "desc": "Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager"
-  },
-  {
     "createdAt": "2026-01-03T13:16:29Z",
-    "stars": 1368,
+    "stars": 1709,
     "name": "Lightricks/LTX-2",
     "url": "https://github.com/Lightricks/LTX-2",
     "lang": "Python",
     "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model."
   },
   {
+    "createdAt": "2026-01-04T09:50:22Z",
+    "stars": 1656,
+    "name": "huseyinbabal/taws",
+    "url": "https://github.com/huseyinbabal/taws",
+    "lang": "Rust",
+    "desc": "Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager"
+  },
+  {
     "createdAt": "2026-01-02T22:28:50Z",
-    "stars": 1236,
+    "stars": 1280,
     "name": "numman-ali/cc-mirror",
     "url": "https://github.com/numman-ali/cc-mirror",
     "lang": "TypeScript",
     "desc": "Create multiple isolated Claude Code variants with custom providers (Z.ai, MiniMax, OpenRouter, LiteLLM)"
   },
   {
-    "createdAt": "2026-01-01T02:20:41Z",
-    "stars": 1065,
-    "name": "CloudAI-X/claude-workflow-v2",
-    "url": "https://github.com/CloudAI-X/claude-workflow-v2",
-    "lang": "Python",
-    "desc": "Universal Claude Code workflow plugin with agents, skills, hooks, and commands"
+    "createdAt": "2026-01-03T04:35:48Z",
+    "stars": 1196,
+    "name": "ZeframLou/call-me",
+    "url": "https://github.com/ZeframLou/call-me",
+    "lang": "TypeScript",
+    "desc": "Minimal plugin that lets Claude Code call you on the phone."
   },
   {
     "createdAt": "2026-01-06T13:44:30Z",
-    "stars": 908,
+    "stars": 1169,
     "name": "ophub/fnnas",
     "url": "https://github.com/ophub/fnnas",
     "lang": "Shell",
     "desc": "Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc."
   },
   {
+    "createdAt": "2026-01-07T14:45:10Z",
+    "stars": 1069,
+    "name": "snarktank/ralph",
+    "url": "https://github.com/snarktank/ralph",
+    "lang": "TypeScript",
+    "desc": "Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD items are complete. "
+  },
+  {
+    "createdAt": "2026-01-04T15:56:26Z",
+    "stars": 814,
+    "name": "fengshao1227/ccg-workflow",
+    "url": "https://github.com/fengshao1227/ccg-workflow",
+    "lang": "Go",
+    "desc": "多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令"
+  },
+  {
+    "createdAt": "2026-01-06T23:24:00Z",
+    "stars": 795,
+    "name": "dvdsgl/claude-canvas",
+    "url": "https://github.com/dvdsgl/claude-canvas",
+    "lang": "TypeScript",
+    "desc": "Give Claude Code an external monitor"
+  },
+  {
     "createdAt": "2026-01-05T00:41:45Z",
-    "stars": 743,
+    "stars": 795,
     "name": "Dammyjay93/claude-design-skill",
     "url": "https://github.com/Dammyjay93/claude-design-skill",
     "lang": "Shell",
@@ -81,143 +105,127 @@
   },
   {
     "createdAt": "2026-01-03T23:33:27Z",
-    "stars": 742,
+    "stars": 772,
     "name": "jenish-sojitra/JSAnalyzer",
     "url": "https://github.com/jenish-sojitra/JSAnalyzer",
     "lang": "Python",
     "desc": ""
   },
   {
-    "createdAt": "2026-01-04T15:56:26Z",
-    "stars": 689,
-    "name": "fengshao1227/ccg-workflow",
-    "url": "https://github.com/fengshao1227/ccg-workflow",
-    "lang": "Go",
-    "desc": "多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令"
-  },
-  {
-    "createdAt": "2026-01-03T04:35:48Z",
-    "stars": 668,
-    "name": "ZeframLou/call-me",
-    "url": "https://github.com/ZeframLou/call-me",
-    "lang": "TypeScript",
-    "desc": "Minimal plugin that lets Claude Code call you on the phone."
-  },
-  {
-    "createdAt": "2026-01-06T23:24:00Z",
-    "stars": 639,
-    "name": "dvdsgl/claude-canvas",
-    "url": "https://github.com/dvdsgl/claude-canvas",
-    "lang": "TypeScript",
-    "desc": "Give Claude Code an external monitor"
-  },
-  {
-    "createdAt": "2026-01-02T02:55:25Z",
-    "stars": 623,
-    "name": "alexknowshtml/smaug",
-    "url": "https://github.com/alexknowshtml/smaug",
-    "lang": "JavaScript",
-    "desc": "Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug collects the valuable things you bookmark."
-  },
-  {
-    "createdAt": "2026-01-07T14:45:10Z",
-    "stars": 511,
-    "name": "snarktank/ralph",
-    "url": "https://github.com/snarktank/ralph",
-    "lang": "TypeScript",
-    "desc": "Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD items are complete. "
-  },
-  {
-    "createdAt": "2026-01-02T03:40:46Z",
-    "stars": 459,
-    "name": "lklynet/hypermind",
-    "url": "https://github.com/lklynet/hypermind",
-    "lang": "JavaScript",
-    "desc": "The High-Availability Solution to a Problem That Doesn't Exist."
-  },
-  {
-    "createdAt": "2026-01-04T19:39:35Z",
-    "stars": 449,
-    "name": "MedUnes/go-kata",
-    "url": "https://github.com/MedUnes/go-kata",
-    "lang": "",
-    "desc": "A collection of daily coding challenges designed to help you master idiomatic Go through deliberate, repetitive practice."
-  },
-  {
-    "createdAt": "2026-01-03T07:12:10Z",
-    "stars": 439,
-    "name": "openprose/prose",
-    "url": "https://github.com/openprose/prose",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2026-01-02T13:14:28Z",
-    "stars": 436,
-    "name": "numman-ali/n-skills",
-    "url": "https://github.com/numman-ali/n-skills",
-    "lang": "TypeScript",
-    "desc": "Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills"
-  },
-  {
-    "createdAt": "2026-01-03T21:18:55Z",
-    "stars": 394,
-    "name": "vercel-labs/ralph-loop-agent",
-    "url": "https://github.com/vercel-labs/ralph-loop-agent",
-    "lang": "TypeScript",
-    "desc": "Continuous Autonomy for the AI SDK"
-  },
-  {
     "createdAt": "2026-01-08T06:30:49Z",
-    "stars": 393,
+    "stars": 647,
     "name": "jarrodwatts/claude-code-config",
     "url": "https://github.com/jarrodwatts/claude-code-config",
     "lang": "Python",
     "desc": "My personal Claude Code configuration - rules, hooks, agents, skills, and commands"
   },
   {
+    "createdAt": "2026-01-02T02:55:25Z",
+    "stars": 638,
+    "name": "alexknowshtml/smaug",
+    "url": "https://github.com/alexknowshtml/smaug",
+    "lang": "JavaScript",
+    "desc": "Archive your Twitter/X bookmarks to markdown. Automatically.  Like a dragon hoarding treasure, Smaug collects the valuable things you bookmark."
+  },
+  {
+    "createdAt": "2026-01-02T03:40:46Z",
+    "stars": 541,
+    "name": "lklynet/hypermind",
+    "url": "https://github.com/lklynet/hypermind",
+    "lang": "JavaScript",
+    "desc": "The High-Availability Solution to a Problem That Doesn't Exist."
+  },
+  {
+    "createdAt": "2026-01-03T07:12:10Z",
+    "stars": 486,
+    "name": "openprose/prose",
+    "url": "https://github.com/openprose/prose",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-04T19:39:35Z",
+    "stars": 477,
+    "name": "MedUnes/go-kata",
+    "url": "https://github.com/MedUnes/go-kata",
+    "lang": "",
+    "desc": "A collection of daily coding challenges designed to help you master idiomatic Go through deliberate, repetitive practice."
+  },
+  {
+    "createdAt": "2026-01-02T13:14:28Z",
+    "stars": 473,
+    "name": "numman-ali/n-skills",
+    "url": "https://github.com/numman-ali/n-skills",
+    "lang": "TypeScript",
+    "desc": "Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills"
+  },
+  {
     "createdAt": "2026-01-07T11:45:21Z",
-    "stars": 389,
+    "stars": 471,
     "name": "Dimillian/CodexSkillManager",
     "url": "https://github.com/Dimillian/CodexSkillManager",
     "lang": "Swift",
     "desc": "macOS app to manage your Codex skills"
   },
   {
-    "createdAt": "2026-01-03T11:06:18Z",
-    "stars": 364,
-    "name": "kyksj-1/StrategyRealizationHelp",
-    "url": "https://github.com/kyksj-1/StrategyRealizationHelp",
-    "lang": "Python",
-    "desc": "An easy help to realize some trivail strategy"
+    "createdAt": "2026-01-03T21:18:55Z",
+    "stars": 440,
+    "name": "vercel-labs/ralph-loop-agent",
+    "url": "https://github.com/vercel-labs/ralph-loop-agent",
+    "lang": "TypeScript",
+    "desc": "Continuous Autonomy for the AI SDK"
   },
   {
     "createdAt": "2026-01-04T17:47:19Z",
-    "stars": 360,
+    "stars": 392,
     "name": "marcoaapfortes/Mantic.sh",
     "url": "https://github.com/marcoaapfortes/Mantic.sh",
     "lang": "TypeScript",
     "desc": "A structural code search engine for Al agents."
   },
   {
+    "createdAt": "2026-01-08T03:42:57Z",
+    "stars": 378,
+    "name": "QwenLM/Qwen3-VL-Embedding",
+    "url": "https://github.com/QwenLM/Qwen3-VL-Embedding",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-03T11:06:18Z",
+    "stars": 376,
+    "name": "kyksj-1/StrategyRealizationHelp",
+    "url": "https://github.com/kyksj-1/StrategyRealizationHelp",
+    "lang": "Python",
+    "desc": "An easy help to realize some trivail strategy"
+  },
+  {
     "createdAt": "2026-01-02T16:09:14Z",
-    "stars": 357,
+    "stars": 371,
     "name": "rohunvora/just-fucking-cancel",
     "url": "https://github.com/rohunvora/just-fucking-cancel",
     "lang": "HTML",
     "desc": "claude code cancels your subscriptions for you"
   },
   {
-    "createdAt": "2026-01-01T03:10:05Z",
-    "stars": 332,
-    "name": "pipecat-ai/nemotron-january-2026",
-    "url": "https://github.com/pipecat-ai/nemotron-january-2026",
+    "createdAt": "2026-01-06T19:38:32Z",
+    "stars": 354,
+    "name": "x011/smtp-tunnel-proxy",
+    "url": "https://github.com/x011/smtp-tunnel-proxy",
     "lang": "Python",
-    "desc": ""
+    "desc": "A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls."
+  },
+  {
+    "createdAt": "2026-01-02T06:12:06Z",
+    "stars": 343,
+    "name": "zs1083339604/FaceWinUnlock-Tauri",
+    "url": "https://github.com/zs1083339604/FaceWinUnlock-Tauri",
+    "lang": "Rust",
+    "desc": "一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。"
   },
   {
     "createdAt": "2026-01-05T15:31:26Z",
-    "stars": 303,
+    "stars": 338,
     "name": "zju3dv/InfiniDepth",
     "url": "https://github.com/zju3dv/InfiniDepth",
     "lang": "",
@@ -225,178 +233,170 @@
   },
   {
     "createdAt": "2026-01-03T17:48:38Z",
-    "stars": 300,
+    "stars": 318,
     "name": "ARahim3/unsloth-mlx",
     "url": "https://github.com/ARahim3/unsloth-mlx",
     "lang": "Python",
     "desc": "Bringing the Unsloth experience to Mac users via Apple's MLX framework"
   },
   {
-    "createdAt": "2026-01-02T06:12:06Z",
-    "stars": 294,
-    "name": "zs1083339604/FaceWinUnlock-Tauri",
-    "url": "https://github.com/zs1083339604/FaceWinUnlock-Tauri",
-    "lang": "Rust",
-    "desc": "一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。"
-  },
-  {
-    "createdAt": "2026-01-05T02:30:52Z",
-    "stars": 287,
-    "name": "freestylefly/director_ai",
-    "url": "https://github.com/freestylefly/director_ai",
-    "lang": "Dart",
-    "desc": "AI 漫剧制作 APP，能一键生成剧本、分镜及合成视频，让你在手机上也能快速制作漫剧。"
-  },
-  {
-    "createdAt": "2026-01-03T20:51:36Z",
-    "stars": 281,
-    "name": "BayramAnnakov/claude-reflect",
-    "url": "https://github.com/BayramAnnakov/claude-reflect",
-    "lang": "Python",
-    "desc": "A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md."
-  },
-  {
-    "createdAt": "2026-01-01T10:25:45Z",
-    "stars": 281,
-    "name": "yifanzhang-pro/deep-delta-learning",
-    "url": "https://github.com/yifanzhang-pro/deep-delta-learning",
-    "lang": "HTML",
-    "desc": "Official Project Page for Deep Delta Learning (https://huggingface.co/papers/2601.00417)"
-  },
-  {
-    "createdAt": "2026-01-03T21:20:46Z",
-    "stars": 270,
-    "name": "karpathy/rustbpe",
-    "url": "https://github.com/karpathy/rustbpe",
-    "lang": "Rust",
-    "desc": "The missing tiktoken training code"
-  },
-  {
-    "createdAt": "2026-01-04T17:03:20Z",
-    "stars": 268,
-    "name": "cholf5/claude-code-in-action",
-    "url": "https://github.com/cholf5/claude-code-in-action",
-    "lang": "HTML",
-    "desc": "《Claude Code in Action》中文版"
-  },
-  {
     "createdAt": "2026-01-07T17:26:34Z",
-    "stars": 263,
+    "stars": 314,
     "name": "shuding/better-all",
     "url": "https://github.com/shuding/better-all",
     "lang": "TypeScript",
     "desc": "Better Promise.all with automatic dependency optimization"
   },
   {
-    "createdAt": "2026-01-03T11:25:48Z",
-    "stars": 259,
-    "name": "Snailclimb/interview-guide",
-    "url": "https://github.com/Snailclimb/interview-guide",
-    "lang": "Java",
-    "desc": "基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。"
+    "createdAt": "2026-01-05T02:30:52Z",
+    "stars": 309,
+    "name": "freestylefly/director_ai",
+    "url": "https://github.com/freestylefly/director_ai",
+    "lang": "Dart",
+    "desc": "AI 漫剧制作 APP，能一键生成剧本、分镜及合成视频，让你在手机上也能快速制作漫剧。"
+  },
+  {
+    "createdAt": "2026-01-04T20:05:36Z",
+    "stars": 304,
+    "name": "mubaraknumann/unifideck",
+    "url": "https://github.com/mubaraknumann/unifideck",
+    "lang": "Python",
+    "desc": "A Decky Loader plugin that brings together games from Steam, Epic Games Store, GOG and Amazon into a single, unified library experience on your Steam Deck."
+  },
+  {
+    "createdAt": "2026-01-03T20:51:36Z",
+    "stars": 294,
+    "name": "BayramAnnakov/claude-reflect",
+    "url": "https://github.com/BayramAnnakov/claude-reflect",
+    "lang": "Python",
+    "desc": "A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md."
+  },
+  {
+    "createdAt": "2026-01-05T04:49:44Z",
+    "stars": 284,
+    "name": "huangserva/skill-prompt-generator",
+    "url": "https://github.com/huangserva/skill-prompt-generator",
+    "lang": "Python",
+    "desc": "这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制"
+  },
+  {
+    "createdAt": "2026-01-03T21:20:46Z",
+    "stars": 279,
+    "name": "karpathy/rustbpe",
+    "url": "https://github.com/karpathy/rustbpe",
+    "lang": "Rust",
+    "desc": "The missing tiktoken training code"
+  },
+  {
+    "createdAt": "2026-01-08T02:59:32Z",
+    "stars": 278,
+    "name": "GBSOSS/skill-from-masters",
+    "url": "https://github.com/GBSOSS/skill-from-masters",
+    "lang": "",
+    "desc": "Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain experts."
   },
   {
     "createdAt": "2026-01-02T09:33:12Z",
-    "stars": 257,
+    "stars": 277,
     "name": "saidsurucu/borsapy",
     "url": "https://github.com/saidsurucu/borsapy",
     "lang": "Python",
     "desc": "Python library for Turkish financial markets - BIST stocks, forex, crypto, funds, inflation"
   },
   {
-    "createdAt": "2026-01-06T19:38:32Z",
-    "stars": 252,
-    "name": "x011/smtp-tunnel-proxy",
-    "url": "https://github.com/x011/smtp-tunnel-proxy",
-    "lang": "Python",
-    "desc": "A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls."
+    "createdAt": "2026-01-04T17:03:20Z",
+    "stars": 273,
+    "name": "cholf5/claude-code-in-action",
+    "url": "https://github.com/cholf5/claude-code-in-action",
+    "lang": "HTML",
+    "desc": "《Claude Code in Action》中文版"
+  },
+  {
+    "createdAt": "2026-01-03T11:25:48Z",
+    "stars": 271,
+    "name": "Snailclimb/interview-guide",
+    "url": "https://github.com/Snailclimb/interview-guide",
+    "lang": "Java",
+    "desc": "基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。"
   },
   {
     "createdAt": "2026-01-03T20:11:07Z",
-    "stars": 247,
-    "name": "kasperjunge/agent-resources-project",
-    "url": "https://github.com/kasperjunge/agent-resources-project",
-    "lang": "TypeScript",
+    "stars": 267,
+    "name": "kasperjunge/agent-resources",
+    "url": "https://github.com/kasperjunge/agent-resources",
+    "lang": "Python",
     "desc": "Install Claude Code skills from GitHub with one command: uvx add-skill 🚀 Also works for slash commands and subagents 🤙"
   },
   {
-    "createdAt": "2026-01-03T14:25:21Z",
-    "stars": 246,
-    "name": "pipethedev/distributed-system-algorithms",
-    "url": "https://github.com/pipethedev/distributed-system-algorithms",
-    "lang": "Go",
-    "desc": ""
-  },
-  {
-    "createdAt": "2026-01-02T15:36:46Z",
-    "stars": 245,
-    "name": "zhalice2011/ProxyLLM",
-    "url": "https://github.com/zhalice2011/ProxyLLM",
-    "lang": "TypeScript",
-    "desc": "ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to unify the capabilities of multiple LLM websites into an OpenAI-compatible API, enabling one-click integration with Claude Code)"
-  },
-  {
-    "createdAt": "2026-01-02T16:46:12Z",
-    "stars": 241,
-    "name": "wedow/ticket",
-    "url": "https://github.com/wedow/ticket",
-    "lang": "Shell",
-    "desc": "Fast, powerful, git-native ticket tracking in a single bash script. Dependency graphs, priority levels, zero setup."
-  },
-  {
-    "createdAt": "2026-01-01T23:53:40Z",
-    "stars": 236,
-    "name": "aiming-lab/SimpleMem",
-    "url": "https://github.com/aiming-lab/SimpleMem",
-    "lang": "Python",
-    "desc": "SimpleMem: Efficient Lifelong Memory for LLM Agents"
-  },
-  {
-    "createdAt": "2026-01-06T03:53:31Z",
-    "stars": 235,
-    "name": "OrionStarAI/claudecode-vertex-proxy",
-    "url": "https://github.com/OrionStarAI/claudecode-vertex-proxy",
-    "lang": "Python",
-    "desc": "Proxy service for Claude Code to access Claude models via GCP Vertex AI | 让 Claude Code 通过 GCP Vertex AI 访问 Claude 模型"
-  },
-  {
-    "createdAt": "2026-01-04T19:33:39Z",
-    "stars": 233,
-    "name": "z-lab/dflash",
-    "url": "https://github.com/z-lab/dflash",
-    "lang": "Python",
-    "desc": "Block Diffusion for Ultra-Fast Speculative Decoding"
-  },
-  {
-    "createdAt": "2026-01-01T01:25:52Z",
-    "stars": 222,
-    "name": "T3-Content/claude-blocker",
-    "url": "https://github.com/T3-Content/claude-blocker",
-    "lang": "TypeScript",
-    "desc": ""
-  },
-  {
-    "createdAt": "2026-01-02T15:40:45Z",
-    "stars": 222,
-    "name": "disler/claude-code-damage-control",
-    "url": "https://github.com/disler/claude-code-damage-control",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
     "createdAt": "2026-01-06T23:05:53Z",
-    "stars": 221,
+    "stars": 263,
     "name": "jonesphillip/weft",
     "url": "https://github.com/jonesphillip/weft",
     "lang": "TypeScript",
     "desc": "Task management, but AI agents do your tasks. Self-host on Cloudflare."
   },
   {
-    "createdAt": "2026-01-04T20:05:36Z",
-    "stars": 221,
-    "name": "mubaraknumann/unifideck",
-    "url": "https://github.com/mubaraknumann/unifideck",
+    "createdAt": "2026-01-04T19:33:39Z",
+    "stars": 259,
+    "name": "z-lab/dflash",
+    "url": "https://github.com/z-lab/dflash",
     "lang": "Python",
-    "desc": "A Decky Loader plugin that brings together games from Steam, Epic Games Store, and GOG into a single, unified library experience on your Steam Deck."
+    "desc": "Block Diffusion for Ultra-Fast Speculative Decoding"
+  },
+  {
+    "createdAt": "2026-01-07T07:48:17Z",
+    "stars": 251,
+    "name": "muratcankoylan/ralph-wiggum-marketer",
+    "url": "https://github.com/muratcankoylan/ralph-wiggum-marketer",
+    "lang": "JavaScript",
+    "desc": "A Claude Code Plugin that provides an autonomous AI copywriter."
+  },
+  {
+    "createdAt": "2026-01-02T15:40:45Z",
+    "stars": 251,
+    "name": "disler/claude-code-damage-control",
+    "url": "https://github.com/disler/claude-code-damage-control",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-03T14:25:21Z",
+    "stars": 250,
+    "name": "pipethedev/distributed-system-algorithms",
+    "url": "https://github.com/pipethedev/distributed-system-algorithms",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-03T01:14:49Z",
+    "stars": 249,
+    "name": "PDFCraftTool/pdfcraft",
+    "url": "https://github.com/PDFCraftTool/pdfcraft",
+    "lang": "JavaScript",
+    "desc": "PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 80+ professional tools, you can edit, convert, merge, split, and secure your PDF files without ever uploading them to a server."
+  },
+  {
+    "createdAt": "2026-01-04T12:18:23Z",
+    "stars": 248,
+    "name": "rayasabari/joko-ui",
+    "url": "https://github.com/rayasabari/joko-ui",
+    "lang": "TypeScript",
+    "desc": "Free Open Source Tailwind CSS Component for Sat-set Developers with Zero Configuration, Installation, and Setup"
+  },
+  {
+    "createdAt": "2026-01-09T03:36:29Z",
+    "stars": 248,
+    "name": "Yeachan-Heo/oh-my-claude-sisyphus",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "lang": "TypeScript",
+    "desc": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?"
+  },
+  {
+    "createdAt": "2026-01-02T15:36:46Z",
+    "stars": 248,
+    "name": "zhalice2011/ProxyLLM",
+    "url": "https://github.com/zhalice2011/ProxyLLM",
+    "lang": "TypeScript",
+    "desc": "ProxyLLM是一款本地 Electron 应用，通过捕获浏览器会话把多种 LLM网站的能力统一为 OpenAI 兼容 API, 一键应用到Claude Code (ProxyLLM is a local Electron application that captures browser sessions to unify the capabilities of multiple LLM websites into an OpenAI-compatible API, enabling one-click integration with Claude Code)"
   }
 ]
