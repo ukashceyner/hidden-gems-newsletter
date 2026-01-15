@@ -80,4 +80,4 @@ LIMIT=50             # how many repos to fetch
 
 ## License
 
-This project is open source and available for anyone to use and modify.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
