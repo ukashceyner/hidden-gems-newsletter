@@ -1,31 +1,31 @@
 [
   {
     "createdAt": "2026-01-11T05:38:15Z",
-    "stars": 6151,
+    "stars": 6827,
     "name": "vercel-labs/agent-browser",
     "url": "https://github.com/vercel-labs/agent-browser",
     "lang": "TypeScript",
     "desc": "Browser automation CLI for AI agents"
   },
   {
-    "createdAt": "2026-01-09T02:33:29Z",
-    "stars": 3843,
-    "name": "torvalds/AudioNoise",
-    "url": "https://github.com/torvalds/AudioNoise",
-    "lang": "C",
-    "desc": "Random digital audio effects"
-  },
-  {
     "createdAt": "2026-01-14T17:22:39Z",
-    "stars": 3228,
+    "stars": 5188,
     "name": "vercel-labs/json-render",
     "url": "https://github.com/vercel-labs/json-render",
     "lang": "TypeScript",
     "desc": "AI → JSON → UI"
   },
   {
+    "createdAt": "2026-01-09T02:33:29Z",
+    "stars": 3893,
+    "name": "torvalds/AudioNoise",
+    "url": "https://github.com/torvalds/AudioNoise",
+    "lang": "C",
+    "desc": "Random digital audio effects"
+  },
+  {
     "createdAt": "2026-01-11T15:08:19Z",
-    "stars": 2660,
+    "stars": 2732,
     "name": "z-libs/Zen-C",
     "url": "https://github.com/z-libs/Zen-C",
     "lang": "C",
@@ -33,7 +33,7 @@
   },
   {
     "createdAt": "2026-01-12T05:26:50Z",
-    "stars": 2467,
+    "stars": 2622,
     "name": "deepseek-ai/Engram",
     "url": "https://github.com/deepseek-ai/Engram",
     "lang": "Python",
@@ -41,7 +41,7 @@
   },
   {
     "createdAt": "2026-01-10T06:43:20Z",
-    "stars": 1886,
+    "stars": 2231,
     "name": "ZhuLinsen/daily_stock_analysis",
     "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
     "lang": "Python",
@@ -49,7 +49,7 @@
   },
   {
     "createdAt": "2026-01-13T09:34:40Z",
-    "stars": 1259,
+    "stars": 1501,
     "name": "DevAgentForge/Claude-Cowork",
     "url": "https://github.com/DevAgentForge/Claude-Cowork",
     "lang": "TypeScript",
@@ -57,7 +57,7 @@
   },
   {
     "createdAt": "2026-01-11T02:12:27Z",
-    "stars": 1204,
+    "stars": 1348,
     "name": "1rgs/nanocode",
     "url": "https://github.com/1rgs/nanocode",
     "lang": "Python",
@@ -65,295 +65,55 @@
   },
   {
     "createdAt": "2026-01-09T03:36:29Z",
-    "stars": 1200,
+    "stars": 1259,
     "name": "Yeachan-Heo/oh-my-claude-sisyphus",
     "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
     "lang": "TypeScript",
     "desc": "Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?"
   },
   {
-    "createdAt": "2026-01-08T06:30:49Z",
-    "stars": 802,
-    "name": "jarrodwatts/claude-code-config",
-    "url": "https://github.com/jarrodwatts/claude-code-config",
-    "lang": "JavaScript",
-    "desc": "My personal Claude Code configuration - rules, hooks, agents, skills, and commands"
-  },
-  {
     "createdAt": "2026-01-14T18:23:21Z",
-    "stars": 801,
+    "stars": 1156,
     "name": "trailofbits/skills",
     "url": "https://github.com/trailofbits/skills",
     "lang": "Python",
     "desc": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows"
   },
   {
-    "createdAt": "2026-01-11T09:39:37Z",
-    "stars": 761,
-    "name": "KartikLabhshetwar/better-shot",
-    "url": "https://github.com/KartikLabhshetwar/better-shot",
+    "createdAt": "2026-01-14T12:22:38Z",
+    "stars": 885,
+    "name": "accomplish-ai/openwork",
+    "url": "https://github.com/accomplish-ai/openwork",
     "lang": "TypeScript",
-    "desc": "An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality."
+    "desc": "Openwork™ is the open source Al coworker that lives on your desktop"
   },
   {
     "createdAt": "2026-01-11T10:29:12Z",
-    "stars": 758,
+    "stars": 884,
     "name": "subsy/ralph-tui",
     "url": "https://github.com/subsy/ralph-tui",
     "lang": "TypeScript",
     "desc": ""
   },
   {
-    "createdAt": "2026-01-08T03:42:57Z",
-    "stars": 746,
-    "name": "QwenLM/Qwen3-VL-Embedding",
-    "url": "https://github.com/QwenLM/Qwen3-VL-Embedding",
-    "lang": "Python",
-    "desc": ""
-  },
-  {
-    "createdAt": "2026-01-08T23:39:38Z",
-    "stars": 711,
-    "name": "jtydhr88/ComfyUI-qwenmultiangle",
-    "url": "https://github.com/jtydhr88/ComfyUI-qwenmultiangle",
-    "lang": "JavaScript",
-    "desc": "A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation."
-  },
-  {
-    "createdAt": "2026-01-08T17:01:44Z",
-    "stars": 659,
-    "name": "philschmid/mcp-cli",
-    "url": "https://github.com/philschmid/mcp-cli",
+    "createdAt": "2026-01-11T09:39:37Z",
+    "stars": 858,
+    "name": "KartikLabhshetwar/better-shot",
+    "url": "https://github.com/KartikLabhshetwar/better-shot",
     "lang": "TypeScript",
-    "desc": "Lighweight CLI to interact with MCP servers"
+    "desc": "An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality."
   },
   {
-    "createdAt": "2026-01-08T00:14:22Z",
-    "stars": 635,
-    "name": "jarrodwatts/claude-delegator",
-    "url": "https://github.com/jarrodwatts/claude-delegator",
-    "lang": "",
-    "desc": "Delegate tasks to Codex GPT 5.2 directly from within Claude Code."
-  },
-  {
-    "createdAt": "2026-01-10T10:20:19Z",
-    "stars": 621,
-    "name": "ZhangHanDong/makepad-skills",
-    "url": "https://github.com/ZhangHanDong/makepad-skills",
-    "lang": "Shell",
-    "desc": "Build App with Makepad and AI skills"
-  },
-  {
-    "createdAt": "2026-01-09T05:02:44Z",
-    "stars": 577,
-    "name": "op7418/NanoBanana-PPT-Skills",
-    "url": "https://github.com/op7418/NanoBanana-PPT-Skills",
-    "lang": "Python",
-    "desc": "NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放"
-  },
-  {
-    "createdAt": "2026-01-10T18:01:37Z",
-    "stars": 563,
-    "name": "axtonliu/axton-obsidian-visual-skills",
-    "url": "https://github.com/axtonliu/axton-obsidian-visual-skills",
-    "lang": "",
-    "desc": "Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code"
-  },
-  {
-    "createdAt": "2026-01-08T08:57:41Z",
-    "stars": 557,
-    "name": "builtbybel/Winslop",
-    "url": "https://github.com/builtbybel/Winslop",
-    "lang": "C#",
-    "desc": "De-slop Windows."
-  },
-  {
-    "createdAt": "2026-01-14T12:22:38Z",
-    "stars": 556,
-    "name": "accomplish-ai/openwork",
-    "url": "https://github.com/accomplish-ai/openwork",
+    "createdAt": "2026-01-14T01:39:31Z",
+    "stars": 752,
+    "name": "different-ai/openwork",
+    "url": "https://github.com/different-ai/openwork",
     "lang": "TypeScript",
-    "desc": "The open source Al coworker that lives on your desktop"
-  },
-  {
-    "createdAt": "2026-01-11T07:56:35Z",
-    "stars": 548,
-    "name": "Dimillian/CodexMonitor",
-    "url": "https://github.com/Dimillian/CodexMonitor",
-    "lang": "TypeScript",
-    "desc": "An app to monitor the (Codex) situation"
-  },
-  {
-    "createdAt": "2026-01-09T06:16:55Z",
-    "stars": 520,
-    "name": "zai-org/GLM-Image",
-    "url": "https://github.com/zai-org/GLM-Image",
-    "lang": "",
-    "desc": "GLM-Image: Auto-regressive for Dense-knowledge and High-fidelity Image Generation."
-  },
-  {
-    "createdAt": "2026-01-09T08:55:54Z",
-    "stars": 511,
-    "name": "parcadei/llm-tldr",
-    "url": "https://github.com/parcadei/llm-tldr",
-    "lang": "Python",
-    "desc": "95% token savings. 155x faster queries. 16 languages.  LLMs can't read your entire codebase. TLDR extracts structure, traces dependencies, and gives them exactly what they need."
-  },
-  {
-    "createdAt": "2026-01-08T22:06:38Z",
-    "stars": 508,
-    "name": "dbreunig/whenwords",
-    "url": "https://github.com/dbreunig/whenwords",
-    "lang": "",
-    "desc": "A relative time formatting library, with no code."
-  },
-  {
-    "createdAt": "2026-01-08T10:23:46Z",
-    "stars": 505,
-    "name": "yuaotian/antigravity-proxy",
-    "url": "https://github.com/yuaotian/antigravity-proxy",
-    "lang": "C++",
-    "desc": "🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。"
-  },
-  {
-    "createdAt": "2026-01-08T02:05:21Z",
-    "stars": 482,
-    "name": "imbue-bit/AlphaGPT",
-    "url": "https://github.com/imbue-bit/AlphaGPT",
-    "lang": "Python",
-    "desc": "使用符号回归在中国股市与加密市场上进行高效因子挖掘。"
-  },
-  {
-    "createdAt": "2026-01-12T15:31:06Z",
-    "stars": 458,
-    "name": "iannuttall/ralph",
-    "url": "https://github.com/iannuttall/ralph",
-    "lang": "TypeScript",
-    "desc": "A minimal, file‑based agent loop for autonomous coding."
-  },
-  {
-    "createdAt": "2026-01-09T08:11:21Z",
-    "stars": 427,
-    "name": "FezVrasta/cafe-hass",
-    "url": "https://github.com/FezVrasta/cafe-hass",
-    "lang": "TypeScript",
-    "desc": "The \"Third Way\" for Home Assistant Automations."
-  },
-  {
-    "createdAt": "2026-01-08T02:59:32Z",
-    "stars": 418,
-    "name": "GBSOSS/skill-from-masters",
-    "url": "https://github.com/GBSOSS/skill-from-masters",
-    "lang": "",
-    "desc": "Stand on the shoulders of giants — Create AI skills built on proven methodologies from domain experts."
-  },
-  {
-    "createdAt": "2026-01-14T03:16:58Z",
-    "stars": 408,
-    "name": "ChatPRD/lennys-podcast-transcripts",
-    "url": "https://github.com/ChatPRD/lennys-podcast-transcripts",
-    "lang": "Shell",
-    "desc": "Transcripts from Lenny's Podcast"
-  },
-  {
-    "createdAt": "2026-01-11T04:24:30Z",
-    "stars": 404,
-    "name": "zscole/adversarial-spec",
-    "url": "https://github.com/zscole/adversarial-spec",
-    "lang": "Python",
-    "desc": "A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus."
-  },
-  {
-    "createdAt": "2026-01-14T00:23:22Z",
-    "stars": 401,
-    "name": "github/copilot-sdk",
-    "url": "https://github.com/github/copilot-sdk",
-    "lang": "TypeScript",
-    "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
-  },
-  {
-    "createdAt": "2026-01-11T10:21:54Z",
-    "stars": 399,
-    "name": "Spirit-AI-Team/spirit-v1.5",
-    "url": "https://github.com/Spirit-AI-Team/spirit-v1.5",
-    "lang": "Python",
-    "desc": "Spirit-v1.5: A Robotic Foundation Model by Spirit AI"
-  },
-  {
-    "createdAt": "2026-01-09T02:11:52Z",
-    "stars": 373,
-    "name": "dmmulroy/better-result",
-    "url": "https://github.com/dmmulroy/better-result",
-    "lang": "TypeScript",
-    "desc": "Lightweight Result type for TypeScript with generator-based composition."
-  },
-  {
-    "createdAt": "2026-01-09T14:59:37Z",
-    "stars": 372,
-    "name": "laravel/claude-code",
-    "url": "https://github.com/laravel/claude-code",
-    "lang": "",
-    "desc": ""
-  },
-  {
-    "createdAt": "2026-01-08T14:20:40Z",
-    "stars": 366,
-    "name": "naklecha/simple-llm",
-    "url": "https://github.com/naklecha/simple-llm",
-    "lang": "Python",
-    "desc": "~950 line, minimal, extensible LLM inference engine built from scratch."
-  },
-  {
-    "createdAt": "2026-01-10T05:37:09Z",
-    "stars": 358,
-    "name": "miantiao-me/bm.md",
-    "url": "https://github.com/miantiao-me/bm.md",
-    "lang": "TypeScript",
-    "desc": "更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。"
-  },
-  {
-    "createdAt": "2026-01-09T21:54:11Z",
-    "stars": 357,
-    "name": "ClaytonFarr/ralph-playbook",
-    "url": "https://github.com/ClaytonFarr/ralph-playbook",
-    "lang": "HTML",
-    "desc": "A comprehensive guide to running autonomous AI coding loops using Geoff Huntley's Ralph methodology. View as formatted guide below 👇"
-  },
-  {
-    "createdAt": "2026-01-08T10:13:56Z",
-    "stars": 352,
-    "name": "sgasser/pasteguard",
-    "url": "https://github.com/sgasser/pasteguard",
-    "lang": "TypeScript",
-    "desc": "Privacy proxy for LLMs - masks PII before upstream or routes to local LLM. OpenAI API compatible."
-  },
-  {
-    "createdAt": "2026-01-09T05:05:16Z",
-    "stars": 343,
-    "name": "finbarr/yolobox",
-    "url": "https://github.com/finbarr/yolobox",
-    "lang": "Go",
-    "desc": "Let your AI go full send. Your home directory stays home."
-  },
-  {
-    "createdAt": "2026-01-08T09:32:41Z",
-    "stars": 323,
-    "name": "Anarkh-Lee/nginx-flow",
-    "url": "https://github.com/Anarkh-Lee/nginx-flow",
-    "lang": "TypeScript",
-    "desc": "一款功能强大的 Nginx 配置文件可视化编辑工具"
-  },
-  {
-    "createdAt": "2026-01-13T21:47:27Z",
-    "stars": 323,
-    "name": "kingbootoshi/cartographer",
-    "url": "https://github.com/kingbootoshi/cartographer",
-    "lang": "Python",
-    "desc": "Claude Code plugin that maps and documents codebases of any size using parallel AI subagents"
+    "desc": "An open-source alternative to Claude Cowork, powered by OpenCode"
   },
   {
     "createdAt": "2026-01-14T21:31:18Z",
-    "stars": 319,
+    "stars": 746,
     "name": "vercel-labs/add-skill",
     "url": "https://github.com/vercel-labs/add-skill",
     "lang": "TypeScript",
@@ -361,42 +121,282 @@
   },
   {
     "createdAt": "2026-01-13T04:19:14Z",
-    "stars": 315,
+    "stars": 717,
     "name": "likaia/nginxpulse",
     "url": "https://github.com/likaia/nginxpulse",
-    "lang": "Vue",
+    "lang": "Go",
     "desc": "轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。"
   },
   {
+    "createdAt": "2026-01-10T18:01:37Z",
+    "stars": 648,
+    "name": "axtonliu/axton-obsidian-visual-skills",
+    "url": "https://github.com/axtonliu/axton-obsidian-visual-skills",
+    "lang": "",
+    "desc": "Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code"
+  },
+  {
+    "createdAt": "2026-01-11T07:56:35Z",
+    "stars": 645,
+    "name": "Dimillian/CodexMonitor",
+    "url": "https://github.com/Dimillian/CodexMonitor",
+    "lang": "TypeScript",
+    "desc": "An app to monitor the (Codex) situation"
+  },
+  {
+    "createdAt": "2026-01-10T10:20:19Z",
+    "stars": 639,
+    "name": "ZhangHanDong/makepad-skills",
+    "url": "https://github.com/ZhangHanDong/makepad-skills",
+    "lang": "Shell",
+    "desc": "Build App with Makepad and AI skills"
+  },
+  {
+    "createdAt": "2026-01-09T05:02:44Z",
+    "stars": 635,
+    "name": "op7418/NanoBanana-PPT-Skills",
+    "url": "https://github.com/op7418/NanoBanana-PPT-Skills",
+    "lang": "Python",
+    "desc": "NanoBanana PPT Skills 基于 AI 自动生成高质量 PPT 图片和视频的强大工具，支持智能转场和交互式播放"
+  },
+  {
+    "createdAt": "2026-01-09T08:11:21Z",
+    "stars": 624,
+    "name": "FezVrasta/cafe-hass",
+    "url": "https://github.com/FezVrasta/cafe-hass",
+    "lang": "TypeScript",
+    "desc": "The \"Third Way\" for Home Assistant Automations."
+  },
+  {
+    "createdAt": "2026-01-09T06:16:55Z",
+    "stars": 573,
+    "name": "zai-org/GLM-Image",
+    "url": "https://github.com/zai-org/GLM-Image",
+    "lang": "",
+    "desc": "GLM-Image: Auto-regressive for Dense-knowledge and High-fidelity Image Generation."
+  },
+  {
+    "createdAt": "2026-01-09T08:55:54Z",
+    "stars": 559,
+    "name": "parcadei/llm-tldr",
+    "url": "https://github.com/parcadei/llm-tldr",
+    "lang": "Python",
+    "desc": "95% token savings. 155x faster queries. 16 languages.  LLMs can't read your entire codebase. TLDR extracts structure, traces dependencies, and gives them exactly what they need."
+  },
+  {
+    "createdAt": "2026-01-14T00:23:22Z",
+    "stars": 526,
+    "name": "github/copilot-sdk",
+    "url": "https://github.com/github/copilot-sdk",
+    "lang": "TypeScript",
+    "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
+  },
+  {
+    "createdAt": "2026-01-14T03:16:58Z",
+    "stars": 511,
+    "name": "ChatPRD/lennys-podcast-transcripts",
+    "url": "https://github.com/ChatPRD/lennys-podcast-transcripts",
+    "lang": "Shell",
+    "desc": "Transcripts from Lenny's Podcast"
+  },
+  {
+    "createdAt": "2026-01-12T15:31:06Z",
+    "stars": 497,
+    "name": "iannuttall/ralph",
+    "url": "https://github.com/iannuttall/ralph",
+    "lang": "TypeScript",
+    "desc": "A minimal, file‑based agent loop for autonomous coding."
+  },
+  {
+    "createdAt": "2026-01-14T02:12:40Z",
+    "stars": 467,
+    "name": "21st-dev/1code",
+    "url": "https://github.com/21st-dev/1code",
+    "lang": "TypeScript",
+    "desc": "Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)"
+  },
+  {
+    "createdAt": "2026-01-12T13:20:33Z",
+    "stars": 453,
+    "name": "dmmulroy/cloudflare-skill",
+    "url": "https://github.com/dmmulroy/cloudflare-skill",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-14T09:06:28Z",
+    "stars": 439,
+    "name": "vudovn/antigravity-kit",
+    "url": "https://github.com/vudovn/antigravity-kit",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-09T02:11:52Z",
+    "stars": 430,
+    "name": "dmmulroy/better-result",
+    "url": "https://github.com/dmmulroy/better-result",
+    "lang": "TypeScript",
+    "desc": "Lightweight Result type for TypeScript with generator-based composition."
+  },
+  {
+    "createdAt": "2026-01-11T04:24:30Z",
+    "stars": 424,
+    "name": "zscole/adversarial-spec",
+    "url": "https://github.com/zscole/adversarial-spec",
+    "lang": "Python",
+    "desc": "A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus."
+  },
+  {
+    "createdAt": "2026-01-11T10:21:54Z",
+    "stars": 410,
+    "name": "Spirit-AI-Team/spirit-v1.5",
+    "url": "https://github.com/Spirit-AI-Team/spirit-v1.5",
+    "lang": "Python",
+    "desc": "Spirit-v1.5: A Robotic Foundation Model by Spirit AI"
+  },
+  {
+    "createdAt": "2026-01-09T14:59:37Z",
+    "stars": 395,
+    "name": "laravel/claude-code",
+    "url": "https://github.com/laravel/claude-code",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-09T21:54:11Z",
+    "stars": 395,
+    "name": "ClaytonFarr/ralph-playbook",
+    "url": "https://github.com/ClaytonFarr/ralph-playbook",
+    "lang": "HTML",
+    "desc": "A comprehensive guide to running autonomous AI coding loops using Geoff Huntley's Ralph methodology. View as formatted guide below 👇"
+  },
+  {
+    "createdAt": "2026-01-10T05:37:09Z",
+    "stars": 376,
+    "name": "miantiao-me/bm.md",
+    "url": "https://github.com/miantiao-me/bm.md",
+    "lang": "TypeScript",
+    "desc": "更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。"
+  },
+  {
     "createdAt": "2026-01-11T22:16:57Z",
-    "stars": 311,
+    "stars": 374,
     "name": "terauss/Polymarket-trading-bot-15min-BTC",
     "url": "https://github.com/terauss/Polymarket-trading-bot-15min-BTC",
     "lang": "Python",
     "desc": "15min BTC Arbitrage bot on polymarket, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot"
   },
   {
+    "createdAt": "2026-01-12T23:54:41Z",
+    "stars": 368,
+    "name": "ysharma3501/NovaSR",
+    "url": "https://github.com/ysharma3501/NovaSR",
+    "lang": "Python",
+    "desc": "A lightning fast audio upsampler."
+  },
+  {
+    "createdAt": "2026-01-09T05:05:16Z",
+    "stars": 368,
+    "name": "finbarr/yolobox",
+    "url": "https://github.com/finbarr/yolobox",
+    "lang": "Go",
+    "desc": "Let your AI go full send. Your home directory stays home."
+  },
+  {
+    "createdAt": "2026-01-13T21:47:27Z",
+    "stars": 349,
+    "name": "kingbootoshi/cartographer",
+    "url": "https://github.com/kingbootoshi/cartographer",
+    "lang": "Python",
+    "desc": "Claude Code plugin that maps and documents codebases of any size using parallel AI subagents"
+  },
+  {
+    "createdAt": "2026-01-15T01:53:57Z",
+    "stars": 341,
+    "name": "openresponses/openresponses",
+    "url": "https://github.com/openresponses/openresponses",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-13T03:04:56Z",
+    "stars": 326,
+    "name": "JimLiu/baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
     "createdAt": "2026-01-09T17:23:31Z",
-    "stars": 298,
+    "stars": 313,
     "name": "njbrake/agent-of-empires",
     "url": "https://github.com/njbrake/agent-of-empires",
     "lang": "Rust",
     "desc": "Manage all your agents"
   },
   {
-    "createdAt": "2026-01-08T00:00:35Z",
-    "stars": 297,
-    "name": "KyleAMathews/claude-code-ui",
-    "url": "https://github.com/KyleAMathews/claude-code-ui",
-    "lang": "TypeScript",
-    "desc": "Claude Code session tracker UI with real-time updates via Durable Streams"
+    "createdAt": "2026-01-14T17:48:09Z",
+    "stars": 309,
+    "name": "sickn33/antigravity-awesome-skills",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "lang": "Python",
+    "desc": "The Ultimate Collection of 130+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel."
   },
   {
-    "createdAt": "2026-01-08T16:43:15Z",
-    "stars": 291,
-    "name": "richhickson/claudecodeusage",
-    "url": "https://github.com/richhickson/claudecodeusage",
-    "lang": "Swift",
+    "createdAt": "2026-01-13T20:34:04Z",
+    "stars": 295,
+    "name": "langchain-ai/openwork",
+    "url": "https://github.com/langchain-ai/openwork",
+    "lang": "TypeScript",
     "desc": ""
+  },
+  {
+    "createdAt": "2026-01-13T10:43:40Z",
+    "stars": 283,
+    "name": "cosinusalpha/webctl",
+    "url": "https://github.com/cosinusalpha/webctl",
+    "lang": "Python",
+    "desc": "Browser automation via CLI — for humans and agents"
+  },
+  {
+    "createdAt": "2026-01-13T01:12:25Z",
+    "stars": 282,
+    "name": "openkursar/hello-halo",
+    "url": "https://github.com/openkursar/hello-halo",
+    "lang": "TypeScript",
+    "desc": "Open-source Claude Code GUI — like Claude Cowork. Visual AI assistant with remote access, file management, and built-in AI browser."
+  },
+  {
+    "createdAt": "2026-01-12T17:21:31Z",
+    "stars": 279,
+    "name": "runesatsdev/polymarket-arbitrage-bot",
+    "url": "https://github.com/runesatsdev/polymarket-arbitrage-bot",
+    "lang": "Python",
+    "desc": "Polymarket-Arbitrage-Bot: Automated Python bot detecting real-time arbitrage opportunities in Polymarket prediction markets. Monitors markets, analyzes prices, calculates probabilities."
+  },
+  {
+    "createdAt": "2026-01-15T01:46:04Z",
+    "stars": 270,
+    "name": "0xdesign/design-plugin",
+    "url": "https://github.com/0xdesign/design-plugin",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-12T02:23:21Z",
+    "stars": 264,
+    "name": "project-instinct/InstinctLab",
+    "url": "https://github.com/project-instinct/InstinctLab",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-16T05:48:40Z",
+    "stars": 257,
+    "name": "Pankajtanwarbanna/stfu",
+    "url": "https://github.com/Pankajtanwarbanna/stfu",
+    "lang": "HTML",
+    "desc": "stfu"
   }
 ]
