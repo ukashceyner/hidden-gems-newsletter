@@ -1,4 +1,4 @@
-name: Update gems.json daily
+name: Update gems daily
 
 on:
   schedule:
@@ -22,5 +22,5 @@ jobs:
       - name: Commit & push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: daily update gems.json"
+          commit_message: "chore: add daily gems"
           skip_dirty: true          # no error when nothing changed
