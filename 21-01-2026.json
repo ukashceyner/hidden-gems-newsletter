@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-01-18T00:51:51Z",
+    "stars": 11069,
+    "name": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "lang": "Shell",
+    "desc": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner."
+  },
+  {
+    "createdAt": "2026-01-19T23:12:35Z",
+    "stars": 10132,
+    "name": "xai-org/x-algorithm",
+    "url": "https://github.com/xai-org/x-algorithm",
+    "lang": "Rust",
+    "desc": "Algorithm powering the For You feed on X"
+  },
+  {
+    "createdAt": "2026-01-14T17:22:39Z",
+    "stars": 7985,
+    "name": "vercel-labs/json-render",
+    "url": "https://github.com/vercel-labs/json-render",
+    "lang": "TypeScript",
+    "desc": "AI → JSON → UI"
+  },
+  {
+    "createdAt": "2026-01-14T01:39:31Z",
+    "stars": 5458,
+    "name": "different-ai/openwork",
+    "url": "https://github.com/different-ai/openwork",
+    "lang": "TypeScript",
+    "desc": "An open-source alternative to Claude Cowork, powered by OpenCode"
+  },
+  {
+    "createdAt": "2026-01-14T02:12:40Z",
+    "stars": 3955,
+    "name": "21st-dev/1code",
+    "url": "https://github.com/21st-dev/1code",
+    "lang": "TypeScript",
+    "desc": "Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)"
+  },
+  {
+    "createdAt": "2026-01-15T19:45:23Z",
+    "stars": 2698,
+    "name": "coreyhaines31/marketingskills",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "lang": "",
+    "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+  },
+  {
+    "createdAt": "2026-01-14T12:22:38Z",
+    "stars": 2345,
+    "name": "accomplish-ai/openwork",
+    "url": "https://github.com/accomplish-ai/openwork",
+    "lang": "TypeScript",
+    "desc": "Openwork™ is the open source Al coworker that lives on your desktop"
+  },
+  {
+    "createdAt": "2026-01-14T09:06:28Z",
+    "stars": 1955,
+    "name": "vudovn/antigravity-kit",
+    "url": "https://github.com/vudovn/antigravity-kit",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-18T05:30:15Z",
+    "stars": 1917,
+    "name": "blader/humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "lang": "",
+    "desc": "Claude Code skill that removes signs of AI-generated writing from text"
+  },
+  {
+    "createdAt": "2026-01-14T18:23:21Z",
+    "stars": 1697,
+    "name": "trailofbits/skills",
+    "url": "https://github.com/trailofbits/skills",
+    "lang": "Python",
+    "desc": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows"
+  },
+  {
+    "createdAt": "2026-01-14T21:31:18Z",
+    "stars": 1670,
+    "name": "vercel-labs/add-skill",
+    "url": "https://github.com/vercel-labs/add-skill",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-15T21:23:21Z",
+    "stars": 1401,
+    "name": "michaelshimeles/ralphy",
+    "url": "https://github.com/michaelshimeles/ralphy",
+    "lang": "TypeScript",
+    "desc": "My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete."
+  },
+  {
+    "createdAt": "2026-01-19T19:16:04Z",
+    "stars": 1264,
+    "name": "anthropics/original_performance_takehome",
+    "url": "https://github.com/anthropics/original_performance_takehome",
+    "lang": "Python",
+    "desc": "Anthropic's original performance take-home, now open for you to try!"
+  },
+  {
+    "createdAt": "2026-01-15T07:53:15Z",
+    "stars": 1261,
+    "name": "HeartMuLa/heartlib",
+    "url": "https://github.com/HeartMuLa/heartlib",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-17T19:03:02Z",
+    "stars": 1225,
+    "name": "blader/Claudeception",
+    "url": "https://github.com/blader/Claudeception",
+    "lang": "Shell",
+    "desc": "A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works."
+  },
+  {
+    "createdAt": "2026-01-16T06:32:50Z",
+    "stars": 1144,
+    "name": "DmitrySolana/ralph-claude-code",
+    "url": "https://github.com/DmitrySolana/ralph-claude-code",
+    "lang": "Shell",
+    "desc": "Autonomous AI development loop for Claude Code with intelligent exit detection"
+  },
+  {
+    "createdAt": "2026-01-14T17:48:09Z",
+    "stars": 1115,
+    "name": "sickn33/antigravity-awesome-skills",
+    "url": "https://github.com/sickn33/antigravity-awesome-skills",
+    "lang": "Python",
+    "desc": "The Ultimate Collection of 200+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel."
+  },
+  {
+    "createdAt": "2026-01-14T00:27:42Z",
+    "stars": 1070,
+    "name": "zstmfhy/zlibrary-to-notebooklm",
+    "url": "https://github.com/zstmfhy/zlibrary-to-notebooklm",
+    "lang": "Python",
+    "desc": "一键将 Z-Library 书籍自动下载并上传到 Google NotebookLM"
+  },
+  {
+    "createdAt": "2026-01-18T17:55:48Z",
+    "stars": 1031,
+    "name": "antirez/flux2.c",
+    "url": "https://github.com/antirez/flux2.c",
+    "lang": "C",
+    "desc": "Flux 2 image generation model pure C inference"
+  },
+  {
+    "createdAt": "2026-01-19T04:23:44Z",
+    "stars": 936,
+    "name": "op7418/Humanizer-zh",
+    "url": "https://github.com/op7418/Humanizer-zh",
+    "lang": "",
+    "desc": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。"
+  },
+  {
+    "createdAt": "2026-01-18T19:29:15Z",
+    "stars": 924,
+    "name": "ronitsingh10/FineTune",
+    "url": "https://github.com/ronitsingh10/FineTune",
+    "lang": "Swift",
+    "desc": "FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ"
+  },
+  {
+    "createdAt": "2026-01-19T10:35:59Z",
+    "stars": 909,
+    "name": "lukilabs/craft-agents-oss",
+    "url": "https://github.com/lukilabs/craft-agents-oss",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-15T18:45:08Z",
+    "stars": 854,
+    "name": "alvinunreal/oh-my-opencode-slim",
+    "url": "https://github.com/alvinunreal/oh-my-opencode-slim",
+    "lang": "TypeScript",
+    "desc": "Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens"
+  },
+  {
+    "createdAt": "2026-01-14T00:23:22Z",
+    "stars": 823,
+    "name": "github/copilot-sdk",
+    "url": "https://github.com/github/copilot-sdk",
+    "lang": "TypeScript",
+    "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
+  },
+  {
+    "createdAt": "2026-01-16T05:48:40Z",
+    "stars": 818,
+    "name": "Pankajtanwarbanna/stfu",
+    "url": "https://github.com/Pankajtanwarbanna/stfu",
+    "lang": "HTML",
+    "desc": "stfu"
+  },
+  {
+    "createdAt": "2026-01-16T15:39:06Z",
+    "stars": 760,
+    "name": "devWorld335/polymarket-copy-trading-bot",
+    "url": "https://github.com/devWorld335/polymarket-copy-trading-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket bot polymarket bot polymarket bot polymarket bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "createdAt": "2026-01-14T03:16:58Z",
+    "stars": 717,
+    "name": "ChatPRD/lennys-podcast-transcripts",
+    "url": "https://github.com/ChatPRD/lennys-podcast-transcripts",
+    "lang": "Shell",
+    "desc": "Transcripts from Lenny's Podcast"
+  },
+  {
+    "createdAt": "2026-01-17T00:52:00Z",
+    "stars": 711,
+    "name": "ChartGPU/ChartGPU",
+    "url": "https://github.com/ChartGPU/ChartGPU",
+    "lang": "TypeScript",
+    "desc": "Beautiful, open source, WebGPU-based charting library"
+  },
+  {
+    "createdAt": "2026-01-18T17:38:15Z",
+    "stars": 679,
+    "name": "Nearcyan/vibecraft",
+    "url": "https://github.com/Nearcyan/vibecraft",
+    "lang": "TypeScript",
+    "desc": "It's Vibecraft!"
+  },
+  {
+    "createdAt": "2026-01-15T01:53:57Z",
+    "stars": 622,
+    "name": "openresponses/openresponses",
+    "url": "https://github.com/openresponses/openresponses",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-14T16:45:39Z",
+    "stars": 576,
+    "name": "callstackincubator/agent-skills",
+    "url": "https://github.com/callstackincubator/agent-skills",
+    "lang": "",
+    "desc": "A collection of agent-optimized React Native skills for AI coding assistants."
+  },
+  {
+    "createdAt": "2026-01-19T14:26:13Z",
+    "stars": 545,
+    "name": "dexorynlabs/polymarket-trading-bot-ts",
+    "url": "https://github.com/dexorynlabs/polymarket-trading-bot-ts",
+    "lang": "TypeScript",
+    "desc": "polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "createdAt": "2026-01-15T18:26:37Z",
+    "stars": 528,
+    "name": "antonbabenko/terraform-skill",
+    "url": "https://github.com/antonbabenko/terraform-skill",
+    "lang": "",
+    "desc": "The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns"
+  },
+  {
+    "createdAt": "2026-01-16T06:25:43Z",
+    "stars": 527,
+    "name": "browser-use/agent-sdk",
+    "url": "https://github.com/browser-use/agent-sdk",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-19T21:15:21Z",
+    "stars": 521,
+    "name": "CloudAI-X/threejs-skills",
+    "url": "https://github.com/CloudAI-X/threejs-skills",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-14T14:27:10Z",
+    "stars": 464,
+    "name": "facebookresearch/ShapeR",
+    "url": "https://github.com/facebookresearch/ShapeR",
+    "lang": "Python",
+    "desc": "Code for the ShapeR research paper"
+  },
+  {
+    "createdAt": "2026-01-19T08:42:54Z",
+    "stars": 461,
+    "name": "snwfdhmp/awesome-ralph",
+    "url": "https://github.com/snwfdhmp/awesome-ralph",
+    "lang": "",
+    "desc": "A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled."
+  },
+  {
+    "createdAt": "2026-01-17T04:27:16Z",
+    "stars": 428,
+    "name": "ZhangHanDong/rust-skills",
+    "url": "https://github.com/ZhangHanDong/rust-skills",
+    "lang": "Shell",
+    "desc": "Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing"
+  },
+  {
+    "createdAt": "2026-01-20T00:42:56Z",
+    "stars": 424,
+    "name": "majcheradam/ocrbase",
+    "url": "https://github.com/majcheradam/ocrbase",
+    "lang": "TypeScript",
+    "desc": "📄 PDF ->.MD/.JSON Document OCR and structured data extraction API. PaddleOCR + LLM-powered parsing. Real-time WebSocket updates. Type-safe TypeScript SDK with React hooks. Self-hostable."
+  },
+  {
+    "createdAt": "2026-01-15T01:46:04Z",
+    "stars": 423,
+    "name": "0xdesign/design-plugin",
+    "url": "https://github.com/0xdesign/design-plugin",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-14T22:30:01Z",
+    "stars": 421,
+    "name": "Ceeon/videocut-skills",
+    "url": "https://github.com/Ceeon/videocut-skills",
+    "lang": "",
+    "desc": "用 Claude Code Skills 做的视频剪辑 Agent"
+  },
+  {
+    "createdAt": "2026-01-15T08:46:34Z",
+    "stars": 406,
+    "name": "traversaal-ai/lennyhub-rag",
+    "url": "https://github.com/traversaal-ai/lennyhub-rag",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-17T05:28:08Z",
+    "stars": 406,
+    "name": "zalexdev/wpair-app",
+    "url": "https://github.com/zalexdev/wpair-app",
+    "lang": "Kotlin",
+    "desc": "WPair is a defensive security research tool that demonstrates the CVE-2025-36911 (eg WhisperPair) vulnerability in Google's Fast Pair protocol. This vulnerability affects millions of Bluetooth audio devices worldwide, allowing unauthorized pairing and potential microphone access without user consent."
+  },
+  {
+    "createdAt": "2026-01-18T11:34:00Z",
+    "stars": 396,
+    "name": "spotiverse/SpotiFLAC-Next",
+    "url": "https://github.com/spotiverse/SpotiFLAC-Next",
+    "lang": "",
+    "desc": "Get Spotify tracks in Hi-Res lossless FLACs — no account required."
+  },
+  {
+    "createdAt": "2026-01-16T00:05:07Z",
+    "stars": 387,
+    "name": "EthanLipnik/MirageKit",
+    "url": "https://github.com/EthanLipnik/MirageKit",
+    "lang": "Swift",
+    "desc": "Peer to Peer screen sharing framework from macOS to iPadOS, visionOS, and macOS"
+  },
+  {
+    "createdAt": "2026-01-18T13:11:17Z",
+    "stars": 358,
+    "name": "iam-veeramalla/a-to-z-of-networking",
+    "url": "https://github.com/iam-veeramalla/a-to-z-of-networking",
+    "lang": "",
+    "desc": "Learn Networking from A to Z at one place with realtime examples."
+  },
+  {
+    "createdAt": "2026-01-16T23:30:31Z",
+    "stars": 351,
+    "name": "yyyumeniku/HyPrism",
+    "url": "https://github.com/yyyumeniku/HyPrism",
+    "lang": "TypeScript",
+    "desc": "Hytale launcher with mod management, and more"
+  },
+  {
+    "createdAt": "2026-01-16T06:44:31Z",
+    "stars": 349,
+    "name": "cocojojo5213/Dev-Janitor",
+    "url": "https://github.com/cocojojo5213/Dev-Janitor",
+    "lang": "TypeScript",
+    "desc": "Your Vibe Coding Toolkit A cross-platform desktop application for managing development tools, AI coding assistants, and dependencies"
+  },
+  {
+    "createdAt": "2026-01-18T19:19:59Z",
+    "stars": 349,
+    "name": "Dicklesworthstone/beads_rust",
+    "url": "https://github.com/Dicklesworthstone/beads_rust",
+    "lang": "Rust",
+    "desc": "A fast Rust port of Steve Yegge's beads - a local-first, non-invasive issue tracker for git repositories"
+  },
+  {
+    "createdAt": "2026-01-15T07:27:32Z",
+    "stars": 334,
+    "name": "josephlopezh888/polymarket-copy-trading-bot",
+    "url": "https://github.com/josephlopezh888/polymarket-copy-trading-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot"
+  }
+]
