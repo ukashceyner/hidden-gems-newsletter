@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-01-18T00:51:51Z",
+    "stars": 25239,
+    "name": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "lang": "JavaScript",
+    "desc": "Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner."
+  },
+  {
+    "createdAt": "2026-01-19T23:12:35Z",
+    "stars": 13167,
+    "name": "xai-org/x-algorithm",
+    "url": "https://github.com/xai-org/x-algorithm",
+    "lang": "Rust",
+    "desc": "Algorithm powering the For You feed on X"
+  },
+  {
+    "createdAt": "2026-01-21T06:41:32Z",
+    "stars": 3430,
+    "name": "QwenLM/Qwen3-TTS",
+    "url": "https://github.com/QwenLM/Qwen3-TTS",
+    "lang": "Python",
+    "desc": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning."
+  },
+  {
+    "createdAt": "2026-01-18T05:30:15Z",
+    "stars": 2782,
+    "name": "blader/humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "lang": "",
+    "desc": "Claude Code skill that removes signs of AI-generated writing from text"
+  },
+  {
+    "createdAt": "2026-01-19T19:16:04Z",
+    "stars": 2738,
+    "name": "anthropics/original_performance_takehome",
+    "url": "https://github.com/anthropics/original_performance_takehome",
+    "lang": "Python",
+    "desc": "Anthropic's original performance take-home, now open for you to try!"
+  },
+  {
+    "createdAt": "2026-01-17T00:52:00Z",
+    "stars": 2067,
+    "name": "ChartGPU/ChartGPU",
+    "url": "https://github.com/ChartGPU/ChartGPU",
+    "lang": "TypeScript",
+    "desc": "Beautiful, open source, WebGPU-based charting library"
+  },
+  {
+    "createdAt": "2026-01-18T19:29:15Z",
+    "stars": 1510,
+    "name": "ronitsingh10/FineTune",
+    "url": "https://github.com/ronitsingh10/FineTune",
+    "lang": "Swift",
+    "desc": "FineTune, a macOS menu bar app to control volume for each app independently, route apps to different output devices, and apply EQ"
+  },
+  {
+    "createdAt": "2026-01-17T19:03:02Z",
+    "stars": 1411,
+    "name": "blader/Claudeception",
+    "url": "https://github.com/blader/Claudeception",
+    "lang": "Shell",
+    "desc": "A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works."
+  },
+  {
+    "createdAt": "2026-01-18T17:55:48Z",
+    "stars": 1367,
+    "name": "antirez/flux2.c",
+    "url": "https://github.com/antirez/flux2.c",
+    "lang": "C",
+    "desc": "Flux 2 image generation model pure C inference"
+  },
+  {
+    "createdAt": "2026-01-19T04:23:44Z",
+    "stars": 1347,
+    "name": "op7418/Humanizer-zh",
+    "url": "https://github.com/op7418/Humanizer-zh",
+    "lang": "",
+    "desc": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。"
+  },
+  {
+    "createdAt": "2026-01-19T10:35:59Z",
+    "stars": 1230,
+    "name": "lukilabs/craft-agents-oss",
+    "url": "https://github.com/lukilabs/craft-agents-oss",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-18T02:01:24Z",
+    "stars": 1168,
+    "name": "benjitaylor/agentation",
+    "url": "https://github.com/benjitaylor/agentation",
+    "lang": "TypeScript",
+    "desc": "The visual feedback tool for agents."
+  },
+  {
+    "createdAt": "2026-01-19T21:15:21Z",
+    "stars": 867,
+    "name": "CloudAI-X/threejs-skills",
+    "url": "https://github.com/CloudAI-X/threejs-skills",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-18T17:38:15Z",
+    "stars": 751,
+    "name": "Nearcyan/vibecraft",
+    "url": "https://github.com/Nearcyan/vibecraft",
+    "lang": "TypeScript",
+    "desc": "It's Vibecraft!"
+  },
+  {
+    "createdAt": "2026-01-19T09:58:43Z",
+    "stars": 746,
+    "name": "remotion-dev/skills",
+    "url": "https://github.com/remotion-dev/skills",
+    "lang": "TypeScript",
+    "desc": "Agent Skills"
+  },
+  {
+    "createdAt": "2026-01-18T11:34:00Z",
+    "stars": 708,
+    "name": "spotiverse/SpotiFLAC-Next",
+    "url": "https://github.com/spotiverse/SpotiFLAC-Next",
+    "lang": "",
+    "desc": "Get Spotify tracks in Hi-Res lossless FLACs — no account required."
+  },
+  {
+    "createdAt": "2026-01-18T02:48:31Z",
+    "stars": 686,
+    "name": "dnobori/DN_SuperBook_PDF_Converter",
+    "url": "https://github.com/dnobori/DN_SuperBook_PDF_Converter",
+    "lang": "C#",
+    "desc": "DN_SuperBook_PDF_Converter - スキャン書籍 PDF をデジタル書籍並みに大変クリアに読みやすくする AI PDF 高品質化・各種調整ツール"
+  },
+  {
+    "createdAt": "2026-01-22T03:28:37Z",
+    "stars": 607,
+    "name": "op7418/Youtube-clipper-skill",
+    "url": "https://github.com/op7418/Youtube-clipper-skill",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-20T00:42:56Z",
+    "stars": 606,
+    "name": "majcheradam/ocrbase",
+    "url": "https://github.com/majcheradam/ocrbase",
+    "lang": "TypeScript",
+    "desc": "📄 PDF ->.MD/.JSON Document OCR and structured data extraction API. PaddleOCR + LLM-powered parsing. Real-time WebSocket updates. Type-safe TypeScript SDK with React hooks. Self-hostable."
+  },
+  {
+    "createdAt": "2026-01-21T12:57:18Z",
+    "stars": 578,
+    "name": "terausss/polymarket-copy-trading-bot",
+    "url": "https://github.com/terausss/polymarket-copy-trading-bot",
+    "lang": "Python",
+    "desc": "polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot"
+  },
+  {
+    "createdAt": "2026-01-17T04:27:16Z",
+    "stars": 545,
+    "name": "actionbook/rust-skills",
+    "url": "https://github.com/actionbook/rust-skills",
+    "lang": "Shell",
+    "desc": "Rust Developer AI Assistance System — Meta-Problem-Driven Knowledge Indexing"
+  },
+  {
+    "createdAt": "2026-01-21T07:10:27Z",
+    "stars": 538,
+    "name": "hyf0/vue-skills",
+    "url": "https://github.com/hyf0/vue-skills",
+    "lang": "",
+    "desc": "Agent skills for Vue 3 development"
+  },
+  {
+    "createdAt": "2026-01-19T08:42:54Z",
+    "stars": 537,
+    "name": "snwfdhmp/awesome-ralph",
+    "url": "https://github.com/snwfdhmp/awesome-ralph",
+    "lang": "",
+    "desc": "A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled."
+  },
+  {
+    "createdAt": "2026-01-19T07:05:00Z",
+    "stars": 514,
+    "name": "workany-ai/workany",
+    "url": "https://github.com/workany-ai/workany",
+    "lang": "TypeScript",
+    "desc": "Desktop Agent for Any Task"
+  },
+  {
+    "createdAt": "2026-01-22T18:59:12Z",
+    "stars": 513,
+    "name": "KKKKhazix/Khazix-Skills",
+    "url": "https://github.com/KKKKhazix/Khazix-Skills",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-17T05:28:08Z",
+    "stars": 459,
+    "name": "zalexdev/wpair-app",
+    "url": "https://github.com/zalexdev/wpair-app",
+    "lang": "Kotlin",
+    "desc": "WPair is a defensive security research tool that demonstrates the CVE-2025-36911 (eg WhisperPair) vulnerability in Google's Fast Pair protocol. This vulnerability affects millions of Bluetooth audio devices worldwide, allowing unauthorized pairing and potential microphone access without user consent."
+  },
+  {
+    "createdAt": "2026-01-22T16:16:09Z",
+    "stars": 445,
+    "name": "seeam/Practical-Digital-Product-Design-2025-Free",
+    "url": "https://github.com/seeam/Practical-Digital-Product-Design-2025-Free",
+    "lang": "",
+    "desc": "A free version of my paid use interface and digital product design course in Bengali."
+  },
+  {
+    "createdAt": "2026-01-18T13:11:17Z",
+    "stars": 429,
+    "name": "iam-veeramalla/a-to-z-of-networking",
+    "url": "https://github.com/iam-veeramalla/a-to-z-of-networking",
+    "lang": "",
+    "desc": "Learn Networking from A to Z at one place with realtime examples."
+  },
+  {
+    "createdAt": "2026-01-18T00:41:53Z",
+    "stars": 405,
+    "name": "anthonylee991/gemini-superpowers-antigravity",
+    "url": "https://github.com/anthonylee991/gemini-superpowers-antigravity",
+    "lang": "Python",
+    "desc": "Superpowers for Gemini's Antigravity (like Claude Superpowers)"
+  },
+  {
+    "createdAt": "2026-01-17T12:13:34Z",
+    "stars": 402,
+    "name": "SeanHeelan/anamnesis-release",
+    "url": "https://github.com/SeanHeelan/anamnesis-release",
+    "lang": "JavaScript",
+    "desc": "Automatic Exploit Generation with LLMs"
+  },
+  {
+    "createdAt": "2026-01-19T17:34:36Z",
+    "stars": 382,
+    "name": "Arcanum-Sec/sec-context",
+    "url": "https://github.com/Arcanum-Sec/sec-context",
+    "lang": "HTML",
+    "desc": "AI Code Security Anti-Patterns distilled from 150+ sources to help LLMs generate safer code."
+  },
+  {
+    "createdAt": "2026-01-18T19:19:59Z",
+    "stars": 383,
+    "name": "Dicklesworthstone/beads_rust",
+    "url": "https://github.com/Dicklesworthstone/beads_rust",
+    "lang": "Rust",
+    "desc": "A fast Rust port of Steve Yegge's beads - a local-first, non-invasive issue tracker for git repositories"
+  },
+  {
+    "createdAt": "2026-01-18T18:15:25Z",
+    "stars": 371,
+    "name": "dlorenc/multiclaude",
+    "url": "https://github.com/dlorenc/multiclaude",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-20T23:22:15Z",
+    "stars": 367,
+    "name": "yesnotrader/polymarket-copytrade-ui",
+    "url": "https://github.com/yesnotrader/polymarket-copytrade-ui",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-19T07:34:47Z",
+    "stars": 364,
+    "name": "punkpeye/pipenet",
+    "url": "https://github.com/punkpeye/pipenet",
+    "lang": "TypeScript",
+    "desc": "Expose your local server to the public internet instantly"
+  },
+  {
+    "createdAt": "2026-01-17T03:08:54Z",
+    "stars": 346,
+    "name": "davidbeesley/claude-chill",
+    "url": "https://github.com/davidbeesley/claude-chill",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-22T17:39:09Z",
+    "stars": 339,
+    "name": "unicodeveloper/globalthreatmap",
+    "url": "https://github.com/unicodeveloper/globalthreatmap",
+    "lang": "TypeScript",
+    "desc": "Global threat map. Learn wars, conflicts, military bases and history of nations. "
+  },
+  {
+    "createdAt": "2026-01-22T18:38:52Z",
+    "stars": 328,
+    "name": "flybirdxx/ComfyUI-Qwen-TTS",
+    "url": "https://github.com/flybirdxx/ComfyUI-Qwen-TTS",
+    "lang": "Python",
+    "desc": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+  },
+  {
+    "createdAt": "2026-01-22T01:41:23Z",
+    "stars": 327,
+    "name": "junaid-mahmood/nlsh",
+    "url": "https://github.com/junaid-mahmood/nlsh",
+    "lang": "TypeScript",
+    "desc": "Turn natural language to terminal commands"
+  },
+  {
+    "createdAt": "2026-01-17T14:29:36Z",
+    "stars": 321,
+    "name": "dannote/figma-use",
+    "url": "https://github.com/dannote/figma-use",
+    "lang": "TypeScript",
+    "desc": "Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands."
+  },
+  {
+    "createdAt": "2026-01-20T16:44:05Z",
+    "stars": 318,
+    "name": "cporter202/social-media-scraping-apis",
+    "url": "https://github.com/cporter202/social-media-scraping-apis",
+    "lang": "JavaScript",
+    "desc": "A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebook, and more. Extract posts, profiles, videos, comments, and engagement metrics."
+  },
+  {
+    "createdAt": "2026-01-17T17:42:35Z",
+    "stars": 308,
+    "name": "kuse-ai/kuse_cowork",
+    "url": "https://github.com/kuse-ai/kuse_cowork",
+    "lang": "Rust",
+    "desc": "Open-source Alternative to Claude Cowork Desktop App By Kuse"
+  },
+  {
+    "createdAt": "2026-01-22T01:21:49Z",
+    "stars": 307,
+    "name": "better-auth/better-icons",
+    "url": "https://github.com/better-auth/better-icons",
+    "lang": "TypeScript",
+    "desc": "Skill and MCP server for searching and retrieving icons"
+  },
+  {
+    "createdAt": "2026-01-20T06:05:27Z",
+    "stars": 297,
+    "name": "Tencent/hpc-ops",
+    "url": "https://github.com/Tencent/hpc-ops",
+    "lang": "C++",
+    "desc": "High Performance LLM Inference Operator Library"
+  },
+  {
+    "createdAt": "2026-01-22T15:04:20Z",
+    "stars": 282,
+    "name": "snarktank/compound-product",
+    "url": "https://github.com/snarktank/compound-product",
+    "lang": "Shell",
+    "desc": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
+  },
+  {
+    "createdAt": "2026-01-22T08:18:47Z",
+    "stars": 280,
+    "name": "adithya-s-k/manim_skill",
+    "url": "https://github.com/adithya-s-k/manim_skill",
+    "lang": "Python",
+    "desc": "Agent skills for Manim to create 3Blue1Brown style animations."
+  },
+  {
+    "createdAt": "2026-01-21T22:23:13Z",
+    "stars": 277,
+    "name": "PeGasUsCHAkra/mevbot",
+    "url": "https://github.com/PeGasUsCHAkra/mevbot",
+    "lang": "JavaScript",
+    "desc": "Ethereum Bot"
+  },
+  {
+    "createdAt": "2026-01-19T14:18:32Z",
+    "stars": 276,
+    "name": "cclank/news-aggregator-skill",
+    "url": "https://github.com/cclank/news-aggregator-skill",
+    "lang": "Python",
+    "desc": "这是一个为您定制的全网新闻聚合skill,支持多个信息源，支持深度获取，能够阅读文章正文并提供有理有据的深度解读。"
+  },
+  {
+    "createdAt": "2026-01-18T18:46:58Z",
+    "stars": 269,
+    "name": "brainqub3/claude_code_RLM",
+    "url": "https://github.com/brainqub3/claude_code_RLM",
+    "lang": "Python",
+    "desc": "Claude code setup as an RLM scaffhold Implemented by Brainqub3"
+  },
+  {
+    "createdAt": "2026-01-18T13:11:28Z",
+    "stars": 259,
+    "name": "241x/cdpnetool",
+    "url": "https://github.com/241x/cdpnetool",
+    "lang": "Go",
+    "desc": "Chrome DevTools Protocol Network Tools"
+  }
+]
