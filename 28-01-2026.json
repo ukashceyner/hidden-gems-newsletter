@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-01-21T06:41:32Z",
+    "stars": 5717,
+    "name": "QwenLM/Qwen3-TTS",
+    "url": "https://github.com/QwenLM/Qwen3-TTS",
+    "lang": "Python",
+    "desc": "Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cloning."
+  },
+  {
+    "createdAt": "2026-01-25T09:22:32Z",
+    "stars": 2722,
+    "name": "VoltAgent/awesome-moltbot-skills",
+    "url": "https://github.com/VoltAgent/awesome-moltbot-skills",
+    "lang": "",
+    "desc": "The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)"
+  },
+  {
+    "createdAt": "2026-01-27T03:53:13Z",
+    "stars": 1639,
+    "name": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-24T18:40:06Z",
+    "stars": 1502,
+    "name": "tldev/posturr",
+    "url": "https://github.com/tldev/posturr",
+    "lang": "Swift",
+    "desc": "A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection."
+  },
+  {
+    "createdAt": "2026-01-23T20:37:37Z",
+    "stars": 1444,
+    "name": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "lang": "Python",
+    "desc": "Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts"
+  },
+  {
+    "createdAt": "2026-01-27T03:05:42Z",
+    "stars": 1284,
+    "name": "deepseek-ai/DeepSeek-OCR-2",
+    "url": "https://github.com/deepseek-ai/DeepSeek-OCR-2",
+    "lang": "Python",
+    "desc": "Visual Causal Flow"
+  },
+  {
+    "createdAt": "2026-01-28T05:59:03Z",
+    "stars": 1086,
+    "name": "antfu/skills",
+    "url": "https://github.com/antfu/skills",
+    "lang": "TypeScript",
+    "desc": "Anthony Fu's curated collection of agent skills."
+  },
+  {
+    "createdAt": "2026-01-21T07:10:27Z",
+    "stars": 820,
+    "name": "vuejs-ai/skills",
+    "url": "https://github.com/vuejs-ai/skills",
+    "lang": "",
+    "desc": "Agent skills for Vue 3 development"
+  },
+  {
+    "createdAt": "2026-01-22T03:28:37Z",
+    "stars": 796,
+    "name": "op7418/Youtube-clipper-skill",
+    "url": "https://github.com/op7418/Youtube-clipper-skill",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-22T17:39:09Z",
+    "stars": 773,
+    "name": "unicodeveloper/globalthreatmap",
+    "url": "https://github.com/unicodeveloper/globalthreatmap",
+    "lang": "TypeScript",
+    "desc": "Global threat map. Learn wars, conflicts, military bases and history of nations. "
+  },
+  {
+    "createdAt": "2026-01-21T14:42:30Z",
+    "stars": 726,
+    "name": "AvdLee/SwiftUI-Agent-Skill",
+    "url": "https://github.com/AvdLee/SwiftUI-Agent-Skill",
+    "lang": "",
+    "desc": "Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format)."
+  },
+  {
+    "createdAt": "2026-01-22T18:59:12Z",
+    "stars": 709,
+    "name": "KKKKhazix/Khazix-Skills",
+    "url": "https://github.com/KKKKhazix/Khazix-Skills",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-22T18:38:52Z",
+    "stars": 697,
+    "name": "flybirdxx/ComfyUI-Qwen-TTS",
+    "url": "https://github.com/flybirdxx/ComfyUI-Qwen-TTS",
+    "lang": "Python",
+    "desc": "A Simple Implementation of Qwen3-TTS's ComfyUI"
+  },
+  {
+    "createdAt": "2026-01-23T12:57:56Z",
+    "stars": 673,
+    "name": "tanweai/wooyun-legacy",
+    "url": "https://github.com/tanweai/wooyun-legacy",
+    "lang": "",
+    "desc": "wooyun-legacy skill for claude code "
+  },
+  {
+    "createdAt": "2026-01-25T18:19:30Z",
+    "stars": 548,
+    "name": "m1heng/clawdbot-feishu",
+    "url": "https://github.com/m1heng/clawdbot-feishu",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-23T20:12:03Z",
+    "stars": 540,
+    "name": "ysharma3501/LuxTTS",
+    "url": "https://github.com/ysharma3501/LuxTTS",
+    "lang": "Python",
+    "desc": "A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime."
+  },
+  {
+    "createdAt": "2026-01-22T16:00:54Z",
+    "stars": 514,
+    "name": "npmx-dev/npmx.dev",
+    "url": "https://github.com/npmx-dev/npmx.dev",
+    "lang": "TypeScript",
+    "desc": "a fast, modern browser for the npm registry"
+  },
+  {
+    "createdAt": "2026-01-22T08:18:47Z",
+    "stars": 508,
+    "name": "adithya-s-k/manim_skill",
+    "url": "https://github.com/adithya-s-k/manim_skill",
+    "lang": "Python",
+    "desc": "Agent skills for Manim to create 3Blue1Brown style animations."
+  },
+  {
+    "createdAt": "2026-01-22T16:16:09Z",
+    "stars": 507,
+    "name": "seeam/Practical-Digital-Product-Design-2025-Free",
+    "url": "https://github.com/seeam/Practical-Digital-Product-Design-2025-Free",
+    "lang": "",
+    "desc": "A free version of my paid use interface and digital product design course in Bengali."
+  },
+  {
+    "createdAt": "2026-01-22T06:18:34Z",
+    "stars": 468,
+    "name": "1jehuang/mermaid-rs-renderer",
+    "url": "https://github.com/1jehuang/mermaid-rs-renderer",
+    "lang": "Rust",
+    "desc": "A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli."
+  },
+  {
+    "createdAt": "2026-01-25T14:14:29Z",
+    "stars": 441,
+    "name": "Robbyant/lingbot-depth",
+    "url": "https://github.com/Robbyant/lingbot-depth",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-25T23:00:59Z",
+    "stars": 411,
+    "name": "luccast/crabwalk",
+    "url": "https://github.com/luccast/crabwalk",
+    "lang": "TypeScript",
+    "desc": "🦀 Crabwalk 🦀 Real-time companion monitor for Clawdbot agents."
+  },
+  {
+    "createdAt": "2026-01-22T01:41:23Z",
+    "stars": 404,
+    "name": "junaid-mahmood/nlsh",
+    "url": "https://github.com/junaid-mahmood/nlsh",
+    "lang": "TypeScript",
+    "desc": "Turn natural language to terminal commands"
+  },
+  {
+    "createdAt": "2026-01-21T21:22:00Z",
+    "stars": 387,
+    "name": "trycua/launchpad",
+    "url": "https://github.com/trycua/launchpad",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-25T17:24:12Z",
+    "stars": 367,
+    "name": "hanxiao/claudecode-telegram",
+    "url": "https://github.com/hanxiao/claudecode-telegram",
+    "lang": "Python",
+    "desc": "Telegram bridge for Claude Code"
+  },
+  {
+    "createdAt": "2026-01-22T01:21:49Z",
+    "stars": 342,
+    "name": "better-auth/better-icons",
+    "url": "https://github.com/better-auth/better-icons",
+    "lang": "TypeScript",
+    "desc": "Skill and MCP server for searching and retrieving icons"
+  },
+  {
+    "createdAt": "2026-01-22T15:04:20Z",
+    "stars": 331,
+    "name": "snarktank/compound-product",
+    "url": "https://github.com/snarktank/compound-product",
+    "lang": "Shell",
+    "desc": "A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes"
+  },
+  {
+    "createdAt": "2026-01-25T09:29:19Z",
+    "stars": 330,
+    "name": "yohey-w/multi-agent-shogun",
+    "url": "https://github.com/yohey-w/multi-agent-shogun",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-22T09:24:30Z",
+    "stars": 322,
+    "name": "GuDaStudio/commands",
+    "url": "https://github.com/GuDaStudio/commands",
+    "lang": "PowerShell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-22T12:17:27Z",
+    "stars": 310,
+    "name": "fspecii/HeartMuLa-Studio",
+    "url": "https://github.com/fspecii/HeartMuLa-Studio",
+    "lang": "TypeScript",
+    "desc": "Suno-like music generation studio for HeartMuLa/heartlib - AI-powered music creation with reference audio style transfer"
+  },
+  {
+    "createdAt": "2026-01-25T09:05:35Z",
+    "stars": 307,
+    "name": "Ilias1988/Hacking-Cheatsheets",
+    "url": "https://github.com/Ilias1988/Hacking-Cheatsheets",
+    "lang": "",
+    "desc": "A comprehensive collection of penetration testing cheatsheets, guides, and tools."
+  },
+  {
+    "createdAt": "2026-01-21T22:12:23Z",
+    "stars": 302,
+    "name": "test-time-training/discover",
+    "url": "https://github.com/test-time-training/discover",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-24T16:07:35Z",
+    "stars": 288,
+    "name": "WhiskeyCoder/Qwen3-Audiobook-Converter",
+    "url": "https://github.com/WhiskeyCoder/Qwen3-Audiobook-Converter",
+    "lang": "Python",
+    "desc": "Convert PDFs, EPUBs, DOCX, DOC, and TXT files into high-quality audiobooks using **Qwen3 TTS Voice Model** - an open-source voice synthesis system that excels at natural speech generation and voice cloning."
+  },
+  {
+    "createdAt": "2026-01-23T12:45:18Z",
+    "stars": 280,
+    "name": "vercel-labs/next-skills",
+    "url": "https://github.com/vercel-labs/next-skills",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-01-23T02:51:19Z",
+    "stars": 280,
+    "name": "dgreenheck/webgpu-claude-skill",
+    "url": "https://github.com/dgreenheck/webgpu-claude-skill",
+    "lang": "JavaScript",
+    "desc": "A Claude skill for developing WebGPU applications with Three.js"
+  },
+  {
+    "createdAt": "2026-01-21T22:23:13Z",
+    "stars": 278,
+    "name": "PeGasUsCHAkra/mevbot",
+    "url": "https://github.com/PeGasUsCHAkra/mevbot",
+    "lang": "JavaScript",
+    "desc": "Ethereum Bot"
+  },
+  {
+    "createdAt": "2026-01-22T06:14:15Z",
+    "stars": 276,
+    "name": "wenqingyu/ralphy-openspec",
+    "url": "https://github.com/wenqingyu/ralphy-openspec",
+    "lang": "TypeScript",
+    "desc": "Ralph loop + OpenSpec integration for Cursor, OpenCode and ClaudeCode heavy lifting."
+  },
+  {
+    "createdAt": "2026-01-25T14:48:01Z",
+    "stars": 274,
+    "name": "joeseesun/anything-to-notebooklm",
+    "url": "https://github.com/joeseesun/anything-to-notebooklm",
+    "lang": "Python",
+    "desc": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc."
+  },
+  {
+    "createdAt": "2026-01-22T02:51:12Z",
+    "stars": 269,
+    "name": "1837620622/cloudflare-bypass-2026",
+    "url": "https://github.com/1837620622/cloudflare-bypass-2026",
+    "lang": "Python",
+    "desc": "Cloudflare Turnstile 绕过工具 | Cloudflare Bypass Tool based on SeleniumBase UC Mode | 支持 Mac/Windows/Linux"
+  },
+  {
+    "createdAt": "2026-01-25T04:06:54Z",
+    "stars": 267,
+    "name": "miantiao-me/cloud-code",
+    "url": "https://github.com/miantiao-me/cloud-code",
+    "lang": "TypeScript",
+    "desc": "Cloud Code (Cloudflare + OpenCode), running OpenCode on Cloudflare to build a dedicated cloud Agent for you."
+  },
+  {
+    "createdAt": "2026-01-22T17:27:52Z",
+    "stars": 260,
+    "name": "ramziddin/solid-skills",
+    "url": "https://github.com/ramziddin/solid-skills",
+    "lang": "",
+    "desc": "AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture"
+  },
+  {
+    "createdAt": "2026-01-28T00:42:34Z",
+    "stars": 250,
+    "name": "zarazhangrui/frontend-slides",
+    "url": "https://github.com/zarazhangrui/frontend-slides",
+    "lang": "",
+    "desc": "Create beautiful slides on the web using Claude's frontend skills"
+  },
+  {
+    "createdAt": "2026-01-23T19:03:02Z",
+    "stars": 246,
+    "name": "vueuse/skills",
+    "url": "https://github.com/vueuse/skills",
+    "lang": "TypeScript",
+    "desc": "Agent Skills for VueUse"
+  },
+  {
+    "createdAt": "2026-01-27T03:47:21Z",
+    "stars": 246,
+    "name": "xianyu110/clawbot",
+    "url": "https://github.com/xianyu110/clawbot",
+    "lang": "",
+    "desc": "Clawdbot完整配置指南：从安装到Claude Code中转"
+  },
+  {
+    "createdAt": "2026-01-22T09:24:34Z",
+    "stars": 245,
+    "name": "oopshelena/WalletConnect-Community",
+    "url": "https://github.com/oopshelena/WalletConnect-Community",
+    "lang": "",
+    "desc": "This is a repo to submit your WalletConnect fun dev projects."
+  },
+  {
+    "createdAt": "2026-01-26T12:52:25Z",
+    "stars": 244,
+    "name": "Robbyant/lingbot-vla",
+    "url": "https://github.com/Robbyant/lingbot-vla",
+    "lang": "Python",
+    "desc": "A Pragmatic VLA Foundation Model"
+  },
+  {
+    "createdAt": "2026-01-22T15:17:36Z",
+    "stars": 242,
+    "name": "YuJunZhiXue/github-skill-forge",
+    "url": "https://github.com/YuJunZhiXue/github-skill-forge",
+    "lang": "Python",
+    "desc": "一个\"制造技能的技能\"。这个工具自动化了将任意 GitHub 仓库转换为标准化技能的全过程，是扩展 AI Agent 能力的核心工具。"
+  },
+  {
+    "createdAt": "2026-01-21T07:15:20Z",
+    "stars": 241,
+    "name": "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+    "lang": "TypeScript",
+    "desc": "Claude Code / Cursor skill to recommend from 6000+ Nano Banana Pro image prompts."
+  },
+  {
+    "createdAt": "2026-01-25T03:31:21Z",
+    "stars": 228,
+    "name": "qufei1993/skills-hub",
+    "url": "https://github.com/qufei1993/skills-hub",
+    "lang": "Rust",
+    "desc": "A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”."
+  },
+  {
+    "createdAt": "2026-01-25T19:50:25Z",
+    "stars": 217,
+    "name": "sndrec/WebMonkeyBall",
+    "url": "https://github.com/sndrec/WebMonkeyBall",
+    "lang": "TypeScript",
+    "desc": "Super Monkey Ball on Web Broser."
+  }
+]
