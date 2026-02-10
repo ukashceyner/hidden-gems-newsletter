@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-02-05T20:50:58Z",
+    "stars": 2459,
+    "name": "mitchellh/vouch",
+    "url": "https://github.com/mitchellh/vouch",
+    "lang": "Nushell",
+    "desc": "A community trust management system based on explicit vouches to participate."
+  },
+  {
+    "createdAt": "2026-02-03T17:32:00Z",
+    "stars": 2052,
+    "name": "BlockRunAI/ClawRouter",
+    "url": "https://github.com/BlockRunAI/ClawRouter",
+    "lang": "TypeScript",
+    "desc": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments."
+  },
+  {
+    "createdAt": "2026-02-04T22:42:22Z",
+    "stars": 1937,
+    "name": "anthropics/claudes-c-compiler",
+    "url": "https://github.com/anthropics/claudes-c-compiler",
+    "lang": "Rust",
+    "desc": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
+  },
+  {
+    "createdAt": "2026-02-06T12:38:55Z",
+    "stars": 1565,
+    "name": "op7418/CodePilot",
+    "url": "https://github.com/op7418/CodePilot",
+    "lang": "TypeScript",
+    "desc": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
+  },
+  {
+    "createdAt": "2026-02-07T06:45:00Z",
+    "stars": 1291,
+    "name": "The-Vibe-Company/companion",
+    "url": "https://github.com/The-Vibe-Company/companion",
+    "lang": "TypeScript",
+    "desc": "Open-source Claude Code Web UI. Launch sessions, stream responses, approve tools.  All from your browser / mobile"
+  },
+  {
+    "createdAt": "2026-02-04T23:04:00Z",
+    "stars": 1191,
+    "name": "excalidraw/excalidraw-mcp",
+    "url": "https://github.com/excalidraw/excalidraw-mcp",
+    "lang": "TypeScript",
+    "desc": "Fast and streamable Excalidraw MCP App"
+  },
+  {
+    "createdAt": "2026-02-04T06:44:11Z",
+    "stars": 1136,
+    "name": "sanyuan0704/code-review-expert",
+    "url": "https://github.com/sanyuan0704/code-review-expert",
+    "lang": "",
+    "desc": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions"
+  },
+  {
+    "createdAt": "2026-02-08T22:08:17Z",
+    "stars": 1035,
+    "name": "hesamsheikh/awesome-openclaw-usecases",
+    "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "lang": "",
+    "desc": "A community collection of OpenClaw use cases for making life easier."
+  },
+  {
+    "createdAt": "2026-02-05T17:22:09Z",
+    "stars": 974,
+    "name": "foru17/clash-master",
+    "url": "https://github.com/foru17/clash-master",
+    "lang": "TypeScript",
+    "desc": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
+  },
+  {
+    "createdAt": "2026-02-04T12:32:35Z",
+    "stars": 908,
+    "name": "sipeed/picoclaw",
+    "url": "https://github.com/sipeed/picoclaw",
+    "lang": "Go",
+    "desc": "picoclaw"
+  },
+  {
+    "createdAt": "2026-02-03T08:13:42Z",
+    "stars": 878,
+    "name": "eljojo/rememory",
+    "url": "https://github.com/eljojo/rememory",
+    "lang": "Go",
+    "desc": "have a plan for the worst-case scenario"
+  },
+  {
+    "createdAt": "2026-02-08T09:20:05Z",
+    "stars": 871,
+    "name": "f/textream",
+    "url": "https://github.com/f/textream",
+    "lang": "Swift",
+    "desc": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
+  },
+  {
+    "createdAt": "2026-02-05T16:59:02Z",
+    "stars": 867,
+    "name": "antirez/voxtral.c",
+    "url": "https://github.com/antirez/voxtral.c",
+    "lang": "C",
+    "desc": "Pure C inference of Mistral Voxtral Realtime 4B speech to text model"
+  },
+  {
+    "createdAt": "2026-02-04T04:25:33Z",
+    "stars": 806,
+    "name": "memovai/mimiclaw",
+    "url": "https://github.com/memovai/mimiclaw",
+    "lang": "C",
+    "desc": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first."
+  },
+  {
+    "createdAt": "2026-02-03T15:08:25Z",
+    "stars": 794,
+    "name": "zhukunpenglinyutong/codemoss",
+    "url": "https://github.com/zhukunpenglinyutong/codemoss",
+    "lang": "TypeScript",
+    "desc": "下一代VibeCoding，何须用IDE"
+  },
+  {
+    "createdAt": "2026-02-08T14:06:55Z",
+    "stars": 768,
+    "name": "TheAgentContextLab/OneContext",
+    "url": "https://github.com/TheAgentContextLab/OneContext",
+    "lang": "",
+    "desc": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. "
+  },
+  {
+    "createdAt": "2026-02-07T15:10:01Z",
+    "stars": 706,
+    "name": "trumpet-noek/sora2-free-watermark-remover",
+    "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
+    "lang": "Python",
+    "desc": "sora2 free watermark remover"
+  },
+  {
+    "createdAt": "2026-02-08T06:19:44Z",
+    "stars": 681,
+    "name": "SumeLabs/clawra",
+    "url": "https://github.com/SumeLabs/clawra",
+    "lang": "TypeScript",
+    "desc": "Clawra - Openclaw as your girlfriend"
+  },
+  {
+    "createdAt": "2026-02-06T04:54:31Z",
+    "stars": 679,
+    "name": "sseanliu/VisionClaw",
+    "url": "https://github.com/sseanliu/VisionClaw",
+    "lang": "",
+    "desc": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw"
+  },
+  {
+    "createdAt": "2026-02-07T15:14:03Z",
+    "stars": 676,
+    "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "lang": "Python",
+    "desc": "sora2 watermark cleaner pro"
+  },
+  {
+    "createdAt": "2026-02-04T04:39:02Z",
+    "stars": 647,
+    "name": "SamNet-dev/paqctl",
+    "url": "https://github.com/SamNet-dev/paqctl",
+    "lang": "Shell",
+    "desc": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation"
+  },
+  {
+    "createdAt": "2026-02-04T10:29:51Z",
+    "stars": 643,
+    "name": "run-bigpig/jcp",
+    "url": "https://github.com/run-bigpig/jcp",
+    "lang": "Go",
+    "desc": "韭菜盘 (JCP AI) - AI 驱动的智能A股分析系统，基于 Wails + Go + React，支持多 Agent 协作分析"
+  },
+  {
+    "createdAt": "2026-02-09T00:34:11Z",
+    "stars": 613,
+    "name": "jlia0/tinyclaw",
+    "url": "https://github.com/jlia0/tinyclaw",
+    "lang": "JavaScript",
+    "desc": "TinyClaw is a tiny wrapper of Claude Code that acts as your 24/7 personal assistant"
+  },
+  {
+    "createdAt": "2026-02-08T04:35:51Z",
+    "stars": 562,
+    "name": "rohunvora/x-research-skill",
+    "url": "https://github.com/rohunvora/x-research-skill",
+    "lang": "TypeScript",
+    "desc": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+  },
+  {
+    "createdAt": "2026-02-04T07:41:08Z",
+    "stars": 545,
+    "name": "cfinke/EpsteIn",
+    "url": "https://github.com/cfinke/EpsteIn",
+    "lang": "Python",
+    "desc": "See which of your LinkedIn connections appear in the Epstein files."
+  },
+  {
+    "createdAt": "2026-02-04T01:09:45Z",
+    "stars": 512,
+    "name": "fspecii/ace-step-ui",
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "lang": "JavaScript",
+    "desc": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!"
+  },
+  {
+    "createdAt": "2026-02-04T23:22:00Z",
+    "stars": 460,
+    "name": "TrevorS/voxtral-mini-realtime-rs",
+    "url": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+    "lang": "Rust",
+    "desc": "Streaming speech recognition running natively and in the browser. A pure Rust implementation of Mistral's Voxtral Mini 4B Realtime model using the Burn ML framework."
+  },
+  {
+    "createdAt": "2026-02-03T01:43:12Z",
+    "stars": 456,
+    "name": "Haleclipse/CodexDesktop-Rebuild",
+    "url": "https://github.com/Haleclipse/CodexDesktop-Rebuild",
+    "lang": "JavaScript",
+    "desc": "Codex Desktop App - Cross-platform Rebuild"
+  },
+  {
+    "createdAt": "2026-02-04T21:09:33Z",
+    "stars": 441,
+    "name": "rohitg00/awesome-claude-code-toolkit",
+    "url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+    "lang": "JavaScript",
+    "desc": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+15,000 via SkillKit), 42 commands, 120 plugins, 19 hooks, 15 rules, 7 templates, 6 MCP configs, and more."
+  },
+  {
+    "createdAt": "2026-02-05T23:40:01Z",
+    "stars": 431,
+    "name": "strongdm/attractor",
+    "url": "https://github.com/strongdm/attractor",
+    "lang": "",
+    "desc": "nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory"
+  },
+  {
+    "createdAt": "2026-02-05T18:22:39Z",
+    "stars": 384,
+    "name": "jingkaihe/matchlock",
+    "url": "https://github.com/jingkaihe/matchlock",
+    "lang": "Go",
+    "desc": "Matchlock secures AI agent workloads with a Linux-based sandbox."
+  },
+  {
+    "createdAt": "2026-02-05T07:21:50Z",
+    "stars": 383,
+    "name": "ibelick/webclaw",
+    "url": "https://github.com/ibelick/webclaw",
+    "lang": "TypeScript",
+    "desc": "Fast web client for OpenClaw"
+  },
+  {
+    "createdAt": "2026-02-06T15:25:03Z",
+    "stars": 383,
+    "name": "snarktank/antfarm",
+    "url": "https://github.com/snarktank/antfarm",
+    "lang": "TypeScript",
+    "desc": "Build your agent team in OpenClaw with one command."
+  },
+  {
+    "createdAt": "2026-02-07T15:23:43Z",
+    "stars": 379,
+    "name": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
+    "url": "https://github.com/tnbeznlacut/sora2-watermark-deleter-windows-macos",
+    "lang": "Python",
+    "desc": "sora2 watermark deleter windows macos"
+  },
+  {
+    "createdAt": "2026-02-05T12:00:23Z",
+    "stars": 379,
+    "name": "ula7i921011/React2Shell-Scanner",
+    "url": "https://github.com/ula7i921011/React2Shell-Scanner",
+    "lang": "Python",
+    "desc": "React2Shell Scanner"
+  },
+  {
+    "createdAt": "2026-02-03T12:30:54Z",
+    "stars": 352,
+    "name": "earendil-works/gondolin",
+    "url": "https://github.com/earendil-works/gondolin",
+    "lang": "TypeScript",
+    "desc": "Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox"
+  },
+  {
+    "createdAt": "2026-02-03T18:50:36Z",
+    "stars": 325,
+    "name": "ResearAI/AutoFigure-Edit",
+    "url": "https://github.com/ResearAI/AutoFigure-Edit",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-04T14:46:47Z",
+    "stars": 312,
+    "name": "llmsresearch/paperbanana",
+    "url": "https://github.com/llmsresearch/paperbanana",
+    "lang": "Python",
+    "desc": "Open source implementation and extension of Google Research’s PaperBanana for automated academic figures, diagrams, and research visuals, expanded to new domains like slide generation."
+  },
+  {
+    "createdAt": "2026-02-08T05:01:33Z",
+    "stars": 310,
+    "name": "lijigang/ljg-skill-xray-paper",
+    "url": "https://github.com/lijigang/ljg-skill-xray-paper",
+    "lang": "",
+    "desc": "论文X光机 — Claude Code Skill，解构学术论文，提炼餐巾纸公式"
+  },
+  {
+    "createdAt": "2026-02-06T04:17:28Z",
+    "stars": 302,
+    "name": "google-gemini/gemini-skills",
+    "url": "https://github.com/google-gemini/gemini-skills",
+    "lang": "",
+    "desc": "Skills for the Gemini API, SDK and model/agebt interactions"
+  },
+  {
+    "createdAt": "2026-02-03T06:57:10Z",
+    "stars": 301,
+    "name": "nearai/ironclaw",
+    "url": "https://github.com/nearai/ironclaw",
+    "lang": "Rust",
+    "desc": "IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security"
+  },
+  {
+    "createdAt": "2026-02-03T03:30:59Z",
+    "stars": 277,
+    "name": "Lucent-Snow/style-extractor",
+    "url": "https://github.com/Lucent-Snow/style-extractor",
+    "lang": "JavaScript",
+    "desc": "一个能够提取最大化提取网页风格的skill"
+  },
+  {
+    "createdAt": "2026-02-05T19:59:46Z",
+    "stars": 265,
+    "name": "prompt-security/clawsec",
+    "url": "https://github.com/prompt-security/clawsec",
+    "lang": "TypeScript",
+    "desc": "A complete security skill suite for OpenClaw's family of agents. Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite."
+  },
+  {
+    "createdAt": "2026-02-09T17:01:11Z",
+    "stars": 261,
+    "name": "MemeCalculate/moyin-creator",
+    "url": "https://github.com/MemeCalculate/moyin-creator",
+    "lang": "TypeScript",
+    "desc": "AI 影视生产级工具 | 支持 Seedance 2.0 | 剧本到成片全流程批量化 | AI-powered film production tool with Seedance 2.0 support"
+  },
+  {
+    "createdAt": "2026-02-03T17:50:04Z",
+    "stars": 259,
+    "name": "yangdongchao/UniAudio2",
+    "url": "https://github.com/yangdongchao/UniAudio2",
+    "lang": "Python",
+    "desc": "UniAudio 2.0: An audio fundation model for text, speech, sound, and music"
+  },
+  {
+    "createdAt": "2026-02-07T08:11:59Z",
+    "stars": 256,
+    "name": "marshallrichards/ClawPhone",
+    "url": "https://github.com/marshallrichards/ClawPhone",
+    "lang": "Python",
+    "desc": "Tweaks for running OpenClaw on a Android smartphone"
+  },
+  {
+    "createdAt": "2026-02-07T17:55:24Z",
+    "stars": 250,
+    "name": "doggy8088/awesome-mbp-for-developers",
+    "url": "https://github.com/doggy8088/awesome-mbp-for-developers",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-07T03:08:58Z",
+    "stars": 248,
+    "name": "blader/napkin",
+    "url": "https://github.com/blader/napkin",
+    "lang": "",
+    "desc": "A Claude Code skill that gives the agent persistent memory of its mistakes via a per-repo markdown scratchpad."
+  },
+  {
+    "createdAt": "2026-02-04T00:33:03Z",
+    "stars": 239,
+    "name": "stablyai/agent-slack",
+    "url": "https://github.com/stablyai/agent-slack",
+    "lang": "TypeScript",
+    "desc": "Slack automation CLI for AI agents"
+  },
+  {
+    "createdAt": "2026-02-06T05:25:20Z",
+    "stars": 233,
+    "name": "jiweiyeah/Skills-Manager",
+    "url": "https://github.com/jiweiyeah/Skills-Manager",
+    "lang": "",
+    "desc": "A high-performance desktop application for managing skills across multiple AI coding assistants. Seamlessly organize, sync, and share skills for Claude Code、Codex、Opencode and other AI tools. Built with Tauri 2.0, React 19, and Rust."
+  }
+]
