@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-02-08T22:08:17Z",
+    "stars": 2041,
+    "name": "hesamsheikh/awesome-openclaw-usecases",
+    "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "lang": "",
+    "desc": "A community collection of OpenClaw use cases for making life easier."
+  },
+  {
+    "createdAt": "2026-02-09T23:12:48Z",
+    "stars": 1839,
+    "name": "PeonPing/peon-ping",
+    "url": "https://github.com/PeonPing/peon-ping",
+    "lang": "Shell",
+    "desc": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal."
+  },
+  {
+    "createdAt": "2026-02-06T12:38:55Z",
+    "stars": 1821,
+    "name": "op7418/CodePilot",
+    "url": "https://github.com/op7418/CodePilot",
+    "lang": "TypeScript",
+    "desc": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
+  },
+  {
+    "createdAt": "2026-02-07T06:45:00Z",
+    "stars": 1813,
+    "name": "The-Vibe-Company/companion",
+    "url": "https://github.com/The-Vibe-Company/companion",
+    "lang": "TypeScript",
+    "desc": "Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile"
+  },
+  {
+    "createdAt": "2026-02-08T07:55:07Z",
+    "stars": 1489,
+    "name": "ComposioHQ/secure-openclaw",
+    "url": "https://github.com/ComposioHQ/secure-openclaw",
+    "lang": "JavaScript",
+    "desc": "A personal 24x7 AI assistant like OpenClaw that runs on your messaging platforms. Send a message on WhatsApp, Telegram, Signal, or iMessage and get responses from Claude with full tool access, persistent memory, scheduled reminders, and integrations with 500+ apps."
+  },
+  {
+    "createdAt": "2026-02-11T18:29:34Z",
+    "stars": 1374,
+    "name": "xyzeva/k-id-age-verifier",
+    "url": "https://github.com/xyzeva/k-id-age-verifier",
+    "lang": "TypeScript",
+    "desc": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
+  },
+  {
+    "createdAt": "2026-02-08T06:19:44Z",
+    "stars": 1282,
+    "name": "SumeLabs/clawra",
+    "url": "https://github.com/SumeLabs/clawra",
+    "lang": "TypeScript",
+    "desc": "Clawra - Openclaw as your girlfriend"
+  },
+  {
+    "createdAt": "2026-02-08T09:20:05Z",
+    "stars": 1186,
+    "name": "f/textream",
+    "url": "https://github.com/f/textream",
+    "lang": "Swift",
+    "desc": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay."
+  },
+  {
+    "createdAt": "2026-02-09T00:34:11Z",
+    "stars": 1184,
+    "name": "jlia0/tinyclaw",
+    "url": "https://github.com/jlia0/tinyclaw",
+    "lang": "TypeScript",
+    "desc": "TinyClaw is a team of personal agents that collaborate with each other"
+  },
+  {
+    "createdAt": "2026-02-06T04:17:28Z",
+    "stars": 1173,
+    "name": "google-gemini/gemini-skills",
+    "url": "https://github.com/google-gemini/gemini-skills",
+    "lang": "",
+    "desc": "Skills for the Gemini API, SDK and model/agent interactions"
+  },
+  {
+    "createdAt": "2026-02-10T15:49:55Z",
+    "stars": 1014,
+    "name": "promptpirate-x/discord-id-bypass-tool",
+    "url": "https://github.com/promptpirate-x/discord-id-bypass-tool",
+    "lang": "HTML",
+    "desc": "A verified tool that works on any potato computer that will let you bypass discord verification"
+  },
+  {
+    "createdAt": "2026-02-07T13:00:49Z",
+    "stars": 993,
+    "name": "tw93/Kaku",
+    "url": "https://github.com/tw93/Kaku",
+    "lang": "Rust",
+    "desc": "🎃 A fast, out-of-the-box terminal built for AI coding."
+  },
+  {
+    "createdAt": "2026-02-06T04:54:31Z",
+    "stars": 885,
+    "name": "sseanliu/VisionClaw",
+    "url": "https://github.com/sseanliu/VisionClaw",
+    "lang": "",
+    "desc": "Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw"
+  },
+  {
+    "createdAt": "2026-02-08T17:52:29Z",
+    "stars": 878,
+    "name": "Veirt/weathr",
+    "url": "https://github.com/Veirt/weathr",
+    "lang": "Rust",
+    "desc": "a terminal weather app with ascii animation"
+  },
+  {
+    "createdAt": "2026-02-06T15:25:03Z",
+    "stars": 877,
+    "name": "snarktank/antfarm",
+    "url": "https://github.com/snarktank/antfarm",
+    "lang": "TypeScript",
+    "desc": "Build your agent team in OpenClaw with one command."
+  },
+  {
+    "createdAt": "2026-02-08T14:06:55Z",
+    "stars": 844,
+    "name": "TheAgentContextLab/OneContext",
+    "url": "https://github.com/TheAgentContextLab/OneContext",
+    "lang": "",
+    "desc": " OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI Agents. "
+  },
+  {
+    "createdAt": "2026-02-11T22:54:47Z",
+    "stars": 759,
+    "name": "RevylAI/greenlight",
+    "url": "https://github.com/RevylAI/greenlight",
+    "lang": "Go",
+    "desc": "Pre-submission compliance scanner for the Apple App Store"
+  },
+  {
+    "createdAt": "2026-02-08T04:35:51Z",
+    "stars": 711,
+    "name": "rohunvora/x-research-skill",
+    "url": "https://github.com/rohunvora/x-research-skill",
+    "lang": "TypeScript",
+    "desc": "X/Twitter research skill for Claude Code and OpenClaw. Agentic search, thread following, deep-dives, sourced briefings."
+  },
+  {
+    "createdAt": "2026-02-07T15:10:01Z",
+    "stars": 709,
+    "name": "trumpet-noek/sora2-free-watermark-remover",
+    "url": "https://github.com/trumpet-noek/sora2-free-watermark-remover",
+    "lang": "Python",
+    "desc": "sora2 free watermark remover"
+  },
+  {
+    "createdAt": "2026-02-07T15:14:03Z",
+    "stars": 678,
+    "name": "uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "url": "https://github.com/uqogihujomuwhiff/sora2-watermark-cleaner-pro",
+    "lang": "Python",
+    "desc": "sora2 watermark cleaner pro"
+  },
+  {
+    "createdAt": "2026-02-09T08:17:02Z",
+    "stars": 653,
+    "name": "zai-org/GLM-5",
+    "url": "https://github.com/zai-org/GLM-5",
+    "lang": "",
+    "desc": "GLM-5: From Vibe Coding to Agentic Engineering"
+  },
+  {
+    "createdAt": "2026-02-10T05:07:29Z",
+    "stars": 400,
+    "name": "rebornix/Agmente",
+    "url": "https://github.com/rebornix/Agmente",
+    "lang": "Swift",
+    "desc": "iOS client for coding agents via ACP"
+  },
+  {
+    "createdAt": "2026-02-07T15:23:43Z",
+    "stars": 379,
+    "name": "tnbeznlacut/sora2-watermark-deleter-windows-macos",
+    "url": "https://github.com/tnbeznlacut/sora2-watermark-deleter-windows-macos",
+    "lang": "Python",
+    "desc": "sora2 watermark deleter windows macos"
+  },
+  {
+    "createdAt": "2026-02-08T05:01:33Z",
+    "stars": 370,
+    "name": "lijigang/ljg-skill-xray-paper",
+    "url": "https://github.com/lijigang/ljg-skill-xray-paper",
+    "lang": "",
+    "desc": "论文X光机 — Claude Code Skill，解构学术论文，提炼餐巾纸公式"
+  },
+  {
+    "createdAt": "2026-02-10T00:27:08Z",
+    "stars": 366,
+    "name": "aeromomo/claw-compactor",
+    "url": "https://github.com/aeromomo/claw-compactor",
+    "lang": "Python",
+    "desc": "🦞 Claw Compactor — The 98% Crusher. Cut your AI agent token spend in half with 5 layered compression techniques."
+  },
+  {
+    "createdAt": "2026-02-12T16:41:47Z",
+    "stars": 348,
+    "name": "devops-interviews/devops-interviews",
+    "url": "https://github.com/devops-interviews/devops-interviews",
+    "lang": "",
+    "desc": "DevOps Interview Questions"
+  },
+  {
+    "createdAt": "2026-02-07T13:03:57Z",
+    "stars": 338,
+    "name": "FireRedTeam/FireRed-OpenStoryline",
+    "url": "https://github.com/FireRedTeam/FireRed-OpenStoryline",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-07T08:11:59Z",
+    "stars": 316,
+    "name": "marshallrichards/ClawPhone",
+    "url": "https://github.com/marshallrichards/ClawPhone",
+    "lang": "Python",
+    "desc": "Tweaks for running OpenClaw on a Android smartphone"
+  },
+  {
+    "createdAt": "2026-02-09T17:01:11Z",
+    "stars": 313,
+    "name": "MemeCalculate/moyin-creator",
+    "url": "https://github.com/MemeCalculate/moyin-creator",
+    "lang": "TypeScript",
+    "desc": "AI 影视生产级工具 | 支持 Seedance 2.0 | 剧本到成片全流程批量化 | AI-powered film production tool with Seedance 2.0 support"
+  },
+  {
+    "createdAt": "2026-02-07T14:46:09Z",
+    "stars": 302,
+    "name": "linguo2625469/qq-farm-bot",
+    "url": "https://github.com/linguo2625469/qq-farm-bot",
+    "lang": "JavaScript",
+    "desc": "基于 Node.js 的 QQ 经典农场小程序自动化挂机脚本。通过分析小程序 WebSocket 通信协议（Protocol Buffers），实现全自动农场管理。"
+  },
+  {
+    "createdAt": "2026-02-07T03:08:58Z",
+    "stars": 283,
+    "name": "blader/napkin",
+    "url": "https://github.com/blader/napkin",
+    "lang": "",
+    "desc": "A Claude Code skill that gives the agent persistent memory of its mistakes via a per-repo markdown scratchpad."
+  },
+  {
+    "createdAt": "2026-02-09T03:30:47Z",
+    "stars": 280,
+    "name": "alibaba-damo-academy/RynnBrain",
+    "url": "https://github.com/alibaba-damo-academy/RynnBrain",
+    "lang": "Jupyter Notebook",
+    "desc": "RynnBrain: Open Embodied Foundation Models"
+  },
+  {
+    "createdAt": "2026-02-08T17:40:21Z",
+    "stars": 267,
+    "name": "aiming-lab/SkillRL",
+    "url": "https://github.com/aiming-lab/SkillRL",
+    "lang": "",
+    "desc": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning"
+  },
+  {
+    "createdAt": "2026-02-07T17:55:24Z",
+    "stars": 266,
+    "name": "doggy8088/awesome-mbp-for-developers",
+    "url": "https://github.com/doggy8088/awesome-mbp-for-developers",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-08T05:03:12Z",
+    "stars": 266,
+    "name": "lijigang/ljg-skill-xray-book",
+    "url": "https://github.com/lijigang/ljg-skill-xray-book",
+    "lang": "",
+    "desc": "深度拆书机 — Claude Code Skill，三轮认知压缩提取书籍可学习结构"
+  },
+  {
+    "createdAt": "2026-02-07T14:05:49Z",
+    "stars": 264,
+    "name": "OpenMOSS/MOSS-TTS",
+    "url": "https://github.com/OpenMOSS/MOSS-TTS",
+    "lang": "Python",
+    "desc": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS."
+  },
+  {
+    "createdAt": "2026-02-09T22:56:13Z",
+    "stars": 250,
+    "name": "openhome-dev/abilities",
+    "url": "https://github.com/openhome-dev/abilities",
+    "lang": "Python",
+    "desc": "Open-source abilities for OpenHome agents. "
+  },
+  {
+    "createdAt": "2026-02-10T07:58:02Z",
+    "stars": 245,
+    "name": "yan5xu/code-relay",
+    "url": "https://github.com/yan5xu/code-relay",
+    "lang": "",
+    "desc": "AI Coding Agent 工作协议 — 跨会话记忆、多仓库全局视野、结构化上下文管理"
+  },
+  {
+    "createdAt": "2026-02-07T22:16:24Z",
+    "stars": 243,
+    "name": "nickustinov/itsypad-macos",
+    "url": "https://github.com/nickustinov/itsypad-macos",
+    "lang": "Swift",
+    "desc": "A tiny, fast scratchpad and clipboard manager for Mac"
+  },
+  {
+    "createdAt": "2026-02-06T05:25:20Z",
+    "stars": 243,
+    "name": "jiweiyeah/Skills-Manager",
+    "url": "https://github.com/jiweiyeah/Skills-Manager",
+    "lang": "",
+    "desc": "A high-performance desktop application for managing skills across multiple AI coding assistants. Seamlessly organize, sync, and share skills for Claude Code、Codex、Opencode and other AI tools. Built with Tauri 2.0, React 19, and Rust."
+  },
+  {
+    "createdAt": "2026-02-11T23:54:32Z",
+    "stars": 239,
+    "name": "zscole/model-hierarchy-skill",
+    "url": "https://github.com/zscole/model-hierarchy-skill",
+    "lang": "Python",
+    "desc": "OpenClaw skill for cost-optimized model routing based on task complexity"
+  },
+  {
+    "createdAt": "2026-02-11T18:00:41Z",
+    "stars": 239,
+    "name": "zts212653/cat-cafe-tutorials",
+    "url": "https://github.com/zts212653/cat-cafe-tutorials",
+    "lang": "",
+    "desc": "从零搭建 AI 猫猫协作系统 — 一个真实项目的完整复盘"
+  },
+  {
+    "createdAt": "2026-02-06T17:29:50Z",
+    "stars": 235,
+    "name": "pedrohcgs/claude-code-my-workflow",
+    "url": "https://github.com/pedrohcgs/claude-code-my-workflow",
+    "lang": "HTML",
+    "desc": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols."
+  },
+  {
+    "createdAt": "2026-02-12T10:32:50Z",
+    "stars": 231,
+    "name": "freestylefly/openclaw-wechat",
+    "url": "https://github.com/freestylefly/openclaw-wechat",
+    "lang": "TypeScript",
+    "desc": "让 OpenClaw稳定的连上你的个人微信"
+  },
+  {
+    "createdAt": "2026-02-06T17:26:47Z",
+    "stars": 227,
+    "name": "praetorian-inc/augustus",
+    "url": "https://github.com/praetorian-inc/augustus",
+    "lang": "Go",
+    "desc": "LLM security testing framework for detecting prompt injection, jailbreaks, and adversarial attacks — 190+ probes, 28 providers, single Go binary"
+  },
+  {
+    "createdAt": "2026-02-10T08:44:24Z",
+    "stars": 227,
+    "name": "LanRhyme/MicYou",
+    "url": "https://github.com/LanRhyme/MicYou",
+    "lang": "Kotlin",
+    "desc": "MicYou is a powerful tool that turns your Android device into a high-quality wireless microphone for your PC."
+  },
+  {
+    "createdAt": "2026-02-10T17:29:43Z",
+    "stars": 222,
+    "name": "AnkitNayak-eth/EpsteinFiles-RAG",
+    "url": "https://github.com/AnkitNayak-eth/EpsteinFiles-RAG",
+    "lang": "Python",
+    "desc": "A RAG pipeline implementation built on the 'Epstein Files 20K' dataset from Hugging Face (Teyler)."
+  },
+  {
+    "createdAt": "2026-02-06T07:29:29Z",
+    "stars": 217,
+    "name": "simonw/showboat",
+    "url": "https://github.com/simonw/showboat",
+    "lang": "Go",
+    "desc": "Create executable documents that demonstrate an agent's work"
+  },
+  {
+    "createdAt": "2026-02-09T02:29:16Z",
+    "stars": 215,
+    "name": "zilliztech/memsearch",
+    "url": "https://github.com/zilliztech/memsearch",
+    "lang": "Python",
+    "desc": "A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw."
+  },
+  {
+    "createdAt": "2026-02-10T04:07:34Z",
+    "stars": 214,
+    "name": "digitalknk/openclaw-runbook",
+    "url": "https://github.com/digitalknk/openclaw-runbook",
+    "lang": "",
+    "desc": ""
+  }
+]
