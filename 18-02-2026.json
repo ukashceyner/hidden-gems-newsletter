@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-02-13T08:56:04Z",
+    "stars": 13113,
+    "name": "zeroclaw-labs/zeroclaw",
+    "url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "lang": "Rust",
+    "desc": "Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀"
+  },
+  {
+    "createdAt": "2026-02-14T05:06:12Z",
+    "stars": 3614,
+    "name": "bwya77/vscode-dark-islands",
+    "url": "https://github.com/bwya77/vscode-dark-islands",
+    "lang": "PowerShell",
+    "desc": "VSCode theme based off the easemate IDE and Jetbrains islands theme"
+  },
+  {
+    "createdAt": "2026-02-15T16:41:38Z",
+    "stars": 2524,
+    "name": "HKUDS/ClawWork",
+    "url": "https://github.com/HKUDS/ClawWork",
+    "lang": "Python",
+    "desc": "\"ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours\""
+  },
+  {
+    "createdAt": "2026-02-13T09:02:13Z",
+    "stars": 1908,
+    "name": "millionco/react-doctor",
+    "url": "https://github.com/millionco/react-doctor",
+    "lang": "TypeScript",
+    "desc": "Let coding agents diagnose and fix your React code"
+  },
+  {
+    "createdAt": "2026-02-11T18:29:34Z",
+    "stars": 1621,
+    "name": "xyzeva/k-id-age-verifier",
+    "url": "https://github.com/xyzeva/k-id-age-verifier",
+    "lang": "TypeScript",
+    "desc": "automatically verify your age on discord, twitch, kick, quora and more (k-id)"
+  },
+  {
+    "createdAt": "2026-02-15T14:43:03Z",
+    "stars": 1099,
+    "name": "vercel-labs/portless",
+    "url": "https://github.com/vercel-labs/portless",
+    "lang": "TypeScript",
+    "desc": "Replace port numbers with stable, named .localhost URLs. For humans and agents."
+  },
+  {
+    "createdAt": "2026-02-11T22:54:47Z",
+    "stars": 1067,
+    "name": "RevylAI/greenlight",
+    "url": "https://github.com/RevylAI/greenlight",
+    "lang": "Go",
+    "desc": "Pre-submission compliance scanner for the Apple App Store"
+  },
+  {
+    "createdAt": "2026-02-14T20:46:44Z",
+    "stars": 962,
+    "name": "Conway-Research/automaton",
+    "url": "https://github.com/Conway-Research/automaton",
+    "lang": "TypeScript",
+    "desc": "The first AI that can earn its own existence, replicate, and evolve — without needing a human"
+  },
+  {
+    "createdAt": "2026-02-14T01:41:59Z",
+    "stars": 896,
+    "name": "mickamy/sql-tap",
+    "url": "https://github.com/mickamy/sql-tap",
+    "lang": "Go",
+    "desc": "Watch SQL traffic in real-time with a TUI"
+  },
+  {
+    "createdAt": "2026-02-13T06:43:54Z",
+    "stars": 843,
+    "name": "HKUDS/FastCode",
+    "url": "https://github.com/HKUDS/FastCode",
+    "lang": "Python",
+    "desc": "\"FastCode: Accelerating and Streamlining Your Code Understanding\""
+  },
+  {
+    "createdAt": "2026-02-16T10:46:52Z",
+    "stars": 823,
+    "name": "Zaneham/BarraCUDA",
+    "url": "https://github.com/Zaneham/BarraCUDA",
+    "lang": "C",
+    "desc": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11 machine code."
+  },
+  {
+    "createdAt": "2026-02-16T19:33:52Z",
+    "stars": 794,
+    "name": "nicobailon/visual-explainer",
+    "url": "https://github.com/nicobailon/visual-explainer",
+    "lang": "HTML",
+    "desc": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps"
+  },
+  {
+    "createdAt": "2026-02-14T07:27:52Z",
+    "stars": 791,
+    "name": "vigorX777/ai-daily-digest",
+    "url": "https://github.com/vigorX777/ai-daily-digest",
+    "lang": "TypeScript",
+    "desc": "从 Andrej Karpathy 推荐的 90 顶级技术博客中抓取最新文章，AI 多维评分筛选，生成一份每日精选日报。更多可见公众号：懂点儿AI"
+  },
+  {
+    "createdAt": "2026-02-15T16:11:31Z",
+    "stars": 753,
+    "name": "AlexsJones/llmfit",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "lang": "Rust",
+    "desc": "94 models. 30 providers. One command to find what runs on your hardware."
+  },
+  {
+    "createdAt": "2026-02-12T16:41:47Z",
+    "stars": 712,
+    "name": "devops-interviews/devops-interview-questions",
+    "url": "https://github.com/devops-interviews/devops-interview-questions",
+    "lang": "",
+    "desc": "DevOps Interview Questions"
+  },
+  {
+    "createdAt": "2026-02-11T09:49:14Z",
+    "stars": 708,
+    "name": "QDenka/awesome-software-design",
+    "url": "https://github.com/QDenka/awesome-software-design",
+    "lang": "",
+    "desc": "Organizing and structuring software through patterns, decisions, and verified design rules"
+  },
+  {
+    "createdAt": "2026-02-12T14:11:39Z",
+    "stars": 705,
+    "name": "MooseGoose0701/skill-compose",
+    "url": "https://github.com/MooseGoose0701/skill-compose",
+    "lang": "Python",
+    "desc": "Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI."
+  },
+  {
+    "createdAt": "2026-02-11T23:53:16Z",
+    "stars": 686,
+    "name": "spacedriveapp/spacebot",
+    "url": "https://github.com/spacedriveapp/spacebot",
+    "lang": "Rust",
+    "desc": "An AI agent for teams, communities, and multi-user environments."
+  },
+  {
+    "createdAt": "2026-02-12T10:32:50Z",
+    "stars": 664,
+    "name": "freestylefly/openclaw-wechat",
+    "url": "https://github.com/freestylefly/openclaw-wechat",
+    "lang": "TypeScript",
+    "desc": "让 OpenClaw稳定的连上你的个人微信"
+  },
+  {
+    "createdAt": "2026-02-15T20:47:25Z",
+    "stars": 631,
+    "name": "zachlatta/freeflow",
+    "url": "https://github.com/zachlatta/freeflow",
+    "lang": "Swift",
+    "desc": "Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc"
+  },
+  {
+    "createdAt": "2026-02-15T17:26:41Z",
+    "stars": 619,
+    "name": "agenticnotetaking/arscontexta",
+    "url": "https://github.com/agenticnotetaking/arscontexta",
+    "lang": "Shell",
+    "desc": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own."
+  },
+  {
+    "createdAt": "2026-02-15T11:12:33Z",
+    "stars": 605,
+    "name": "pinchtab/pinchtab",
+    "url": "https://github.com/pinchtab/pinchtab",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-11T05:34:29Z",
+    "stars": 491,
+    "name": "KimYx0207/Claude-Code-Guide-Zh",
+    "url": "https://github.com/KimYx0207/Claude-Code-Guide-Zh",
+    "lang": "",
+    "desc": "老金版ClaudeCode初学者教程"
+  },
+  {
+    "createdAt": "2026-02-16T19:32:35Z",
+    "stars": 484,
+    "name": "DataExpert-io/ai-engineer-handbook",
+    "url": "https://github.com/DataExpert-io/ai-engineer-handbook",
+    "lang": "",
+    "desc": "All the links, books, and creators you need to follow to stay up to date with AI!"
+  },
+  {
+    "createdAt": "2026-02-15T04:18:19Z",
+    "stars": 464,
+    "name": "klawsh/klaw.sh",
+    "url": "https://github.com/klawsh/klaw.sh",
+    "lang": "Go",
+    "desc": "kubectl for AI Agents"
+  },
+  {
+    "createdAt": "2026-02-15T18:50:03Z",
+    "stars": 462,
+    "name": "davidhariri/life-system",
+    "url": "https://github.com/davidhariri/life-system",
+    "lang": "Shell",
+    "desc": "A plain-text life operating system powered by Claude Code. Inspired by Carmack's .plan files and Franklin's systematic self-improvement."
+  },
+  {
+    "createdAt": "2026-02-13T11:54:34Z",
+    "stars": 457,
+    "name": "Mathews-Tom/no-magic",
+    "url": "https://github.com/Mathews-Tom/no-magic",
+    "lang": "Python",
+    "desc": "Because `model.fit()` isn't an explanation"
+  },
+  {
+    "createdAt": "2026-02-13T15:13:17Z",
+    "stars": 445,
+    "name": "SuperCmdLabs/SuperCmd",
+    "url": "https://github.com/SuperCmdLabs/SuperCmd",
+    "lang": "TypeScript",
+    "desc": "What Apple Intelligence should have been"
+  },
+  {
+    "createdAt": "2026-02-11T09:25:09Z",
+    "stars": 398,
+    "name": "FireRedTeam/FireRed-Image-Edit",
+    "url": "https://github.com/FireRedTeam/FireRed-Image-Edit",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-12T15:51:05Z",
+    "stars": 394,
+    "name": "songguoxs/seedance-prompt-skill",
+    "url": "https://github.com/songguoxs/seedance-prompt-skill",
+    "lang": "",
+    "desc": "Seedance 2.0 prompt skill，使用该Skill生成Seedance 2.0 视频提示词"
+  },
+  {
+    "createdAt": "2026-02-11T22:23:42Z",
+    "stars": 383,
+    "name": "chu2bard/pinion-os",
+    "url": "https://github.com/chu2bard/pinion-os",
+    "lang": "TypeScript",
+    "desc": "Client SDK, Claude plugin and skill framework for the Pinion protocol. x402 micropayments on Base."
+  },
+  {
+    "createdAt": "2026-02-12T10:45:29Z",
+    "stars": 372,
+    "name": "Nasiko-Labs/nasiko",
+    "url": "https://github.com/Nasiko-Labs/nasiko",
+    "lang": "Python",
+    "desc": "AI-powered development platform for the future"
+  },
+  {
+    "createdAt": "2026-02-11T10:19:44Z",
+    "stars": 372,
+    "name": "avihaymenahem/velo",
+    "url": "https://github.com/avihaymenahem/velo",
+    "lang": "TypeScript",
+    "desc": "Open source desktop email client"
+  },
+  {
+    "createdAt": "2026-02-12T06:58:37Z",
+    "stars": 358,
+    "name": "ochyai/open-japan-politech-platform",
+    "url": "https://github.com/ochyai/open-japan-politech-platform",
+    "lang": "TypeScript",
+    "desc": "政党・企業によらない政治のデジタル化オープンソース基盤 "
+  },
+  {
+    "createdAt": "2026-02-13T13:14:54Z",
+    "stars": 357,
+    "name": "andyhuo520/openclaw-assistant-mvp",
+    "url": "https://github.com/andyhuo520/openclaw-assistant-mvp",
+    "lang": "JavaScript",
+    "desc": "OpenClaw Desktop Assistant MVP - Electron-based AI voice assistant with Live2D character animations, real-time speech recognition, and text-to-speech"
+  },
+  {
+    "createdAt": "2026-02-12T15:04:28Z",
+    "stars": 349,
+    "name": "antirez/qwen-asr",
+    "url": "https://github.com/antirez/qwen-asr",
+    "lang": "C",
+    "desc": "C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models"
+  },
+  {
+    "createdAt": "2026-02-13T04:47:29Z",
+    "stars": 335,
+    "name": "MiniMax-AI/MiniMax-M2.5",
+    "url": "https://github.com/MiniMax-AI/MiniMax-M2.5",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-14T19:37:36Z",
+    "stars": 326,
+    "name": "anl331/goey-toast",
+    "url": "https://github.com/anl331/goey-toast",
+    "lang": "TypeScript",
+    "desc": "A gooey, morphing toast component built on Sonner with Framer Motion animations"
+  },
+  {
+    "createdAt": "2026-02-14T14:26:15Z",
+    "stars": 317,
+    "name": "tomascupr/sandstorm",
+    "url": "https://github.com/tomascupr/sandstorm",
+    "lang": "Python",
+    "desc": "One API call. Full Claude agent. Completely sandboxed."
+  },
+  {
+    "createdAt": "2026-02-11T23:54:32Z",
+    "stars": 316,
+    "name": "zscole/model-hierarchy-skill",
+    "url": "https://github.com/zscole/model-hierarchy-skill",
+    "lang": "Python",
+    "desc": "OpenClaw skill for cost-optimized model routing based on task complexity"
+  },
+  {
+    "createdAt": "2026-02-12T20:30:41Z",
+    "stars": 294,
+    "name": "milanm/AutoGrad-Engine",
+    "url": "https://github.com/milanm/AutoGrad-Engine",
+    "lang": "C#",
+    "desc": "A complete GPT language model (training and inference) in ~600 lines of pure C#, zero dependencies"
+  },
+  {
+    "createdAt": "2026-02-13T22:00:15Z",
+    "stars": 288,
+    "name": "Runnin4ik/dpi-detector",
+    "url": "https://github.com/Runnin4ik/dpi-detector",
+    "lang": "Python",
+    "desc": "DPI detection tool for internet censorship testing. Identifies TLS, TCP, HTTP blocking and 16-20KB connection drops"
+  },
+  {
+    "createdAt": "2026-02-11T18:00:41Z",
+    "stars": 282,
+    "name": "zts212653/cat-cafe-tutorials",
+    "url": "https://github.com/zts212653/cat-cafe-tutorials",
+    "lang": "",
+    "desc": "从零搭建 AI 猫猫协作系统 — 一个真实项目的完整复盘"
+  },
+  {
+    "createdAt": "2026-02-13T18:35:24Z",
+    "stars": 280,
+    "name": "craigsc/cmux",
+    "url": "https://github.com/craigsc/cmux",
+    "lang": "Shell",
+    "desc": "cmux: tmux for Claude Code"
+  },
+  {
+    "createdAt": "2026-02-14T06:45:40Z",
+    "stars": 279,
+    "name": "joshavant/clawbox",
+    "url": "https://github.com/joshavant/clawbox",
+    "lang": "Python",
+    "desc": "OpenClaw-ready macOS VMs"
+  },
+  {
+    "createdAt": "2026-02-12T10:11:01Z",
+    "stars": 272,
+    "name": "qhkm/zeptoclaw",
+    "url": "https://github.com/qhkm/zeptoclaw",
+    "lang": "Rust",
+    "desc": "Final form of claw family (Wannabe)"
+  },
+  {
+    "createdAt": "2026-02-14T13:33:56Z",
+    "stars": 270,
+    "name": "dev-protocol/polymarket-trading-tools-telegram-bot",
+    "url": "https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot",
+    "lang": "Rust",
+    "desc": "🚀https://t.me/soulcrancerdev polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot polymarket trading bot polymarket copy trading bot polymarket arbitrage bot"
+  },
+  {
+    "createdAt": "2026-02-14T07:12:41Z",
+    "stars": 266,
+    "name": "Infatoshi/x-cli",
+    "url": "https://github.com/Infatoshi/x-cli",
+    "lang": "Python",
+    "desc": "CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal"
+  },
+  {
+    "createdAt": "2026-02-13T19:25:20Z",
+    "stars": 265,
+    "name": "SamuelQZQ/auto-coding-agent-demo",
+    "url": "https://github.com/SamuelQZQ/auto-coding-agent-demo",
+    "lang": "TypeScript",
+    "desc": "一个长达 10 小时的 AI 全自动编程实验"
+  },
+  {
+    "createdAt": "2026-02-12T20:14:53Z",
+    "stars": 260,
+    "name": "kapishdima/soundcn",
+    "url": "https://github.com/kapishdima/soundcn",
+    "lang": "TypeScript",
+    "desc": "700+ curated UI sound effects for modern web apps. Browse, preview, and install sounds with a single command. Free and open source"
+  }
+]
