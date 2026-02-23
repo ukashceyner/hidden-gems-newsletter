@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-02-16T19:33:52Z",
+    "stars": 2476,
+    "name": "nicobailon/visual-explainer",
+    "url": "https://github.com/nicobailon/visual-explainer",
+    "lang": "HTML",
+    "desc": "Agent skill + prompt templates that generate rich HTML pages for visual diff reviews, architecture overviews, plan audits, data tables, and project recaps"
+  },
+  {
+    "createdAt": "2026-02-16T21:17:27Z",
+    "stars": 1869,
+    "name": "nullclaw/nullclaw",
+    "url": "https://github.com/nullclaw/nullclaw",
+    "lang": "Zig",
+    "desc": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig"
+  },
+  {
+    "createdAt": "2026-02-16T10:46:52Z",
+    "stars": 1368,
+    "name": "Zaneham/BarraCUDA",
+    "url": "https://github.com/Zaneham/BarraCUDA",
+    "lang": "C",
+    "desc": "Open-source CUDA compiler targeting AMD GPUs (and more in the future!). Compiles .cu to GFX11/12 machine code."
+  },
+  {
+    "createdAt": "2026-02-20T01:04:23Z",
+    "stars": 1230,
+    "name": "ShinMegamiBoson/OpenPlanter",
+    "url": "https://github.com/ShinMegamiBoson/OpenPlanter",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-16T19:52:01Z",
+    "stars": 1222,
+    "name": "tnm/zclaw",
+    "url": "https://github.com/tnm/zclaw",
+    "lang": "C",
+    "desc": "Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more."
+  },
+  {
+    "createdAt": "2026-02-19T21:44:05Z",
+    "stars": 890,
+    "name": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "lang": "",
+    "desc": "Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, \"slop\" "
+  },
+  {
+    "createdAt": "2026-02-16T19:32:35Z",
+    "stars": 807,
+    "name": "DataExpert-io/ai-engineer-handbook",
+    "url": "https://github.com/DataExpert-io/ai-engineer-handbook",
+    "lang": "",
+    "desc": "All the links, books, and creators you need to follow to stay up to date with AI!"
+  },
+  {
+    "createdAt": "2026-02-19T01:07:10Z",
+    "stars": 713,
+    "name": "RightNow-AI/picolm",
+    "url": "https://github.com/RightNow-AI/picolm",
+    "lang": "C",
+    "desc": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM"
+  },
+  {
+    "createdAt": "2026-02-21T12:51:03Z",
+    "stars": 688,
+    "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+    "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-19T04:37:47Z",
+    "stars": 668,
+    "name": "olvvier/apple-silicon-accelerometer",
+    "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+    "lang": "Python",
+    "desc": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid"
+  },
+  {
+    "createdAt": "2026-02-18T16:42:55Z",
+    "stars": 572,
+    "name": "TraderAlice/OpenAlice",
+    "url": "https://github.com/TraderAlice/OpenAlice",
+    "lang": "TypeScript",
+    "desc": "File-driven AI trading agent engine for crypto and securities markets"
+  },
+  {
+    "createdAt": "2026-02-22T13:10:13Z",
+    "stars": 513,
+    "name": "Kirubel125/Kalshi-Claw",
+    "url": "https://github.com/Kirubel125/Kalshi-Claw",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-19T23:55:24Z",
+    "stars": 484,
+    "name": "Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+    "url": "https://github.com/Daniel-Dias001/Polymarket-rsi-macd-index-trading-bot",
+    "lang": "TypeScript",
+    "desc": "Polymarket trading bot that combines monitoring with strategy logic for Polymarket's 15-minute prediction markets. Polymarket || Polymarket Bot || Polymarket Copy Bot || Polymarket Copy Trading Bot || Polymarket Typescript Bot || Polymarket bot || Polymarket || Polymarket || Polymarket || Polymarket || Polymarket ||  Polymarket"
+  },
+  {
+    "createdAt": "2026-02-21T01:33:59Z",
+    "stars": 438,
+    "name": "vercel-labs/visual-json",
+    "url": "https://github.com/vercel-labs/visual-json",
+    "lang": "TypeScript",
+    "desc": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+  },
+  {
+    "createdAt": "2026-02-17T16:22:54Z",
+    "stars": 423,
+    "name": "Pickle-Pixel/ApplyPilot",
+    "url": "https://github.com/Pickle-Pixel/ApplyPilot",
+    "lang": "Python",
+    "desc": "AI agent that applies to jobs for you. Any site. Any form."
+  },
+  {
+    "createdAt": "2026-02-16T13:38:41Z",
+    "stars": 408,
+    "name": "Gentleman-Programming/engram",
+    "url": "https://github.com/Gentleman-Programming/engram",
+    "lang": "Go",
+    "desc": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI."
+  },
+  {
+    "createdAt": "2026-02-17T20:09:15Z",
+    "stars": 381,
+    "name": "superhq-ai/shuru",
+    "url": "https://github.com/superhq-ai/shuru",
+    "lang": "Rust",
+    "desc": "A local-first microVM sandbox for running AI agents safely on macOS"
+  },
+  {
+    "createdAt": "2026-02-21T05:55:47Z",
+    "stars": 359,
+    "name": "dnakov/litter",
+    "url": "https://github.com/dnakov/litter",
+    "lang": "Kotlin",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-19T17:35:25Z",
+    "stars": 357,
+    "name": "quoroom-ai/room",
+    "url": "https://github.com/quoroom-ai/room",
+    "lang": "TypeScript",
+    "desc": "Autonomous AI agents will earn money — with or without us. It's already happening behind closed doors. We believe this should be studied in the open, where everyone can watch, learn, and build on the results.  Quoroom is a public experiment: let's see what a swarm of AI agents can actually do when given a goal and a wallet."
+  },
+  {
+    "createdAt": "2026-02-17T09:03:26Z",
+    "stars": 356,
+    "name": "dimartarmizi/map-to-poster",
+    "url": "https://github.com/dimartarmizi/map-to-poster",
+    "lang": "JavaScript",
+    "desc": "MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with various themes, layouts, and export options."
+  },
+  {
+    "createdAt": "2026-02-18T23:13:38Z",
+    "stars": 349,
+    "name": "xaskasdf/ntransformer",
+    "url": "https://github.com/xaskasdf/ntransformer",
+    "lang": "C++",
+    "desc": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090."
+  },
+  {
+    "createdAt": "2026-02-16T19:13:48Z",
+    "stars": 348,
+    "name": "IronsideXXVI/Hacker-News",
+    "url": "https://github.com/IronsideXXVI/Hacker-News",
+    "lang": "Swift",
+    "desc": "A native macOS client for Hacker News, built with SwiftUI"
+  },
+  {
+    "createdAt": "2026-02-19T16:36:43Z",
+    "stars": 348,
+    "name": "Done-0/value-realization",
+    "url": "https://github.com/Done-0/value-realization",
+    "lang": "",
+    "desc": "Evaluate product ideas by analyzing whether end users will discover clear value. Guides analysis of value clarity, timeline, perception, and discovery patterns."
+  },
+  {
+    "createdAt": "2026-02-18T17:45:54Z",
+    "stars": 347,
+    "name": "badaramoni/wave-field-llm",
+    "url": "https://github.com/badaramoni/wave-field-llm",
+    "lang": "Python",
+    "desc": "An O(n log n) language model architecture using wave equation dynamics instead of O(n²) self-attention. Within 5% of standard transformer quality."
+  },
+  {
+    "createdAt": "2026-02-18T15:10:36Z",
+    "stars": 345,
+    "name": "socprime/detectflow-main",
+    "url": "https://github.com/socprime/detectflow-main",
+    "lang": "",
+    "desc": "Detection intelligence turbocharged with Al."
+  },
+  {
+    "createdAt": "2026-02-22T14:25:15Z",
+    "stars": 326,
+    "name": "andyhuo520/aetherviz-master",
+    "url": "https://github.com/andyhuo520/aetherviz-master",
+    "lang": "",
+    "desc": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页"
+  },
+  {
+    "createdAt": "2026-02-17T06:50:19Z",
+    "stars": 312,
+    "name": "khalildh/garment-notation",
+    "url": "https://github.com/khalildh/garment-notation",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-21T02:13:01Z",
+    "stars": 306,
+    "name": "hamelsmu/claude-review-loop",
+    "url": "https://github.com/hamelsmu/claude-review-loop",
+    "lang": "Shell",
+    "desc": "Claude Code plugin: automated code review loop with Codex"
+  },
+  {
+    "createdAt": "2026-02-22T04:33:03Z",
+    "stars": 290,
+    "name": "ochyai/vibe-local",
+    "url": "https://github.com/ochyai/vibe-local",
+    "lang": "Python",
+    "desc": "Free AI coding environment: Ollama + Python"
+  },
+  {
+    "createdAt": "2026-02-18T17:44:28Z",
+    "stars": 289,
+    "name": "paradigmxyz/evmbench",
+    "url": "https://github.com/paradigmxyz/evmbench",
+    "lang": "TypeScript",
+    "desc": "A benchmark and harness for finding and exploiting smart contract bugs"
+  },
+  {
+    "createdAt": "2026-02-22T08:47:26Z",
+    "stars": 277,
+    "name": "runesleo/x-reader",
+    "url": "https://github.com/runesleo/x-reader",
+    "lang": "Python",
+    "desc": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
+  },
+  {
+    "createdAt": "2026-02-19T02:30:39Z",
+    "stars": 276,
+    "name": "yeuxuan/openclaw-docs",
+    "url": "https://github.com/yeuxuan/openclaw-docs",
+    "lang": "JavaScript",
+    "desc": "openclaw 剖析、拆解、教程在线文档"
+  },
+  {
+    "createdAt": "2026-02-18T02:46:03Z",
+    "stars": 270,
+    "name": "DatanoiseTV/tinyice",
+    "url": "https://github.com/DatanoiseTV/tinyice",
+    "lang": "HTML",
+    "desc": "A tiny audio streaming server (compatible with icecast2) written in Go with multiple mountpoint, multi-source, and relaying support and a lot more."
+  },
+  {
+    "createdAt": "2026-02-19T03:47:10Z",
+    "stars": 259,
+    "name": "abhinavkale-dev/fynt",
+    "url": "https://github.com/abhinavkale-dev/fynt",
+    "lang": "TypeScript",
+    "desc": "Self-hostable workflow automation platform"
+  },
+  {
+    "createdAt": "2026-02-18T23:41:47Z",
+    "stars": 249,
+    "name": "NikkeTryHard/zerogravity",
+    "url": "https://github.com/NikkeTryHard/zerogravity",
+    "lang": "Dockerfile",
+    "desc": "OpenAI, Anthropic, and Gemini-compatible proxy that looks like real Antigravity traffic to Google."
+  },
+  {
+    "createdAt": "2026-02-18T15:48:22Z",
+    "stars": 246,
+    "name": "planetscale/database-skills",
+    "url": "https://github.com/planetscale/database-skills",
+    "lang": "HTML",
+    "desc": "Skills for AI agents working with databases"
+  },
+  {
+    "createdAt": "2026-02-20T23:12:50Z",
+    "stars": 245,
+    "name": "vava-nessa/free-coding-models",
+    "url": "https://github.com/vava-nessa/free-coding-models",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-19T04:29:51Z",
+    "stars": 240,
+    "name": "botiverse/agent-vault",
+    "url": "https://github.com/botiverse/agent-vault",
+    "lang": "TypeScript",
+    "desc": "Keep your secrets hidden from AI agents."
+  },
+  {
+    "createdAt": "2026-02-17T03:34:13Z",
+    "stars": 230,
+    "name": "RaidOwl/homelab-hub",
+    "url": "https://github.com/RaidOwl/homelab-hub",
+    "lang": "Svelte",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-18T18:23:27Z",
+    "stars": 227,
+    "name": "kellyclaudeai/openclaw-deck",
+    "url": "https://github.com/kellyclaudeai/openclaw-deck",
+    "lang": "TypeScript",
+    "desc": "Multi-column chat interface for OpenClaw agents"
+  },
+  {
+    "createdAt": "2026-02-18T09:53:27Z",
+    "stars": 223,
+    "name": "johannesjo/parallel-code",
+    "url": "https://github.com/johannesjo/parallel-code",
+    "lang": "TypeScript",
+    "desc": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree"
+  },
+  {
+    "createdAt": "2026-02-17T23:50:39Z",
+    "stars": 218,
+    "name": "lopespm/zig-minimal-kernel-x86",
+    "url": "https://github.com/lopespm/zig-minimal-kernel-x86",
+    "lang": "Zig",
+    "desc": "Minimal x86 Kernel - built in Zig"
+  },
+  {
+    "createdAt": "2026-02-18T02:01:56Z",
+    "stars": 217,
+    "name": "donghuixin/AI-Vibe-Writing-Skills",
+    "url": "https://github.com/donghuixin/AI-Vibe-Writing-Skills",
+    "lang": "Python",
+    "desc": "Using AI for high quality writing"
+  },
+  {
+    "createdAt": "2026-02-17T16:01:09Z",
+    "stars": 212,
+    "name": "Ibrahim-3d/conductor-orchestrator-superpowers",
+    "url": "https://github.com/Ibrahim-3d/conductor-orchestrator-superpowers",
+    "lang": "Python",
+    "desc": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, and bundled Superpowers skills"
+  },
+  {
+    "createdAt": "2026-02-16T01:00:35Z",
+    "stars": 210,
+    "name": "saif0200/notchprompt",
+    "url": "https://github.com/saif0200/notchprompt",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-19T13:33:37Z",
+    "stars": 199,
+    "name": "angel10x/Crash-Frontend",
+    "url": "https://github.com/angel10x/Crash-Frontend",
+    "lang": "TypeScript",
+    "desc": "About Crash game - frontend"
+  },
+  {
+    "createdAt": "2026-02-19T16:22:50Z",
+    "stars": 193,
+    "name": "TheCSir/TerminalStart",
+    "url": "https://github.com/TheCSir/TerminalStart",
+    "lang": "TypeScript",
+    "desc": "Chromium Extension for Tech Bros"
+  },
+  {
+    "createdAt": "2026-02-19T14:57:30Z",
+    "stars": 188,
+    "name": "vikasprogrammer/walkie",
+    "url": "https://github.com/vikasprogrammer/walkie",
+    "lang": "JavaScript",
+    "desc": "P2P communication for AI agents. No server. No setup. Just talk."
+  },
+  {
+    "createdAt": "2026-02-21T10:38:07Z",
+    "stars": 186,
+    "name": "kevinho/clawfeed",
+    "url": "https://github.com/kevinho/clawfeed",
+    "lang": "HTML",
+    "desc": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard"
+  },
+  {
+    "createdAt": "2026-02-21T15:07:14Z",
+    "stars": 183,
+    "name": "dazzyddos/lsawhisper-bof",
+    "url": "https://github.com/dazzyddos/lsawhisper-bof",
+    "lang": "C",
+    "desc": "A Beacon Object File (BOF) that talks directly to Windows authentication packages through the LSA untrusted/trusted client interface, without touching LSASS process memory."
+  }
+]
