@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-02-24T23:12:38Z",
+    "stars": 5455,
+    "name": "RightNow-AI/openfang",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "lang": "Rust",
+    "desc": "Open-source Agent Operating System"
+  },
+  {
+    "createdAt": "2026-02-23T19:24:50Z",
+    "stars": 4863,
+    "name": "anthropics/financial-services-plugins",
+    "url": "https://github.com/anthropics/financial-services-plugins",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-24T05:07:41Z",
+    "stars": 4701,
+    "name": "cloudflare/vinext",
+    "url": "https://github.com/cloudflare/vinext",
+    "lang": "TypeScript",
+    "desc": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+  },
+  {
+    "createdAt": "2026-02-24T02:10:24Z",
+    "stars": 3017,
+    "name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "lang": "Python",
+    "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+  },
+  {
+    "createdAt": "2026-02-24T03:42:56Z",
+    "stars": 1961,
+    "name": "agentscope-ai/CoPaw",
+    "url": "https://github.com/agentscope-ai/CoPaw",
+    "lang": "Python",
+    "desc": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+  },
+  {
+    "createdAt": "2026-02-24T20:33:55Z",
+    "stars": 1601,
+    "name": "peteromallet/dataclaw",
+    "url": "https://github.com/peteromallet/dataclaw",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-21T10:38:07Z",
+    "stars": 1341,
+    "name": "kevinho/clawfeed",
+    "url": "https://github.com/kevinho/clawfeed",
+    "lang": "HTML",
+    "desc": "ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard"
+  },
+  {
+    "createdAt": "2026-02-24T13:41:46Z",
+    "stars": 1333,
+    "name": "Polymarket/polymarket-cli",
+    "url": "https://github.com/Polymarket/polymarket-cli",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-24T19:47:38Z",
+    "stars": 882,
+    "name": "mgechev/skills-best-practices",
+    "url": "https://github.com/mgechev/skills-best-practices",
+    "lang": "",
+    "desc": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window."
+  },
+  {
+    "createdAt": "2026-02-22T07:42:15Z",
+    "stars": 817,
+    "name": "eooce/python-ws",
+    "url": "https://github.com/eooce/python-ws",
+    "lang": "Python",
+    "desc": "build vless / trojan /shadowsocks  proxies on python server,no need core"
+  },
+  {
+    "createdAt": "2026-02-23T00:43:05Z",
+    "stars": 751,
+    "name": "taigrr/spank",
+    "url": "https://github.com/taigrr/spank",
+    "lang": "Go",
+    "desc": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID."
+  },
+  {
+    "createdAt": "2026-02-25T19:30:46Z",
+    "stars": 723,
+    "name": "apple/python-apple-fm-sdk",
+    "url": "https://github.com/apple/python-apple-fm-sdk",
+    "lang": "Python",
+    "desc": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+  },
+  {
+    "createdAt": "2026-02-22T14:25:15Z",
+    "stars": 721,
+    "name": "andyhuo520/aetherviz-master",
+    "url": "https://github.com/andyhuo520/aetherviz-master",
+    "lang": "",
+    "desc": "AetherViz Master - 互动教育可视化建筑师，将任意教学主题转化为沉浸式3D交互网页"
+  },
+  {
+    "createdAt": "2026-02-24T08:38:15Z",
+    "stars": 687,
+    "name": "win4r/memory-lancedb-pro",
+    "url": "https://github.com/win4r/memory-lancedb-pro",
+    "lang": "TypeScript",
+    "desc": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+  },
+  {
+    "createdAt": "2026-02-24T01:45:57Z",
+    "stars": 653,
+    "name": "rebane2001/x86CSS",
+    "url": "https://github.com/rebane2001/x86CSS",
+    "lang": "HTML",
+    "desc": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+  },
+  {
+    "createdAt": "2026-02-25T05:23:33Z",
+    "stars": 641,
+    "name": "wh1te4ever/super-tart-vphone-writeup",
+    "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-22T08:47:26Z",
+    "stars": 625,
+    "name": "runesleo/x-reader",
+    "url": "https://github.com/runesleo/x-reader",
+    "lang": "Python",
+    "desc": "Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)"
+  },
+  {
+    "createdAt": "2026-02-21T01:33:59Z",
+    "stars": 604,
+    "name": "vercel-labs/visual-json",
+    "url": "https://github.com/vercel-labs/visual-json",
+    "lang": "TypeScript",
+    "desc": "The Visual JSON Editor. Schema-aware, embeddable, extensible."
+  },
+  {
+    "createdAt": "2026-02-24T16:45:00Z",
+    "stars": 576,
+    "name": "xjtulyc/MedgeClaw",
+    "url": "https://github.com/xjtulyc/MedgeClaw",
+    "lang": "HTML",
+    "desc": "Medge AI X OpenClaw"
+  },
+  {
+    "createdAt": "2026-02-26T11:29:08Z",
+    "stars": 550,
+    "name": "Lakr233/vphone-cli",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-26T06:04:49Z",
+    "stars": 545,
+    "name": "6551Team/opennews-mcp",
+    "url": "https://github.com/6551Team/opennews-mcp",
+    "lang": "Python",
+    "desc": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
+  },
+  {
+    "createdAt": "2026-02-22T04:33:03Z",
+    "stars": 528,
+    "name": "ochyai/vibe-local",
+    "url": "https://github.com/ochyai/vibe-local",
+    "lang": "Python",
+    "desc": "Free AI coding environment: Ollama + Python"
+  },
+  {
+    "createdAt": "2026-02-21T12:35:26Z",
+    "stars": 517,
+    "name": "carlosazaustre/tenacitOS",
+    "url": "https://github.com/carlosazaustre/tenacitOS",
+    "lang": "TypeScript",
+    "desc": "OpenClaw Mission Control Dashboard"
+  },
+  {
+    "createdAt": "2026-02-21T05:55:47Z",
+    "stars": 507,
+    "name": "dnakov/litter",
+    "url": "https://github.com/dnakov/litter",
+    "lang": "Kotlin",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-21T02:13:01Z",
+    "stars": 507,
+    "name": "hamelsmu/claude-review-loop",
+    "url": "https://github.com/hamelsmu/claude-review-loop",
+    "lang": "Shell",
+    "desc": "Claude Code plugin: automated code review loop with Codex"
+  },
+  {
+    "createdAt": "2026-02-27T07:23:08Z",
+    "stars": 481,
+    "name": "xstongxue/best-prompts",
+    "url": "https://github.com/xstongxue/best-prompts",
+    "lang": "",
+    "desc": "通用高质量 Prompt 合集🔥"
+  },
+  {
+    "createdAt": "2026-02-28T04:03:44Z",
+    "stars": 474,
+    "name": "ylytdeng/wechat-decrypt",
+    "url": "https://github.com/ylytdeng/wechat-decrypt",
+    "lang": "Python",
+    "desc": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
+  },
+  {
+    "createdAt": "2026-02-24T17:33:40Z",
+    "stars": 468,
+    "name": "whyzhow/PersonalStyleAI-Framework-",
+    "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
+    "lang": "Python",
+    "desc": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
+  },
+  {
+    "createdAt": "2026-02-21T20:52:49Z",
+    "stars": 461,
+    "name": "sachaa/openbrowserclaw",
+    "url": "https://github.com/sachaa/openbrowserclaw",
+    "lang": "TypeScript",
+    "desc": "Browser-native personal AI assistant. Zero infrastructure, the browser is the server."
+  },
+  {
+    "createdAt": "2026-02-27T12:12:20Z",
+    "stars": 459,
+    "name": "ForLoopCodes/contextplus",
+    "url": "https://github.com/ForLoopCodes/contextplus",
+    "lang": "TypeScript",
+    "desc": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+  },
+  {
+    "createdAt": "2026-02-25T08:49:17Z",
+    "stars": 455,
+    "name": "sharonubsyq/trading-view-indicator-extension",
+    "url": "https://github.com/sharonubsyq/trading-view-indicator-extension",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-23T13:43:14Z",
+    "stars": 436,
+    "name": "thellimist/clihub",
+    "url": "https://github.com/thellimist/clihub",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-22T13:29:40Z",
+    "stars": 397,
+    "name": "GreatScott/enject",
+    "url": "https://github.com/GreatScott/enject",
+    "lang": "Rust",
+    "desc": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext."
+  },
+  {
+    "createdAt": "2026-02-21T07:41:02Z",
+    "stars": 392,
+    "name": "harshkedia177/axon",
+    "url": "https://github.com/harshkedia177/axon",
+    "lang": "Python",
+    "desc": "Graph-powered code intelligence engine — indexes codebases into a knowledge graph, exposed via MCP tools for AI agents and a CLI for developers."
+  },
+  {
+    "createdAt": "2026-02-21T02:21:31Z",
+    "stars": 385,
+    "name": "vignesh07/babyshark",
+    "url": "https://github.com/vignesh07/babyshark",
+    "lang": "Rust",
+    "desc": "Flows-first PCAP TUI (case files, gorgeous UX). Do do do do."
+  },
+  {
+    "createdAt": "2026-02-26T12:57:42Z",
+    "stars": 378,
+    "name": "Gen-Verse/OpenClaw-RL",
+    "url": "https://github.com/Gen-Verse/OpenClaw-RL",
+    "lang": "TypeScript",
+    "desc": "OpenClaw-RL: Personalize openclaw simply by talking to it"
+  },
+  {
+    "createdAt": "2026-02-25T09:16:58Z",
+    "stars": 374,
+    "name": "3DCF-Labs/safepilot",
+    "url": "https://github.com/3DCF-Labs/safepilot",
+    "lang": "Rust",
+    "desc": "AI assistant that executes real work, safely."
+  },
+  {
+    "createdAt": "2026-02-23T05:56:28Z",
+    "stars": 372,
+    "name": "mksglu/claude-context-mode",
+    "url": "https://github.com/mksglu/claude-context-mode",
+    "lang": "JavaScript",
+    "desc": "Stop losing context to large outputs."
+  },
+  {
+    "createdAt": "2026-02-23T08:32:23Z",
+    "stars": 368,
+    "name": "lifo-sh/lifo",
+    "url": "https://github.com/lifo-sh/lifo",
+    "lang": "TypeScript",
+    "desc": "A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence."
+  },
+  {
+    "createdAt": "2026-02-23T17:02:02Z",
+    "stars": 367,
+    "name": "steveclarke/real-world-rails",
+    "url": "https://github.com/steveclarke/real-world-rails",
+    "lang": "Shell",
+    "desc": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns."
+  },
+  {
+    "createdAt": "2026-02-22T20:36:05Z",
+    "stars": 354,
+    "name": "sebastianvkl/pizero-openclaw",
+    "url": "https://github.com/sebastianvkl/pizero-openclaw",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-26T19:56:53Z",
+    "stars": 350,
+    "name": "kibitzsh/kibitz",
+    "url": "https://github.com/kibitzsh/kibitz",
+    "lang": "TypeScript",
+    "desc": "Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently"
+  },
+  {
+    "createdAt": "2026-02-27T23:41:27Z",
+    "stars": 349,
+    "name": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
+    "url": "https://github.com/Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-22T12:37:58Z",
+    "stars": 339,
+    "name": "CleverCloud/mdr",
+    "url": "https://github.com/CleverCloud/mdr",
+    "lang": "Rust",
+    "desc": "a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded "
+  },
+  {
+    "createdAt": "2026-02-21T09:13:10Z",
+    "stars": 337,
+    "name": "AlexGoOn/the-most-vulnerable-dotnet-app",
+    "url": "https://github.com/AlexGoOn/the-most-vulnerable-dotnet-app",
+    "lang": "HTML",
+    "desc": "This educational repository showcases the most common vulnerabilities found in .NET applications"
+  },
+  {
+    "createdAt": "2026-02-23T02:20:51Z",
+    "stars": 334,
+    "name": "AlexAnys/awesome-openclaw-usecases-zh",
+    "url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+    "lang": "",
+    "desc": "🇨🇳 OpenClaw（AI 智能体）新手入门+中文最佳用例大全 | 29 个真实场景：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 零基础新手友好 | Chinese guide for OpenClaw AI agent use cases"
+  },
+  {
+    "createdAt": "2026-02-25T01:28:49Z",
+    "stars": 330,
+    "name": "Emily2040/seedance-2.0",
+    "url": "https://github.com/Emily2040/seedance-2.0",
+    "lang": "",
+    "desc": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0"
+  },
+  {
+    "createdAt": "2026-02-25T14:39:39Z",
+    "stars": 319,
+    "name": "flamestro/deff",
+    "url": "https://github.com/flamestro/deff",
+    "lang": "Rust",
+    "desc": "interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting"
+  },
+  {
+    "createdAt": "2026-02-26T03:45:35Z",
+    "stars": 316,
+    "name": "ringhyacinth/Star-Office-UI",
+    "url": "https://github.com/ringhyacinth/Star-Office-UI",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-24T18:24:08Z",
+    "stars": 315,
+    "name": "petergpt/bullshit-benchmark",
+    "url": "https://github.com/petergpt/bullshit-benchmark",
+    "lang": "Python",
+    "desc": "BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev."
+  }
+]
