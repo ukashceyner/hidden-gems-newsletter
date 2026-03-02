@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-02-24T23:12:38Z",
+    "stars": 9032,
+    "name": "RightNow-AI/openfang",
+    "url": "https://github.com/RightNow-AI/openfang",
+    "lang": "Rust",
+    "desc": "Open-source Agent Operating System"
+  },
+  {
+    "createdAt": "2026-02-24T05:07:41Z",
+    "stars": 5255,
+    "name": "cloudflare/vinext",
+    "url": "https://github.com/cloudflare/vinext",
+    "lang": "TypeScript",
+    "desc": "Vite plugin that reimplements the Next.js API surface — deploy anywhere"
+  },
+  {
+    "createdAt": "2026-02-24T03:42:56Z",
+    "stars": 5223,
+    "name": "agentscope-ai/CoPaw",
+    "url": "https://github.com/agentscope-ai/CoPaw",
+    "lang": "Python",
+    "desc": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities."
+  },
+  {
+    "createdAt": "2026-02-23T19:24:50Z",
+    "stars": 5189,
+    "name": "anthropics/financial-services-plugins",
+    "url": "https://github.com/anthropics/financial-services-plugins",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-24T02:10:24Z",
+    "stars": 3795,
+    "name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "lang": "Python",
+    "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+  },
+  {
+    "createdAt": "2026-02-26T11:29:08Z",
+    "stars": 2590,
+    "name": "Lakr233/vphone-cli",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-23T05:56:28Z",
+    "stars": 1966,
+    "name": "mksglu/claude-context-mode",
+    "url": "https://github.com/mksglu/claude-context-mode",
+    "lang": "JavaScript",
+    "desc": "Stop losing context to large outputs."
+  },
+  {
+    "createdAt": "2026-02-28T09:27:28Z",
+    "stars": 1789,
+    "name": "maderix/ANE",
+    "url": "https://github.com/maderix/ANE",
+    "lang": "Objective-C",
+    "desc": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
+  },
+  {
+    "createdAt": "2026-02-24T20:33:55Z",
+    "stars": 1760,
+    "name": "peteromallet/dataclaw",
+    "url": "https://github.com/peteromallet/dataclaw",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-24T13:41:46Z",
+    "stars": 1471,
+    "name": "Polymarket/polymarket-cli",
+    "url": "https://github.com/Polymarket/polymarket-cli",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-28T04:03:44Z",
+    "stars": 1303,
+    "name": "ylytdeng/wechat-decrypt",
+    "url": "https://github.com/ylytdeng/wechat-decrypt",
+    "lang": "Python",
+    "desc": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
+  },
+  {
+    "createdAt": "2026-02-26T03:45:35Z",
+    "stars": 1302,
+    "name": "ringhyacinth/Star-Office-UI",
+    "url": "https://github.com/ringhyacinth/Star-Office-UI",
+    "lang": "HTML",
+    "desc": "A pixel office for your AI crew: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only."
+  },
+  {
+    "createdAt": "2026-02-27T12:12:20Z",
+    "stars": 1179,
+    "name": "ForLoopCodes/contextplus",
+    "url": "https://github.com/ForLoopCodes/contextplus",
+    "lang": "TypeScript",
+    "desc": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining Tree-sitter AST parsing, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+  },
+  {
+    "createdAt": "2026-02-23T00:43:05Z",
+    "stars": 1143,
+    "name": "taigrr/spank",
+    "url": "https://github.com/taigrr/spank",
+    "lang": "Go",
+    "desc": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID."
+  },
+  {
+    "createdAt": "2026-03-01T15:24:07Z",
+    "stars": 1023,
+    "name": "World-Open-Graph/br-acc",
+    "url": "https://github.com/World-Open-Graph/br-acc",
+    "lang": "Python",
+    "desc": "World Transparency Graph public codebase (🚧 website in progress)"
+  },
+  {
+    "createdAt": "2026-02-24T19:47:38Z",
+    "stars": 970,
+    "name": "mgechev/skills-best-practices",
+    "url": "https://github.com/mgechev/skills-best-practices",
+    "lang": "",
+    "desc": "Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context window."
+  },
+  {
+    "createdAt": "2026-03-01T04:13:25Z",
+    "stars": 869,
+    "name": "smartcmd/MinecraftConsoles",
+    "url": "https://github.com/smartcmd/MinecraftConsoles",
+    "lang": "C++",
+    "desc": "A certain block game"
+  },
+  {
+    "createdAt": "2026-02-24T08:38:15Z",
+    "stars": 866,
+    "name": "win4r/memory-lancedb-pro",
+    "url": "https://github.com/win4r/memory-lancedb-pro",
+    "lang": "TypeScript",
+    "desc": "Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI"
+  },
+  {
+    "createdAt": "2026-02-25T19:30:46Z",
+    "stars": 795,
+    "name": "apple/python-apple-fm-sdk",
+    "url": "https://github.com/apple/python-apple-fm-sdk",
+    "lang": "Python",
+    "desc": "Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework"
+  },
+  {
+    "createdAt": "2026-02-25T05:23:33Z",
+    "stars": 794,
+    "name": "wh1te4ever/super-tart-vphone-writeup",
+    "url": "https://github.com/wh1te4ever/super-tart-vphone-writeup",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-28T10:20:47Z",
+    "stars": 716,
+    "name": "34306/vphone-aio",
+    "url": "https://github.com/34306/vphone-aio",
+    "lang": "Shell",
+    "desc": "1 script run the vphone"
+  },
+  {
+    "createdAt": "2026-02-24T16:45:00Z",
+    "stars": 715,
+    "name": "xjtulyc/MedgeClaw",
+    "url": "https://github.com/xjtulyc/MedgeClaw",
+    "lang": "HTML",
+    "desc": "Open-source AI research assistant for biomedicine — chat to run RNA-seq, drug discovery, clinical analysis, and more. Built on Claude Code with 140 K-Dense scientific skills, real-time dashboard, and RStudio/JupyterLab integration. | 开源生物医学 AI 研究助手，对话即可驱动转录组、药物发现、临床分析等工作流，集成 140 个科学技能与实时研究看板。"
+  },
+  {
+    "createdAt": "2026-02-24T01:45:57Z",
+    "stars": 694,
+    "name": "rebane2001/x86CSS",
+    "url": "https://github.com/rebane2001/x86CSS",
+    "lang": "HTML",
+    "desc": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+  },
+  {
+    "createdAt": "2026-02-26T06:04:49Z",
+    "stars": 597,
+    "name": "6551Team/opennews-mcp",
+    "url": "https://github.com/6551Team/opennews-mcp",
+    "lang": "Python",
+    "desc": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
+  },
+  {
+    "createdAt": "2026-02-26T12:57:42Z",
+    "stars": 587,
+    "name": "Gen-Verse/OpenClaw-RL",
+    "url": "https://github.com/Gen-Verse/OpenClaw-RL",
+    "lang": "TypeScript",
+    "desc": "OpenClaw-RL: Personalize openclaw simply by talking to it"
+  },
+  {
+    "createdAt": "2026-02-27T12:48:35Z",
+    "stars": 543,
+    "name": "open-pencil/open-pencil",
+    "url": "https://github.com/open-pencil/open-pencil",
+    "lang": "TypeScript",
+    "desc": "AI-native design editor. Open-source Figma alternative."
+  },
+  {
+    "createdAt": "2026-02-27T07:23:08Z",
+    "stars": 537,
+    "name": "xstongxue/best-prompts",
+    "url": "https://github.com/xstongxue/best-prompts",
+    "lang": "",
+    "desc": "通用高质量 Prompt 合集🔥"
+  },
+  {
+    "createdAt": "2026-02-23T13:43:14Z",
+    "stars": 499,
+    "name": "thellimist/clihub",
+    "url": "https://github.com/thellimist/clihub",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-23T02:20:51Z",
+    "stars": 488,
+    "name": "AlexAnys/awesome-openclaw-usecases-zh",
+    "url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+    "lang": "",
+    "desc": "🇨🇳 OpenClaw（AI 智能体）新手入门+中文最佳用例大全 | 37 个真实场景（国内+国际）：自动化办公、内容创作、服务器运维、个人助理、知识管理 | 零基础新手友好 | Chinese guide for OpenClaw AI agent use cases"
+  },
+  {
+    "createdAt": "2026-02-24T17:33:40Z",
+    "stars": 468,
+    "name": "whyzhow/PersonalStyleAI-Framework-",
+    "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-",
+    "lang": "Python",
+    "desc": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA)."
+  },
+  {
+    "createdAt": "2026-02-24T07:18:59Z",
+    "stars": 452,
+    "name": "bjarneo/cliamp",
+    "url": "https://github.com/bjarneo/cliamp",
+    "lang": "Go",
+    "desc": "Terminal Winamp"
+  },
+  {
+    "createdAt": "2026-03-02T02:02:25Z",
+    "stars": 440,
+    "name": "LeoYeAI/openclaw-master-skills",
+    "url": "https://github.com/LeoYeAI/openclaw-master-skills",
+    "lang": "Python",
+    "desc": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai"
+  },
+  {
+    "createdAt": "2026-02-27T23:27:36Z",
+    "stars": 433,
+    "name": "kossisoroyce/timber",
+    "url": "https://github.com/kossisoroyce/timber",
+    "lang": "Python",
+    "desc": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+  },
+  {
+    "createdAt": "2026-02-25T08:49:17Z",
+    "stars": 424,
+    "name": "sharonubsyq/trading-view-indicator-extension",
+    "url": "https://github.com/sharonubsyq/trading-view-indicator-extension",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-23T08:32:23Z",
+    "stars": 421,
+    "name": "lifo-sh/lifo",
+    "url": "https://github.com/lifo-sh/lifo",
+    "lang": "TypeScript",
+    "desc": "A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence."
+  },
+  {
+    "createdAt": "2026-02-24T18:24:08Z",
+    "stars": 418,
+    "name": "petergpt/bullshit-benchmark",
+    "url": "https://github.com/petergpt/bullshit-benchmark",
+    "lang": "HTML",
+    "desc": "BullshitBench measures whether AI models challenge nonsensical prompts instead of confidently answering them, created by Peter Gostev."
+  },
+  {
+    "createdAt": "2026-02-28T03:54:38Z",
+    "stars": 408,
+    "name": "star23/Day1Global-Skills",
+    "url": "https://github.com/star23/Day1Global-Skills",
+    "lang": "",
+    "desc": "Day1Global Skills Share 美股和加密分析，生产力 Skills 分享"
+  },
+  {
+    "createdAt": "2026-02-26T19:56:53Z",
+    "stars": 397,
+    "name": "kibitzsh/kibitz",
+    "url": "https://github.com/kibitzsh/kibitz",
+    "lang": "TypeScript",
+    "desc": "Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently"
+  },
+  {
+    "createdAt": "2026-02-23T17:02:02Z",
+    "stars": 384,
+    "name": "steveclarke/real-world-rails",
+    "url": "https://github.com/steveclarke/real-world-rails",
+    "lang": "Shell",
+    "desc": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns."
+  },
+  {
+    "createdAt": "2026-02-25T23:17:44Z",
+    "stars": 380,
+    "name": "skottrun/extrateto",
+    "url": "https://github.com/skottrun/extrateto",
+    "lang": "TypeScript",
+    "desc": "Dashboard público que expõe supersalários do Judiciário brasileiro acima do teto constitucional"
+  },
+  {
+    "createdAt": "2026-02-25T09:16:58Z",
+    "stars": 379,
+    "name": "3DCF-Labs/safepilot",
+    "url": "https://github.com/3DCF-Labs/safepilot",
+    "lang": "Rust",
+    "desc": "AI assistant that executes real work, safely."
+  },
+  {
+    "createdAt": "2026-02-25T01:28:49Z",
+    "stars": 357,
+    "name": "Emily2040/seedance-2.0",
+    "url": "https://github.com/Emily2040/seedance-2.0",
+    "lang": "",
+    "desc": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0"
+  },
+  {
+    "createdAt": "2026-02-25T14:39:39Z",
+    "stars": 356,
+    "name": "flamestro/deff",
+    "url": "https://github.com/flamestro/deff",
+    "lang": "Rust",
+    "desc": "interactive, side-by-side file review for git diffs with per-file navigation, vertical and horizontal scrolling, syntax highlighting, and added/deleted line tinting"
+  },
+  {
+    "createdAt": "2026-02-27T23:41:27Z",
+    "stars": 349,
+    "name": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
+    "url": "https://github.com/Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-23T06:27:57Z",
+    "stars": 349,
+    "name": "linuxhsj/openclaw-zero-token",
+    "url": "https://github.com/linuxhsj/openclaw-zero-token",
+    "lang": "TypeScript",
+    "desc": "OpenClaw: Use All Major AI Models NO API Token! Claude/ChatGPT/Gemini/DeepSeek/Doubao/Grok/Qwen/Manus/Kimi"
+  },
+  {
+    "createdAt": "2026-02-28T07:20:12Z",
+    "stars": 347,
+    "name": "carmahhawwari/ui-design-brain",
+    "url": "https://github.com/carmahhawwari/ui-design-brain",
+    "lang": "",
+    "desc": "A Cursor skill that gives AI agents real UI component knowledge — best practices, layout patterns, and design-system conventions for 60+ interface components — so it generates production-grade UI instead of generic output."
+  },
+  {
+    "createdAt": "2026-02-26T06:06:13Z",
+    "stars": 346,
+    "name": "6551Team/opentwitter-mcp",
+    "url": "https://github.com/6551Team/opentwitter-mcp",
+    "lang": "Python",
+    "desc": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+  },
+  {
+    "createdAt": "2026-02-23T07:46:08Z",
+    "stars": 338,
+    "name": "sangrokjung/claude-forge",
+    "url": "https://github.com/sangrokjung/claude-forge",
+    "lang": "Shell",
+    "desc": "Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install."
+  },
+  {
+    "createdAt": "2026-02-24T23:28:31Z",
+    "stars": 337,
+    "name": "pulsemindcover/Polymarket-AI-Trading-Bot",
+    "url": "https://github.com/pulsemindcover/Polymarket-AI-Trading-Bot",
+    "lang": "Python",
+    "desc": "AI-powered macOS trading script for Polymarket. Automatically analyzes markets, generates intelligent trade decisions, and executes orders using configurable risk management and strategy parameters. One-command installation, lightweight setup, and optimized performance for automated prediction market trading."
+  },
+  {
+    "createdAt": "2026-03-01T22:59:54Z",
+    "stars": 336,
+    "name": "LCEMP/LCEMP",
+    "url": "https://github.com/LCEMP/LCEMP",
+    "lang": "C++",
+    "desc": "A fork of minecraft LCE with LAN multiplayer support and other fixes."
+  }
+]
