@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-03-02T19:46:06Z",
+    "stars": 11187,
+    "name": "googleworkspace/cli",
+    "url": "https://github.com/googleworkspace/cli",
+    "lang": "Rust",
+    "desc": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
+  },
+  {
+    "createdAt": "2026-02-28T09:27:28Z",
+    "stars": 5811,
+    "name": "maderix/ANE",
+    "url": "https://github.com/maderix/ANE",
+    "lang": "Objective-C",
+    "desc": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs"
+  },
+  {
+    "createdAt": "2026-02-26T21:54:00Z",
+    "stars": 5010,
+    "name": "openai/symphony",
+    "url": "https://github.com/openai/symphony",
+    "lang": "Elixir",
+    "desc": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents."
+  },
+  {
+    "createdAt": "2026-02-26T11:29:08Z",
+    "stars": 3113,
+    "name": "Lakr233/vphone-cli",
+    "url": "https://github.com/Lakr233/vphone-cli",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-02T15:01:51Z",
+    "stars": 2963,
+    "name": "paperclipai/paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "lang": "TypeScript",
+    "desc": "Open-source orchestration for zero-human companies"
+  },
+  {
+    "createdAt": "2026-03-01T04:13:25Z",
+    "stars": 2865,
+    "name": "smartcmd/MinecraftConsoles",
+    "url": "https://github.com/smartcmd/MinecraftConsoles",
+    "lang": "C++",
+    "desc": "A certain block game"
+  },
+  {
+    "createdAt": "2026-02-26T03:45:35Z",
+    "stars": 2389,
+    "name": "ringhyacinth/Star-Office-UI",
+    "url": "https://github.com/ringhyacinth/Star-Office-UI",
+    "lang": "HTML",
+    "desc": "A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only."
+  },
+  {
+    "createdAt": "2026-02-27T12:48:35Z",
+    "stars": 1629,
+    "name": "open-pencil/open-pencil",
+    "url": "https://github.com/open-pencil/open-pencil",
+    "lang": "TypeScript",
+    "desc": "AI-native design editor. Open-source Figma alternative."
+  },
+  {
+    "createdAt": "2026-02-28T04:03:44Z",
+    "stars": 1490,
+    "name": "ylytdeng/wechat-decrypt",
+    "url": "https://github.com/ylytdeng/wechat-decrypt",
+    "lang": "Python",
+    "desc": "WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor"
+  },
+  {
+    "createdAt": "2026-02-27T12:12:20Z",
+    "stars": 1370,
+    "name": "ForLoopCodes/contextplus",
+    "url": "https://github.com/ForLoopCodes/contextplus",
+    "lang": "TypeScript",
+    "desc": "Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers who demand 99% accuracy. By combining RAG, Tree-sitter AST, Spectral Clustering, and Obsidian-style linking, Context+ turns a massive codebase into a searchable, hierarchical feature graph."
+  },
+  {
+    "createdAt": "2026-03-03T19:37:51Z",
+    "stars": 1303,
+    "name": "elder-plinius/OBLITERATUS",
+    "url": "https://github.com/elder-plinius/OBLITERATUS",
+    "lang": "Python",
+    "desc": "obliterate the chains that bind you"
+  },
+  {
+    "createdAt": "2026-03-01T15:24:07Z",
+    "stars": 1300,
+    "name": "World-Open-Graph/br-acc",
+    "url": "https://github.com/World-Open-Graph/br-acc",
+    "lang": "Python",
+    "desc": "World Transparency Graph public codebase (🚧 website in progress)"
+  },
+  {
+    "createdAt": "2026-03-01T23:33:44Z",
+    "stars": 1276,
+    "name": "phuryn/pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "lang": "Python",
+    "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth."
+  },
+  {
+    "createdAt": "2026-03-02T06:52:52Z",
+    "stars": 1122,
+    "name": "slowmist/openclaw-security-practice-guide",
+    "url": "https://github.com/slowmist/openclaw-security-practice-guide",
+    "lang": "Shell",
+    "desc": "This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening checklist."
+  },
+  {
+    "createdAt": "2026-03-02T02:02:25Z",
+    "stars": 1122,
+    "name": "LeoYeAI/openclaw-master-skills",
+    "url": "https://github.com/LeoYeAI/openclaw-master-skills",
+    "lang": "Python",
+    "desc": "🧠 Curated collection of 127+ best OpenClaw skills — weekly updated from skills.sh, GitHub & ClaWHub. Powered by MyClaw.ai"
+  },
+  {
+    "createdAt": "2026-02-28T10:20:47Z",
+    "stars": 945,
+    "name": "34306/vphone-aio",
+    "url": "https://github.com/34306/vphone-aio",
+    "lang": "Shell",
+    "desc": "1 script run the vphone"
+  },
+  {
+    "createdAt": "2026-02-27T07:23:08Z",
+    "stars": 829,
+    "name": "xstongxue/best-prompts",
+    "url": "https://github.com/xstongxue/best-prompts",
+    "lang": "",
+    "desc": "通用高质量 Prompt 合集🔥"
+  },
+  {
+    "createdAt": "2026-03-02T01:51:35Z",
+    "stars": 822,
+    "name": "LeoYeAI/openclaw-guardian",
+    "url": "https://github.com/LeoYeAI/openclaw-guardian",
+    "lang": "Shell",
+    "desc": "🛡️ Guardian watchdog for OpenClaw Gateway — auto-monitor, self-repair via doctor --fix, git-based rollback, daily snapshots, and Discord alerts. Powered by MyClaw.ai"
+  },
+  {
+    "createdAt": "2026-02-26T12:57:42Z",
+    "stars": 804,
+    "name": "Gen-Verse/OpenClaw-RL",
+    "url": "https://github.com/Gen-Verse/OpenClaw-RL",
+    "lang": "TypeScript",
+    "desc": "OpenClaw-RL: Personalize openclaw simply by talking to it"
+  },
+  {
+    "createdAt": "2026-03-01T22:59:54Z",
+    "stars": 686,
+    "name": "LCEMP/LCEMP",
+    "url": "https://github.com/LCEMP/LCEMP",
+    "lang": "C++",
+    "desc": "A fork of minecraft LCE with LAN multiplayer support and other fixes."
+  },
+  {
+    "createdAt": "2026-02-26T06:04:49Z",
+    "stars": 629,
+    "name": "6551Team/opennews-mcp",
+    "url": "https://github.com/6551Team/opennews-mcp",
+    "lang": "Python",
+    "desc": "Crypto News Aggregation · AI Ratings · Trading Signals · Real-time Updates"
+  },
+  {
+    "createdAt": "2026-03-01T12:36:44Z",
+    "stars": 583,
+    "name": "coleam00/excalidraw-diagram-skill",
+    "url": "https://github.com/coleam00/excalidraw-diagram-skill",
+    "lang": "Python",
+    "desc": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams."
+  },
+  {
+    "createdAt": "2026-03-01T21:20:09Z",
+    "stars": 575,
+    "name": "hamelsmu/evals-skills",
+    "url": "https://github.com/hamelsmu/evals-skills",
+    "lang": "",
+    "desc": "Skills for AI Evals to compliment the course: AI Evals For Engineers & PMs"
+  },
+  {
+    "createdAt": "2026-03-02T10:21:54Z",
+    "stars": 563,
+    "name": "LeoYeAI/openclaw-backup",
+    "url": "https://github.com/LeoYeAI/openclaw-backup",
+    "lang": "Shell",
+    "desc": "One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai"
+  },
+  {
+    "createdAt": "2026-02-27T23:27:36Z",
+    "stars": 554,
+    "name": "kossisoroyce/timber",
+    "url": "https://github.com/kossisoroyce/timber",
+    "lang": "Python",
+    "desc": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference."
+  },
+  {
+    "createdAt": "2026-03-04T13:14:03Z",
+    "stars": 505,
+    "name": "tanishqkumar/ssd",
+    "url": "https://github.com/tanishqkumar/ssd",
+    "lang": "Python",
+    "desc": "A lightweight inference engine supporting speculative speculative decoding (SSD). "
+  },
+  {
+    "createdAt": "2026-03-04T03:25:54Z",
+    "stars": 503,
+    "name": "duoan/TorchCode",
+    "url": "https://github.com/duoan/TorchCode",
+    "lang": "Jupyter Notebook",
+    "desc": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
+  },
+  {
+    "createdAt": "2026-02-28T03:54:38Z",
+    "stars": 487,
+    "name": "star23/Day1Global-Skills",
+    "url": "https://github.com/star23/Day1Global-Skills",
+    "lang": "",
+    "desc": "Day1Global Skills Share 美股和加密分析，生产力 Skills 分享"
+  },
+  {
+    "createdAt": "2026-02-27T14:33:54Z",
+    "stars": 479,
+    "name": "vercel-labs/webreel",
+    "url": "https://github.com/vercel-labs/webreel",
+    "lang": "TypeScript",
+    "desc": "Record scripted browser demos as video"
+  },
+  {
+    "createdAt": "2026-03-02T13:37:00Z",
+    "stars": 463,
+    "name": "PKU-YuanGroup/Helios",
+    "url": "https://github.com/PKU-YuanGroup/Helios",
+    "lang": "Python",
+    "desc": "Helios: Real Real-Time Long Video Generation Model"
+  },
+  {
+    "createdAt": "2026-02-26T19:56:53Z",
+    "stars": 456,
+    "name": "kibitzsh/kibitz",
+    "url": "https://github.com/kibitzsh/kibitz",
+    "lang": "TypeScript",
+    "desc": "Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently"
+  },
+  {
+    "createdAt": "2026-02-28T07:20:12Z",
+    "stars": 454,
+    "name": "carmahhawwari/ui-design-brain",
+    "url": "https://github.com/carmahhawwari/ui-design-brain",
+    "lang": "",
+    "desc": "A Cursor skill that gives AI agents real UI component knowledge — best practices, layout patterns, and design-system conventions for 60+ interface components — so it generates production-grade UI instead of generic output."
+  },
+  {
+    "createdAt": "2026-03-01T15:36:45Z",
+    "stars": 453,
+    "name": "ahmadawais/terminui",
+    "url": "https://github.com/ahmadawais/terminui",
+    "lang": "TypeScript",
+    "desc": "Super fast double buffered toolkit for building terminal UIs."
+  },
+  {
+    "createdAt": "2026-03-03T14:57:42Z",
+    "stars": 423,
+    "name": "zornade/visura-api",
+    "url": "https://github.com/zornade/visura-api",
+    "lang": "Python",
+    "desc": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
+  },
+  {
+    "createdAt": "2026-02-28T02:39:39Z",
+    "stars": 387,
+    "name": "chenhg5/cc-connect",
+    "url": "https://github.com/chenhg5/cc-connect",
+    "lang": "Go",
+    "desc": "Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms."
+  },
+  {
+    "createdAt": "2026-03-04T14:10:26Z",
+    "stars": 386,
+    "name": "Flowseal/tg-ws-proxy",
+    "url": "https://github.com/Flowseal/tg-ws-proxy",
+    "lang": "Python",
+    "desc": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+  },
+  {
+    "createdAt": "2026-02-27T13:58:54Z",
+    "stars": 385,
+    "name": "Perkins729/OmniXtreme",
+    "url": "https://github.com/Perkins729/OmniXtreme",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-26T19:03:35Z",
+    "stars": 384,
+    "name": "bcurts/agentchattr",
+    "url": "https://github.com/bcurts/agentchattr",
+    "lang": "Python",
+    "desc": "Local chat server for real-time autonomous coordination between AI coding agents and humans"
+  },
+  {
+    "createdAt": "2026-02-27T16:37:27Z",
+    "stars": 379,
+    "name": "cita-777/metapi",
+    "url": "https://github.com/cita-777/metapi",
+    "lang": "TypeScript",
+    "desc": "把你在各处注册的 New API / One API / OneHub / DoneHub / Veloera / AnyRouter / Sub2API 等站点， 汇聚成 一个 API Key、一个入口，自动发现模型、智能路由、成本最优"
+  },
+  {
+    "createdAt": "2026-03-01T10:59:54Z",
+    "stars": 371,
+    "name": "liuxiaopai-ai/raphael-publish",
+    "url": "https://github.com/liuxiaopai-ai/raphael-publish",
+    "lang": "TypeScript",
+    "desc": "Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎"
+  },
+  {
+    "createdAt": "2026-02-26T06:06:13Z",
+    "stars": 365,
+    "name": "6551Team/opentwitter-mcp",
+    "url": "https://github.com/6551Team/opentwitter-mcp",
+    "lang": "Python",
+    "desc": "Twitter/X Data · User Profiles · Tweet Search · Follower Events · KOL Tracking"
+  },
+  {
+    "createdAt": "2026-03-02T18:36:36Z",
+    "stars": 362,
+    "name": "dev-protocol/polymarket-bot",
+    "url": "https://github.com/dev-protocol/polymarket-bot",
+    "lang": "TypeScript",
+    "desc": "Polymarket copytrading bot || polymarket copy trading bot || polymarket copy bot || "
+  },
+  {
+    "createdAt": "2026-02-27T22:08:08Z",
+    "stars": 356,
+    "name": "TrendTechVista/polymarket-sports-bot",
+    "url": "https://github.com/TrendTechVista/polymarket-sports-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports bot polymarket sports prediction bot polymarket betting bot sports trading bot polymarket crypto sports betting bot polymarket live sports odds"
+  },
+  {
+    "createdAt": "2026-02-27T21:21:58Z",
+    "stars": 352,
+    "name": "TrendTechVista/polymarket-copy-trading-bot",
+    "url": "https://github.com/TrendTechVista/polymarket-copy-trading-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot polymarket copy trading bot"
+  },
+  {
+    "createdAt": "2026-02-27T10:11:28Z",
+    "stars": 351,
+    "name": "arturoabreuhd/pinescript-ai",
+    "url": "https://github.com/arturoabreuhd/pinescript-ai",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-26T22:36:35Z",
+    "stars": 348,
+    "name": "KyleAMathews/hegelian-dialectic-skill",
+    "url": "https://github.com/KyleAMathews/hegelian-dialectic-skill",
+    "lang": "",
+    "desc": "A skill for thinking"
+  },
+  {
+    "createdAt": "2026-03-01T13:37:30Z",
+    "stars": 345,
+    "name": "4jcraft/4jcraft",
+    "url": "https://github.com/4jcraft/4jcraft",
+    "lang": "C++",
+    "desc": "Leaked version of Minecraft Legacy Console Edition. Not for commercial purposes"
+  },
+  {
+    "createdAt": "2026-02-28T22:28:40Z",
+    "stars": 343,
+    "name": "mandel-macaque/memento",
+    "url": "https://github.com/mandel-macaque/memento",
+    "lang": "F#",
+    "desc": "Keep track of you codex sessions per commit"
+  },
+  {
+    "createdAt": "2026-02-27T07:31:26Z",
+    "stars": 325,
+    "name": "Dinesh-Sowndar/flutter_billing_app",
+    "url": "https://github.com/Dinesh-Sowndar/flutter_billing_app",
+    "lang": "Dart",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-02-28T07:18:53Z",
+    "stars": 316,
+    "name": "Resinat/Resin",
+    "url": "https://github.com/Resinat/Resin",
+    "lang": "Go",
+    "desc": "A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions."
+  }
+]
