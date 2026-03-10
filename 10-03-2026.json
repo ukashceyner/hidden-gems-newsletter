@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-03-06T22:00:43Z",
+    "stars": 22340,
+    "name": "karpathy/autoresearch",
+    "url": "https://github.com/karpathy/autoresearch",
+    "lang": "Python",
+    "desc": "AI agents running research on single-GPU nanochat training automatically"
+  },
+  {
+    "createdAt": "2026-03-03T19:37:51Z",
+    "stars": 2676,
+    "name": "elder-plinius/OBLITERATUS",
+    "url": "https://github.com/elder-plinius/OBLITERATUS",
+    "lang": "Python",
+    "desc": "OBLITERATE THE CHAINS THAT BIND YOU"
+  },
+  {
+    "createdAt": "2026-03-08T13:52:57Z",
+    "stars": 2364,
+    "name": "HKUDS/CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "lang": "Python",
+    "desc": "CLI-Anything: Making ALL Software Agent-Native"
+  },
+  {
+    "createdAt": "2026-03-05T20:13:14Z",
+    "stars": 1744,
+    "name": "twostraws/SwiftUI-Agent-Skill",
+    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+    "lang": "",
+    "desc": "SwiftUI agent skill for Claude Code, Codex, and other AI tools."
+  },
+  {
+    "createdAt": "2026-03-04T03:25:54Z",
+    "stars": 1517,
+    "name": "duoan/TorchCode",
+    "url": "https://github.com/duoan/TorchCode",
+    "lang": "Jupyter Notebook",
+    "desc": "🔥 LeetCode for PyTorch — practice implementing softmax, attention, GPT-2 and more from scratch with instant auto-grading. Jupyter-based, self-hosted or try online."
+  },
+  {
+    "createdAt": "2026-03-05T08:18:37Z",
+    "stars": 1402,
+    "name": "jackwener/twitter-cli",
+    "url": "https://github.com/jackwener/twitter-cli",
+    "lang": "Python",
+    "desc": "A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal"
+  },
+  {
+    "createdAt": "2026-03-05T03:59:55Z",
+    "stars": 1380,
+    "name": "BigBodyCobain/Shadowbroker",
+    "url": "https://github.com/BigBodyCobain/Shadowbroker",
+    "lang": "TypeScript",
+    "desc": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now."
+  },
+  {
+    "createdAt": "2026-03-04T05:22:52Z",
+    "stars": 1374,
+    "name": "viperrcrypto/Siftly",
+    "url": "https://github.com/viperrcrypto/Siftly",
+    "lang": "TypeScript",
+    "desc": "Local Twitter/X bookmark organizer with AI categorization and mindmap visualization"
+  },
+  {
+    "createdAt": "2026-03-06T02:24:36Z",
+    "stars": 1339,
+    "name": "cyxzdev/Uncodixfy",
+    "url": "https://github.com/cyxzdev/Uncodixfy",
+    "lang": "",
+    "desc": "the holly uncodexify instructions - letting GPT create uncodexified UI"
+  },
+  {
+    "createdAt": "2026-03-08T09:43:52Z",
+    "stars": 906,
+    "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+    "lang": "Python",
+    "desc": "The largest open-source medical AI skills library for OpenClaw🦞."
+  },
+  {
+    "createdAt": "2026-03-07T13:56:04Z",
+    "stars": 832,
+    "name": "ParthJadhav/app-store-screenshots",
+    "url": "https://github.com/ParthJadhav/app-store-screenshots",
+    "lang": "",
+    "desc": "end to end app store screenshot creation using AI"
+  },
+  {
+    "createdAt": "2026-03-05T11:00:16Z",
+    "stars": 827,
+    "name": "op7418/Claude-to-IM-skill",
+    "url": "https://github.com/op7418/Claude-to-IM-skill",
+    "lang": "TypeScript",
+    "desc": "Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark."
+  },
+  {
+    "createdAt": "2026-03-04T14:10:26Z",
+    "stars": 783,
+    "name": "Flowseal/tg-ws-proxy",
+    "url": "https://github.com/Flowseal/tg-ws-proxy",
+    "lang": "Python",
+    "desc": "Local SOCKS5 proxy server for partial bypassing of Telegram loading"
+  },
+  {
+    "createdAt": "2026-03-04T13:14:03Z",
+    "stars": 754,
+    "name": "tanishqkumar/ssd",
+    "url": "https://github.com/tanishqkumar/ssd",
+    "lang": "Python",
+    "desc": "A lightweight inference engine supporting speculative speculative decoding (SSD). "
+  },
+  {
+    "createdAt": "2026-03-04T12:35:32Z",
+    "stars": 679,
+    "name": "hicode002/qualcomm_gbl_exploit_poc",
+    "url": "https://github.com/hicode002/qualcomm_gbl_exploit_poc",
+    "lang": "C",
+    "desc": "Unlocking qualcomm bootloader via gbl exploit."
+  },
+  {
+    "createdAt": "2026-03-08T01:03:02Z",
+    "stars": 674,
+    "name": "imbue-bit/OpenClaw-PwnKit",
+    "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
+    "lang": "Python",
+    "desc": "Get shell to almost any OpenClaw host machine."
+  },
+  {
+    "createdAt": "2026-03-04T02:03:51Z",
+    "stars": 589,
+    "name": "jshachm/pi-rs",
+    "url": "https://github.com/jshachm/pi-rs",
+    "lang": "Rust",
+    "desc": "基于pi-mono，rust轻量化版本"
+  },
+  {
+    "createdAt": "2026-03-05T20:51:17Z",
+    "stars": 548,
+    "name": "vulhunt-re/vulhunt",
+    "url": "https://github.com/vulhunt-re/vulhunt",
+    "lang": "C++",
+    "desc": "Vulnerability detection framework by Binarly's REsearch team"
+  },
+  {
+    "createdAt": "2026-03-03T03:15:15Z",
+    "stars": 543,
+    "name": "inspatio/worldfm",
+    "url": "https://github.com/inspatio/worldfm",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-05T18:01:06Z",
+    "stars": 538,
+    "name": "ahmadawais/chartli",
+    "url": "https://github.com/ahmadawais/chartli",
+    "lang": "TypeScript",
+    "desc": "CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, braille, svg. "
+  },
+  {
+    "createdAt": "2026-03-08T16:55:16Z",
+    "stars": 520,
+    "name": "tanweai/pua",
+    "url": "https://github.com/tanweai/pua",
+    "lang": "TypeScript",
+    "desc": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。"
+  },
+  {
+    "createdAt": "2026-03-05T19:36:46Z",
+    "stars": 515,
+    "name": "TinyAGI/fractals",
+    "url": "https://github.com/TinyAGI/fractals",
+    "lang": "TypeScript",
+    "desc": "Fractals is a recursive task orchestrator for agent swarm"
+  },
+  {
+    "createdAt": "2026-03-05T09:14:03Z",
+    "stars": 507,
+    "name": "AlpinDale/parsync",
+    "url": "https://github.com/AlpinDale/parsync",
+    "lang": "Rust",
+    "desc": "Parallel rsync-like pull sync over SSH with resume"
+  },
+  {
+    "createdAt": "2026-03-09T03:46:37Z",
+    "stars": 502,
+    "name": "knowsuchagency/mcp2cli",
+    "url": "https://github.com/knowsuchagency/mcp2cli",
+    "lang": "Python",
+    "desc": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
+  },
+  {
+    "createdAt": "2026-03-05T06:29:28Z",
+    "stars": 491,
+    "name": "xstongxue/best-skills",
+    "url": "https://github.com/xstongxue/best-skills",
+    "lang": "Python",
+    "desc": "通用高质量 Skills 合集🔥"
+  },
+  {
+    "createdAt": "2026-03-07T12:13:48Z",
+    "stars": 484,
+    "name": "steipete/discrawl",
+    "url": "https://github.com/steipete/discrawl",
+    "lang": "Go",
+    "desc": "cli for discord with sqlite backend"
+  },
+  {
+    "createdAt": "2026-03-08T11:46:25Z",
+    "stars": 478,
+    "name": "trevin-creator/autoresearch-mlx",
+    "url": "https://github.com/trevin-creator/autoresearch-mlx",
+    "lang": "Python",
+    "desc": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+  },
+  {
+    "createdAt": "2026-03-03T14:57:42Z",
+    "stars": 477,
+    "name": "zornade/visura-api",
+    "url": "https://github.com/zornade/visura-api",
+    "lang": "Python",
+    "desc": "Servizio API per l'estrazione automatizzata di dati catastali dal portale SISTER"
+  },
+  {
+    "createdAt": "2026-03-04T07:41:17Z",
+    "stars": 420,
+    "name": "RunanywhereAI/RCLI",
+    "url": "https://github.com/RunanywhereAI/RCLI",
+    "lang": "C++",
+    "desc": "Talk to your Mac, query your docs, no cloud required. On-device voice AI + RAG"
+  },
+  {
+    "createdAt": "2026-03-06T09:45:09Z",
+    "stars": 406,
+    "name": "OasAIStudio/symphony-ts",
+    "url": "https://github.com/OasAIStudio/symphony-ts",
+    "lang": "TypeScript",
+    "desc": "Typecript version of https://github.com/openai/symphony"
+  },
+  {
+    "createdAt": "2026-03-03T16:24:53Z",
+    "stars": 406,
+    "name": "autoclaw-cc/xiaohongshu-skills",
+    "url": "https://github.com/autoclaw-cc/xiaohongshu-skills",
+    "lang": "Python",
+    "desc": "xiaohongshu-skills"
+  },
+  {
+    "createdAt": "2026-03-04T16:33:54Z",
+    "stars": 395,
+    "name": "Lightricks/LTX-Desktop",
+    "url": "https://github.com/Lightricks/LTX-Desktop",
+    "lang": "TypeScript",
+    "desc": "An open-source desktop app for generating videos with LTX models"
+  },
+  {
+    "createdAt": "2026-03-08T16:53:33Z",
+    "stars": 389,
+    "name": "kamranahmedse/claude-statusline",
+    "url": "https://github.com/kamranahmedse/claude-statusline",
+    "lang": "Shell",
+    "desc": "Minimal Claude Code statusline setup I personally use"
+  },
+  {
+    "createdAt": "2026-03-03T08:15:46Z",
+    "stars": 386,
+    "name": "binance/binance-skills-hub",
+    "url": "https://github.com/binance/binance-skills-hub",
+    "lang": "",
+    "desc": "Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto"
+  },
+  {
+    "createdAt": "2026-03-05T05:13:05Z",
+    "stars": 384,
+    "name": "Thearas/wechat-db-decrypt-macos",
+    "url": "https://github.com/Thearas/wechat-db-decrypt-macos",
+    "lang": "Python",
+    "desc": "macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本"
+  },
+  {
+    "createdAt": "2026-03-08T09:03:17Z",
+    "stars": 360,
+    "name": "joeseesun/qiaomu-mondo-poster-design",
+    "url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
+    "lang": "Python",
+    "desc": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：\"Mondo风格\"、\"书籍封"
+  },
+  {
+    "createdAt": "2026-03-06T05:37:00Z",
+    "stars": 357,
+    "name": "L42ARO/Mercury-Transforming-Drone",
+    "url": "https://github.com/L42ARO/Mercury-Transforming-Drone",
+    "lang": "Python",
+    "desc": "Mercury is a transforming drone anyone can build that can be adapted for many use cases thanks to it's versatile mobility, wide range of sensors, and cargo bay area"
+  },
+  {
+    "createdAt": "2026-03-03T19:27:07Z",
+    "stars": 352,
+    "name": "JohnRiceML/clawport-ui",
+    "url": "https://github.com/JohnRiceML/clawport-ui",
+    "lang": "TypeScript",
+    "desc": "Open-source AI agent command center for Claude Code agent teams. Built on OpenClaw."
+  },
+  {
+    "createdAt": "2026-03-03T16:40:17Z",
+    "stars": 340,
+    "name": "sanbuphy/nanoAgent",
+    "url": "https://github.com/sanbuphy/nanoAgent",
+    "lang": "Python",
+    "desc": "If you can read 100 lines of Python, you understand agents."
+  },
+  {
+    "createdAt": "2026-03-07T09:55:30Z",
+    "stars": 333,
+    "name": "Minecraft-Community-Edition/client",
+    "url": "https://github.com/Minecraft-Community-Edition/client",
+    "lang": "C++",
+    "desc": "Minecraft CE Client"
+  },
+  {
+    "createdAt": "2026-03-09T18:29:18Z",
+    "stars": 330,
+    "name": "HenryXiaoYang/wechat-access-unqclawed",
+    "url": "https://github.com/HenryXiaoYang/wechat-access-unqclawed",
+    "lang": "TypeScript",
+    "desc": "微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来了😄"
+  },
+  {
+    "createdAt": "2026-03-06T15:10:35Z",
+    "stars": 324,
+    "name": "helenigtxu/TradingView-Claw",
+    "url": "https://github.com/helenigtxu/TradingView-Claw",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-04T09:17:54Z",
+    "stars": 321,
+    "name": "jackwener/bilibili-cli",
+    "url": "https://github.com/jackwener/bilibili-cli",
+    "lang": "Python",
+    "desc": "A CLI for Bilibili — browse videos, users, search, and feeds from the terminal"
+  },
+  {
+    "createdAt": "2026-03-07T21:32:55Z",
+    "stars": 306,
+    "name": "holysheep123/holysheep-cli",
+    "url": "https://github.com/holysheep123/holysheep-cli",
+    "lang": "JavaScript",
+    "desc": "🐑 One command to configure all AI coding tools — Claude Code, Codex, Gemini CLI, Cursor, Aider & more"
+  },
+  {
+    "createdAt": "2026-03-04T17:44:07Z",
+    "stars": 306,
+    "name": "gradenGnostic/LegacyLauncher",
+    "url": "https://github.com/gradenGnostic/LegacyLauncher",
+    "lang": "JavaScript",
+    "desc": "A custom launcher for Minecraft LCE."
+  },
+  {
+    "createdAt": "2026-03-10T05:12:12Z",
+    "stars": 296,
+    "name": "photon-hq/qclaw-wechat-client",
+    "url": "https://github.com/photon-hq/qclaw-wechat-client",
+    "lang": "TypeScript",
+    "desc": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
+  },
+  {
+    "createdAt": "2026-03-06T12:13:10Z",
+    "stars": 295,
+    "name": "dazzyddos/PrivHound",
+    "url": "https://github.com/dazzyddos/PrivHound",
+    "lang": "PowerShell",
+    "desc": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
+  },
+  {
+    "createdAt": "2026-03-08T06:06:37Z",
+    "stars": 287,
+    "name": "uluckyXH/OpenMOSS",
+    "url": "https://github.com/uluckyXH/OpenMOSS",
+    "lang": "Python",
+    "desc": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
+  },
+  {
+    "createdAt": "2026-03-03T07:02:36Z",
+    "stars": 277,
+    "name": "runesleo/claude-code-workflow",
+    "url": "https://github.com/runesleo/claude-code-workflow",
+    "lang": "",
+    "desc": "Battle-tested Claude Code workflow template — memory management, context engineering, and task routing from 3 months of daily usage"
+  },
+  {
+    "createdAt": "2026-03-03T09:25:21Z",
+    "stars": 277,
+    "name": "juliye2025/evil-read-arxiv",
+    "url": "https://github.com/juliye2025/evil-read-arxiv",
+    "lang": "Python",
+    "desc": "Claude Code+Obsidian，邪修读论文就是快"
+  }
+]
