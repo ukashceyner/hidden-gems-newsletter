@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-03-06T22:00:43Z",
+    "stars": 31420,
+    "name": "karpathy/autoresearch",
+    "url": "https://github.com/karpathy/autoresearch",
+    "lang": "Python",
+    "desc": "AI agents running research on single-GPU nanochat training automatically"
+  },
+  {
+    "createdAt": "2026-03-08T13:52:57Z",
+    "stars": 11510,
+    "name": "HKUDS/CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "lang": "Python",
+    "desc": "CLI-Anything: Making ALL Software Agent-Native"
+  },
+  {
+    "createdAt": "2026-03-08T16:55:16Z",
+    "stars": 6566,
+    "name": "tanweai/pua",
+    "url": "https://github.com/tanweai/pua",
+    "lang": "TypeScript",
+    "desc": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expectations were high."
+  },
+  {
+    "createdAt": "2026-03-11T21:22:45Z",
+    "stars": 5711,
+    "name": "garrytan/gstack",
+    "url": "https://github.com/garrytan/gstack",
+    "lang": "TypeScript",
+    "desc": "Use Garry Tan's exact Claude Code setup: 6 opinionated tools that serve as CEO, Eng Manager, Release Manager and QA Engineer"
+  },
+  {
+    "createdAt": "2026-03-07T13:56:04Z",
+    "stars": 2394,
+    "name": "ParthJadhav/app-store-screenshots",
+    "url": "https://github.com/ParthJadhav/app-store-screenshots",
+    "lang": "",
+    "desc": "end to end app store screenshot creation using AI"
+  },
+  {
+    "createdAt": "2026-03-06T02:24:36Z",
+    "stars": 1492,
+    "name": "cyxzdev/Uncodixfy",
+    "url": "https://github.com/cyxzdev/Uncodixfy",
+    "lang": "",
+    "desc": "the holly uncodexify instructions - letting GPT create uncodexified UI"
+  },
+  {
+    "createdAt": "2026-03-08T09:43:52Z",
+    "stars": 1121,
+    "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
+    "url": "https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills",
+    "lang": "Python",
+    "desc": "The largest open-source medical AI skills library for OpenClaw🦞."
+  },
+  {
+    "createdAt": "2026-03-11T20:25:53Z",
+    "stars": 1093,
+    "name": "davebcn87/pi-autoresearch",
+    "url": "https://github.com/davebcn87/pi-autoresearch",
+    "lang": "TypeScript",
+    "desc": "Autonomous experiment loop extension for pi"
+  },
+  {
+    "createdAt": "2026-03-11T04:28:49Z",
+    "stars": 972,
+    "name": "gsd-build/gsd-2",
+    "url": "https://github.com/gsd-build/gsd-2",
+    "lang": "TypeScript",
+    "desc": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "createdAt": "2026-03-09T13:47:13Z",
+    "stars": 956,
+    "name": "aiming-lab/MetaClaw",
+    "url": "https://github.com/aiming-lab/MetaClaw",
+    "lang": "Python",
+    "desc": "Just talk to your agent — it learns and EVOLVES."
+  },
+  {
+    "createdAt": "2026-03-11T11:52:02Z",
+    "stars": 956,
+    "name": "TianyiDataScience/openclaw-control-center",
+    "url": "https://github.com/TianyiDataScience/openclaw-control-center",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-08T05:34:05Z",
+    "stars": 910,
+    "name": "jackwener/xiaohongshu-cli",
+    "url": "https://github.com/jackwener/xiaohongshu-cli",
+    "lang": "Python",
+    "desc": "A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API"
+  },
+  {
+    "createdAt": "2026-03-09T07:41:03Z",
+    "stars": 833,
+    "name": "larksuite/openclaw-lark",
+    "url": "https://github.com/larksuite/openclaw-lark",
+    "lang": "TypeScript",
+    "desc": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
+  },
+  {
+    "createdAt": "2026-03-09T03:46:37Z",
+    "stars": 813,
+    "name": "knowsuchagency/mcp2cli",
+    "url": "https://github.com/knowsuchagency/mcp2cli",
+    "lang": "Python",
+    "desc": "Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen"
+  },
+  {
+    "createdAt": "2026-03-07T19:28:35Z",
+    "stars": 747,
+    "name": "Emanuele-web04/remodex",
+    "url": "https://github.com/Emanuele-web04/remodex",
+    "lang": "Swift",
+    "desc": "Remote Control for Codex. 24/7 version on the way"
+  },
+  {
+    "createdAt": "2026-03-11T18:51:14Z",
+    "stars": 731,
+    "name": "chrisworsey55/atlas-gic",
+    "url": "https://github.com/chrisworsey55/atlas-gic",
+    "lang": "",
+    "desc": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch"
+  },
+  {
+    "createdAt": "2026-03-08T23:20:58Z",
+    "stars": 728,
+    "name": "NawfalMotii79/PLFM_RADAR",
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "lang": "C",
+    "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system"
+  },
+  {
+    "createdAt": "2026-03-10T05:12:12Z",
+    "stars": 719,
+    "name": "photon-hq/qclaw-wechat-client",
+    "url": "https://github.com/photon-hq/qclaw-wechat-client",
+    "lang": "TypeScript",
+    "desc": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
+  },
+  {
+    "createdAt": "2026-03-08T11:46:25Z",
+    "stars": 667,
+    "name": "trevin-creator/autoresearch-mlx",
+    "url": "https://github.com/trevin-creator/autoresearch-mlx",
+    "lang": "Python",
+    "desc": "Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required."
+  },
+  {
+    "createdAt": "2026-03-07T18:47:16Z",
+    "stars": 617,
+    "name": "HumeAI/tada",
+    "url": "https://github.com/HumeAI/tada",
+    "lang": "Jupyter Notebook",
+    "desc": "Open Source Speech Language Model"
+  },
+  {
+    "createdAt": "2026-03-09T02:01:51Z",
+    "stars": 609,
+    "name": "dongsheng123132/u-claw",
+    "url": "https://github.com/dongsheng123132/u-claw",
+    "lang": "HTML",
+    "desc": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
+  },
+  {
+    "createdAt": "2026-03-08T16:53:33Z",
+    "stars": 579,
+    "name": "kamranahmedse/claude-statusline",
+    "url": "https://github.com/kamranahmedse/claude-statusline",
+    "lang": "Shell",
+    "desc": "Minimal Claude Code statusline setup I personally use"
+  },
+  {
+    "createdAt": "2026-03-11T00:12:46Z",
+    "stars": 578,
+    "name": "RightNow-AI/autokernel",
+    "url": "https://github.com/RightNow-AI/autokernel",
+    "lang": "Python",
+    "desc": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
+  },
+  {
+    "createdAt": "2026-03-09T11:10:24Z",
+    "stars": 554,
+    "name": "Kaleighc793/freqtrade-bot",
+    "url": "https://github.com/Kaleighc793/freqtrade-bot",
+    "lang": "Python",
+    "desc": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+  },
+  {
+    "createdAt": "2026-03-08T10:38:52Z",
+    "stars": 546,
+    "name": "onecli/onecli",
+    "url": "https://github.com/onecli/onecli",
+    "lang": "TypeScript",
+    "desc": "Open-source credential vault, give your AI agents access to services without exposing keys."
+  },
+  {
+    "createdAt": "2026-03-09T11:57:20Z",
+    "stars": 542,
+    "name": "lauraevz6y70/gnark-crypto",
+    "url": "https://github.com/lauraevz6y70/gnark-crypto",
+    "lang": "Python",
+    "desc": "gnark-crypto-cmd — Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export"
+  },
+  {
+    "createdAt": "2026-03-09T10:52:37Z",
+    "stars": 537,
+    "name": "Justi1980/Dawn-Validator-BOT",
+    "url": "https://github.com/Justi1980/Dawn-Validator-BOT",
+    "lang": "Python",
+    "desc": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation"
+  },
+  {
+    "createdAt": "2026-03-07T12:13:48Z",
+    "stars": 505,
+    "name": "steipete/discrawl",
+    "url": "https://github.com/steipete/discrawl",
+    "lang": "Go",
+    "desc": "cli for discord with sqlite backend"
+  },
+  {
+    "createdAt": "2026-03-08T06:06:37Z",
+    "stars": 500,
+    "name": "uluckyXH/OpenMOSS",
+    "url": "https://github.com/uluckyXH/OpenMOSS",
+    "lang": "Vue",
+    "desc": "A self-organizing multi-agent collaboration platform for OpenClaw. Multiple AI agents work as an autonomous team — planning, executing, reviewing, and patrolling tasks with zero human intervention."
+  },
+  {
+    "createdAt": "2026-03-11T15:13:01Z",
+    "stars": 496,
+    "name": "twostraws/Swift-Agent-Skills",
+    "url": "https://github.com/twostraws/Swift-Agent-Skills",
+    "lang": "",
+    "desc": "A curated directory of open-source AI agent skills for Swift and Apple platform development."
+  },
+  {
+    "createdAt": "2026-03-06T09:45:09Z",
+    "stars": 489,
+    "name": "OasAIStudio/symphony-ts",
+    "url": "https://github.com/OasAIStudio/symphony-ts",
+    "lang": "TypeScript",
+    "desc": "Typecript version of https://github.com/openai/symphony"
+  },
+  {
+    "createdAt": "2026-03-10T07:31:45Z",
+    "stars": 459,
+    "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "lang": "TeX",
+    "desc": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP"
+  },
+  {
+    "createdAt": "2026-03-09T18:29:18Z",
+    "stars": 451,
+    "name": "HenryXiaoYang/wechat-access-unqclawed",
+    "url": "https://github.com/HenryXiaoYang/wechat-access-unqclawed",
+    "lang": "TypeScript",
+    "desc": "微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来了😄"
+  },
+  {
+    "createdAt": "2026-03-08T09:03:17Z",
+    "stars": 450,
+    "name": "joeseesun/qiaomu-mondo-poster-design",
+    "url": "https://github.com/joeseesun/qiaomu-mondo-poster-design",
+    "lang": "Python",
+    "desc": "一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：\"Mondo风格\"、\"书籍封"
+  },
+  {
+    "createdAt": "2026-03-06T15:10:35Z",
+    "stars": 441,
+    "name": "helenigtxu/TradingView-Claw",
+    "url": "https://github.com/helenigtxu/TradingView-Claw",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-08T01:03:02Z",
+    "stars": 437,
+    "name": "imbue-bit/OpenClaw-PwnKit",
+    "url": "https://github.com/imbue-bit/OpenClaw-PwnKit",
+    "lang": "Python",
+    "desc": "Get shell to almost any OpenClaw host machine."
+  },
+  {
+    "createdAt": "2026-03-06T03:31:14Z",
+    "stars": 435,
+    "name": "wu-yc/LabClaw",
+    "url": "https://github.com/wu-yc/LabClaw",
+    "lang": "",
+    "desc": "LabClaw – Skill Operating Layer for Stanford LabOS & Next-Gen AI Co-Scientists"
+  },
+  {
+    "createdAt": "2026-03-09T23:42:30Z",
+    "stars": 422,
+    "name": "Rohit24567/HyperLiquid-Claw",
+    "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
+    "lang": "Rust",
+    "desc": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant full access to Hyperliquid DEX"
+  },
+  {
+    "createdAt": "2026-03-10T21:33:49Z",
+    "stars": 419,
+    "name": "EveryInc/proof-sdk",
+    "url": "https://github.com/EveryInc/proof-sdk",
+    "lang": "TypeScript",
+    "desc": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
+  },
+  {
+    "createdAt": "2026-03-06T05:37:00Z",
+    "stars": 395,
+    "name": "L42ARO/Mercury-Transforming-Drone",
+    "url": "https://github.com/L42ARO/Mercury-Transforming-Drone",
+    "lang": "Python",
+    "desc": "Mercury is a transforming drone anyone can build that can be adapted for many use cases thanks to it's versatile mobility, wide range of sensors, and cargo bay area"
+  },
+  {
+    "createdAt": "2026-03-06T09:30:39Z",
+    "stars": 370,
+    "name": "Junyi42/LoGeR",
+    "url": "https://github.com/Junyi42/LoGeR",
+    "lang": "Python",
+    "desc": "Reimplementation of LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory"
+  },
+  {
+    "createdAt": "2026-03-06T12:13:10Z",
+    "stars": 362,
+    "name": "dazzyddos/PrivHound",
+    "url": "https://github.com/dazzyddos/PrivHound",
+    "lang": "PowerShell",
+    "desc": "A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths."
+  },
+  {
+    "createdAt": "2026-03-06T11:11:51Z",
+    "stars": 356,
+    "name": "jnMetaCode/agency-agents-zh",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "lang": "Shell",
+    "desc": "AI 智能体专家团队（中文版）— 146 个专业 AI 智能体人设，覆盖开发、设计、营销、测试、运维等领域，含小红书/抖音/微信等 19 个中国平台原创智能体，支持 10 种 AI 编程工具"
+  },
+  {
+    "createdAt": "2026-03-09T08:09:56Z",
+    "stars": 355,
+    "name": "shenhao-stu/ohmycaptcha",
+    "url": "https://github.com/shenhao-stu/ohmycaptcha",
+    "lang": "Python",
+    "desc": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+  },
+  {
+    "createdAt": "2026-03-11T19:22:52Z",
+    "stars": 351,
+    "name": "vasilytrofimchuk/domainsearcher-app",
+    "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+    "lang": "JavaScript",
+    "desc": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
+  },
+  {
+    "createdAt": "2026-03-07T15:45:06Z",
+    "stars": 351,
+    "name": "deborahikssv/Antigravity-claw",
+    "url": "https://github.com/deborahikssv/Antigravity-claw",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-13T04:16:45Z",
+    "stars": 345,
+    "name": "upper-up/meta-lobbying-and-other-findings",
+    "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-07T09:55:30Z",
+    "stars": 343,
+    "name": "Minecraft-Community-Edition/client",
+    "url": "https://github.com/Minecraft-Community-Edition/client",
+    "lang": "C++",
+    "desc": "Minecraft CE Client"
+  },
+  {
+    "createdAt": "2026-03-09T11:20:55Z",
+    "stars": 334,
+    "name": "UniRound-Tec/Aurogen",
+    "url": "https://github.com/UniRound-Tec/Aurogen",
+    "lang": "TypeScript",
+    "desc": "\"Aurogen🍊: The Multi-Agent Evolution of OpenClaw.\""
+  },
+  {
+    "createdAt": "2026-03-07T01:39:41Z",
+    "stars": 322,
+    "name": "f/agentlytics",
+    "url": "https://github.com/f/agentlytics",
+    "lang": "JavaScript",
+    "desc": "Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code"
+  }
+]
