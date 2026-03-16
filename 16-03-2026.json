@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-03-11T21:22:45Z",
+    "stars": 16972,
+    "name": "garrytan/gstack",
+    "url": "https://github.com/garrytan/gstack",
+    "lang": "TypeScript",
+    "desc": "Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA"
+  },
+  {
+    "createdAt": "2026-03-11T20:25:53Z",
+    "stars": 1977,
+    "name": "davebcn87/pi-autoresearch",
+    "url": "https://github.com/davebcn87/pi-autoresearch",
+    "lang": "TypeScript",
+    "desc": "Autonomous experiment loop extension for pi"
+  },
+  {
+    "createdAt": "2026-03-11T11:52:02Z",
+    "stars": 1877,
+    "name": "TianyiDataScience/openclaw-control-center",
+    "url": "https://github.com/TianyiDataScience/openclaw-control-center",
+    "lang": "TypeScript",
+    "desc": "Turn OpenClaw from a black box into a local control center you can see, trust, and control."
+  },
+  {
+    "createdAt": "2026-03-13T00:35:39Z",
+    "stars": 1839,
+    "name": "pasky/chrome-cdp-skill",
+    "url": "https://github.com/pasky/chrome-cdp-skill",
+    "lang": "JavaScript",
+    "desc": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open"
+  },
+  {
+    "createdAt": "2026-03-11T10:13:16Z",
+    "stars": 1707,
+    "name": "THU-MAIC/OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "lang": "TypeScript",
+    "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+  },
+  {
+    "createdAt": "2026-03-14T07:33:06Z",
+    "stars": 1663,
+    "name": "calesthio/Crucix",
+    "url": "https://github.com/calesthio/Crucix",
+    "lang": "JavaScript",
+    "desc": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes."
+  },
+  {
+    "createdAt": "2026-03-10T07:31:45Z",
+    "stars": 1658,
+    "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+    "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+    "lang": "Python",
+    "desc": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP"
+  },
+  {
+    "createdAt": "2026-03-11T04:28:49Z",
+    "stars": 1525,
+    "name": "gsd-build/gsd-2",
+    "url": "https://github.com/gsd-build/gsd-2",
+    "lang": "TypeScript",
+    "desc": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "createdAt": "2026-03-09T13:47:13Z",
+    "stars": 1455,
+    "name": "aiming-lab/MetaClaw",
+    "url": "https://github.com/aiming-lab/MetaClaw",
+    "lang": "Python",
+    "desc": "Just talk to your agent — it learns and EVOLVES."
+  },
+  {
+    "createdAt": "2026-03-11T22:44:44Z",
+    "stars": 1369,
+    "name": "novatic14/MANPADS-System-Launcher-and-Rocket",
+    "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-15T03:38:49Z",
+    "stars": 1256,
+    "name": "aiming-lab/AutoResearchClaw",
+    "url": "https://github.com/aiming-lab/AutoResearchClaw",
+    "lang": "Python",
+    "desc": "Fully autonomous research from idea to paper. Chat an Idea. Get a Paper. Fully Autonomous. 🦞"
+  },
+  {
+    "createdAt": "2026-03-09T03:46:37Z",
+    "stars": 1205,
+    "name": "knowsuchagency/mcp2cli",
+    "url": "https://github.com/knowsuchagency/mcp2cli",
+    "lang": "Python",
+    "desc": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen"
+  },
+  {
+    "createdAt": "2026-03-14T04:12:22Z",
+    "stars": 1128,
+    "name": "skernelx/tavily-key-generator",
+    "url": "https://github.com/skernelx/tavily-key-generator",
+    "lang": "Python",
+    "desc": "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools."
+  },
+  {
+    "createdAt": "2026-03-12T02:12:54Z",
+    "stars": 1118,
+    "name": "Narcooo/inkos",
+    "url": "https://github.com/Narcooo/inkos",
+    "lang": "TypeScript",
+    "desc": "Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates"
+  },
+  {
+    "createdAt": "2026-03-09T07:41:03Z",
+    "stars": 1082,
+    "name": "larksuite/openclaw-lark",
+    "url": "https://github.com/larksuite/openclaw-lark",
+    "lang": "TypeScript",
+    "desc": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件"
+  },
+  {
+    "createdAt": "2026-03-14T22:10:23Z",
+    "stars": 869,
+    "name": "jackwener/opencli",
+    "url": "https://github.com/jackwener/opencli",
+    "lang": "TypeScript",
+    "desc": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
+  },
+  {
+    "createdAt": "2026-03-09T02:01:51Z",
+    "stars": 827,
+    "name": "dongsheng123132/u-claw",
+    "url": "https://github.com/dongsheng123132/u-claw",
+    "lang": "HTML",
+    "desc": "🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。"
+  },
+  {
+    "createdAt": "2026-03-11T18:51:14Z",
+    "stars": 819,
+    "name": "chrisworsey55/atlas-gic",
+    "url": "https://github.com/chrisworsey55/atlas-gic",
+    "lang": "",
+    "desc": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch"
+  },
+  {
+    "createdAt": "2026-03-15T21:54:35Z",
+    "stars": 785,
+    "name": "Infatoshi/OpenSquirrel",
+    "url": "https://github.com/Infatoshi/OpenSquirrel",
+    "lang": "Rust",
+    "desc": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
+  },
+  {
+    "createdAt": "2026-03-10T05:12:12Z",
+    "stars": 731,
+    "name": "photon-hq/qclaw-wechat-client",
+    "url": "https://github.com/photon-hq/qclaw-wechat-client",
+    "lang": "TypeScript",
+    "desc": "Reverse-engineered TypeScript client for QClaw's WeChat Access API."
+  },
+  {
+    "createdAt": "2026-03-13T14:51:54Z",
+    "stars": 730,
+    "name": "uditgoenka/autoresearch",
+    "url": "https://github.com/uditgoenka/autoresearch",
+    "lang": "",
+    "desc": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever."
+  },
+  {
+    "createdAt": "2026-03-13T04:16:45Z",
+    "stars": 695,
+    "name": "upper-up/meta-lobbying-and-other-findings",
+    "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-10T03:25:46Z",
+    "stars": 674,
+    "name": "moltlaunch/cashclaw",
+    "url": "https://github.com/moltlaunch/cashclaw",
+    "lang": "TypeScript",
+    "desc": "An autonomous agent that takes work, does work, gets paid, and gets better at it."
+  },
+  {
+    "createdAt": "2026-03-11T00:12:46Z",
+    "stars": 660,
+    "name": "RightNow-AI/autokernel",
+    "url": "https://github.com/RightNow-AI/autokernel",
+    "lang": "Python",
+    "desc": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
+  },
+  {
+    "createdAt": "2026-03-11T15:13:01Z",
+    "stars": 659,
+    "name": "twostraws/Swift-Agent-Skills",
+    "url": "https://github.com/twostraws/Swift-Agent-Skills",
+    "lang": "",
+    "desc": "A curated directory of open-source AI agent skills for Swift and Apple platform development."
+  },
+  {
+    "createdAt": "2026-03-12T22:43:50Z",
+    "stars": 657,
+    "name": "Michaelliv/pi-generative-ui",
+    "url": "https://github.com/Michaelliv/pi-generative-ui",
+    "lang": "TypeScript",
+    "desc": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+  },
+  {
+    "createdAt": "2026-03-15T13:29:15Z",
+    "stars": 615,
+    "name": "MoonshotAI/Attention-Residuals",
+    "url": "https://github.com/MoonshotAI/Attention-Residuals",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-09T11:20:55Z",
+    "stars": 561,
+    "name": "UniRound-Tec/Aurogen",
+    "url": "https://github.com/UniRound-Tec/Aurogen",
+    "lang": "TypeScript",
+    "desc": "\"Aurogen🍊: The Multi-Agent Evolution of OpenClaw.\""
+  },
+  {
+    "createdAt": "2026-03-09T11:10:24Z",
+    "stars": 555,
+    "name": "Kaleighc793/freqtrade-bot",
+    "url": "https://github.com/Kaleighc793/freqtrade-bot",
+    "lang": "Python",
+    "desc": "Freqtrade — Configuration and management tool for the Freqtrade open-source crypto trading bot with strategy backtesting, live/dry-run modes, 10+ exchange support (Binance, Kraken, OKX), hyperparameter optimization, FreqUI dashboard, and Rich terminal menu interface"
+  },
+  {
+    "createdAt": "2026-03-09T11:57:20Z",
+    "stars": 543,
+    "name": "lauraevz6y70/gnark-crypto",
+    "url": "https://github.com/lauraevz6y70/gnark-crypto",
+    "lang": "Python",
+    "desc": "gnark-crypto-cmd — Interactive CLI for Consensys gnark-crypto library featuring elliptic curve cryptography (BN254, BLS12-381, BLS24, BW6), zero-knowledge proof primitives, FFT/KZG/MiMC/EdDSA operations, Go code generation, benchmarks, and BibTeX citation export"
+  },
+  {
+    "createdAt": "2026-03-09T10:52:37Z",
+    "stars": 538,
+    "name": "Justi1980/Dawn-Validator-BOT",
+    "url": "https://github.com/Justi1980/Dawn-Validator-BOT",
+    "lang": "Python",
+    "desc": "Dawn Validator BOT — Automated node validation bot for Dawn Protocol testnet with multi-account support, proxy rotation, validator registration, keepalive pings, reward tracking, and Rich CLI interface for decentralized bandwidth network participation"
+  },
+  {
+    "createdAt": "2026-03-10T21:33:49Z",
+    "stars": 525,
+    "name": "EveryInc/proof-sdk",
+    "url": "https://github.com/EveryInc/proof-sdk",
+    "lang": "TypeScript",
+    "desc": "Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge"
+  },
+  {
+    "createdAt": "2026-03-09T18:29:18Z",
+    "stars": 525,
+    "name": "HenryXiaoYang/wechat-openclaw-channel",
+    "url": "https://github.com/HenryXiaoYang/wechat-openclaw-channel",
+    "lang": "TypeScript",
+    "desc": "现已同时支持QClaw和WorkBuddy方式登录！微信包装了开源项目OpenClaw，所以我们把他的Channel抽出来给OpenClaw用了😄 "
+  },
+  {
+    "createdAt": "2026-03-15T22:50:46Z",
+    "stars": 508,
+    "name": "rasbt/llm-architecture-gallery",
+    "url": "https://github.com/rasbt/llm-architecture-gallery",
+    "lang": "",
+    "desc": "LLM Architecture Gallery source data"
+  },
+  {
+    "createdAt": "2026-03-14T20:45:40Z",
+    "stars": 480,
+    "name": "karpathy/jobs",
+    "url": "https://github.com/karpathy/jobs",
+    "lang": "HTML",
+    "desc": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually."
+  },
+  {
+    "createdAt": "2026-03-15T02:30:51Z",
+    "stars": 478,
+    "name": "Lum1104/Understand-Anything",
+    "url": "https://github.com/Lum1104/Understand-Anything",
+    "lang": "TypeScript",
+    "desc": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
+  },
+  {
+    "createdAt": "2026-03-09T23:42:30Z",
+    "stars": 476,
+    "name": "Rohit24567/HyperLiquid-Claw",
+    "url": "https://github.com/Rohit24567/HyperLiquid-Claw",
+    "lang": "Rust",
+    "desc": "Trade smarter, not harder. Hyperliquid Claw gives your AI assistant Openclaw full access to Hyperliquid DEX"
+  },
+  {
+    "createdAt": "2026-03-13T01:55:26Z",
+    "stars": 470,
+    "name": "KeyID-AI/agent-kit",
+    "url": "https://github.com/KeyID-AI/agent-kit",
+    "lang": "JavaScript",
+    "desc": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
+  },
+  {
+    "createdAt": "2026-03-13T06:43:44Z",
+    "stars": 467,
+    "name": "ethanjyx/OpenBrand",
+    "url": "https://github.com/ethanjyx/OpenBrand",
+    "lang": "TypeScript",
+    "desc": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
+  },
+  {
+    "createdAt": "2026-03-12T20:40:06Z",
+    "stars": 456,
+    "name": "CopilotKit/OpenGenerativeUI",
+    "url": "https://github.com/CopilotKit/OpenGenerativeUI",
+    "lang": "TypeScript",
+    "desc": "Open-Source Generative UI Framework"
+  },
+  {
+    "createdAt": "2026-03-09T08:09:56Z",
+    "stars": 451,
+    "name": "shenhao-stu/ohmycaptcha",
+    "url": "https://github.com/shenhao-stu/ohmycaptcha",
+    "lang": "Python",
+    "desc": "⚡ Self-hostable YesCaptcha-compatible captcha solver built with FastAPI, Playwright, and OpenAI-compatible multimodal models."
+  },
+  {
+    "createdAt": "2026-03-13T20:30:08Z",
+    "stars": 445,
+    "name": "jackwener/boss-cli",
+    "url": "https://github.com/jackwener/boss-cli",
+    "lang": "Python",
+    "desc": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API "
+  },
+  {
+    "createdAt": "2026-03-11T19:22:52Z",
+    "stars": 421,
+    "name": "vasilytrofimchuk/domainsearcher-app",
+    "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+    "lang": "JavaScript",
+    "desc": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
+  },
+  {
+    "createdAt": "2026-03-12T12:38:13Z",
+    "stars": 414,
+    "name": "mizchi/actrun",
+    "url": "https://github.com/mizchi/actrun",
+    "lang": "MoonBit",
+    "desc": "GitHub Actions compatible local runner"
+  },
+  {
+    "createdAt": "2026-03-15T17:04:09Z",
+    "stars": 389,
+    "name": "NVIDIA/NemoClaw",
+    "url": "https://github.com/NVIDIA/NemoClaw",
+    "lang": "TypeScript",
+    "desc": "NVIDIA plugin for secure installation of OpenClaw"
+  },
+  {
+    "createdAt": "2026-03-11T19:25:26Z",
+    "stars": 378,
+    "name": "AppAndFlow/react-native-ease",
+    "url": "https://github.com/AppAndFlow/react-native-ease",
+    "lang": "TypeScript",
+    "desc": "🍃 Lightweight declarative animations powered by platform APIs"
+  },
+  {
+    "createdAt": "2026-03-12T21:27:19Z",
+    "stars": 369,
+    "name": "bentossell/visualise",
+    "url": "https://github.com/bentossell/visualise",
+    "lang": "",
+    "desc": "Agent skill for rendering inline interactive visuals — SVG diagrams, HTML widgets, charts, and explainers — in agent conversations."
+  },
+  {
+    "createdAt": "2026-03-15T03:13:51Z",
+    "stars": 368,
+    "name": "sstklen/trump-code",
+    "url": "https://github.com/sstklen/trump-code",
+    "lang": "Python",
+    "desc": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source"
+  },
+  {
+    "createdAt": "2026-03-11T16:25:43Z",
+    "stars": 368,
+    "name": "nidhinjs/prompt-master",
+    "url": "https://github.com/nidhinjs/prompt-master",
+    "lang": "",
+    "desc": "Claude skill that writes the perfect prompts for any AI tool. Zero tokens or credits wasted & No re-prompts"
+  },
+  {
+    "createdAt": "2026-03-11T05:22:43Z",
+    "stars": 357,
+    "name": "GalaxyGeneralRobotics/LATENT",
+    "url": "https://github.com/GalaxyGeneralRobotics/LATENT",
+    "lang": "Python",
+    "desc": "Official implementation of Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data"
+  }
+]
