@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-03-11T21:22:45Z",
+    "stars": 23882,
+    "name": "garrytan/gstack",
+    "url": "https://github.com/garrytan/gstack",
+    "lang": "TypeScript",
+    "desc": "Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA"
+  },
+  {
+    "createdAt": "2026-03-15T17:04:09Z",
+    "stars": 7910,
+    "name": "NVIDIA/NemoClaw",
+    "url": "https://github.com/NVIDIA/NemoClaw",
+    "lang": "TypeScript",
+    "desc": "NVIDIA plugin for secure installation of OpenClaw"
+  },
+  {
+    "createdAt": "2026-03-11T10:13:16Z",
+    "stars": 7281,
+    "name": "THU-MAIC/OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "lang": "TypeScript",
+    "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click"
+  },
+  {
+    "createdAt": "2026-03-15T03:38:49Z",
+    "stars": 6160,
+    "name": "aiming-lab/AutoResearchClaw",
+    "url": "https://github.com/aiming-lab/AutoResearchClaw",
+    "lang": "Python",
+    "desc": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞"
+  },
+  {
+    "createdAt": "2026-03-14T07:33:06Z",
+    "stars": 4341,
+    "name": "calesthio/Crucix",
+    "url": "https://github.com/calesthio/Crucix",
+    "lang": "JavaScript",
+    "desc": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes."
+  },
+  {
+    "createdAt": "2026-03-12T23:38:32Z",
+    "stars": 2498,
+    "name": "webadderall/Recordly",
+    "url": "https://github.com/webadderall/Recordly",
+    "lang": "TypeScript",
+    "desc": "A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings."
+  },
+  {
+    "createdAt": "2026-03-11T20:25:53Z",
+    "stars": 2202,
+    "name": "davebcn87/pi-autoresearch",
+    "url": "https://github.com/davebcn87/pi-autoresearch",
+    "lang": "TypeScript",
+    "desc": "Autonomous experiment loop extension for pi"
+  },
+  {
+    "createdAt": "2026-03-13T00:35:39Z",
+    "stars": 2192,
+    "name": "pasky/chrome-cdp-skill",
+    "url": "https://github.com/pasky/chrome-cdp-skill",
+    "lang": "JavaScript",
+    "desc": "Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open"
+  },
+  {
+    "createdAt": "2026-03-11T11:52:02Z",
+    "stars": 2110,
+    "name": "TianyiDataScience/openclaw-control-center",
+    "url": "https://github.com/TianyiDataScience/openclaw-control-center",
+    "lang": "TypeScript",
+    "desc": "Turn OpenClaw from a black box into a local control center you can see, trust, and control."
+  },
+  {
+    "createdAt": "2026-03-11T04:28:49Z",
+    "stars": 2075,
+    "name": "gsd-build/gsd-2",
+    "url": "https://github.com/gsd-build/gsd-2",
+    "lang": "TypeScript",
+    "desc": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture"
+  },
+  {
+    "createdAt": "2026-03-14T22:10:23Z",
+    "stars": 1788,
+    "name": "jackwener/opencli",
+    "url": "https://github.com/jackwener/opencli",
+    "lang": "TypeScript",
+    "desc": "Make any website your CLI. A powerful, AI-native runtime for seamless browser automation and dynamic web data extraction."
+  },
+  {
+    "createdAt": "2026-03-15T13:29:15Z",
+    "stars": 1784,
+    "name": "MoonshotAI/Attention-Residuals",
+    "url": "https://github.com/MoonshotAI/Attention-Residuals",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-11T22:44:44Z",
+    "stars": 1703,
+    "name": "novatic14/MANPADS-System-Launcher-and-Rocket",
+    "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-12T02:12:54Z",
+    "stars": 1640,
+    "name": "Narcooo/inkos",
+    "url": "https://github.com/Narcooo/inkos",
+    "lang": "TypeScript",
+    "desc": "Autonomous novel writing CLI agent — AI agents write, audit, and revise novels with human review gates"
+  },
+  {
+    "createdAt": "2026-03-13T14:51:54Z",
+    "stars": 1363,
+    "name": "uditgoenka/autoresearch",
+    "url": "https://github.com/uditgoenka/autoresearch",
+    "lang": "Shell",
+    "desc": "Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever."
+  },
+  {
+    "createdAt": "2026-03-14T04:12:22Z",
+    "stars": 1306,
+    "name": "skernelx/tavily-key-generator",
+    "url": "https://github.com/skernelx/tavily-key-generator",
+    "lang": "Python",
+    "desc": "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools."
+  },
+  {
+    "createdAt": "2026-03-15T21:54:35Z",
+    "stars": 1084,
+    "name": "Infatoshi/OpenSquirrel",
+    "url": "https://github.com/Infatoshi/OpenSquirrel",
+    "lang": "Rust",
+    "desc": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
+  },
+  {
+    "createdAt": "2026-03-17T14:42:46Z",
+    "stars": 949,
+    "name": "HKUDS/ClawTeam",
+    "url": "https://github.com/HKUDS/ClawTeam",
+    "lang": "Python",
+    "desc": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
+  },
+  {
+    "createdAt": "2026-03-12T21:32:38Z",
+    "stars": 940,
+    "name": "grimmory-tools/grimmory",
+    "url": "https://github.com/grimmory-tools/grimmory",
+    "lang": "Java",
+    "desc": "Grimmory is the successor of booklore."
+  },
+  {
+    "createdAt": "2026-03-15T02:30:51Z",
+    "stars": 859,
+    "name": "Lum1104/Understand-Anything",
+    "url": "https://github.com/Lum1104/Understand-Anything",
+    "lang": "TypeScript",
+    "desc": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about."
+  },
+  {
+    "createdAt": "2026-03-11T18:51:14Z",
+    "stars": 853,
+    "name": "chrisworsey55/atlas-gic",
+    "url": "https://github.com/chrisworsey55/atlas-gic",
+    "lang": "",
+    "desc": "ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch"
+  },
+  {
+    "createdAt": "2026-03-14T20:45:40Z",
+    "stars": 825,
+    "name": "karpathy/jobs",
+    "url": "https://github.com/karpathy/jobs",
+    "lang": "HTML",
+    "desc": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually."
+  },
+  {
+    "createdAt": "2026-03-13T04:16:45Z",
+    "stars": 779,
+    "name": "upper-up/meta-lobbying-and-other-findings",
+    "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-15T22:50:46Z",
+    "stars": 754,
+    "name": "rasbt/llm-architecture-gallery",
+    "url": "https://github.com/rasbt/llm-architecture-gallery",
+    "lang": "",
+    "desc": "LLM Architecture Gallery source data"
+  },
+  {
+    "createdAt": "2026-03-12T22:43:50Z",
+    "stars": 723,
+    "name": "Michaelliv/pi-generative-ui",
+    "url": "https://github.com/Michaelliv/pi-generative-ui",
+    "lang": "TypeScript",
+    "desc": "Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in native macOS windows."
+  },
+  {
+    "createdAt": "2026-03-11T15:13:01Z",
+    "stars": 720,
+    "name": "twostraws/Swift-Agent-Skills",
+    "url": "https://github.com/twostraws/Swift-Agent-Skills",
+    "lang": "",
+    "desc": "A curated directory of open-source AI agent skills for Swift and Apple platform development."
+  },
+  {
+    "createdAt": "2026-03-11T00:12:46Z",
+    "stars": 700,
+    "name": "RightNow-AI/autokernel",
+    "url": "https://github.com/RightNow-AI/autokernel",
+    "lang": "Python",
+    "desc": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels."
+  },
+  {
+    "createdAt": "2026-03-12T20:40:06Z",
+    "stars": 676,
+    "name": "CopilotKit/OpenGenerativeUI",
+    "url": "https://github.com/CopilotKit/OpenGenerativeUI",
+    "lang": "TypeScript",
+    "desc": "Open-Source Generative UI Framework"
+  },
+  {
+    "createdAt": "2026-03-14T22:54:19Z",
+    "stars": 669,
+    "name": "nikmcfly/MiroFish-Offline",
+    "url": "https://github.com/nikmcfly/MiroFish-Offline",
+    "lang": "Python",
+    "desc": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
+  },
+  {
+    "createdAt": "2026-03-17T12:26:20Z",
+    "stars": 660,
+    "name": "VoltAgent/awesome-codex-subagents",
+    "url": "https://github.com/VoltAgent/awesome-codex-subagents",
+    "lang": "",
+    "desc": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases."
+  },
+  {
+    "createdAt": "2026-03-16T00:42:18Z",
+    "stars": 645,
+    "name": "lcoutodemos/clui-cc",
+    "url": "https://github.com/lcoutodemos/clui-cc",
+    "lang": "TypeScript",
+    "desc": "Clui CC — Command Line User Interface for Claude Code"
+  },
+  {
+    "createdAt": "2026-03-13T04:15:42Z",
+    "stars": 615,
+    "name": "EricLengyel/Slug",
+    "url": "https://github.com/EricLengyel/Slug",
+    "lang": "HLSL",
+    "desc": "Reference code for the Slug Algorithm."
+  },
+  {
+    "createdAt": "2026-03-11T16:25:43Z",
+    "stars": 565,
+    "name": "nidhinjs/prompt-master",
+    "url": "https://github.com/nidhinjs/prompt-master",
+    "lang": "",
+    "desc": "A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention"
+  },
+  {
+    "createdAt": "2026-03-15T21:49:32Z",
+    "stars": 547,
+    "name": "adammiribyan/zeroboot",
+    "url": "https://github.com/adammiribyan/zeroboot",
+    "lang": "Rust",
+    "desc": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
+  },
+  {
+    "createdAt": "2026-03-15T03:13:51Z",
+    "stars": 544,
+    "name": "sstklen/trump-code",
+    "url": "https://github.com/sstklen/trump-code",
+    "lang": "Python",
+    "desc": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source"
+  },
+  {
+    "createdAt": "2026-03-16T05:04:31Z",
+    "stars": 519,
+    "name": "joeseesun/opencli-skill",
+    "url": "https://github.com/joeseesun/opencli-skill",
+    "lang": "",
+    "desc": "Use opencli CLI to interact with social/content websites (Bilibili, Zhihu, Twitter/X, YouTube, Weibo, 小红书, V2EX, Reddit, HackerNews, 雪球, BOSS直聘 etc.) "
+  },
+  {
+    "createdAt": "2026-03-12T12:38:13Z",
+    "stars": 507,
+    "name": "mizchi/actrun",
+    "url": "https://github.com/mizchi/actrun",
+    "lang": "MoonBit",
+    "desc": "GitHub Actions compatible local runner"
+  },
+  {
+    "createdAt": "2026-03-13T01:55:26Z",
+    "stars": 503,
+    "name": "KeyID-AI/agent-kit",
+    "url": "https://github.com/KeyID-AI/agent-kit",
+    "lang": "JavaScript",
+    "desc": "Give Claude/Cursor email powers. 27 MCP tools — inbox, send, reply, contacts, search. Free, no signup."
+  },
+  {
+    "createdAt": "2026-03-13T06:43:44Z",
+    "stars": 496,
+    "name": "ethanjyx/OpenBrand",
+    "url": "https://github.com/ethanjyx/OpenBrand",
+    "lang": "TypeScript",
+    "desc": "Extract brand assets (logos, colors, backdrops) from any website; open source alternative to Brand.dev"
+  },
+  {
+    "createdAt": "2026-03-13T20:30:08Z",
+    "stars": 492,
+    "name": "jackwener/boss-cli",
+    "url": "https://github.com/jackwener/boss-cli",
+    "lang": "Python",
+    "desc": "A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API "
+  },
+  {
+    "createdAt": "2026-03-11T05:22:43Z",
+    "stars": 450,
+    "name": "GalaxyGeneralRobotics/LATENT",
+    "url": "https://github.com/GalaxyGeneralRobotics/LATENT",
+    "lang": "Python",
+    "desc": "Official implementation of Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data"
+  },
+  {
+    "createdAt": "2026-03-11T19:22:52Z",
+    "stars": 448,
+    "name": "vasilytrofimchuk/domainsearcher-app",
+    "url": "https://github.com/vasilytrofimchuk/domainsearcher-app",
+    "lang": "JavaScript",
+    "desc": "Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup."
+  },
+  {
+    "createdAt": "2026-03-15T14:48:09Z",
+    "stars": 439,
+    "name": "rzru/nightingale",
+    "url": "https://github.com/rzru/nightingale",
+    "lang": "Rust",
+    "desc": "Machine learning powered Karaoke app (with scores!) "
+  },
+  {
+    "createdAt": "2026-03-15T12:59:27Z",
+    "stars": 436,
+    "name": "cnlimiter/codex-register",
+    "url": "https://github.com/cnlimiter/codex-register",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-15T07:46:32Z",
+    "stars": 431,
+    "name": "collaborator-ai/collab-public",
+    "url": "https://github.com/collaborator-ai/collab-public",
+    "lang": "Shell",
+    "desc": "Collaborator is a place to build with agents."
+  },
+  {
+    "createdAt": "2026-03-11T15:59:36Z",
+    "stars": 426,
+    "name": "zevorn/rt-claw",
+    "url": "https://github.com/zevorn/rt-claw",
+    "lang": "C",
+    "desc": "Making AI Assistants Cheap Again!"
+  },
+  {
+    "createdAt": "2026-03-11T19:25:26Z",
+    "stars": 419,
+    "name": "AppAndFlow/react-native-ease",
+    "url": "https://github.com/AppAndFlow/react-native-ease",
+    "lang": "TypeScript",
+    "desc": "🍃 Lightweight declarative animations powered by platform APIs"
+  },
+  {
+    "createdAt": "2026-03-16T20:19:30Z",
+    "stars": 410,
+    "name": "nv-tlabs/kimodo",
+    "url": "https://github.com/nv-tlabs/kimodo",
+    "lang": "Python",
+    "desc": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation."
+  },
+  {
+    "createdAt": "2026-03-15T12:04:50Z",
+    "stars": 400,
+    "name": "deusyu/translate-book",
+    "url": "https://github.com/deusyu/translate-book",
+    "lang": "Python",
+    "desc": "Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents"
+  },
+  {
+    "createdAt": "2026-03-17T08:05:33Z",
+    "stars": 390,
+    "name": "frank890417/taiwan-md",
+    "url": "https://github.com/frank890417/taiwan-md",
+    "lang": "Astro",
+    "desc": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan"
+  }
+]
