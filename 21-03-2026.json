@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-03-15T17:04:09Z",
+    "stars": 14831,
+    "name": "NVIDIA/NemoClaw",
+    "url": "https://github.com/NVIDIA/NemoClaw",
+    "lang": "JavaScript",
+    "desc": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference"
+  },
+  {
+    "createdAt": "2026-03-15T03:38:49Z",
+    "stars": 7355,
+    "name": "aiming-lab/AutoResearchClaw",
+    "url": "https://github.com/aiming-lab/AutoResearchClaw",
+    "lang": "Python",
+    "desc": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞"
+  },
+  {
+    "createdAt": "2026-03-14T07:33:06Z",
+    "stars": 6018,
+    "name": "calesthio/Crucix",
+    "url": "https://github.com/calesthio/Crucix",
+    "lang": "JavaScript",
+    "desc": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes."
+  },
+  {
+    "createdAt": "2026-03-14T22:10:23Z",
+    "stars": 3595,
+    "name": "jackwener/opencli",
+    "url": "https://github.com/jackwener/opencli",
+    "lang": "TypeScript",
+    "desc": "Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration."
+  },
+  {
+    "createdAt": "2026-03-15T02:30:51Z",
+    "stars": 2503,
+    "name": "Lum1104/Understand-Anything",
+    "url": "https://github.com/Lum1104/Understand-Anything",
+    "lang": "TypeScript",
+    "desc": "Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported)."
+  },
+  {
+    "createdAt": "2026-03-17T14:42:46Z",
+    "stars": 2450,
+    "name": "HKUDS/ClawTeam",
+    "url": "https://github.com/HKUDS/ClawTeam",
+    "lang": "Python",
+    "desc": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
+  },
+  {
+    "createdAt": "2026-03-15T13:29:15Z",
+    "stars": 2406,
+    "name": "MoonshotAI/Attention-Residuals",
+    "url": "https://github.com/MoonshotAI/Attention-Residuals",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-17T12:26:20Z",
+    "stars": 1971,
+    "name": "VoltAgent/awesome-codex-subagents",
+    "url": "https://github.com/VoltAgent/awesome-codex-subagents",
+    "lang": "",
+    "desc": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases."
+  },
+  {
+    "createdAt": "2026-03-15T21:49:32Z",
+    "stars": 1671,
+    "name": "zerobootdev/zeroboot",
+    "url": "https://github.com/zerobootdev/zeroboot",
+    "lang": "Rust",
+    "desc": "Sub-millisecond VM sandboxes for AI agents via copy-on-write forking"
+  },
+  {
+    "createdAt": "2026-03-14T04:12:22Z",
+    "stars": 1349,
+    "name": "skernelx/tavily-key-generator",
+    "url": "https://github.com/skernelx/tavily-key-generator",
+    "lang": "Python",
+    "desc": "Multi-service toolkit for Tavily and Firecrawl signup automation, key validation, and isolated proxy pools."
+  },
+  {
+    "createdAt": "2026-03-15T12:59:27Z",
+    "stars": 1341,
+    "name": "cnlimiter/codex-manager",
+    "url": "https://github.com/cnlimiter/codex-manager",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-15T21:54:35Z",
+    "stars": 1223,
+    "name": "Infatoshi/OpenSquirrel",
+    "url": "https://github.com/Infatoshi/OpenSquirrel",
+    "lang": "Rust",
+    "desc": "For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, Codex, Cursor, and OpenCode side by side — because if you're going to be squirrely, you might as well optimize for it."
+  },
+  {
+    "createdAt": "2026-03-14T22:54:19Z",
+    "stars": 1073,
+    "name": "nikmcfly/MiroFish-Offline",
+    "url": "https://github.com/nikmcfly/MiroFish-Offline",
+    "lang": "Python",
+    "desc": "Offline multi-agent simulation & prediction engine. English fork of MiroFish with Neo4j + Ollama local stack."
+  },
+  {
+    "createdAt": "2026-03-14T20:45:40Z",
+    "stars": 1017,
+    "name": "karpathy/jobs",
+    "url": "https://github.com/karpathy/jobs",
+    "lang": "HTML",
+    "desc": "A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually."
+  },
+  {
+    "createdAt": "2026-03-16T00:42:18Z",
+    "stars": 960,
+    "name": "lcoutodemos/clui-cc",
+    "url": "https://github.com/lcoutodemos/clui-cc",
+    "lang": "TypeScript",
+    "desc": "Clui CC — Command Line User Interface for Claude Code"
+  },
+  {
+    "createdAt": "2026-03-18T17:57:50Z",
+    "stars": 837,
+    "name": "mattprusak/autoresearch-genealogy",
+    "url": "https://github.com/mattprusak/autoresearch-genealogy",
+    "lang": "",
+    "desc": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code."
+  },
+  {
+    "createdAt": "2026-03-15T22:50:46Z",
+    "stars": 820,
+    "name": "rasbt/llm-architecture-gallery",
+    "url": "https://github.com/rasbt/llm-architecture-gallery",
+    "lang": "",
+    "desc": "LLM Architecture Gallery source data"
+  },
+  {
+    "createdAt": "2026-03-18T13:26:05Z",
+    "stars": 758,
+    "name": "lxf746/any-auto-register",
+    "url": "https://github.com/lxf746/any-auto-register",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-15T14:48:09Z",
+    "stars": 736,
+    "name": "rzru/nightingale",
+    "url": "https://github.com/rzru/nightingale",
+    "lang": "Rust",
+    "desc": "Machine learning powered Karaoke app (with scores!) "
+  },
+  {
+    "createdAt": "2026-03-19T15:42:02Z",
+    "stars": 733,
+    "name": "math-inc/OpenGauss",
+    "url": "https://github.com/math-inc/OpenGauss",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-17T08:05:33Z",
+    "stars": 698,
+    "name": "frank890417/taiwan-md",
+    "url": "https://github.com/frank890417/taiwan-md",
+    "lang": "Astro",
+    "desc": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan"
+  },
+  {
+    "createdAt": "2026-03-15T07:46:32Z",
+    "stars": 626,
+    "name": "collaborator-ai/collab-public",
+    "url": "https://github.com/collaborator-ai/collab-public",
+    "lang": "Shell",
+    "desc": "Collaborator is a place to create with agents."
+  },
+  {
+    "createdAt": "2026-03-15T03:13:51Z",
+    "stars": 617,
+    "name": "sstklen/trump-code",
+    "url": "https://github.com/sstklen/trump-code",
+    "lang": "Python",
+    "desc": "🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source"
+  },
+  {
+    "createdAt": "2026-03-18T22:36:55Z",
+    "stars": 608,
+    "name": "BryanLunduke/DoesItAgeVerify",
+    "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+    "lang": "",
+    "desc": "The age verification status of Open Source Operating Systems"
+  },
+  {
+    "createdAt": "2026-03-16T20:19:30Z",
+    "stars": 582,
+    "name": "nv-tlabs/kimodo",
+    "url": "https://github.com/nv-tlabs/kimodo",
+    "lang": "Python",
+    "desc": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation."
+  },
+  {
+    "createdAt": "2026-03-16T05:04:31Z",
+    "stars": 581,
+    "name": "joeseesun/opencli-skill",
+    "url": "https://github.com/joeseesun/opencli-skill",
+    "lang": "",
+    "desc": "Use opencli CLI to interact with social/content websites (Bilibili, Zhihu, Twitter/X, YouTube, Weibo, 小红书, V2EX, Reddit, HackerNews, 雪球, BOSS直聘 etc.) "
+  },
+  {
+    "createdAt": "2026-03-19T05:39:43Z",
+    "stars": 570,
+    "name": "truongduy2611/app-store-preflight-skills",
+    "url": "https://github.com/truongduy2611/app-store-preflight-skills",
+    "lang": "",
+    "desc": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission"
+  },
+  {
+    "createdAt": "2026-03-20T19:31:34Z",
+    "stars": 562,
+    "name": "ghostty-org/ghostling",
+    "url": "https://github.com/ghostty-org/ghostling",
+    "lang": "C",
+    "desc": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
+  },
+  {
+    "createdAt": "2026-03-17T18:02:35Z",
+    "stars": 500,
+    "name": "lightningpixel/modly",
+    "url": "https://github.com/lightningpixel/modly",
+    "lang": "TypeScript",
+    "desc": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
+  },
+  {
+    "createdAt": "2026-03-20T16:52:16Z",
+    "stars": 499,
+    "name": "dontbesilent2025/dbskill",
+    "url": "https://github.com/dontbesilent2025/dbskill",
+    "lang": "",
+    "desc": "dontbesilent 的商业诊断 Skills for Claude Code"
+  },
+  {
+    "createdAt": "2026-03-16T08:43:10Z",
+    "stars": 497,
+    "name": "inspatio/inspatio-world",
+    "url": "https://github.com/inspatio/inspatio-world",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-16T20:50:50Z",
+    "stars": 486,
+    "name": "lidangzzz/goal-driven",
+    "url": "https://github.com/lidangzzz/goal-driven",
+    "lang": "",
+    "desc": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified"
+  },
+  {
+    "createdAt": "2026-03-18T16:13:13Z",
+    "stars": 483,
+    "name": "danveloper/flash-moe",
+    "url": "https://github.com/danveloper/flash-moe",
+    "lang": "Objective-C",
+    "desc": "Running a big model on a small laptop"
+  },
+  {
+    "createdAt": "2026-03-14T01:47:20Z",
+    "stars": 474,
+    "name": "wuji-labs/nopua",
+    "url": "https://github.com/wuji-labs/nopua",
+    "lang": "Python",
+    "desc": "一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent, hid failures, broke things. Then we chose respect, care, and love. They opened up, stopped lying, and found twice the bugs.There is no fear in love."
+  },
+  {
+    "createdAt": "2026-03-15T07:01:45Z",
+    "stars": 467,
+    "name": "liliMozi/openhanako",
+    "url": "https://github.com/liliMozi/openhanako",
+    "lang": "JavaScript",
+    "desc": "A personal AI agent with memory, personality, and autonomy — built on Electron."
+  },
+  {
+    "createdAt": "2026-03-16T13:26:18Z",
+    "stars": 464,
+    "name": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "url": "https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "lang": "Python",
+    "desc": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
+  },
+  {
+    "createdAt": "2026-03-15T12:04:50Z",
+    "stars": 456,
+    "name": "deusyu/translate-book",
+    "url": "https://github.com/deusyu/translate-book",
+    "lang": "Python",
+    "desc": "Claude Code skill that translates entire books (PDF/DOCX/EPUB) into any language using parallel subagents"
+  },
+  {
+    "createdAt": "2026-03-17T05:56:13Z",
+    "stars": 445,
+    "name": "wangziqi06/724-office",
+    "url": "https://github.com/wangziqi06/724-office",
+    "lang": "Python",
+    "desc": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production."
+  },
+  {
+    "createdAt": "2026-03-18T02:20:03Z",
+    "stars": 443,
+    "name": "leo-lilinxiao/codex-autoresearch",
+    "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
+    "lang": "Python",
+    "desc": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+  },
+  {
+    "createdAt": "2026-03-15T03:32:58Z",
+    "stars": 428,
+    "name": "iamlukethedev/Claw3D",
+    "url": "https://github.com/iamlukethedev/Claw3D",
+    "lang": "TypeScript",
+    "desc": "Claw3D is an open source 3D engine built on OpenClaw for creating games, simulations, and high-performance 3D applications."
+  },
+  {
+    "createdAt": "2026-03-18T07:36:09Z",
+    "stars": 420,
+    "name": "olelehmann100kMRR/autoresearch-skill",
+    "url": "https://github.com/olelehmann100kMRR/autoresearch-skill",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-15T11:27:17Z",
+    "stars": 400,
+    "name": "ethanweber/posterskill",
+    "url": "https://github.com/ethanweber/posterskill",
+    "lang": "HTML",
+    "desc": "AI-assisted academic posters."
+  },
+  {
+    "createdAt": "2026-03-16T08:04:23Z",
+    "stars": 394,
+    "name": "naver-ai/seoul-world-model",
+    "url": "https://github.com/naver-ai/seoul-world-model",
+    "lang": "",
+    "desc": "Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis"
+  },
+  {
+    "createdAt": "2026-03-16T20:55:38Z",
+    "stars": 390,
+    "name": "romhans59/bunkr-downloader-2026",
+    "url": "https://github.com/romhans59/bunkr-downloader-2026",
+    "lang": "",
+    "desc": "Fast Bunkr downloader for Windows. Download albums, files, and media with one click. Portable EXE, batch mode and many more. Free and open source."
+  },
+  {
+    "createdAt": "2026-03-16T17:18:58Z",
+    "stars": 374,
+    "name": "dev-protocoI/polymarket-copytrading-bot-sport",
+    "url": "https://github.com/dev-protocoI/polymarket-copytrading-bot-sport",
+    "lang": "TypeScript",
+    "desc": "🥇Polymarket Copy trading Bot Sport🥇polymarket trading bot polymarket trading bot polymarket arbitrage bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket"
+  },
+  {
+    "createdAt": "2026-03-15T12:14:53Z",
+    "stars": 373,
+    "name": "kaima2022/ABCard",
+    "url": "https://github.com/kaima2022/ABCard",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-18T09:52:54Z",
+    "stars": 367,
+    "name": "win4r/ClawTeam-OpenClaw",
+    "url": "https://github.com/win4r/ClawTeam-OpenClaw",
+    "lang": "Python",
+    "desc": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent"
+  },
+  {
+    "createdAt": "2026-03-16T18:36:14Z",
+    "stars": 365,
+    "name": "Krypto-Hashers-Community/polymarket-trading-bot",
+    "url": "https://github.com/Krypto-Hashers-Community/polymarket-trading-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
+  },
+  {
+    "createdAt": "2026-03-15T15:30:53Z",
+    "stars": 342,
+    "name": "peters/horizon",
+    "url": "https://github.com/peters/horizon",
+    "lang": "Rust",
+    "desc": "GPU-accelerated spatial terminal observatory — manage terminals, AI agents, and dev tools on an infinite canvas"
+  },
+  {
+    "createdAt": "2026-03-15T13:37:32Z",
+    "stars": 335,
+    "name": "JoshKale/jobs",
+    "url": "https://github.com/JoshKale/jobs",
+    "lang": "HTML",
+    "desc": ""
+  }
+]
