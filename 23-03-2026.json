@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-03-17T07:19:25Z",
+    "stars": 3223,
+    "name": "MiniMax-AI/skills",
+    "url": "https://github.com/MiniMax-AI/skills",
+    "lang": "C#",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-17T14:42:46Z",
+    "stars": 3142,
+    "name": "HKUDS/ClawTeam",
+    "url": "https://github.com/HKUDS/ClawTeam",
+    "lang": "Python",
+    "desc": "ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)"
+  },
+  {
+    "createdAt": "2026-03-17T12:26:20Z",
+    "stars": 2250,
+    "name": "VoltAgent/awesome-codex-subagents",
+    "url": "https://github.com/VoltAgent/awesome-codex-subagents",
+    "lang": "",
+    "desc": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases."
+  },
+  {
+    "createdAt": "2026-03-18T16:13:13Z",
+    "stars": 1637,
+    "name": "danveloper/flash-moe",
+    "url": "https://github.com/danveloper/flash-moe",
+    "lang": "Objective-C",
+    "desc": "Running a big model on a small laptop"
+  },
+  {
+    "createdAt": "2026-03-20T16:52:16Z",
+    "stars": 1245,
+    "name": "dontbesilent2025/dbskill",
+    "url": "https://github.com/dontbesilent2025/dbskill",
+    "lang": "",
+    "desc": "dontbesilent 的商业诊断 Skills for Claude Code"
+  },
+  {
+    "createdAt": "2026-03-19T15:42:02Z",
+    "stars": 1057,
+    "name": "math-inc/OpenGauss",
+    "url": "https://github.com/math-inc/OpenGauss",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-16T00:42:18Z",
+    "stars": 1048,
+    "name": "lcoutodemos/clui-cc",
+    "url": "https://github.com/lcoutodemos/clui-cc",
+    "lang": "TypeScript",
+    "desc": "Clui CC — Command Line User Interface for Claude Code"
+  },
+  {
+    "createdAt": "2026-03-18T13:26:05Z",
+    "stars": 1028,
+    "name": "lxf746/any-auto-register",
+    "url": "https://github.com/lxf746/any-auto-register",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-21T04:42:50Z",
+    "stars": 919,
+    "name": "louislva/claude-peers-mcp",
+    "url": "https://github.com/louislva/claude-peers-mcp",
+    "lang": "TypeScript",
+    "desc": "Allow all your Claude Codes to message each other ad-hoc!"
+  },
+  {
+    "createdAt": "2026-03-18T17:57:50Z",
+    "stars": 901,
+    "name": "mattprusak/autoresearch-genealogy",
+    "url": "https://github.com/mattprusak/autoresearch-genealogy",
+    "lang": "",
+    "desc": "Structured prompts, vault templates, and archive guides for AI-assisted genealogy research. Built for Claude Code."
+  },
+  {
+    "createdAt": "2026-03-19T05:39:43Z",
+    "stars": 895,
+    "name": "truongduy2611/app-store-preflight-skills",
+    "url": "https://github.com/truongduy2611/app-store-preflight-skills",
+    "lang": "",
+    "desc": "AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission"
+  },
+  {
+    "createdAt": "2026-03-17T08:05:33Z",
+    "stars": 798,
+    "name": "frank890417/taiwan-md",
+    "url": "https://github.com/frank890417/taiwan-md",
+    "lang": "Astro",
+    "desc": "🇹🇼 讓全世界完整認識台灣 | An open-source, AI-friendly knowledge base about Taiwan"
+  },
+  {
+    "createdAt": "2026-03-20T19:31:34Z",
+    "stars": 764,
+    "name": "ghostty-org/ghostling",
+    "url": "https://github.com/ghostty-org/ghostling",
+    "lang": "C",
+    "desc": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
+  },
+  {
+    "createdAt": "2026-03-18T22:36:55Z",
+    "stars": 764,
+    "name": "BryanLunduke/DoesItAgeVerify",
+    "url": "https://github.com/BryanLunduke/DoesItAgeVerify",
+    "lang": "",
+    "desc": "The age verification status of Open Source Operating Systems"
+  },
+  {
+    "createdAt": "2026-03-22T03:57:01Z",
+    "stars": 736,
+    "name": "wong2/weixin-agent-sdk",
+    "url": "https://github.com/wong2/weixin-agent-sdk",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-18T02:20:03Z",
+    "stars": 719,
+    "name": "leo-lilinxiao/codex-autoresearch",
+    "url": "https://github.com/leo-lilinxiao/codex-autoresearch",
+    "lang": "Python",
+    "desc": "Codex Autoresearch Skill — A self-directed iterative system for Codex that continuously cycles through: modify, verify, retain or discard, and repeat indefinitely. Inspired by Karpathy’s autoresearch concept."
+  },
+  {
+    "createdAt": "2026-03-16T20:19:30Z",
+    "stars": 712,
+    "name": "nv-tlabs/kimodo",
+    "url": "https://github.com/nv-tlabs/kimodo",
+    "lang": "Python",
+    "desc": "Official implementation of Kimodo, a kinematic motion diffusion model for high-quality human(oid) motion generation."
+  },
+  {
+    "createdAt": "2026-03-18T05:54:57Z",
+    "stars": 711,
+    "name": "eze-is/web-access",
+    "url": "https://github.com/eze-is/web-access",
+    "lang": "JavaScript",
+    "desc": "给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治"
+  },
+  {
+    "createdAt": "2026-03-17T05:56:13Z",
+    "stars": 691,
+    "name": "wangziqi06/724-office",
+    "url": "https://github.com/wangziqi06/724-office",
+    "lang": "Python",
+    "desc": "7/24 Office — Self-evolving AI Agent system. 26 tools, 3500 lines pure Python, MCP/Skill plugins, three-layer memory, self-repair, 24/7 production."
+  },
+  {
+    "createdAt": "2026-03-21T14:50:54Z",
+    "stars": 679,
+    "name": "dou-jiang/codex-console",
+    "url": "https://github.com/dou-jiang/codex-console",
+    "lang": "Python",
+    "desc": "codex-console 是一个集成化控制台项目，支持任务管理、批量处理、数据导出、自动上传、日志查看与打包支持。"
+  },
+  {
+    "createdAt": "2026-03-17T18:02:35Z",
+    "stars": 645,
+    "name": "lightningpixel/modly",
+    "url": "https://github.com/lightningpixel/modly",
+    "lang": "TypeScript",
+    "desc": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU"
+  },
+  {
+    "createdAt": "2026-03-16T05:04:31Z",
+    "stars": 610,
+    "name": "joeseesun/opencli-skill",
+    "url": "https://github.com/joeseesun/opencli-skill",
+    "lang": "",
+    "desc": "Use opencli CLI to interact with social/content websites (Bilibili, Zhihu, Twitter/X, YouTube, Weibo, 小红书, V2EX, Reddit, HackerNews, 雪球, BOSS直聘 etc.) "
+  },
+  {
+    "createdAt": "2026-03-18T09:52:54Z",
+    "stars": 599,
+    "name": "win4r/ClawTeam-OpenClaw",
+    "url": "https://github.com/win4r/ClawTeam-OpenClaw",
+    "lang": "Python",
+    "desc": "ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent"
+  },
+  {
+    "createdAt": "2026-03-21T10:26:03Z",
+    "stars": 591,
+    "name": "ccbkkb/MicroWARP",
+    "url": "https://github.com/ccbkkb/MicroWARP",
+    "lang": "Shell",
+    "desc": "🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker"
+  },
+  {
+    "createdAt": "2026-03-16T08:43:10Z",
+    "stars": 560,
+    "name": "inspatio/inspatio-world",
+    "url": "https://github.com/inspatio/inspatio-world",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-16T20:50:50Z",
+    "stars": 558,
+    "name": "lidangzzz/goal-driven",
+    "url": "https://github.com/lidangzzz/goal-driven",
+    "lang": "",
+    "desc": "A multi-agent system that keeps running for ~100 hours and solve a very complicated coding or math problem that can be verified"
+  },
+  {
+    "createdAt": "2026-03-16T13:26:18Z",
+    "stars": 508,
+    "name": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "url": "https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
+    "lang": "Python",
+    "desc": "Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end geolocation SaaS platforms but runs entirely on your local hardware."
+  },
+  {
+    "createdAt": "2026-03-22T03:49:14Z",
+    "stars": 508,
+    "name": "m1heng/claude-plugin-weixin",
+    "url": "https://github.com/m1heng/claude-plugin-weixin",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-18T17:17:12Z",
+    "stars": 506,
+    "name": "Shpigford/chops",
+    "url": "https://github.com/Shpigford/chops",
+    "lang": "Swift",
+    "desc": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp."
+  },
+  {
+    "createdAt": "2026-03-18T07:36:09Z",
+    "stars": 503,
+    "name": "olelehmann100kMRR/autoresearch-skill",
+    "url": "https://github.com/olelehmann100kMRR/autoresearch-skill",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-21T07:52:53Z",
+    "stars": 502,
+    "name": "gnekt/My-Brain-Is-Full-Crew",
+    "url": "https://github.com/gnekt/My-Brain-Is-Full-Crew",
+    "lang": "Shell",
+    "desc": "Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness."
+  },
+  {
+    "createdAt": "2026-03-20T18:51:13Z",
+    "stars": 481,
+    "name": "openyak/desktop",
+    "url": "https://github.com/openyak/desktop",
+    "lang": "Python",
+    "desc": "Yak is all you need"
+  },
+  {
+    "createdAt": "2026-03-22T14:52:35Z",
+    "stars": 440,
+    "name": "fastclaw-ai/weclaw",
+    "url": "https://github.com/fastclaw-ai/weclaw",
+    "lang": "Go",
+    "desc": "Connect to any agents with WeChat ClawBot."
+  },
+  {
+    "createdAt": "2026-03-16T08:04:23Z",
+    "stars": 436,
+    "name": "naver-ai/seoul-world-model",
+    "url": "https://github.com/naver-ai/seoul-world-model",
+    "lang": "",
+    "desc": "Seoul World Model: Grounding World Simulation Models in a Real-World Metropolis"
+  },
+  {
+    "createdAt": "2026-03-16T18:36:14Z",
+    "stars": 407,
+    "name": "Krypto-Hashers-Community/polymarket-trading-bot",
+    "url": "https://github.com/Krypto-Hashers-Community/polymarket-trading-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot"
+  },
+  {
+    "createdAt": "2026-03-20T17:01:49Z",
+    "stars": 392,
+    "name": "vercel-labs/emulate",
+    "url": "https://github.com/vercel-labs/emulate",
+    "lang": "TypeScript",
+    "desc": "Local API emulation for CI and no-network sandboxes"
+  },
+  {
+    "createdAt": "2026-03-18T18:38:02Z",
+    "stars": 389,
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "lang": "Python",
+    "desc": "Learn it. Build it. Ship it for others."
+  },
+  {
+    "createdAt": "2026-03-19T21:35:23Z",
+    "stars": 386,
+    "name": "griffinmartin/opencode-claude-auth",
+    "url": "https://github.com/griffinmartin/opencode-claude-auth",
+    "lang": "TypeScript",
+    "desc": "OpenCode plugin that uses your existing Claude Code credentials — no separate login needed"
+  },
+  {
+    "createdAt": "2026-03-16T17:18:58Z",
+    "stars": 372,
+    "name": "dev-protocoI/polymarket-copy-trading-bot-sport",
+    "url": "https://github.com/dev-protocoI/polymarket-copy-trading-bot-sport",
+    "lang": "TypeScript",
+    "desc": "🥇Polymarket trading Bot Sport🥇Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket "
+  },
+  {
+    "createdAt": "2026-03-21T19:16:51Z",
+    "stars": 361,
+    "name": "xiaolajiaoyyds/regplatformm",
+    "url": "https://github.com/xiaolajiaoyyds/regplatformm",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-22T21:25:01Z",
+    "stars": 335,
+    "name": "zarazhangrui/codebase-to-course",
+    "url": "https://github.com/zarazhangrui/codebase-to-course",
+    "lang": "",
+    "desc": "A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders."
+  },
+  {
+    "createdAt": "2026-03-18T22:47:12Z",
+    "stars": 331,
+    "name": "eggricesoy/filmkit",
+    "url": "https://github.com/eggricesoy/filmkit",
+    "lang": "TypeScript",
+    "desc": "Create and manage Fujifilm camera profiles, with ease and speed. Connect your camera and you are good to go!"
+  },
+  {
+    "createdAt": "2026-03-22T00:39:59Z",
+    "stars": 330,
+    "name": "bramcohen/manyana",
+    "url": "https://github.com/bramcohen/manyana",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-18T23:42:49Z",
+    "stars": 327,
+    "name": "creationix/rx",
+    "url": "https://github.com/creationix/rx",
+    "lang": "TypeScript",
+    "desc": "RX encoder, decoder, and CLI data tool"
+  },
+  {
+    "createdAt": "2026-03-16T11:21:49Z",
+    "stars": 327,
+    "name": "huggingface/hf-agents",
+    "url": "https://github.com/huggingface/hf-agents",
+    "lang": "Shell",
+    "desc": "HF CLI extension to run local coding agent powered by llmfit and llama.cpp"
+  },
+  {
+    "createdAt": "2026-03-16T03:53:39Z",
+    "stars": 323,
+    "name": "libtv-labs/libtv-skills",
+    "url": "https://github.com/libtv-labs/libtv-skills",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-16T22:26:10Z",
+    "stars": 317,
+    "name": "NeoVertex1/nuggets",
+    "url": "https://github.com/NeoVertex1/nuggets",
+    "lang": "TypeScript",
+    "desc": "First AI assistant with holographic memory"
+  },
+  {
+    "createdAt": "2026-03-18T17:17:38Z",
+    "stars": 316,
+    "name": "mshumer/unslop",
+    "url": "https://github.com/mshumer/unslop",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-18T06:25:06Z",
+    "stars": 311,
+    "name": "avinash201199/DSA-KIT",
+    "url": "https://github.com/avinash201199/DSA-KIT",
+    "lang": "",
+    "desc": "A curated collection of DSA resources, problem sheets, roadmaps, and tools to help you go from zero to interview-ready."
+  },
+  {
+    "createdAt": "2026-03-16T06:50:00Z",
+    "stars": 307,
+    "name": "ru-yee/Life-Agent-RU-YEE",
+    "url": "https://github.com/ru-yee/Life-Agent-RU-YEE",
+    "lang": "",
+    "desc": "Life Agent RU YEE — An AI-powered life management agent that autonomously        handles daily routines including meal planning, grocery shopping, schedule    coordination, and household task automation via cloud-based mobile agents."
+  }
+]
