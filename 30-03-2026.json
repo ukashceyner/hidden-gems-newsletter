@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-03-23T19:16:00Z",
+    "stars": 5674,
+    "name": "slavingia/skills",
+    "url": "https://github.com/slavingia/skills",
+    "lang": "",
+    "desc": "Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia"
+  },
+  {
+    "createdAt": "2026-03-25T07:13:30Z",
+    "stars": 4605,
+    "name": "larksuite/cli",
+    "url": "https://github.com/larksuite/cli",
+    "lang": "Go",
+    "desc": "A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+  },
+  {
+    "createdAt": "2026-03-24T08:01:49Z",
+    "stars": 2847,
+    "name": "HKUDS/OpenSpace",
+    "url": "https://github.com/HKUDS/OpenSpace",
+    "lang": "Python",
+    "desc": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/"
+  },
+  {
+    "createdAt": "2026-03-26T12:46:35Z",
+    "stars": 2506,
+    "name": "magnum6actual/flipoff",
+    "url": "https://github.com/magnum6actual/flipoff",
+    "lang": "JavaScript",
+    "desc": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware."
+  },
+  {
+    "createdAt": "2026-03-25T17:43:02Z",
+    "stars": 2238,
+    "name": "elder-plinius/G0DM0D3",
+    "url": "https://github.com/elder-plinius/G0DM0D3",
+    "lang": "TypeScript",
+    "desc": "LIBERATED AI CHAT"
+  },
+  {
+    "createdAt": "2026-03-24T15:58:22Z",
+    "stars": 2048,
+    "name": "alvinunreal/awesome-opensource-ai",
+    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+    "lang": "",
+    "desc": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure."
+  },
+  {
+    "createdAt": "2026-03-25T01:35:36Z",
+    "stars": 1584,
+    "name": "TheTom/turboquant_plus",
+    "url": "https://github.com/TheTom/turboquant_plus",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-28T16:17:01Z",
+    "stars": 1266,
+    "name": "qiuzhi2046/Qclaw",
+    "url": "https://github.com/qiuzhi2046/Qclaw",
+    "lang": "TypeScript",
+    "desc": "不用命令行，小白也能轻松玩转 OpenClaw"
+  },
+  {
+    "createdAt": "2026-03-23T12:29:29Z",
+    "stars": 1069,
+    "name": "opa334/darksword-kexploit",
+    "url": "https://github.com/opa334/darksword-kexploit",
+    "lang": "Objective-C",
+    "desc": "iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C"
+  },
+  {
+    "createdAt": "2026-03-24T10:28:01Z",
+    "stars": 1039,
+    "name": "facebookresearch/tribev2",
+    "url": "https://github.com/facebookresearch/tribev2",
+    "lang": "Jupyter Notebook",
+    "desc": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction"
+  },
+  {
+    "createdAt": "2026-03-24T03:04:29Z",
+    "stars": 1021,
+    "name": "nashsu/opencli-rs",
+    "url": "https://github.com/nashsu/opencli-rs",
+    "lang": "Rust",
+    "desc": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)"
+  },
+  {
+    "createdAt": "2026-03-29T09:13:27Z",
+    "stars": 1020,
+    "name": "yetone/voice-input-src",
+    "url": "https://github.com/yetone/voice-input-src",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-26T14:18:54Z",
+    "stars": 930,
+    "name": "oaker-io/wewrite",
+    "url": "https://github.com/oaker-io/wewrite",
+    "lang": "Python",
+    "desc": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
+  },
+  {
+    "createdAt": "2026-03-26T00:38:54Z",
+    "stars": 929,
+    "name": "jxnxts/mcp-brasil",
+    "url": "https://github.com/jxnxts/mcp-brasil",
+    "lang": "Python",
+    "desc": "MCP Server para 41 APIs públicas brasileiras"
+  },
+  {
+    "createdAt": "2026-03-29T05:06:59Z",
+    "stars": 913,
+    "name": "WecomTeam/wecom-cli",
+    "url": "https://github.com/WecomTeam/wecom-cli",
+    "lang": "Rust",
+    "desc": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
+  },
+  {
+    "createdAt": "2026-03-24T03:44:52Z",
+    "stars": 870,
+    "name": "LimHyungTae/Awesome-PhD-CV",
+    "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
+    "lang": "TeX",
+    "desc": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants."
+  },
+  {
+    "createdAt": "2026-03-25T13:03:51Z",
+    "stars": 859,
+    "name": "Michaelliv/markit",
+    "url": "https://github.com/Michaelliv/markit",
+    "lang": "TypeScript",
+    "desc": "🖍️ Convert anything to markdown. Mark it."
+  },
+  {
+    "createdAt": "2026-03-27T18:20:01Z",
+    "stars": 839,
+    "name": "legalize-dev/legalize-es",
+    "url": "https://github.com/legalize-dev/legalize-es",
+    "lang": "",
+    "desc": "Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws."
+  },
+  {
+    "createdAt": "2026-03-24T16:39:30Z",
+    "stars": 811,
+    "name": "NomaDamas/k-skill",
+    "url": "https://github.com/NomaDamas/k-skill",
+    "lang": "JavaScript",
+    "desc": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등..."
+  },
+  {
+    "createdAt": "2026-03-24T09:15:02Z",
+    "stars": 769,
+    "name": "marswaveai/TypeNo",
+    "url": "https://github.com/marswaveai/TypeNo",
+    "lang": "Swift",
+    "desc": "A free, open source, privacy-first voice input app for macOS."
+  },
+  {
+    "createdAt": "2026-03-26T21:22:07Z",
+    "stars": 753,
+    "name": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "lang": "HTML",
+    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+  },
+  {
+    "createdAt": "2026-03-27T10:26:52Z",
+    "stars": 741,
+    "name": "garinasset/leak-check",
+    "url": "https://github.com/garinasset/leak-check",
+    "lang": "Python",
+    "desc": "个人信息 “泄漏” 检测接口"
+  },
+  {
+    "createdAt": "2026-03-23T04:28:40Z",
+    "stars": 683,
+    "name": "ryanstephen/lil-agents",
+    "url": "https://github.com/ryanstephen/lil-agents",
+    "lang": "Swift",
+    "desc": "tiny AI companions that live on your macOS dock"
+  },
+  {
+    "createdAt": "2026-03-26T13:30:40Z",
+    "stars": 636,
+    "name": "glommer/pgmicro",
+    "url": "https://github.com/glommer/pgmicro",
+    "lang": "Rust",
+    "desc": "An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine"
+  },
+  {
+    "createdAt": "2026-03-29T11:29:37Z",
+    "stars": 632,
+    "name": "walkinglabs/awesome-harness-engineering",
+    "url": "https://github.com/walkinglabs/awesome-harness-engineering",
+    "lang": "",
+    "desc": "🛠️ Awesome tools & guides for harness engineering."
+  },
+  {
+    "createdAt": "2026-03-25T08:03:23Z",
+    "stars": 631,
+    "name": "tonbistudio/turboquant-pytorch",
+    "url": "https://github.com/tonbistudio/turboquant-pytorch",
+    "lang": "Python",
+    "desc": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity."
+  },
+  {
+    "createdAt": "2026-03-23T05:34:37Z",
+    "stars": 595,
+    "name": "0xNyk/awesome-hermes-agent",
+    "url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "lang": "",
+    "desc": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research"
+  },
+  {
+    "createdAt": "2026-03-30T15:29:52Z",
+    "stars": 593,
+    "name": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "lang": "JavaScript",
+    "desc": "Use Codex from Claude Code to review code or delegate tasks."
+  },
+  {
+    "createdAt": "2026-03-28T02:04:16Z",
+    "stars": 534,
+    "name": "adamlyttleapps/notchy",
+    "url": "https://github.com/adamlyttleapps/notchy",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-27T12:15:42Z",
+    "stars": 518,
+    "name": "happyboy4ty25/pump-analyzer",
+    "url": "https://github.com/happyboy4ty25/pump-analyzer",
+    "lang": "",
+    "desc": "Real-time monitoring & analytics platform for Pump.fun tokens. Track launches, analyze trends, and get instant alerts — powered by WebSockets. Built with HTML, CSS & JavaScript."
+  },
+  {
+    "createdAt": "2026-03-26T07:58:48Z",
+    "stars": 501,
+    "name": "realkimbarrett/advertising-skills",
+    "url": "https://github.com/realkimbarrett/advertising-skills",
+    "lang": "",
+    "desc": "Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems."
+  },
+  {
+    "createdAt": "2026-03-23T22:08:54Z",
+    "stars": 480,
+    "name": "walter-grace/mac-code",
+    "url": "https://github.com/walter-grace/mac-code",
+    "lang": "Python",
+    "desc": "mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month. "
+  },
+  {
+    "createdAt": "2026-03-24T22:27:58Z",
+    "stars": 472,
+    "name": "Nahuel990/ministack",
+    "url": "https://github.com/Nahuel990/ministack",
+    "lang": "Python",
+    "desc": "Ministack: the free LocalStack replacement"
+  },
+  {
+    "createdAt": "2026-03-24T03:33:22Z",
+    "stars": 469,
+    "name": "AAAAAAAJ/slides",
+    "url": "https://github.com/AAAAAAAJ/slides",
+    "lang": "Python",
+    "desc": "slides generates prompts for various expression styles"
+  },
+  {
+    "createdAt": "2026-03-28T06:38:18Z",
+    "stars": 468,
+    "name": "LeoYeAI/openclaw-auto-dream",
+    "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
+    "lang": "HTML",
+    "desc": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai"
+  },
+  {
+    "createdAt": "2026-03-25T20:32:26Z",
+    "stars": 454,
+    "name": "0xSero/turboquant",
+    "url": "https://github.com/0xSero/turboquant",
+    "lang": "Python",
+    "desc": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
+  },
+  {
+    "createdAt": "2026-03-30T05:22:23Z",
+    "stars": 453,
+    "name": "titanwings/colleague-skill",
+    "url": "https://github.com/titanwings/colleague-skill",
+    "lang": "Python",
+    "desc": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类"
+  },
+  {
+    "createdAt": "2026-03-24T12:08:06Z",
+    "stars": 428,
+    "name": "Timeverse/My-TW-Coverage",
+    "url": "https://github.com/Timeverse/My-TW-Coverage",
+    "lang": "Python",
+    "desc": "Equity research coverage of 1,735 Taiwan-listed companies (TWSE + OTC). Business overviews, supply chain mapping, and financial data with wikilink cross-referencing."
+  },
+  {
+    "createdAt": "2026-03-29T08:44:09Z",
+    "stars": 417,
+    "name": "hitmux/HitCC",
+    "url": "https://github.com/hitmux/HitCC",
+    "lang": "Python",
+    "desc": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84"
+  },
+  {
+    "createdAt": "2026-03-23T07:38:25Z",
+    "stars": 404,
+    "name": "apechurch/polymarket-arbitrage-trading-bot",
+    "url": "https://github.com/apechurch/polymarket-arbitrage-trading-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot, polymarket arbitrage bot"
+  },
+  {
+    "createdAt": "2026-03-24T18:22:34Z",
+    "stars": 402,
+    "name": "productdevbook/hucre",
+    "url": "https://github.com/productdevbook/hucre",
+    "lang": "TypeScript",
+    "desc": "Zero-dependency spreadsheet engine. Read & write XLSX, CSV, ODS. Pure TypeScript, works everywhere."
+  },
+  {
+    "createdAt": "2026-03-27T12:27:41Z",
+    "stars": 392,
+    "name": "krzyzanowskim/claude-better",
+    "url": "https://github.com/krzyzanowskim/claude-better",
+    "lang": "",
+    "desc": "better claude harness"
+  },
+  {
+    "createdAt": "2026-03-25T14:22:53Z",
+    "stars": 390,
+    "name": "ryfineZ/codex-session-patcher",
+    "url": "https://github.com/ryfineZ/codex-session-patcher",
+    "lang": "Python",
+    "desc": "A lightweight Python tool to clean AI refusal responses from Codex CLI session files"
+  },
+  {
+    "createdAt": "2026-03-29T12:20:23Z",
+    "stars": 390,
+    "name": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-24T00:07:29Z",
+    "stars": 366,
+    "name": "james-6-23/codex2api",
+    "url": "https://github.com/james-6-23/codex2api",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-29T19:59:07Z",
+    "stars": 366,
+    "name": "dreddnafious/thereisnospoon",
+    "url": "https://github.com/dreddnafious/thereisnospoon",
+    "lang": "Python",
+    "desc": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems."
+  },
+  {
+    "createdAt": "2026-03-23T14:21:00Z",
+    "stars": 346,
+    "name": "formulahendry/wechat-acp",
+    "url": "https://github.com/formulahendry/wechat-acp",
+    "lang": "TypeScript",
+    "desc": "Bridge WeChat chat messages to any ACP-compatible AI agent (Claude, Codex, Copilot, Qwen, Gemini, OpenCode and more)"
+  },
+  {
+    "createdAt": "2026-03-25T17:08:56Z",
+    "stars": 336,
+    "name": "maria-rcks/t1code",
+    "url": "https://github.com/maria-rcks/t1code",
+    "lang": "TypeScript",
+    "desc": "T3Code, but in your terminal"
+  },
+  {
+    "createdAt": "2026-03-24T09:13:18Z",
+    "stars": 332,
+    "name": "ShandaAI/WildWorld",
+    "url": "https://github.com/ShandaAI/WildWorld",
+    "lang": "",
+    "desc": "WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG"
+  },
+  {
+    "createdAt": "2026-03-23T19:48:59Z",
+    "stars": 330,
+    "name": "yvgude/lean-ctx",
+    "url": "https://github.com/yvgude/lean-ctx",
+    "lang": "Rust",
+    "desc": "Hybrid Context Optimizer — Shell Hook + MCP Server. Reduces LLM token consumption by 89-99%. Single Rust binary, zero dependencies."
+  }
+]
