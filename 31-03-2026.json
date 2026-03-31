@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-03-31T08:58:08Z",
+    "stars": 53011,
+    "name": "instructkr/claw-code",
+    "url": "https://github.com/instructkr/claw-code",
+    "lang": "Rust",
+    "desc": "Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust."
+  },
+  {
+    "createdAt": "2026-03-31T09:38:18Z",
+    "stars": 6117,
+    "name": "nirholas/claude-code",
+    "url": "https://github.com/nirholas/claude-code",
+    "lang": "TypeScript",
+    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+  },
+  {
+    "createdAt": "2026-03-30T15:29:52Z",
+    "stars": 5518,
+    "name": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "lang": "JavaScript",
+    "desc": "Use Codex from Claude Code to review code or delegate tasks."
+  },
+  {
+    "createdAt": "2026-03-25T07:13:30Z",
+    "stars": 5432,
+    "name": "larksuite/cli",
+    "url": "https://github.com/larksuite/cli",
+    "lang": "Go",
+    "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+  },
+  {
+    "createdAt": "2026-03-31T08:15:54Z",
+    "stars": 4191,
+    "name": "ChinaSiro/claude-code-sourcemap",
+    "url": "https://github.com/ChinaSiro/claude-code-sourcemap",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-25T01:35:36Z",
+    "stars": 3740,
+    "name": "TheTom/turboquant_plus",
+    "url": "https://github.com/TheTom/turboquant_plus",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-30T05:22:23Z",
+    "stars": 3332,
+    "name": "titanwings/colleague-skill",
+    "url": "https://github.com/titanwings/colleague-skill",
+    "lang": "Python",
+    "desc": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！"
+  },
+  {
+    "createdAt": "2026-03-31T09:07:08Z",
+    "stars": 3306,
+    "name": "sanbuphy/claude-code-source-code",
+    "url": "https://github.com/sanbuphy/claude-code-source-code",
+    "lang": "TypeScript",
+    "desc": "Claude Code v2.1.88 Source Code"
+  },
+  {
+    "createdAt": "2026-03-24T08:01:49Z",
+    "stars": 3132,
+    "name": "HKUDS/OpenSpace",
+    "url": "https://github.com/HKUDS/OpenSpace",
+    "lang": "Python",
+    "desc": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/"
+  },
+  {
+    "createdAt": "2026-03-31T09:23:58Z",
+    "stars": 2778,
+    "name": "Kuberwastaken/claude-code",
+    "url": "https://github.com/Kuberwastaken/claude-code",
+    "lang": "Rust",
+    "desc": "Claude Code in Rust & a Breakdown of How it Works"
+  },
+  {
+    "createdAt": "2026-03-26T12:46:35Z",
+    "stars": 2549,
+    "name": "magnum6actual/flipoff",
+    "url": "https://github.com/magnum6actual/flipoff",
+    "lang": "JavaScript",
+    "desc": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware."
+  },
+  {
+    "createdAt": "2026-03-25T17:43:02Z",
+    "stars": 2429,
+    "name": "elder-plinius/G0DM0D3",
+    "url": "https://github.com/elder-plinius/G0DM0D3",
+    "lang": "TypeScript",
+    "desc": "LIBERATED AI CHAT"
+  },
+  {
+    "createdAt": "2026-03-24T15:58:22Z",
+    "stars": 2176,
+    "name": "alvinunreal/awesome-opensource-ai",
+    "url": "https://github.com/alvinunreal/awesome-opensource-ai",
+    "lang": "",
+    "desc": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure."
+  },
+  {
+    "createdAt": "2026-03-27T10:26:52Z",
+    "stars": 1608,
+    "name": "garinasset/leak-check",
+    "url": "https://github.com/garinasset/leak-check",
+    "lang": "Python",
+    "desc": "个人信息 “泄漏” 检测接口"
+  },
+  {
+    "createdAt": "2026-03-30T12:59:07Z",
+    "stars": 1585,
+    "name": "drona23/claude-token-efficient",
+    "url": "https://github.com/drona23/claude-token-efficient",
+    "lang": "",
+    "desc": "Universal CLAUDE.md - cut Claude output tokens by 63%. Drop-in. No code changes."
+  },
+  {
+    "createdAt": "2026-03-28T16:17:01Z",
+    "stars": 1516,
+    "name": "qiuzhi2046/Qclaw",
+    "url": "https://github.com/qiuzhi2046/Qclaw",
+    "lang": "TypeScript",
+    "desc": "不用命令行，小白也能轻松玩转 OpenClaw"
+  },
+  {
+    "createdAt": "2026-03-29T05:06:59Z",
+    "stars": 1237,
+    "name": "WecomTeam/wecom-cli",
+    "url": "https://github.com/WecomTeam/wecom-cli",
+    "lang": "Rust",
+    "desc": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
+  },
+  {
+    "createdAt": "2026-03-31T09:17:51Z",
+    "stars": 1234,
+    "name": "chatgptprojects/claude-code",
+    "url": "https://github.com/chatgptprojects/claude-code",
+    "lang": "TypeScript",
+    "desc": "https://x.com/paidev"
+  },
+  {
+    "createdAt": "2026-03-29T09:13:27Z",
+    "stars": 1205,
+    "name": "yetone/voice-input-src",
+    "url": "https://github.com/yetone/voice-input-src",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-26T21:22:07Z",
+    "stars": 1185,
+    "name": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "lang": "HTML",
+    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+  },
+  {
+    "createdAt": "2026-03-24T10:28:01Z",
+    "stars": 1156,
+    "name": "facebookresearch/tribev2",
+    "url": "https://github.com/facebookresearch/tribev2",
+    "lang": "Jupyter Notebook",
+    "desc": "This repository contains the code to train and evaluate TRIBE v2, a multimodal model for brain response prediction"
+  },
+  {
+    "createdAt": "2026-03-24T03:04:29Z",
+    "stars": 1050,
+    "name": "nashsu/opencli-rs",
+    "url": "https://github.com/nashsu/opencli-rs",
+    "lang": "Rust",
+    "desc": "Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, and 55+ sites, with support for controlling Electron desktop apps, integrating local CLI tools (gh, docker, kubectl)"
+  },
+  {
+    "createdAt": "2026-03-26T00:38:54Z",
+    "stars": 981,
+    "name": "jxnxts/mcp-brasil",
+    "url": "https://github.com/jxnxts/mcp-brasil",
+    "lang": "Python",
+    "desc": "MCP Server para 41 APIs públicas brasileiras"
+  },
+  {
+    "createdAt": "2026-03-26T14:18:54Z",
+    "stars": 980,
+    "name": "oaker-io/wewrite",
+    "url": "https://github.com/oaker-io/wewrite",
+    "lang": "Python",
+    "desc": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
+  },
+  {
+    "createdAt": "2026-03-31T11:47:04Z",
+    "stars": 976,
+    "name": "Leonxlnx/claude-code-system-prompts",
+    "url": "https://github.com/Leonxlnx/claude-code-system-prompts",
+    "lang": "",
+    "desc": "Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification"
+  },
+  {
+    "createdAt": "2026-03-25T13:03:51Z",
+    "stars": 951,
+    "name": "Michaelliv/markit",
+    "url": "https://github.com/Michaelliv/markit",
+    "lang": "TypeScript",
+    "desc": "🖍️ Convert anything to markdown. Mark it."
+  },
+  {
+    "createdAt": "2026-03-31T11:27:01Z",
+    "stars": 929,
+    "name": "tvytlx/claude-code-deep-dive",
+    "url": "https://github.com/tvytlx/claude-code-deep-dive",
+    "lang": "TypeScript",
+    "desc": "Claude Code 源码深度研究报告"
+  },
+  {
+    "createdAt": "2026-03-31T13:33:21Z",
+    "stars": 900,
+    "name": "claude-code-best/claude-code",
+    "url": "https://github.com/claude-code-best/claude-code",
+    "lang": "TypeScript",
+    "desc": "Claude Code 可运行版; Typescript 类型全修复;企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动"
+  },
+  {
+    "createdAt": "2026-03-29T11:29:37Z",
+    "stars": 896,
+    "name": "walkinglabs/awesome-harness-engineering",
+    "url": "https://github.com/walkinglabs/awesome-harness-engineering",
+    "lang": "",
+    "desc": "🛠️ Awesome tools & guides for harness engineering."
+  },
+  {
+    "createdAt": "2026-03-24T03:44:52Z",
+    "stars": 884,
+    "name": "LimHyungTae/Awesome-PhD-CV",
+    "url": "https://github.com/LimHyungTae/Awesome-PhD-CV",
+    "lang": "TeX",
+    "desc": "Curated academic CV templates and guidelines for PhD students, researchers, and faculty job applicants."
+  },
+  {
+    "createdAt": "2026-03-24T16:39:30Z",
+    "stars": 870,
+    "name": "NomaDamas/k-skill",
+    "url": "https://github.com/NomaDamas/k-skill",
+    "lang": "JavaScript",
+    "desc": "한국인을 위한 스킬 모음집 - SRT, KTX, KBO, 카카오톡, 한글과 컴퓨터, 미세먼지, 우편번호, 블루리본 등등..."
+  },
+  {
+    "createdAt": "2026-03-27T18:20:01Z",
+    "stars": 867,
+    "name": "legalize-dev/legalize-es",
+    "url": "https://github.com/legalize-dev/legalize-es",
+    "lang": "",
+    "desc": "Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws."
+  },
+  {
+    "createdAt": "2026-03-31T11:37:19Z",
+    "stars": 836,
+    "name": "oboard/claude-code-rev",
+    "url": "https://github.com/oboard/claude-code-rev",
+    "lang": "TypeScript",
+    "desc": "Runnable ClaudeCode source code"
+  },
+  {
+    "createdAt": "2026-03-24T09:15:02Z",
+    "stars": 780,
+    "name": "marswaveai/TypeNo",
+    "url": "https://github.com/marswaveai/TypeNo",
+    "lang": "Swift",
+    "desc": "A free, open source, privacy-first voice input app for macOS."
+  },
+  {
+    "createdAt": "2026-03-25T08:03:23Z",
+    "stars": 687,
+    "name": "tonbistudio/turboquant-pytorch",
+    "url": "https://github.com/tonbistudio/turboquant-pytorch",
+    "lang": "Python",
+    "desc": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity."
+  },
+  {
+    "createdAt": "2026-03-26T13:30:40Z",
+    "stars": 669,
+    "name": "glommer/pgmicro",
+    "url": "https://github.com/glommer/pgmicro",
+    "lang": "Rust",
+    "desc": "An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine"
+  },
+  {
+    "createdAt": "2026-03-26T04:45:11Z",
+    "stars": 629,
+    "name": "ghostwright/phantom",
+    "url": "https://github.com/ghostwright/phantom",
+    "lang": "TypeScript",
+    "desc": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
+  },
+  {
+    "createdAt": "2026-03-29T08:44:09Z",
+    "stars": 614,
+    "name": "hitmux/HitCC",
+    "url": "https://github.com/hitmux/HitCC",
+    "lang": "Python",
+    "desc": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84"
+  },
+  {
+    "createdAt": "2026-03-28T06:38:18Z",
+    "stars": 568,
+    "name": "LeoYeAI/openclaw-auto-dream",
+    "url": "https://github.com/LeoYeAI/openclaw-auto-dream",
+    "lang": "HTML",
+    "desc": "Automatic memory consolidation for OpenClaw agents — like sleep for your AI. Powered by MyClaw.ai"
+  },
+  {
+    "createdAt": "2026-03-28T02:04:16Z",
+    "stars": 563,
+    "name": "adamlyttleapps/notchy",
+    "url": "https://github.com/adamlyttleapps/notchy",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-24T22:27:58Z",
+    "stars": 559,
+    "name": "Nahuel990/ministack",
+    "url": "https://github.com/Nahuel990/ministack",
+    "lang": "Python",
+    "desc": "Ministack: the free LocalStack replacement"
+  },
+  {
+    "createdAt": "2026-03-25T20:32:26Z",
+    "stars": 554,
+    "name": "0xSero/turboquant",
+    "url": "https://github.com/0xSero/turboquant",
+    "lang": "Python",
+    "desc": "TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Triton kernels + vLLM integration"
+  },
+  {
+    "createdAt": "2026-03-29T12:20:23Z",
+    "stars": 547,
+    "name": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-27T12:15:42Z",
+    "stars": 518,
+    "name": "happyboy4ty25/pump-analyzer",
+    "url": "https://github.com/happyboy4ty25/pump-analyzer",
+    "lang": "",
+    "desc": "Real-time monitoring & analytics platform for Pump.fun tokens. Track launches, analyze trends, and get instant alerts — powered by WebSockets. Built with HTML, CSS & JavaScript."
+  },
+  {
+    "createdAt": "2026-03-31T14:16:24Z",
+    "stars": 516,
+    "name": "shipany-ai/open-agent-sdk",
+    "url": "https://github.com/shipany-ai/open-agent-sdk",
+    "lang": "TypeScript",
+    "desc": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+  },
+  {
+    "createdAt": "2026-03-26T07:58:48Z",
+    "stars": 512,
+    "name": "realkimbarrett/advertising-skills",
+    "url": "https://github.com/realkimbarrett/advertising-skills",
+    "lang": "",
+    "desc": "Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems."
+  },
+  {
+    "createdAt": "2026-03-24T18:22:34Z",
+    "stars": 508,
+    "name": "productdevbook/hucre",
+    "url": "https://github.com/productdevbook/hucre",
+    "lang": "TypeScript",
+    "desc": "Zero-dependency spreadsheet engine. Read & write XLSX, CSV, ODS. Pure TypeScript, works everywhere."
+  },
+  {
+    "createdAt": "2026-03-24T03:33:22Z",
+    "stars": 475,
+    "name": "AAAAAAAJ/slides",
+    "url": "https://github.com/AAAAAAAJ/slides",
+    "lang": "Python",
+    "desc": "slides generates prompts for various expression styles"
+  },
+  {
+    "createdAt": "2026-03-31T10:45:22Z",
+    "stars": 473,
+    "name": "jarmuine/claude-code",
+    "url": "https://github.com/jarmuine/claude-code",
+    "lang": "TypeScript",
+    "desc": "Fork of instructkr/claude-code"
+  },
+  {
+    "createdAt": "2026-03-31T06:29:06Z",
+    "stars": 467,
+    "name": "shitagaki-lab/see-through",
+    "url": "https://github.com/shitagaki-lab/see-through",
+    "lang": "Jupyter Notebook",
+    "desc": "\"Single-image Layer Decomposition for Anime Characters\" (SIGGRAPH 2026, Conditionally Accepted)"
+  }
+]
