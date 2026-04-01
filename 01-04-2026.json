@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-03-31T08:58:08Z",
+    "stars": 117449,
+    "name": "instructkr/claw-code",
+    "url": "https://github.com/instructkr/claw-code",
+    "lang": "Rust",
+    "desc": "The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex."
+  },
+  {
+    "createdAt": "2026-03-31T09:07:08Z",
+    "stars": 10484,
+    "name": "sanbuphy/learn-coding-agent",
+    "url": "https://github.com/sanbuphy/learn-coding-agent",
+    "lang": "",
+    "desc": "Research on Coding Agents"
+  },
+  {
+    "createdAt": "2026-03-30T15:29:52Z",
+    "stars": 8306,
+    "name": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "lang": "JavaScript",
+    "desc": "Use Codex from Claude Code to review code or delegate tasks."
+  },
+  {
+    "createdAt": "2026-03-31T13:33:21Z",
+    "stars": 7395,
+    "name": "claude-code-best/claude-code",
+    "url": "https://github.com/claude-code-best/claude-code",
+    "lang": "TypeScript",
+    "desc": "原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动"
+  },
+  {
+    "createdAt": "2026-03-31T08:15:54Z",
+    "stars": 7282,
+    "name": "ChinaSiro/claude-code-sourcemap",
+    "url": "https://github.com/ChinaSiro/claude-code-sourcemap",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-31T09:23:58Z",
+    "stars": 6424,
+    "name": "Kuberwastaken/claurst",
+    "url": "https://github.com/Kuberwastaken/claurst",
+    "lang": "Rust",
+    "desc": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
+  },
+  {
+    "createdAt": "2026-03-25T07:13:30Z",
+    "stars": 5906,
+    "name": "larksuite/cli",
+    "url": "https://github.com/larksuite/cli",
+    "lang": "Go",
+    "desc": "The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills."
+  },
+  {
+    "createdAt": "2026-03-25T01:35:36Z",
+    "stars": 4799,
+    "name": "TheTom/turboquant_plus",
+    "url": "https://github.com/TheTom/turboquant_plus",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-30T05:22:23Z",
+    "stars": 4605,
+    "name": "titanwings/colleague-skill",
+    "url": "https://github.com/titanwings/colleague-skill",
+    "lang": "Python",
+    "desc": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
+  },
+  {
+    "createdAt": "2026-04-01T03:15:49Z",
+    "stars": 3048,
+    "name": "Gitlawb/openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "lang": "TypeScript",
+    "desc": "Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible API shim"
+  },
+  {
+    "createdAt": "2026-03-31T11:27:01Z",
+    "stars": 2927,
+    "name": "tvytlx/ai-agent-deep-dive",
+    "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+    "lang": "",
+    "desc": "AI Agent 源码深度研究报告"
+  },
+  {
+    "createdAt": "2026-03-31T17:30:14Z",
+    "stars": 2803,
+    "name": "NanmiCoder/claude-code-haha",
+    "url": "https://github.com/NanmiCoder/claude-code-haha",
+    "lang": "TypeScript",
+    "desc": "Claude Code leaked source - locally runnable version"
+  },
+  {
+    "createdAt": "2026-03-25T17:43:02Z",
+    "stars": 2592,
+    "name": "elder-plinius/G0DM0D3",
+    "url": "https://github.com/elder-plinius/G0DM0D3",
+    "lang": "TypeScript",
+    "desc": "LIBERATED AI CHAT"
+  },
+  {
+    "createdAt": "2026-03-26T12:46:35Z",
+    "stars": 2590,
+    "name": "magnum6actual/flipoff",
+    "url": "https://github.com/magnum6actual/flipoff",
+    "lang": "JavaScript",
+    "desc": "Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware."
+  },
+  {
+    "createdAt": "2026-03-31T11:37:19Z",
+    "stars": 2067,
+    "name": "oboard/claude-code-rev",
+    "url": "https://github.com/oboard/claude-code-rev",
+    "lang": "TypeScript",
+    "desc": "Runnable ClaudeCode source code"
+  },
+  {
+    "createdAt": "2026-03-31T19:07:34Z",
+    "stars": 2031,
+    "name": "JackChen-me/open-multi-agent",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "lang": "TypeScript",
+    "desc": "Production-grade multi-agent orchestration framework. Model-agnostic, supports team collaboration, task scheduling, and inter-agent communication."
+  },
+  {
+    "createdAt": "2026-03-30T12:59:07Z",
+    "stars": 2014,
+    "name": "drona23/claude-token-efficient",
+    "url": "https://github.com/drona23/claude-token-efficient",
+    "lang": "",
+    "desc": "One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes."
+  },
+  {
+    "createdAt": "2026-03-31T14:16:24Z",
+    "stars": 1879,
+    "name": "codeany-ai/open-agent-sdk-typescript",
+    "url": "https://github.com/codeany-ai/open-agent-sdk-typescript",
+    "lang": "TypeScript",
+    "desc": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+  },
+  {
+    "createdAt": "2026-03-27T10:26:52Z",
+    "stars": 1805,
+    "name": "garinasset/leak-check",
+    "url": "https://github.com/garinasset/leak-check",
+    "lang": "Python",
+    "desc": "个人信息 “泄漏” 检测接口"
+  },
+  {
+    "createdAt": "2026-03-31T09:17:51Z",
+    "stars": 1796,
+    "name": "chatgptprojects/clear-code",
+    "url": "https://github.com/chatgptprojects/clear-code",
+    "lang": "",
+    "desc": "See your claude code logs in clear details in your dashboard"
+  },
+  {
+    "createdAt": "2026-03-31T11:47:04Z",
+    "stars": 1733,
+    "name": "Leonxlnx/agentic-ai-prompt-research",
+    "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
+    "lang": "",
+    "desc": "Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification"
+  },
+  {
+    "createdAt": "2026-03-28T16:17:01Z",
+    "stars": 1664,
+    "name": "qiuzhi2046/Qclaw",
+    "url": "https://github.com/qiuzhi2046/Qclaw",
+    "lang": "TypeScript",
+    "desc": "不用命令行，小白也能轻松玩转 OpenClaw"
+  },
+  {
+    "createdAt": "2026-03-31T22:07:01Z",
+    "stars": 1634,
+    "name": "motiful/cc-gateway",
+    "url": "https://github.com/motiful/cc-gateway",
+    "lang": "TypeScript",
+    "desc": "AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying"
+  },
+  {
+    "createdAt": "2026-03-26T21:22:07Z",
+    "stars": 1427,
+    "name": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "lang": "HTML",
+    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use."
+  },
+  {
+    "createdAt": "2026-03-29T05:06:59Z",
+    "stars": 1365,
+    "name": "WecomTeam/wecom-cli",
+    "url": "https://github.com/WecomTeam/wecom-cli",
+    "lang": "Rust",
+    "desc": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
+  },
+  {
+    "createdAt": "2026-03-29T09:13:27Z",
+    "stars": 1322,
+    "name": "yetone/voice-input-src",
+    "url": "https://github.com/yetone/voice-input-src",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-31T13:14:34Z",
+    "stars": 1288,
+    "name": "ponponon/claude_code_src",
+    "url": "https://github.com/ponponon/claude_code_src",
+    "lang": "TypeScript",
+    "desc": "2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文件的 sourcesContent 字段里面，解压还原后有 70w 行代码"
+  },
+  {
+    "createdAt": "2026-03-31T10:45:22Z",
+    "stars": 1286,
+    "name": "jarmuine/claude-code",
+    "url": "https://github.com/jarmuine/claude-code",
+    "lang": "TypeScript",
+    "desc": "Fork of instructkr/claude-code"
+  },
+  {
+    "createdAt": "2026-04-01T08:45:02Z",
+    "stars": 1257,
+    "name": "emdash-cms/emdash",
+    "url": "https://github.com/emdash-cms/emdash",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-26T14:18:54Z",
+    "stars": 1141,
+    "name": "oaker-io/wewrite",
+    "url": "https://github.com/oaker-io/wewrite",
+    "lang": "Python",
+    "desc": "公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱"
+  },
+  {
+    "createdAt": "2026-03-31T16:37:01Z",
+    "stars": 1064,
+    "name": "VoltAgent/awesome-design-md",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "lang": "HTML",
+    "desc": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
+  },
+  {
+    "createdAt": "2026-03-29T11:29:37Z",
+    "stars": 1036,
+    "name": "walkinglabs/awesome-harness-engineering",
+    "url": "https://github.com/walkinglabs/awesome-harness-engineering",
+    "lang": "",
+    "desc": "🛠️ Awesome tools & guides for harness engineering."
+  },
+  {
+    "createdAt": "2026-03-26T00:38:54Z",
+    "stars": 1019,
+    "name": "jxnxts/mcp-brasil",
+    "url": "https://github.com/jxnxts/mcp-brasil",
+    "lang": "Python",
+    "desc": "MCP Server para 41 APIs públicas brasileiras"
+  },
+  {
+    "createdAt": "2026-03-25T13:03:51Z",
+    "stars": 992,
+    "name": "Michaelliv/markit",
+    "url": "https://github.com/Michaelliv/markit",
+    "lang": "TypeScript",
+    "desc": "🖍️ Convert anything to markdown. Mark it."
+  },
+  {
+    "createdAt": "2026-03-31T12:58:46Z",
+    "stars": 982,
+    "name": "openedclaude/claude-reviews-claude",
+    "url": "https://github.com/openedclaude/claude-reviews-claude",
+    "lang": "",
+    "desc": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual."
+  },
+  {
+    "createdAt": "2026-03-31T06:29:06Z",
+    "stars": 953,
+    "name": "shitagaki-lab/see-through",
+    "url": "https://github.com/shitagaki-lab/see-through",
+    "lang": "Jupyter Notebook",
+    "desc": "\"Single-image Layer Decomposition for Anime Characters\" (SIGGRAPH 2026, Conditionally Accepted)"
+  },
+  {
+    "createdAt": "2026-03-31T18:00:16Z",
+    "stars": 939,
+    "name": "lintsinghua/claude-code-book",
+    "url": "https://github.com/lintsinghua/claude-code-book",
+    "lang": "",
+    "desc": "42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站："
+  },
+  {
+    "createdAt": "2026-03-31T19:50:03Z",
+    "stars": 918,
+    "name": "Leonxlnx/claw-dev",
+    "url": "https://github.com/Leonxlnx/claw-dev",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-27T18:20:01Z",
+    "stars": 883,
+    "name": "legalize-dev/legalize-es",
+    "url": "https://github.com/legalize-dev/legalize-es",
+    "lang": "",
+    "desc": "Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws."
+  },
+  {
+    "createdAt": "2026-03-26T04:45:11Z",
+    "stars": 874,
+    "name": "ghostwright/phantom",
+    "url": "https://github.com/ghostwright/phantom",
+    "lang": "TypeScript",
+    "desc": "An AI co-worker with its own computer. Self-evolving, persistent memory, MCP server, secure credential collection, email identity. Built on the Claude Agent SDK."
+  },
+  {
+    "createdAt": "2026-03-31T12:25:40Z",
+    "stars": 848,
+    "name": "Windy3f3f3f3f/how-claude-code-works",
+    "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+    "lang": "",
+    "desc": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等"
+  },
+  {
+    "createdAt": "2026-03-31T09:36:56Z",
+    "stars": 810,
+    "name": "therealXiaomanChu/ex-skill",
+    "url": "https://github.com/therealXiaomanChu/ex-skill",
+    "lang": "Python",
+    "desc": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. "
+  },
+  {
+    "createdAt": "2026-03-31T15:57:14Z",
+    "stars": 791,
+    "name": "777genius/claude-code-source-code",
+    "url": "https://github.com/777genius/claude-code-source-code",
+    "lang": "",
+    "desc": "Claude code source code"
+  },
+  {
+    "createdAt": "2026-03-31T11:58:00Z",
+    "stars": 740,
+    "name": "pengchengneo/Claude-Code",
+    "url": "https://github.com/pengchengneo/Claude-Code",
+    "lang": "TypeScript",
+    "desc": "可运行的Claude Code源码"
+  },
+  {
+    "createdAt": "2026-03-25T08:03:23Z",
+    "stars": 722,
+    "name": "tonbistudio/turboquant-pytorch",
+    "url": "https://github.com/tonbistudio/turboquant-pytorch",
+    "lang": "Python",
+    "desc": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity."
+  },
+  {
+    "createdAt": "2026-03-29T12:20:23Z",
+    "stars": 686,
+    "name": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "url": "https://github.com/adamlyttleapps/claude-skill-aso-appstore-screenshots",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-26T13:30:40Z",
+    "stars": 681,
+    "name": "glommer/pgmicro",
+    "url": "https://github.com/glommer/pgmicro",
+    "lang": "Rust",
+    "desc": "An in-process reimplementation of PostgreSQL, backed by a SQLite-compatible storage engine"
+  },
+  {
+    "createdAt": "2026-03-29T08:44:09Z",
+    "stars": 643,
+    "name": "hitmux/HitCC",
+    "url": "https://github.com/hitmux/HitCC",
+    "lang": "Python",
+    "desc": "Complete reverse-engineering documentation of the full logic of Claude Code CLI Node.js version v2.1.84"
+  },
+  {
+    "createdAt": "2026-03-31T16:20:48Z",
+    "stars": 634,
+    "name": "chauncygu/collection-claude-code-source-code",
+    "url": "https://github.com/chauncygu/collection-claude-code-source-code",
+    "lang": "TypeScript",
+    "desc": "🔥 A collection of the newest Claude Code open source"
+  },
+  {
+    "createdAt": "2026-03-31T20:03:52Z",
+    "stars": 631,
+    "name": "iamfakeguru/claude-md",
+    "url": "https://github.com/iamfakeguru/claude-md",
+    "lang": "",
+    "desc": "Production-grade agent directives for Claude Code"
+  }
+]
