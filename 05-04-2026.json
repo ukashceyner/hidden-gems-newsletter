@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-03-31T08:58:08Z",
+    "stars": 170605,
+    "name": "ultraworkers/claw-code",
+    "url": "https://github.com/ultraworkers/claw-code",
+    "lang": "Rust",
+    "desc": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex."
+  },
+  {
+    "createdAt": "2026-04-01T03:15:49Z",
+    "stars": 16277,
+    "name": "Gitlawb/openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "lang": "TypeScript",
+    "desc": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs."
+  },
+  {
+    "createdAt": "2026-03-31T16:37:01Z",
+    "stars": 14437,
+    "name": "VoltAgent/awesome-design-md",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "lang": "HTML",
+    "desc": "Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI."
+  },
+  {
+    "createdAt": "2026-03-31T13:33:21Z",
+    "stars": 13880,
+    "name": "claude-code-best/claude-code",
+    "url": "https://github.com/claude-code-best/claude-code",
+    "lang": "TypeScript",
+    "desc": "原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动"
+  },
+  {
+    "createdAt": "2026-03-30T15:29:52Z",
+    "stars": 11890,
+    "name": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "lang": "JavaScript",
+    "desc": "Use Codex from Claude Code to review code or delegate tasks."
+  },
+  {
+    "createdAt": "2026-03-31T09:07:08Z",
+    "stars": 11331,
+    "name": "sanbuphy/learn-coding-agent",
+    "url": "https://github.com/sanbuphy/learn-coding-agent",
+    "lang": "",
+    "desc": "Research on Coding Agents"
+  },
+  {
+    "createdAt": "2026-03-31T08:15:54Z",
+    "stars": 8447,
+    "name": "ChinaSiro/claude-code-sourcemap",
+    "url": "https://github.com/ChinaSiro/claude-code-sourcemap",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-31T09:23:58Z",
+    "stars": 8253,
+    "name": "Kuberwastaken/claurst",
+    "url": "https://github.com/Kuberwastaken/claurst",
+    "lang": "Rust",
+    "desc": "Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries"
+  },
+  {
+    "createdAt": "2026-03-30T05:22:23Z",
+    "stars": 7793,
+    "name": "titanwings/colleague-skill",
+    "url": "https://github.com/titanwings/colleague-skill",
+    "lang": "Python",
+    "desc": "将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶"
+  },
+  {
+    "createdAt": "2026-04-01T08:45:02Z",
+    "stars": 7402,
+    "name": "emdash-cms/emdash",
+    "url": "https://github.com/emdash-cms/emdash",
+    "lang": "TypeScript",
+    "desc": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress"
+  },
+  {
+    "createdAt": "2026-04-02T05:39:02Z",
+    "stars": 6502,
+    "name": "ultraworkers/claw-code-parity",
+    "url": "https://github.com/ultraworkers/claw-code-parity",
+    "lang": "Rust",
+    "desc": "Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+  },
+  {
+    "createdAt": "2026-03-31T11:27:01Z",
+    "stars": 5132,
+    "name": "tvytlx/ai-agent-deep-dive",
+    "url": "https://github.com/tvytlx/ai-agent-deep-dive",
+    "lang": "Python",
+    "desc": "AI Agent 源码深度研究报告"
+  },
+  {
+    "createdAt": "2026-03-31T17:30:14Z",
+    "stars": 5061,
+    "name": "NanmiCoder/cc-haha",
+    "url": "https://github.com/NanmiCoder/cc-haha",
+    "lang": "TypeScript",
+    "desc": "Claude Code 泄露源码 - 本地可运行版本（附带核心模块解析）"
+  },
+  {
+    "createdAt": "2026-04-01T15:37:13Z",
+    "stars": 4982,
+    "name": "HKUDS/OpenHarness",
+    "url": "https://github.com/HKUDS/OpenHarness",
+    "lang": "Python",
+    "desc": "\"OpenHarness: Open Agent Harness\""
+  },
+  {
+    "createdAt": "2026-03-31T19:07:34Z",
+    "stars": 4816,
+    "name": "JackChen-me/open-multi-agent",
+    "url": "https://github.com/JackChen-me/open-multi-agent",
+    "lang": "TypeScript",
+    "desc": "TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs."
+  },
+  {
+    "createdAt": "2026-03-30T12:59:07Z",
+    "stars": 3293,
+    "name": "drona23/claude-token-efficient",
+    "url": "https://github.com/drona23/claude-token-efficient",
+    "lang": "",
+    "desc": "One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes."
+  },
+  {
+    "createdAt": "2026-04-02T20:44:58Z",
+    "stars": 2942,
+    "name": "kevinrgu/autoagent",
+    "url": "https://github.com/kevinrgu/autoagent",
+    "lang": "Python",
+    "desc": "autonomous harness engineering"
+  },
+  {
+    "createdAt": "2026-04-01T15:25:45Z",
+    "stars": 2793,
+    "name": "0xGF/boneyard",
+    "url": "https://github.com/0xGF/boneyard",
+    "lang": "TypeScript",
+    "desc": "Auto generated skeleton loading framework"
+  },
+  {
+    "createdAt": "2026-03-31T11:37:19Z",
+    "stars": 2763,
+    "name": "oboard/claude-code-rev",
+    "url": "https://github.com/oboard/claude-code-rev",
+    "lang": "TypeScript",
+    "desc": "Runnable ClaudeCode source code"
+  },
+  {
+    "createdAt": "2026-03-31T09:36:56Z",
+    "stars": 2712,
+    "name": "therealXiaomanChu/ex-skill",
+    "url": "https://github.com/therealXiaomanChu/ex-skill",
+    "lang": "Python",
+    "desc": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. "
+  },
+  {
+    "createdAt": "2026-03-31T22:07:01Z",
+    "stars": 2386,
+    "name": "motiful/cc-gateway",
+    "url": "https://github.com/motiful/cc-gateway",
+    "lang": "TypeScript",
+    "desc": "AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying"
+  },
+  {
+    "createdAt": "2026-03-31T14:16:24Z",
+    "stars": 2333,
+    "name": "codeany-ai/open-agent-sdk-typescript",
+    "url": "https://github.com/codeany-ai/open-agent-sdk-typescript",
+    "lang": "TypeScript",
+    "desc": "Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source"
+  },
+  {
+    "createdAt": "2026-03-31T11:47:04Z",
+    "stars": 2117,
+    "name": "Leonxlnx/agentic-ai-prompt-research",
+    "url": "https://github.com/Leonxlnx/agentic-ai-prompt-research",
+    "lang": "",
+    "desc": "Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification"
+  },
+  {
+    "createdAt": "2026-03-31T18:00:16Z",
+    "stars": 2094,
+    "name": "lintsinghua/claude-code-book",
+    "url": "https://github.com/lintsinghua/claude-code-book",
+    "lang": "",
+    "desc": "《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站："
+  },
+  {
+    "createdAt": "2026-03-31T13:14:34Z",
+    "stars": 2034,
+    "name": "ponponon/claude_code_src",
+    "url": "https://github.com/ponponon/claude_code_src",
+    "lang": "TypeScript",
+    "desc": "2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文件的 sourcesContent 字段里面，解压还原后有 70w 行代码"
+  },
+  {
+    "createdAt": "2026-03-31T09:17:51Z",
+    "stars": 1991,
+    "name": "chatgptprojects/clear-code",
+    "url": "https://github.com/chatgptprojects/clear-code",
+    "lang": "Shell",
+    "desc": "See your claude code logs in clear details in your dashboard"
+  },
+  {
+    "createdAt": "2026-03-31T10:45:22Z",
+    "stars": 1833,
+    "name": "jarmuine/claude-code",
+    "url": "https://github.com/jarmuine/claude-code",
+    "lang": "TypeScript",
+    "desc": "Fork of instructkr/claude-code"
+  },
+  {
+    "createdAt": "2026-04-04T18:21:18Z",
+    "stars": 1822,
+    "name": "santifer/career-ops",
+    "url": "https://github.com/santifer/career-ops",
+    "lang": "Go",
+    "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+  },
+  {
+    "createdAt": "2026-03-29T09:13:27Z",
+    "stars": 1799,
+    "name": "yetone/voice-input-src",
+    "url": "https://github.com/yetone/voice-input-src",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-31T12:00:45Z",
+    "stars": 1731,
+    "name": "k2-fsa/OmniVoice",
+    "url": "https://github.com/k2-fsa/OmniVoice",
+    "lang": "Python",
+    "desc": "High-Quality Voice Cloning TTS for 600+ Languages"
+  },
+  {
+    "createdAt": "2026-03-31T19:07:10Z",
+    "stars": 1614,
+    "name": "yasasbanukaofficial/claude-code",
+    "url": "https://github.com/yasasbanukaofficial/claude-code",
+    "lang": "TypeScript",
+    "desc": "🚀 Open source Claude Code CLI source code. Advanced AI Agent for developers. Includes TypeScript codebase for LLM tool-calling, agentic workflows, and terminal UI. Remember this is just the skeleton not the brain itself. Found by Chaofan Shou. "
+  },
+  {
+    "createdAt": "2026-03-31T16:20:48Z",
+    "stars": 1570,
+    "name": "chauncygu/collection-claude-code-source-code",
+    "url": "https://github.com/chauncygu/collection-claude-code-source-code",
+    "lang": "TypeScript",
+    "desc": "🔥 A collection of the newest Claude Code open source"
+  },
+  {
+    "createdAt": "2026-03-31T12:56:05Z",
+    "stars": 1561,
+    "name": "codeaashu/claude-code",
+    "url": "https://github.com/codeaashu/claude-code",
+    "lang": "TypeScript",
+    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+  },
+  {
+    "createdAt": "2026-03-29T05:06:59Z",
+    "stars": 1511,
+    "name": "WecomTeam/wecom-cli",
+    "url": "https://github.com/WecomTeam/wecom-cli",
+    "lang": "Rust",
+    "desc": "企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信"
+  },
+  {
+    "createdAt": "2026-03-31T12:25:40Z",
+    "stars": 1487,
+    "name": "Windy3f3f3f3f/how-claude-code-works",
+    "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+    "lang": "",
+    "desc": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等"
+  },
+  {
+    "createdAt": "2026-04-04T10:03:00Z",
+    "stars": 1393,
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "lang": "Python",
+    "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman"
+  },
+  {
+    "createdAt": "2026-03-31T06:29:06Z",
+    "stars": 1380,
+    "name": "shitagaki-lab/see-through",
+    "url": "https://github.com/shitagaki-lab/see-through",
+    "lang": "Jupyter Notebook",
+    "desc": "\"Single-image Layer Decomposition for Anime Characters\" (SIGGRAPH 2026, Conditionally Accepted)"
+  },
+  {
+    "createdAt": "2026-03-29T11:29:37Z",
+    "stars": 1301,
+    "name": "walkinglabs/awesome-harness-engineering",
+    "url": "https://github.com/walkinglabs/awesome-harness-engineering",
+    "lang": "",
+    "desc": "🛠️ Awesome tools & guides for harness engineering."
+  },
+  {
+    "createdAt": "2026-03-31T10:02:18Z",
+    "stars": 1261,
+    "name": "tanbiralam/claude-code",
+    "url": "https://github.com/tanbiralam/claude-code",
+    "lang": "TypeScript",
+    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic."
+  },
+  {
+    "createdAt": "2026-03-31T12:58:46Z",
+    "stars": 1201,
+    "name": "openedclaude/claude-reviews-claude",
+    "url": "https://github.com/openedclaude/claude-reviews-claude",
+    "lang": "",
+    "desc": "Claude reads its own source code — 17-chapter architectural deep-dive  into Claude Code v2.1.88. EN/ZH bilingual."
+  },
+  {
+    "createdAt": "2026-04-01T05:18:24Z",
+    "stars": 1198,
+    "name": "dominikmartn/nothing-design-skill",
+    "url": "https://github.com/dominikmartn/nothing-design-skill",
+    "lang": "",
+    "desc": "A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial."
+  },
+  {
+    "createdAt": "2026-04-01T04:30:32Z",
+    "stars": 1140,
+    "name": "wquguru/harness-books",
+    "url": "https://github.com/wquguru/harness-books",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-03-31T04:29:13Z",
+    "stars": 1124,
+    "name": "averygan/reclip",
+    "url": "https://github.com/averygan/reclip",
+    "lang": "HTML",
+    "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI."
+  },
+  {
+    "createdAt": "2026-03-29T14:39:25Z",
+    "stars": 1119,
+    "name": "tradesdontlie/tradingview-mcp",
+    "url": "https://github.com/tradesdontlie/tradingview-mcp",
+    "lang": "JavaScript",
+    "desc": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation"
+  },
+  {
+    "createdAt": "2026-03-31T19:30:11Z",
+    "stars": 1100,
+    "name": "lorryjovens-hub/claude-code-rust",
+    "url": "https://github.com/lorryjovens-hub/claude-code-rust",
+    "lang": "TypeScript",
+    "desc": "🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary"
+  },
+  {
+    "createdAt": "2026-03-31T11:58:00Z",
+    "stars": 1022,
+    "name": "pengchengneo/Claude-Code",
+    "url": "https://github.com/pengchengneo/Claude-Code",
+    "lang": "TypeScript",
+    "desc": "可运行的Claude Code源码"
+  },
+  {
+    "createdAt": "2026-03-31T19:21:23Z",
+    "stars": 941,
+    "name": "liuup/claude-code-analysis",
+    "url": "https://github.com/liuup/claude-code-analysis",
+    "lang": "TypeScript",
+    "desc": "🤖 The analysis of Claude Code"
+  },
+  {
+    "createdAt": "2026-04-02T07:12:06Z",
+    "stars": 919,
+    "name": "luyao618/Claude-Code-Source-Study",
+    "url": "https://github.com/luyao618/Claude-Code-Source-Study",
+    "lang": "",
+    "desc": "深入Claude Code源码，学习目前最好的agent实现"
+  },
+  {
+    "createdAt": "2026-03-29T19:59:07Z",
+    "stars": 898,
+    "name": "dreddnafious/thereisnospoon",
+    "url": "https://github.com/dreddnafious/thereisnospoon",
+    "lang": "Python",
+    "desc": "A machine learning primer built from first principles. For engineers who want to reason about ML systems the way they reason about software systems."
+  },
+  {
+    "createdAt": "2026-03-31T15:57:14Z",
+    "stars": 875,
+    "name": "777genius/claude-code-source-code",
+    "url": "https://github.com/777genius/claude-code-source-code",
+    "lang": "",
+    "desc": "Claude code source code"
+  }
+]
