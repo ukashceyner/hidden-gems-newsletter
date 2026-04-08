@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-05T01:12:07Z",
+    "stars": 26645,
+    "name": "milla-jovovich/mempalace",
+    "url": "https://github.com/milla-jovovich/mempalace",
+    "lang": "Python",
+    "desc": "The highest-scoring AI memory system ever benchmarked. And it's free."
+  },
+  {
+    "createdAt": "2026-04-04T18:21:18Z",
+    "stars": 24131,
+    "name": "santifer/career-ops",
+    "url": "https://github.com/santifer/career-ops",
+    "lang": "JavaScript",
+    "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+  },
+  {
+    "createdAt": "2026-04-01T03:15:49Z",
+    "stars": 19636,
+    "name": "Gitlawb/openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "lang": "TypeScript",
+    "desc": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs."
+  },
+  {
+    "createdAt": "2026-04-03T15:49:07Z",
+    "stars": 12409,
+    "name": "safishamsi/graphify",
+    "url": "https://github.com/safishamsi/graphify",
+    "lang": "Python",
+    "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph"
+  },
+  {
+    "createdAt": "2026-04-01T08:45:02Z",
+    "stars": 8473,
+    "name": "emdash-cms/emdash",
+    "url": "https://github.com/emdash-cms/emdash",
+    "lang": "TypeScript",
+    "desc": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress"
+  },
+  {
+    "createdAt": "2026-04-01T15:37:13Z",
+    "stars": 7709,
+    "name": "HKUDS/OpenHarness",
+    "url": "https://github.com/HKUDS/OpenHarness",
+    "lang": "Python",
+    "desc": "\"OpenHarness: Open Agent Harness\""
+  },
+  {
+    "createdAt": "2026-04-04T10:03:00Z",
+    "stars": 7397,
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "lang": "Python",
+    "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman"
+  },
+  {
+    "createdAt": "2026-04-02T05:39:02Z",
+    "stars": 6626,
+    "name": "ultraworkers/claw-code-parity",
+    "url": "https://github.com/ultraworkers/claw-code-parity",
+    "lang": "Rust",
+    "desc": "Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration"
+  },
+  {
+    "createdAt": "2026-04-02T20:44:58Z",
+    "stars": 3892,
+    "name": "kevinrgu/autoagent",
+    "url": "https://github.com/kevinrgu/autoagent",
+    "lang": "Python",
+    "desc": "autonomous harness engineering"
+  },
+  {
+    "createdAt": "2026-04-01T15:25:45Z",
+    "stars": 3818,
+    "name": "0xGF/boneyard",
+    "url": "https://github.com/0xGF/boneyard",
+    "lang": "TypeScript",
+    "desc": "Auto generated skeleton loading framework"
+  },
+  {
+    "createdAt": "2026-04-05T04:33:04Z",
+    "stars": 3787,
+    "name": "alchaincyf/nuwa-skill",
+    "url": "https://github.com/alchaincyf/nuwa-skill",
+    "lang": "Python",
+    "desc": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks."
+  },
+  {
+    "createdAt": "2026-04-07T05:12:51Z",
+    "stars": 2166,
+    "name": "farzaa/clicky",
+    "url": "https://github.com/farzaa/clicky",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-02T06:06:43Z",
+    "stars": 1886,
+    "name": "sooryathejas/METATRON",
+    "url": "https://github.com/sooryathejas/METATRON",
+    "lang": "Python",
+    "desc": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)"
+  },
+  {
+    "createdAt": "2026-04-01T08:20:07Z",
+    "stars": 1639,
+    "name": "maaslalani/sheets",
+    "url": "https://github.com/maaslalani/sheets",
+    "lang": "Go",
+    "desc": "Terminal based spreadsheet tool"
+  },
+  {
+    "createdAt": "2026-04-04T07:44:55Z",
+    "stars": 1474,
+    "name": "GitFrog1111/badclaude",
+    "url": "https://github.com/GitFrog1111/badclaude",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-01T05:18:24Z",
+    "stars": 1464,
+    "name": "dominikmartn/nothing-design-skill",
+    "url": "https://github.com/dominikmartn/nothing-design-skill",
+    "lang": "",
+    "desc": "A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial."
+  },
+  {
+    "createdAt": "2026-04-02T10:51:10Z",
+    "stars": 1366,
+    "name": "leilei926524-tech/anti-distill",
+    "url": "https://github.com/leilei926524-tech/anti-distill",
+    "lang": "",
+    "desc": "反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills."
+  },
+  {
+    "createdAt": "2026-04-01T13:56:21Z",
+    "stars": 1344,
+    "name": "notdog1998/yourself-skill",
+    "url": "https://github.com/notdog1998/yourself-skill",
+    "lang": "Python",
+    "desc": "与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。"
+  },
+  {
+    "createdAt": "2026-04-05T18:37:07Z",
+    "stars": 1315,
+    "name": "LaurieWired/tailslayer",
+    "url": "https://github.com/LaurieWired/tailslayer",
+    "lang": "C++",
+    "desc": "Library for reducing tail latency in RAM reads"
+  },
+  {
+    "createdAt": "2026-04-03T16:36:36Z",
+    "stars": 1243,
+    "name": "afar1/fieldtheory-cli",
+    "url": "https://github.com/afar1/fieldtheory-cli",
+    "lang": "TypeScript",
+    "desc": "Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac."
+  },
+  {
+    "createdAt": "2026-04-01T04:30:32Z",
+    "stars": 1230,
+    "name": "wquguru/harness-books",
+    "url": "https://github.com/wquguru/harness-books",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-05T17:13:59Z",
+    "stars": 1159,
+    "name": "hotcoffeeshake/tong-jincheng-skill",
+    "url": "https://github.com/hotcoffeeshake/tong-jincheng-skill",
+    "lang": "",
+    "desc": "童锦程视角 Skill — 用深情祖师爷的思维框架分析人际关系"
+  },
+  {
+    "createdAt": "2026-04-06T07:37:02Z",
+    "stars": 1159,
+    "name": "KKKKhazix/khazix-skills",
+    "url": "https://github.com/KKKKhazix/khazix-skills",
+    "lang": "",
+    "desc": "数字生命卡兹克开源的 AI Skills 合集"
+  },
+  {
+    "createdAt": "2026-04-05T17:33:55Z",
+    "stars": 1129,
+    "name": "fikrikarim/parlor",
+    "url": "https://github.com/fikrikarim/parlor",
+    "lang": "HTML",
+    "desc": "On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro."
+  },
+  {
+    "createdAt": "2026-04-02T07:12:06Z",
+    "stars": 1050,
+    "name": "luyao618/Claude-Code-Source-Study",
+    "url": "https://github.com/luyao618/Claude-Code-Source-Study",
+    "lang": "",
+    "desc": "深入Claude Code源码，学习目前最好的agent实现"
+  },
+  {
+    "createdAt": "2026-04-01T01:44:35Z",
+    "stars": 933,
+    "name": "Pika-Labs/Pika-Skills",
+    "url": "https://github.com/Pika-Labs/Pika-Skills",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-01T21:13:39Z",
+    "stars": 893,
+    "name": "soongenwong/claudecode",
+    "url": "https://github.com/soongenwong/claudecode",
+    "lang": "Rust",
+    "desc": "Open Source ClaudeCode Leaked. Same functionalities as Claude Code by Anthropic. Written in Rust, Ready to use immediately for free. "
+  },
+  {
+    "createdAt": "2026-04-01T06:59:09Z",
+    "stars": 875,
+    "name": "repowise-dev/claude-code-prompts",
+    "url": "https://github.com/repowise-dev/claude-code-prompts",
+    "lang": "",
+    "desc": "Independently authored prompt templates for AI coding agents — system prompts, tool prompts, agent delegation, memory management, and multi-agent coordination. Informed by studying Claude Code."
+  },
+  {
+    "createdAt": "2026-04-01T06:22:00Z",
+    "stars": 861,
+    "name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+    "url": "https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+    "lang": "HTML",
+    "desc": "Harness Engineering From Claude Code source code to AI Coding"
+  },
+  {
+    "createdAt": "2026-04-03T11:56:42Z",
+    "stars": 742,
+    "name": "PrathamLearnsToCode/paper2code",
+    "url": "https://github.com/PrathamLearnsToCode/paper2code",
+    "lang": "Python",
+    "desc": "Agent skill to turn any arxiv paper into a working implementation"
+  },
+  {
+    "createdAt": "2026-04-02T23:38:24Z",
+    "stars": 705,
+    "name": "Nightmare-Eclipse/BlueHammer",
+    "url": "https://github.com/Nightmare-Eclipse/BlueHammer",
+    "lang": "C",
+    "desc": "Repository hosting the bluehammer vulnerability"
+  },
+  {
+    "createdAt": "2026-04-07T05:14:58Z",
+    "stars": 697,
+    "name": "mattmireles/gemma-tuner-multimodal",
+    "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+    "lang": "Python",
+    "desc": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
+  },
+  {
+    "createdAt": "2026-04-02T17:25:42Z",
+    "stars": 691,
+    "name": "snarktank/clawchief",
+    "url": "https://github.com/snarktank/clawchief",
+    "lang": "Python",
+    "desc": "Turn your OpenClaw into a Chief of Staff"
+  },
+  {
+    "createdAt": "2026-04-03T03:22:23Z",
+    "stars": 678,
+    "name": "hilash/cabinet",
+    "url": "https://github.com/hilash/cabinet",
+    "lang": "TypeScript",
+    "desc": "AI-first knowledge base and startup OS"
+  },
+  {
+    "createdAt": "2026-04-03T03:57:20Z",
+    "stars": 641,
+    "name": "LarsenCundric/port-whisperer",
+    "url": "https://github.com/LarsenCundric/port-whisperer",
+    "lang": "JavaScript",
+    "desc": "A beautiful CLI tool to see what's running on your ports"
+  },
+  {
+    "createdAt": "2026-04-01T11:09:07Z",
+    "stars": 641,
+    "name": "0Chencc/clawgod",
+    "url": "https://github.com/0Chencc/clawgod",
+    "lang": "Shell",
+    "desc": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect"
+  },
+  {
+    "createdAt": "2026-04-04T18:27:34Z",
+    "stars": 636,
+    "name": "jinchenma94/bazi-skill",
+    "url": "https://github.com/jinchenma94/bazi-skill",
+    "lang": "",
+    "desc": "四柱八字命理分析"
+  },
+  {
+    "createdAt": "2026-04-01T18:14:58Z",
+    "stars": 618,
+    "name": "wesbos/JSON-Alexander",
+    "url": "https://github.com/wesbos/JSON-Alexander",
+    "lang": "TypeScript",
+    "desc": "A really good JSON viewer browser Extension"
+  },
+  {
+    "createdAt": "2026-04-07T18:49:32Z",
+    "stars": 589,
+    "name": "phuryn/claude-usage",
+    "url": "https://github.com/phuryn/claude-usage",
+    "lang": "Python",
+    "desc": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture."
+  },
+  {
+    "createdAt": "2026-04-01T04:17:53Z",
+    "stars": 574,
+    "name": "cpaczek/any-buddy",
+    "url": "https://github.com/cpaczek/any-buddy",
+    "lang": "TypeScript",
+    "desc": "Hack Claude Code to get any buddy you want"
+  },
+  {
+    "createdAt": "2026-04-06T06:29:27Z",
+    "stars": 572,
+    "name": "wxtsky/CodeIsland",
+    "url": "https://github.com/wxtsky/CodeIsland",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-05T11:28:48Z",
+    "stars": 560,
+    "name": "alchaincyf/steve-jobs-skill",
+    "url": "https://github.com/alchaincyf/steve-jobs-skill",
+    "lang": "",
+    "desc": "乔布斯.skill — Steve Jobs的认知操作系统。6个心智模型 + 8条决策启发式 + 完整表达DNA。由女娲.skill生成。"
+  },
+  {
+    "createdAt": "2026-04-01T11:03:08Z",
+    "stars": 546,
+    "name": "zmeyer44/Locker",
+    "url": "https://github.com/zmeyer44/Locker",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-06T11:00:14Z",
+    "stars": 545,
+    "name": "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+    "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+    "lang": "",
+    "desc": " A Claude Code skill that designs and builds high-converting questionnaire-style app onboarding flows — modelled    on proven conversion patterns from top subscription apps like Mob, Headspace and Noom"
+  },
+  {
+    "createdAt": "2026-04-01T03:41:49Z",
+    "stars": 535,
+    "name": "win4r/cc-notebook",
+    "url": "https://github.com/win4r/cc-notebook",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-02T17:47:46Z",
+    "stars": 528,
+    "name": "ShandaAI/AlayaRenderer",
+    "url": "https://github.com/ShandaAI/AlayaRenderer",
+    "lang": "Python",
+    "desc": "AI-native Renderer for Games and Virtual Worlds, with Data and Tools"
+  },
+  {
+    "createdAt": "2026-04-05T11:37:18Z",
+    "stars": 521,
+    "name": "alchaincyf/zhangxuefeng-skill",
+    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "lang": "",
+    "desc": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。"
+  },
+  {
+    "createdAt": "2026-04-01T03:44:47Z",
+    "stars": 517,
+    "name": "mrdoob/three.wasm",
+    "url": "https://github.com/mrdoob/three.wasm",
+    "lang": "TypeScript",
+    "desc": "8x Faster JavaScript 3D Library."
+  },
+  {
+    "createdAt": "2026-04-05T20:07:56Z",
+    "stars": 513,
+    "name": "kessler/gemma-gem",
+    "url": "https://github.com/kessler/gemma-gem",
+    "lang": "TypeScript",
+    "desc": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine."
+  },
+  {
+    "createdAt": "2026-04-06T09:35:19Z",
+    "stars": 492,
+    "name": "alchaincyf/x-mentor-skill",
+    "url": "https://github.com/alchaincyf/x-mentor-skill",
+    "lang": "",
+    "desc": "X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill"
+  }
+]
