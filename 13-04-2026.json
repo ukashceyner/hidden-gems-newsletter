@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-07T05:12:51Z",
+    "stars": 4071,
+    "name": "farzaa/clicky",
+    "url": "https://github.com/farzaa/clicky",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-06T20:02:21Z",
+    "stars": 3704,
+    "name": "xixu-me/awesome-persona-distill-skills",
+    "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
+    "lang": "JavaScript",
+    "desc": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives"
+  },
+  {
+    "createdAt": "2026-04-06T07:37:02Z",
+    "stars": 3463,
+    "name": "KKKKhazix/khazix-skills",
+    "url": "https://github.com/KKKKhazix/khazix-skills",
+    "lang": "Python",
+    "desc": "数字生命卡兹克开源的 AI Skills 合集"
+  },
+  {
+    "createdAt": "2026-04-08T02:49:02Z",
+    "stars": 2272,
+    "name": "alchaincyf/hermes-agent-orange-book",
+    "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+    "lang": "",
+    "desc": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南"
+  },
+  {
+    "createdAt": "2026-04-10T15:07:10Z",
+    "stars": 2002,
+    "name": "yizhiyanhua-ai/fireworks-tech-graph",
+    "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+    "lang": "Python",
+    "desc": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge."
+  },
+  {
+    "createdAt": "2026-04-07T05:14:58Z",
+    "stars": 1253,
+    "name": "mattmireles/gemma-tuner-multimodal",
+    "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+    "lang": "Python",
+    "desc": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders."
+  },
+  {
+    "createdAt": "2026-04-09T03:23:02Z",
+    "stars": 1179,
+    "name": "QLHazyCoder/codex-oauth-automation-extension",
+    "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
+    "lang": "JavaScript",
+    "desc": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复"
+  },
+  {
+    "createdAt": "2026-04-08T11:24:01Z",
+    "stars": 1120,
+    "name": "nashsu/llm_wiki",
+    "url": "https://github.com/nashsu/llm_wiki",
+    "lang": "TypeScript",
+    "desc": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。"
+  },
+  {
+    "createdAt": "2026-04-07T08:59:37Z",
+    "stars": 968,
+    "name": "AgriciDaniel/claude-obsidian",
+    "url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "lang": "Shell",
+    "desc": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch"
+  },
+  {
+    "createdAt": "2026-04-06T06:29:27Z",
+    "stars": 909,
+    "name": "wxtsky/CodeIsland",
+    "url": "https://github.com/wxtsky/CodeIsland",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-07T18:49:32Z",
+    "stars": 906,
+    "name": "phuryn/claude-usage",
+    "url": "https://github.com/phuryn/claude-usage",
+    "lang": "Python",
+    "desc": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture."
+  },
+  {
+    "createdAt": "2026-04-08T12:59:29Z",
+    "stars": 838,
+    "name": "momenbasel/PureMac",
+    "url": "https://github.com/momenbasel/PureMac",
+    "lang": "Swift",
+    "desc": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed."
+  },
+  {
+    "createdAt": "2026-04-09T00:22:33Z",
+    "stars": 826,
+    "name": "joeynyc/hermes-hudui",
+    "url": "https://github.com/joeynyc/hermes-hudui",
+    "lang": "Python",
+    "desc": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory"
+  },
+  {
+    "createdAt": "2026-04-06T11:00:14Z",
+    "stars": 812,
+    "name": "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+    "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
+    "lang": "",
+    "desc": " A Claude Code skill that designs and builds high-converting questionnaire-style app onboarding flows — modelled    on proven conversion patterns from top subscription apps like Mob, Headspace and Noom"
+  },
+  {
+    "createdAt": "2026-04-10T23:31:10Z",
+    "stars": 796,
+    "name": "vyfor/rattles",
+    "url": "https://github.com/vyfor/rattles",
+    "lang": "Rust",
+    "desc": "🪇 Minimal terminal spinners for Rust"
+  },
+  {
+    "createdAt": "2026-04-06T21:46:23Z",
+    "stars": 794,
+    "name": "xtclovver/RKNHardering",
+    "url": "https://github.com/xtclovver/RKNHardering",
+    "lang": "Kotlin",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-06T01:49:23Z",
+    "stars": 739,
+    "name": "tmstack/awesome-persona-skills",
+    "url": "https://github.com/tmstack/awesome-persona-skills",
+    "lang": "",
+    "desc": "同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  "
+  },
+  {
+    "createdAt": "2026-04-08T23:58:35Z",
+    "stars": 668,
+    "name": "hexiecs/talk-normal",
+    "url": "https://github.com/hexiecs/talk-normal",
+    "lang": "Shell",
+    "desc": "Make any LLM talk like a normal person. A system prompt that removes AI slop."
+  },
+  {
+    "createdAt": "2026-04-06T14:28:45Z",
+    "stars": 661,
+    "name": "coleam00/claude-memory-compiler",
+    "url": "https://github.com/coleam00/claude-memory-compiler",
+    "lang": "Python",
+    "desc": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture."
+  },
+  {
+    "createdAt": "2026-04-08T13:07:47Z",
+    "stars": 645,
+    "name": "obdev/littlesnitch-linux",
+    "url": "https://github.com/obdev/littlesnitch-linux",
+    "lang": "Rust",
+    "desc": "Open Source components of Little Snitch for Linux"
+  },
+  {
+    "createdAt": "2026-04-06T09:35:19Z",
+    "stars": 639,
+    "name": "alchaincyf/x-mentor-skill",
+    "url": "https://github.com/alchaincyf/x-mentor-skill",
+    "lang": "",
+    "desc": "X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill"
+  },
+  {
+    "createdAt": "2026-04-09T06:02:53Z",
+    "stars": 634,
+    "name": "whwangovo/pyre-code",
+    "url": "https://github.com/whwangovo/pyre-code",
+    "lang": "Python",
+    "desc": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser."
+  },
+  {
+    "createdAt": "2026-04-06T08:31:02Z",
+    "stars": 562,
+    "name": "agents-io/PokeClaw",
+    "url": "https://github.com/agents-io/PokeClaw",
+    "lang": "Kotlin",
+    "desc": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket."
+  },
+  {
+    "createdAt": "2026-04-06T16:05:19Z",
+    "stars": 559,
+    "name": "idawnlight/ShichiZip",
+    "url": "https://github.com/idawnlight/ShichiZip",
+    "lang": "Swift",
+    "desc": "The 7-Zip derivative intended for macOS"
+  },
+  {
+    "createdAt": "2026-04-08T03:15:48Z",
+    "stars": 555,
+    "name": "brooks376/Happy-Horse-1.0",
+    "url": "https://github.com/brooks376/Happy-Horse-1.0",
+    "lang": "",
+    "desc": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io."
+  },
+  {
+    "createdAt": "2026-04-11T13:50:24Z",
+    "stars": 540,
+    "name": "alchaincyf/obsidian-ai-orange-book",
+    "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+    "lang": "",
+    "desc": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑"
+  },
+  {
+    "createdAt": "2026-04-10T03:25:47Z",
+    "stars": 503,
+    "name": "AMAP-ML/SkillClaw",
+    "url": "https://github.com/AMAP-ML/SkillClaw",
+    "lang": "Python",
+    "desc": "Let Skills Evolve Collectively with Agentic Evolver "
+  },
+  {
+    "createdAt": "2026-04-09T14:19:09Z",
+    "stars": 462,
+    "name": "hamen/material-3-skill",
+    "url": "https://github.com/hamen/material-3-skill",
+    "lang": "",
+    "desc": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit"
+  },
+  {
+    "createdAt": "2026-04-06T13:05:05Z",
+    "stars": 453,
+    "name": "kzhrknt/awesome-design-md-jp",
+    "url": "https://github.com/kzhrknt/awesome-design-md-jp",
+    "lang": "HTML",
+    "desc": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography."
+  },
+  {
+    "createdAt": "2026-04-12T18:26:00Z",
+    "stars": 443,
+    "name": "sterlingcrispin/nothing-ever-happens",
+    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-10T02:53:42Z",
+    "stars": 432,
+    "name": "retlehs/quien",
+    "url": "https://github.com/retlehs/quien",
+    "lang": "Go",
+    "desc": "A better WHOIS lookup tool"
+  },
+  {
+    "createdAt": "2026-04-06T17:59:54Z",
+    "stars": 407,
+    "name": "DLYuanGod/MegaTrain",
+    "url": "https://github.com/DLYuanGod/MegaTrain",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-08T04:48:26Z",
+    "stars": 380,
+    "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "lang": "Python",
+    "desc": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory."
+  },
+  {
+    "createdAt": "2026-04-06T21:35:34Z",
+    "stars": 377,
+    "name": "cherepavel/VPN-Detector",
+    "url": "https://github.com/cherepavel/VPN-Detector",
+    "lang": "Kotlin",
+    "desc": "Android app for detecting VPN usage and network tunneling signals."
+  },
+  {
+    "createdAt": "2026-04-06T12:36:04Z",
+    "stars": 377,
+    "name": "leezythu/maoxuan-skill",
+    "url": "https://github.com/leezythu/maoxuan-skill",
+    "lang": "",
+    "desc": "毛选.skill — 让毛泽东的思维框架帮你分析问题、制定策略、看透本质。7个核心心智模型 · 10条决策启发式 · 完整表达DNA。不是复读语录，是用他的认知框架帮你看问题。"
+  },
+  {
+    "createdAt": "2026-04-09T04:50:25Z",
+    "stars": 375,
+    "name": "dominikmartn/ProgressiveBlurHeader",
+    "url": "https://github.com/dominikmartn/ProgressiveBlurHeader",
+    "lang": "Swift",
+    "desc": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped."
+  },
+  {
+    "createdAt": "2026-04-07T15:25:28Z",
+    "stars": 372,
+    "name": "loop-uh/yourvpndead",
+    "url": "https://github.com/loop-uh/yourvpndead",
+    "lang": "Kotlin",
+    "desc": "Детекция и обнаружение айпи у ВПН серверов VLESS/xray/sing-box через локальный SOCKS5 уязвимость"
+  },
+  {
+    "createdAt": "2026-04-09T11:14:13Z",
+    "stars": 371,
+    "name": "UnluckyNinja/SBTI-test",
+    "url": "https://github.com/UnluckyNinja/SBTI-test",
+    "lang": "HTML",
+    "desc": "注意建立这个repo只是因为网页自身就是全部源码，原作者并未声明license所以本repo也不包含license，一切行为请自行斟酌，不要给原作者添麻烦。 原作者：B站@蛆肉儿串儿"
+  },
+  {
+    "createdAt": "2026-04-07T06:15:18Z",
+    "stars": 353,
+    "name": "NyxTides/SimpleAuthFlow",
+    "url": "https://github.com/NyxTides/SimpleAuthFlow",
+    "lang": "JavaScript",
+    "desc": "A streamlined Chrome extension for the ChatGPT OAuth flow"
+  },
+  {
+    "createdAt": "2026-04-09T07:33:41Z",
+    "stars": 342,
+    "name": "renatoworks/3dsvg",
+    "url": "https://github.com/renatoworks/3dsvg",
+    "lang": "TypeScript",
+    "desc": "The easiest way to turn SVGs into interactive React 3D components"
+  },
+  {
+    "createdAt": "2026-04-06T06:20:10Z",
+    "stars": 339,
+    "name": "Ar9av/obsidian-wiki",
+    "url": "https://github.com/Ar9av/obsidian-wiki",
+    "lang": "Python",
+    "desc": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern"
+  },
+  {
+    "createdAt": "2026-04-10T16:25:07Z",
+    "stars": 331,
+    "name": "OpenMOSS/MOSS-TTS-Nano",
+    "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+    "lang": "Python",
+    "desc": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration."
+  },
+  {
+    "createdAt": "2026-04-08T18:38:13Z",
+    "stars": 325,
+    "name": "jure/webphysics",
+    "url": "https://github.com/jure/webphysics",
+    "lang": "TypeScript",
+    "desc": "WebGPU physics engine based on the AVBD solver"
+  },
+  {
+    "createdAt": "2026-04-12T09:12:57Z",
+    "stars": 322,
+    "name": "Mouseww/anything-analyzer",
+    "url": "https://github.com/Mouseww/anything-analyzer",
+    "lang": "TypeScript",
+    "desc": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档"
+  },
+  {
+    "createdAt": "2026-04-10T20:14:56Z",
+    "stars": 321,
+    "name": "cnitlrt/AutoTeam",
+    "url": "https://github.com/cnitlrt/AutoTeam",
+    "lang": "Python",
+    "desc": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
+  },
+  {
+    "createdAt": "2026-04-06T15:07:16Z",
+    "stars": 320,
+    "name": "URLab-Sim/UnrealRoboticsLab",
+    "url": "https://github.com/URLab-Sim/UnrealRoboticsLab",
+    "lang": "C++",
+    "desc": "A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering with MuJoCo's precision physics."
+  },
+  {
+    "createdAt": "2026-04-10T03:45:37Z",
+    "stars": 320,
+    "name": "lzhgus/Capso",
+    "url": "https://github.com/lzhgus/Capso",
+    "lang": "Swift",
+    "desc": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
+  },
+  {
+    "createdAt": "2026-04-09T06:34:39Z",
+    "stars": 306,
+    "name": "millionco/isolet",
+    "url": "https://github.com/millionco/isolet",
+    "lang": "TypeScript",
+    "desc": "Package any component into a self-contained, isolated widget"
+  },
+  {
+    "createdAt": "2026-04-11T03:01:45Z",
+    "stars": 305,
+    "name": "millionco/cli-to-js",
+    "url": "https://github.com/millionco/cli-to-js",
+    "lang": "TypeScript",
+    "desc": "Turn any CLI into a JavaScript API"
+  },
+  {
+    "createdAt": "2026-04-07T11:43:27Z",
+    "stars": 302,
+    "name": "JinGuYuan/jinguyuan-dumpling-skill",
+    "url": "https://github.com/JinGuYuan/jinguyuan-dumpling-skill",
+    "lang": "Python",
+    "desc": "金谷园饺子馆 AI Skill - 北邮边上的饺子馆"
+  }
+]
