@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-10T15:07:10Z",
+    "stars": 3576,
+    "name": "yizhiyanhua-ai/fireworks-tech-graph",
+    "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+    "lang": "Python",
+    "desc": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge."
+  },
+  {
+    "createdAt": "2026-04-13T22:11:53Z",
+    "stars": 2556,
+    "name": "AgentSeal/codeburn",
+    "url": "https://github.com/AgentSeal/codeburn",
+    "lang": "TypeScript",
+    "desc": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability."
+  },
+  {
+    "createdAt": "2026-04-10T16:25:07Z",
+    "stars": 1355,
+    "name": "OpenMOSS/MOSS-TTS-Nano",
+    "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+    "lang": "Python",
+    "desc": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration."
+  },
+  {
+    "createdAt": "2026-04-15T21:37:07Z",
+    "stars": 1327,
+    "name": "Nightmare-Eclipse/RedSun",
+    "url": "https://github.com/Nightmare-Eclipse/RedSun",
+    "lang": "C++",
+    "desc": "The Red Sun vulnerability repository"
+  },
+  {
+    "createdAt": "2026-04-14T14:52:44Z",
+    "stars": 1315,
+    "name": "vercel-labs/wterm",
+    "url": "https://github.com/vercel-labs/wterm",
+    "lang": "TypeScript",
+    "desc": "A terminal emulator for the web"
+  },
+  {
+    "createdAt": "2026-04-12T09:12:57Z",
+    "stars": 1270,
+    "name": "Mouseww/anything-analyzer",
+    "url": "https://github.com/Mouseww/anything-analyzer",
+    "lang": "TypeScript",
+    "desc": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration"
+  },
+  {
+    "createdAt": "2026-04-13T08:57:49Z",
+    "stars": 1083,
+    "name": "alchaincyf/darwin-skill",
+    "url": "https://github.com/alchaincyf/darwin-skill",
+    "lang": "HTML",
+    "desc": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
+  },
+  {
+    "createdAt": "2026-04-10T07:09:43Z",
+    "stars": 1013,
+    "name": "Tencent-Hunyuan/HY-World-2.0",
+    "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+    "lang": "Python",
+    "desc": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds"
+  },
+  {
+    "createdAt": "2026-04-12T01:34:42Z",
+    "stars": 909,
+    "name": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-10T23:31:10Z",
+    "stars": 888,
+    "name": "vyfor/rattles",
+    "url": "https://github.com/vyfor/rattles",
+    "lang": "Rust",
+    "desc": "🪇 Minimal terminal spinners for Rust"
+  },
+  {
+    "createdAt": "2026-04-15T07:36:22Z",
+    "stars": 885,
+    "name": "lewislulu/html-ppt-skill",
+    "url": "https://github.com/lewislulu/html-ppt-skill",
+    "lang": "HTML",
+    "desc": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
+  },
+  {
+    "createdAt": "2026-04-14T11:48:05Z",
+    "stars": 876,
+    "name": "BuilderPulse/BuilderPulse",
+    "url": "https://github.com/BuilderPulse/BuilderPulse",
+    "lang": "",
+    "desc": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning."
+  },
+  {
+    "createdAt": "2026-04-13T03:41:38Z",
+    "stars": 867,
+    "name": "sogonov/anubis",
+    "url": "https://github.com/sogonov/anubis",
+    "lang": "Kotlin",
+    "desc": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state."
+  },
+  {
+    "createdAt": "2026-04-15T10:11:22Z",
+    "stars": 866,
+    "name": "Manavarya09/design-extract",
+    "url": "https://github.com/Manavarya09/design-extract",
+    "lang": "JavaScript",
+    "desc": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin."
+  },
+  {
+    "createdAt": "2026-04-15T17:59:48Z",
+    "stars": 846,
+    "name": "Robbyant/lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "lang": "Python",
+    "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+  },
+  {
+    "createdAt": "2026-04-12T18:26:00Z",
+    "stars": 821,
+    "name": "sterlingcrispin/nothing-ever-happens",
+    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "lang": "Python",
+    "desc": "Polymarket bot that buys \"No\" on all non-sports markets"
+  },
+  {
+    "createdAt": "2026-04-13T11:42:03Z",
+    "stars": 796,
+    "name": "yaojingang/GEOFlow",
+    "url": "https://github.com/yaojingang/GEOFlow",
+    "lang": "PHP",
+    "desc": "Open-source GEO content production system with AI tasks, review workflow, and publishing."
+  },
+  {
+    "createdAt": "2026-04-12T10:47:30Z",
+    "stars": 784,
+    "name": "patterniha/SNI-Spoofing",
+    "url": "https://github.com/patterniha/SNI-Spoofing",
+    "lang": "Python",
+    "desc": "Bypass DPI with IP/TCP-Header manipulation"
+  },
+  {
+    "createdAt": "2026-04-15T04:09:40Z",
+    "stars": 770,
+    "name": "WeaveMindAI/weft",
+    "url": "https://github.com/WeaveMindAI/weft",
+    "lang": "Rust",
+    "desc": "A programming language for AI systems"
+  },
+  {
+    "createdAt": "2026-04-11T07:38:18Z",
+    "stars": 742,
+    "name": "EKKOLearnAI/hermes-web-ui",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "lang": "TypeScript",
+    "desc": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)"
+  },
+  {
+    "createdAt": "2026-04-10T03:25:47Z",
+    "stars": 708,
+    "name": "AMAP-ML/SkillClaw",
+    "url": "https://github.com/AMAP-ML/SkillClaw",
+    "lang": "Python",
+    "desc": "Let Skills Evolve Collectively with Agentic Evolver "
+  },
+  {
+    "createdAt": "2026-04-16T07:36:06Z",
+    "stars": 675,
+    "name": "wbh604/UZI-Skill",
+    "url": "https://github.com/wbh604/UZI-Skill",
+    "lang": "Python",
+    "desc": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 "
+  },
+  {
+    "createdAt": "2026-04-11T13:50:24Z",
+    "stars": 662,
+    "name": "alchaincyf/obsidian-ai-orange-book",
+    "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+    "lang": "",
+    "desc": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑"
+  },
+  {
+    "createdAt": "2026-04-13T07:45:24Z",
+    "stars": 601,
+    "name": "andrewjiang/palantir-for-family-trips",
+    "url": "https://github.com/andrewjiang/palantir-for-family-trips",
+    "lang": "JavaScript",
+    "desc": "A Palantir-ish dashboard for family trip planning."
+  },
+  {
+    "createdAt": "2026-04-10T02:53:42Z",
+    "stars": 581,
+    "name": "retlehs/quien",
+    "url": "https://github.com/retlehs/quien",
+    "lang": "Go",
+    "desc": "A better whois and domain intelligence toolkit"
+  },
+  {
+    "createdAt": "2026-04-15T14:05:35Z",
+    "stars": 561,
+    "name": "op7418/logo-generator-skill",
+    "url": "https://github.com/op7418/logo-generator-skill",
+    "lang": "HTML",
+    "desc": "logo-generator-skill"
+  },
+  {
+    "createdAt": "2026-04-15T08:49:42Z",
+    "stars": 560,
+    "name": "xataio/xata",
+    "url": "https://github.com/xataio/xata",
+    "lang": "Go",
+    "desc": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero"
+  },
+  {
+    "createdAt": "2026-04-10T18:07:20Z",
+    "stars": 545,
+    "name": "mohi-devhub/antivibe",
+    "url": "https://github.com/mohi-devhub/antivibe",
+    "lang": "Shell",
+    "desc": "Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives."
+  },
+  {
+    "createdAt": "2026-04-10T09:49:33Z",
+    "stars": 537,
+    "name": "tianxingleo/ACGTI",
+    "url": "https://github.com/tianxingleo/ACGTI",
+    "lang": "TypeScript",
+    "desc": "ACG Type Indicator - MBTI inspired anime persona quiz"
+  },
+  {
+    "createdAt": "2026-04-10T00:26:27Z",
+    "stars": 537,
+    "name": "cloudflare/agentic-inbox",
+    "url": "https://github.com/cloudflare/agentic-inbox",
+    "lang": "TypeScript",
+    "desc": "A self-hosted email client with an AI agent, running entirely on Cloudflare Workers"
+  },
+  {
+    "createdAt": "2026-04-10T06:00:28Z",
+    "stars": 516,
+    "name": "761696148/Game-Map-Tracker",
+    "url": "https://github.com/761696148/Game-Map-Tracker",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-12T17:27:34Z",
+    "stars": 501,
+    "name": "Jakubantalik/border-beam",
+    "url": "https://github.com/Jakubantalik/border-beam",
+    "lang": "TypeScript",
+    "desc": "Animated border beam effect for React"
+  },
+  {
+    "createdAt": "2026-04-12T06:17:33Z",
+    "stars": 501,
+    "name": "amitshekhariitbhu/llm-internals",
+    "url": "https://github.com/amitshekhariitbhu/llm-internals",
+    "lang": "",
+    "desc": "Learn LLM internals step by step - from tokenization to attention to inference optimization."
+  },
+  {
+    "createdAt": "2026-04-14T19:37:58Z",
+    "stars": 490,
+    "name": "poteto/how",
+    "url": "https://github.com/poteto/how",
+    "lang": "",
+    "desc": "skill for explaining architecture"
+  },
+  {
+    "createdAt": "2026-04-10T20:14:56Z",
+    "stars": 470,
+    "name": "cnitlrt/AutoTeam",
+    "url": "https://github.com/cnitlrt/AutoTeam",
+    "lang": "Python",
+    "desc": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步"
+  },
+  {
+    "createdAt": "2026-04-11T17:25:41Z",
+    "stars": 467,
+    "name": "bstnxbt/dflash-mlx",
+    "url": "https://github.com/bstnxbt/dflash-mlx",
+    "lang": "Python",
+    "desc": "Lossless DFlash speculative decoding for MLX on Apple Silicon"
+  },
+  {
+    "createdAt": "2026-04-10T03:45:37Z",
+    "stars": 452,
+    "name": "lzhgus/Capso",
+    "url": "https://github.com/lzhgus/Capso",
+    "lang": "Swift",
+    "desc": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI."
+  },
+  {
+    "createdAt": "2026-04-14T03:08:05Z",
+    "stars": 430,
+    "name": "CITGuru/openduck",
+    "url": "https://github.com/CITGuru/openduck",
+    "lang": "Rust",
+    "desc": "Distributed DuckDB - dual execution and differential storage"
+  },
+  {
+    "createdAt": "2026-04-14T20:00:22Z",
+    "stars": 425,
+    "name": "Lazarus-AI/clearwing",
+    "url": "https://github.com/Lazarus-AI/clearwing",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-15T05:31:36Z",
+    "stars": 422,
+    "name": "stanford-iris-lab/meta-harness",
+    "url": "https://github.com/stanford-iris-lab/meta-harness",
+    "lang": "Python",
+    "desc": "Reference code for the Meta-Harness paper."
+  },
+  {
+    "createdAt": "2026-04-12T04:05:26Z",
+    "stars": 409,
+    "name": "maeil-mail/maeil-mail-contents",
+    "url": "https://github.com/maeil-mail/maeil-mail-contents",
+    "lang": "",
+    "desc": "📮 매일메일 기술 면접 컨텐츠 아카이브 (FE, BE)"
+  },
+  {
+    "createdAt": "2026-04-15T00:13:49Z",
+    "stars": 409,
+    "name": "millionco/claude-doctor",
+    "url": "https://github.com/millionco/claude-doctor",
+    "lang": "TypeScript",
+    "desc": "Diagnose your Claude Code sessions"
+  },
+  {
+    "createdAt": "2026-04-14T14:10:22Z",
+    "stars": 359,
+    "name": "bergside/design-md-chrome",
+    "url": "https://github.com/bergside/design-md-chrome",
+    "lang": "JavaScript",
+    "desc": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
+  },
+  {
+    "createdAt": "2026-04-11T03:01:45Z",
+    "stars": 356,
+    "name": "millionco/cli-to-js",
+    "url": "https://github.com/millionco/cli-to-js",
+    "lang": "TypeScript",
+    "desc": "Turn any CLI into a JavaScript API"
+  },
+  {
+    "createdAt": "2026-04-10T20:37:08Z",
+    "stars": 353,
+    "name": "mrT4ntr4/NtWarden",
+    "url": "https://github.com/mrT4ntr4/NtWarden",
+    "lang": "C++",
+    "desc": "Windows Analysis and Research Toolkit"
+  },
+  {
+    "createdAt": "2026-04-11T09:54:15Z",
+    "stars": 348,
+    "name": "Unclecheng-li/AI_Animation",
+    "url": "https://github.com/Unclecheng-li/AI_Animation",
+    "lang": "HTML",
+    "desc": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。"
+  },
+  {
+    "createdAt": "2026-04-15T13:45:41Z",
+    "stars": 327,
+    "name": "codejunkie99/agentic-stack",
+    "url": "https://github.com/codejunkie99/agentic-stack",
+    "lang": "Python",
+    "desc": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
+  },
+  {
+    "createdAt": "2026-04-12T13:14:56Z",
+    "stars": 323,
+    "name": "Fenng/Tech-Doc-Style-Chinese",
+    "url": "https://github.com/Fenng/Tech-Doc-Style-Chinese",
+    "lang": "Python",
+    "desc": "Yet another reusable writing skill for Chinese technical documentation and product copy."
+  },
+  {
+    "createdAt": "2026-04-10T18:10:44Z",
+    "stars": 316,
+    "name": "imbue-ai/bouncer",
+    "url": "https://github.com/imbue-ai/bouncer",
+    "lang": "TypeScript",
+    "desc": "Heal your social media feeds"
+  },
+  {
+    "createdAt": "2026-04-10T14:56:27Z",
+    "stars": 305,
+    "name": "Aryagm/dflash-mlx",
+    "url": "https://github.com/Aryagm/dflash-mlx",
+    "lang": "Python",
+    "desc": "Exact speculative decoding on Apple Silicon, powered by MLX."
+  }
+]
