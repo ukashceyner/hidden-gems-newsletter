@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-13T22:11:53Z",
+    "stars": 2702,
+    "name": "getagentseal/codeburn",
+    "url": "https://github.com/getagentseal/codeburn",
+    "lang": "TypeScript",
+    "desc": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability."
+  },
+  {
+    "createdAt": "2026-04-15T17:59:48Z",
+    "stars": 1794,
+    "name": "Robbyant/lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "lang": "Python",
+    "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+  },
+  {
+    "createdAt": "2026-04-15T21:37:07Z",
+    "stars": 1490,
+    "name": "Nightmare-Eclipse/RedSun",
+    "url": "https://github.com/Nightmare-Eclipse/RedSun",
+    "lang": "C++",
+    "desc": "The Red Sun vulnerability repository"
+  },
+  {
+    "createdAt": "2026-04-14T14:52:44Z",
+    "stars": 1463,
+    "name": "vercel-labs/wterm",
+    "url": "https://github.com/vercel-labs/wterm",
+    "lang": "TypeScript",
+    "desc": "A terminal emulator for the web"
+  },
+  {
+    "createdAt": "2026-04-12T09:12:57Z",
+    "stars": 1346,
+    "name": "Mouseww/anything-analyzer",
+    "url": "https://github.com/Mouseww/anything-analyzer",
+    "lang": "TypeScript",
+    "desc": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration"
+  },
+  {
+    "createdAt": "2026-04-12T01:34:42Z",
+    "stars": 1220,
+    "name": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-13T08:57:49Z",
+    "stars": 1189,
+    "name": "alchaincyf/darwin-skill",
+    "url": "https://github.com/alchaincyf/darwin-skill",
+    "lang": "HTML",
+    "desc": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
+  },
+  {
+    "createdAt": "2026-04-15T07:36:22Z",
+    "stars": 1134,
+    "name": "lewislulu/html-ppt-skill",
+    "url": "https://github.com/lewislulu/html-ppt-skill",
+    "lang": "HTML",
+    "desc": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
+  },
+  {
+    "createdAt": "2026-04-15T10:11:22Z",
+    "stars": 992,
+    "name": "Manavarya09/design-extract",
+    "url": "https://github.com/Manavarya09/design-extract",
+    "lang": "JavaScript",
+    "desc": "Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin."
+  },
+  {
+    "createdAt": "2026-04-12T10:47:30Z",
+    "stars": 966,
+    "name": "patterniha/SNI-Spoofing",
+    "url": "https://github.com/patterniha/SNI-Spoofing",
+    "lang": "Python",
+    "desc": "Bypass DPI with IP/TCP-Header manipulation"
+  },
+  {
+    "createdAt": "2026-04-14T11:48:05Z",
+    "stars": 928,
+    "name": "BuilderPulse/BuilderPulse",
+    "url": "https://github.com/BuilderPulse/BuilderPulse",
+    "lang": "",
+    "desc": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning."
+  },
+  {
+    "createdAt": "2026-04-13T03:41:38Z",
+    "stars": 912,
+    "name": "sogonov/anubis",
+    "url": "https://github.com/sogonov/anubis",
+    "lang": "Kotlin",
+    "desc": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state."
+  },
+  {
+    "createdAt": "2026-04-11T07:38:18Z",
+    "stars": 889,
+    "name": "EKKOLearnAI/hermes-web-ui",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "lang": "TypeScript",
+    "desc": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)"
+  },
+  {
+    "createdAt": "2026-04-12T18:26:00Z",
+    "stars": 832,
+    "name": "sterlingcrispin/nothing-ever-happens",
+    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "lang": "Python",
+    "desc": "Polymarket bot that buys \"No\" on all non-sports markets"
+  },
+  {
+    "createdAt": "2026-04-15T04:09:40Z",
+    "stars": 826,
+    "name": "WeaveMindAI/weft",
+    "url": "https://github.com/WeaveMindAI/weft",
+    "lang": "Rust",
+    "desc": "A programming language for AI systems"
+  },
+  {
+    "createdAt": "2026-04-13T11:42:03Z",
+    "stars": 809,
+    "name": "yaojingang/GEOFlow",
+    "url": "https://github.com/yaojingang/GEOFlow",
+    "lang": "PHP",
+    "desc": "Open-source GEO content production system with AI tasks, review workflow, and publishing."
+  },
+  {
+    "createdAt": "2026-04-16T07:36:06Z",
+    "stars": 760,
+    "name": "wbh604/UZI-Skill",
+    "url": "https://github.com/wbh604/UZI-Skill",
+    "lang": "Python",
+    "desc": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 "
+  },
+  {
+    "createdAt": "2026-04-11T13:50:24Z",
+    "stars": 671,
+    "name": "alchaincyf/obsidian-ai-orange-book",
+    "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+    "lang": "",
+    "desc": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑"
+  },
+  {
+    "createdAt": "2026-04-14T20:00:22Z",
+    "stars": 636,
+    "name": "Lazarus-AI/clearwing",
+    "url": "https://github.com/Lazarus-AI/clearwing",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-13T07:45:24Z",
+    "stars": 631,
+    "name": "andrewjiang/palantir-for-family-trips",
+    "url": "https://github.com/andrewjiang/palantir-for-family-trips",
+    "lang": "JavaScript",
+    "desc": "A Palantir-ish dashboard for family trip planning."
+  },
+  {
+    "createdAt": "2026-04-15T08:49:42Z",
+    "stars": 601,
+    "name": "xataio/xata",
+    "url": "https://github.com/xataio/xata",
+    "lang": "Go",
+    "desc": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero"
+  },
+  {
+    "createdAt": "2026-04-15T14:05:35Z",
+    "stars": 600,
+    "name": "op7418/logo-generator-skill",
+    "url": "https://github.com/op7418/logo-generator-skill",
+    "lang": "HTML",
+    "desc": "logo-generator-skill"
+  },
+  {
+    "createdAt": "2026-04-14T19:37:58Z",
+    "stars": 558,
+    "name": "poteto/how",
+    "url": "https://github.com/poteto/how",
+    "lang": "",
+    "desc": "skill for explaining architecture"
+  },
+  {
+    "createdAt": "2026-04-12T06:17:33Z",
+    "stars": 536,
+    "name": "amitshekhariitbhu/llm-internals",
+    "url": "https://github.com/amitshekhariitbhu/llm-internals",
+    "lang": "",
+    "desc": "Learn LLM internals step by step - from tokenization to attention to inference optimization."
+  },
+  {
+    "createdAt": "2026-04-12T17:27:34Z",
+    "stars": 524,
+    "name": "Jakubantalik/border-beam",
+    "url": "https://github.com/Jakubantalik/border-beam",
+    "lang": "TypeScript",
+    "desc": "Animated border beam effect for React"
+  },
+  {
+    "createdAt": "2026-04-15T13:45:41Z",
+    "stars": 493,
+    "name": "codejunkie99/agentic-stack",
+    "url": "https://github.com/codejunkie99/agentic-stack",
+    "lang": "Python",
+    "desc": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
+  },
+  {
+    "createdAt": "2026-04-11T17:25:41Z",
+    "stars": 481,
+    "name": "bstnxbt/dflash-mlx",
+    "url": "https://github.com/bstnxbt/dflash-mlx",
+    "lang": "Python",
+    "desc": "Lossless DFlash speculative decoding for MLX on Apple Silicon"
+  },
+  {
+    "createdAt": "2026-04-15T00:13:49Z",
+    "stars": 461,
+    "name": "millionco/claude-doctor",
+    "url": "https://github.com/millionco/claude-doctor",
+    "lang": "TypeScript",
+    "desc": "Diagnose your Claude Code sessions"
+  },
+  {
+    "createdAt": "2026-04-14T03:08:05Z",
+    "stars": 447,
+    "name": "CITGuru/openduck",
+    "url": "https://github.com/CITGuru/openduck",
+    "lang": "Rust",
+    "desc": "Distributed DuckDB - dual execution and differential storage"
+  },
+  {
+    "createdAt": "2026-04-17T19:18:03Z",
+    "stars": 445,
+    "name": "bwjoke/BTC-Trading-Since-2020",
+    "url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
+    "lang": "",
+    "desc": "Public BTC trading context since 2020."
+  },
+  {
+    "createdAt": "2026-04-15T05:31:36Z",
+    "stars": 444,
+    "name": "stanford-iris-lab/meta-harness",
+    "url": "https://github.com/stanford-iris-lab/meta-harness",
+    "lang": "Python",
+    "desc": "Reference code for the Meta-Harness paper."
+  },
+  {
+    "createdAt": "2026-04-12T04:05:26Z",
+    "stars": 421,
+    "name": "maeil-mail/maeil-mail-contents",
+    "url": "https://github.com/maeil-mail/maeil-mail-contents",
+    "lang": "",
+    "desc": "📮 매일메일 기술 면접 컨텐츠 아카이브 (FE, BE)"
+  },
+  {
+    "createdAt": "2026-04-14T14:10:22Z",
+    "stars": 418,
+    "name": "bergside/design-md-chrome",
+    "url": "https://github.com/bergside/design-md-chrome",
+    "lang": "JavaScript",
+    "desc": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
+  },
+  {
+    "createdAt": "2026-04-16T02:58:42Z",
+    "stars": 408,
+    "name": "zhuyansen/wx-favorites-report",
+    "url": "https://github.com/zhuyansen/wx-favorites-report",
+    "lang": "Python",
+    "desc": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
+  },
+  {
+    "createdAt": "2026-04-16T01:08:18Z",
+    "stars": 376,
+    "name": "jackwener/wx-cli",
+    "url": "https://github.com/jackwener/wx-cli",
+    "lang": "Rust",
+    "desc": "WeChat local data CLI with daemon architecture"
+  },
+  {
+    "createdAt": "2026-04-11T09:54:15Z",
+    "stars": 364,
+    "name": "Unclecheng-li/AI_Animation",
+    "url": "https://github.com/Unclecheng-li/AI_Animation",
+    "lang": "HTML",
+    "desc": "本项目整理了用于生成[炫酷 HTML 动画网页]的 AI Prompts，涵盖动画效果、3D 可视化、PPT 风格演示、UI 美化等多个类别。"
+  },
+  {
+    "createdAt": "2026-04-16T07:00:13Z",
+    "stars": 363,
+    "name": "assai-id/nemesis",
+    "url": "https://github.com/assai-id/nemesis",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-11T03:01:45Z",
+    "stars": 362,
+    "name": "millionco/cli-to-js",
+    "url": "https://github.com/millionco/cli-to-js",
+    "lang": "TypeScript",
+    "desc": "Turn any CLI into a JavaScript API"
+  },
+  {
+    "createdAt": "2026-04-12T09:51:03Z",
+    "stars": 331,
+    "name": "dominikmartn/hue",
+    "url": "https://github.com/dominikmartn/hue",
+    "lang": "",
+    "desc": "open-source skill that learns any brand and turns it into a complete design system. works on claude code and codex. install once, every UI your assistant builds matches your brand."
+  },
+  {
+    "createdAt": "2026-04-12T13:14:56Z",
+    "stars": 326,
+    "name": "Fenng/Tech-Doc-Style-Chinese",
+    "url": "https://github.com/Fenng/Tech-Doc-Style-Chinese",
+    "lang": "Python",
+    "desc": "Yet another reusable writing skill for Chinese technical documentation and product copy."
+  },
+  {
+    "createdAt": "2026-04-11T04:14:07Z",
+    "stars": 308,
+    "name": "indragiek/GHFS",
+    "url": "https://github.com/indragiek/GHFS",
+    "lang": "Swift",
+    "desc": "Mount GitHub repositories as a virtual read-only macOS filesystem"
+  },
+  {
+    "createdAt": "2026-04-13T10:31:41Z",
+    "stars": 308,
+    "name": "h4ckf0r0day/obscura",
+    "url": "https://github.com/h4ckf0r0day/obscura",
+    "lang": "Rust",
+    "desc": "The headless browser for AI agents and web scraping"
+  },
+  {
+    "createdAt": "2026-04-11T11:22:09Z",
+    "stars": 304,
+    "name": "ListerOvO1211/LazyEnv",
+    "url": "https://github.com/ListerOvO1211/LazyEnv",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-16T18:01:16Z",
+    "stars": 297,
+    "name": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "lang": "HTML",
+    "desc": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+  },
+  {
+    "createdAt": "2026-04-12T20:53:26Z",
+    "stars": 294,
+    "name": "V-IOLE-T/hotmail-register-extension",
+    "url": "https://github.com/V-IOLE-T/hotmail-register-extension",
+    "lang": "JavaScript",
+    "desc": "基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理"
+  },
+  {
+    "createdAt": "2026-04-13T06:00:59Z",
+    "stars": 295,
+    "name": "shanselman/PeekDesktop",
+    "url": "https://github.com/shanselman/PeekDesktop",
+    "lang": "C#",
+    "desc": "Click your desktop to peek at it - just like macOS Sonoma."
+  },
+  {
+    "createdAt": "2026-04-11T21:01:43Z",
+    "stars": 294,
+    "name": "mpiorowski/late-sh",
+    "url": "https://github.com/mpiorowski/late-sh",
+    "lang": "Rust",
+    "desc": "A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH."
+  },
+  {
+    "createdAt": "2026-04-15T03:02:03Z",
+    "stars": 275,
+    "name": "thegdsks/awesome-modern-cli",
+    "url": "https://github.com/thegdsks/awesome-modern-cli",
+    "lang": "",
+    "desc": "A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day."
+  },
+  {
+    "createdAt": "2026-04-15T15:38:09Z",
+    "stars": 273,
+    "name": "koffuxu/ai-influence-digest",
+    "url": "https://github.com/koffuxu/ai-influence-digest",
+    "lang": "Python",
+    "desc": "Turn X scrolling into an AI-powered weekly digest — no X API, no scraping, just your browser. Scans 65+ AI builders, filters actionable content, exports a poster. Built for  content creators. "
+  },
+  {
+    "createdAt": "2026-04-12T17:44:23Z",
+    "stars": 270,
+    "name": "immanuwell/dockerfile-roast",
+    "url": "https://github.com/immanuwell/dockerfile-roast",
+    "lang": "Rust",
+    "desc": "a dockerfile linter that actually has opinions 🔥"
+  }
+]
