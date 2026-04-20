@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-18T12:57:52Z",
+    "stars": 4031,
+    "name": "kyegomez/OpenMythos",
+    "url": "https://github.com/kyegomez/OpenMythos",
+    "lang": "Python",
+    "desc": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature."
+  },
+  {
+    "createdAt": "2026-04-17T01:56:15Z",
+    "stars": 3481,
+    "name": "browser-use/browser-harness",
+    "url": "https://github.com/browser-use/browser-harness",
+    "lang": "Python",
+    "desc": "Self-healing browser harness that enables LLMs to complete any task."
+  },
+  {
+    "createdAt": "2026-04-15T17:59:48Z",
+    "stars": 3208,
+    "name": "Robbyant/lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "lang": "Python",
+    "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+  },
+  {
+    "createdAt": "2026-04-13T22:11:53Z",
+    "stars": 3034,
+    "name": "getagentseal/codeburn",
+    "url": "https://github.com/getagentseal/codeburn",
+    "lang": "TypeScript",
+    "desc": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability."
+  },
+  {
+    "createdAt": "2026-04-14T14:52:44Z",
+    "stars": 2204,
+    "name": "vercel-labs/wterm",
+    "url": "https://github.com/vercel-labs/wterm",
+    "lang": "TypeScript",
+    "desc": "A terminal emulator for the web"
+  },
+  {
+    "createdAt": "2026-04-15T07:36:22Z",
+    "stars": 1643,
+    "name": "lewislulu/html-ppt-skill",
+    "url": "https://github.com/lewislulu/html-ppt-skill",
+    "lang": "HTML",
+    "desc": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
+  },
+  {
+    "createdAt": "2026-04-15T21:37:07Z",
+    "stars": 1639,
+    "name": "Nightmare-Eclipse/RedSun",
+    "url": "https://github.com/Nightmare-Eclipse/RedSun",
+    "lang": "C++",
+    "desc": "The Red Sun vulnerability repository"
+  },
+  {
+    "createdAt": "2026-04-13T08:57:49Z",
+    "stars": 1403,
+    "name": "alchaincyf/darwin-skill",
+    "url": "https://github.com/alchaincyf/darwin-skill",
+    "lang": "HTML",
+    "desc": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert."
+  },
+  {
+    "createdAt": "2026-04-15T10:11:22Z",
+    "stars": 1139,
+    "name": "Manavarya09/design-extract",
+    "url": "https://github.com/Manavarya09/design-extract",
+    "lang": "JavaScript",
+    "desc": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+."
+  },
+  {
+    "createdAt": "2026-04-14T11:48:05Z",
+    "stars": 1015,
+    "name": "BuilderPulse/BuilderPulse",
+    "url": "https://github.com/BuilderPulse/BuilderPulse",
+    "lang": "",
+    "desc": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning."
+  },
+  {
+    "createdAt": "2026-04-13T03:41:38Z",
+    "stars": 978,
+    "name": "sogonov/anubis",
+    "url": "https://github.com/sogonov/anubis",
+    "lang": "Kotlin",
+    "desc": "Android app manager with VPN integration. Manages groups of apps by freezing/unfreezing them based on VPN connection state."
+  },
+  {
+    "createdAt": "2026-04-16T07:36:06Z",
+    "stars": 965,
+    "name": "wbh604/UZI-Skill",
+    "url": "https://github.com/wbh604/UZI-Skill",
+    "lang": "Python",
+    "desc": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 "
+  },
+  {
+    "createdAt": "2026-04-16T18:01:16Z",
+    "stars": 932,
+    "name": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "lang": "HTML",
+    "desc": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+  },
+  {
+    "createdAt": "2026-04-15T04:09:40Z",
+    "stars": 907,
+    "name": "WeaveMindAI/weft",
+    "url": "https://github.com/WeaveMindAI/weft",
+    "lang": "Rust",
+    "desc": "A programming language for AI systems"
+  },
+  {
+    "createdAt": "2026-04-13T11:42:03Z",
+    "stars": 906,
+    "name": "yaojingang/GEOFlow",
+    "url": "https://github.com/yaojingang/GEOFlow",
+    "lang": "PHP",
+    "desc": "Open-source GEO content production system with AI tasks, review workflow, and publishing."
+  },
+  {
+    "createdAt": "2026-04-13T00:06:44Z",
+    "stars": 831,
+    "name": "NikolayS/pgque",
+    "url": "https://github.com/NikolayS/pgque",
+    "lang": "PLpgSQL",
+    "desc": "PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick."
+  },
+  {
+    "createdAt": "2026-04-18T11:22:14Z",
+    "stars": 825,
+    "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+    "lang": "",
+    "desc": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments."
+  },
+  {
+    "createdAt": "2026-04-14T20:00:22Z",
+    "stars": 806,
+    "name": "Lazarus-AI/clearwing",
+    "url": "https://github.com/Lazarus-AI/clearwing",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-17T19:18:03Z",
+    "stars": 780,
+    "name": "bwjoke/BTC-Trading-Since-2020",
+    "url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
+    "lang": "",
+    "desc": "Public BTC trading context since 2020."
+  },
+  {
+    "createdAt": "2026-04-15T13:45:41Z",
+    "stars": 751,
+    "name": "codejunkie99/agentic-stack",
+    "url": "https://github.com/codejunkie99/agentic-stack",
+    "lang": "Python",
+    "desc": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
+  },
+  {
+    "createdAt": "2026-04-18T06:40:04Z",
+    "stars": 706,
+    "name": "VoltAgent/awesome-claude-design",
+    "url": "https://github.com/VoltAgent/awesome-claude-design",
+    "lang": "",
+    "desc": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot."
+  },
+  {
+    "createdAt": "2026-04-13T07:45:24Z",
+    "stars": 698,
+    "name": "andrewjiang/palantir-for-family-trips",
+    "url": "https://github.com/andrewjiang/palantir-for-family-trips",
+    "lang": "JavaScript",
+    "desc": "A Palantir-ish dashboard for family trip planning."
+  },
+  {
+    "createdAt": "2026-04-15T08:49:42Z",
+    "stars": 681,
+    "name": "xataio/xata",
+    "url": "https://github.com/xataio/xata",
+    "lang": "Go",
+    "desc": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero"
+  },
+  {
+    "createdAt": "2026-04-15T14:05:35Z",
+    "stars": 667,
+    "name": "op7418/logo-generator-skill",
+    "url": "https://github.com/op7418/logo-generator-skill",
+    "lang": "HTML",
+    "desc": "logo-generator-skill"
+  },
+  {
+    "createdAt": "2026-04-14T14:10:22Z",
+    "stars": 657,
+    "name": "bergside/design-md-chrome",
+    "url": "https://github.com/bergside/design-md-chrome",
+    "lang": "JavaScript",
+    "desc": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI"
+  },
+  {
+    "createdAt": "2026-04-14T19:37:58Z",
+    "stars": 615,
+    "name": "poteto/how",
+    "url": "https://github.com/poteto/how",
+    "lang": "",
+    "desc": "skill for explaining architecture"
+  },
+  {
+    "createdAt": "2026-04-15T05:31:36Z",
+    "stars": 537,
+    "name": "stanford-iris-lab/meta-harness",
+    "url": "https://github.com/stanford-iris-lab/meta-harness",
+    "lang": "Python",
+    "desc": "Reference code for the Meta-Harness paper."
+  },
+  {
+    "createdAt": "2026-04-16T02:58:42Z",
+    "stars": 515,
+    "name": "zhuyansen/wx-favorites-report",
+    "url": "https://github.com/zhuyansen/wx-favorites-report",
+    "lang": "Python",
+    "desc": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
+  },
+  {
+    "createdAt": "2026-04-16T07:00:13Z",
+    "stars": 485,
+    "name": "assai-id/nemesis",
+    "url": "https://github.com/assai-id/nemesis",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-15T00:13:49Z",
+    "stars": 481,
+    "name": "millionco/claude-doctor",
+    "url": "https://github.com/millionco/claude-doctor",
+    "lang": "TypeScript",
+    "desc": "Diagnose your Claude Code sessions"
+  },
+  {
+    "createdAt": "2026-04-14T03:08:05Z",
+    "stars": 477,
+    "name": "CITGuru/openduck",
+    "url": "https://github.com/CITGuru/openduck",
+    "lang": "Rust",
+    "desc": "Distributed DuckDB - dual execution and differential storage"
+  },
+  {
+    "createdAt": "2026-04-13T10:31:41Z",
+    "stars": 469,
+    "name": "h4ckf0r0day/obscura",
+    "url": "https://github.com/h4ckf0r0day/obscura",
+    "lang": "Rust",
+    "desc": "The headless browser for AI agents and web scraping"
+  },
+  {
+    "createdAt": "2026-04-19T01:35:57Z",
+    "stars": 458,
+    "name": "ZeroZ-lab/cc-design",
+    "url": "https://github.com/ZeroZ-lab/cc-design",
+    "lang": "JavaScript",
+    "desc": "High-fidelity HTML design and prototype guidance skill for AI agents"
+  },
+  {
+    "createdAt": "2026-04-16T01:08:18Z",
+    "stars": 438,
+    "name": "jackwener/wx-cli",
+    "url": "https://github.com/jackwener/wx-cli",
+    "lang": "Rust",
+    "desc": "WeChat local data CLI with daemon architecture"
+  },
+  {
+    "createdAt": "2026-04-16T01:44:04Z",
+    "stars": 395,
+    "name": "SteveTheKiller/KillerPDF",
+    "url": "https://github.com/SteveTheKiller/KillerPDF",
+    "lang": "C#",
+    "desc": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
+  },
+  {
+    "createdAt": "2026-04-16T05:54:32Z",
+    "stars": 390,
+    "name": "kangarooking/cangjie-skill",
+    "url": "https://github.com/kangarooking/cangjie-skill",
+    "lang": "",
+    "desc": "把一本书蒸馏成一组可执行的 Agent Skills"
+  },
+  {
+    "createdAt": "2026-04-15T08:01:45Z",
+    "stars": 389,
+    "name": "Creators-of-Aeronautics/Simulated-Project",
+    "url": "https://github.com/Creators-of-Aeronautics/Simulated-Project",
+    "lang": "Java",
+    "desc": "Build anything from airships to planes and cars!"
+  },
+  {
+    "createdAt": "2026-04-17T02:46:48Z",
+    "stars": 357,
+    "name": "zats/permiso",
+    "url": "https://github.com/zats/permiso",
+    "lang": "Swift",
+    "desc": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
+  },
+  {
+    "createdAt": "2026-04-18T01:08:34Z",
+    "stars": 357,
+    "name": "Quorinex/Freebuff2API",
+    "url": "https://github.com/Quorinex/Freebuff2API",
+    "lang": "Go",
+    "desc": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment."
+  },
+  {
+    "createdAt": "2026-04-14T07:43:10Z",
+    "stars": 351,
+    "name": "techjarves/USB-Uncensored-LLM",
+    "url": "https://github.com/techjarves/USB-Uncensored-LLM",
+    "lang": "Shell",
+    "desc": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history."
+  },
+  {
+    "createdAt": "2026-04-13T06:00:59Z",
+    "stars": 333,
+    "name": "shanselman/PeekDesktop",
+    "url": "https://github.com/shanselman/PeekDesktop",
+    "lang": "C#",
+    "desc": "Click your desktop to peek at it - just like macOS Sonoma."
+  },
+  {
+    "createdAt": "2026-04-18T18:06:49Z",
+    "stars": 318,
+    "name": "endevco/aube",
+    "url": "https://github.com/endevco/aube",
+    "lang": "Rust",
+    "desc": "A fast Node.js package manager"
+  },
+  {
+    "createdAt": "2026-04-18T14:42:02Z",
+    "stars": 316,
+    "name": "drasimwagan/mdv",
+    "url": "https://github.com/drasimwagan/mdv",
+    "lang": "TypeScript",
+    "desc": "MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension."
+  },
+  {
+    "createdAt": "2026-04-17T06:42:43Z",
+    "stars": 305,
+    "name": "Ademking/MD-This-Page",
+    "url": "https://github.com/Ademking/MD-This-Page",
+    "lang": "TypeScript",
+    "desc": "Convert any web page to clean, readable Markdown with just one click."
+  },
+  {
+    "createdAt": "2026-04-14T02:39:44Z",
+    "stars": 303,
+    "name": "baidu/ERNIE-Image",
+    "url": "https://github.com/baidu/ERNIE-Image",
+    "lang": "Python",
+    "desc": "ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models."
+  },
+  {
+    "createdAt": "2026-04-14T06:50:28Z",
+    "stars": 296,
+    "name": "amaancoderx/npxskillui",
+    "url": "https://github.com/amaancoderx/npxskillui",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-15T03:02:03Z",
+    "stars": 295,
+    "name": "thegdsks/awesome-modern-cli",
+    "url": "https://github.com/thegdsks/awesome-modern-cli",
+    "lang": "",
+    "desc": "A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day."
+  },
+  {
+    "createdAt": "2026-04-15T15:38:09Z",
+    "stars": 290,
+    "name": "koffuxu/ai-influence-digest",
+    "url": "https://github.com/koffuxu/ai-influence-digest",
+    "lang": "Python",
+    "desc": "Turn X scrolling into an AI-powered weekly digest — no X API, no scraping, just your browser. Scans 65+ AI builders, filters actionable content, exports a poster. Built for  content creators. "
+  },
+  {
+    "createdAt": "2026-04-13T02:39:35Z",
+    "stars": 288,
+    "name": "redai-infra/Relax",
+    "url": "https://github.com/redai-infra/Relax",
+    "lang": "Python",
+    "desc": "An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale"
+  },
+  {
+    "createdAt": "2026-04-14T00:37:56Z",
+    "stars": 287,
+    "name": "ChatPRD/tradclaw",
+    "url": "https://github.com/ChatPRD/tradclaw",
+    "lang": "",
+    "desc": "AI openclaw mom and household manager for agentic parenting"
+  }
+]
