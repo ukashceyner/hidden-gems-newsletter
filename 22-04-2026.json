@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-18T12:57:52Z",
+    "stars": 8778,
+    "name": "kyegomez/OpenMythos",
+    "url": "https://github.com/kyegomez/OpenMythos",
+    "lang": "Python",
+    "desc": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature."
+  },
+  {
+    "createdAt": "2026-04-17T01:56:15Z",
+    "stars": 5003,
+    "name": "browser-use/browser-harness",
+    "url": "https://github.com/browser-use/browser-harness",
+    "lang": "Python",
+    "desc": "Self-healing browser harness that enables LLMs to complete any task."
+  },
+  {
+    "createdAt": "2026-04-19T14:42:06Z",
+    "stars": 4385,
+    "name": "alchaincyf/huashu-design",
+    "url": "https://github.com/alchaincyf/huashu-design",
+    "lang": "HTML",
+    "desc": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic"
+  },
+  {
+    "createdAt": "2026-04-15T17:59:48Z",
+    "stars": 4148,
+    "name": "Robbyant/lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "lang": "Python",
+    "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+  },
+  {
+    "createdAt": "2026-04-20T16:35:19Z",
+    "stars": 2518,
+    "name": "tw93/Kami",
+    "url": "https://github.com/tw93/Kami",
+    "lang": "HTML",
+    "desc": "👩‍🚒 Good content deserves good paper."
+  },
+  {
+    "createdAt": "2026-04-15T07:36:22Z",
+    "stars": 1836,
+    "name": "lewislulu/html-ppt-skill",
+    "url": "https://github.com/lewislulu/html-ppt-skill",
+    "lang": "HTML",
+    "desc": "HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations"
+  },
+  {
+    "createdAt": "2026-04-15T21:37:07Z",
+    "stars": 1715,
+    "name": "Nightmare-Eclipse/RedSun",
+    "url": "https://github.com/Nightmare-Eclipse/RedSun",
+    "lang": "C++",
+    "desc": "The Red Sun vulnerability repository"
+  },
+  {
+    "createdAt": "2026-04-18T11:22:14Z",
+    "stars": 1679,
+    "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+    "lang": "Python",
+    "desc": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments."
+  },
+  {
+    "createdAt": "2026-04-16T18:01:16Z",
+    "stars": 1589,
+    "name": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "lang": "HTML",
+    "desc": "Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop."
+  },
+  {
+    "createdAt": "2026-04-15T13:45:41Z",
+    "stars": 1428,
+    "name": "codejunkie99/agentic-stack",
+    "url": "https://github.com/codejunkie99/agentic-stack",
+    "lang": "Python",
+    "desc": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch."
+  },
+  {
+    "createdAt": "2026-04-15T10:11:22Z",
+    "stars": 1366,
+    "name": "Manavarya09/design-extract",
+    "url": "https://github.com/Manavarya09/design-extract",
+    "lang": "JavaScript",
+    "desc": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+."
+  },
+  {
+    "createdAt": "2026-04-18T03:14:33Z",
+    "stars": 1203,
+    "name": "OpenCoworkAI/open-codesign",
+    "url": "https://github.com/OpenCoworkAI/open-codesign",
+    "lang": "TypeScript",
+    "desc": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT."
+  },
+  {
+    "createdAt": "2026-04-18T06:40:04Z",
+    "stars": 1190,
+    "name": "VoltAgent/awesome-claude-design",
+    "url": "https://github.com/VoltAgent/awesome-claude-design",
+    "lang": "",
+    "desc": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot."
+  },
+  {
+    "createdAt": "2026-04-16T07:36:06Z",
+    "stars": 1155,
+    "name": "wbh604/UZI-Skill",
+    "url": "https://github.com/wbh604/UZI-Skill",
+    "lang": "Python",
+    "desc": "冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 "
+  },
+  {
+    "createdAt": "2026-04-15T04:09:40Z",
+    "stars": 967,
+    "name": "WeaveMindAI/weft",
+    "url": "https://github.com/WeaveMindAI/weft",
+    "lang": "Rust",
+    "desc": "A programming language for AI systems"
+  },
+  {
+    "createdAt": "2026-04-19T21:58:46Z",
+    "stars": 844,
+    "name": "the-hidden-fish/advisor-ledger",
+    "url": "https://github.com/the-hidden-fish/advisor-ledger",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-17T19:18:03Z",
+    "stars": 819,
+    "name": "bwjoke/BTC-Trading-Since-2020",
+    "url": "https://github.com/bwjoke/BTC-Trading-Since-2020",
+    "lang": "",
+    "desc": "Public BTC trading context since 2020."
+  },
+  {
+    "createdAt": "2026-04-19T10:49:46Z",
+    "stars": 793,
+    "name": "golbin/hop",
+    "url": "https://github.com/golbin/hop",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-18T06:02:44Z",
+    "stars": 787,
+    "name": "432539/gpt2api",
+    "url": "https://github.com/432539/gpt2api",
+    "lang": "Go",
+    "desc": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
+  },
+  {
+    "createdAt": "2026-04-15T08:49:42Z",
+    "stars": 726,
+    "name": "xataio/xata",
+    "url": "https://github.com/xataio/xata",
+    "lang": "Go",
+    "desc": "Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero"
+  },
+  {
+    "createdAt": "2026-04-15T14:05:35Z",
+    "stars": 709,
+    "name": "op7418/logo-generator-skill",
+    "url": "https://github.com/op7418/logo-generator-skill",
+    "lang": "HTML",
+    "desc": "logo-generator-skill"
+  },
+  {
+    "createdAt": "2026-04-16T01:44:04Z",
+    "stars": 692,
+    "name": "SteveTheKiller/KillerPDF",
+    "url": "https://github.com/SteveTheKiller/KillerPDF",
+    "lang": "C#",
+    "desc": "Portable PDF editor for Windows. GPLv3. No installer, no account, no subscription, no telemetry."
+  },
+  {
+    "createdAt": "2026-04-20T10:32:26Z",
+    "stars": 674,
+    "name": "masterking32/MasterHttpRelayVPN",
+    "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-19T01:35:57Z",
+    "stars": 593,
+    "name": "ZeroZ-lab/cc-design",
+    "url": "https://github.com/ZeroZ-lab/cc-design",
+    "lang": "JavaScript",
+    "desc": "High-fidelity HTML design and prototype guidance skill for AI agents"
+  },
+  {
+    "createdAt": "2026-04-15T05:31:36Z",
+    "stars": 582,
+    "name": "stanford-iris-lab/meta-harness",
+    "url": "https://github.com/stanford-iris-lab/meta-harness",
+    "lang": "Python",
+    "desc": "Reference code for the Meta-Harness paper."
+  },
+  {
+    "createdAt": "2026-04-16T07:00:13Z",
+    "stars": 578,
+    "name": "assai-id/nemesis",
+    "url": "https://github.com/assai-id/nemesis",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-16T02:58:42Z",
+    "stars": 537,
+    "name": "zhuyansen/wx-favorites-report",
+    "url": "https://github.com/zhuyansen/wx-favorites-report",
+    "lang": "Python",
+    "desc": "微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线"
+  },
+  {
+    "createdAt": "2026-04-18T16:40:44Z",
+    "stars": 535,
+    "name": "OranAi-Ltd/oransim",
+    "url": "https://github.com/OranAi-Ltd/oransim",
+    "lang": "Python",
+    "desc": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar."
+  },
+  {
+    "createdAt": "2026-04-15T00:13:49Z",
+    "stars": 503,
+    "name": "millionco/claude-doctor",
+    "url": "https://github.com/millionco/claude-doctor",
+    "lang": "TypeScript",
+    "desc": "Diagnose your Claude Code sessions"
+  },
+  {
+    "createdAt": "2026-04-17T06:42:43Z",
+    "stars": 497,
+    "name": "Ademking/MD-This-Page",
+    "url": "https://github.com/Ademking/MD-This-Page",
+    "lang": "TypeScript",
+    "desc": "Convert any web page to clean, readable Markdown with just one click."
+  },
+  {
+    "createdAt": "2026-04-16T05:54:32Z",
+    "stars": 486,
+    "name": "kangarooking/cangjie-skill",
+    "url": "https://github.com/kangarooking/cangjie-skill",
+    "lang": "",
+    "desc": "把一本书蒸馏成一组可执行的 Agent Skills"
+  },
+  {
+    "createdAt": "2026-04-16T01:08:18Z",
+    "stars": 476,
+    "name": "jackwener/wx-cli",
+    "url": "https://github.com/jackwener/wx-cli",
+    "lang": "Rust",
+    "desc": "WeChat local data CLI with daemon architecture"
+  },
+  {
+    "createdAt": "2026-04-19T14:53:01Z",
+    "stars": 471,
+    "name": "basketikun/chatgpt2api",
+    "url": "https://github.com/basketikun/chatgpt2api",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-15T08:01:45Z",
+    "stars": 470,
+    "name": "Creators-of-Aeronautics/Simulated-Project",
+    "url": "https://github.com/Creators-of-Aeronautics/Simulated-Project",
+    "lang": "Java",
+    "desc": "Build anything from airships to planes and cars!"
+  },
+  {
+    "createdAt": "2026-04-19T03:40:28Z",
+    "stars": 463,
+    "name": "TheRealSeanDonahoe/agents-md",
+    "url": "https://github.com/TheRealSeanDonahoe/agents-md",
+    "lang": "",
+    "desc": "Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's four principles and Boris Cherny's Claude Code workflow. Works with Claude Code, Codex, Gemini CLI, Cursor, and the open standard."
+  },
+  {
+    "createdAt": "2026-04-20T12:46:31Z",
+    "stars": 460,
+    "name": "cosmicstack-labs/mercury-agent",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent",
+    "lang": "TypeScript",
+    "desc": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram."
+  },
+  {
+    "createdAt": "2026-04-18T06:27:50Z",
+    "stars": 457,
+    "name": "AERT-7Y/kiro-auto",
+    "url": "https://github.com/AERT-7Y/kiro-auto",
+    "lang": "TypeScript",
+    "desc": "kiro自动注册机"
+  },
+  {
+    "createdAt": "2026-04-20T15:28:16Z",
+    "stars": 397,
+    "name": "leigest519/OpenGame",
+    "url": "https://github.com/leigest519/OpenGame",
+    "lang": "TypeScript",
+    "desc": "OpenGame: Open Agentic Coding for Games"
+  },
+  {
+    "createdAt": "2026-04-18T14:42:02Z",
+    "stars": 386,
+    "name": "drasimwagan/mdv",
+    "url": "https://github.com/drasimwagan/mdv",
+    "lang": "TypeScript",
+    "desc": "MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension."
+  },
+  {
+    "createdAt": "2026-04-18T01:08:34Z",
+    "stars": 380,
+    "name": "Quorinex/Freebuff2API",
+    "url": "https://github.com/Quorinex/Freebuff2API",
+    "lang": "Go",
+    "desc": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment."
+  },
+  {
+    "createdAt": "2026-04-17T02:46:48Z",
+    "stars": 372,
+    "name": "zats/permiso",
+    "url": "https://github.com/zats/permiso",
+    "lang": "Swift",
+    "desc": "Permission dialog for accessibility settings as seen in Codex Computer Use https://x.com/lexrus/status/2044929029334245819"
+  },
+  {
+    "createdAt": "2026-04-18T18:06:49Z",
+    "stars": 369,
+    "name": "endevco/aube",
+    "url": "https://github.com/endevco/aube",
+    "lang": "Rust",
+    "desc": "A fast Node.js package manager"
+  },
+  {
+    "createdAt": "2026-04-16T12:22:58Z",
+    "stars": 366,
+    "name": "fancyai-official/skills",
+    "url": "https://github.com/fancyai-official/skills",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-16T06:06:10Z",
+    "stars": 355,
+    "name": "rexa-developer/tiks",
+    "url": "https://github.com/rexa-developer/tiks",
+    "lang": "TypeScript",
+    "desc": "Procedural UI sounds for the web. Zero audio files. Pure synthesis."
+  },
+  {
+    "createdAt": "2026-04-19T13:46:03Z",
+    "stars": 353,
+    "name": "patterniha/MITM-DomainFronting",
+    "url": "https://github.com/patterniha/MITM-DomainFronting",
+    "lang": "Batchfile",
+    "desc": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
+  },
+  {
+    "createdAt": "2026-04-19T03:28:41Z",
+    "stars": 346,
+    "name": "oritera/Cairn",
+    "url": "https://github.com/oritera/Cairn",
+    "lang": "",
+    "desc": "AI 自动化通用问题解决 / AI 自动化渗透测试系统"
+  },
+  {
+    "createdAt": "2026-04-17T22:49:09Z",
+    "stars": 345,
+    "name": "openai/privacy-filter",
+    "url": "https://github.com/openai/privacy-filter",
+    "lang": "Python",
+    "desc": "OpenAI Privacy Filter"
+  },
+  {
+    "createdAt": "2026-04-20T12:59:46Z",
+    "stars": 330,
+    "name": "MoonshotAI/FlashKDA",
+    "url": "https://github.com/MoonshotAI/FlashKDA",
+    "lang": "Cuda",
+    "desc": "FlashKDA: high-performance Kimi Delta Attention kernels"
+  },
+  {
+    "createdAt": "2026-04-17T06:51:32Z",
+    "stars": 324,
+    "name": "iFurySt/open-codex-computer-use",
+    "url": "https://github.com/iFurySt/open-codex-computer-use",
+    "lang": "Swift",
+    "desc": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use"
+  },
+  {
+    "createdAt": "2026-04-16T20:51:35Z",
+    "stars": 322,
+    "name": "gridex/gridex",
+    "url": "https://github.com/gridex/gridex",
+    "lang": "Swift",
+    "desc": "A native macOS / windows database IDE built with Swift and AppKit. Connect to PostgreSQL, MySQL, SQLite, and Redis from a single app with a fast, keyboard-driven interface."
+  }
+]
