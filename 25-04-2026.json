@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-18T12:57:52Z",
+    "stars": 10377,
+    "name": "kyegomez/OpenMythos",
+    "url": "https://github.com/kyegomez/OpenMythos",
+    "lang": "Python",
+    "desc": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature."
+  },
+  {
+    "createdAt": "2026-04-19T14:42:06Z",
+    "stars": 6471,
+    "name": "alchaincyf/huashu-design",
+    "url": "https://github.com/alchaincyf/huashu-design",
+    "lang": "HTML",
+    "desc": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic"
+  },
+  {
+    "createdAt": "2026-04-18T11:22:14Z",
+    "stars": 3921,
+    "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+    "lang": "Python",
+    "desc": "Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments."
+  },
+  {
+    "createdAt": "2026-04-20T16:35:19Z",
+    "stars": 3245,
+    "name": "tw93/Kami",
+    "url": "https://github.com/tw93/Kami",
+    "lang": "HTML",
+    "desc": "👩‍🚒 Good content deserves good paper."
+  },
+  {
+    "createdAt": "2026-04-23T13:23:07Z",
+    "stars": 2661,
+    "name": "op7418/guizang-ppt-skill",
+    "url": "https://github.com/op7418/guizang-ppt-skill",
+    "lang": "HTML",
+    "desc": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output."
+  },
+  {
+    "createdAt": "2026-04-18T03:14:33Z",
+    "stars": 2372,
+    "name": "OpenCoworkAI/open-codesign",
+    "url": "https://github.com/OpenCoworkAI/open-codesign",
+    "lang": "TypeScript",
+    "desc": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT."
+  },
+  {
+    "createdAt": "2026-04-18T06:40:04Z",
+    "stars": 1587,
+    "name": "VoltAgent/awesome-claude-design",
+    "url": "https://github.com/VoltAgent/awesome-claude-design",
+    "lang": "",
+    "desc": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot."
+  },
+  {
+    "createdAt": "2026-04-20T10:32:26Z",
+    "stars": 1235,
+    "name": "masterking32/MasterHttpRelayVPN",
+    "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+    "lang": "Python",
+    "desc": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion."
+  },
+  {
+    "createdAt": "2026-04-21T11:56:17Z",
+    "stars": 1223,
+    "name": "ConardLi/garden-skills",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "lang": "JavaScript",
+    "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
+  },
+  {
+    "createdAt": "2026-04-22T05:38:31Z",
+    "stars": 1155,
+    "name": "deepseek-ai/TileKernels",
+    "url": "https://github.com/deepseek-ai/TileKernels",
+    "lang": "Python",
+    "desc": "A kernel library written in tilelang"
+  },
+  {
+    "createdAt": "2026-04-21T14:50:33Z",
+    "stars": 1094,
+    "name": "Einsia/OpenChronicle",
+    "url": "https://github.com/Einsia/OpenChronicle",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-20T15:28:16Z",
+    "stars": 1082,
+    "name": "leigest519/OpenGame",
+    "url": "https://github.com/leigest519/OpenGame",
+    "lang": "TypeScript",
+    "desc": "OpenGame: Open Agentic Coding for Games"
+  },
+  {
+    "createdAt": "2026-04-19T21:58:46Z",
+    "stars": 1075,
+    "name": "the-hidden-fish/advisor-ledger",
+    "url": "https://github.com/the-hidden-fish/advisor-ledger",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-20T12:46:31Z",
+    "stars": 1066,
+    "name": "cosmicstack-labs/mercury-agent",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent",
+    "lang": "TypeScript",
+    "desc": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram."
+  },
+  {
+    "createdAt": "2026-04-18T06:02:44Z",
+    "stars": 1058,
+    "name": "432539/gpt2api",
+    "url": "https://github.com/432539/gpt2api",
+    "lang": "Go",
+    "desc": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446"
+  },
+  {
+    "createdAt": "2026-04-19T10:49:46Z",
+    "stars": 1027,
+    "name": "golbin/hop",
+    "url": "https://github.com/golbin/hop",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-18T16:40:44Z",
+    "stars": 1026,
+    "name": "OranAi-Ltd/oransim",
+    "url": "https://github.com/OranAi-Ltd/oransim",
+    "lang": "Python",
+    "desc": "Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar."
+  },
+  {
+    "createdAt": "2026-04-19T14:53:01Z",
+    "stars": 809,
+    "name": "basketikun/chatgpt2api",
+    "url": "https://github.com/basketikun/chatgpt2api",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-24T06:34:54Z",
+    "stars": 804,
+    "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+    "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
+    "lang": "",
+    "desc": "对于DeepSeek-V4角色扮演的特殊控制指令的说明"
+  },
+  {
+    "createdAt": "2026-04-21T14:46:31Z",
+    "stars": 634,
+    "name": "therealaleph/MasterHttpRelayVPN-RUST",
+    "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
+    "lang": "Rust",
+    "desc": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps."
+  },
+  {
+    "createdAt": "2026-04-19T01:35:57Z",
+    "stars": 631,
+    "name": "ZeroZ-lab/cc-design",
+    "url": "https://github.com/ZeroZ-lab/cc-design",
+    "lang": "JavaScript",
+    "desc": "High-fidelity HTML design and prototype guidance skill for AI agents"
+  },
+  {
+    "createdAt": "2026-04-23T05:42:29Z",
+    "stars": 598,
+    "name": "GammaLabTechnologies/harmonist",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "lang": "Python",
+    "desc": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
+  },
+  {
+    "createdAt": "2026-04-18T18:06:49Z",
+    "stars": 569,
+    "name": "endevco/aube",
+    "url": "https://github.com/endevco/aube",
+    "lang": "Rust",
+    "desc": "A fast Node.js package manager"
+  },
+  {
+    "createdAt": "2026-04-18T21:19:35Z",
+    "stars": 560,
+    "name": "russellromney/honker",
+    "url": "https://github.com/russellromney/honker",
+    "lang": "Python",
+    "desc": "SQLite extension + bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler"
+  },
+  {
+    "createdAt": "2026-04-19T07:04:43Z",
+    "stars": 552,
+    "name": "MrsEWE44/musicDownload",
+    "url": "https://github.com/MrsEWE44/musicDownload",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-23T22:14:49Z",
+    "stars": 533,
+    "name": "openclaw/clawsweeper",
+    "url": "https://github.com/openclaw/clawsweeper",
+    "lang": "JavaScript",
+    "desc": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
+  },
+  {
+    "createdAt": "2026-04-19T03:40:28Z",
+    "stars": 514,
+    "name": "TheRealSeanDonahoe/agents-md",
+    "url": "https://github.com/TheRealSeanDonahoe/agents-md",
+    "lang": "",
+    "desc": "Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's four principles and Boris Cherny's Claude Code workflow. Works with Claude Code, Codex, Gemini CLI, Cursor, and the open standard."
+  },
+  {
+    "createdAt": "2026-04-18T06:27:50Z",
+    "stars": 485,
+    "name": "AERT-7Y/kiro-auto",
+    "url": "https://github.com/AERT-7Y/kiro-auto",
+    "lang": "TypeScript",
+    "desc": "kiro自动注册机"
+  },
+  {
+    "createdAt": "2026-04-22T04:15:58Z",
+    "stars": 479,
+    "name": "Russell-cell/PPT-Design-Prompt",
+    "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-19T13:46:03Z",
+    "stars": 476,
+    "name": "patterniha/MITM-DomainFronting",
+    "url": "https://github.com/patterniha/MITM-DomainFronting",
+    "lang": "Batchfile",
+    "desc": "Receiving unencrypted data with MITM, Then send it with DomainFronting"
+  },
+  {
+    "createdAt": "2026-04-18T14:42:02Z",
+    "stars": 457,
+    "name": "drasimwagan/mdv",
+    "url": "https://github.com/drasimwagan/mdv",
+    "lang": "TypeScript",
+    "desc": "MDV — a Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension."
+  },
+  {
+    "createdAt": "2026-04-22T01:09:45Z",
+    "stars": 454,
+    "name": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "lang": "JavaScript",
+    "desc": "An open source harness for generating CAD models"
+  },
+  {
+    "createdAt": "2026-04-22T11:27:21Z",
+    "stars": 435,
+    "name": "wuyoscar/gpt_image_2_skill",
+    "url": "https://github.com/wuyoscar/gpt_image_2_skill",
+    "lang": "Python",
+    "desc": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing"
+  },
+  {
+    "createdAt": "2026-04-19T03:28:41Z",
+    "stars": 426,
+    "name": "oritera/Cairn",
+    "url": "https://github.com/oritera/Cairn",
+    "lang": "",
+    "desc": "AI 自动化通用问题解决 / AI 自动化渗透测试系统"
+  },
+  {
+    "createdAt": "2026-04-21T13:38:59Z",
+    "stars": 419,
+    "name": "tashfeenahmed/freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "lang": "TypeScript",
+    "desc": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only."
+  },
+  {
+    "createdAt": "2026-04-23T20:52:52Z",
+    "stars": 414,
+    "name": "0x0funky/agent-sprite-forge",
+    "url": "https://github.com/0x0funky/agent-sprite-forge",
+    "lang": "Python",
+    "desc": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts."
+  },
+  {
+    "createdAt": "2026-04-23T12:06:46Z",
+    "stars": 399,
+    "name": "levelsio/superlevels",
+    "url": "https://github.com/levelsio/superlevels",
+    "lang": "JavaScript",
+    "desc": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!"
+  },
+  {
+    "createdAt": "2026-04-23T14:11:31Z",
+    "stars": 396,
+    "name": "future-agi/future-agi",
+    "url": "https://github.com/future-agi/future-agi",
+    "lang": "Python",
+    "desc": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+  },
+  {
+    "createdAt": "2026-04-20T12:59:46Z",
+    "stars": 395,
+    "name": "MoonshotAI/FlashKDA",
+    "url": "https://github.com/MoonshotAI/FlashKDA",
+    "lang": "Cuda",
+    "desc": "FlashKDA: high-performance Kimi Delta Attention kernels"
+  },
+  {
+    "createdAt": "2026-04-18T01:08:34Z",
+    "stars": 387,
+    "name": "Quorinex/Freebuff2API",
+    "url": "https://github.com/Quorinex/Freebuff2API",
+    "lang": "Go",
+    "desc": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment."
+  },
+  {
+    "createdAt": "2026-04-18T07:01:02Z",
+    "stars": 379,
+    "name": "smallnest/autoresearch",
+    "url": "https://github.com/smallnest/autoresearch",
+    "lang": "Shell",
+    "desc": "autoresearch for software development"
+  },
+  {
+    "createdAt": "2026-04-20T10:18:18Z",
+    "stars": 377,
+    "name": "injaneity/pi-computer-use",
+    "url": "https://github.com/injaneity/pi-computer-use",
+    "lang": "TypeScript",
+    "desc": "control your applications using pi-coding-agent. fully invisible."
+  },
+  {
+    "createdAt": "2026-04-19T09:20:44Z",
+    "stars": 358,
+    "name": "rohitg00/awesome-claude-design",
+    "url": "https://github.com/rohitg00/awesome-claude-design",
+    "lang": "",
+    "desc": "Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes."
+  },
+  {
+    "createdAt": "2026-04-19T14:37:15Z",
+    "stars": 338,
+    "name": "xiaochong/hi-kid",
+    "url": "https://github.com/xiaochong/hi-kid",
+    "lang": "TypeScript",
+    "desc": "HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening."
+  },
+  {
+    "createdAt": "2026-04-18T18:44:16Z",
+    "stars": 333,
+    "name": "browser-use/browser-harness-js",
+    "url": "https://github.com/browser-use/browser-harness-js",
+    "lang": "TypeScript",
+    "desc": "Self-healing browser harness that enables LLMs to complete any task"
+  },
+  {
+    "createdAt": "2026-04-19T20:57:30Z",
+    "stars": 331,
+    "name": "shivampkumar/trellis-mac",
+    "url": "https://github.com/shivampkumar/trellis-mac",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-19T08:12:16Z",
+    "stars": 330,
+    "name": "yzhao062/agent-style",
+    "url": "https://github.com/yzhao062/agent-style",
+    "lang": "Python",
+    "desc": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro."
+  },
+  {
+    "createdAt": "2026-04-18T03:24:03Z",
+    "stars": 311,
+    "name": "Lakr233/bgclick-rev-skill",
+    "url": "https://github.com/Lakr233/bgclick-rev-skill",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-23T21:44:12Z",
+    "stars": 301,
+    "name": "NullLatency/FlowDriver",
+    "url": "https://github.com/NullLatency/FlowDriver",
+    "lang": "Go",
+    "desc": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests."
+  },
+  {
+    "createdAt": "2026-04-19T21:09:49Z",
+    "stars": 297,
+    "name": "Ledger-Wallet-LLC/ledgerwallet",
+    "url": "https://github.com/Ledger-Wallet-LLC/ledgerwallet",
+    "lang": "JavaScript",
+    "desc": "Official Ledger Wallet Repository "
+  }
+]
