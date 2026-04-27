@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-20T16:35:19Z",
+    "stars": 3641,
+    "name": "tw93/Kami",
+    "url": "https://github.com/tw93/Kami",
+    "lang": "HTML",
+    "desc": "👩‍🚒 Good content deserves good paper."
+  },
+  {
+    "createdAt": "2026-04-23T13:23:07Z",
+    "stars": 3428,
+    "name": "op7418/guizang-ppt-skill",
+    "url": "https://github.com/op7418/guizang-ppt-skill",
+    "lang": "HTML",
+    "desc": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output."
+  },
+  {
+    "createdAt": "2026-04-21T14:50:33Z",
+    "stars": 1579,
+    "name": "Einsia/OpenChronicle",
+    "url": "https://github.com/Einsia/OpenChronicle",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-21T11:56:17Z",
+    "stars": 1542,
+    "name": "ConardLi/garden-skills",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "lang": "JavaScript",
+    "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
+  },
+  {
+    "createdAt": "2026-04-20T12:46:31Z",
+    "stars": 1541,
+    "name": "cosmicstack-labs/mercury-agent",
+    "url": "https://github.com/cosmicstack-labs/mercury-agent",
+    "lang": "TypeScript",
+    "desc": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram."
+  },
+  {
+    "createdAt": "2026-04-20T10:32:26Z",
+    "stars": 1517,
+    "name": "masterking32/MasterHttpRelayVPN",
+    "url": "https://github.com/masterking32/MasterHttpRelayVPN",
+    "lang": "Python",
+    "desc": "Domain-fronted HTTP/SOCKS5 proxy tunneling traffic through Google Apps Script with MITM TLS interception, HTTP/1-2 multiplexing, and DPI evasion."
+  },
+  {
+    "createdAt": "2026-04-20T15:28:16Z",
+    "stars": 1392,
+    "name": "leigest519/OpenGame",
+    "url": "https://github.com/leigest519/OpenGame",
+    "lang": "TypeScript",
+    "desc": "OpenGame: Open Agentic Coding for Games"
+  },
+  {
+    "createdAt": "2026-04-24T06:34:54Z",
+    "stars": 1289,
+    "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+    "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
+    "lang": "",
+    "desc": "对于DeepSeek-V4角色扮演的特殊控制指令的说明"
+  },
+  {
+    "createdAt": "2026-04-22T05:38:31Z",
+    "stars": 1279,
+    "name": "deepseek-ai/TileKernels",
+    "url": "https://github.com/deepseek-ai/TileKernels",
+    "lang": "Python",
+    "desc": "A kernel library written in tilelang"
+  },
+  {
+    "createdAt": "2026-04-25T09:19:13Z",
+    "stars": 1221,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "lang": "",
+    "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板"
+  },
+  {
+    "createdAt": "2026-04-23T22:14:49Z",
+    "stars": 1185,
+    "name": "openclaw/clawsweeper",
+    "url": "https://github.com/openclaw/clawsweeper",
+    "lang": "JavaScript",
+    "desc": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
+  },
+  {
+    "createdAt": "2026-04-22T01:09:45Z",
+    "stars": 943,
+    "name": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "lang": "JavaScript",
+    "desc": "An open source harness for generating CAD models"
+  },
+  {
+    "createdAt": "2026-04-23T20:52:52Z",
+    "stars": 864,
+    "name": "0x0funky/agent-sprite-forge",
+    "url": "https://github.com/0x0funky/agent-sprite-forge",
+    "lang": "Python",
+    "desc": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts."
+  },
+  {
+    "createdAt": "2026-04-21T14:46:31Z",
+    "stars": 849,
+    "name": "therealaleph/MasterHttpRelayVPN-RUST",
+    "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
+    "lang": "Rust",
+    "desc": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps."
+  },
+  {
+    "createdAt": "2026-04-22T04:15:58Z",
+    "stars": 824,
+    "name": "Russell-cell/PPT-Design-Prompt",
+    "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-22T11:27:21Z",
+    "stars": 814,
+    "name": "wuyoscar/gpt_image_2_skill",
+    "url": "https://github.com/wuyoscar/gpt_image_2_skill",
+    "lang": "Python",
+    "desc": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing"
+  },
+  {
+    "createdAt": "2026-04-23T05:42:29Z",
+    "stars": 741,
+    "name": "GammaLabTechnologies/harmonist",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "lang": "Python",
+    "desc": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
+  },
+  {
+    "createdAt": "2026-04-23T14:11:31Z",
+    "stars": 640,
+    "name": "future-agi/future-agi",
+    "url": "https://github.com/future-agi/future-agi",
+    "lang": "Python",
+    "desc": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+  },
+  {
+    "createdAt": "2026-04-21T13:38:59Z",
+    "stars": 592,
+    "name": "tashfeenahmed/freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "lang": "TypeScript",
+    "desc": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only."
+  },
+  {
+    "createdAt": "2026-04-20T01:27:39Z",
+    "stars": 564,
+    "name": "thClaws/thClaws",
+    "url": "https://github.com/thClaws/thClaws",
+    "lang": "Rust",
+    "desc": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design."
+  },
+  {
+    "createdAt": "2026-04-26T18:06:53Z",
+    "stars": 532,
+    "name": "avaco-cloud/Vercel-XHTTP",
+    "url": "https://github.com/avaco-cloud/Vercel-XHTTP",
+    "lang": "JavaScript",
+    "desc": "XHTTP relay for Xray/V2Ray on Vercel Edge — Complete Persian setup guide. Hide your origin server IP behind *.vercel.app"
+  },
+  {
+    "createdAt": "2026-04-24T12:48:40Z",
+    "stars": 508,
+    "name": "epoko77-ai/im-not-ai",
+    "url": "https://github.com/epoko77-ai/im-not-ai",
+    "lang": "Python",
+    "desc": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
+  },
+  {
+    "createdAt": "2026-04-20T10:18:18Z",
+    "stars": 444,
+    "name": "injaneity/pi-computer-use",
+    "url": "https://github.com/injaneity/pi-computer-use",
+    "lang": "TypeScript",
+    "desc": "control your applications using pi-coding-agent. fully invisible."
+  },
+  {
+    "createdAt": "2026-04-23T12:06:46Z",
+    "stars": 420,
+    "name": "levelsio/superlevels",
+    "url": "https://github.com/levelsio/superlevels",
+    "lang": "JavaScript",
+    "desc": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!"
+  },
+  {
+    "createdAt": "2026-04-23T21:44:12Z",
+    "stars": 413,
+    "name": "NullLatency/FlowDriver",
+    "url": "https://github.com/NullLatency/FlowDriver",
+    "lang": "Go",
+    "desc": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests."
+  },
+  {
+    "createdAt": "2026-04-24T22:05:12Z",
+    "stars": 411,
+    "name": "alash3al/stash",
+    "url": "https://github.com/alash3al/stash",
+    "lang": "Go",
+    "desc": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required."
+  },
+  {
+    "createdAt": "2026-04-20T12:59:46Z",
+    "stars": 397,
+    "name": "MoonshotAI/FlashKDA",
+    "url": "https://github.com/MoonshotAI/FlashKDA",
+    "lang": "Cuda",
+    "desc": "FlashKDA: high-performance Kimi Delta Attention kernels"
+  },
+  {
+    "createdAt": "2026-04-22T14:17:57Z",
+    "stars": 385,
+    "name": "chekusu/wanman",
+    "url": "https://github.com/chekusu/wanman",
+    "lang": "TypeScript",
+    "desc": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
+  },
+  {
+    "createdAt": "2026-04-23T16:48:34Z",
+    "stars": 364,
+    "name": "chiefautism/privacy-parser",
+    "url": "https://github.com/chiefautism/privacy-parser",
+    "lang": "Python",
+    "desc": "Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking."
+  },
+  {
+    "createdAt": "2026-04-22T12:56:33Z",
+    "stars": 358,
+    "name": "charlie947/social-media-skills",
+    "url": "https://github.com/charlie947/social-media-skills",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-23T20:18:57Z",
+    "stars": 358,
+    "name": "CookSleep/gpt_image_playground",
+    "url": "https://github.com/CookSleep/gpt_image_playground",
+    "lang": "TypeScript",
+    "desc": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
+  },
+  {
+    "createdAt": "2026-04-22T16:35:39Z",
+    "stars": 356,
+    "name": "worldwonderer/oh-story-claudecode",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode",
+    "lang": "Shell",
+    "desc": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
+  },
+  {
+    "createdAt": "2026-04-25T15:51:16Z",
+    "stars": 322,
+    "name": "PrimeOrder-Labs/polymarket-copy-trading-bot",
+    "url": "https://github.com/PrimeOrder-Labs/polymarket-copy-trading-bot",
+    "lang": "JavaScript",
+    "desc": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "createdAt": "2026-04-25T15:46:31Z",
+    "stars": 320,
+    "name": "Orbital-Alpha/polymarket-copy-trading-bot",
+    "url": "https://github.com/Orbital-Alpha/polymarket-copy-trading-bot",
+    "lang": "JavaScript",
+    "desc": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "createdAt": "2026-04-23T23:52:41Z",
+    "stars": 312,
+    "name": "seulee26/mckinsey-pptx",
+    "url": "https://github.com/seulee26/mckinsey-pptx",
+    "lang": "Python",
+    "desc": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
+  },
+  {
+    "createdAt": "2026-04-25T17:25:54Z",
+    "stars": 299,
+    "name": "samyns/Unit-3",
+    "url": "https://github.com/samyns/Unit-3",
+    "lang": "QML",
+    "desc": "Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed"
+  },
+  {
+    "createdAt": "2026-04-22T19:17:02Z",
+    "stars": 298,
+    "name": "NV404/gova",
+    "url": "https://github.com/NV404/gova",
+    "lang": "Go",
+    "desc": "declarative GUI framework for Go"
+  },
+  {
+    "createdAt": "2026-04-26T04:04:15Z",
+    "stars": 295,
+    "name": "NyxTides/ppt-image-first",
+    "url": "https://github.com/NyxTides/ppt-image-first",
+    "lang": "Python",
+    "desc": "PPT image-first skill for Codex/Claude Code/Opencode CLI"
+  },
+  {
+    "createdAt": "2026-04-20T00:16:32Z",
+    "stars": 292,
+    "name": "ArcaneNibble/awawausb",
+    "url": "https://github.com/ArcaneNibble/awawausb",
+    "lang": "Rust",
+    "desc": "WebUSB for fopses"
+  },
+  {
+    "createdAt": "2026-04-20T01:10:22Z",
+    "stars": 287,
+    "name": "nateherkai/token-dashboard",
+    "url": "https://github.com/nateherkai/token-dashboard",
+    "lang": "Python",
+    "desc": "See where Claude Code is burning tokens - turn raw JSONL transcripts into local cost analytics, hotspot views, and session-level usage insight."
+  },
+  {
+    "createdAt": "2026-04-26T16:20:04Z",
+    "stars": 282,
+    "name": "PolyPulse-Analytics/hyperliquid-trading-bot",
+    "url": "https://github.com/PolyPulse-Analytics/hyperliquid-trading-bot",
+    "lang": "Python",
+    "desc": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, "
+  },
+  {
+    "createdAt": "2026-04-26T16:32:56Z",
+    "stars": 282,
+    "name": "SignalBot-Labs/aster-bot",
+    "url": "https://github.com/SignalBot-Labs/aster-bot",
+    "lang": "TypeScript",
+    "desc": "asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp trading bot, asterDEX trading bot, perp tra"
+  },
+  {
+    "createdAt": "2026-04-27T00:48:07Z",
+    "stars": 272,
+    "name": "evanklem/evanflow",
+    "url": "https://github.com/evanklem/evanflow",
+    "lang": "Shell",
+    "desc": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
+  },
+  {
+    "createdAt": "2026-04-25T22:17:11Z",
+    "stars": 270,
+    "name": "ksimback/tech-debt-skill",
+    "url": "https://github.com/ksimback/tech-debt-skill",
+    "lang": "",
+    "desc": "Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase"
+  },
+  {
+    "createdAt": "2026-04-21T14:22:21Z",
+    "stars": 262,
+    "name": "Tencent-Hunyuan/Hy3-preview",
+    "url": "https://github.com/Tencent-Hunyuan/Hy3-preview",
+    "lang": "Python",
+    "desc": "Hy3 preview (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency"
+  },
+  {
+    "createdAt": "2026-04-23T16:48:42Z",
+    "stars": 262,
+    "name": "Parallax-Trading/polymarket-copy-trading-bot",
+    "url": "https://github.com/Parallax-Trading/polymarket-copy-trading-bot",
+    "lang": "JavaScript",
+    "desc": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "createdAt": "2026-04-20T03:15:35Z",
+    "stars": 259,
+    "name": "vuciv/artblock",
+    "url": "https://github.com/vuciv/artblock",
+    "lang": "JavaScript",
+    "desc": "Every ad on the internet, replaced with fine art from public museum and NASA collections."
+  },
+  {
+    "createdAt": "2026-04-23T16:55:38Z",
+    "stars": 257,
+    "name": "SmartOrder-Systems/polymarket-copy-trading-bot",
+    "url": "https://github.com/SmartOrder-Systems/polymarket-copy-trading-bot",
+    "lang": "JavaScript",
+    "desc": "polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,"
+  },
+  {
+    "createdAt": "2026-04-21T06:03:16Z",
+    "stars": 255,
+    "name": "dezgit2025/auto-memory",
+    "url": "https://github.com/dezgit2025/auto-memory",
+    "lang": "Python",
+    "desc": "Your AI coding agent never forgets — progressive session recall CLI"
+  },
+  {
+    "createdAt": "2026-04-21T22:31:39Z",
+    "stars": 251,
+    "name": "AlgoInfraTech/polymarket-sports-betting-bot",
+    "url": "https://github.com/AlgoInfraTech/polymarket-sports-betting-bot",
+    "lang": "TypeScript",
+    "desc": "Polymarket sports copy trading bot: polymarket sports trading bot polymarket copy trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket copytrading bot"
+  }
+]
