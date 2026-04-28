@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-23T13:23:07Z",
+    "stars": 3792,
+    "name": "op7418/guizang-ppt-skill",
+    "url": "https://github.com/op7418/guizang-ppt-skill",
+    "lang": "HTML",
+    "desc": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output."
+  },
+  {
+    "createdAt": "2026-04-21T14:50:33Z",
+    "stars": 1791,
+    "name": "Einsia/OpenChronicle",
+    "url": "https://github.com/Einsia/OpenChronicle",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-25T09:19:13Z",
+    "stars": 1686,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "lang": "",
+    "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。"
+  },
+  {
+    "createdAt": "2026-04-21T11:56:17Z",
+    "stars": 1680,
+    "name": "ConardLi/garden-skills",
+    "url": "https://github.com/ConardLi/garden-skills",
+    "lang": "JavaScript",
+    "desc": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more."
+  },
+  {
+    "createdAt": "2026-04-24T06:34:54Z",
+    "stars": 1452,
+    "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+    "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
+    "lang": "",
+    "desc": "对于DeepSeek-V4角色扮演的特殊控制指令的说明"
+  },
+  {
+    "createdAt": "2026-04-22T05:38:31Z",
+    "stars": 1316,
+    "name": "deepseek-ai/TileKernels",
+    "url": "https://github.com/deepseek-ai/TileKernels",
+    "lang": "Python",
+    "desc": "A kernel library written in tilelang"
+  },
+  {
+    "createdAt": "2026-04-23T22:14:49Z",
+    "stars": 1265,
+    "name": "openclaw/clawsweeper",
+    "url": "https://github.com/openclaw/clawsweeper",
+    "lang": "JavaScript",
+    "desc": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
+  },
+  {
+    "createdAt": "2026-04-22T01:09:45Z",
+    "stars": 1079,
+    "name": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "lang": "JavaScript",
+    "desc": "An open source harness for generating CAD models"
+  },
+  {
+    "createdAt": "2026-04-23T20:52:52Z",
+    "stars": 1023,
+    "name": "0x0funky/agent-sprite-forge",
+    "url": "https://github.com/0x0funky/agent-sprite-forge",
+    "lang": "Python",
+    "desc": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts."
+  },
+  {
+    "createdAt": "2026-04-28T04:25:20Z",
+    "stars": 1008,
+    "name": "nexu-io/open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "lang": "TypeScript",
+    "desc": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen."
+  },
+  {
+    "createdAt": "2026-04-21T14:46:31Z",
+    "stars": 960,
+    "name": "therealaleph/MasterHttpRelayVPN-RUST",
+    "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
+    "lang": "Rust",
+    "desc": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps."
+  },
+  {
+    "createdAt": "2026-04-22T11:27:21Z",
+    "stars": 943,
+    "name": "wuyoscar/gpt_image_2_skill",
+    "url": "https://github.com/wuyoscar/gpt_image_2_skill",
+    "lang": "Python",
+    "desc": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing"
+  },
+  {
+    "createdAt": "2026-04-22T04:15:58Z",
+    "stars": 847,
+    "name": "Russell-cell/PPT-Design-Prompt",
+    "url": "https://github.com/Russell-cell/PPT-Design-Prompt",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-23T05:42:29Z",
+    "stars": 828,
+    "name": "GammaLabTechnologies/harmonist",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "lang": "Python",
+    "desc": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
+  },
+  {
+    "createdAt": "2026-04-23T14:11:31Z",
+    "stars": 701,
+    "name": "future-agi/future-agi",
+    "url": "https://github.com/future-agi/future-agi",
+    "lang": "Python",
+    "desc": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+  },
+  {
+    "createdAt": "2026-04-21T13:38:59Z",
+    "stars": 692,
+    "name": "tashfeenahmed/freellmapi",
+    "url": "https://github.com/tashfeenahmed/freellmapi",
+    "lang": "TypeScript",
+    "desc": "OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only."
+  },
+  {
+    "createdAt": "2026-04-24T12:48:40Z",
+    "stars": 587,
+    "name": "epoko77-ai/im-not-ai",
+    "url": "https://github.com/epoko77-ai/im-not-ai",
+    "lang": "Python",
+    "desc": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
+  },
+  {
+    "createdAt": "2026-04-24T22:05:12Z",
+    "stars": 505,
+    "name": "alash3al/stash",
+    "url": "https://github.com/alash3al/stash",
+    "lang": "Go",
+    "desc": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required."
+  },
+  {
+    "createdAt": "2026-04-22T12:56:33Z",
+    "stars": 455,
+    "name": "charlie947/social-media-skills",
+    "url": "https://github.com/charlie947/social-media-skills",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-23T20:18:57Z",
+    "stars": 454,
+    "name": "CookSleep/gpt_image_playground",
+    "url": "https://github.com/CookSleep/gpt_image_playground",
+    "lang": "TypeScript",
+    "desc": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
+  },
+  {
+    "createdAt": "2026-04-22T16:35:39Z",
+    "stars": 430,
+    "name": "worldwonderer/oh-story-claudecode",
+    "url": "https://github.com/worldwonderer/oh-story-claudecode",
+    "lang": "Shell",
+    "desc": "网文写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味全流程"
+  },
+  {
+    "createdAt": "2026-04-23T12:06:46Z",
+    "stars": 427,
+    "name": "levelsio/superlevels",
+    "url": "https://github.com/levelsio/superlevels",
+    "lang": "JavaScript",
+    "desc": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!"
+  },
+  {
+    "createdAt": "2026-04-23T21:44:12Z",
+    "stars": 426,
+    "name": "NullLatency/FlowDriver",
+    "url": "https://github.com/NullLatency/FlowDriver",
+    "lang": "Go",
+    "desc": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests."
+  },
+  {
+    "createdAt": "2026-04-22T14:17:57Z",
+    "stars": 413,
+    "name": "chekusu/wanman",
+    "url": "https://github.com/chekusu/wanman",
+    "lang": "TypeScript",
+    "desc": "wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts."
+  },
+  {
+    "createdAt": "2026-04-26T04:04:15Z",
+    "stars": 381,
+    "name": "NyxTides/ppt-image-first",
+    "url": "https://github.com/NyxTides/ppt-image-first",
+    "lang": "Python",
+    "desc": "PPT image-first skill for Codex/Claude Code/Opencode CLI"
+  },
+  {
+    "createdAt": "2026-04-23T16:48:34Z",
+    "stars": 374,
+    "name": "chiefautism/privacy-parser",
+    "url": "https://github.com/chiefautism/privacy-parser",
+    "lang": "Python",
+    "desc": "Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking."
+  },
+  {
+    "createdAt": "2026-04-23T23:52:41Z",
+    "stars": 333,
+    "name": "seulee26/mckinsey-pptx",
+    "url": "https://github.com/seulee26/mckinsey-pptx",
+    "lang": "Python",
+    "desc": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
+  },
+  {
+    "createdAt": "2026-04-27T00:48:07Z",
+    "stars": 332,
+    "name": "evanklem/evanflow",
+    "url": "https://github.com/evanklem/evanflow",
+    "lang": "Shell",
+    "desc": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
+  },
+  {
+    "createdAt": "2026-04-25T17:25:54Z",
+    "stars": 318,
+    "name": "samyns/Unit-3",
+    "url": "https://github.com/samyns/Unit-3",
+    "lang": "QML",
+    "desc": "Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed"
+  },
+  {
+    "createdAt": "2026-04-21T21:01:08Z",
+    "stars": 312,
+    "name": "Jakubantalik/transitions.dev",
+    "url": "https://github.com/Jakubantalik/transitions.dev",
+    "lang": "HTML",
+    "desc": "Collection of the most essential transitions for web apps that you can just copy and paste into any project. "
+  },
+  {
+    "createdAt": "2026-04-22T19:17:02Z",
+    "stars": 307,
+    "name": "NV404/gova",
+    "url": "https://github.com/NV404/gova",
+    "lang": "Go",
+    "desc": "declarative GUI framework for Go"
+  },
+  {
+    "createdAt": "2026-04-25T22:17:11Z",
+    "stars": 283,
+    "name": "ksimback/tech-debt-skill",
+    "url": "https://github.com/ksimback/tech-debt-skill",
+    "lang": "",
+    "desc": "Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase"
+  },
+  {
+    "createdAt": "2026-04-21T14:22:21Z",
+    "stars": 275,
+    "name": "Tencent-Hunyuan/Hy3-preview",
+    "url": "https://github.com/Tencent-Hunyuan/Hy3-preview",
+    "lang": "Python",
+    "desc": "Hy3 preview (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency"
+  },
+  {
+    "createdAt": "2026-04-26T05:17:43Z",
+    "stars": 273,
+    "name": "Kianmhz/GooseRelayVPN",
+    "url": "https://github.com/Kianmhz/GooseRelayVPN",
+    "lang": "Go",
+    "desc": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted)."
+  },
+  {
+    "createdAt": "2026-04-21T06:03:16Z",
+    "stars": 269,
+    "name": "dezgit2025/auto-memory",
+    "url": "https://github.com/dezgit2025/auto-memory",
+    "lang": "Python",
+    "desc": "Your AI coding agent never forgets — progressive session recall CLI"
+  },
+  {
+    "createdAt": "2026-04-23T17:10:19Z",
+    "stars": 265,
+    "name": "hiteshchoudhary/gitbackup",
+    "url": "https://github.com/hiteshchoudhary/gitbackup",
+    "lang": "TypeScript",
+    "desc": "It was personal script but now it is a complete desktop application to take backup of your github account"
+  },
+  {
+    "createdAt": "2026-04-22T05:48:09Z",
+    "stars": 248,
+    "name": "TraderAlice/Auto-Quant",
+    "url": "https://github.com/TraderAlice/Auto-Quant",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-26T20:53:37Z",
+    "stars": 248,
+    "name": "browser-use/bux",
+    "url": "https://github.com/browser-use/bux",
+    "lang": "Python",
+    "desc": "A 24/7 Claude Code agent with Browser Harness, on any box you own."
+  },
+  {
+    "createdAt": "2026-04-23T08:49:29Z",
+    "stars": 247,
+    "name": "machinepulse-ai/world2agent",
+    "url": "https://github.com/machinepulse-ai/world2agent",
+    "lang": "TypeScript",
+    "desc": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
+  },
+  {
+    "createdAt": "2026-04-23T17:01:04Z",
+    "stars": 246,
+    "name": "AKCodez/hackingtool-plugin",
+    "url": "https://github.com/AKCodez/hackingtool-plugin",
+    "lang": "Python",
+    "desc": "Claude Code plugin: 183+ pentesting & OSINT tools from Z4nzu/hackingtool. Auto-runs what it can, hands off the rest."
+  },
+  {
+    "createdAt": "2026-04-25T03:26:45Z",
+    "stars": 244,
+    "name": "nakagami/grdpwasm",
+    "url": "https://github.com/nakagami/grdpwasm",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-26T12:09:21Z",
+    "stars": 240,
+    "name": "vthinkxie/illustrated-explainer-spec",
+    "url": "https://github.com/vthinkxie/illustrated-explainer-spec",
+    "lang": "",
+    "desc": "Spec for an infinite drill-down illustrated explainer — type a topic, click anywhere on the image to generate the next page."
+  },
+  {
+    "createdAt": "2026-04-24T15:28:23Z",
+    "stars": 239,
+    "name": "ZRainbow1275/AutoTeam-F",
+    "url": "https://github.com/ZRainbow1275/AutoTeam-F",
+    "lang": "Python",
+    "desc": "参照上游 cnitlrt/AutoTeam 的改善版,重点在于实现免费号批量获得以及改善操作体验 (Fix + Free)"
+  },
+  {
+    "createdAt": "2026-04-21T17:52:08Z",
+    "stars": 239,
+    "name": "peiyizhi0724/ChatGpt-Image-Studio",
+    "url": "https://github.com/peiyizhi0724/ChatGpt-Image-Studio",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-23T09:37:22Z",
+    "stars": 233,
+    "name": "maanimis/github-sandbox",
+    "url": "https://github.com/maanimis/github-sandbox",
+    "lang": "",
+    "desc": "download files into your repository just by writing a special commit message"
+  },
+  {
+    "createdAt": "2026-04-27T03:48:28Z",
+    "stars": 227,
+    "name": "DanOps-1/gpt-pp-team",
+    "url": "https://github.com/DanOps-1/gpt-pp-team",
+    "lang": "Python",
+    "desc": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
+  },
+  {
+    "createdAt": "2026-04-23T01:17:07Z",
+    "stars": 220,
+    "name": "TheTom/vllm-swift",
+    "url": "https://github.com/TheTom/vllm-swift",
+    "lang": "Python",
+    "desc": "vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon"
+  },
+  {
+    "createdAt": "2026-04-22T19:52:16Z",
+    "stars": 218,
+    "name": "GumbyEnder/hermes-kanban",
+    "url": "https://github.com/GumbyEnder/hermes-kanban",
+    "lang": "Python",
+    "desc": "A dedicated Obsidian plugin + Hermes skill that turns Hermes into an autonomous project executor using Kanban boards inside your Obsidian vault."
+  },
+  {
+    "createdAt": "2026-04-27T14:37:02Z",
+    "stars": 214,
+    "name": "CatsJuice/medal-forge",
+    "url": "https://github.com/CatsJuice/medal-forge",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-27T22:26:16Z",
+    "stars": 206,
+    "name": "denuitt1/mhr-cfw",
+    "url": "https://github.com/denuitt1/mhr-cfw",
+    "lang": "Python",
+    "desc": ""
+  }
+]
