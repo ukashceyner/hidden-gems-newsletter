@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-28T04:25:20Z",
+    "stars": 8041,
+    "name": "nexu-io/open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "lang": "TypeScript",
+    "desc": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI."
+  },
+  {
+    "createdAt": "2026-04-23T13:23:07Z",
+    "stars": 4380,
+    "name": "op7418/guizang-ppt-skill",
+    "url": "https://github.com/op7418/guizang-ppt-skill",
+    "lang": "HTML",
+    "desc": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output."
+  },
+  {
+    "createdAt": "2026-04-27T08:27:12Z",
+    "stars": 2583,
+    "name": "cursor/cookbook",
+    "url": "https://github.com/cursor/cookbook",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-25T09:19:13Z",
+    "stars": 2501,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "lang": "",
+    "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。"
+  },
+  {
+    "createdAt": "2026-04-29T12:15:28Z",
+    "stars": 1628,
+    "name": "theori-io/copy-fail-CVE-2026-31431",
+    "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-24T06:34:54Z",
+    "stars": 1563,
+    "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+    "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
+    "lang": "",
+    "desc": "对于DeepSeek-V4角色扮演的特殊控制指令的说明"
+  },
+  {
+    "createdAt": "2026-04-23T20:52:52Z",
+    "stars": 1385,
+    "name": "0x0funky/agent-sprite-forge",
+    "url": "https://github.com/0x0funky/agent-sprite-forge",
+    "lang": "Python",
+    "desc": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts."
+  },
+  {
+    "createdAt": "2026-04-23T22:14:49Z",
+    "stars": 1367,
+    "name": "openclaw/clawsweeper",
+    "url": "https://github.com/openclaw/clawsweeper",
+    "lang": "JavaScript",
+    "desc": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week."
+  },
+  {
+    "createdAt": "2026-04-23T05:42:29Z",
+    "stars": 945,
+    "name": "GammaLabTechnologies/harmonist",
+    "url": "https://github.com/GammaLabTechnologies/harmonist",
+    "lang": "Python",
+    "desc": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies."
+  },
+  {
+    "createdAt": "2026-04-24T13:19:30Z",
+    "stars": 797,
+    "name": "ps5-linux/ps5-linux-loader",
+    "url": "https://github.com/ps5-linux/ps5-linux-loader",
+    "lang": "C",
+    "desc": "Linux payload implementing the HV exploit and a custom bootloader"
+  },
+  {
+    "createdAt": "2026-04-23T14:11:31Z",
+    "stars": 770,
+    "name": "future-agi/future-agi",
+    "url": "https://github.com/future-agi/future-agi",
+    "lang": "Python",
+    "desc": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0."
+  },
+  {
+    "createdAt": "2026-04-27T03:48:28Z",
+    "stars": 762,
+    "name": "DanOps-1/Gpt-Agreement-Payment",
+    "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
+    "lang": "Python",
+    "desc": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
+  },
+  {
+    "createdAt": "2026-04-29T17:41:12Z",
+    "stars": 747,
+    "name": "willchen96/mike",
+    "url": "https://github.com/willchen96/mike",
+    "lang": "TypeScript",
+    "desc": "OSS AI Legal Platform"
+  },
+  {
+    "createdAt": "2026-04-28T11:08:06Z",
+    "stars": 671,
+    "name": "GENEXIS-AI/chromex",
+    "url": "https://github.com/GENEXIS-AI/chromex",
+    "lang": "TypeScript",
+    "desc": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows."
+  },
+  {
+    "createdAt": "2026-04-24T12:48:40Z",
+    "stars": 669,
+    "name": "epoko77-ai/im-not-ai",
+    "url": "https://github.com/epoko77-ai/im-not-ai",
+    "lang": "Python",
+    "desc": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
+  },
+  {
+    "createdAt": "2026-04-24T22:05:12Z",
+    "stars": 598,
+    "name": "alash3al/stash",
+    "url": "https://github.com/alash3al/stash",
+    "lang": "Go",
+    "desc": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required."
+  },
+  {
+    "createdAt": "2026-04-23T08:49:29Z",
+    "stars": 591,
+    "name": "machinepulse-ai/world2agent",
+    "url": "https://github.com/machinepulse-ai/world2agent",
+    "lang": "TypeScript",
+    "desc": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world."
+  },
+  {
+    "createdAt": "2026-04-23T20:18:57Z",
+    "stars": 580,
+    "name": "CookSleep/gpt_image_playground",
+    "url": "https://github.com/CookSleep/gpt_image_playground",
+    "lang": "TypeScript",
+    "desc": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具"
+  },
+  {
+    "createdAt": "2026-04-28T10:35:16Z",
+    "stars": 492,
+    "name": "b-nnett/codex-plusplus",
+    "url": "https://github.com/b-nnett/codex-plusplus",
+    "lang": "TypeScript",
+    "desc": "Codex++ tweak system for the Codex desktop app"
+  },
+  {
+    "createdAt": "2026-04-29T10:07:08Z",
+    "stars": 488,
+    "name": "Fokkyp/SoftwareCopyright-Skill",
+    "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+    "lang": "Python",
+    "desc": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
+  },
+  {
+    "createdAt": "2026-04-26T04:04:15Z",
+    "stars": 475,
+    "name": "NyxTides/ppt-image-first",
+    "url": "https://github.com/NyxTides/ppt-image-first",
+    "lang": "Python",
+    "desc": "PPT image-first skill for Codex/Claude Code/Opencode CLI"
+  },
+  {
+    "createdAt": "2026-04-27T22:26:16Z",
+    "stars": 450,
+    "name": "denuitt1/mhr-cfw",
+    "url": "https://github.com/denuitt1/mhr-cfw",
+    "lang": "Python",
+    "desc": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI."
+  },
+  {
+    "createdAt": "2026-04-23T12:06:46Z",
+    "stars": 446,
+    "name": "levelsio/superlevels",
+    "url": "https://github.com/levelsio/superlevels",
+    "lang": "JavaScript",
+    "desc": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!"
+  },
+  {
+    "createdAt": "2026-04-26T05:17:43Z",
+    "stars": 444,
+    "name": "Kianmhz/GooseRelayVPN",
+    "url": "https://github.com/Kianmhz/GooseRelayVPN",
+    "lang": "Go",
+    "desc": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted)."
+  },
+  {
+    "createdAt": "2026-04-23T21:44:12Z",
+    "stars": 434,
+    "name": "NullLatency/FlowDriver",
+    "url": "https://github.com/NullLatency/FlowDriver",
+    "lang": "Go",
+    "desc": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests."
+  },
+  {
+    "createdAt": "2026-04-27T12:55:00Z",
+    "stars": 431,
+    "name": "ka-pi-ba-la/AIbijia",
+    "url": "https://github.com/ka-pi-ba-la/AIbijia",
+    "lang": "",
+    "desc": "分享便宜靠谱Token，抹平信息差"
+  },
+  {
+    "createdAt": "2026-04-27T06:37:38Z",
+    "stars": 421,
+    "name": "deepseek-ai/awesome-deepseek-agent",
+    "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-28T23:31:20Z",
+    "stars": 421,
+    "name": "bonused/monthly-bonus-stake",
+    "url": "https://github.com/bonused/monthly-bonus-stake",
+    "lang": "",
+    "desc": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay."
+  },
+  {
+    "createdAt": "2026-04-29T03:00:36Z",
+    "stars": 393,
+    "name": "t8y2/dbx",
+    "url": "https://github.com/t8y2/dbx",
+    "lang": "Vue",
+    "desc": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server."
+  },
+  {
+    "createdAt": "2026-04-23T16:48:34Z",
+    "stars": 383,
+    "name": "chiefautism/privacy-parser",
+    "url": "https://github.com/chiefautism/privacy-parser",
+    "lang": "Python",
+    "desc": "Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking."
+  },
+  {
+    "createdAt": "2026-04-27T00:48:07Z",
+    "stars": 361,
+    "name": "evanklem/evanflow",
+    "url": "https://github.com/evanklem/evanflow",
+    "lang": "Shell",
+    "desc": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
+  },
+  {
+    "createdAt": "2026-04-24T09:18:05Z",
+    "stars": 360,
+    "name": "QwenLM/FlashQLA",
+    "url": "https://github.com/QwenLM/FlashQLA",
+    "lang": "Python",
+    "desc": "high-performance linear attention kernel library built on TileLang"
+  },
+  {
+    "createdAt": "2026-04-27T06:56:36Z",
+    "stars": 357,
+    "name": "val1813/kwcode",
+    "url": "https://github.com/val1813/kwcode",
+    "lang": "Python",
+    "desc": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
+  },
+  {
+    "createdAt": "2026-04-24T03:11:46Z",
+    "stars": 355,
+    "name": "Yuan1z0825/nature-skills",
+    "url": "https://github.com/Yuan1z0825/nature-skills",
+    "lang": "",
+    "desc": "符合nature论文学术表达和科研绘图的Skill"
+  },
+  {
+    "createdAt": "2026-04-25T17:25:54Z",
+    "stars": 353,
+    "name": "samyns/Unit-3",
+    "url": "https://github.com/samyns/Unit-3",
+    "lang": "QML",
+    "desc": "Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed"
+  },
+  {
+    "createdAt": "2026-04-23T23:52:41Z",
+    "stars": 350,
+    "name": "seulee26/mckinsey-pptx",
+    "url": "https://github.com/seulee26/mckinsey-pptx",
+    "lang": "Python",
+    "desc": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필)."
+  },
+  {
+    "createdAt": "2026-04-26T10:27:09Z",
+    "stars": 331,
+    "name": "dnshe/DNSHE-FreeDomains",
+    "url": "https://github.com/dnshe/DNSHE-FreeDomains",
+    "lang": "",
+    "desc": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)"
+  },
+  {
+    "createdAt": "2026-04-23T17:01:04Z",
+    "stars": 311,
+    "name": "AKCodez/hackingtool-plugin",
+    "url": "https://github.com/AKCodez/hackingtool-plugin",
+    "lang": "Python",
+    "desc": "Claude Code plugin: 183+ pentesting & OSINT tools from Z4nzu/hackingtool. Auto-runs what it can, hands off the rest."
+  },
+  {
+    "createdAt": "2026-04-23T21:33:50Z",
+    "stars": 310,
+    "name": "stripe/link-cli",
+    "url": "https://github.com/stripe/link-cli",
+    "lang": "TypeScript",
+    "desc": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase."
+  },
+  {
+    "createdAt": "2026-04-25T22:17:11Z",
+    "stars": 310,
+    "name": "ksimback/tech-debt-skill",
+    "url": "https://github.com/ksimback/tech-debt-skill",
+    "lang": "",
+    "desc": "Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase"
+  },
+  {
+    "createdAt": "2026-04-26T13:47:10Z",
+    "stars": 305,
+    "name": "sandeco/reversa",
+    "url": "https://github.com/sandeco/reversa",
+    "lang": "JavaScript",
+    "desc": "Transform legacy systems into executable specifications for AI coding agents"
+  },
+  {
+    "createdAt": "2026-04-23T17:10:19Z",
+    "stars": 291,
+    "name": "hiteshchoudhary/gitbackup",
+    "url": "https://github.com/hiteshchoudhary/gitbackup",
+    "lang": "TypeScript",
+    "desc": "It was personal script but now it is a complete desktop application to take backup of your github account"
+  },
+  {
+    "createdAt": "2026-04-29T17:46:43Z",
+    "stars": 290,
+    "name": "rootsecdev/cve_2026_31431",
+    "url": "https://github.com/rootsecdev/cve_2026_31431",
+    "lang": "Python",
+    "desc": "Exploit POC for CVE_2026_31431"
+  },
+  {
+    "createdAt": "2026-04-26T12:42:30Z",
+    "stars": 283,
+    "name": "1bananachicken/MaaNTE",
+    "url": "https://github.com/1bananachicken/MaaNTE",
+    "lang": "Python",
+    "desc": "MAA异环小助手，由MAAFramework强力驱动！QQ交流群：1103323319"
+  },
+  {
+    "createdAt": "2026-04-26T20:53:37Z",
+    "stars": 277,
+    "name": "browser-use/bux",
+    "url": "https://github.com/browser-use/bux",
+    "lang": "Python",
+    "desc": "A 24/7 Claude Code agent with Browser Harness, on any box you own."
+  },
+  {
+    "createdAt": "2026-04-29T03:30:34Z",
+    "stars": 273,
+    "name": "amirshaker000/netlify-relay",
+    "url": "https://github.com/amirshaker000/netlify-relay",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-26T12:09:21Z",
+    "stars": 268,
+    "name": "vthinkxie/illustrated-explainer-spec",
+    "url": "https://github.com/vthinkxie/illustrated-explainer-spec",
+    "lang": "",
+    "desc": "Spec for an infinite drill-down illustrated explainer — type a topic, click anywhere on the image to generate the next page."
+  },
+  {
+    "createdAt": "2026-04-25T03:26:45Z",
+    "stars": 256,
+    "name": "nakagami/grdpwasm",
+    "url": "https://github.com/nakagami/grdpwasm",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-27T15:01:51Z",
+    "stars": 254,
+    "name": "FrankBarretta/LSFG-Android",
+    "url": "https://github.com/FrankBarretta/LSFG-Android",
+    "lang": "",
+    "desc": "Lossless Scaling Frames Generator (LSFG) Application for Android"
+  },
+  {
+    "createdAt": "2026-04-24T04:40:43Z",
+    "stars": 248,
+    "name": "bradautomates/claude-video",
+    "url": "https://github.com/bradautomates/claude-video",
+    "lang": "Python",
+    "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+  }
+]
