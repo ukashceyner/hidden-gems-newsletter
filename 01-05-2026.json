@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-28T04:25:20Z",
+    "stars": 11510,
+    "name": "nexu-io/open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "lang": "TypeScript",
+    "desc": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI."
+  },
+  {
+    "createdAt": "2026-04-25T09:19:13Z",
+    "stars": 2956,
+    "name": "freestylefly/awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "lang": "",
+    "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。"
+  },
+  {
+    "createdAt": "2026-04-27T08:27:12Z",
+    "stars": 2940,
+    "name": "cursor/cookbook",
+    "url": "https://github.com/cursor/cookbook",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-29T12:15:28Z",
+    "stars": 2403,
+    "name": "theori-io/copy-fail-CVE-2026-31431",
+    "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-24T06:34:54Z",
+    "stars": 1590,
+    "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+    "url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct",
+    "lang": "",
+    "desc": "对于DeepSeek-V4角色扮演的特殊控制指令的说明"
+  },
+  {
+    "createdAt": "2026-04-27T22:26:16Z",
+    "stars": 1270,
+    "name": "denuitt1/mhr-cfw",
+    "url": "https://github.com/denuitt1/mhr-cfw",
+    "lang": "Python",
+    "desc": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI."
+  },
+  {
+    "createdAt": "2026-04-29T17:41:12Z",
+    "stars": 1046,
+    "name": "willchen96/mike",
+    "url": "https://github.com/willchen96/mike",
+    "lang": "TypeScript",
+    "desc": "OSS AI Legal Platform"
+  },
+  {
+    "createdAt": "2026-04-24T13:19:30Z",
+    "stars": 902,
+    "name": "ps5-linux/ps5-linux-loader",
+    "url": "https://github.com/ps5-linux/ps5-linux-loader",
+    "lang": "C",
+    "desc": "Linux payload implementing the HV exploit and a custom bootloader"
+  },
+  {
+    "createdAt": "2026-04-27T03:48:28Z",
+    "stars": 870,
+    "name": "DanOps-1/Gpt-Agreement-Payment",
+    "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
+    "lang": "Python",
+    "desc": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
+  },
+  {
+    "createdAt": "2026-04-28T10:35:16Z",
+    "stars": 742,
+    "name": "b-nnett/codex-plusplus",
+    "url": "https://github.com/b-nnett/codex-plusplus",
+    "lang": "TypeScript",
+    "desc": "Codex++ tweak system for the Codex desktop app"
+  },
+  {
+    "createdAt": "2026-04-28T11:08:06Z",
+    "stars": 735,
+    "name": "GENEXIS-AI/chromex",
+    "url": "https://github.com/GENEXIS-AI/chromex",
+    "lang": "TypeScript",
+    "desc": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows."
+  },
+  {
+    "createdAt": "2026-04-24T12:48:40Z",
+    "stars": 693,
+    "name": "epoko77-ai/im-not-ai",
+    "url": "https://github.com/epoko77-ai/im-not-ai",
+    "lang": "Python",
+    "desc": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬"
+  },
+  {
+    "createdAt": "2026-04-24T22:05:12Z",
+    "stars": 618,
+    "name": "alash3al/stash",
+    "url": "https://github.com/alash3al/stash",
+    "lang": "Go",
+    "desc": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required."
+  },
+  {
+    "createdAt": "2026-05-01T07:45:10Z",
+    "stars": 618,
+    "name": "darrylmorley/whatcable",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "lang": "Swift",
+    "desc": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do"
+  },
+  {
+    "createdAt": "2026-04-27T12:55:00Z",
+    "stars": 588,
+    "name": "ka-pi-ba-la/AIbijia",
+    "url": "https://github.com/ka-pi-ba-la/AIbijia",
+    "lang": "",
+    "desc": "分享便宜靠谱Token，抹平信息差"
+  },
+  {
+    "createdAt": "2026-04-29T03:00:36Z",
+    "stars": 574,
+    "name": "t8y2/dbx",
+    "url": "https://github.com/t8y2/dbx",
+    "lang": "Vue",
+    "desc": "Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server."
+  },
+  {
+    "createdAt": "2026-04-27T06:37:38Z",
+    "stars": 530,
+    "name": "deepseek-ai/awesome-deepseek-agent",
+    "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-26T04:04:15Z",
+    "stars": 524,
+    "name": "NyxTides/ppt-image-first",
+    "url": "https://github.com/NyxTides/ppt-image-first",
+    "lang": "Python",
+    "desc": "PPT image-first skill for Codex/Claude Code/Opencode CLI"
+  },
+  {
+    "createdAt": "2026-04-24T03:11:46Z",
+    "stars": 521,
+    "name": "Yuan1z0825/nature-skills",
+    "url": "https://github.com/Yuan1z0825/nature-skills",
+    "lang": "",
+    "desc": "符合nature论文学术表达和科研绘图的Skill"
+  },
+  {
+    "createdAt": "2026-04-26T05:17:43Z",
+    "stars": 514,
+    "name": "Kianmhz/GooseRelayVPN",
+    "url": "https://github.com/Kianmhz/GooseRelayVPN",
+    "lang": "Go",
+    "desc": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted)."
+  },
+  {
+    "createdAt": "2026-04-29T10:07:08Z",
+    "stars": 509,
+    "name": "Fokkyp/SoftwareCopyright-Skill",
+    "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+    "lang": "Python",
+    "desc": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
+  },
+  {
+    "createdAt": "2026-04-28T23:31:20Z",
+    "stars": 417,
+    "name": "bonused/monthly-bonus-stake",
+    "url": "https://github.com/bonused/monthly-bonus-stake",
+    "lang": "",
+    "desc": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay."
+  },
+  {
+    "createdAt": "2026-04-26T10:27:09Z",
+    "stars": 407,
+    "name": "dnshe/DNSHE-FreeDomains",
+    "url": "https://github.com/dnshe/DNSHE-FreeDomains",
+    "lang": "",
+    "desc": "🌐 DNSHE Official - Stable & Free Subdomains for Developers. Support 180-day renewal window, Anycast DNS, and REST API. (us.ci, cc.cd, de5.net, ccwu.cc)"
+  },
+  {
+    "createdAt": "2026-04-27T06:56:36Z",
+    "stars": 402,
+    "name": "val1813/kwcode",
+    "url": "https://github.com/val1813/kwcode",
+    "lang": "Python",
+    "desc": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
+  },
+  {
+    "createdAt": "2026-04-26T12:42:30Z",
+    "stars": 400,
+    "name": "1bananachicken/MaaNTE",
+    "url": "https://github.com/1bananachicken/MaaNTE",
+    "lang": "Python",
+    "desc": "MAA异环小助手，由MAAFramework强力驱动！QQ交流群：1103323319"
+  },
+  {
+    "createdAt": "2026-04-29T17:46:43Z",
+    "stars": 392,
+    "name": "rootsecdev/cve_2026_31431",
+    "url": "https://github.com/rootsecdev/cve_2026_31431",
+    "lang": "Python",
+    "desc": "Exploit POC for CVE_2026_31431"
+  },
+  {
+    "createdAt": "2026-04-26T13:47:10Z",
+    "stars": 389,
+    "name": "sandeco/reversa",
+    "url": "https://github.com/sandeco/reversa",
+    "lang": "JavaScript",
+    "desc": "Transform legacy systems into executable specifications for AI coding agents"
+  },
+  {
+    "createdAt": "2026-04-30T10:12:33Z",
+    "stars": 383,
+    "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+    "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-24T09:18:05Z",
+    "stars": 377,
+    "name": "QwenLM/FlashQLA",
+    "url": "https://github.com/QwenLM/FlashQLA",
+    "lang": "Python",
+    "desc": "high-performance linear attention kernel library built on TileLang"
+  },
+  {
+    "createdAt": "2026-04-27T00:48:07Z",
+    "stars": 368,
+    "name": "evanklem/evanflow",
+    "url": "https://github.com/evanklem/evanflow",
+    "lang": "Shell",
+    "desc": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
+  },
+  {
+    "createdAt": "2026-04-25T17:25:54Z",
+    "stars": 360,
+    "name": "samyns/Unit-3",
+    "url": "https://github.com/samyns/Unit-3",
+    "lang": "QML",
+    "desc": "Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed"
+  },
+  {
+    "createdAt": "2026-05-01T10:17:05Z",
+    "stars": 358,
+    "name": "mattpocock/dictionary-of-ai-coding",
+    "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+    "lang": "TypeScript",
+    "desc": "AI coding jargon, explained in plain English."
+  },
+  {
+    "createdAt": "2026-04-24T04:40:43Z",
+    "stars": 358,
+    "name": "bradautomates/claude-video",
+    "url": "https://github.com/bradautomates/claude-video",
+    "lang": "Python",
+    "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+  },
+  {
+    "createdAt": "2026-04-29T20:23:12Z",
+    "stars": 356,
+    "name": "EvanBacon/serve-sim",
+    "url": "https://github.com/EvanBacon/serve-sim",
+    "lang": "TypeScript",
+    "desc": "The `npx serve` of Apple Simulators."
+  },
+  {
+    "createdAt": "2026-04-25T22:17:11Z",
+    "stars": 328,
+    "name": "ksimback/tech-debt-skill",
+    "url": "https://github.com/ksimback/tech-debt-skill",
+    "lang": "",
+    "desc": "Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase"
+  },
+  {
+    "createdAt": "2026-04-29T03:30:34Z",
+    "stars": 307,
+    "name": "amirshaker000/netlify-relay",
+    "url": "https://github.com/amirshaker000/netlify-relay",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-27T15:01:51Z",
+    "stars": 299,
+    "name": "FrankBarretta/LSFG-Android",
+    "url": "https://github.com/FrankBarretta/LSFG-Android",
+    "lang": "",
+    "desc": "Lossless Scaling Frames Generator (LSFG) Application for Android"
+  },
+  {
+    "createdAt": "2026-04-26T20:53:37Z",
+    "stars": 289,
+    "name": "browser-use/bux",
+    "url": "https://github.com/browser-use/bux",
+    "lang": "Python",
+    "desc": "A 24/7 Claude Code agent with Browser Harness, on any box you own."
+  },
+  {
+    "createdAt": "2026-04-28T10:08:59Z",
+    "stars": 274,
+    "name": "noonghunna/club-3090",
+    "url": "https://github.com/noonghunna/club-3090",
+    "lang": "Shell",
+    "desc": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards."
+  },
+  {
+    "createdAt": "2026-04-26T12:09:21Z",
+    "stars": 270,
+    "name": "vthinkxie/illustrated-explainer-spec",
+    "url": "https://github.com/vthinkxie/illustrated-explainer-spec",
+    "lang": "",
+    "desc": "Spec for an infinite drill-down illustrated explainer — type a topic, click anywhere on the image to generate the next page."
+  },
+  {
+    "createdAt": "2026-04-29T22:51:24Z",
+    "stars": 268,
+    "name": "badsectorlabs/copyfail-go",
+    "url": "https://github.com/badsectorlabs/copyfail-go",
+    "lang": "Assembly",
+    "desc": "A Go implementation of copyfail (CVE-2026-31431)"
+  },
+  {
+    "createdAt": "2026-04-25T03:26:45Z",
+    "stars": 257,
+    "name": "nakagami/grdpwasm",
+    "url": "https://github.com/nakagami/grdpwasm",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-24T10:29:13Z",
+    "stars": 249,
+    "name": "arcsin1/oh-my-ppt",
+    "url": "https://github.com/arcsin1/oh-my-ppt",
+    "lang": "TypeScript",
+    "desc": "Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt → get deck."
+  },
+  {
+    "createdAt": "2026-04-26T16:15:07Z",
+    "stars": 246,
+    "name": "tiangolo/library-skills",
+    "url": "https://github.com/tiangolo/library-skills",
+    "lang": "Python",
+    "desc": "Library Agent Skills"
+  },
+  {
+    "createdAt": "2026-04-24T15:28:23Z",
+    "stars": 245,
+    "name": "ZRainbow1275/AutoTeam-F",
+    "url": "https://github.com/ZRainbow1275/AutoTeam-F",
+    "lang": "Python",
+    "desc": "参照上游 cnitlrt/AutoTeam 的改善版,重点在于实现免费号批量获得以及改善操作体验 (Fix + Free)"
+  },
+  {
+    "createdAt": "2026-04-25T15:12:11Z",
+    "stars": 243,
+    "name": "stainlu/hermes-labyrinth",
+    "url": "https://github.com/stainlu/hermes-labyrinth",
+    "lang": "HTML",
+    "desc": "Read-only observability plugin for Hermes Agent: journeys, crossings, guideposts, and reports."
+  },
+  {
+    "createdAt": "2026-04-30T11:07:52Z",
+    "stars": 243,
+    "name": "UzenUPozitiv4ik/gpt-image-2-skill",
+    "url": "https://github.com/UzenUPozitiv4ik/gpt-image-2-skill",
+    "lang": "",
+    "desc": "A universal skill for generating realistic images"
+  },
+  {
+    "createdAt": "2026-04-29T08:02:27Z",
+    "stars": 242,
+    "name": "skydoves/compose-performance-skills",
+    "url": "https://github.com/skydoves/compose-performance-skills",
+    "lang": "Shell",
+    "desc": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance."
+  },
+  {
+    "createdAt": "2026-04-27T14:37:02Z",
+    "stars": 241,
+    "name": "CatsJuice/medal-forge",
+    "url": "https://github.com/CatsJuice/medal-forge",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-26T21:09:56Z",
+    "stars": 236,
+    "name": "elementalsouls/Claude-OSINT",
+    "url": "https://github.com/elementalsouls/Claude-OSINT",
+    "lang": "Python",
+    "desc": ""
+  }
+]
