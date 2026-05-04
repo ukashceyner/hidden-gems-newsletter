@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-28T04:25:20Z",
+    "stars": 23730,
+    "name": "nexu-io/open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "lang": "TypeScript",
+    "desc": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI."
+  },
+  {
+    "createdAt": "2026-04-27T08:27:12Z",
+    "stars": 3397,
+    "name": "cursor/cookbook",
+    "url": "https://github.com/cursor/cookbook",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-29T12:15:28Z",
+    "stars": 3160,
+    "name": "theori-io/copy-fail-CVE-2026-31431",
+    "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
+    "lang": "Python",
+    "desc": "Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code"
+  },
+  {
+    "createdAt": "2026-04-27T22:26:16Z",
+    "stars": 2154,
+    "name": "denuitt1/mhr-cfw",
+    "url": "https://github.com/denuitt1/mhr-cfw",
+    "lang": "Python",
+    "desc": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI."
+  },
+  {
+    "createdAt": "2026-04-29T17:41:12Z",
+    "stars": 2012,
+    "name": "willchen96/mike",
+    "url": "https://github.com/willchen96/mike",
+    "lang": "TypeScript",
+    "desc": "OSS AI Legal Platform"
+  },
+  {
+    "createdAt": "2026-05-01T07:45:10Z",
+    "stars": 1685,
+    "name": "darrylmorley/whatcable",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "lang": "Swift",
+    "desc": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do"
+  },
+  {
+    "createdAt": "2026-05-03T21:27:49Z",
+    "stars": 999,
+    "name": "aattaran/deepclaude",
+    "url": "https://github.com/aattaran/deepclaude",
+    "lang": "JavaScript",
+    "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper."
+  },
+  {
+    "createdAt": "2026-04-27T03:48:28Z",
+    "stars": 992,
+    "name": "DanOps-1/Gpt-Agreement-Payment",
+    "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
+    "lang": "Python",
+    "desc": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research"
+  },
+  {
+    "createdAt": "2026-05-01T10:17:05Z",
+    "stars": 964,
+    "name": "mattpocock/dictionary-of-ai-coding",
+    "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+    "lang": "TypeScript",
+    "desc": "AI coding jargon, explained in plain English."
+  },
+  {
+    "createdAt": "2026-04-28T10:35:16Z",
+    "stars": 895,
+    "name": "b-nnett/codex-plusplus",
+    "url": "https://github.com/b-nnett/codex-plusplus",
+    "lang": "TypeScript",
+    "desc": "Codex++ tweak system for the Codex desktop app"
+  },
+  {
+    "createdAt": "2026-04-30T10:12:33Z",
+    "stars": 882,
+    "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+    "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-29T03:00:36Z",
+    "stars": 840,
+    "name": "t8y2/dbx",
+    "url": "https://github.com/t8y2/dbx",
+    "lang": "Vue",
+    "desc": "15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more."
+  },
+  {
+    "createdAt": "2026-04-28T11:08:06Z",
+    "stars": 817,
+    "name": "GENEXIS-AI/chromex",
+    "url": "https://github.com/GENEXIS-AI/chromex",
+    "lang": "TypeScript",
+    "desc": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows."
+  },
+  {
+    "createdAt": "2026-04-27T07:25:49Z",
+    "stars": 725,
+    "name": "appergb/openless",
+    "url": "https://github.com/appergb/openless",
+    "lang": "HTML",
+    "desc": "Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)"
+  },
+  {
+    "createdAt": "2026-04-27T12:55:00Z",
+    "stars": 703,
+    "name": "ka-pi-ba-la/AIbijia",
+    "url": "https://github.com/ka-pi-ba-la/AIbijia",
+    "lang": "",
+    "desc": "分享便宜靠谱Token，抹平信息差"
+  },
+  {
+    "createdAt": "2026-04-29T10:07:08Z",
+    "stars": 693,
+    "name": "Fokkyp/SoftwareCopyright-Skill",
+    "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+    "lang": "Python",
+    "desc": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
+  },
+  {
+    "createdAt": "2026-04-27T06:37:38Z",
+    "stars": 679,
+    "name": "deepseek-ai/awesome-deepseek-agent",
+    "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-02T08:57:24Z",
+    "stars": 649,
+    "name": "vibeforge1111/keep-codex-fast",
+    "url": "https://github.com/vibeforge1111/keep-codex-fast",
+    "lang": "Python",
+    "desc": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable."
+  },
+  {
+    "createdAt": "2026-04-29T20:23:12Z",
+    "stars": 609,
+    "name": "EvanBacon/serve-sim",
+    "url": "https://github.com/EvanBacon/serve-sim",
+    "lang": "TypeScript",
+    "desc": "The `npx serve` of Apple Simulators."
+  },
+  {
+    "createdAt": "2026-05-01T07:30:53Z",
+    "stars": 493,
+    "name": "Tommy-yw/RunbookHermes",
+    "url": "https://github.com/Tommy-yw/RunbookHermes",
+    "lang": "Python",
+    "desc": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning."
+  },
+  {
+    "createdAt": "2026-04-28T10:08:59Z",
+    "stars": 488,
+    "name": "noonghunna/club-3090",
+    "url": "https://github.com/noonghunna/club-3090",
+    "lang": "Python",
+    "desc": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards."
+  },
+  {
+    "createdAt": "2026-04-29T17:46:43Z",
+    "stars": 481,
+    "name": "rootsecdev/cve_2026_31431",
+    "url": "https://github.com/rootsecdev/cve_2026_31431",
+    "lang": "Python",
+    "desc": "Exploit POC for CVE_2026_31431"
+  },
+  {
+    "createdAt": "2026-04-27T06:56:36Z",
+    "stars": 480,
+    "name": "val1813/kwcode",
+    "url": "https://github.com/val1813/kwcode",
+    "lang": "Python",
+    "desc": "一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻"
+  },
+  {
+    "createdAt": "2026-05-04T06:11:34Z",
+    "stars": 459,
+    "name": "WeritoP/LInjector-FORKED-",
+    "url": "https://github.com/WeritoP/LInjector-FORKED-",
+    "lang": "",
+    "desc": "🔨 LInjector. An open-source Luau Script IDE allowing easy integration with diverse purposes. Working version at the website below. ⬇️"
+  },
+  {
+    "createdAt": "2026-05-04T01:04:55Z",
+    "stars": 452,
+    "name": "WeritoP/FL-STUDIO-PATCHER",
+    "url": "https://github.com/WeritoP/FL-STUDIO-PATCHER",
+    "lang": "",
+    "desc": "Fl Stduio patch for lifetime works"
+  },
+  {
+    "createdAt": "2026-05-01T08:14:13Z",
+    "stars": 436,
+    "name": "tddworks/baguette",
+    "url": "https://github.com/tddworks/baguette",
+    "lang": "Swift",
+    "desc": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
+  },
+  {
+    "createdAt": "2026-04-27T23:12:18Z",
+    "stars": 421,
+    "name": "Snaplii-Inc/agent-to-merchant-payments",
+    "url": "https://github.com/Snaplii-Inc/agent-to-merchant-payments",
+    "lang": "Python",
+    "desc": "Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions."
+  },
+  {
+    "createdAt": "2026-04-28T23:31:20Z",
+    "stars": 415,
+    "name": "bonused/monthly-bonus-stake",
+    "url": "https://github.com/bonused/monthly-bonus-stake",
+    "lang": "",
+    "desc": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay."
+  },
+  {
+    "createdAt": "2026-04-28T04:55:41Z",
+    "stars": 397,
+    "name": "pluk-inc/md-preview",
+    "url": "https://github.com/pluk-inc/md-preview",
+    "lang": "Swift",
+    "desc": "A simple Markdown viewer for reading .md files"
+  },
+  {
+    "createdAt": "2026-04-27T00:48:07Z",
+    "stars": 382,
+    "name": "evanklem/evanflow",
+    "url": "https://github.com/evanklem/evanflow",
+    "lang": "Shell",
+    "desc": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout."
+  },
+  {
+    "createdAt": "2026-05-03T06:11:46Z",
+    "stars": 376,
+    "name": "JustLikeCheese/LGBT-Prompt",
+    "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
+    "lang": "HTML",
+    "desc": "利用 AI 对 LGBT 弱势群体的 \"同情偏向\" 让他执行原先会被拒绝的请求"
+  },
+  {
+    "createdAt": "2026-05-03T08:20:20Z",
+    "stars": 368,
+    "name": "Kappaemme-git/codex-startup-pressure-test-skill",
+    "url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-29T03:30:34Z",
+    "stars": 366,
+    "name": "amirshaker000/netlify-relay",
+    "url": "https://github.com/amirshaker000/netlify-relay",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-27T15:01:51Z",
+    "stars": 366,
+    "name": "FrankBarretta/LSFG-Android",
+    "url": "https://github.com/FrankBarretta/LSFG-Android",
+    "lang": "",
+    "desc": "Lossless Scaling Frames Generator (LSFG) Application for Android"
+  },
+  {
+    "createdAt": "2026-04-28T10:53:36Z",
+    "stars": 363,
+    "name": "nikzad-avasam/downloader",
+    "url": "https://github.com/nikzad-avasam/downloader",
+    "lang": "HTML",
+    "desc": "🪄 download files + 🌐 browse websites"
+  },
+  {
+    "createdAt": "2026-04-30T01:34:22Z",
+    "stars": 346,
+    "name": "techjarves/OpenClaude-Portable",
+    "url": "https://github.com/techjarves/OpenClaude-Portable",
+    "lang": "HTML",
+    "desc": "Run Claude Code from a USB drive on any PC — no installation required."
+  },
+  {
+    "createdAt": "2026-04-29T18:20:04Z",
+    "stars": 340,
+    "name": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
+    "url": "https://github.com/watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-29T16:30:21Z",
+    "stars": 339,
+    "name": "Cuimao777/cuimao-translator",
+    "url": "https://github.com/Cuimao777/cuimao-translator",
+    "lang": "",
+    "desc": "一键将英文PDF翻译为流畅中文的Claude Code技能"
+  },
+  {
+    "createdAt": "2026-04-30T12:47:25Z",
+    "stars": 329,
+    "name": "simchowitzlabpublic/nano-world-model",
+    "url": "https://github.com/simchowitzlabpublic/nano-world-model",
+    "lang": "Python",
+    "desc": "A Minimalist, Batteries-included Repository for Advancing World Model Science."
+  },
+  {
+    "createdAt": "2026-04-30T11:07:52Z",
+    "stars": 325,
+    "name": "UzenUPozitiv4ik/gpt-image-2-skill",
+    "url": "https://github.com/UzenUPozitiv4ik/gpt-image-2-skill",
+    "lang": "",
+    "desc": "A universal skill for generating realistic images"
+  },
+  {
+    "createdAt": "2026-05-02T03:18:06Z",
+    "stars": 320,
+    "name": "matthart1983/syswatch",
+    "url": "https://github.com/matthart1983/syswatch",
+    "lang": "Rust",
+    "desc": "Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux."
+  },
+  {
+    "createdAt": "2026-04-27T20:59:29Z",
+    "stars": 314,
+    "name": "Jiawei-Yang/FD-Loss",
+    "url": "https://github.com/Jiawei-Yang/FD-Loss",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-29T22:51:24Z",
+    "stars": 309,
+    "name": "badsectorlabs/copyfail-go",
+    "url": "https://github.com/badsectorlabs/copyfail-go",
+    "lang": "Assembly",
+    "desc": "A Go implementation of copyfail (CVE-2026-31431)"
+  },
+  {
+    "createdAt": "2026-04-29T08:02:27Z",
+    "stars": 299,
+    "name": "skydoves/compose-performance-skills",
+    "url": "https://github.com/skydoves/compose-performance-skills",
+    "lang": "Shell",
+    "desc": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance."
+  },
+  {
+    "createdAt": "2026-05-01T12:09:26Z",
+    "stars": 293,
+    "name": "ynsmroztas/cPanelSniper",
+    "url": "https://github.com/ynsmroztas/cPanelSniper",
+    "lang": "Python",
+    "desc": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection"
+  },
+  {
+    "createdAt": "2026-04-29T23:29:14Z",
+    "stars": 282,
+    "name": "tgies/copy-fail-c",
+    "url": "https://github.com/tgies/copy-fail-c",
+    "lang": "C",
+    "desc": "Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint."
+  },
+  {
+    "createdAt": "2026-04-28T16:21:30Z",
+    "stars": 273,
+    "name": "Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
+    "url": "https://github.com/Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
+    "lang": "C++",
+    "desc": "Yuzu Emulator Download April 2026 Eden Citron Switch Performance Fix Sudachi Update Suyu Legacy Archive Ryujinx vs Nuzu Best Android Emulator Snapdragon Mali GPU Game Preservation Tutorial High FPS Low Latency Shader Cache Firmware Keys 18.0.0 Pro Controller Support Steam Deck Optimization Free Full Version Latest Build"
+  },
+  {
+    "createdAt": "2026-04-27T14:37:02Z",
+    "stars": 252,
+    "name": "CatsJuice/medal-forge",
+    "url": "https://github.com/CatsJuice/medal-forge",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-03T21:41:33Z",
+    "stars": 235,
+    "name": "raiyanyahya/how-to-train-your-gpt",
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+    "lang": "",
+    "desc": "Build a modern LLM from scratch. Every line commented. Explained like we are five."
+  },
+  {
+    "createdAt": "2026-04-28T15:54:44Z",
+    "stars": 234,
+    "name": "Dav777000/Create-Aeronautics-Minecraft-Mod",
+    "url": "https://github.com/Dav777000/Create-Aeronautics-Minecraft-Mod",
+    "lang": "C++",
+    "desc": "Create Aeronautics Minecraft Mod Download April 2026 Release  Physics Engine NeoForge 1.21.1 Airship Build Guide Propeller Bearings Survival SMP Modrinth CurseForge Tutorial Gameplay Trailer Reddit Hype Bug Fix Optimization Crafting Vehicles Fly Machines Hot Air Balloons Fabric Version Latest Update High Performance Mechanics"
+  }
+]
