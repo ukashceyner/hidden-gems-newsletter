@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-04-28T04:25:20Z",
+    "stars": 27405,
+    "name": "nexu-io/open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "lang": "TypeScript",
+    "desc": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI."
+  },
+  {
+    "createdAt": "2026-04-29T12:15:28Z",
+    "stars": 3312,
+    "name": "theori-io/copy-fail-CVE-2026-31431",
+    "url": "https://github.com/theori-io/copy-fail-CVE-2026-31431",
+    "lang": "Python",
+    "desc": "Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori's Xint Code"
+  },
+  {
+    "createdAt": "2026-04-29T17:41:12Z",
+    "stars": 2183,
+    "name": "willchen96/mike",
+    "url": "https://github.com/willchen96/mike",
+    "lang": "TypeScript",
+    "desc": "OSS AI Legal Platform"
+  },
+  {
+    "createdAt": "2026-05-01T07:45:10Z",
+    "stars": 1926,
+    "name": "darrylmorley/whatcable",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "lang": "Swift",
+    "desc": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do"
+  },
+  {
+    "createdAt": "2026-05-03T21:27:49Z",
+    "stars": 1308,
+    "name": "aattaran/deepclaude",
+    "url": "https://github.com/aattaran/deepclaude",
+    "lang": "JavaScript",
+    "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper."
+  },
+  {
+    "createdAt": "2026-05-01T10:17:05Z",
+    "stars": 1059,
+    "name": "mattpocock/dictionary-of-ai-coding",
+    "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+    "lang": "TypeScript",
+    "desc": "AI coding jargon, explained in plain English."
+  },
+  {
+    "createdAt": "2026-04-30T16:16:11Z",
+    "stars": 1039,
+    "name": "vercel-labs/deepsec",
+    "url": "https://github.com/vercel-labs/deepsec",
+    "lang": "TypeScript",
+    "desc": "Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents"
+  },
+  {
+    "createdAt": "2026-04-30T10:12:33Z",
+    "stars": 938,
+    "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+    "url": "https://github.com/wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-28T10:35:16Z",
+    "stars": 920,
+    "name": "b-nnett/codex-plusplus",
+    "url": "https://github.com/b-nnett/codex-plusplus",
+    "lang": "TypeScript",
+    "desc": "Codex++ tweak system for the Codex desktop app"
+  },
+  {
+    "createdAt": "2026-04-29T03:00:36Z",
+    "stars": 908,
+    "name": "t8y2/dbx",
+    "url": "https://github.com/t8y2/dbx",
+    "lang": "Vue",
+    "desc": "15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more."
+  },
+  {
+    "createdAt": "2026-04-28T11:08:06Z",
+    "stars": 837,
+    "name": "GENEXIS-AI/chromex",
+    "url": "https://github.com/GENEXIS-AI/chromex",
+    "lang": "TypeScript",
+    "desc": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows."
+  },
+  {
+    "createdAt": "2026-05-02T08:57:24Z",
+    "stars": 735,
+    "name": "vibeforge1111/keep-codex-fast",
+    "url": "https://github.com/vibeforge1111/keep-codex-fast",
+    "lang": "Python",
+    "desc": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable."
+  },
+  {
+    "createdAt": "2026-04-29T10:07:08Z",
+    "stars": 710,
+    "name": "Fokkyp/SoftwareCopyright-Skill",
+    "url": "https://github.com/Fokkyp/SoftwareCopyright-Skill",
+    "lang": "Python",
+    "desc": "中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务"
+  },
+  {
+    "createdAt": "2026-04-29T20:23:12Z",
+    "stars": 650,
+    "name": "EvanBacon/serve-sim",
+    "url": "https://github.com/EvanBacon/serve-sim",
+    "lang": "TypeScript",
+    "desc": "The `npx serve` of Apple Simulators."
+  },
+  {
+    "createdAt": "2026-05-01T08:14:13Z",
+    "stars": 628,
+    "name": "tddworks/baguette",
+    "url": "https://github.com/tddworks/baguette",
+    "lang": "Swift",
+    "desc": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
+  },
+  {
+    "createdAt": "2026-04-28T10:08:59Z",
+    "stars": 555,
+    "name": "noonghunna/club-3090",
+    "url": "https://github.com/noonghunna/club-3090",
+    "lang": "Python",
+    "desc": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards."
+  },
+  {
+    "createdAt": "2026-05-01T07:30:53Z",
+    "stars": 515,
+    "name": "Tommy-yw/RunbookHermes",
+    "url": "https://github.com/Tommy-yw/RunbookHermes",
+    "lang": "Python",
+    "desc": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning."
+  },
+  {
+    "createdAt": "2026-04-29T17:46:43Z",
+    "stars": 496,
+    "name": "rootsecdev/cve_2026_31431",
+    "url": "https://github.com/rootsecdev/cve_2026_31431",
+    "lang": "Python",
+    "desc": "Exploit POC for CVE_2026_31431"
+  },
+  {
+    "createdAt": "2026-04-28T04:55:41Z",
+    "stars": 462,
+    "name": "pluk-inc/md-preview",
+    "url": "https://github.com/pluk-inc/md-preview",
+    "lang": "Swift",
+    "desc": "A simple Markdown viewer for reading .md files"
+  },
+  {
+    "createdAt": "2026-05-04T01:04:55Z",
+    "stars": 461,
+    "name": "WeritoP/FL-STUDIO-PATCHER",
+    "url": "https://github.com/WeritoP/FL-STUDIO-PATCHER",
+    "lang": "",
+    "desc": "Fl Stduio patch for lifetime works"
+  },
+  {
+    "createdAt": "2026-05-04T06:11:34Z",
+    "stars": 460,
+    "name": "WeritoP/LInjector-FORKED-",
+    "url": "https://github.com/WeritoP/LInjector-FORKED-",
+    "lang": "",
+    "desc": "🔨 LInjector. An open-source Luau Script IDE allowing easy integration with diverse purposes. Working version at the website below. ⬇️"
+  },
+  {
+    "createdAt": "2026-04-28T10:53:36Z",
+    "stars": 457,
+    "name": "nikzad-avasam/downloader",
+    "url": "https://github.com/nikzad-avasam/downloader",
+    "lang": "HTML",
+    "desc": "🪄 download files + 🌐 browse websites"
+  },
+  {
+    "createdAt": "2026-04-30T01:34:22Z",
+    "stars": 442,
+    "name": "techjarves/OpenClaude-Portable",
+    "url": "https://github.com/techjarves/OpenClaude-Portable",
+    "lang": "HTML",
+    "desc": "Run Claude Code from a USB drive on any PC — no installation required."
+  },
+  {
+    "createdAt": "2026-05-03T21:41:33Z",
+    "stars": 435,
+    "name": "raiyanyahya/how-to-train-your-gpt",
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+    "lang": "Jupyter Notebook",
+    "desc": "Build a modern LLM from scratch. Every line commented. Explained like we are five."
+  },
+  {
+    "createdAt": "2026-05-03T08:20:20Z",
+    "stars": 417,
+    "name": "Kappaemme-git/codex-startup-pressure-test-skill",
+    "url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-28T23:31:20Z",
+    "stars": 408,
+    "name": "bonused/monthly-bonus-stake",
+    "url": "https://github.com/bonused/monthly-bonus-stake",
+    "lang": "",
+    "desc": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay."
+  },
+  {
+    "createdAt": "2026-05-03T06:11:46Z",
+    "stars": 398,
+    "name": "JustLikeCheese/LGBT-Prompt",
+    "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
+    "lang": "HTML",
+    "desc": "利用 AI 对 LGBT 弱势群体的 \"同情偏向\" 让他执行原先会被拒绝的请求"
+  },
+  {
+    "createdAt": "2026-05-03T18:19:20Z",
+    "stars": 385,
+    "name": "LayrKits/Sprite-Pipeline",
+    "url": "https://github.com/LayrKits/Sprite-Pipeline",
+    "lang": "Python",
+    "desc": "2D Sprite Sheet Creation Pipeline"
+  },
+  {
+    "createdAt": "2026-04-29T03:30:34Z",
+    "stars": 381,
+    "name": "amirshaker000/netlify-relay",
+    "url": "https://github.com/amirshaker000/netlify-relay",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-02T03:18:06Z",
+    "stars": 357,
+    "name": "matthart1983/syswatch",
+    "url": "https://github.com/matthart1983/syswatch",
+    "lang": "Rust",
+    "desc": "Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux."
+  },
+  {
+    "createdAt": "2026-05-02T07:51:35Z",
+    "stars": 355,
+    "name": "crafter-station/petdex",
+    "url": "https://github.com/crafter-station/petdex",
+    "lang": "TypeScript",
+    "desc": "Public gallery of animated Codex pets"
+  },
+  {
+    "createdAt": "2026-04-29T18:20:04Z",
+    "stars": 354,
+    "name": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
+    "url": "https://github.com/watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-04-30T12:47:25Z",
+    "stars": 353,
+    "name": "simchowitzlabpublic/nano-world-model",
+    "url": "https://github.com/simchowitzlabpublic/nano-world-model",
+    "lang": "Python",
+    "desc": "A Minimalist, Batteries-included Repository for Advancing World Model Science."
+  },
+  {
+    "createdAt": "2026-04-29T16:30:21Z",
+    "stars": 351,
+    "name": "Cuimao777/cuimao-translator",
+    "url": "https://github.com/Cuimao777/cuimao-translator",
+    "lang": "",
+    "desc": "一键将英文PDF翻译为流畅中文的Claude Code技能"
+  },
+  {
+    "createdAt": "2026-04-30T11:07:52Z",
+    "stars": 333,
+    "name": "UzenUPozitiv4ik/gpt-image-2-skill",
+    "url": "https://github.com/UzenUPozitiv4ik/gpt-image-2-skill",
+    "lang": "",
+    "desc": "A universal skill for generating realistic images"
+  },
+  {
+    "createdAt": "2026-04-29T08:02:27Z",
+    "stars": 324,
+    "name": "skydoves/compose-performance-skills",
+    "url": "https://github.com/skydoves/compose-performance-skills",
+    "lang": "Shell",
+    "desc": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance."
+  },
+  {
+    "createdAt": "2026-05-01T12:09:26Z",
+    "stars": 320,
+    "name": "ynsmroztas/cPanelSniper",
+    "url": "https://github.com/ynsmroztas/cPanelSniper",
+    "lang": "Python",
+    "desc": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection"
+  },
+  {
+    "createdAt": "2026-04-29T22:51:24Z",
+    "stars": 318,
+    "name": "badsectorlabs/copyfail-go",
+    "url": "https://github.com/badsectorlabs/copyfail-go",
+    "lang": "Assembly",
+    "desc": "A Go implementation of copyfail (CVE-2026-31431)"
+  },
+  {
+    "createdAt": "2026-04-29T23:29:14Z",
+    "stars": 295,
+    "name": "tgies/copy-fail-c",
+    "url": "https://github.com/tgies/copy-fail-c",
+    "lang": "C",
+    "desc": "Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint."
+  },
+  {
+    "createdAt": "2026-04-30T15:14:09Z",
+    "stars": 291,
+    "name": "joelbqz/writer-computer",
+    "url": "https://github.com/joelbqz/writer-computer",
+    "lang": "TypeScript",
+    "desc": "Local-first desktop markdown editor"
+  },
+  {
+    "createdAt": "2026-04-30T15:25:26Z",
+    "stars": 285,
+    "name": "OpenYSM/YSMParser",
+    "url": "https://github.com/OpenYSM/YSMParser",
+    "lang": "C++",
+    "desc": "A Parser to recover Yes-Steve-Model Encrypted Binaries."
+  },
+  {
+    "createdAt": "2026-04-30T17:32:21Z",
+    "stars": 282,
+    "name": "StartupHakk/OpenMonoAgent.ai",
+    "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
+    "lang": "C#",
+    "desc": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription."
+  },
+  {
+    "createdAt": "2026-04-28T16:21:30Z",
+    "stars": 274,
+    "name": "Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
+    "url": "https://github.com/Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
+    "lang": "C++",
+    "desc": "Yuzu Emulator Download April 2026 Eden Citron Switch Performance Fix Sudachi Update Suyu Legacy Archive Ryujinx vs Nuzu Best Android Emulator Snapdragon Mali GPU Game Preservation Tutorial High FPS Low Latency Shader Cache Firmware Keys 18.0.0 Pro Controller Support Steam Deck Optimization Free Full Version Latest Build"
+  },
+  {
+    "createdAt": "2026-04-29T15:22:40Z",
+    "stars": 264,
+    "name": "laramint/laravel-brain",
+    "url": "https://github.com/laramint/laravel-brain",
+    "lang": "PHP",
+    "desc": "Visualize your Laravel request lifecycle as an interactive graph"
+  },
+  {
+    "createdAt": "2026-04-28T07:26:43Z",
+    "stars": 259,
+    "name": "mrslimslim/gpt-image-canvas",
+    "url": "https://github.com/mrslimslim/gpt-image-canvas",
+    "lang": "TypeScript",
+    "desc": "Local professional AI canvas built with tldraw."
+  },
+  {
+    "createdAt": "2026-05-01T10:30:37Z",
+    "stars": 255,
+    "name": "jherrodthomas/automotive-skills-suite",
+    "url": "https://github.com/jherrodthomas/automotive-skills-suite",
+    "lang": "",
+    "desc": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer."
+  },
+  {
+    "createdAt": "2026-05-03T13:30:01Z",
+    "stars": 249,
+    "name": "jherrodthomas/robotics-skills-suite",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite",
+    "lang": "",
+    "desc": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443."
+  },
+  {
+    "createdAt": "2026-04-30T21:57:14Z",
+    "stars": 245,
+    "name": "tgies/klattsch",
+    "url": "https://github.com/tgies/klattsch",
+    "lang": "JavaScript",
+    "desc": "primitive parallel-formant speech synth in the browser"
+  },
+  {
+    "createdAt": "2026-05-01T00:53:01Z",
+    "stars": 244,
+    "name": "nateherkai/AIS-OS",
+    "url": "https://github.com/nateherkai/AIS-OS",
+    "lang": "",
+    "desc": "AI Operating System starter kit for Claude Code — three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass."
+  },
+  {
+    "createdAt": "2026-05-01T08:27:19Z",
+    "stars": 236,
+    "name": "lukiIabs/trading-agents",
+    "url": "https://github.com/lukiIabs/trading-agents",
+    "lang": "Python",
+    "desc": "TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS"
+  }
+]
