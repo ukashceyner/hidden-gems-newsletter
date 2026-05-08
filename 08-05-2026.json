@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-05-07T18:18:28Z",
+    "stars": 2805,
+    "name": "V4bel/dirtyfrag",
+    "url": "https://github.com/V4bel/dirtyfrag",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-06T17:17:05Z",
+    "stars": 2336,
+    "name": "antirez/ds4",
+    "url": "https://github.com/antirez/ds4",
+    "lang": "C",
+    "desc": "DeepSeek 4 Flash local inference engine for Metal"
+  },
+  {
+    "createdAt": "2026-05-01T07:45:10Z",
+    "stars": 2178,
+    "name": "darrylmorley/whatcable",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "lang": "Swift",
+    "desc": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do"
+  },
+  {
+    "createdAt": "2026-05-03T21:27:49Z",
+    "stars": 1640,
+    "name": "aattaran/deepclaude",
+    "url": "https://github.com/aattaran/deepclaude",
+    "lang": "JavaScript",
+    "desc": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper."
+  },
+  {
+    "createdAt": "2026-05-06T17:00:48Z",
+    "stars": 1414,
+    "name": "strukto-ai/mirage",
+    "url": "https://github.com/strukto-ai/mirage",
+    "lang": "TypeScript",
+    "desc": "A Unified Virtual Filesystem For AI Agents"
+  },
+  {
+    "createdAt": "2026-05-06T13:04:20Z",
+    "stars": 1365,
+    "name": "yaojingang/yao-open-prompts",
+    "url": "https://github.com/yaojingang/yao-open-prompts",
+    "lang": "Python",
+    "desc": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景"
+  },
+  {
+    "createdAt": "2026-05-01T10:17:05Z",
+    "stars": 1274,
+    "name": "mattpocock/dictionary-of-ai-coding",
+    "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+    "lang": "TypeScript",
+    "desc": "AI coding jargon, explained in plain English."
+  },
+  {
+    "createdAt": "2026-05-05T10:28:33Z",
+    "stars": 1205,
+    "name": "XBuilderLAB/cheat-on-content",
+    "url": "https://github.com/XBuilderLAB/cheat-on-content",
+    "lang": "Shell",
+    "desc": "You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system."
+  },
+  {
+    "createdAt": "2026-05-02T07:51:35Z",
+    "stars": 1115,
+    "name": "crafter-station/petdex",
+    "url": "https://github.com/crafter-station/petdex",
+    "lang": "TypeScript",
+    "desc": "Public gallery of animated Codex pets"
+  },
+  {
+    "createdAt": "2026-05-01T10:30:37Z",
+    "stars": 993,
+    "name": "jherrodthomas/automotive-skills-suite",
+    "url": "https://github.com/jherrodthomas/automotive-skills-suite",
+    "lang": "",
+    "desc": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer."
+  },
+  {
+    "createdAt": "2026-05-02T08:57:24Z",
+    "stars": 912,
+    "name": "vibeforge1111/keep-codex-fast",
+    "url": "https://github.com/vibeforge1111/keep-codex-fast",
+    "lang": "Python",
+    "desc": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable."
+  },
+  {
+    "createdAt": "2026-05-06T13:13:21Z",
+    "stars": 775,
+    "name": "lightseekorg/tokenspeed",
+    "url": "https://github.com/lightseekorg/tokenspeed",
+    "lang": "Python",
+    "desc": "TokenSpeed is a speed-of-light LLM inference engine."
+  },
+  {
+    "createdAt": "2026-05-03T16:15:38Z",
+    "stars": 773,
+    "name": "MayersScott/rkn-block-checker",
+    "url": "https://github.com/MayersScott/rkn-block-checker",
+    "lang": "Python",
+    "desc": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)"
+  },
+  {
+    "createdAt": "2026-05-03T21:41:33Z",
+    "stars": 762,
+    "name": "raiyanyahya/how-to-train-your-gpt",
+    "url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+    "lang": "Jupyter Notebook",
+    "desc": "Build a modern LLM from scratch. Every line commented. Explained like we are five."
+  },
+  {
+    "createdAt": "2026-05-01T08:14:13Z",
+    "stars": 760,
+    "name": "tddworks/baguette",
+    "url": "https://github.com/tddworks/baguette",
+    "lang": "Swift",
+    "desc": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming"
+  },
+  {
+    "createdAt": "2026-05-03T08:20:20Z",
+    "stars": 727,
+    "name": "Kappaemme-git/codex-startup-pressure-test-skill",
+    "url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-01T07:30:53Z",
+    "stars": 554,
+    "name": "Tommy-yw/RunbookHermes",
+    "url": "https://github.com/Tommy-yw/RunbookHermes",
+    "lang": "Python",
+    "desc": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning."
+  },
+  {
+    "createdAt": "2026-05-01T04:20:16Z",
+    "stars": 551,
+    "name": "jingyaogong/minimind-o",
+    "url": "https://github.com/jingyaogong/minimind-o",
+    "lang": "Python",
+    "desc": "🎙️ 「大模型」从0训练0.1B能听能说能看的全模态Omni模型！A 0.1B Omni model trained from scratch, capable of listening, speaking, and seeing!"
+  },
+  {
+    "createdAt": "2026-05-01T02:09:39Z",
+    "stars": 522,
+    "name": "virgiliojr94/book-to-skill",
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "lang": "Python",
+    "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+  },
+  {
+    "createdAt": "2026-05-03T13:30:01Z",
+    "stars": 505,
+    "name": "jherrodthomas/robotics-skills-suite",
+    "url": "https://github.com/jherrodthomas/robotics-skills-suite",
+    "lang": "",
+    "desc": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443."
+  },
+  {
+    "createdAt": "2026-05-06T00:39:25Z",
+    "stars": 466,
+    "name": "WeritoP/BetterNitroDiscord",
+    "url": "https://github.com/WeritoP/BetterNitroDiscord",
+    "lang": "",
+    "desc": "BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!"
+  },
+  {
+    "createdAt": "2026-05-04T01:04:55Z",
+    "stars": 465,
+    "name": "WeritoP/FL-STUDIO-PATCHER",
+    "url": "https://github.com/WeritoP/FL-STUDIO-PATCHER",
+    "lang": "",
+    "desc": "Fl Stduio patch for lifetime works"
+  },
+  {
+    "createdAt": "2026-05-04T06:11:34Z",
+    "stars": 459,
+    "name": "WeritoP/LInjector-FORKED-",
+    "url": "https://github.com/WeritoP/LInjector-FORKED-",
+    "lang": "",
+    "desc": "🔨 LInjector. An open-source Luau Script IDE allowing easy integration with diverse purposes. Working version at the website below. ⬇️"
+  },
+  {
+    "createdAt": "2026-05-03T22:01:37Z",
+    "stars": 451,
+    "name": "nikzad-avasam/youtube-dl",
+    "url": "https://github.com/nikzad-avasam/youtube-dl",
+    "lang": "",
+    "desc": "🎬 You tube Downloader to your github repository ."
+  },
+  {
+    "createdAt": "2026-05-03T06:11:46Z",
+    "stars": 433,
+    "name": "JustLikeCheese/LGBT-Prompt",
+    "url": "https://github.com/JustLikeCheese/LGBT-Prompt",
+    "lang": "HTML",
+    "desc": "利用 AI 对 LGBT 弱势群体的 \"同情偏向\" 让他执行原先会被拒绝的请求"
+  },
+  {
+    "createdAt": "2026-05-03T18:19:20Z",
+    "stars": 429,
+    "name": "LayrKits/Sprite-Pipeline",
+    "url": "https://github.com/LayrKits/Sprite-Pipeline",
+    "lang": "Python",
+    "desc": "2D Sprite Sheet Creation Pipeline"
+  },
+  {
+    "createdAt": "2026-05-01T16:40:05Z",
+    "stars": 423,
+    "name": "openai/openai-cli",
+    "url": "https://github.com/openai/openai-cli",
+    "lang": "Go",
+    "desc": "Official CLI for the OpenAI API"
+  },
+  {
+    "createdAt": "2026-05-05T13:59:37Z",
+    "stars": 411,
+    "name": "zzzhhh1/Sing-Flare-Auto",
+    "url": "https://github.com/zzzhhh1/Sing-Flare-Auto",
+    "lang": "Dockerfile",
+    "desc": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接："
+  },
+  {
+    "createdAt": "2026-05-05T06:18:21Z",
+    "stars": 402,
+    "name": "zarazhangrui/beautiful-html-templates",
+    "url": "https://github.com/zarazhangrui/beautiful-html-templates",
+    "lang": "HTML",
+    "desc": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically."
+  },
+  {
+    "createdAt": "2026-05-02T03:18:06Z",
+    "stars": 395,
+    "name": "matthart1983/syswatch",
+    "url": "https://github.com/matthart1983/syswatch",
+    "lang": "Rust",
+    "desc": "Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux."
+  },
+  {
+    "createdAt": "2026-05-04T22:18:51Z",
+    "stars": 390,
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+    "lang": "Python",
+    "desc": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。"
+  },
+  {
+    "createdAt": "2026-05-01T12:09:26Z",
+    "stars": 371,
+    "name": "ynsmroztas/cPanelSniper",
+    "url": "https://github.com/ynsmroztas/cPanelSniper",
+    "lang": "Python",
+    "desc": "CVE-2026-41940 — cPanel & WHM Authentication Bypass via Session-File CRLF Injection"
+  },
+  {
+    "createdAt": "2026-05-03T17:26:54Z",
+    "stars": 368,
+    "name": "facebookresearch/ProgramBench",
+    "url": "https://github.com/facebookresearch/ProgramBench",
+    "lang": "Python",
+    "desc": "Can Language Models Rebuild Programs From Scratch?"
+  },
+  {
+    "createdAt": "2026-05-03T10:51:20Z",
+    "stars": 367,
+    "name": "thcp/stemdeck",
+    "url": "https://github.com/thcp/stemdeck",
+    "lang": "JavaScript",
+    "desc": "Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface"
+  },
+  {
+    "createdAt": "2026-05-02T14:48:32Z",
+    "stars": 364,
+    "name": "NyxFoundation/speca",
+    "url": "https://github.com/NyxFoundation/speca",
+    "lang": "Python",
+    "desc": "SPECA: Specification-to-Checklist Agentic Auditing Framework"
+  },
+  {
+    "createdAt": "2026-05-04T19:12:35Z",
+    "stars": 336,
+    "name": "L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
+    "url": "https://github.com/L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
+    "lang": "C#",
+    "desc": "Proof of concept to show that Edge stores credentials in cleartext"
+  },
+  {
+    "createdAt": "2026-05-04T02:20:05Z",
+    "stars": 334,
+    "name": "joshawome/chainreason",
+    "url": "https://github.com/joshawome/chainreason",
+    "lang": "Python",
+    "desc": "A benchmark for evaluating LLM reasoning on Ethereum and DeFi tasks"
+  },
+  {
+    "createdAt": "2026-05-04T02:37:55Z",
+    "stars": 332,
+    "name": "butthtio/solidity-cot-auditor",
+    "url": "https://github.com/butthtio/solidity-cot-auditor",
+    "lang": "Python",
+    "desc": "Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output."
+  },
+  {
+    "createdAt": "2026-05-04T08:28:59Z",
+    "stars": 328,
+    "name": "moxailoo/univ3-pool-lens",
+    "url": "https://github.com/moxailoo/univ3-pool-lens",
+    "lang": "TypeScript",
+    "desc": "A focused TypeScript toolkit for inspecting Uniswap V3 pools — liquidity distribution, fee yield, and impermanent-loss math from your terminal."
+  },
+  {
+    "createdAt": "2026-05-04T08:42:52Z",
+    "stars": 314,
+    "name": "evanphi7/lighthouse-router",
+    "url": "https://github.com/evanphi7/lighthouse-router",
+    "lang": "Rust",
+    "desc": "Off-chain DEX route discovery on Solana — pool decoders, multi-hop quoting, and arbitrage cycle detection"
+  },
+  {
+    "createdAt": "2026-05-05T14:04:55Z",
+    "stars": 303,
+    "name": "Ch1rpy2613/Mirrai",
+    "url": "https://github.com/Ch1rpy2613/Mirrai",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-04T04:24:15Z",
+    "stars": 302,
+    "name": "ThisIsDara/mhr-cfw-go",
+    "url": "https://github.com/ThisIsDara/mhr-cfw-go",
+    "lang": "Go",
+    "desc": "A local proxy that runs on your machine and forwards traffic through Google."
+  },
+  {
+    "createdAt": "2026-05-06T09:32:49Z",
+    "stars": 301,
+    "name": "BigPizzaV3/CodexPlusPlus",
+    "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+    "lang": "Python",
+    "desc": "一个CodexApp的增强工具"
+  },
+  {
+    "createdAt": "2026-05-05T16:27:07Z",
+    "stars": 291,
+    "name": "kitft/natural_language_autoencoders",
+    "url": "https://github.com/kitft/natural_language_autoencoders",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-01T00:53:01Z",
+    "stars": 291,
+    "name": "nateherkai/AIS-OS",
+    "url": "https://github.com/nateherkai/AIS-OS",
+    "lang": "",
+    "desc": "AI Operating System starter kit for Claude Code — three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass."
+  },
+  {
+    "createdAt": "2026-05-06T09:53:47Z",
+    "stars": 290,
+    "name": "mereses-labs/solana-pumpfun-bundler",
+    "url": "https://github.com/mereses-labs/solana-pumpfun-bundler",
+    "lang": "TypeScript",
+    "desc": "🏗️solana pumpfun bundler stealth-mode, bubblemap-bypassing, real bot activity An open-source bundler for pumpfun allows you to create a token and bundle it with 25 buys.Solana bundler Pumpfun bundler  bundler · Bonkfun bundler bundler. Multi-wallet bundler for Solana to"
+  },
+  {
+    "createdAt": "2026-05-06T14:52:16Z",
+    "stars": 289,
+    "name": "TQ-trade-agent/tq-trading-agent",
+    "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
+    "lang": "Vue",
+    "desc": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs"
+  },
+  {
+    "createdAt": "2026-05-05T14:34:13Z",
+    "stars": 288,
+    "name": "BuluBulugege/Free-BAI",
+    "url": "https://github.com/BuluBulugege/Free-BAI",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-05T13:11:24Z",
+    "stars": 286,
+    "name": "louisedesadeleer/clipify",
+    "url": "https://github.com/louisedesadeleer/clipify",
+    "lang": "Python",
+    "desc": "Claude Code skill: turn long videos into social-ready clips. Auto-find funny moments, cut, reframe to 9:16 with face-tracking, and burn opus-style captions."
+  },
+  {
+    "createdAt": "2026-05-04T14:18:10Z",
+    "stars": 285,
+    "name": "huggingface/nanowhale",
+    "url": "https://github.com/huggingface/nanowhale",
+    "lang": "Python",
+    "desc": ""
+  }
+]
