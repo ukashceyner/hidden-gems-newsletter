@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-05-06T17:17:05Z",
+    "stars": 8396,
+    "name": "antirez/ds4",
+    "url": "https://github.com/antirez/ds4",
+    "lang": "C",
+    "desc": "DeepSeek 4 Flash local inference engine for Metal and CUDA"
+  },
+  {
+    "createdAt": "2026-05-07T18:18:28Z",
+    "stars": 4415,
+    "name": "V4bel/dirtyfrag",
+    "url": "https://github.com/V4bel/dirtyfrag",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-08T19:53:41Z",
+    "stars": 3268,
+    "name": "vercel-labs/zero-native",
+    "url": "https://github.com/vercel-labs/zero-native",
+    "lang": "Zig",
+    "desc": "Build desktop + mobile apps with Zig and web UI"
+  },
+  {
+    "createdAt": "2026-05-11T17:44:55Z",
+    "stars": 2877,
+    "name": "FULU-Foundation/OrcaSlicer-bambulab",
+    "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-06T17:00:48Z",
+    "stars": 2146,
+    "name": "strukto-ai/mirage",
+    "url": "https://github.com/strukto-ai/mirage",
+    "lang": "TypeScript",
+    "desc": "A Unified Virtual Filesystem For AI Agents"
+  },
+  {
+    "createdAt": "2026-05-06T13:04:20Z",
+    "stars": 1940,
+    "name": "yaojingang/yao-open-prompts",
+    "url": "https://github.com/yaojingang/yao-open-prompts",
+    "lang": "Python",
+    "desc": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景"
+  },
+  {
+    "createdAt": "2026-05-06T09:32:49Z",
+    "stars": 1869,
+    "name": "BigPizzaV3/CodexPlusPlus",
+    "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
+    "lang": "Python",
+    "desc": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服"
+  },
+  {
+    "createdAt": "2026-05-10T10:34:50Z",
+    "stars": 1799,
+    "name": "huangserva/3DCellForge",
+    "url": "https://github.com/huangserva/3DCellForge",
+    "lang": "JavaScript",
+    "desc": "AI-powered interactive 3D cell generation and exploration studio."
+  },
+  {
+    "createdAt": "2026-05-06T13:13:21Z",
+    "stars": 997,
+    "name": "lightseekorg/tokenspeed",
+    "url": "https://github.com/lightseekorg/tokenspeed",
+    "lang": "Python",
+    "desc": "TokenSpeed is a speed-of-light LLM inference engine."
+  },
+  {
+    "createdAt": "2026-05-12T15:54:59Z",
+    "stars": 954,
+    "name": "Nightmare-Eclipse/YellowKey",
+    "url": "https://github.com/Nightmare-Eclipse/YellowKey",
+    "lang": "",
+    "desc": "YellowKey Bitlocker Bypass Vulnerability"
+  },
+  {
+    "createdAt": "2026-05-12T11:29:47Z",
+    "stars": 707,
+    "name": "ywnd1144/Gopay_plus_automatic",
+    "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-11T03:07:49Z",
+    "stars": 660,
+    "name": "HermannBjorgvin/Clawdmeter",
+    "url": "https://github.com/HermannBjorgvin/Clawdmeter",
+    "lang": "C",
+    "desc": "ESP32 desk dashboard that shows Claude Code usage"
+  },
+  {
+    "createdAt": "2026-05-08T07:37:16Z",
+    "stars": 642,
+    "name": "haydenbleasel/files-sdk",
+    "url": "https://github.com/haydenbleasel/files-sdk",
+    "lang": "TypeScript",
+    "desc": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O."
+  },
+  {
+    "createdAt": "2026-05-06T20:01:08Z",
+    "stars": 611,
+    "name": "pixel-point/media-downloader",
+    "url": "https://github.com/pixel-point/media-downloader",
+    "lang": "Swift",
+    "desc": "Beautiful native macOS video downloader. Download and trim in one app."
+  },
+  {
+    "createdAt": "2026-05-10T11:32:52Z",
+    "stars": 534,
+    "name": "thakur-works/DarkGPT",
+    "url": "https://github.com/thakur-works/DarkGPT",
+    "lang": "",
+    "desc": "Darkgpt mod free #chatgpt"
+  },
+  {
+    "createdAt": "2026-05-12T13:18:16Z",
+    "stars": 533,
+    "name": "patchfighterway90/cs2-external-overlay",
+    "url": "https://github.com/patchfighterway90/cs2-external-overlay",
+    "lang": "Python",
+    "desc": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay."
+  },
+  {
+    "createdAt": "2026-05-10T11:10:20Z",
+    "stars": 528,
+    "name": "thakur-works/Velocity-Executor",
+    "url": "https://github.com/thakur-works/Velocity-Executor",
+    "lang": "",
+    "desc": "This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification."
+  },
+  {
+    "createdAt": "2026-05-09T15:34:26Z",
+    "stars": 512,
+    "name": "alchaincyf/huashu-md-html",
+    "url": "https://github.com/alchaincyf/huashu-md-html",
+    "lang": "CSS",
+    "desc": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill."
+  },
+  {
+    "createdAt": "2026-05-10T15:35:28Z",
+    "stars": 509,
+    "name": "TencentARC/Pixal3D",
+    "url": "https://github.com/TencentARC/Pixal3D",
+    "lang": "Python",
+    "desc": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images"
+  },
+  {
+    "createdAt": "2026-05-10T10:25:42Z",
+    "stars": 502,
+    "name": "cclank/cell-architecture-studio",
+    "url": "https://github.com/cclank/cell-architecture-studio",
+    "lang": "TypeScript",
+    "desc": "Interactive 3D cell architecture gallery built with React and Three.js"
+  },
+  {
+    "createdAt": "2026-05-09T17:18:16Z",
+    "stars": 501,
+    "name": "amircloner/g2ray",
+    "url": "https://github.com/amircloner/g2ray",
+    "lang": "Dockerfile",
+    "desc": "Self-hosted proxy setup running inside GitHub Codespaces — for educational purposes only"
+  },
+  {
+    "createdAt": "2026-05-08T20:10:42Z",
+    "stars": 491,
+    "name": "AvenueSleuth/delta-exec",
+    "url": "https://github.com/AvenueSleuth/delta-exec",
+    "lang": "Python",
+    "desc": "Delta Exec scripting utility"
+  },
+  {
+    "createdAt": "2026-05-06T21:47:11Z",
+    "stars": 477,
+    "name": "PentHertz/LUKSbox",
+    "url": "https://github.com/PentHertz/LUKSbox",
+    "lang": "Rust",
+    "desc": "Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows."
+  },
+  {
+    "createdAt": "2026-05-06T05:10:29Z",
+    "stars": 476,
+    "name": "darkrishabh/agent-skills-eval",
+    "url": "https://github.com/darkrishabh/agent-skills-eval",
+    "lang": "TypeScript",
+    "desc": "A test runner for agentskills.io-style AI agent skills"
+  },
+  {
+    "createdAt": "2026-05-06T00:39:25Z",
+    "stars": 469,
+    "name": "WeritoP/BetterNitroDiscord",
+    "url": "https://github.com/WeritoP/BetterNitroDiscord",
+    "lang": "",
+    "desc": "BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!"
+  },
+  {
+    "createdAt": "2026-05-11T01:08:15Z",
+    "stars": 456,
+    "name": "simonlin1212/a-stock-data",
+    "url": "https://github.com/simonlin1212/a-stock-data",
+    "lang": "",
+    "desc": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data"
+  },
+  {
+    "createdAt": "2026-05-08T11:40:48Z",
+    "stars": 455,
+    "name": "setube/stackprism",
+    "url": "https://github.com/setube/stackprism",
+    "lang": "TypeScript",
+    "desc": "StackPrism是一款用于检测网页技术栈的浏览器插件。"
+  },
+  {
+    "createdAt": "2026-05-10T00:43:27Z",
+    "stars": 448,
+    "name": "Rhythmplocutter/printer-offline-fix",
+    "url": "https://github.com/Rhythmplocutter/printer-offline-fix",
+    "lang": "PowerShell",
+    "desc": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
+  },
+  {
+    "createdAt": "2026-05-06T21:26:47Z",
+    "stars": 444,
+    "name": "mykolaharmash/notelet",
+    "url": "https://github.com/mykolaharmash/notelet",
+    "lang": "Swift",
+    "desc": "SwiftUI component for displaying rich release notes inside an app"
+  },
+  {
+    "createdAt": "2026-05-06T14:34:36Z",
+    "stars": 441,
+    "name": "fendouai/CodexSaver",
+    "url": "https://github.com/fendouai/CodexSaver",
+    "lang": "Python",
+    "desc": "Make Codex cheaper without making it dumber with DeepSeek."
+  },
+  {
+    "createdAt": "2026-05-09T04:18:30Z",
+    "stars": 437,
+    "name": "ChristianJR19/Goblin-Agent",
+    "url": "https://github.com/ChristianJR19/Goblin-Agent",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-10T14:19:20Z",
+    "stars": 434,
+    "name": "TrueGunsmithFence/Hentaihunter",
+    "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
+    "lang": "Python",
+    "desc": "Hentaihunter - How to steal your Doujinshi easily"
+  },
+  {
+    "createdAt": "2026-05-10T17:04:08Z",
+    "stars": 428,
+    "name": "grandeurcoredecoder/f95zone",
+    "url": "https://github.com/grandeurcoredecoder/f95zone",
+    "lang": "PowerShell",
+    "desc": "Unofficial Game Updater for the F95Zone platform"
+  },
+  {
+    "createdAt": "2026-05-12T07:34:30Z",
+    "stars": 422,
+    "name": "chrisbanes/skills",
+    "url": "https://github.com/chrisbanes/skills",
+    "lang": "",
+    "desc": "Skills for Kotlin, Jetpack Compose, and Android development"
+  },
+  {
+    "createdAt": "2026-05-09T04:32:48Z",
+    "stars": 397,
+    "name": "nickvasilescu/hermes-desktop-os1",
+    "url": "https://github.com/nickvasilescu/hermes-desktop-os1",
+    "lang": "Swift",
+    "desc": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts"
+  },
+  {
+    "createdAt": "2026-05-10T05:27:42Z",
+    "stars": 387,
+    "name": "iampedii/WhiteDNS",
+    "url": "https://github.com/iampedii/WhiteDNS",
+    "lang": "Kotlin",
+    "desc": "Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS."
+  },
+  {
+    "createdAt": "2026-05-12T12:40:55Z",
+    "stars": 373,
+    "name": "ltyzen/KMSAutoTool",
+    "url": "https://github.com/ltyzen/KMSAutoTool",
+    "lang": "C++",
+    "desc": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool."
+  },
+  {
+    "createdAt": "2026-05-11T14:44:10Z",
+    "stars": 370,
+    "name": "lillian039/ELF",
+    "url": "https://github.com/lillian039/ELF",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-12T15:56:16Z",
+    "stars": 368,
+    "name": "Nightmare-Eclipse/GreenPlasma",
+    "url": "https://github.com/Nightmare-Eclipse/GreenPlasma",
+    "lang": "C++",
+    "desc": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability"
+  },
+  {
+    "createdAt": "2026-05-12T14:23:02Z",
+    "stars": 366,
+    "name": "manojmidhul92-art/Umbrella-HWID",
+    "url": "https://github.com/manojmidhul92-art/Umbrella-HWID",
+    "lang": "C++",
+    "desc": "Advanced HWID changer. Bypass Vanguard, EAC, BattlEye, Ricochet. Features: Disk serials spoofing, BIOS/Baseboard UUID change, MAC address randomize, Monitor ID masking. Registry cleaner, trace remover, permanent/temporary mode. Kernel-level protection, one-click spoofer, anti-cheat bypass."
+  },
+  {
+    "createdAt": "2026-05-12T15:00:14Z",
+    "stars": 363,
+    "name": "yaassin12/DeepSeek-V4-Pro-App",
+    "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
+    "lang": "C++",
+    "desc": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface."
+  },
+  {
+    "createdAt": "2026-05-11T04:42:18Z",
+    "stars": 363,
+    "name": "JUk1-GH/gpt-promo-scanner",
+    "url": "https://github.com/JUk1-GH/gpt-promo-scanner",
+    "lang": "Python",
+    "desc": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
+  },
+  {
+    "createdAt": "2026-05-12T13:36:32Z",
+    "stars": 363,
+    "name": "sunyouzhi2003/LSFG-Desktop",
+    "url": "https://github.com/sunyouzhi2003/LSFG-Desktop",
+    "lang": "C++",
+    "desc": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
+  },
+  {
+    "createdAt": "2026-05-12T13:58:17Z",
+    "stars": 359,
+    "name": "mark9-droid/TomodachiPC",
+    "url": "https://github.com/mark9-droid/TomodachiPC",
+    "lang": "C++",
+    "desc": "Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences database, gift system. Mii personality maker, character interaction logs, voice synthesizer, QR code gallery, daily events tracker, dream collection, island news."
+  },
+  {
+    "createdAt": "2026-05-12T14:41:32Z",
+    "stars": 356,
+    "name": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "url": "https://github.com/PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "lang": "C++",
+    "desc": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
+  },
+  {
+    "createdAt": "2026-05-08T16:20:54Z",
+    "stars": 341,
+    "name": "Salomondiei08/oh-my-hermes",
+    "url": "https://github.com/Salomondiei08/oh-my-hermes",
+    "lang": "Shell",
+    "desc": "An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent"
+  },
+  {
+    "createdAt": "2026-05-08T13:36:17Z",
+    "stars": 329,
+    "name": "HiDream-ai/HiDream-O1-Image",
+    "url": "https://github.com/HiDream-ai/HiDream-O1-Image",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-07T10:39:09Z",
+    "stars": 328,
+    "name": "iam567/LifeManga",
+    "url": "https://github.com/iam567/LifeManga",
+    "lang": "Swift",
+    "desc": "ios swift swiftui openai gpt-image manga ai-art"
+  },
+  {
+    "createdAt": "2026-05-08T15:51:03Z",
+    "stars": 319,
+    "name": "chojs23/concord",
+    "url": "https://github.com/chojs23/concord",
+    "lang": "Rust",
+    "desc": "A feature-rich TUI client for Discord, written in Rust."
+  },
+  {
+    "createdAt": "2026-05-06T14:52:16Z",
+    "stars": 317,
+    "name": "TQ-trade-agent/tq-trading-agent",
+    "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
+    "lang": "PowerShell",
+    "desc": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs"
+  }
+]
