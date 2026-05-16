@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-05-11T17:44:55Z",
+    "stars": 5305,
+    "name": "FULU-Foundation/OrcaSlicer-bambulab",
+    "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-12T15:54:59Z",
+    "stars": 2805,
+    "name": "Nightmare-Eclipse/YellowKey",
+    "url": "https://github.com/Nightmare-Eclipse/YellowKey",
+    "lang": "",
+    "desc": "YellowKey Bitlocker Bypass Vulnerability"
+  },
+  {
+    "createdAt": "2026-05-11T09:40:38Z",
+    "stars": 2429,
+    "name": "nexu-io/html-anything",
+    "url": "https://github.com/nexu-io/html-anything",
+    "lang": "HTML",
+    "desc": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider."
+  },
+  {
+    "createdAt": "2026-05-10T10:34:50Z",
+    "stars": 2090,
+    "name": "huangserva/3DCellForge",
+    "url": "https://github.com/huangserva/3DCellForge",
+    "lang": "JavaScript",
+    "desc": "AI-powered interactive 3D model generation, inspection, and presentation studio."
+  },
+  {
+    "createdAt": "2026-05-14T19:28:43Z",
+    "stars": 1220,
+    "name": "yetone/native-feel-skill",
+    "url": "https://github.com/yetone/native-feel-skill",
+    "lang": "",
+    "desc": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit."
+  },
+  {
+    "createdAt": "2026-05-11T03:07:49Z",
+    "stars": 1078,
+    "name": "HermannBjorgvin/Clawdmeter",
+    "url": "https://github.com/HermannBjorgvin/Clawdmeter",
+    "lang": "C",
+    "desc": "ESP32 desk dashboard that shows Claude Code usage"
+  },
+  {
+    "createdAt": "2026-05-11T01:08:15Z",
+    "stars": 986,
+    "name": "simonlin1212/a-stock-data",
+    "url": "https://github.com/simonlin1212/a-stock-data",
+    "lang": "",
+    "desc": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data"
+  },
+  {
+    "createdAt": "2026-05-15T16:55:16Z",
+    "stars": 928,
+    "name": "vercel-labs/zero",
+    "url": "https://github.com/vercel-labs/zero",
+    "lang": "C",
+    "desc": "The programming language for agents"
+  },
+  {
+    "createdAt": "2026-05-12T11:29:47Z",
+    "stars": 901,
+    "name": "ywnd1144/Gopay_plus_automatic",
+    "url": "https://github.com/ywnd1144/Gopay_plus_automatic",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-10T15:35:28Z",
+    "stars": 797,
+    "name": "TencentARC/Pixal3D",
+    "url": "https://github.com/TencentARC/Pixal3D",
+    "lang": "Python",
+    "desc": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images"
+  },
+  {
+    "createdAt": "2026-05-12T23:05:32Z",
+    "stars": 646,
+    "name": "DepthFirstDisclosures/Nginx-Rift",
+    "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+    "lang": "Python",
+    "desc": "exploit for CVE-2026-42945"
+  },
+  {
+    "createdAt": "2026-05-10T10:25:42Z",
+    "stars": 617,
+    "name": "cclank/cell-architecture-studio",
+    "url": "https://github.com/cclank/cell-architecture-studio",
+    "lang": "TypeScript",
+    "desc": "Interactive 3D cell architecture gallery built with React and Three.js"
+  },
+  {
+    "createdAt": "2026-05-11T14:44:10Z",
+    "stars": 572,
+    "name": "lillian039/ELF",
+    "url": "https://github.com/lillian039/ELF",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-12T07:34:30Z",
+    "stars": 572,
+    "name": "chrisbanes/skills",
+    "url": "https://github.com/chrisbanes/skills",
+    "lang": "",
+    "desc": "Skills for Kotlin, Jetpack Compose, and Android development"
+  },
+  {
+    "createdAt": "2026-05-15T21:32:21Z",
+    "stars": 570,
+    "name": "DenisSergeevitch/agents-best-practices",
+    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+    "lang": "",
+    "desc": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design."
+  },
+  {
+    "createdAt": "2026-05-09T17:18:16Z",
+    "stars": 558,
+    "name": "amircloner/g2ray",
+    "url": "https://github.com/amircloner/g2ray",
+    "lang": "Dockerfile",
+    "desc": "Self-hosted proxy setup running inside GitHub Codespaces — for educational purposes only"
+  },
+  {
+    "createdAt": "2026-05-10T21:45:19Z",
+    "stars": 553,
+    "name": "jasonkneen/tiny-world-builder",
+    "url": "https://github.com/jasonkneen/tiny-world-builder",
+    "lang": "HTML",
+    "desc": "tiny-world-builder"
+  },
+  {
+    "createdAt": "2026-05-09T15:34:26Z",
+    "stars": 552,
+    "name": "alchaincyf/huashu-md-html",
+    "url": "https://github.com/alchaincyf/huashu-md-html",
+    "lang": "CSS",
+    "desc": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill."
+  },
+  {
+    "createdAt": "2026-05-10T00:43:27Z",
+    "stars": 544,
+    "name": "Rhythmplocutter/printer-offline-fix",
+    "url": "https://github.com/Rhythmplocutter/printer-offline-fix",
+    "lang": "PowerShell",
+    "desc": "printer offline fix || printer offline || printer offline driver || printer offline fix windows"
+  },
+  {
+    "createdAt": "2026-05-09T04:18:30Z",
+    "stars": 535,
+    "name": "shefys/grok-animus",
+    "url": "https://github.com/shefys/grok-animus",
+    "lang": "Python",
+    "desc": "Persistent AI companion engine — personality, memory, dreams, and evolution for any LLM. The foundation behind living AI companions."
+  },
+  {
+    "createdAt": "2026-05-10T11:32:52Z",
+    "stars": 534,
+    "name": "thakur-works/DarkGPT",
+    "url": "https://github.com/thakur-works/DarkGPT",
+    "lang": "",
+    "desc": "Darkgpt mod free #chatgpt"
+  },
+  {
+    "createdAt": "2026-05-12T13:18:16Z",
+    "stars": 534,
+    "name": "patchfighterway90/cs2-external-overlay",
+    "url": "https://github.com/patchfighterway90/cs2-external-overlay",
+    "lang": "Python",
+    "desc": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay."
+  },
+  {
+    "createdAt": "2026-05-10T11:10:20Z",
+    "stars": 528,
+    "name": "thakur-works/Velocity-Executor",
+    "url": "https://github.com/thakur-works/Velocity-Executor",
+    "lang": "",
+    "desc": "This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification."
+  },
+  {
+    "createdAt": "2026-05-10T14:19:20Z",
+    "stars": 528,
+    "name": "TrueGunsmithFence/Hentaihunter",
+    "url": "https://github.com/TrueGunsmithFence/Hentaihunter",
+    "lang": "Python",
+    "desc": "Hentaihunter - How to steal your Doujinshi easily"
+  },
+  {
+    "createdAt": "2026-05-12T15:56:16Z",
+    "stars": 527,
+    "name": "Nightmare-Eclipse/GreenPlasma",
+    "url": "https://github.com/Nightmare-Eclipse/GreenPlasma",
+    "lang": "C++",
+    "desc": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability"
+  },
+  {
+    "createdAt": "2026-05-10T17:04:08Z",
+    "stars": 525,
+    "name": "grandeurcoredecoder/f95zone",
+    "url": "https://github.com/grandeurcoredecoder/f95zone",
+    "lang": "PowerShell",
+    "desc": "Unofficial Game Updater for the F95Zone platform"
+  },
+  {
+    "createdAt": "2026-05-14T21:47:53Z",
+    "stars": 522,
+    "name": "trong776/Roblox-Hub-2026",
+    "url": "https://github.com/trong776/Roblox-Hub-2026",
+    "lang": "",
+    "desc": "Developer utilities for Roblox game testing — Lua tools for exploring game mechanics and performance. MIT License."
+  },
+  {
+    "createdAt": "2026-05-14T13:48:33Z",
+    "stars": 516,
+    "name": "S4rdenz/gta-5-mod-menu",
+    "url": "https://github.com/S4rdenz/gta-5-mod-menu",
+    "lang": "",
+    "desc": "🚀 Dominate GTA V servers with this free, reliable FiveM mod menu featuring ESP, aimbot, and more, designed for Steam and Epic Games versions."
+  },
+  {
+    "createdAt": "2026-05-12T12:40:55Z",
+    "stars": 507,
+    "name": "ltyzen/KMSAutoTool",
+    "url": "https://github.com/ltyzen/KMSAutoTool",
+    "lang": "C++",
+    "desc": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool."
+  },
+  {
+    "createdAt": "2026-05-11T04:42:18Z",
+    "stars": 501,
+    "name": "JUk1-GH/gpt-promo-scanner",
+    "url": "https://github.com/JUk1-GH/gpt-promo-scanner",
+    "lang": "Python",
+    "desc": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off"
+  },
+  {
+    "createdAt": "2026-05-15T16:18:35Z",
+    "stars": 497,
+    "name": "trong776/gta-5-mod-menu",
+    "url": "https://github.com/trong776/gta-5-mod-menu",
+    "lang": "",
+    "desc": "External game enhancement for GTA V single-player. ImGui overlay, no injection, minimal FPS impact. Windows x64, C++17."
+  },
+  {
+    "createdAt": "2026-05-16T08:50:42Z",
+    "stars": 485,
+    "name": "SubamanojJ-2004/gta-5-mod-menu",
+    "url": "https://github.com/SubamanojJ-2004/gta-5-mod-menu",
+    "lang": "",
+    "desc": "Ultimate Enhancement Toolkit for GTA V — powerful mod menu with ESP, vehicle spawner, recovery features, and clean UI"
+  },
+  {
+    "createdAt": "2026-05-12T15:00:14Z",
+    "stars": 476,
+    "name": "yaassin12/DeepSeek-V4-Pro-App",
+    "url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App",
+    "lang": "C++",
+    "desc": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface."
+  },
+  {
+    "createdAt": "2026-05-14T22:44:21Z",
+    "stars": 476,
+    "name": "0xdeadbeefnetwork/ssh-keysign-pwn",
+    "url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn",
+    "lang": "C",
+    "desc": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels."
+  },
+  {
+    "createdAt": "2026-05-12T13:36:32Z",
+    "stars": 475,
+    "name": "sunyouzhi2003/LSFG-Desktop",
+    "url": "https://github.com/sunyouzhi2003/LSFG-Desktop",
+    "lang": "C++",
+    "desc": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible."
+  },
+  {
+    "createdAt": "2026-05-12T14:41:32Z",
+    "stars": 472,
+    "name": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "url": "https://github.com/PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "lang": "C++",
+    "desc": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript."
+  },
+  {
+    "createdAt": "2026-05-12T13:58:17Z",
+    "stars": 470,
+    "name": "mark9-droid/TomodachiPC",
+    "url": "https://github.com/mark9-droid/TomodachiPC",
+    "lang": "C++",
+    "desc": "Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences database, gift system. Mii personality maker, character interaction logs, voice synthesizer, QR code gallery, daily events tracker, dream collection, island news."
+  },
+  {
+    "createdAt": "2026-05-10T05:27:42Z",
+    "stars": 469,
+    "name": "iampedii/WhiteDNS",
+    "url": "https://github.com/iampedii/WhiteDNS",
+    "lang": "Kotlin",
+    "desc": "Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS."
+  },
+  {
+    "createdAt": "2026-05-13T08:17:58Z",
+    "stars": 464,
+    "name": "v12-security/pocs",
+    "url": "https://github.com/v12-security/pocs",
+    "lang": "C",
+    "desc": "poc it like it's hot"
+  },
+  {
+    "createdAt": "2026-05-14T04:19:09Z",
+    "stars": 460,
+    "name": "B3hnamR/PsiphonOverMITM",
+    "url": "https://github.com/B3hnamR/PsiphonOverMITM",
+    "lang": "PowerShell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-13T22:45:27Z",
+    "stars": 447,
+    "name": "PrimeKeeper58/blooket-hacks",
+    "url": "https://github.com/PrimeKeeper58/blooket-hacks",
+    "lang": "JavaScript",
+    "desc": "blooket menu || blooket || blooket hacks"
+  },
+  {
+    "createdAt": "2026-05-13T16:14:35Z",
+    "stars": 444,
+    "name": "lucasfrre/BongoCat-Desktop",
+    "url": "https://github.com/lucasfrre/BongoCat-Desktop",
+    "lang": "C++",
+    "desc": "BongoCat: Interactive stream overlay. Mouse and keyboard tracker, tablet pen pressure, osu! playstyle mode. Custom skin editor, transparent background, OBS studio plugin, gamepad support. Keypress visualizer, RGB lighting sync, emote animations, desktop pet, live reaction tool, WASD mapping."
+  },
+  {
+    "createdAt": "2026-05-14T16:02:07Z",
+    "stars": 444,
+    "name": "jiaoyanming0-bot/OPAutoClicker",
+    "url": "https://github.com/jiaoyanming0-bot/OPAutoClicker",
+    "lang": "C#",
+    "desc": "OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable. "
+  },
+  {
+    "createdAt": "2026-05-13T23:40:15Z",
+    "stars": 441,
+    "name": "EnsignKazekage/Prodigy-Hacks",
+    "url": "https://github.com/EnsignKazekage/Prodigy-Hacks",
+    "lang": "Python",
+    "desc": "Prodigymathgamehacking || prodigy hacks || prodigymathgame"
+  },
+  {
+    "createdAt": "2026-05-14T15:08:34Z",
+    "stars": 438,
+    "name": "Juwluuu/Subnautica-2-Release",
+    "url": "https://github.com/Juwluuu/Subnautica-2-Release",
+    "lang": "C++",
+    "desc": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes"
+  },
+  {
+    "createdAt": "2026-05-13T16:53:49Z",
+    "stars": 436,
+    "name": "snoozinjs/Delta-exec",
+    "url": "https://github.com/snoozinjs/Delta-exec",
+    "lang": "C++",
+    "desc": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs."
+  },
+  {
+    "createdAt": "2026-05-14T15:37:45Z",
+    "stars": 434,
+    "name": "DARKHOLEUM/VoidStrap-For-Roblox",
+    "url": "https://github.com/DARKHOLEUM/VoidStrap-For-Roblox",
+    "lang": "C#",
+    "desc": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization."
+  },
+  {
+    "createdAt": "2026-05-14T21:32:44Z",
+    "stars": 420,
+    "name": "alexaloneboy1-droid/Invincible-VS-Showdown-Desktop",
+    "url": "https://github.com/alexaloneboy1-droid/Invincible-VS-Showdown-Desktop",
+    "lang": "",
+    "desc": "Invincible VS Game 2026 PC Download Best Desktop Fighter 2026 New Release 🎮💥"
+  },
+  {
+    "createdAt": "2026-05-14T21:36:49Z",
+    "stars": 420,
+    "name": "DaGortx/Neural-WA-Broadcaster",
+    "url": "https://github.com/DaGortx/Neural-WA-Broadcaster",
+    "lang": "",
+    "desc": "WhatsApp Auto Text Sender 2026 - Undetected Bulk Messaging Tool ❤️ 🔥"
+  },
+  {
+    "createdAt": "2026-05-14T21:33:55Z",
+    "stars": 420,
+    "name": "Sunderpal18/printer-offline-revival",
+    "url": "https://github.com/Sunderpal18/printer-offline-revival",
+    "lang": "",
+    "desc": "🖨️ Ultimate Printer Offline Fix Guide 2026 – Step-by-Step for HP & Brother"
+  }
+]
