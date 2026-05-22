@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-05-15T16:55:16Z",
+    "stars": 4312,
+    "name": "vercel-labs/zerolang",
+    "url": "https://github.com/vercel-labs/zerolang",
+    "lang": "C",
+    "desc": "The programming language for agents"
+  },
+  {
+    "createdAt": "2026-05-19T11:52:52Z",
+    "stars": 1746,
+    "name": "FoundZiGu/GuJumpgate",
+    "url": "https://github.com/FoundZiGu/GuJumpgate",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-20T00:49:37Z",
+    "stars": 1496,
+    "name": "thananon/9arm-skills",
+    "url": "https://github.com/thananon/9arm-skills",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-18T06:19:44Z",
+    "stars": 1213,
+    "name": "Doorman11991/smallcode",
+    "url": "https://github.com/Doorman11991/smallcode",
+    "lang": "JavaScript",
+    "desc": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model."
+  },
+  {
+    "createdAt": "2026-05-17T06:41:12Z",
+    "stars": 1081,
+    "name": "datawhalechina/Agent-Learning-Hub",
+    "url": "https://github.com/datawhalechina/Agent-Learning-Hub",
+    "lang": "HTML",
+    "desc": "AI Agent 学习路线与资料库收集"
+  },
+  {
+    "createdAt": "2026-05-15T21:32:21Z",
+    "stars": 965,
+    "name": "DenisSergeevitch/agents-best-practices",
+    "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+    "lang": "",
+    "desc": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design."
+  },
+  {
+    "createdAt": "2026-05-15T13:33:28Z",
+    "stars": 831,
+    "name": "Kappaemme-git/codex-complexity-optimizer",
+    "url": "https://github.com/Kappaemme-git/codex-complexity-optimizer",
+    "lang": "Python",
+    "desc": "Codex skill for safe codebase complexity analysis and performance optimization reports"
+  },
+  {
+    "createdAt": "2026-05-15T05:42:08Z",
+    "stars": 763,
+    "name": "bytedance/Lance",
+    "url": "https://github.com/bytedance/Lance",
+    "lang": "Python",
+    "desc": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing."
+  },
+  {
+    "createdAt": "2026-05-15T15:22:10Z",
+    "stars": 708,
+    "name": "Helvesec/rmux",
+    "url": "https://github.com/Helvesec/rmux",
+    "lang": "Rust",
+    "desc": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows."
+  },
+  {
+    "createdAt": "2026-05-18T03:10:52Z",
+    "stars": 650,
+    "name": "sapientinc/HRM-Text",
+    "url": "https://github.com/sapientinc/HRM-Text",
+    "lang": "Python",
+    "desc": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning."
+  },
+  {
+    "createdAt": "2026-05-15T08:43:03Z",
+    "stars": 643,
+    "name": "openclaw/clawpatch",
+    "url": "https://github.com/openclaw/clawpatch",
+    "lang": "TypeScript",
+    "desc": "Review code. Patch bugs. Land PRs."
+  },
+  {
+    "createdAt": "2026-05-20T23:33:59Z",
+    "stars": 595,
+    "name": "kageroumado/phosphene",
+    "url": "https://github.com/kageroumado/phosphene",
+    "lang": "Swift",
+    "desc": "A video wallpaper engine for macOS Tahoe"
+  },
+  {
+    "createdAt": "2026-05-15T12:40:18Z",
+    "stars": 585,
+    "name": "stephenlthorn/auto-identity-remove",
+    "url": "https://github.com/stephenlthorn/auto-identity-remove",
+    "lang": "JavaScript",
+    "desc": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule"
+  },
+  {
+    "createdAt": "2026-05-15T16:18:35Z",
+    "stars": 458,
+    "name": "trong776/gta-5-mod-menu",
+    "url": "https://github.com/trong776/gta-5-mod-menu",
+    "lang": "",
+    "desc": "External game enhancement for GTA V single-player. ImGui overlay, no injection, minimal FPS impact. Windows x64, C++17."
+  },
+  {
+    "createdAt": "2026-05-18T12:44:49Z",
+    "stars": 452,
+    "name": "xw7872081123/wallpaper-engine-steam",
+    "url": "https://github.com/xw7872081123/wallpaper-engine-steam",
+    "lang": "TypeScript",
+    "desc": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, "
+  },
+  {
+    "createdAt": "2026-05-16T08:50:42Z",
+    "stars": 445,
+    "name": "SubamanojJ-2004/gta-5-mod-menu",
+    "url": "https://github.com/SubamanojJ-2004/gta-5-mod-menu",
+    "lang": "",
+    "desc": "Ultimate Enhancement Toolkit for GTA V — powerful mod menu with ESP, vehicle spawner, recovery features, and clean UI"
+  },
+  {
+    "createdAt": "2026-05-15T13:17:31Z",
+    "stars": 440,
+    "name": "nkzw-tech/codiff",
+    "url": "https://github.com/nkzw-tech/codiff",
+    "lang": "TypeScript",
+    "desc": "a fast local diff viewer"
+  },
+  {
+    "createdAt": "2026-05-18T10:12:15Z",
+    "stars": 438,
+    "name": "lynote-ai/humanize-text",
+    "url": "https://github.com/lynote-ai/humanize-text",
+    "lang": "Python",
+    "desc": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool"
+  },
+  {
+    "createdAt": "2026-05-17T11:25:47Z",
+    "stars": 436,
+    "name": "LiuMengxuan04/shushu-internship-tool",
+    "url": "https://github.com/LiuMengxuan04/shushu-internship-tool",
+    "lang": "Python",
+    "desc": "把岗位描述变项目，把项目变简历，把简历变面试。"
+  },
+  {
+    "createdAt": "2026-05-18T20:42:44Z",
+    "stars": 433,
+    "name": "evilsocket/audit",
+    "url": "https://github.com/evilsocket/audit",
+    "lang": "Python",
+    "desc": "An 8-stage vulnerability-discovery agent."
+  },
+  {
+    "createdAt": "2026-05-17T08:37:31Z",
+    "stars": 428,
+    "name": "WUBING2023/PaperSpine",
+    "url": "https://github.com/WUBING2023/PaperSpine",
+    "lang": "Python",
+    "desc": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits."
+  },
+  {
+    "createdAt": "2026-05-21T21:37:42Z",
+    "stars": 426,
+    "name": "Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock",
+    "url": "https://github.com/Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock",
+    "lang": "",
+    "desc": "Full feature activation for FL Studio 2026 Producer Edition. Enables all plugins, VST support, audio export without restrictions, and lifetime updates. Educational tool for studying DAW architecture."
+  },
+  {
+    "createdAt": "2026-05-18T17:01:42Z",
+    "stars": 424,
+    "name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+    "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+    "lang": "C#",
+    "desc": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy "
+  },
+  {
+    "createdAt": "2026-05-18T16:41:06Z",
+    "stars": 420,
+    "name": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "url": "https://github.com/ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "lang": "C++",
+    "desc": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
+  },
+  {
+    "createdAt": "2026-05-15T07:08:17Z",
+    "stars": 412,
+    "name": "agentic-in/elephant-agent",
+    "url": "https://github.com/agentic-in/elephant-agent",
+    "lang": "Python",
+    "desc": "Personal-Model First Self Evolving AI Agent 🐘"
+  },
+  {
+    "createdAt": "2026-05-18T23:45:50Z",
+    "stars": 411,
+    "name": "basketikun/infinite-canvas",
+    "url": "https://github.com/basketikun/infinite-canvas",
+    "lang": "TypeScript",
+    "desc": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。"
+  },
+  {
+    "createdAt": "2026-05-15T14:18:45Z",
+    "stars": 409,
+    "name": "shannhk/hermes-agent-control-room",
+    "url": "https://github.com/shannhk/hermes-agent-control-room",
+    "lang": "Shell",
+    "desc": "Control Room-first template for managing Hermes agents from one VPS agent to specialist teams and orchestrated workflows"
+  },
+  {
+    "createdAt": "2026-05-15T09:19:02Z",
+    "stars": 399,
+    "name": "husu/loom",
+    "url": "https://github.com/husu/loom",
+    "lang": "",
+    "desc": "一个写接口文档的AI Agent。支持使用Vibe coding 的方式，编写接口文档，同时自带友好的文档查看工具与接口Mock工具"
+  },
+  {
+    "createdAt": "2026-05-17T16:34:12Z",
+    "stars": 399,
+    "name": "BasZ4ll/Stable-Diffusion-WebUI",
+    "url": "https://github.com/BasZ4ll/Stable-Diffusion-WebUI",
+    "lang": "TypeScript",
+    "desc": "Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta"
+  },
+  {
+    "createdAt": "2026-05-18T17:20:43Z",
+    "stars": 397,
+    "name": "haiddrrs/Steam-Tools",
+    "url": "https://github.com/haiddrrs/Steam-Tools",
+    "lang": "C#",
+    "desc": "Lua Steam Tools: SteamTools download free PC latest version, lua manifest generator github, steamtools safe to use account ban risk, BeyondDimension SteamTools source code, unlock free steam games dlc unlocker, watt toolkit alternative, steamtools exe local ticket bypass, lua tools manifest downloader, st-setup virus total malware scan, steamtools"
+  },
+  {
+    "createdAt": "2026-05-17T17:15:30Z",
+    "stars": 395,
+    "name": "Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
+    "url": "https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
+    "lang": "",
+    "desc": "ROM Emulator Pokemon mGBA eden emulator eden emulator switch 2: download GBA NDS 3DS Switch games, android APK, MelonDS setup guide, Citra Pokemon X Y, Ryujinx Scarlet Violet ROM hack, Pokemon Emerald Randomizer download. Safe ROMs site, Action Replay cheat codes, GameShark codes FireRed, real time clock RTC error fix, trade evolution"
+  },
+  {
+    "createdAt": "2026-05-17T16:54:12Z",
+    "stars": 395,
+    "name": "arnabchoudhury404/hydra-launcher",
+    "url": "https://github.com/arnabchoudhury404/hydra-launcher",
+    "lang": "TypeScript",
+    "desc": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error"
+  },
+  {
+    "createdAt": "2026-05-17T16:13:25Z",
+    "stars": 391,
+    "name": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
+    "url": "https://github.com/Sunislazi/rbxfpsunlocker-boost-More-240FPS",
+    "lang": "TypeScript",
+    "desc": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke"
+  },
+  {
+    "createdAt": "2026-05-15T16:51:59Z",
+    "stars": 370,
+    "name": "dtnewman/burn-baby-burn",
+    "url": "https://github.com/dtnewman/burn-baby-burn",
+    "lang": "Shell",
+    "desc": "Be the most productive engineer on your team 🚀🚀🚀"
+  },
+  {
+    "createdAt": "2026-05-18T17:30:29Z",
+    "stars": 366,
+    "name": "paradigmxyz/centaur",
+    "url": "https://github.com/paradigmxyz/centaur",
+    "lang": "Python",
+    "desc": "Multiplayer, self-hosted, secure agents."
+  },
+  {
+    "createdAt": "2026-05-16T20:44:14Z",
+    "stars": 350,
+    "name": "seochecks-ai/slopless",
+    "url": "https://github.com/seochecks-ai/slopless",
+    "lang": "TypeScript",
+    "desc": "Deterministic textlint rules and CLI for catching prose slop in Markdown"
+  },
+  {
+    "createdAt": "2026-05-22T21:30:17Z",
+    "stars": 338,
+    "name": "Jawaz-Keyzor/CS2-External-Cheat-2026",
+    "url": "https://github.com/Jawaz-Keyzor/CS2-External-Cheat-2026",
+    "lang": "",
+    "desc": "External gameplay assistant for CS2. Provides visual overlay through screen capture analysis — wall transparency visualization, sound radar, grenade trajectory helper. No memory access, no injection. Educational project for studying computer vision and overlay rendering."
+  },
+  {
+    "createdAt": "2026-05-16T17:07:32Z",
+    "stars": 332,
+    "name": "tritano/ultraviewer",
+    "url": "https://github.com/tritano/ultraviewer",
+    "lang": "TypeScript",
+    "desc": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow."
+  },
+  {
+    "createdAt": "2026-05-19T17:26:20Z",
+    "stars": 331,
+    "name": "SalhaNabil/CloakBrowser",
+    "url": "https://github.com/SalhaNabil/CloakBrowser",
+    "lang": "TypeScript",
+    "desc": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github "
+  },
+  {
+    "createdAt": "2026-05-19T16:18:16Z",
+    "stars": 326,
+    "name": "littlefrogyq/UE4SS-Subnautica-2",
+    "url": "https://github.com/littlefrogyq/UE4SS-Subnautica-2",
+    "lang": "C++",
+    "desc": "UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,"
+  },
+  {
+    "createdAt": "2026-05-16T18:46:37Z",
+    "stars": 324,
+    "name": "MediatorSpeak/dota2-gameplay-tools",
+    "url": "https://github.com/MediatorSpeak/dota2-gameplay-tools",
+    "lang": "",
+    "desc": "A modular data visualization framework and telemetry toolkit for Dota 2. Designed for real-time match analysis, custom UI prototyping, and gameplay mechanics testing in controlled environments."
+  },
+  {
+    "createdAt": "2026-05-16T12:28:56Z",
+    "stars": 301,
+    "name": "xzf-thu/Mega-ASR",
+    "url": "https://github.com/xzf-thu/Mega-ASR",
+    "lang": "Python",
+    "desc": "First foundation ASR built for the real world - 7 atomic acoustic conditions, 54 compound scenarios, 2.6M samples, and up to ~30% gains over SOTA where every other model falls apart. **You'll come back to MEGA-ASR, after the rest fail in the wild. ⭐**"
+  },
+  {
+    "createdAt": "2026-05-20T18:11:37Z",
+    "stars": 277,
+    "name": "perplexityai/bumblebee",
+    "url": "https://github.com/perplexityai/bumblebee",
+    "lang": "Go",
+    "desc": "Read-only inventory collector for package, extension, and developer-tool metadata on macOS and Linux developer endpoints, built for fast supply-chain exposure checks."
+  },
+  {
+    "createdAt": "2026-05-19T00:45:04Z",
+    "stars": 274,
+    "name": "edgenuitybot/exodusbot",
+    "url": "https://github.com/edgenuitybot/exodusbot",
+    "lang": "JavaScript",
+    "desc": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot"
+  },
+  {
+    "createdAt": "2026-05-18T16:43:56Z",
+    "stars": 268,
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+    "lang": "Python",
+    "desc": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co"
+  },
+  {
+    "createdAt": "2026-05-15T16:40:59Z",
+    "stars": 267,
+    "name": "Alkih/Nightlight-Game-Launcher",
+    "url": "https://github.com/Alkih/Nightlight-Game-Launcher",
+    "lang": "C#",
+    "desc": "Nightlight Game Launcher: NLGL download, Rockstar Social Club bypass, GTA V Epic Games launch error, RDR2 offline play, GTA IV Social Club fix. Steam account switcher, Epic Online Services bypass, EOS SDK. dll, -nobattleye, -scOfflineMode, launch options, account manager, local backup, source code GitHub, onajlikezz, open source tool."
+  },
+  {
+    "createdAt": "2026-05-15T16:55:54Z",
+    "stars": 266,
+    "name": "StrucksTech/Zelda-TP-Native-Port",
+    "url": "https://github.com/StrucksTech/Zelda-TP-Native-Port",
+    "lang": "TypeScript",
+    "desc": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico."
+  },
+  {
+    "createdAt": "2026-05-20T12:51:00Z",
+    "stars": 260,
+    "name": "uktrash/LSFG-Desktop",
+    "url": "https://github.com/uktrash/LSFG-Desktop",
+    "lang": "C#",
+    "desc": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
+  },
+  {
+    "createdAt": "2026-05-15T16:07:55Z",
+    "stars": 255,
+    "name": "dannyhsueh2/Forza-Horizon-6-Premium",
+    "url": "https://github.com/dannyhsueh2/Forza-Horizon-6-Premium",
+    "lang": "C++",
+    "desc": "Forza Horizon 6 release date : PC system requirements, early access Steam. Premium Upgrade Bundle, Car Pass, VIP Membership. Japan map, Mt Fuji, Tokyo street racing, Touge Battles, JDM cars, Ferrari J50, Mazda Furai. Expansion 1, Expansion 2, I, , pre-load PC Steam, Game Pass Ultimate."
+  },
+  {
+    "createdAt": "2026-05-15T15:40:52Z",
+    "stars": 254,
+    "name": "Harshit-pruthi/sklauncher-minecraft",
+    "url": "https://github.com/Harshit-pruthi/sklauncher-minecraft",
+    "lang": "C++",
+    "desc": "Download SkLauncher Download: Modern Minecraft launcher. Offline mode, premium login, custom skins setup, cape manager, profile creator. Supports Fabric, Forge, Quilt, NeoForge, OptiFine, Iris shaders. Java 21 path, memory allocation, modpack manager, game directory, auto-update, fluent UI themes, portable."
+  }
+]
