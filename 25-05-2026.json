@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-05-20T18:11:37Z",
+    "stars": 2568,
+    "name": "perplexityai/bumblebee",
+    "url": "https://github.com/perplexityai/bumblebee",
+    "lang": "Go",
+    "desc": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises."
+  },
+  {
+    "createdAt": "2026-05-19T11:52:52Z",
+    "stars": 2529,
+    "name": "FoundZiGu/GuJumpgate",
+    "url": "https://github.com/FoundZiGu/GuJumpgate",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-20T00:49:37Z",
+    "stars": 2140,
+    "name": "thananon/9arm-skills",
+    "url": "https://github.com/thananon/9arm-skills",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-18T06:19:44Z",
+    "stars": 1422,
+    "name": "Doorman11991/smallcode",
+    "url": "https://github.com/Doorman11991/smallcode",
+    "lang": "JavaScript",
+    "desc": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model."
+  },
+  {
+    "createdAt": "2026-05-22T11:36:21Z",
+    "stars": 835,
+    "name": "open-gsd/get-shit-done-redux",
+    "url": "https://github.com/open-gsd/get-shit-done-redux",
+    "lang": "JavaScript",
+    "desc": "Getting Shit Done, the Aftermath"
+  },
+  {
+    "createdAt": "2026-05-18T10:12:15Z",
+    "stars": 764,
+    "name": "lynote-ai/humanize-text",
+    "url": "https://github.com/lynote-ai/humanize-text",
+    "lang": "Python",
+    "desc": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool"
+  },
+  {
+    "createdAt": "2026-05-18T03:10:52Z",
+    "stars": 743,
+    "name": "sapientinc/HRM-Text",
+    "url": "https://github.com/sapientinc/HRM-Text",
+    "lang": "Python",
+    "desc": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning."
+  },
+  {
+    "createdAt": "2026-05-20T23:33:59Z",
+    "stars": 669,
+    "name": "kageroumado/phosphene",
+    "url": "https://github.com/kageroumado/phosphene",
+    "lang": "Swift",
+    "desc": "A video wallpaper engine for macOS Tahoe"
+  },
+  {
+    "createdAt": "2026-05-21T07:31:35Z",
+    "stars": 662,
+    "name": "Tong89/smartNode",
+    "url": "https://github.com/Tong89/smartNode",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-22T07:38:07Z",
+    "stars": 589,
+    "name": "0xSero/codex-shim",
+    "url": "https://github.com/0xSero/codex-shim",
+    "lang": "Python",
+    "desc": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop."
+  },
+  {
+    "createdAt": "2026-05-21T06:40:00Z",
+    "stars": 518,
+    "name": "run-liyi/wechatpay",
+    "url": "https://github.com/run-liyi/wechatpay",
+    "lang": "JavaScript",
+    "desc": "微信账单分析工具 - 基于Electron的可视化账单分析应用"
+  },
+  {
+    "createdAt": "2026-05-18T23:45:50Z",
+    "stars": 507,
+    "name": "basketikun/infinite-canvas",
+    "url": "https://github.com/basketikun/infinite-canvas",
+    "lang": "TypeScript",
+    "desc": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。"
+  },
+  {
+    "createdAt": "2026-05-18T17:30:29Z",
+    "stars": 483,
+    "name": "paradigmxyz/centaur",
+    "url": "https://github.com/paradigmxyz/centaur",
+    "lang": "Python",
+    "desc": "Multiplayer, self-hosted, secure agents."
+  },
+  {
+    "createdAt": "2026-05-18T20:42:44Z",
+    "stars": 482,
+    "name": "evilsocket/audit",
+    "url": "https://github.com/evilsocket/audit",
+    "lang": "Python",
+    "desc": "An 8-stage vulnerability-discovery agent."
+  },
+  {
+    "createdAt": "2026-05-22T08:02:03Z",
+    "stars": 462,
+    "name": "MoonshotAI/kimi-code",
+    "url": "https://github.com/MoonshotAI/kimi-code",
+    "lang": "TypeScript",
+    "desc": "The Starting Point for Next-Gen Agents"
+  },
+  {
+    "createdAt": "2026-05-22T06:33:38Z",
+    "stars": 395,
+    "name": "zhaoyue4810/pianke",
+    "url": "https://github.com/zhaoyue4810/pianke",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-18T12:44:49Z",
+    "stars": 365,
+    "name": "xw7872081123/wallpaper-engine-steam",
+    "url": "https://github.com/xw7872081123/wallpaper-engine-steam",
+    "lang": "TypeScript",
+    "desc": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, "
+  },
+  {
+    "createdAt": "2026-05-20T13:31:52Z",
+    "stars": 360,
+    "name": "Unclecheng-li/poc-lab",
+    "url": "https://github.com/Unclecheng-li/poc-lab",
+    "lang": "C",
+    "desc": "Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more."
+  },
+  {
+    "createdAt": "2026-05-18T17:01:42Z",
+    "stars": 356,
+    "name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+    "url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+    "lang": "C#",
+    "desc": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy "
+  },
+  {
+    "createdAt": "2026-05-20T22:36:24Z",
+    "stars": 349,
+    "name": "KNG7-P/Se7en-Pro",
+    "url": "https://github.com/KNG7-P/Se7en-Pro",
+    "lang": "C#",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-23T13:50:00Z",
+    "stars": 347,
+    "name": "bonus-2026/casino-bonus",
+    "url": "https://github.com/bonus-2026/casino-bonus",
+    "lang": "",
+    "desc": "Casino Bonus guide featuring a $250 USD no deposit welcome reward for new users with promo code DROP. Explore crypto casino bonuses, cashback systems, welcome offers, and gaming platform features"
+  },
+  {
+    "createdAt": "2026-05-18T16:41:06Z",
+    "stars": 344,
+    "name": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "url": "https://github.com/ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "lang": "C++",
+    "desc": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature"
+  },
+  {
+    "createdAt": "2026-05-18T17:20:43Z",
+    "stars": 323,
+    "name": "haiddrrs/Steam-Tools",
+    "url": "https://github.com/haiddrrs/Steam-Tools",
+    "lang": "C#",
+    "desc": "Lua Steam Tools: SteamTools download free PC latest version, lua manifest generator github, steamtools safe to use account ban risk, BeyondDimension SteamTools source code, unlock free steam games dlc unlocker, watt toolkit alternative, steamtools exe local ticket bypass, lua tools manifest downloader, st-setup virus total malware scan, steamtools"
+  },
+  {
+    "createdAt": "2026-05-18T07:54:11Z",
+    "stars": 319,
+    "name": "Tencent-Hunyuan/Hy-MT2",
+    "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-21T21:57:07Z",
+    "stars": 297,
+    "name": "ShinyaTomitsuka/arbitrage-trading-bot",
+    "url": "https://github.com/ShinyaTomitsuka/arbitrage-trading-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
+  },
+  {
+    "createdAt": "2026-05-19T17:26:20Z",
+    "stars": 291,
+    "name": "SalhaNabil/CloakBrowser",
+    "url": "https://github.com/SalhaNabil/CloakBrowser",
+    "lang": "TypeScript",
+    "desc": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github "
+  },
+  {
+    "createdAt": "2026-05-19T14:28:31Z",
+    "stars": 289,
+    "name": "orchestration-agent/AgentOrchestration",
+    "url": "https://github.com/orchestration-agent/AgentOrchestration",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-19T16:18:16Z",
+    "stars": 285,
+    "name": "littlefrogyq/UE4SS-Subnautica-2",
+    "url": "https://github.com/littlefrogyq/UE4SS-Subnautica-2",
+    "lang": "C++",
+    "desc": "UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,"
+  },
+  {
+    "createdAt": "2026-05-18T16:43:56Z",
+    "stars": 283,
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+    "lang": "Python",
+    "desc": "⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co"
+  },
+  {
+    "createdAt": "2026-05-22T04:58:49Z",
+    "stars": 282,
+    "name": "mila89/polymarket-trading-bot",
+    "url": "https://github.com/mila89/polymarket-trading-bot",
+    "lang": "TypeScript",
+    "desc": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot bot"
+  },
+  {
+    "createdAt": "2026-05-22T05:35:11Z",
+    "stars": 282,
+    "name": "jianshuo/ccglass",
+    "url": "https://github.com/jianshuo/ccglass",
+    "lang": "JavaScript",
+    "desc": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard"
+  },
+  {
+    "createdAt": "2026-05-22T13:37:03Z",
+    "stars": 280,
+    "name": "VILA-Lab/FigMirror",
+    "url": "https://github.com/VILA-Lab/FigMirror",
+    "lang": "Python",
+    "desc": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style."
+  },
+  {
+    "createdAt": "2026-05-22T20:10:42Z",
+    "stars": 272,
+    "name": "md0070/polymarket-trading-bot",
+    "url": "https://github.com/md0070/polymarket-trading-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "createdAt": "2026-05-19T02:24:31Z",
+    "stars": 271,
+    "name": "suyancc/openai-plus-vxt",
+    "url": "https://github.com/suyancc/openai-plus-vxt",
+    "lang": "TypeScript",
+    "desc": "一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。"
+  },
+  {
+    "createdAt": "2026-05-19T00:45:04Z",
+    "stars": 271,
+    "name": "edgenuitybot/exodusbot",
+    "url": "https://github.com/edgenuitybot/exodusbot",
+    "lang": "JavaScript",
+    "desc": "Exodus | The # 1 Edgenuity Bot for Quizes, Tests, and Exams. Includes Auto Answers, Auto delays, built in AI Answers, Auto Submit, EdgeEX support and MORE! | About: Exodus is an online course tool designed for online middle and high school classes (K-8 curriculum). Join the Discord: https://discord.gg/exodusbot"
+  },
+  {
+    "createdAt": "2026-05-21T18:10:18Z",
+    "stars": 270,
+    "name": "judithsulfan/trading-bot",
+    "url": "https://github.com/judithsulfan/trading-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot"
+  },
+  {
+    "createdAt": "2026-05-23T00:49:25Z",
+    "stars": 269,
+    "name": "yui540/comimi",
+    "url": "https://github.com/yui540/comimi",
+    "lang": "TypeScript",
+    "desc": "Open-source comic reader library for JS/TS"
+  },
+  {
+    "createdAt": "2026-05-22T11:02:33Z",
+    "stars": 267,
+    "name": "unprovable/ShadowCat",
+    "url": "https://github.com/unprovable/ShadowCat",
+    "lang": "HTML",
+    "desc": "Single file optical file transfer using a browser"
+  },
+  {
+    "createdAt": "2026-05-21T13:22:06Z",
+    "stars": 259,
+    "name": "XingYu-Zhong/DeepSeek-GUI",
+    "url": "https://github.com/XingYu-Zhong/DeepSeek-GUI",
+    "lang": "TypeScript",
+    "desc": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application."
+  },
+  {
+    "createdAt": "2026-05-20T12:51:00Z",
+    "stars": 248,
+    "name": "uktrash/LSFG-Desktop",
+    "url": "https://github.com/uktrash/LSFG-Desktop",
+    "lang": "C#",
+    "desc": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg"
+  },
+  {
+    "createdAt": "2026-05-21T17:04:35Z",
+    "stars": 248,
+    "name": "hanyi0000/chatgpt-plus-automation-toolkit",
+    "url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit",
+    "lang": "Python",
+    "desc": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板"
+  },
+  {
+    "createdAt": "2026-05-21T15:40:10Z",
+    "stars": 245,
+    "name": "Simbastack-hq/framedex",
+    "url": "https://github.com/Simbastack-hq/framedex",
+    "lang": "Python",
+    "desc": "Framedex — a queryable knowledge base for your video archive"
+  },
+  {
+    "createdAt": "2026-05-19T05:45:30Z",
+    "stars": 235,
+    "name": "hypnguyen1209/offensive-claude",
+    "url": "https://github.com/hypnguyen1209/offensive-claude",
+    "lang": "Shell",
+    "desc": "Offensive security toolkit for Claude Code covering red team, exploit dev, AD attacks, EDR bypass, mobile pentest"
+  },
+  {
+    "createdAt": "2026-05-20T21:01:24Z",
+    "stars": 233,
+    "name": "kouhxp/yapsnap",
+    "url": "https://github.com/kouhxp/yapsnap",
+    "lang": "Python",
+    "desc": "Snap any video URL or audio file into plaintext. No GPU. No cloud. One command."
+  },
+  {
+    "createdAt": "2026-05-20T06:00:19Z",
+    "stars": 233,
+    "name": "PredictiveFlow-Labs/polymarket-arbitrage-bot",
+    "url": "https://github.com/PredictiveFlow-Labs/polymarket-arbitrage-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot polymarket arbitrage bot "
+  },
+  {
+    "createdAt": "2026-05-21T06:02:40Z",
+    "stars": 228,
+    "name": "jazzband/web3-devkit-cli",
+    "url": "https://github.com/jazzband/web3-devkit-cli",
+    "lang": "TypeScript",
+    "desc": "Web3 DevKit is an open-source CLI that helps developers bootstrap dApps, generate smart contracts, test RPCs, manage wallets, deploy contracts, and monitor on-chain activity across EVM and Solana."
+  },
+  {
+    "createdAt": "2026-05-21T23:23:51Z",
+    "stars": 223,
+    "name": "akitaonrails/ai-memory",
+    "url": "https://github.com/akitaonrails/ai-memory",
+    "lang": "Rust",
+    "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors"
+  },
+  {
+    "createdAt": "2026-05-19T07:00:59Z",
+    "stars": 222,
+    "name": "redteamfortress/PhantomKiller",
+    "url": "https://github.com/redteamfortress/PhantomKiller",
+    "lang": "C++",
+    "desc": "Another BYOVD process killer. works on all EDR's. fully signed."
+  },
+  {
+    "createdAt": "2026-05-20T10:52:40Z",
+    "stars": 221,
+    "name": "CylinderChairman/aida64",
+    "url": "https://github.com/CylinderChairman/aida64",
+    "lang": "PowerShell",
+    "desc": "aida64 unlocker extreme edition"
+  },
+  {
+    "createdAt": "2026-05-24T01:41:29Z",
+    "stars": 219,
+    "name": "modaic-ai/gepa-viz",
+    "url": "https://github.com/modaic-ai/gepa-viz",
+    "lang": "TypeScript",
+    "desc": "Interactive live visualizer for gepa runs"
+  }
+]
