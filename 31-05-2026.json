@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-05-31T14:05:51Z",
+    "stars": 6769,
+    "name": "pewdiepie-archdaemon/odysseus",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "lang": "JavaScript",
+    "desc": "Self-hosted AI workspace. "
+  },
+  {
+    "createdAt": "2026-05-27T12:05:05Z",
+    "stars": 2016,
+    "name": "op7418/guizang-social-card-skill",
+    "url": "https://github.com/op7418/guizang-social-card-skill",
+    "lang": "HTML",
+    "desc": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对"
+  },
+  {
+    "createdAt": "2026-05-24T10:10:36Z",
+    "stars": 1539,
+    "name": "AprilNEA/OpenLogi",
+    "url": "https://github.com/AprilNEA/OpenLogi",
+    "lang": "Rust",
+    "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry."
+  },
+  {
+    "createdAt": "2026-05-27T22:47:56Z",
+    "stars": 1416,
+    "name": "helloianneo/ian-xiaohei-illustrations",
+    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "lang": "",
+    "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill"
+  },
+  {
+    "createdAt": "2026-05-28T11:25:55Z",
+    "stars": 875,
+    "name": "Sophomoresty/gemini-web2api",
+    "url": "https://github.com/Sophomoresty/gemini-web2api",
+    "lang": "Python",
+    "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file."
+  },
+  {
+    "createdAt": "2026-05-28T17:02:54Z",
+    "stars": 793,
+    "name": "MatinSenPai/SenPaiScanner",
+    "url": "https://github.com/MatinSenPai/SenPaiScanner",
+    "lang": "Go",
+    "desc": "A light-weight scanner for Cloudflare IPs, written in Golang"
+  },
+  {
+    "createdAt": "2026-05-27T10:25:58Z",
+    "stars": 746,
+    "name": "GordenSun/GordenPPTSkill",
+    "url": "https://github.com/GordenSun/GordenPPTSkill",
+    "lang": "Python",
+    "desc": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only."
+  },
+  {
+    "createdAt": "2026-05-27T05:46:25Z",
+    "stars": 664,
+    "name": "withkynam/vibecode-pro-max-kit",
+    "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+    "lang": "JavaScript",
+    "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds"
+  },
+  {
+    "createdAt": "2026-05-25T11:06:35Z",
+    "stars": 657,
+    "name": "UditAkhourii/adhd",
+    "url": "https://github.com/UditAkhourii/adhd",
+    "lang": "TypeScript",
+    "desc": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work."
+  },
+  {
+    "createdAt": "2026-05-25T14:13:24Z",
+    "stars": 646,
+    "name": "baoweise-bot/aimili-vpngate",
+    "url": "https://github.com/baoweise-bot/aimili-vpngate",
+    "lang": "Python",
+    "desc": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。"
+  },
+  {
+    "createdAt": "2026-05-28T20:46:15Z",
+    "stars": 629,
+    "name": "Michaelliv/pi-dynamic-workflows",
+    "url": "https://github.com/Michaelliv/pi-dynamic-workflows",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-28T10:45:44Z",
+    "stars": 571,
+    "name": "2aronS/Duel-Agents",
+    "url": "https://github.com/2aronS/Duel-Agents",
+    "lang": "TypeScript",
+    "desc": "CLI, SDK, and IDE plugins for Duel Agents"
+  },
+  {
+    "createdAt": "2026-05-26T05:24:10Z",
+    "stars": 487,
+    "name": "ace-trump-tech/DeltaForce-OBS-Locker",
+    "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+    "lang": "Python",
+    "desc": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass."
+  },
+  {
+    "createdAt": "2026-05-25T02:35:01Z",
+    "stars": 459,
+    "name": "nv-tlabs/Gamma-World",
+    "url": "https://github.com/nv-tlabs/Gamma-World",
+    "lang": "",
+    "desc": "Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players"
+  },
+  {
+    "createdAt": "2026-05-25T00:57:33Z",
+    "stars": 449,
+    "name": "ytnrvdf/wha-spell-simulator",
+    "url": "https://github.com/ytnrvdf/wha-spell-simulator",
+    "lang": "JavaScript",
+    "desc": "A fan-made browser-based Witch Hat Atelier spell simulator."
+  },
+  {
+    "createdAt": "2026-05-26T17:19:26Z",
+    "stars": 417,
+    "name": "FlashML-org/flashlib",
+    "url": "https://github.com/FlashML-org/flashlib",
+    "lang": "Python",
+    "desc": "Fast and memory-efficient classical machine learning operators"
+  },
+  {
+    "createdAt": "2026-05-25T17:37:48Z",
+    "stars": 394,
+    "name": "Novaquant-labs/hyperliquid-trading-bot",
+    "url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot",
+    "lang": "Python",
+    "desc": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,"
+  },
+  {
+    "createdAt": "2026-05-25T16:58:07Z",
+    "stars": 394,
+    "name": "lceminecraft-launcher/LCE-Emerald-Launcher",
+    "url": "https://github.com/lceminecraft-launcher/LCE-Emerald-Launcher",
+    "lang": "TypeScript",
+    "desc": "lce emerald launcher minecraft  github Download minecraft legacy console edition"
+  },
+  {
+    "createdAt": "2026-05-24T08:12:55Z",
+    "stars": 390,
+    "name": "AmmarkoV/SAM3DBody-cpp",
+    "url": "https://github.com/AmmarkoV/SAM3DBody-cpp",
+    "lang": "C",
+    "desc": "Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands."
+  },
+  {
+    "createdAt": "2026-05-25T17:22:59Z",
+    "stars": 389,
+    "name": "SigmaTradeLabs/aster-bot",
+    "url": "https://github.com/SigmaTradeLabs/aster-bot",
+    "lang": "JavaScript",
+    "desc": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,"
+  },
+  {
+    "createdAt": "2026-05-25T16:46:30Z",
+    "stars": 386,
+    "name": "osulazerdownload/osulazer",
+    "url": "https://github.com/osulazerdownload/osulazer",
+    "lang": "C#",
+    "desc": "osu mania download skin lazer map open source rhythm game windows 11 macos linux android ios mobile default client latest version 2026 download beatmaps skins custom rulesets multiplayer free"
+  },
+  {
+    "createdAt": "2026-05-25T17:28:54Z",
+    "stars": 379,
+    "name": "Monke-Manager/MonkeModManager",
+    "url": "https://github.com/Monke-Manager/MonkeModManager",
+    "lang": "C#",
+    "desc": "monkemodmanager download github gorilla tag mod installer manager bepinex cosmetics quest link steam vr custom maps utility tool windows 11 latest version 2026 free gameplay tutorial update guide fix error"
+  },
+  {
+    "createdAt": "2026-05-25T17:14:33Z",
+    "stars": 378,
+    "name": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
+    "url": "https://github.com/OldenEraTemplateGenerator/Olden-Era-Template-Generator",
+    "lang": "C#",
+    "desc": "olden era template generator github Download heroes of might and magic homm random map rmg json custom map editor templates utility tool windows 11 latest version free preview zone layout multiplayer"
+  },
+  {
+    "createdAt": "2026-05-24T01:32:16Z",
+    "stars": 377,
+    "name": "tantara/openbrief",
+    "url": "https://github.com/tantara/openbrief",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-25T17:44:40Z",
+    "stars": 375,
+    "name": "007FirstLight/007-First-Light-Release",
+    "url": "https://github.com/007FirstLight/007-First-Light-Release",
+    "lang": "C++",
+    "desc": "007 first light release date game free download early access  gameplay windows review ps5 steam epic games pc xbox nintendo swtich 2 github "
+  },
+  {
+    "createdAt": "2026-05-28T17:14:14Z",
+    "stars": 369,
+    "name": "BlackCandleLab/polymarket-trading-bot",
+    "url": "https://github.com/BlackCandleLab/polymarket-trading-bot",
+    "lang": "JavaScript",
+    "desc": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, "
+  },
+  {
+    "createdAt": "2026-05-26T18:00:11Z",
+    "stars": 366,
+    "name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
+    "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+    "lang": "TypeScript",
+    "desc": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update"
+  },
+  {
+    "createdAt": "2026-05-24T01:41:29Z",
+    "stars": 366,
+    "name": "modaic-ai/gepa-viz",
+    "url": "https://github.com/modaic-ai/gepa-viz",
+    "lang": "TypeScript",
+    "desc": "Interactive live visualizer for gepa runs"
+  },
+  {
+    "createdAt": "2026-05-26T18:17:45Z",
+    "stars": 364,
+    "name": "Stellarwolf001/forza-horizon-6-spotify-radio",
+    "url": "https://github.com/Stellarwolf001/forza-horizon-6-spotify-radio",
+    "lang": "TypeScript",
+    "desc": "forza horizon 6 spotify radio FH 6 spotify radio  mod download nexus mods github bigjohn0 spotify radio steam epic games xbox ps5"
+  },
+  {
+    "createdAt": "2026-05-28T13:55:46Z",
+    "stars": 364,
+    "name": "Signal-Trade-Core/weather-prediction-bot",
+    "url": "https://github.com/Signal-Trade-Core/weather-prediction-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot"
+  },
+  {
+    "createdAt": "2026-05-27T17:48:52Z",
+    "stars": 361,
+    "name": "garnix-io/garnix-ci",
+    "url": "https://github.com/garnix-io/garnix-ci",
+    "lang": "Haskell",
+    "desc": "CI and hosting for nix-based, flakified github repos"
+  },
+  {
+    "createdAt": "2026-05-26T05:39:25Z",
+    "stars": 357,
+    "name": "paraschopra/make-pages-interactive",
+    "url": "https://github.com/paraschopra/make-pages-interactive",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-26T18:36:15Z",
+    "stars": 353,
+    "name": "Dharyen/ryujinx-emu",
+    "url": "https://github.com/Dharyen/ryujinx-emu",
+    "lang": "C#",
+    "desc": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
+  },
+  {
+    "createdAt": "2026-05-25T17:54:33Z",
+    "stars": 351,
+    "name": "neuralCPL/polymarket-trading-bot",
+    "url": "https://github.com/neuralCPL/polymarket-trading-bot",
+    "lang": "JavaScript",
+    "desc": "polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, "
+  },
+  {
+    "createdAt": "2026-05-25T18:02:43Z",
+    "stars": 339,
+    "name": "HeroicLauncher/HeroicGamesLauncher",
+    "url": "https://github.com/HeroicLauncher/HeroicGamesLauncher",
+    "lang": "TypeScript",
+    "desc": "heroic games launcher Download github pc heroicgameslauncher steam epic games gog amazon prime gaming nile legendary open source windows 11 "
+  },
+  {
+    "createdAt": "2026-05-25T01:57:55Z",
+    "stars": 330,
+    "name": "foru17/make-x-great-again",
+    "url": "https://github.com/foru17/make-x-great-again",
+    "lang": "TypeScript",
+    "desc": "Make X Great Again — passive ambient browser extension that makes X usable: spam shield, KOL signal score, profile digest, social graph hints. Public-good, open source."
+  },
+  {
+    "createdAt": "2026-05-24T04:58:59Z",
+    "stars": 330,
+    "name": "msitarzewski/brew-browser",
+    "url": "https://github.com/msitarzewski/brew-browser",
+    "lang": "Rust",
+    "desc": "Homebrew is the standard package manager on macOS. brew-browser gives it a real native GUI."
+  },
+  {
+    "createdAt": "2026-05-28T16:50:14Z",
+    "stars": 326,
+    "name": "tor-browsers/tor-browser",
+    "url": "https://github.com/tor-browsers/tor-browser",
+    "lang": "C#",
+    "desc": "tor browser download official onion dark web privacy security anonymous vpn unblock windows 11 android apk latest version 2026 free setup guide fix"
+  },
+  {
+    "createdAt": "2026-05-28T17:39:39Z",
+    "stars": 323,
+    "name": "Jadoox3/Mina-The-Hollower-Release",
+    "url": "https://github.com/Jadoox3/Mina-The-Hollower-Release",
+    "lang": "C#",
+    "desc": "mina the hollower release date download steam pc nintendo switch switch 2 ps5 xbox yacht club games crack free gameplay walkthrough torrent 2026"
+  },
+  {
+    "createdAt": "2026-05-27T16:40:43Z",
+    "stars": 321,
+    "name": "Noahmusahdevs/roblox-account-manager",
+    "url": "https://github.com/Noahmusahdevs/roblox-account-manager",
+    "lang": "C#",
+    "desc": "roblox account manager github Download  Multi Roblox Account ic3w0lf22 rbx account manager alt manager multi instance roblox alt accounts cookie extractor open source windows 11 windows 10 auto login private server developer api secure encryption script automation multi boxing free download"
+  },
+  {
+    "createdAt": "2026-05-27T17:17:32Z",
+    "stars": 320,
+    "name": "Harkirat1462/claude-code-cli",
+    "url": "https://github.com/Harkirat1462/claude-code-cli",
+    "lang": "TypeScript",
+    "desc": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol subagents automation ci cd integration npm install setup guide tutorial command line interface latest version 2026 free download update bug fix test runner**"
+  },
+  {
+    "createdAt": "2026-05-27T17:04:08Z",
+    "stars": 319,
+    "name": "Szili1994/create-aeronautics-minecraft-mod",
+    "url": "https://github.com/Szili1994/create-aeronautics-minecraft-mod",
+    "lang": "Java",
+    "desc": "aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraptions neoforge forge 1.21.1 1.20.1 download latest version 2026 setup guide tutorial release free multiplayer server performance optimization fps fix error crash**"
+  },
+  {
+    "createdAt": "2026-05-28T17:20:58Z",
+    "stars": 318,
+    "name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
+    "url": "https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
+    "lang": "C#",
+    "desc": "claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026"
+  },
+  {
+    "createdAt": "2026-05-28T17:07:55Z",
+    "stars": 318,
+    "name": "Beam-NG-Drive/BeamMP",
+    "url": "https://github.com/Beam-NG-Drive/BeamMP",
+    "lang": "C#",
+    "desc": "beammp server beamng drive multiplayer mod download launcher"
+  },
+  {
+    "createdAt": "2026-05-28T17:53:17Z",
+    "stars": 316,
+    "name": "malk190/Romestead-Game-Release",
+    "url": "https://github.com/malk190/Romestead-Game-Release",
+    "lang": "C#",
+    "desc": "romestead game release date steam review homestead early access download survival townbuilder coop multiplayer pc crack torrent gameplay free latest version 2026"
+  },
+  {
+    "createdAt": "2026-05-24T17:00:16Z",
+    "stars": 315,
+    "name": "bakkesmodrocketleague/bakkesmod",
+    "url": "https://github.com/bakkesmodrocketleague/bakkesmod",
+    "lang": "C++",
+    "desc": "bakkesmod rocket league  Download windows 11 plugins workshop map loader injector eac update easy anti cheat non eac mode custom training free play"
+  },
+  {
+    "createdAt": "2026-05-29T10:54:11Z",
+    "stars": 312,
+    "name": "bonus-2026/crypto-casino-bonus",
+    "url": "https://github.com/bonus-2026/crypto-casino-bonus",
+    "lang": "",
+    "desc": "Explore the best Crypto Casino Bonus - including no deposit welcome bonuses. Learn about Bitcoin casino rewards, free spins, cashback offers, crypto payments, mobile gaming, and responsible online casino promotions."
+  },
+  {
+    "createdAt": "2026-05-27T17:43:21Z",
+    "stars": 308,
+    "name": "Bartates/lunar-client-minecraft",
+    "url": "https://github.com/Bartates/lunar-client-minecraft",
+    "lang": "PowerShell",
+    "desc": "lunar client minecraft download launcher fps boost pvp mods sodium optifine cosmetics windows 11 latest version 2026 free setup guide fix"
+  },
+  {
+    "createdAt": "2026-05-27T17:32:06Z",
+    "stars": 307,
+    "name": "oyunhacktr/Windows-Xbox-Mode",
+    "url": "https://github.com/oyunhacktr/Windows-Xbox-Mode",
+    "lang": "C++",
+    "desc": "windows 11 xbox mode pc gaming controller handheld console xbox series x s dev mode interface controller vivetool setup guide game pass performance optimization fix 2026**"
+  },
+  {
+    "createdAt": "2026-05-27T03:56:54Z",
+    "stars": 290,
+    "name": "ikeda042/PhenoPixel",
+    "url": "https://github.com/ikeda042/PhenoPixel",
+    "lang": "TypeScript",
+    "desc": "An OpenCV based image analysis web application (Deployed at Hiroshima University)"
+  }
+]
