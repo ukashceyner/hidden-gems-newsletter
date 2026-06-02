@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-05-31T14:05:51Z",
+    "stars": 32708,
+    "name": "pewdiepie-archdaemon/odysseus",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "lang": "JavaScript",
+    "desc": "Self-hosted AI workspace. "
+  },
+  {
+    "createdAt": "2026-05-27T12:05:05Z",
+    "stars": 2580,
+    "name": "op7418/guizang-social-card-skill",
+    "url": "https://github.com/op7418/guizang-social-card-skill",
+    "lang": "HTML",
+    "desc": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对"
+  },
+  {
+    "createdAt": "2026-05-27T22:47:56Z",
+    "stars": 1736,
+    "name": "helloianneo/ian-xiaohei-illustrations",
+    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "lang": "",
+    "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill"
+  },
+  {
+    "createdAt": "2026-05-27T10:25:58Z",
+    "stars": 1552,
+    "name": "GordenSun/GordenPPTSkill",
+    "url": "https://github.com/GordenSun/GordenPPTSkill",
+    "lang": "Python",
+    "desc": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only."
+  },
+  {
+    "createdAt": "2026-05-29T06:14:13Z",
+    "stars": 1335,
+    "name": "Gloridust/WechatOnCloud",
+    "url": "https://github.com/Gloridust/WechatOnCloud",
+    "lang": "TypeScript",
+    "desc": "云微WOC，云微信，自由连接"
+  },
+  {
+    "createdAt": "2026-05-28T11:25:55Z",
+    "stars": 1236,
+    "name": "Sophomoresty/gemini-web2api",
+    "url": "https://github.com/Sophomoresty/gemini-web2api",
+    "lang": "Python",
+    "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file."
+  },
+  {
+    "createdAt": "2026-05-31T14:29:52Z",
+    "stars": 986,
+    "name": "asz798838958/aBaiAutoplus",
+    "url": "https://github.com/asz798838958/aBaiAutoplus",
+    "lang": "Python",
+    "desc": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus"
+  },
+  {
+    "createdAt": "2026-05-28T17:02:54Z",
+    "stars": 905,
+    "name": "MatinSenPai/SenPaiScanner",
+    "url": "https://github.com/MatinSenPai/SenPaiScanner",
+    "lang": "Go",
+    "desc": "A light-weight scanner for Cloudflare IPs, written in Golang"
+  },
+  {
+    "createdAt": "2026-05-26T19:11:44Z",
+    "stars": 754,
+    "name": "boona13/image-extender",
+    "url": "https://github.com/boona13/image-extender",
+    "lang": "TypeScript",
+    "desc": "Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker."
+  },
+  {
+    "createdAt": "2026-05-28T20:46:15Z",
+    "stars": 738,
+    "name": "Michaelliv/pi-dynamic-workflows",
+    "url": "https://github.com/Michaelliv/pi-dynamic-workflows",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-27T05:46:25Z",
+    "stars": 722,
+    "name": "withkynam/vibecode-pro-max-kit",
+    "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+    "lang": "JavaScript",
+    "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds"
+  },
+  {
+    "createdAt": "2026-06-02T12:16:37Z",
+    "stars": 698,
+    "name": "b-nnett/goose",
+    "url": "https://github.com/b-nnett/goose",
+    "lang": "Rust",
+    "desc": "Goose Swift proof-of-concept README"
+  },
+  {
+    "createdAt": "2026-05-28T10:45:44Z",
+    "stars": 682,
+    "name": "2aronS/Duel-Agents",
+    "url": "https://github.com/2aronS/Duel-Agents",
+    "lang": "TypeScript",
+    "desc": "CLI, SDK, and IDE plugins for Duel Agents"
+  },
+  {
+    "createdAt": "2026-05-26T05:24:10Z",
+    "stars": 644,
+    "name": "ace-trump-tech/DeltaForce-OBS-Locker",
+    "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+    "lang": "Python",
+    "desc": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass."
+  },
+  {
+    "createdAt": "2026-05-31T19:50:25Z",
+    "stars": 611,
+    "name": "ClaudioDrews/memory-os",
+    "url": "https://github.com/ClaudioDrews/memory-os",
+    "lang": "Python",
+    "desc": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
+  },
+  {
+    "createdAt": "2026-05-30T06:32:54Z",
+    "stars": 485,
+    "name": "liyue-aigc/female-portrait-director",
+    "url": "https://github.com/liyue-aigc/female-portrait-director",
+    "lang": "",
+    "desc": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts."
+  },
+  {
+    "createdAt": "2026-05-31T18:09:30Z",
+    "stars": 451,
+    "name": "anomalyco/rift",
+    "url": "https://github.com/anomalyco/rift",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-29T09:13:26Z",
+    "stars": 446,
+    "name": "jdevalk/specification.website",
+    "url": "https://github.com/jdevalk/specification.website",
+    "lang": "TypeScript",
+    "desc": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
+  },
+  {
+    "createdAt": "2026-05-26T17:19:26Z",
+    "stars": 430,
+    "name": "FlashML-org/flashlib",
+    "url": "https://github.com/FlashML-org/flashlib",
+    "lang": "Python",
+    "desc": "Fast and memory-efficient classical machine learning operators"
+  },
+  {
+    "createdAt": "2026-05-28T03:46:53Z",
+    "stars": 426,
+    "name": "QwenLM/Qwen-VLA",
+    "url": "https://github.com/QwenLM/Qwen-VLA",
+    "lang": "",
+    "desc": "The official repository of Qwen-VLA"
+  },
+  {
+    "createdAt": "2026-06-01T08:52:27Z",
+    "stars": 413,
+    "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+    "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-26T05:39:25Z",
+    "stars": 383,
+    "name": "paraschopra/make-pages-interactive",
+    "url": "https://github.com/paraschopra/make-pages-interactive",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-27T17:48:52Z",
+    "stars": 378,
+    "name": "garnix-io/garnix-ci",
+    "url": "https://github.com/garnix-io/garnix-ci",
+    "lang": "Haskell",
+    "desc": "CI and hosting for nix-based, flakified github repos"
+  },
+  {
+    "createdAt": "2026-05-29T14:54:55Z",
+    "stars": 377,
+    "name": "DannyMac180/skills",
+    "url": "https://github.com/DannyMac180/skills",
+    "lang": "Python",
+    "desc": "AI agent skills created by me: Dan McAteer"
+  },
+  {
+    "createdAt": "2026-05-27T03:56:54Z",
+    "stars": 330,
+    "name": "ikeda042/PhenoPixel",
+    "url": "https://github.com/ikeda042/PhenoPixel",
+    "lang": "TypeScript",
+    "desc": "PhenoPixel: A web application for single-cell microscopy image analysis (deployed at Hiroshima University)."
+  },
+  {
+    "createdAt": "2026-05-27T04:47:29Z",
+    "stars": 322,
+    "name": "BoundingBoxSoftware/CharacterController",
+    "url": "https://github.com/BoundingBoxSoftware/CharacterController",
+    "lang": "C#",
+    "desc": "A character controller for Unity that covers many edge cases."
+  },
+  {
+    "createdAt": "2026-05-26T20:51:30Z",
+    "stars": 321,
+    "name": "actuallyaridan/linux-devmgmt",
+    "url": "https://github.com/actuallyaridan/linux-devmgmt",
+    "lang": "C++",
+    "desc": "A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on regular KDE as well."
+  },
+  {
+    "createdAt": "2026-05-31T08:25:05Z",
+    "stars": 319,
+    "name": "MatixYo/ESP32-Plane-Radar",
+    "url": "https://github.com/MatixYo/ESP32-Plane-Radar",
+    "lang": "C++",
+    "desc": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar."
+  },
+  {
+    "createdAt": "2026-05-26T06:37:08Z",
+    "stars": 311,
+    "name": "cellinlab/how-pi-agent-works",
+    "url": "https://github.com/cellinlab/how-pi-agent-works",
+    "lang": "",
+    "desc": "Pi Agent 原理与实现"
+  },
+  {
+    "createdAt": "2026-05-27T08:25:28Z",
+    "stars": 307,
+    "name": "yb2460/harness-anything",
+    "url": "https://github.com/yb2460/harness-anything",
+    "lang": "Python",
+    "desc": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation"
+  },
+  {
+    "createdAt": "2026-05-29T10:54:11Z",
+    "stars": 294,
+    "name": "bonus-2026/crypto-casino-bonus",
+    "url": "https://github.com/bonus-2026/crypto-casino-bonus",
+    "lang": "",
+    "desc": "Explore the best Crypto Casino Bonus - including no deposit welcome bonuses. Learn about Bitcoin casino rewards, free spins, cashback offers, crypto payments, mobile gaming, and responsible online casino promotions."
+  },
+  {
+    "createdAt": "2026-05-30T04:27:25Z",
+    "stars": 264,
+    "name": "zgwl/chinese-buy-us-stock-guide",
+    "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+    "lang": "",
+    "desc": "美股指南"
+  },
+  {
+    "createdAt": "2026-05-26T12:40:07Z",
+    "stars": 259,
+    "name": "kepengxu/PRISM-VL",
+    "url": "https://github.com/kepengxu/PRISM-VL",
+    "lang": "Python",
+    "desc": "PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer."
+  },
+  {
+    "createdAt": "2026-05-26T13:33:33Z",
+    "stars": 257,
+    "name": "Yeachan-Heo/gajae-code",
+    "url": "https://github.com/Yeachan-Heo/gajae-code",
+    "lang": "TypeScript",
+    "desc": "Gajae Code MVP"
+  },
+  {
+    "createdAt": "2026-05-27T02:01:16Z",
+    "stars": 253,
+    "name": "JuneYaooo/nihaisha-tcm",
+    "url": "https://github.com/JuneYaooo/nihaisha-tcm",
+    "lang": "Python",
+    "desc": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haisha TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing."
+  },
+  {
+    "createdAt": "2026-05-26T19:16:05Z",
+    "stars": 252,
+    "name": "5-m0cftvuvif/stake-monthly",
+    "url": "https://github.com/5-m0cftvuvif/stake-monthly",
+    "lang": "HTML",
+    "desc": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms."
+  },
+  {
+    "createdAt": "2026-05-26T16:17:04Z",
+    "stars": 248,
+    "name": "Voxybuns/at-icons",
+    "url": "https://github.com/Voxybuns/at-icons",
+    "lang": "HTML",
+    "desc": "Open source icons for custom Godot nodes"
+  },
+  {
+    "createdAt": "2026-05-26T01:06:12Z",
+    "stars": 241,
+    "name": "hieunc229/mailflare",
+    "url": "https://github.com/hieunc229/mailflare",
+    "lang": "TypeScript",
+    "desc": "Email client with custom domain based on Cloudflare"
+  },
+  {
+    "createdAt": "2026-05-30T23:05:14Z",
+    "stars": 226,
+    "name": "ProxyShard/ShardBrowser",
+    "url": "https://github.com/ProxyShard/ShardBrowser",
+    "lang": "TypeScript",
+    "desc": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5."
+  },
+  {
+    "createdAt": "2026-06-01T12:50:21Z",
+    "stars": 220,
+    "name": "VAST-AI-Research/TripoSplat",
+    "url": "https://github.com/VAST-AI-Research/TripoSplat",
+    "lang": "Python",
+    "desc": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI."
+  },
+  {
+    "createdAt": "2026-05-30T14:38:13Z",
+    "stars": 220,
+    "name": "WUBING2023/ExamPass-Assistant",
+    "url": "https://github.com/WUBING2023/ExamPass-Assistant",
+    "lang": "Python",
+    "desc": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友"
+  },
+  {
+    "createdAt": "2026-05-29T03:16:06Z",
+    "stars": 219,
+    "name": "johnmiddleton12/my-whoop",
+    "url": "https://github.com/johnmiddleton12/my-whoop",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-29T14:48:28Z",
+    "stars": 217,
+    "name": "shipfastlabs/parsel",
+    "url": "https://github.com/shipfastlabs/parsel",
+    "lang": "PHP",
+    "desc": "A fast, helpful, and open-source document parser for PHP"
+  },
+  {
+    "createdAt": "2026-05-31T16:08:48Z",
+    "stars": 216,
+    "name": "johnbean393/KeyType",
+    "url": "https://github.com/johnbean393/KeyType",
+    "lang": "Swift",
+    "desc": "An open-source Cotypist with macOS system wide AI autocomplete"
+  },
+  {
+    "createdAt": "2026-05-27T19:34:31Z",
+    "stars": 215,
+    "name": "opengeos/GeoLibre",
+    "url": "https://github.com/opengeos/GeoLibre",
+    "lang": "TypeScript",
+    "desc": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS."
+  },
+  {
+    "createdAt": "2026-05-27T17:26:13Z",
+    "stars": 207,
+    "name": "safeboundai/vibe-scanner",
+    "url": "https://github.com/safeboundai/vibe-scanner",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-27T13:52:59Z",
+    "stars": 201,
+    "name": "FoundZiGu/SMSBazaar",
+    "url": "https://github.com/FoundZiGu/SMSBazaar",
+    "lang": "JavaScript",
+    "desc": "OPENAI(ChatGPT) 短信接码价格和库存对比看板"
+  },
+  {
+    "createdAt": "2026-05-31T10:00:56Z",
+    "stars": 201,
+    "name": "mavi9727stoke6893/Acrobat-Version-Pro-2",
+    "url": "https://github.com/mavi9727stoke6893/Acrobat-Version-Pro-2",
+    "lang": "C++",
+    "desc": "Adobe Acrobat Pro Professional 2026 – Industry-standard PDF editor for creating, editing, converting, and signing documents with advanced features."
+  },
+  {
+    "createdAt": "2026-05-31T13:20:19Z",
+    "stars": 201,
+    "name": "turbodragonecholegend2914353/Roblox-Exec-Collection-Desktop",
+    "url": "https://github.com/turbodragonecholegend2914353/Roblox-Exec-Collection-Desktop",
+    "lang": "C#",
+    "desc": "A curated collection of documentation and safe templates for understanding and analyzing Roblox execution environments in a controlled lab setting."
+  },
+  {
+    "createdAt": "2026-05-31T08:37:37Z",
+    "stars": 201,
+    "name": "teresiapeetz53968036169/WallpaperDownloader-Version-Pro-2",
+    "url": "https://github.com/teresiapeetz53968036169/WallpaperDownloader-Version-Pro-2",
+    "lang": "C#",
+    "desc": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience."
+  }
+]
