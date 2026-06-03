@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-05-31T14:05:51Z",
+    "stars": 43240,
+    "name": "pewdiepie-archdaemon/odysseus",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "lang": "JavaScript",
+    "desc": "Self-hosted AI workspace. "
+  },
+  {
+    "createdAt": "2026-05-27T12:05:05Z",
+    "stars": 2729,
+    "name": "op7418/guizang-social-card-skill",
+    "url": "https://github.com/op7418/guizang-social-card-skill",
+    "lang": "HTML",
+    "desc": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对"
+  },
+  {
+    "createdAt": "2026-05-27T22:47:56Z",
+    "stars": 1928,
+    "name": "helloianneo/ian-xiaohei-illustrations",
+    "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "lang": "",
+    "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill"
+  },
+  {
+    "createdAt": "2026-05-29T06:14:13Z",
+    "stars": 1911,
+    "name": "Gloridust/WechatOnCloud",
+    "url": "https://github.com/Gloridust/WechatOnCloud",
+    "lang": "TypeScript",
+    "desc": "云微WOC，云微信，自由连接"
+  },
+  {
+    "createdAt": "2026-05-27T10:25:58Z",
+    "stars": 1633,
+    "name": "GordenSun/GordenPPTSkill",
+    "url": "https://github.com/GordenSun/GordenPPTSkill",
+    "lang": "Python",
+    "desc": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only."
+  },
+  {
+    "createdAt": "2026-06-02T12:16:37Z",
+    "stars": 1449,
+    "name": "b-nnett/goose",
+    "url": "https://github.com/b-nnett/goose",
+    "lang": "Rust",
+    "desc": "Goose Swift proof-of-concept README"
+  },
+  {
+    "createdAt": "2026-05-31T14:29:52Z",
+    "stars": 1380,
+    "name": "asz798838958/aBaiAutoplus",
+    "url": "https://github.com/asz798838958/aBaiAutoplus",
+    "lang": "Python",
+    "desc": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus"
+  },
+  {
+    "createdAt": "2026-05-28T11:25:55Z",
+    "stars": 1347,
+    "name": "Sophomoresty/gemini-web2api",
+    "url": "https://github.com/Sophomoresty/gemini-web2api",
+    "lang": "Python",
+    "desc": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file."
+  },
+  {
+    "createdAt": "2026-05-28T17:02:54Z",
+    "stars": 1024,
+    "name": "MatinSenPai/SenPaiScanner",
+    "url": "https://github.com/MatinSenPai/SenPaiScanner",
+    "lang": "Go",
+    "desc": "A light-weight scanner for Cloudflare IPs, written in Golang"
+  },
+  {
+    "createdAt": "2026-05-28T20:46:15Z",
+    "stars": 767,
+    "name": "Michaelliv/pi-dynamic-workflows",
+    "url": "https://github.com/Michaelliv/pi-dynamic-workflows",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-27T05:46:25Z",
+    "stars": 751,
+    "name": "withkynam/vibecode-pro-max-kit",
+    "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+    "lang": "JavaScript",
+    "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds"
+  },
+  {
+    "createdAt": "2026-05-31T19:50:25Z",
+    "stars": 747,
+    "name": "ClaudioDrews/memory-os",
+    "url": "https://github.com/ClaudioDrews/memory-os",
+    "lang": "Python",
+    "desc": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
+  },
+  {
+    "createdAt": "2026-06-02T23:40:28Z",
+    "stars": 742,
+    "name": "cpaczek/skylight",
+    "url": "https://github.com/cpaczek/skylight",
+    "lang": "TypeScript",
+    "desc": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed."
+  },
+  {
+    "createdAt": "2026-05-30T04:27:25Z",
+    "stars": 713,
+    "name": "zgwl/chinese-buy-us-stock-guide",
+    "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+    "lang": "",
+    "desc": "美股指南"
+  },
+  {
+    "createdAt": "2026-05-28T10:45:44Z",
+    "stars": 701,
+    "name": "2aronS/Duel-Agents",
+    "url": "https://github.com/2aronS/Duel-Agents",
+    "lang": "TypeScript",
+    "desc": "CLI, SDK, and IDE plugins for Duel Agents"
+  },
+  {
+    "createdAt": "2026-06-02T21:45:25Z",
+    "stars": 547,
+    "name": "SenhorH/tab-labeler",
+    "url": "https://github.com/SenhorH/tab-labeler",
+    "lang": "TypeScript",
+    "desc": "Rename browser tabs locally and bring order to chaotic sessions."
+  },
+  {
+    "createdAt": "2026-06-01T08:52:27Z",
+    "stars": 522,
+    "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+    "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-30T06:32:54Z",
+    "stars": 503,
+    "name": "liyue-aigc/female-portrait-director",
+    "url": "https://github.com/liyue-aigc/female-portrait-director",
+    "lang": "",
+    "desc": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts."
+  },
+  {
+    "createdAt": "2026-05-31T18:09:30Z",
+    "stars": 490,
+    "name": "anomalyco/rift",
+    "url": "https://github.com/anomalyco/rift",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-29T09:13:26Z",
+    "stars": 479,
+    "name": "jdevalk/specification.website",
+    "url": "https://github.com/jdevalk/specification.website",
+    "lang": "TypeScript",
+    "desc": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
+  },
+  {
+    "createdAt": "2026-05-28T03:46:53Z",
+    "stars": 469,
+    "name": "QwenLM/Qwen-VLA",
+    "url": "https://github.com/QwenLM/Qwen-VLA",
+    "lang": "",
+    "desc": "The official repository of Qwen-VLA"
+  },
+  {
+    "createdAt": "2026-05-29T14:54:55Z",
+    "stars": 399,
+    "name": "DannyMac180/skills",
+    "url": "https://github.com/DannyMac180/skills",
+    "lang": "Python",
+    "desc": "AI agent skills created by me: Dan McAteer"
+  },
+  {
+    "createdAt": "2026-05-27T17:48:52Z",
+    "stars": 384,
+    "name": "garnix-io/garnix-ci",
+    "url": "https://github.com/garnix-io/garnix-ci",
+    "lang": "Haskell",
+    "desc": "CI and hosting for nix-based, flakified github repos"
+  },
+  {
+    "createdAt": "2026-05-27T08:25:28Z",
+    "stars": 366,
+    "name": "yb2460/harness-anything",
+    "url": "https://github.com/yb2460/harness-anything",
+    "lang": "Python",
+    "desc": "CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation"
+  },
+  {
+    "createdAt": "2026-06-01T13:38:37Z",
+    "stars": 352,
+    "name": "tiantianGPU/reg-factory",
+    "url": "https://github.com/tiantianGPU/reg-factory",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-30T15:21:16Z",
+    "stars": 348,
+    "name": "c0deJedi/nbd-vram",
+    "url": "https://github.com/c0deJedi/nbd-vram",
+    "lang": "Shell",
+    "desc": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
+  },
+  {
+    "createdAt": "2026-05-31T08:25:05Z",
+    "stars": 341,
+    "name": "MatixYo/ESP32-Plane-Radar",
+    "url": "https://github.com/MatixYo/ESP32-Plane-Radar",
+    "lang": "C++",
+    "desc": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar."
+  },
+  {
+    "createdAt": "2026-05-27T03:56:54Z",
+    "stars": 332,
+    "name": "ikeda042/PhenoPixel",
+    "url": "https://github.com/ikeda042/PhenoPixel",
+    "lang": "TypeScript",
+    "desc": "PhenoPixel: A web application for single-cell microscopy image analysis (deployed at Hiroshima University)."
+  },
+  {
+    "createdAt": "2026-05-27T04:47:29Z",
+    "stars": 330,
+    "name": "BoundingBoxSoftware/CharacterController",
+    "url": "https://github.com/BoundingBoxSoftware/CharacterController",
+    "lang": "C#",
+    "desc": "A character controller for Unity that covers many edge cases."
+  },
+  {
+    "createdAt": "2026-05-28T15:56:47Z",
+    "stars": 326,
+    "name": "ideogram-oss/ideogram4",
+    "url": "https://github.com/ideogram-oss/ideogram4",
+    "lang": "Python",
+    "desc": "Ideogram 4: Open image model at the forefront of design"
+  },
+  {
+    "createdAt": "2026-06-01T12:50:21Z",
+    "stars": 320,
+    "name": "VAST-AI-Research/TripoSplat",
+    "url": "https://github.com/VAST-AI-Research/TripoSplat",
+    "lang": "Python",
+    "desc": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI."
+  },
+  {
+    "createdAt": "2026-05-27T02:01:16Z",
+    "stars": 302,
+    "name": "JuneYaooo/nihaisha-tcm",
+    "url": "https://github.com/JuneYaooo/nihaisha-tcm",
+    "lang": "Python",
+    "desc": "倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haisha TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing."
+  },
+  {
+    "createdAt": "2026-05-30T23:05:14Z",
+    "stars": 296,
+    "name": "ProxyShard/ShardBrowser",
+    "url": "https://github.com/ProxyShard/ShardBrowser",
+    "lang": "TypeScript",
+    "desc": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5."
+  },
+  {
+    "createdAt": "2026-05-29T10:51:54Z",
+    "stars": 284,
+    "name": "bytedance/Bernini",
+    "url": "https://github.com/bytedance/Bernini",
+    "lang": "Python",
+    "desc": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
+  },
+  {
+    "createdAt": "2026-05-30T14:38:13Z",
+    "stars": 273,
+    "name": "WUBING2023/ExamPass-Assistant",
+    "url": "https://github.com/WUBING2023/ExamPass-Assistant",
+    "lang": "Python",
+    "desc": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友"
+  },
+  {
+    "createdAt": "2026-05-29T10:54:11Z",
+    "stars": 260,
+    "name": "bonus-2026/crypto-casino-bonus",
+    "url": "https://github.com/bonus-2026/crypto-casino-bonus",
+    "lang": "",
+    "desc": "Explore the best Crypto Casino Bonus - including no deposit welcome bonuses. Learn about Bitcoin casino rewards, free spins, cashback offers, crypto payments, mobile gaming, and responsible online casino promotions."
+  },
+  {
+    "createdAt": "2026-06-01T08:08:33Z",
+    "stars": 256,
+    "name": "S-Sigdel/vimhjkl",
+    "url": "https://github.com/S-Sigdel/vimhjkl",
+    "lang": "Python",
+    "desc": "learn vim from your terminal with spaced repetition"
+  },
+  {
+    "createdAt": "2026-05-31T02:47:39Z",
+    "stars": 252,
+    "name": "BarneyD66/open-warehouse-system",
+    "url": "https://github.com/BarneyD66/open-warehouse-system",
+    "lang": "TypeScript",
+    "desc": "Chinese-first open-source WMS starter for cross-border warehouse, fulfillment, inventory, billing, returns, and 3PL operations."
+  },
+  {
+    "createdAt": "2026-06-02T03:25:51Z",
+    "stars": 248,
+    "name": "jd-opensource/JoyAI-Echo",
+    "url": "https://github.com/jd-opensource/JoyAI-Echo",
+    "lang": "Python",
+    "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation"
+  },
+  {
+    "createdAt": "2026-05-30T18:48:20Z",
+    "stars": 247,
+    "name": "OnlyTerp/UltraCode-Shim",
+    "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+    "lang": "Python",
+    "desc": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
+  },
+  {
+    "createdAt": "2026-05-27T19:34:31Z",
+    "stars": 242,
+    "name": "opengeos/GeoLibre",
+    "url": "https://github.com/opengeos/GeoLibre",
+    "lang": "TypeScript",
+    "desc": "Lightweight, cloud-native desktop GIS built with Tauri v2, React, TypeScript, and MapLibre GL JS."
+  },
+  {
+    "createdAt": "2026-05-29T03:16:06Z",
+    "stars": 240,
+    "name": "johnmiddleton12/my-whoop",
+    "url": "https://github.com/johnmiddleton12/my-whoop",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-31T16:08:48Z",
+    "stars": 231,
+    "name": "johnbean393/KeyType",
+    "url": "https://github.com/johnbean393/KeyType",
+    "lang": "Swift",
+    "desc": "An open-source Cotypist with macOS system wide AI autocomplete"
+  },
+  {
+    "createdAt": "2026-05-29T14:48:28Z",
+    "stars": 228,
+    "name": "shipfastlabs/parsel",
+    "url": "https://github.com/shipfastlabs/parsel",
+    "lang": "PHP",
+    "desc": "A fast, helpful, and open-source document parser for PHP"
+  },
+  {
+    "createdAt": "2026-05-30T21:57:30Z",
+    "stars": 228,
+    "name": "V0id-v2/Void-Tools-v2.0",
+    "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
+    "lang": "Python",
+    "desc": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only."
+  },
+  {
+    "createdAt": "2026-05-30T02:09:45Z",
+    "stars": 227,
+    "name": "bernardohcrocha/persistia-for-claude-code",
+    "url": "https://github.com/bernardohcrocha/persistia-for-claude-code",
+    "lang": "HTML",
+    "desc": "Give Claude Code the persistent memory it was missing and turn it into your operational co-pilot."
+  },
+  {
+    "createdAt": "2026-05-29T17:05:03Z",
+    "stars": 216,
+    "name": "AITabby/opencodex",
+    "url": "https://github.com/AITabby/opencodex",
+    "lang": "TypeScript",
+    "desc": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge"
+  },
+  {
+    "createdAt": "2026-05-28T14:13:27Z",
+    "stars": 211,
+    "name": "mudler/parakeet.cpp",
+    "url": "https://github.com/mudler/parakeet.cpp",
+    "lang": "C++",
+    "desc": "Parakeet implementation in C++ with ggml"
+  },
+  {
+    "createdAt": "2026-05-31T11:14:35Z",
+    "stars": 207,
+    "name": "PentesterFlow/agent",
+    "url": "https://github.com/PentesterFlow/agent",
+    "lang": "TypeScript",
+    "desc": "Agentic offensive-security in your terminal"
+  },
+  {
+    "createdAt": "2026-05-27T17:26:13Z",
+    "stars": 207,
+    "name": "safeboundai/vibe-scanner",
+    "url": "https://github.com/safeboundai/vibe-scanner",
+    "lang": "HTML",
+    "desc": ""
+  }
+]
