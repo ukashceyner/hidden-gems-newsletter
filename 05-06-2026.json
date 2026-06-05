@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-05-31T14:05:51Z",
+    "stars": 55502,
+    "name": "pewdiepie-archdaemon/odysseus",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "lang": "Python",
+    "desc": "Self-hosted AI workspace. "
+  },
+  {
+    "createdAt": "2026-05-30T04:27:25Z",
+    "stars": 3227,
+    "name": "zgwl/chinese-buy-us-stock-guide",
+    "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+    "lang": "",
+    "desc": "美股指南"
+  },
+  {
+    "createdAt": "2026-06-02T12:16:37Z",
+    "stars": 2118,
+    "name": "b-nnett/goose",
+    "url": "https://github.com/b-nnett/goose",
+    "lang": "Rust",
+    "desc": "Goose Swift proof-of-concept README"
+  },
+  {
+    "createdAt": "2026-05-29T06:14:13Z",
+    "stars": 2110,
+    "name": "Gloridust/WechatOnCloud",
+    "url": "https://github.com/Gloridust/WechatOnCloud",
+    "lang": "TypeScript",
+    "desc": "云微WOC，云微信，自由连接"
+  },
+  {
+    "createdAt": "2026-06-02T23:40:28Z",
+    "stars": 1608,
+    "name": "cpaczek/skylight",
+    "url": "https://github.com/cpaczek/skylight",
+    "lang": "TypeScript",
+    "desc": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed."
+  },
+  {
+    "createdAt": "2026-05-31T14:29:52Z",
+    "stars": 1530,
+    "name": "asz798838958/aBaiAutoplus",
+    "url": "https://github.com/asz798838958/aBaiAutoplus",
+    "lang": "Python",
+    "desc": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus"
+  },
+  {
+    "createdAt": "2026-05-31T19:50:25Z",
+    "stars": 874,
+    "name": "ClaudioDrews/memory-os",
+    "url": "https://github.com/ClaudioDrews/memory-os",
+    "lang": "Python",
+    "desc": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
+  },
+  {
+    "createdAt": "2026-05-30T21:57:30Z",
+    "stars": 635,
+    "name": "V0id-v2/Void-Tools-v2.0",
+    "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
+    "lang": "Python",
+    "desc": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only."
+  },
+  {
+    "createdAt": "2026-06-01T08:52:27Z",
+    "stars": 578,
+    "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+    "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-02T03:25:51Z",
+    "stars": 558,
+    "name": "jd-opensource/JoyAI-Echo",
+    "url": "https://github.com/jd-opensource/JoyAI-Echo",
+    "lang": "Python",
+    "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation"
+  },
+  {
+    "createdAt": "2026-05-29T09:13:26Z",
+    "stars": 556,
+    "name": "jdevalk/specification.website",
+    "url": "https://github.com/jdevalk/specification.website",
+    "lang": "TypeScript",
+    "desc": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT."
+  },
+  {
+    "createdAt": "2026-05-31T18:09:30Z",
+    "stars": 532,
+    "name": "anomalyco/rift",
+    "url": "https://github.com/anomalyco/rift",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-30T06:32:54Z",
+    "stars": 519,
+    "name": "liyue-aigc/female-portrait-director",
+    "url": "https://github.com/liyue-aigc/female-portrait-director",
+    "lang": "",
+    "desc": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts."
+  },
+  {
+    "createdAt": "2026-05-29T10:51:54Z",
+    "stars": 450,
+    "name": "bytedance/Bernini",
+    "url": "https://github.com/bytedance/Bernini",
+    "lang": "Python",
+    "desc": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer."
+  },
+  {
+    "createdAt": "2026-06-03T18:55:02Z",
+    "stars": 437,
+    "name": "tastyeffectco/sandboxes",
+    "url": "https://github.com/tastyeffectco/sandboxes",
+    "lang": "Go",
+    "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
+  },
+  {
+    "createdAt": "2026-06-01T13:38:37Z",
+    "stars": 433,
+    "name": "tiantianGPU/reg-factory",
+    "url": "https://github.com/tiantianGPU/reg-factory",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-01T12:50:21Z",
+    "stars": 423,
+    "name": "VAST-AI-Research/TripoSplat",
+    "url": "https://github.com/VAST-AI-Research/TripoSplat",
+    "lang": "Python",
+    "desc": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI."
+  },
+  {
+    "createdAt": "2026-05-29T14:54:55Z",
+    "stars": 412,
+    "name": "DannyMac180/skills",
+    "url": "https://github.com/DannyMac180/skills",
+    "lang": "Python",
+    "desc": "AI agent skills created by me: Dan McAteer"
+  },
+  {
+    "createdAt": "2026-05-30T15:21:16Z",
+    "stars": 404,
+    "name": "c0deJedi/nbd-vram",
+    "url": "https://github.com/c0deJedi/nbd-vram",
+    "lang": "Shell",
+    "desc": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
+  },
+  {
+    "createdAt": "2026-06-02T21:45:25Z",
+    "stars": 385,
+    "name": "SenhorH/tab-labeler",
+    "url": "https://github.com/SenhorH/tab-labeler",
+    "lang": "TypeScript",
+    "desc": "Rename browser tabs locally and bring order to chaotic sessions."
+  },
+  {
+    "createdAt": "2026-05-31T08:25:05Z",
+    "stars": 385,
+    "name": "MatixYo/ESP32-Plane-Radar",
+    "url": "https://github.com/MatixYo/ESP32-Plane-Radar",
+    "lang": "C++",
+    "desc": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar."
+  },
+  {
+    "createdAt": "2026-06-04T05:20:47Z",
+    "stars": 363,
+    "name": "Jane-xiaoer/xiaoer-videolab",
+    "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+    "lang": "Python",
+    "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。"
+  },
+  {
+    "createdAt": "2026-05-30T14:38:13Z",
+    "stars": 362,
+    "name": "WUBING2023/ExamPass-Assistant",
+    "url": "https://github.com/WUBING2023/ExamPass-Assistant",
+    "lang": "Python",
+    "desc": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友"
+  },
+  {
+    "createdAt": "2026-05-31T00:41:43Z",
+    "stars": 351,
+    "name": "Mochocyang/QMAI",
+    "url": "https://github.com/Mochocyang/QMAI",
+    "lang": "TypeScript",
+    "desc": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。"
+  },
+  {
+    "createdAt": "2026-06-01T08:08:33Z",
+    "stars": 346,
+    "name": "S-Sigdel/vimhjkl",
+    "url": "https://github.com/S-Sigdel/vimhjkl",
+    "lang": "Python",
+    "desc": "learn vim from your terminal with spaced repetition"
+  },
+  {
+    "createdAt": "2026-05-31T15:25:05Z",
+    "stars": 329,
+    "name": "chaitanyagiri/munder-difflin",
+    "url": "https://github.com/chaitanyagiri/munder-difflin",
+    "lang": "TypeScript",
+    "desc": "local multi-agent harness"
+  },
+  {
+    "createdAt": "2026-05-30T23:05:14Z",
+    "stars": 329,
+    "name": "ProxyShard/ShardBrowser",
+    "url": "https://github.com/ProxyShard/ShardBrowser",
+    "lang": "TypeScript",
+    "desc": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5."
+  },
+  {
+    "createdAt": "2026-06-01T23:51:01Z",
+    "stars": 303,
+    "name": "ConiferKit/sage",
+    "url": "https://github.com/ConiferKit/sage",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-31T11:14:35Z",
+    "stars": 292,
+    "name": "PentesterFlow/agent",
+    "url": "https://github.com/PentesterFlow/agent",
+    "lang": "TypeScript",
+    "desc": "Agentic offensive-security in your terminal"
+  },
+  {
+    "createdAt": "2026-05-29T08:19:15Z",
+    "stars": 286,
+    "name": "huawei-csl/KVarN",
+    "url": "https://github.com/huawei-csl/KVarN",
+    "lang": "Python",
+    "desc": "KVarN is a native vLLM KV-cache quantization backend for your agents: 3-5x more context, throughput above FP16, and FP16-level accuracy. Calibration-free, one flag."
+  },
+  {
+    "createdAt": "2026-06-01T10:06:21Z",
+    "stars": 282,
+    "name": "Fullive-AI/Anima",
+    "url": "https://github.com/Fullive-AI/Anima",
+    "lang": "Python",
+    "desc": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence"
+  },
+  {
+    "createdAt": "2026-05-30T11:12:04Z",
+    "stars": 280,
+    "name": "r14dd/patent",
+    "url": "https://github.com/r14dd/patent",
+    "lang": "Rust",
+    "desc": "A prior-art search for your code ideas. Stop building what already exists."
+  },
+  {
+    "createdAt": "2026-05-30T18:48:20Z",
+    "stars": 266,
+    "name": "OnlyTerp/UltraCode-Shim",
+    "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+    "lang": "Python",
+    "desc": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
+  },
+  {
+    "createdAt": "2026-05-31T16:08:48Z",
+    "stars": 266,
+    "name": "johnbean393/KeyType",
+    "url": "https://github.com/johnbean393/KeyType",
+    "lang": "Swift",
+    "desc": "An open-source Cotypist with macOS system wide AI autocomplete"
+  },
+  {
+    "createdAt": "2026-05-30T19:39:48Z",
+    "stars": 259,
+    "name": "marekkowalczyk/breathe-cli",
+    "url": "https://github.com/marekkowalczyk/breathe-cli",
+    "lang": "Python",
+    "desc": "Paced resonance breathing in your terminal"
+  },
+  {
+    "createdAt": "2026-05-30T09:53:31Z",
+    "stars": 254,
+    "name": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
+    "url": "https://github.com/dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
+    "lang": "Python",
+    "desc": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
+  },
+  {
+    "createdAt": "2026-05-29T03:16:06Z",
+    "stars": 252,
+    "name": "johnmiddleton12/my-whoop",
+    "url": "https://github.com/johnmiddleton12/my-whoop",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-31T01:23:16Z",
+    "stars": 250,
+    "name": "vannyben7/course-learning-workspace",
+    "url": "https://github.com/vannyben7/course-learning-workspace",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-29T14:48:28Z",
+    "stars": 250,
+    "name": "shipfastlabs/parsel",
+    "url": "https://github.com/shipfastlabs/parsel",
+    "lang": "PHP",
+    "desc": "A fast, helpful, and open-source document parser for PHP"
+  },
+  {
+    "createdAt": "2026-06-02T18:52:29Z",
+    "stars": 246,
+    "name": "ni5arga/deanonymizer",
+    "url": "https://github.com/ni5arga/deanonymizer",
+    "lang": "TypeScript",
+    "desc": "Deanonymize anyone based on their public commenting or posting history & pattern."
+  },
+  {
+    "createdAt": "2026-05-31T15:45:25Z",
+    "stars": 243,
+    "name": "duncatzat/vigils",
+    "url": "https://github.com/duncatzat/vigils",
+    "lang": "Rust",
+    "desc": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3."
+  },
+  {
+    "createdAt": "2026-06-05T08:46:35Z",
+    "stars": 231,
+    "name": "CWS6206/ai-coding-starter-kit",
+    "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+    "lang": "",
+    "desc": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert."
+  },
+  {
+    "createdAt": "2026-05-31T21:36:37Z",
+    "stars": 230,
+    "name": "eversinc33/MogVMP",
+    "url": "https://github.com/eversinc33/MogVMP",
+    "lang": "C++",
+    "desc": "Static devirtualizer for VMProtect 3.0-3.5. Lifts virtualized code to LLVM using Remill and strips the VM layer through optimization."
+  },
+  {
+    "createdAt": "2026-06-04T07:13:39Z",
+    "stars": 230,
+    "name": "jeff141/meatshell",
+    "url": "https://github.com/jeff141/meatshell",
+    "lang": "Rust",
+    "desc": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）"
+  },
+  {
+    "createdAt": "2026-05-30T02:09:45Z",
+    "stars": 226,
+    "name": "bernardohcrocha/persistia-for-claude-code",
+    "url": "https://github.com/bernardohcrocha/persistia-for-claude-code",
+    "lang": "HTML",
+    "desc": "Give Claude Code the persistent memory it was missing and turn it into your operational co-pilot."
+  },
+  {
+    "createdAt": "2026-05-29T16:05:49Z",
+    "stars": 225,
+    "name": "forbiddenshieldclaim/CapCut-Pro",
+    "url": "https://github.com/forbiddenshieldclaim/CapCut-Pro",
+    "lang": "",
+    "desc": "CapCut Pro - All-in-one video editor with trending effects, templates, and social media optimization. Comprehensive guide with setup instructions, feature highlights, and system requirements."
+  },
+  {
+    "createdAt": "2026-05-29T16:00:17Z",
+    "stars": 223,
+    "name": "MizukageChateau/AutoCAD-Activated",
+    "url": "https://github.com/MizukageChateau/AutoCAD-Activated",
+    "lang": "",
+    "desc": "AutoCAD - Industry-standard CAD software for 2D drafting and 3D modeling. Includes setup guide, feature overview, and download instructions."
+  },
+  {
+    "createdAt": "2026-05-29T16:01:49Z",
+    "stars": 222,
+    "name": "Limestonekoturbine/Acrobat-Pro-2026-Activate",
+    "url": "https://github.com/Limestonekoturbine/Acrobat-Pro-2026-Activate",
+    "lang": "",
+    "desc": "Adobe Acrobat Pro is the industry-standard PDF editor that provides comprehensive tools for creating, editing, converting, signing, and sharing PDF documents. Priced at $19.99 per month as part of Adobe Creative Cloud, Acrobat Pro includes advanced features such as full text and image editing, AI-powered document summaries and insights via Adobe AI"
+  },
+  {
+    "createdAt": "2026-06-02T15:48:56Z",
+    "stars": 221,
+    "name": "torvalds/ScrollWheel",
+    "url": "https://github.com/torvalds/ScrollWheel",
+    "lang": "C",
+    "desc": "Minimalist RP2350 magnetic sensor scroll wheel toy project"
+  },
+  {
+    "createdAt": "2026-05-29T17:05:03Z",
+    "stars": 219,
+    "name": "AITabby/opencodex",
+    "url": "https://github.com/AITabby/opencodex",
+    "lang": "TypeScript",
+    "desc": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge"
+  }
+]
