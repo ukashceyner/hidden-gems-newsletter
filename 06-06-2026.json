@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-05-31T14:05:51Z",
+    "stars": 58814,
+    "name": "pewdiepie-archdaemon/odysseus",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "lang": "Python",
+    "desc": "Self-hosted AI workspace. "
+  },
+  {
+    "createdAt": "2026-05-30T04:27:25Z",
+    "stars": 3329,
+    "name": "zgwl/chinese-buy-us-stock-guide",
+    "url": "https://github.com/zgwl/chinese-buy-us-stock-guide",
+    "lang": "",
+    "desc": "美股指南"
+  },
+  {
+    "createdAt": "2026-06-02T12:16:37Z",
+    "stars": 2164,
+    "name": "b-nnett/goose",
+    "url": "https://github.com/b-nnett/goose",
+    "lang": "Rust",
+    "desc": "Goose Swift proof-of-concept README"
+  },
+  {
+    "createdAt": "2026-06-02T23:40:28Z",
+    "stars": 2061,
+    "name": "cpaczek/skylight",
+    "url": "https://github.com/cpaczek/skylight",
+    "lang": "TypeScript",
+    "desc": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed."
+  },
+  {
+    "createdAt": "2026-05-31T14:29:52Z",
+    "stars": 1557,
+    "name": "asz798838958/aBaiAutoplus",
+    "url": "https://github.com/asz798838958/aBaiAutoplus",
+    "lang": "Python",
+    "desc": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus"
+  },
+  {
+    "createdAt": "2026-05-31T19:50:25Z",
+    "stars": 942,
+    "name": "ClaudioDrews/memory-os",
+    "url": "https://github.com/ClaudioDrews/memory-os",
+    "lang": "Python",
+    "desc": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider."
+  },
+  {
+    "createdAt": "2026-05-30T21:57:30Z",
+    "stars": 852,
+    "name": "V0id-v2/Void-Tools-v2.0",
+    "url": "https://github.com/V0id-v2/Void-Tools-v2.0",
+    "lang": "Python",
+    "desc": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only."
+  },
+  {
+    "createdAt": "2026-06-02T03:25:51Z",
+    "stars": 698,
+    "name": "jd-opensource/JoyAI-Echo",
+    "url": "https://github.com/jd-opensource/JoyAI-Echo",
+    "lang": "Python",
+    "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation"
+  },
+  {
+    "createdAt": "2026-06-01T08:52:27Z",
+    "stars": 590,
+    "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+    "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-31T18:09:30Z",
+    "stars": 547,
+    "name": "anomalyco/rift",
+    "url": "https://github.com/anomalyco/rift",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-30T06:32:54Z",
+    "stars": 524,
+    "name": "liyue-aigc/female-portrait-director",
+    "url": "https://github.com/liyue-aigc/female-portrait-director",
+    "lang": "",
+    "desc": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts."
+  },
+  {
+    "createdAt": "2026-06-01T12:50:21Z",
+    "stars": 487,
+    "name": "VAST-AI-Research/TripoSplat",
+    "url": "https://github.com/VAST-AI-Research/TripoSplat",
+    "lang": "Python",
+    "desc": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI."
+  },
+  {
+    "createdAt": "2026-06-03T18:55:02Z",
+    "stars": 469,
+    "name": "tastyeffectco/sandboxes",
+    "url": "https://github.com/tastyeffectco/sandboxes",
+    "lang": "Go",
+    "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
+  },
+  {
+    "createdAt": "2026-06-04T05:20:47Z",
+    "stars": 452,
+    "name": "Jane-xiaoer/xiaoer-videolab",
+    "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+    "lang": "JavaScript",
+    "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。"
+  },
+  {
+    "createdAt": "2026-06-01T13:38:37Z",
+    "stars": 443,
+    "name": "tiantianGPU/reg-factory",
+    "url": "https://github.com/tiantianGPU/reg-factory",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-30T15:21:16Z",
+    "stars": 422,
+    "name": "c0deJedi/nbd-vram",
+    "url": "https://github.com/c0deJedi/nbd-vram",
+    "lang": "Shell",
+    "desc": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work"
+  },
+  {
+    "createdAt": "2026-05-31T15:25:05Z",
+    "stars": 407,
+    "name": "chaitanyagiri/munder-difflin",
+    "url": "https://github.com/chaitanyagiri/munder-difflin",
+    "lang": "TypeScript",
+    "desc": "local multi-agent harness"
+  },
+  {
+    "createdAt": "2026-05-31T08:25:05Z",
+    "stars": 405,
+    "name": "MatixYo/ESP32-Plane-Radar",
+    "url": "https://github.com/MatixYo/ESP32-Plane-Radar",
+    "lang": "C++",
+    "desc": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar."
+  },
+  {
+    "createdAt": "2026-06-02T21:45:25Z",
+    "stars": 382,
+    "name": "SenhorH/tab-labeler",
+    "url": "https://github.com/SenhorH/tab-labeler",
+    "lang": "TypeScript",
+    "desc": "Rename browser tabs locally and bring order to chaotic sessions."
+  },
+  {
+    "createdAt": "2026-06-01T08:08:33Z",
+    "stars": 381,
+    "name": "S-Sigdel/vimhjkl",
+    "url": "https://github.com/S-Sigdel/vimhjkl",
+    "lang": "Python",
+    "desc": "learn vim from your terminal with spaced repetition"
+  },
+  {
+    "createdAt": "2026-05-30T14:38:13Z",
+    "stars": 380,
+    "name": "WUBING2023/ExamPass-Assistant",
+    "url": "https://github.com/WUBING2023/ExamPass-Assistant",
+    "lang": "Python",
+    "desc": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友"
+  },
+  {
+    "createdAt": "2026-05-31T00:41:43Z",
+    "stars": 379,
+    "name": "Mochocyang/QMAI",
+    "url": "https://github.com/Mochocyang/QMAI",
+    "lang": "TypeScript",
+    "desc": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。"
+  },
+  {
+    "createdAt": "2026-06-01T10:06:21Z",
+    "stars": 343,
+    "name": "Fullive-AI/Anima",
+    "url": "https://github.com/Fullive-AI/Anima",
+    "lang": "Python",
+    "desc": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence"
+  },
+  {
+    "createdAt": "2026-05-30T23:05:14Z",
+    "stars": 333,
+    "name": "ProxyShard/ShardBrowser",
+    "url": "https://github.com/ProxyShard/ShardBrowser",
+    "lang": "TypeScript",
+    "desc": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5."
+  },
+  {
+    "createdAt": "2026-06-04T07:13:39Z",
+    "stars": 317,
+    "name": "jeff141/meatshell",
+    "url": "https://github.com/jeff141/meatshell",
+    "lang": "Rust",
+    "desc": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）"
+  },
+  {
+    "createdAt": "2026-05-30T11:12:04Z",
+    "stars": 314,
+    "name": "r14dd/patent",
+    "url": "https://github.com/r14dd/patent",
+    "lang": "Rust",
+    "desc": "A prior-art search for your code ideas. Stop building what already exists."
+  },
+  {
+    "createdAt": "2026-05-31T03:06:09Z",
+    "stars": 312,
+    "name": "zzzhhh1/free-nodes",
+    "url": "https://github.com/zzzhhh1/free-nodes",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-01T23:51:01Z",
+    "stars": 303,
+    "name": "ConiferKit/sage",
+    "url": "https://github.com/ConiferKit/sage",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-31T11:14:35Z",
+    "stars": 301,
+    "name": "PentesterFlow/agent",
+    "url": "https://github.com/PentesterFlow/agent",
+    "lang": "TypeScript",
+    "desc": "Agentic offensive-security in your terminal"
+  },
+  {
+    "createdAt": "2026-06-04T09:22:03Z",
+    "stars": 301,
+    "name": "zenhosta/9drive",
+    "url": "https://github.com/zenhosta/9drive",
+    "lang": "TypeScript",
+    "desc": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space."
+  },
+  {
+    "createdAt": "2026-05-30T09:53:31Z",
+    "stars": 294,
+    "name": "dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
+    "url": "https://github.com/dsta022/lerobot-rgb-rgbd-vla-dataset-toolkit",
+    "lang": "Python",
+    "desc": "Toolkit for collecting, merging, auditing, visualizing, and publishing RGB/RGB-D LeRobot VLA datasets."
+  },
+  {
+    "createdAt": "2026-05-31T15:45:25Z",
+    "stars": 290,
+    "name": "duncatzat/vigils",
+    "url": "https://github.com/duncatzat/vigils",
+    "lang": "Rust",
+    "desc": "A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3."
+  },
+  {
+    "createdAt": "2026-05-30T18:48:20Z",
+    "stars": 281,
+    "name": "OnlyTerp/UltraCode-Shim",
+    "url": "https://github.com/OnlyTerp/UltraCode-Shim",
+    "lang": "Python",
+    "desc": "Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up."
+  },
+  {
+    "createdAt": "2026-05-31T10:00:56Z",
+    "stars": 275,
+    "name": "mavi9727stoke6893/Acrobat-Version-Pro-2",
+    "url": "https://github.com/mavi9727stoke6893/Acrobat-Version-Pro-2",
+    "lang": "C++",
+    "desc": "Adobe Acrobat Pro Professional 2026 – Industry-standard PDF editor for creating, editing, converting, and signing documents with advanced features."
+  },
+  {
+    "createdAt": "2026-05-31T16:08:48Z",
+    "stars": 274,
+    "name": "johnbean393/KeyType",
+    "url": "https://github.com/johnbean393/KeyType",
+    "lang": "Swift",
+    "desc": "An open-source Cotypist with macOS system wide AI autocomplete"
+  },
+  {
+    "createdAt": "2026-05-30T19:39:48Z",
+    "stars": 270,
+    "name": "marekkowalczyk/breathe-cli",
+    "url": "https://github.com/marekkowalczyk/breathe-cli",
+    "lang": "Python",
+    "desc": "Paced resonance breathing in your terminal"
+  },
+  {
+    "createdAt": "2026-06-05T08:46:35Z",
+    "stars": 260,
+    "name": "CWS6206/ai-coding-starter-kit",
+    "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+    "lang": "",
+    "desc": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert."
+  },
+  {
+    "createdAt": "2026-05-31T10:32:10Z",
+    "stars": 256,
+    "name": "gerardapennant96075336582/CapC-Pro-2",
+    "url": "https://github.com/gerardapennant96075336582/CapC-Pro-2",
+    "lang": "C++",
+    "desc": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations."
+  },
+  {
+    "createdAt": "2026-06-04T07:02:45Z",
+    "stars": 256,
+    "name": "wy51ai/edulab",
+    "url": "https://github.com/wy51ai/edulab",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-02T18:52:29Z",
+    "stars": 253,
+    "name": "ni5arga/deanonymizer",
+    "url": "https://github.com/ni5arga/deanonymizer",
+    "lang": "TypeScript",
+    "desc": "Deanonymize anyone based on their public commenting or posting history & pattern."
+  },
+  {
+    "createdAt": "2026-05-31T01:23:16Z",
+    "stars": 250,
+    "name": "vannyben7/course-learning-workspace",
+    "url": "https://github.com/vannyben7/course-learning-workspace",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-31T12:49:05Z",
+    "stars": 249,
+    "name": "c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+    "url": "https://github.com/c873089902979/NS-FW-AI-Image-and-Video-Generator-Uncens",
+    "lang": "C#",
+    "desc": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation."
+  },
+  {
+    "createdAt": "2026-06-03T03:26:16Z",
+    "stars": 243,
+    "name": "nevertoday/zhongguo-traditional-colors",
+    "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+    "lang": "JavaScript",
+    "desc": "中华传统色演示、色卡浏览与颜色知识科普开源项目"
+  },
+  {
+    "createdAt": "2026-05-31T21:36:37Z",
+    "stars": 236,
+    "name": "eversinc33/MogVMP",
+    "url": "https://github.com/eversinc33/MogVMP",
+    "lang": "C++",
+    "desc": "Static devirtualizer for VMProtect 3.0-3.5. Lifts virtualized code to LLVM using Remill and strips the VM layer through optimization."
+  },
+  {
+    "createdAt": "2026-06-02T15:48:56Z",
+    "stars": 235,
+    "name": "torvalds/ScrollWheel",
+    "url": "https://github.com/torvalds/ScrollWheel",
+    "lang": "C",
+    "desc": "Minimalist RP2350 magnetic sensor scroll wheel toy project"
+  },
+  {
+    "createdAt": "2026-05-30T02:09:45Z",
+    "stars": 229,
+    "name": "bernardohcrocha/persistia-for-claude-code",
+    "url": "https://github.com/bernardohcrocha/persistia-for-claude-code",
+    "lang": "HTML",
+    "desc": "Give Claude Code the persistent memory it was missing and turn it into your operational co-pilot."
+  },
+  {
+    "createdAt": "2026-05-30T20:31:05Z",
+    "stars": 223,
+    "name": "nv-tlabs/dvlt",
+    "url": "https://github.com/nv-tlabs/dvlt",
+    "lang": "Python",
+    "desc": "Official implementation of Déjà View: Looping Transformers for Multi-View 3D Reconstruction"
+  },
+  {
+    "createdAt": "2026-05-31T04:13:42Z",
+    "stars": 222,
+    "name": "haskaomni/serenity-skill",
+    "url": "https://github.com/haskaomni/serenity-skill",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-31T17:35:07Z",
+    "stars": 220,
+    "name": "haaarshsingh/halftone-dots",
+    "url": "https://github.com/haaarshsingh/halftone-dots",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-05-31T13:56:58Z",
+    "stars": 214,
+    "name": "rstagit/rstaspoof",
+    "url": "https://github.com/rstagit/rstaspoof",
+    "lang": "Go",
+    "desc": "ابزار دور زدن DPI با جعل SNI — پشتیبانی از Termux/Android/Linux"
+  }
+]
