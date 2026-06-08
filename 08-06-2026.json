@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-06-02T23:40:28Z",
+    "stars": 2379,
+    "name": "cpaczek/skylight",
+    "url": "https://github.com/cpaczek/skylight",
+    "lang": "TypeScript",
+    "desc": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed."
+  },
+  {
+    "createdAt": "2026-06-02T12:16:37Z",
+    "stars": 2320,
+    "name": "b-nnett/goose",
+    "url": "https://github.com/b-nnett/goose",
+    "lang": "Rust",
+    "desc": "Goose Swift proof-of-concept README"
+  },
+  {
+    "createdAt": "2026-06-02T03:25:51Z",
+    "stars": 1070,
+    "name": "jd-opensource/JoyAI-Echo",
+    "url": "https://github.com/jd-opensource/JoyAI-Echo",
+    "lang": "Python",
+    "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation"
+  },
+  {
+    "createdAt": "2026-06-01T08:52:27Z",
+    "stars": 606,
+    "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+    "url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-01T12:50:21Z",
+    "stars": 564,
+    "name": "VAST-AI-Research/TripoSplat",
+    "url": "https://github.com/VAST-AI-Research/TripoSplat",
+    "lang": "Python",
+    "desc": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI."
+  },
+  {
+    "createdAt": "2026-06-07T17:03:02Z",
+    "stars": 525,
+    "name": "NoopApp/noop",
+    "url": "https://github.com/NoopApp/noop",
+    "lang": "Swift",
+    "desc": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription."
+  },
+  {
+    "createdAt": "2026-06-03T18:55:02Z",
+    "stars": 514,
+    "name": "tastyeffectco/sandboxd",
+    "url": "https://github.com/tastyeffectco/sandboxd",
+    "lang": "Go",
+    "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
+  },
+  {
+    "createdAt": "2026-06-07T01:16:18Z",
+    "stars": 514,
+    "name": "JimLiu/baoyu-design",
+    "url": "https://github.com/JimLiu/baoyu-design",
+    "lang": "JavaScript",
+    "desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
+  },
+  {
+    "createdAt": "2026-06-01T13:38:37Z",
+    "stars": 491,
+    "name": "tiantianGPU/reg-factory",
+    "url": "https://github.com/tiantianGPU/reg-factory",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-01T10:06:21Z",
+    "stars": 488,
+    "name": "Fullive-AI/Anima",
+    "url": "https://github.com/Fullive-AI/Anima",
+    "lang": "Python",
+    "desc": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence"
+  },
+  {
+    "createdAt": "2026-06-04T05:20:47Z",
+    "stars": 481,
+    "name": "Jane-xiaoer/xiaoer-videolab",
+    "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+    "lang": "JavaScript",
+    "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。"
+  },
+  {
+    "createdAt": "2026-06-06T16:59:27Z",
+    "stars": 466,
+    "name": "amElnagdy/guard-skills",
+    "url": "https://github.com/amElnagdy/guard-skills",
+    "lang": "",
+    "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs"
+  },
+  {
+    "createdAt": "2026-06-04T09:22:03Z",
+    "stars": 445,
+    "name": "zenhosta/9drive",
+    "url": "https://github.com/zenhosta/9drive",
+    "lang": "TypeScript",
+    "desc": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space."
+  },
+  {
+    "createdAt": "2026-06-03T03:26:16Z",
+    "stars": 433,
+    "name": "nevertoday/zhongguo-traditional-colors",
+    "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+    "lang": "JavaScript",
+    "desc": "中华传统色演示、色卡浏览与颜色知识科普开源项目"
+  },
+  {
+    "createdAt": "2026-06-04T07:13:39Z",
+    "stars": 423,
+    "name": "jeff141/meatshell",
+    "url": "https://github.com/jeff141/meatshell",
+    "lang": "Rust",
+    "desc": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）"
+  },
+  {
+    "createdAt": "2026-06-01T08:08:33Z",
+    "stars": 421,
+    "name": "S-Sigdel/vimhjkl",
+    "url": "https://github.com/S-Sigdel/vimhjkl",
+    "lang": "Python",
+    "desc": "learn vim from your terminal with spaced repetition"
+  },
+  {
+    "createdAt": "2026-06-04T13:39:32Z",
+    "stars": 413,
+    "name": "diffusionstudio/lottie",
+    "url": "https://github.com/diffusionstudio/lottie",
+    "lang": "TypeScript",
+    "desc": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code"
+  },
+  {
+    "createdAt": "2026-06-04T07:02:45Z",
+    "stars": 402,
+    "name": "wy51ai/edulab",
+    "url": "https://github.com/wy51ai/edulab",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-07T16:20:13Z",
+    "stars": 373,
+    "name": "GordenSun/GordenSuperPPTSkills",
+    "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+    "lang": "Python",
+    "desc": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。"
+  },
+  {
+    "createdAt": "2026-06-04T00:45:57Z",
+    "stars": 350,
+    "name": "mysk-research/loupe",
+    "url": "https://github.com/mysk-research/loupe",
+    "lang": "",
+    "desc": "A privacy-focused iOS app that raises awareness about what native apps can see"
+  },
+  {
+    "createdAt": "2026-06-02T21:45:25Z",
+    "stars": 329,
+    "name": "SenhorH/tab-labeler",
+    "url": "https://github.com/SenhorH/tab-labeler",
+    "lang": "TypeScript",
+    "desc": "Rename browser tabs locally and bring order to chaotic sessions."
+  },
+  {
+    "createdAt": "2026-06-03T14:19:33Z",
+    "stars": 320,
+    "name": "razr001/align-dev",
+    "url": "https://github.com/razr001/align-dev",
+    "lang": "TypeScript",
+    "desc": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently."
+  },
+  {
+    "createdAt": "2026-06-01T23:51:01Z",
+    "stars": 315,
+    "name": "ConiferKit/sage",
+    "url": "https://github.com/ConiferKit/sage",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-03T06:34:10Z",
+    "stars": 310,
+    "name": "YuvBindal/produck-oss",
+    "url": "https://github.com/YuvBindal/produck-oss",
+    "lang": "",
+    "desc": "Great apps are built on good context"
+  },
+  {
+    "createdAt": "2026-06-06T02:15:35Z",
+    "stars": 310,
+    "name": "Parcle-AI/parcle-memory",
+    "url": "https://github.com/Parcle-AI/parcle-memory",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-04T09:22:35Z",
+    "stars": 302,
+    "name": "rednote-hilab/dots.tts",
+    "url": "https://github.com/rednote-hilab/dots.tts",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-02T19:13:48Z",
+    "stars": 272,
+    "name": "superloglabs/superlog",
+    "url": "https://github.com/superloglabs/superlog",
+    "lang": "TypeScript",
+    "desc": "Open-source observability tool that fixes your bugs"
+  },
+  {
+    "createdAt": "2026-06-02T18:52:29Z",
+    "stars": 262,
+    "name": "ni5arga/deanonymizer",
+    "url": "https://github.com/ni5arga/deanonymizer",
+    "lang": "TypeScript",
+    "desc": "Deanonymize anyone based on their public commenting or posting history & pattern."
+  },
+  {
+    "createdAt": "2026-06-05T08:46:35Z",
+    "stars": 262,
+    "name": "CWS6206/ai-coding-starter-kit",
+    "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+    "lang": "",
+    "desc": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert."
+  },
+  {
+    "createdAt": "2026-06-04T22:36:22Z",
+    "stars": 253,
+    "name": "Unicornronote/Microsoft-Office-Activated",
+    "url": "https://github.com/Unicornronote/Microsoft-Office-Activated",
+    "lang": "C++",
+    "desc": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)"
+  },
+  {
+    "createdAt": "2026-06-02T15:48:56Z",
+    "stars": 252,
+    "name": "torvalds/ScrollWheel",
+    "url": "https://github.com/torvalds/ScrollWheel",
+    "lang": "C",
+    "desc": "Minimalist RP2350 magnetic sensor scroll wheel toy project"
+  },
+  {
+    "createdAt": "2026-06-05T17:38:22Z",
+    "stars": 246,
+    "name": "FerroxLabs/wayland",
+    "url": "https://github.com/FerroxLabs/wayland",
+    "lang": "TypeScript",
+    "desc": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves."
+  },
+  {
+    "createdAt": "2026-06-01T07:20:50Z",
+    "stars": 240,
+    "name": "zarazhangrui/beautiful-feishu-whiteboard",
+    "url": "https://github.com/zarazhangrui/beautiful-feishu-whiteboard",
+    "lang": "Shell",
+    "desc": "35 curated colour palette styles for building beautiful, editable Feishu / Lark (飞书) whiteboards. An agent skill."
+  },
+  {
+    "createdAt": "2026-06-03T14:32:02Z",
+    "stars": 234,
+    "name": "Albert-Weasker/niubi_guard",
+    "url": "https://github.com/Albert-Weasker/niubi_guard",
+    "lang": "TypeScript",
+    "desc": "Open-source GitHub repository abuse detection and response system."
+  },
+  {
+    "createdAt": "2026-06-02T16:27:24Z",
+    "stars": 233,
+    "name": "openai/role-specific-plugins",
+    "url": "https://github.com/openai/role-specific-plugins",
+    "lang": "Python",
+    "desc": "Role-specific Codex plugin templates"
+  },
+  {
+    "createdAt": "2026-06-06T09:33:31Z",
+    "stars": 231,
+    "name": "IvanSobolev/Neo3dEngine",
+    "url": "https://github.com/IvanSobolev/Neo3dEngine",
+    "lang": "C#",
+    "desc": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs."
+  },
+  {
+    "createdAt": "2026-06-07T15:45:48Z",
+    "stars": 226,
+    "name": "vorpus/performativeUI",
+    "url": "https://github.com/vorpus/performativeUI",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-02T02:49:30Z",
+    "stars": 224,
+    "name": "zonghaoyuan/infiplot",
+    "url": "https://github.com/zonghaoyuan/infiplot",
+    "lang": "TypeScript",
+    "desc": "InfiPlot is the world's first interactive plot game that AI generates all text and images in real-time. InfiPlot是全球首个由 AI 实时生成全部图文内容的交互式剧情游戏"
+  },
+  {
+    "createdAt": "2026-06-07T07:57:03Z",
+    "stars": 205,
+    "name": "JFGAtlas/aethergate-pro",
+    "url": "https://github.com/JFGAtlas/aethergate-pro",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-01T16:00:11Z",
+    "stars": 200,
+    "name": "arinltte/latte",
+    "url": "https://github.com/arinltte/latte",
+    "lang": "Swift",
+    "desc": "Just Download Anything."
+  },
+  {
+    "createdAt": "2026-06-02T05:08:08Z",
+    "stars": 198,
+    "name": "Soul-AILab/SoulX-Transcriber",
+    "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
+    "lang": "Python",
+    "desc": "An end-to-end framework for multi-speaker transcription that jointly models who spoke, when, and what."
+  },
+  {
+    "createdAt": "2026-06-02T23:15:18Z",
+    "stars": 198,
+    "name": "zaydmulani09/mnemo",
+    "url": "https://github.com/zaydmulani09/mnemo",
+    "lang": "Rust",
+    "desc": "Local-first AI memory layer for any LLM. Persistent knowledge graph, entity extraction, semantic retrieval. Works with Ollama, OpenAI, Anthropic, or any OpenAI-compatible backend."
+  },
+  {
+    "createdAt": "2026-06-05T07:56:54Z",
+    "stars": 194,
+    "name": "hoolulu/deep-research",
+    "url": "https://github.com/hoolulu/deep-research",
+    "lang": "Python",
+    "desc": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages"
+  },
+  {
+    "createdAt": "2026-06-05T14:36:47Z",
+    "stars": 190,
+    "name": "lbq110/weread-exporter",
+    "url": "https://github.com/lbq110/weread-exporter",
+    "lang": "Python",
+    "desc": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown"
+  },
+  {
+    "createdAt": "2026-06-04T18:41:57Z",
+    "stars": 185,
+    "name": "cellebrite-labs/ghidra-rpc",
+    "url": "https://github.com/cellebrite-labs/ghidra-rpc",
+    "lang": "Python",
+    "desc": "A Ghidra agentic reverse engineering skill."
+  },
+  {
+    "createdAt": "2026-06-04T03:17:56Z",
+    "stars": 180,
+    "name": "Jasionf/smart-home-button",
+    "url": "https://github.com/Jasionf/smart-home-button",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-03T04:22:11Z",
+    "stars": 178,
+    "name": "GalaxyGeneralRobotics/Humanoid-GPT",
+    "url": "https://github.com/GalaxyGeneralRobotics/Humanoid-GPT",
+    "lang": "Python",
+    "desc": "[CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking"
+  },
+  {
+    "createdAt": "2026-06-07T09:58:06Z",
+    "stars": 178,
+    "name": "beijingcao/binance-deribit-btc",
+    "url": "https://github.com/beijingcao/binance-deribit-btc",
+    "lang": "Python",
+    "desc": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard."
+  },
+  {
+    "createdAt": "2026-06-01T06:05:17Z",
+    "stars": 177,
+    "name": "MiniMax-AI/MiniMax-M3",
+    "url": "https://github.com/MiniMax-AI/MiniMax-M3",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-06T03:01:49Z",
+    "stars": 176,
+    "name": "yuzhworkhard-wq/image-to-code",
+    "url": "https://github.com/yuzhworkhard-wq/image-to-code",
+    "lang": "Python",
+    "desc": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing"
+  }
+]
