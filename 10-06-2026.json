@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-06-04T13:39:32Z",
+    "stars": 2015,
+    "name": "diffusionstudio/lottie",
+    "url": "https://github.com/diffusionstudio/lottie",
+    "lang": "TypeScript",
+    "desc": "Generate production-ready Lottie animations with Claude Code or Codex"
+  },
+  {
+    "createdAt": "2026-06-07T17:03:02Z",
+    "stars": 1387,
+    "name": "NoopApp/noop",
+    "url": "https://github.com/NoopApp/noop",
+    "lang": "Swift",
+    "desc": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription."
+  },
+  {
+    "createdAt": "2026-06-03T03:26:16Z",
+    "stars": 897,
+    "name": "nevertoday/zhongguo-traditional-colors",
+    "url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+    "lang": "JavaScript",
+    "desc": "中华传统色演示、色卡浏览与颜色知识科普开源项目"
+  },
+  {
+    "createdAt": "2026-06-09T19:10:18Z",
+    "stars": 887,
+    "name": "MSNightmare/RoguePlanet",
+    "url": "https://github.com/MSNightmare/RoguePlanet",
+    "lang": "C++",
+    "desc": "RoguePlanet Windows Defender Vulnerability"
+  },
+  {
+    "createdAt": "2026-06-10T11:06:58Z",
+    "stars": 792,
+    "name": "shadcn/improve",
+    "url": "https://github.com/shadcn/improve",
+    "lang": "",
+    "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
+  },
+  {
+    "createdAt": "2026-06-07T16:20:13Z",
+    "stars": 726,
+    "name": "GordenSun/GordenSuperPPTSkills",
+    "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+    "lang": "Python",
+    "desc": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。"
+  },
+  {
+    "createdAt": "2026-06-07T01:16:18Z",
+    "stars": 682,
+    "name": "JimLiu/baoyu-design",
+    "url": "https://github.com/JimLiu/baoyu-design",
+    "lang": "JavaScript",
+    "desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
+  },
+  {
+    "createdAt": "2026-06-08T04:32:27Z",
+    "stars": 610,
+    "name": "apple/coreai-models",
+    "url": "https://github.com/apple/coreai-models",
+    "lang": "Python",
+    "desc": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI"
+  },
+  {
+    "createdAt": "2026-06-07T15:45:48Z",
+    "stars": 567,
+    "name": "vorpus/performativeUI",
+    "url": "https://github.com/vorpus/performativeUI",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-03T18:55:02Z",
+    "stars": 561,
+    "name": "tastyeffectco/sandboxd",
+    "url": "https://github.com/tastyeffectco/sandboxd",
+    "lang": "Go",
+    "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories"
+  },
+  {
+    "createdAt": "2026-06-06T16:59:27Z",
+    "stars": 549,
+    "name": "amElnagdy/guard-skills",
+    "url": "https://github.com/amElnagdy/guard-skills",
+    "lang": "",
+    "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs"
+  },
+  {
+    "createdAt": "2026-06-04T07:13:39Z",
+    "stars": 523,
+    "name": "jeff141/meatshell",
+    "url": "https://github.com/jeff141/meatshell",
+    "lang": "Rust",
+    "desc": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）"
+  },
+  {
+    "createdAt": "2026-06-04T05:20:47Z",
+    "stars": 502,
+    "name": "Jane-xiaoer/xiaoer-videolab",
+    "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+    "lang": "JavaScript",
+    "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。"
+  },
+  {
+    "createdAt": "2026-06-04T09:22:03Z",
+    "stars": 491,
+    "name": "zenhosta/9drive",
+    "url": "https://github.com/zenhosta/9drive",
+    "lang": "TypeScript",
+    "desc": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space."
+  },
+  {
+    "createdAt": "2026-06-04T07:02:45Z",
+    "stars": 476,
+    "name": "wy51ai/edulab",
+    "url": "https://github.com/wy51ai/edulab",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-08T09:55:55Z",
+    "stars": 440,
+    "name": "xiaohuailabs/xiaohu-video-translate",
+    "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+    "lang": "Python",
+    "desc": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费"
+  },
+  {
+    "createdAt": "2026-06-04T00:45:57Z",
+    "stars": 439,
+    "name": "mysk-research/loupe",
+    "url": "https://github.com/mysk-research/loupe",
+    "lang": "",
+    "desc": "A privacy-focused iOS app that raises awareness about what native apps can see"
+  },
+  {
+    "createdAt": "2026-06-04T09:22:35Z",
+    "stars": 432,
+    "name": "rednote-hilab/dots.tts",
+    "url": "https://github.com/rednote-hilab/dots.tts",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-08T12:29:36Z",
+    "stars": 428,
+    "name": "Tencent-Hunyuan/UniRL",
+    "url": "https://github.com/Tencent-Hunyuan/UniRL",
+    "lang": "Python",
+    "desc": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
+  },
+  {
+    "createdAt": "2026-06-06T09:33:31Z",
+    "stars": 395,
+    "name": "IvanSobolev/Neo3dEngine",
+    "url": "https://github.com/IvanSobolev/Neo3dEngine",
+    "lang": "C#",
+    "desc": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs."
+  },
+  {
+    "createdAt": "2026-06-03T14:19:33Z",
+    "stars": 383,
+    "name": "razr001/align-dev",
+    "url": "https://github.com/razr001/align-dev",
+    "lang": "TypeScript",
+    "desc": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently."
+  },
+  {
+    "createdAt": "2026-06-06T02:15:35Z",
+    "stars": 375,
+    "name": "Parcle-AI/parcle-memory",
+    "url": "https://github.com/Parcle-AI/parcle-memory",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-03T06:34:10Z",
+    "stars": 371,
+    "name": "YuvBindal/produck-oss",
+    "url": "https://github.com/YuvBindal/produck-oss",
+    "lang": "",
+    "desc": "Great apps are built on good context"
+  },
+  {
+    "createdAt": "2026-06-05T17:38:22Z",
+    "stars": 367,
+    "name": "FerroxLabs/wayland",
+    "url": "https://github.com/FerroxLabs/wayland",
+    "lang": "TypeScript",
+    "desc": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves."
+  },
+  {
+    "createdAt": "2026-06-03T19:16:55Z",
+    "stars": 340,
+    "name": "wizenheimer/canary",
+    "url": "https://github.com/wizenheimer/canary",
+    "lang": "TypeScript",
+    "desc": "QA harness built for Claude Code | E2E testing with screen recordings, console logs, network HARs, and Playwright traces"
+  },
+  {
+    "createdAt": "2026-06-07T07:57:03Z",
+    "stars": 330,
+    "name": "JFGAtlas/aethergate-pro",
+    "url": "https://github.com/JFGAtlas/aethergate-pro",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-09T11:05:36Z",
+    "stars": 322,
+    "name": "jmmy9609-design/gpt-pp",
+    "url": "https://github.com/jmmy9609-design/gpt-pp",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-08T19:39:09Z",
+    "stars": 298,
+    "name": "secret-tools/secret-tool",
+    "url": "https://github.com/secret-tools/secret-tool",
+    "lang": "",
+    "desc": "Secret-Tools — classified discord utilities. Star the repo."
+  },
+  {
+    "createdAt": "2026-06-05T07:56:54Z",
+    "stars": 269,
+    "name": "hoolulu/deep-research",
+    "url": "https://github.com/hoolulu/deep-research",
+    "lang": "Python",
+    "desc": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages"
+  },
+  {
+    "createdAt": "2026-06-07T15:33:07Z",
+    "stars": 265,
+    "name": "ziqihe10-droid/xuefeng-agent",
+    "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
+    "lang": "Python",
+    "desc": "AI 高考志愿顾问 — 会追问、会分析、敢说真话"
+  },
+  {
+    "createdAt": "2026-06-05T08:46:35Z",
+    "stars": 263,
+    "name": "CWS6206/ai-coding-starter-kit",
+    "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+    "lang": "",
+    "desc": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert."
+  },
+  {
+    "createdAt": "2026-06-03T14:32:02Z",
+    "stars": 256,
+    "name": "Albert-Weasker/niubi_guard",
+    "url": "https://github.com/Albert-Weasker/niubi_guard",
+    "lang": "TypeScript",
+    "desc": "Open-source GitHub repository abuse detection and response system."
+  },
+  {
+    "createdAt": "2026-06-10T11:52:41Z",
+    "stars": 245,
+    "name": "XiaomiMiMo/MiMo-Code",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-04T18:43:16Z",
+    "stars": 238,
+    "name": "PlummersSoftwareLLC/TinyRetroPad",
+    "url": "https://github.com/PlummersSoftwareLLC/TinyRetroPad",
+    "lang": "Assembly",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-06T03:43:20Z",
+    "stars": 235,
+    "name": "tryproduck/produck-oss",
+    "url": "https://github.com/tryproduck/produck-oss",
+    "lang": "",
+    "desc": "Helping startups accelerate PMF"
+  },
+  {
+    "createdAt": "2026-06-08T19:41:04Z",
+    "stars": 226,
+    "name": "NuvioMedia/NuvioDesktop",
+    "url": "https://github.com/NuvioMedia/NuvioDesktop",
+    "lang": "Kotlin",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-07T15:45:23Z",
+    "stars": 224,
+    "name": "jwangkun/claude-for-financial-services-cn",
+    "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+    "lang": "Python",
+    "desc": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。"
+  },
+  {
+    "createdAt": "2026-06-07T09:58:06Z",
+    "stars": 221,
+    "name": "beijingcao/binance-deribit-btc",
+    "url": "https://github.com/beijingcao/binance-deribit-btc",
+    "lang": "Python",
+    "desc": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard."
+  },
+  {
+    "createdAt": "2026-06-05T14:36:47Z",
+    "stars": 207,
+    "name": "lbq110/weread-exporter",
+    "url": "https://github.com/lbq110/weread-exporter",
+    "lang": "Python",
+    "desc": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown"
+  },
+  {
+    "createdAt": "2026-06-03T11:33:33Z",
+    "stars": 207,
+    "name": "AI272/speaker",
+    "url": "https://github.com/AI272/speaker",
+    "lang": "Python",
+    "desc": "Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area."
+  },
+  {
+    "createdAt": "2026-06-03T04:22:11Z",
+    "stars": 204,
+    "name": "GalaxyGeneralRobotics/Humanoid-GPT",
+    "url": "https://github.com/GalaxyGeneralRobotics/Humanoid-GPT",
+    "lang": "Python",
+    "desc": "[CVPR 2026] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking"
+  },
+  {
+    "createdAt": "2026-06-06T15:09:20Z",
+    "stars": 202,
+    "name": "yux1azhengye/BestSerenitySkillFromAT",
+    "url": "https://github.com/yux1azhengye/BestSerenitySkillFromAT",
+    "lang": "",
+    "desc": "BestSerenityFromAT(AlphaTerminal On The Way)"
+  },
+  {
+    "createdAt": "2026-06-09T03:46:34Z",
+    "stars": 195,
+    "name": "valkor-ai/loom",
+    "url": "https://github.com/valkor-ai/loom",
+    "lang": "TypeScript",
+    "desc": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems."
+  },
+  {
+    "createdAt": "2026-06-06T21:09:56Z",
+    "stars": 193,
+    "name": "adamallcock/codex-chatgpt-control",
+    "url": "https://github.com/adamallcock/codex-chatgpt-control",
+    "lang": "JavaScript",
+    "desc": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions"
+  },
+  {
+    "createdAt": "2026-06-04T06:47:10Z",
+    "stars": 193,
+    "name": "mikubaka88/CCFA-Skills",
+    "url": "https://github.com/mikubaka88/CCFA-Skills",
+    "lang": "TeX",
+    "desc": "A skill family for shaping the research storyline of CCF-A papers."
+  },
+  {
+    "createdAt": "2026-06-06T03:01:49Z",
+    "stars": 191,
+    "name": "yuzhworkhard-wq/image-to-code",
+    "url": "https://github.com/yuzhworkhard-wq/image-to-code",
+    "lang": "Python",
+    "desc": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing"
+  },
+  {
+    "createdAt": "2026-06-07T08:48:55Z",
+    "stars": 189,
+    "name": "TwoSevenOneT/EDRChoker",
+    "url": "https://github.com/TwoSevenOneT/EDRChoker",
+    "lang": "C#",
+    "desc": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server."
+  },
+  {
+    "createdAt": "2026-06-04T18:41:57Z",
+    "stars": 188,
+    "name": "cellebrite-labs/ghidra-rpc",
+    "url": "https://github.com/cellebrite-labs/ghidra-rpc",
+    "lang": "Python",
+    "desc": "A Ghidra agentic reverse engineering skill."
+  },
+  {
+    "createdAt": "2026-06-04T03:17:56Z",
+    "stars": 188,
+    "name": "Jasionf/smart-home-button",
+    "url": "https://github.com/Jasionf/smart-home-button",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-03T16:40:25Z",
+    "stars": 184,
+    "name": "PoliticianEncoder/WallpaperDownloader-Version-Pro-2",
+    "url": "https://github.com/PoliticianEncoder/WallpaperDownloader-Version-Pro-2",
+    "lang": "",
+    "desc": "A complete community suite for organizing, building, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience."
+  }
+]
