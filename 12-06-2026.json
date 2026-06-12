@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-06-10T11:52:41Z",
+    "stars": 6745,
+    "name": "XiaomiMiMo/MiMo-Code",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-10T11:06:58Z",
+    "stars": 2408,
+    "name": "shadcn/improve",
+    "url": "https://github.com/shadcn/improve",
+    "lang": "",
+    "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
+  },
+  {
+    "createdAt": "2026-06-07T17:03:02Z",
+    "stars": 1539,
+    "name": "NoopApp/noop",
+    "url": "https://github.com/NoopApp/noop",
+    "lang": "Swift",
+    "desc": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription."
+  },
+  {
+    "createdAt": "2026-06-09T19:10:18Z",
+    "stars": 1213,
+    "name": "MSNightmare/RoguePlanet",
+    "url": "https://github.com/MSNightmare/RoguePlanet",
+    "lang": "C++",
+    "desc": "RoguePlanet Windows Defender Vulnerability"
+  },
+  {
+    "createdAt": "2026-06-12T00:52:37Z",
+    "stars": 892,
+    "name": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "lang": "JavaScript",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+  },
+  {
+    "createdAt": "2026-06-07T16:20:13Z",
+    "stars": 842,
+    "name": "GordenSun/GordenSuperPPTSkills",
+    "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+    "lang": "Python",
+    "desc": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。"
+  },
+  {
+    "createdAt": "2026-06-07T01:16:18Z",
+    "stars": 828,
+    "name": "JimLiu/baoyu-design",
+    "url": "https://github.com/JimLiu/baoyu-design",
+    "lang": "JavaScript",
+    "desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8."
+  },
+  {
+    "createdAt": "2026-06-08T04:32:27Z",
+    "stars": 827,
+    "name": "apple/coreai-models",
+    "url": "https://github.com/apple/coreai-models",
+    "lang": "Swift",
+    "desc": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI"
+  },
+  {
+    "createdAt": "2026-06-07T15:45:48Z",
+    "stars": 660,
+    "name": "vorpus/performativeUI",
+    "url": "https://github.com/vorpus/performativeUI",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-06T16:59:27Z",
+    "stars": 598,
+    "name": "amElnagdy/guard-skills",
+    "url": "https://github.com/amElnagdy/guard-skills",
+    "lang": "",
+    "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs"
+  },
+  {
+    "createdAt": "2026-06-08T12:29:36Z",
+    "stars": 550,
+    "name": "Tencent-Hunyuan/UniRL",
+    "url": "https://github.com/Tencent-Hunyuan/UniRL",
+    "lang": "Python",
+    "desc": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning"
+  },
+  {
+    "createdAt": "2026-06-08T09:55:55Z",
+    "stars": 480,
+    "name": "xiaohuailabs/xiaohu-video-translate",
+    "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+    "lang": "Python",
+    "desc": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费"
+  },
+  {
+    "createdAt": "2026-06-10T13:23:39Z",
+    "stars": 466,
+    "name": "SkyBlue997/enableMacosAI",
+    "url": "https://github.com/SkyBlue997/enableMacosAI",
+    "lang": "Shell",
+    "desc": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon"
+  },
+  {
+    "createdAt": "2026-06-06T09:33:31Z",
+    "stars": 450,
+    "name": "IvanSobolev/Neo3dEngine",
+    "url": "https://github.com/IvanSobolev/Neo3dEngine",
+    "lang": "C#",
+    "desc": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs."
+  },
+  {
+    "createdAt": "2026-06-09T23:24:51Z",
+    "stars": 447,
+    "name": "plannotator/effective-html",
+    "url": "https://github.com/plannotator/effective-html",
+    "lang": "HTML",
+    "desc": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of."
+  },
+  {
+    "createdAt": "2026-06-07T15:45:23Z",
+    "stars": 423,
+    "name": "jwangkun/claude-for-financial-services-cn",
+    "url": "https://github.com/jwangkun/claude-for-financial-services-cn",
+    "lang": "Python",
+    "desc": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。"
+  },
+  {
+    "createdAt": "2026-06-11T01:03:12Z",
+    "stars": 415,
+    "name": "MSNightmare/GreatXML",
+    "url": "https://github.com/MSNightmare/GreatXML",
+    "lang": "",
+    "desc": "GreatXML bitlocker bypass vulnerability"
+  },
+  {
+    "createdAt": "2026-06-06T02:15:35Z",
+    "stars": 410,
+    "name": "Parcle-AI/parcle-memory",
+    "url": "https://github.com/Parcle-AI/parcle-memory",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-05T17:38:22Z",
+    "stars": 401,
+    "name": "FerroxLabs/wayland",
+    "url": "https://github.com/FerroxLabs/wayland",
+    "lang": "TypeScript",
+    "desc": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves."
+  },
+  {
+    "createdAt": "2026-06-10T05:55:59Z",
+    "stars": 399,
+    "name": "levy-street/world-of-claudecraft",
+    "url": "https://github.com/levy-street/world-of-claudecraft",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-07T15:33:07Z",
+    "stars": 388,
+    "name": "ziqihe10-droid/xuefeng-agent",
+    "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
+    "lang": "HTML",
+    "desc": "AI 高考志愿顾问 — 会追问、会分析、敢说真话"
+  },
+  {
+    "createdAt": "2026-06-09T18:11:45Z",
+    "stars": 386,
+    "name": "khrisat/text-humanizer",
+    "url": "https://github.com/khrisat/text-humanizer",
+    "lang": "Python",
+    "desc": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services."
+  },
+  {
+    "createdAt": "2026-06-09T11:05:36Z",
+    "stars": 374,
+    "name": "jmmy9609-design/gpt-pp",
+    "url": "https://github.com/jmmy9609-design/gpt-pp",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-07T07:57:03Z",
+    "stars": 345,
+    "name": "JFGAtlas/aethergate-pro",
+    "url": "https://github.com/JFGAtlas/aethergate-pro",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-08T19:39:09Z",
+    "stars": 329,
+    "name": "secret-tools/secret-tool",
+    "url": "https://github.com/secret-tools/secret-tool",
+    "lang": "",
+    "desc": "Secret-Tools — classified discord utilities. Star the repo."
+  },
+  {
+    "createdAt": "2026-06-06T15:09:20Z",
+    "stars": 326,
+    "name": "yux1azhengye/BestSerenitySkillFromAT",
+    "url": "https://github.com/yux1azhengye/BestSerenitySkillFromAT",
+    "lang": "",
+    "desc": "BestSerenityFromAT(AlphaTerminal On The Way)"
+  },
+  {
+    "createdAt": "2026-06-05T07:56:54Z",
+    "stars": 305,
+    "name": "hoolulu/deep-research",
+    "url": "https://github.com/hoolulu/deep-research",
+    "lang": "Python",
+    "desc": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages"
+  },
+  {
+    "createdAt": "2026-06-11T15:10:51Z",
+    "stars": 296,
+    "name": "joeseesun/qiaomu-goal-meta-skill",
+    "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+    "lang": "Python",
+    "desc": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide"
+  },
+  {
+    "createdAt": "2026-06-08T19:41:04Z",
+    "stars": 291,
+    "name": "NuvioMedia/NuvioDesktop",
+    "url": "https://github.com/NuvioMedia/NuvioDesktop",
+    "lang": "Kotlin",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-08T13:30:36Z",
+    "stars": 275,
+    "name": "XBuilderLAB/cheat-on-money",
+    "url": "https://github.com/XBuilderLAB/cheat-on-money",
+    "lang": "JavaScript",
+    "desc": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环"
+  },
+  {
+    "createdAt": "2026-06-09T16:46:40Z",
+    "stars": 274,
+    "name": "Danilaa1/slot-text",
+    "url": "https://github.com/Danilaa1/slot-text",
+    "lang": "TypeScript",
+    "desc": "Dependency-free text roll animation for vanilla JS, React, and Vue."
+  },
+  {
+    "createdAt": "2026-06-06T03:43:20Z",
+    "stars": 266,
+    "name": "tryproduck/produck-oss",
+    "url": "https://github.com/tryproduck/produck-oss",
+    "lang": "",
+    "desc": "Helping startups accelerate PMF"
+  },
+  {
+    "createdAt": "2026-06-10T01:53:01Z",
+    "stars": 265,
+    "name": "coder/boo",
+    "url": "https://github.com/coder/boo",
+    "lang": "Zig",
+    "desc": "A GNU screen style terminal multiplexer built on libghostty."
+  },
+  {
+    "createdAt": "2026-06-10T16:04:20Z",
+    "stars": 264,
+    "name": "BuilderIO/skills",
+    "url": "https://github.com/BuilderIO/skills",
+    "lang": "JavaScript",
+    "desc": "Skills for coding agents"
+  },
+  {
+    "createdAt": "2026-06-05T08:46:35Z",
+    "stars": 261,
+    "name": "CWS6206/ai-coding-starter-kit",
+    "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+    "lang": "",
+    "desc": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert."
+  },
+  {
+    "createdAt": "2026-06-05T00:26:33Z",
+    "stars": 254,
+    "name": "visa/visa-vulnerability-agentic-harness",
+    "url": "https://github.com/visa/visa-vulnerability-agentic-harness",
+    "lang": "Python",
+    "desc": "Visa Vulnerability Agentic Harness"
+  },
+  {
+    "createdAt": "2026-06-09T03:46:34Z",
+    "stars": 247,
+    "name": "valkor-ai/loom",
+    "url": "https://github.com/valkor-ai/loom",
+    "lang": "TypeScript",
+    "desc": "Loop engineering for agentic software delivery."
+  },
+  {
+    "createdAt": "2026-06-07T09:58:06Z",
+    "stars": 235,
+    "name": "beijingcao/binance-deribit-btc",
+    "url": "https://github.com/beijingcao/binance-deribit-btc",
+    "lang": "Python",
+    "desc": "Binance and Deribit BTC cross-exchange arbitrage bot with Redis state recovery, Telegram alerts, and a Flask monitoring dashboard."
+  },
+  {
+    "createdAt": "2026-06-07T08:48:55Z",
+    "stars": 218,
+    "name": "TwoSevenOneT/EDRChoker",
+    "url": "https://github.com/TwoSevenOneT/EDRChoker",
+    "lang": "C#",
+    "desc": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server."
+  },
+  {
+    "createdAt": "2026-06-05T14:36:47Z",
+    "stars": 213,
+    "name": "lbq110/weread-exporter",
+    "url": "https://github.com/lbq110/weread-exporter",
+    "lang": "Python",
+    "desc": "微信读书全本导出工具 — Playwright + Canvas Hook 提取完整书籍内容为 Markdown"
+  },
+  {
+    "createdAt": "2026-06-05T07:34:28Z",
+    "stars": 212,
+    "name": "iampedii/WhiteDNS-Wizard",
+    "url": "https://github.com/iampedii/WhiteDNS-Wizard",
+    "lang": "Go",
+    "desc": "Cloudflare-first WhiteDNS CLI/TUI for provisioning a managed 3x-ui/Xray VPN stack over SSH, with DNS, certificates, client import links, Tor-routed profiles, diagnostics, backups, and repair/reset flows."
+  },
+  {
+    "createdAt": "2026-06-06T21:09:56Z",
+    "stars": 209,
+    "name": "adamallcock/codex-chatgpt-control",
+    "url": "https://github.com/adamallcock/codex-chatgpt-control",
+    "lang": "JavaScript",
+    "desc": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions"
+  },
+  {
+    "createdAt": "2026-06-11T09:20:28Z",
+    "stars": 208,
+    "name": "MiniMax-AI/MSA",
+    "url": "https://github.com/MiniMax-AI/MSA",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-10T16:31:48Z",
+    "stars": 206,
+    "name": "inbrainfun/inbrain",
+    "url": "https://github.com/inbrainfun/inbrain",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-10T01:01:42Z",
+    "stars": 203,
+    "name": "alchaincyf/fanbox",
+    "url": "https://github.com/alchaincyf/fanbox",
+    "lang": "JavaScript",
+    "desc": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between."
+  },
+  {
+    "createdAt": "2026-06-06T03:01:49Z",
+    "stars": 197,
+    "name": "yuzhworkhard-wq/image-to-code",
+    "url": "https://github.com/yuzhworkhard-wq/image-to-code",
+    "lang": "Python",
+    "desc": "Codex skill for 750px image-to-code reconstruction and transparent PNG slicing"
+  },
+  {
+    "createdAt": "2026-06-06T10:30:50Z",
+    "stars": 196,
+    "name": "12britz/awesome-free-models",
+    "url": "https://github.com/12britz/awesome-free-models",
+    "lang": "",
+    "desc": "A curated list of free AI models, APIs, and tools you can use without paying a cent."
+  },
+  {
+    "createdAt": "2026-06-05T00:51:06Z",
+    "stars": 192,
+    "name": "chaseai-yt/grill-me-codex",
+    "url": "https://github.com/chaseai-yt/grill-me-codex",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-05T14:22:25Z",
+    "stars": 190,
+    "name": "wechat-miniprogram/ai-mode-demo",
+    "url": "https://github.com/wechat-miniprogram/ai-mode-demo",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-12T13:17:07Z",
+    "stars": 180,
+    "name": "lenucksi/aur-malware-check",
+    "url": "https://github.com/lenucksi/aur-malware-check",
+    "lang": "Shell",
+    "desc": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists."
+  }
+]
