@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-06-12T00:52:37Z",
+    "stars": 24490,
+    "name": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "lang": "JavaScript",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+  },
+  {
+    "createdAt": "2026-06-10T11:52:41Z",
+    "stars": 9358,
+    "name": "XiaomiMiMo/MiMo-Code",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-10T11:06:58Z",
+    "stars": 5007,
+    "name": "shadcn/improve",
+    "url": "https://github.com/shadcn/improve",
+    "lang": "",
+    "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
+  },
+  {
+    "createdAt": "2026-06-11T12:18:13Z",
+    "stars": 2749,
+    "name": "omnigent-ai/omnigent",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "lang": "Python",
+    "desc": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device."
+  },
+  {
+    "createdAt": "2026-06-14T11:21:55Z",
+    "stars": 1751,
+    "name": "tamnd/kage",
+    "url": "https://github.com/tamnd/kage",
+    "lang": "Go",
+    "desc": "Shadow any website for offline viewing, with the JavaScript stripped out"
+  },
+  {
+    "createdAt": "2026-06-12T13:17:07Z",
+    "stars": 1338,
+    "name": "lenucksi/aur-malware-check",
+    "url": "https://github.com/lenucksi/aur-malware-check",
+    "lang": "Shell",
+    "desc": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists."
+  },
+  {
+    "createdAt": "2026-06-10T13:23:39Z",
+    "stars": 1335,
+    "name": "SkyBlue997/enableMacosAI",
+    "url": "https://github.com/SkyBlue997/enableMacosAI",
+    "lang": "Shell",
+    "desc": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon"
+  },
+  {
+    "createdAt": "2026-06-09T19:10:18Z",
+    "stars": 1294,
+    "name": "MSNightmare/RoguePlanet",
+    "url": "https://github.com/MSNightmare/RoguePlanet",
+    "lang": "C++",
+    "desc": "RoguePlanet Windows Defender Vulnerability"
+  },
+  {
+    "createdAt": "2026-06-09T23:24:51Z",
+    "stars": 989,
+    "name": "plannotator/effective-html",
+    "url": "https://github.com/plannotator/effective-html",
+    "lang": "HTML",
+    "desc": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of."
+  },
+  {
+    "createdAt": "2026-06-10T05:55:59Z",
+    "stars": 867,
+    "name": "levy-street/world-of-claudecraft",
+    "url": "https://github.com/levy-street/world-of-claudecraft",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-13T08:32:39Z",
+    "stars": 795,
+    "name": "EEliberto/IPA-Download",
+    "url": "https://github.com/EEliberto/IPA-Download",
+    "lang": "Swift",
+    "desc": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。"
+  },
+  {
+    "createdAt": "2026-06-11T06:05:29Z",
+    "stars": 767,
+    "name": "loc567/loc567",
+    "url": "https://github.com/loc567/loc567",
+    "lang": "C",
+    "desc": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com"
+  },
+  {
+    "createdAt": "2026-06-12T21:45:48Z",
+    "stars": 717,
+    "name": "orange2ai/renwei-writing",
+    "url": "https://github.com/orange2ai/renwei-writing",
+    "lang": "",
+    "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them"
+  },
+  {
+    "createdAt": "2026-06-09T16:46:40Z",
+    "stars": 714,
+    "name": "Danilaa1/slot-text",
+    "url": "https://github.com/Danilaa1/slot-text",
+    "lang": "TypeScript",
+    "desc": "Dependency-free text roll animation for vanilla JS, React, and Vue."
+  },
+  {
+    "createdAt": "2026-06-10T01:53:01Z",
+    "stars": 637,
+    "name": "coder/boo",
+    "url": "https://github.com/coder/boo",
+    "lang": "Zig",
+    "desc": "A GNU screen style terminal multiplexer built on libghostty."
+  },
+  {
+    "createdAt": "2026-06-11T15:10:51Z",
+    "stars": 630,
+    "name": "joeseesun/qiaomu-goal-meta-skill",
+    "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+    "lang": "Python",
+    "desc": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide"
+  },
+  {
+    "createdAt": "2026-06-10T01:01:42Z",
+    "stars": 604,
+    "name": "alchaincyf/fanbox",
+    "url": "https://github.com/alchaincyf/fanbox",
+    "lang": "JavaScript",
+    "desc": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between."
+  },
+  {
+    "createdAt": "2026-06-12T04:25:17Z",
+    "stars": 591,
+    "name": "nolangz/pixel2motion",
+    "url": "https://github.com/nolangz/pixel2motion",
+    "lang": "Python",
+    "desc": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence."
+  },
+  {
+    "createdAt": "2026-06-12T15:25:43Z",
+    "stars": 505,
+    "name": "vorssaint/vorssaint-utils",
+    "url": "https://github.com/vorssaint/vorssaint-utils",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-11T01:03:12Z",
+    "stars": 505,
+    "name": "MSNightmare/GreatXML",
+    "url": "https://github.com/MSNightmare/GreatXML",
+    "lang": "",
+    "desc": "GreatXML bitlocker bypass vulnerability"
+  },
+  {
+    "createdAt": "2026-06-10T16:04:20Z",
+    "stars": 484,
+    "name": "BuilderIO/skills",
+    "url": "https://github.com/BuilderIO/skills",
+    "lang": "JavaScript",
+    "desc": "Skills for coding agents"
+  },
+  {
+    "createdAt": "2026-06-12T01:54:12Z",
+    "stars": 483,
+    "name": "DanMcInerney/architect-loop",
+    "url": "https://github.com/DanMcInerney/architect-loop",
+    "lang": "HTML",
+    "desc": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop"
+  },
+  {
+    "createdAt": "2026-06-12T16:07:27Z",
+    "stars": 483,
+    "name": "SunJaycy/GoldenEye-Recomp",
+    "url": "https://github.com/SunJaycy/GoldenEye-Recomp",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-15T05:27:07Z",
+    "stars": 459,
+    "name": "alchaincyf/loop-engineering-orange-book",
+    "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+    "lang": "",
+    "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free."
+  },
+  {
+    "createdAt": "2026-06-12T14:55:53Z",
+    "stars": 445,
+    "name": "fguzman82/gateGPT",
+    "url": "https://github.com/fguzman82/gateGPT",
+    "lang": "Verilog",
+    "desc": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second."
+  },
+  {
+    "createdAt": "2026-06-13T05:33:14Z",
+    "stars": 431,
+    "name": "mrtooher/fable-mode",
+    "url": "https://github.com/mrtooher/fable-mode",
+    "lang": "",
+    "desc": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification."
+  },
+  {
+    "createdAt": "2026-06-09T11:05:36Z",
+    "stars": 396,
+    "name": "jmmy9609-design/gpt-pp",
+    "url": "https://github.com/jmmy9609-design/gpt-pp",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-10T16:31:48Z",
+    "stars": 391,
+    "name": "inbrainfun/inbrain",
+    "url": "https://github.com/inbrainfun/inbrain",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-14T04:12:26Z",
+    "stars": 387,
+    "name": "royalbhati/sqltoerdiagram",
+    "url": "https://github.com/royalbhati/sqltoerdiagram",
+    "lang": "JavaScript",
+    "desc": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded"
+  },
+  {
+    "createdAt": "2026-06-11T08:49:42Z",
+    "stars": 367,
+    "name": "LearnPrompt/luban-skill",
+    "url": "https://github.com/LearnPrompt/luban-skill",
+    "lang": "Shell",
+    "desc": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉"
+  },
+  {
+    "createdAt": "2026-06-12T05:58:40Z",
+    "stars": 357,
+    "name": "skydoves/compose-nav-graph",
+    "url": "https://github.com/skydoves/compose-nav-graph",
+    "lang": "Kotlin",
+    "desc": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions."
+  },
+  {
+    "createdAt": "2026-06-14T05:49:06Z",
+    "stars": 341,
+    "name": "fivetaku/fablize",
+    "url": "https://github.com/fivetaku/fablize",
+    "lang": "Shell",
+    "desc": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable."
+  },
+  {
+    "createdAt": "2026-06-12T07:44:56Z",
+    "stars": 318,
+    "name": "Nanako0129/coralline",
+    "url": "https://github.com/Nanako0129/coralline",
+    "lang": "Shell",
+    "desc": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it"
+  },
+  {
+    "createdAt": "2026-06-13T23:24:39Z",
+    "stars": 317,
+    "name": "duolahypercho/fusion-fable",
+    "url": "https://github.com/duolahypercho/fusion-fable",
+    "lang": "Shell",
+    "desc": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill."
+  },
+  {
+    "createdAt": "2026-06-09T06:28:20Z",
+    "stars": 312,
+    "name": "cobusgreyling/loop-engineering",
+    "url": "https://github.com/cobusgreyling/loop-engineering",
+    "lang": "JavaScript",
+    "desc": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost."
+  },
+  {
+    "createdAt": "2026-06-11T09:20:28Z",
+    "stars": 312,
+    "name": "MiniMax-AI/MSA",
+    "url": "https://github.com/MiniMax-AI/MSA",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-12T00:46:23Z",
+    "stars": 306,
+    "name": "NO6KIKO/gorest-2d-animation-spritesheet-generator",
+    "url": "https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator",
+    "lang": "TypeScript",
+    "desc": "Codex-assisted local 2D animation spritesheet generator and scene compositing workspace."
+  },
+  {
+    "createdAt": "2026-06-11T10:44:15Z",
+    "stars": 301,
+    "name": "TestSprite/testsprite-cli",
+    "url": "https://github.com/TestSprite/testsprite-cli",
+    "lang": "TypeScript",
+    "desc": "Official TestSprite CLI — AI-powered automated testing from your terminal"
+  },
+  {
+    "createdAt": "2026-06-13T14:38:25Z",
+    "stars": 296,
+    "name": "bjarneo/ku",
+    "url": "https://github.com/bjarneo/ku",
+    "lang": "Go",
+    "desc": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. Inspired by k9s, Lens, and lazygit."
+  },
+  {
+    "createdAt": "2026-06-09T03:46:34Z",
+    "stars": 294,
+    "name": "valkor-ai/loom",
+    "url": "https://github.com/valkor-ai/loom",
+    "lang": "TypeScript",
+    "desc": "Loop engineering for agentic software delivery."
+  },
+  {
+    "createdAt": "2026-06-13T03:15:46Z",
+    "stars": 292,
+    "name": "eli-labz/Third-Eye",
+    "url": "https://github.com/eli-labz/Third-Eye",
+    "lang": "TypeScript",
+    "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains."
+  },
+  {
+    "createdAt": "2026-06-10T02:05:05Z",
+    "stars": 280,
+    "name": "gajus/zod-compiler",
+    "url": "https://github.com/gajus/zod-compiler",
+    "lang": "TypeScript",
+    "desc": "Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc"
+  },
+  {
+    "createdAt": "2026-06-12T10:58:35Z",
+    "stars": 280,
+    "name": "buynao/aipath",
+    "url": "https://github.com/buynao/aipath",
+    "lang": "JavaScript",
+    "desc": "Interactive AI General Education Course — 30 Lessons, Zero Math"
+  },
+  {
+    "createdAt": "2026-06-10T23:58:59Z",
+    "stars": 267,
+    "name": "orange2ai/orange-line-illustration",
+    "url": "https://github.com/orange2ai/orange-line-illustration",
+    "lang": "",
+    "desc": "🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source."
+  },
+  {
+    "createdAt": "2026-06-09T22:31:51Z",
+    "stars": 263,
+    "name": "Leonxlnx/lumenshaders",
+    "url": "https://github.com/Leonxlnx/lumenshaders",
+    "lang": "JavaScript",
+    "desc": "LUMEN, a generative shader studio. 9 WebGL2 art modes plus synth style blending, perfect-loop animation, gradient sets, share codes and PNG/WebM/GIF export. Zero dependencies."
+  },
+  {
+    "createdAt": "2026-06-10T14:36:44Z",
+    "stars": 261,
+    "name": "pulkitxm/claude-directory",
+    "url": "https://github.com/pulkitxm/claude-directory",
+    "lang": "TypeScript",
+    "desc": "Experimentation projects with Anthropic's new Claude models (Fable 5 / Mythos)"
+  },
+  {
+    "createdAt": "2026-06-14T01:32:29Z",
+    "stars": 254,
+    "name": "rotejin/tomari-guruguru",
+    "url": "https://github.com/rotejin/tomari-guruguru",
+    "lang": "JavaScript",
+    "desc": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター"
+  },
+  {
+    "createdAt": "2026-06-13T16:32:57Z",
+    "stars": 249,
+    "name": "joeseesun/qiaomu-novel-generator",
+    "url": "https://github.com/joeseesun/qiaomu-novel-generator",
+    "lang": "Python",
+    "desc": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks."
+  },
+  {
+    "createdAt": "2026-06-13T13:49:56Z",
+    "stars": 242,
+    "name": "privatenumber/mac-ocr",
+    "url": "https://github.com/privatenumber/mac-ocr",
+    "lang": "Swift",
+    "desc": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework."
+  },
+  {
+    "createdAt": "2026-06-11T06:05:34Z",
+    "stars": 227,
+    "name": "athcagithub/SlideSmith",
+    "url": "https://github.com/athcagithub/SlideSmith",
+    "lang": "TypeScript",
+    "desc": "TikTok Slideshow Generator"
+  }
+]
