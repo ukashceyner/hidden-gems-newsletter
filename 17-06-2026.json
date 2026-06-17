@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-06-12T00:52:37Z",
+    "stars": 31448,
+    "name": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "lang": "JavaScript",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+  },
+  {
+    "createdAt": "2026-06-10T11:52:41Z",
+    "stars": 9580,
+    "name": "XiaomiMiMo/MiMo-Code",
+    "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+    "lang": "TypeScript",
+    "desc": "MiMo Code: Where Models and Agents Co-Evolve"
+  },
+  {
+    "createdAt": "2026-06-10T11:06:58Z",
+    "stars": 5202,
+    "name": "shadcn/improve",
+    "url": "https://github.com/shadcn/improve",
+    "lang": "",
+    "desc": "Use your most capable model to audit your codebase and write plans for cheaper models to execute."
+  },
+  {
+    "createdAt": "2026-06-11T12:18:13Z",
+    "stars": 3481,
+    "name": "omnigent-ai/omnigent",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "lang": "Python",
+    "desc": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device."
+  },
+  {
+    "createdAt": "2026-06-14T11:21:55Z",
+    "stars": 1855,
+    "name": "tamnd/kage",
+    "url": "https://github.com/tamnd/kage",
+    "lang": "Go",
+    "desc": "Shadow any website for offline viewing, with the JavaScript stripped out"
+  },
+  {
+    "createdAt": "2026-06-12T13:17:07Z",
+    "stars": 1457,
+    "name": "lenucksi/aur-malware-check",
+    "url": "https://github.com/lenucksi/aur-malware-check",
+    "lang": "Shell",
+    "desc": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists."
+  },
+  {
+    "createdAt": "2026-06-10T13:23:39Z",
+    "stars": 1370,
+    "name": "SkyBlue997/enableMacosAI",
+    "url": "https://github.com/SkyBlue997/enableMacosAI",
+    "lang": "Shell",
+    "desc": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon"
+  },
+  {
+    "createdAt": "2026-06-13T08:32:39Z",
+    "stars": 998,
+    "name": "EEliberto/IPA-Download",
+    "url": "https://github.com/EEliberto/IPA-Download",
+    "lang": "Swift",
+    "desc": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。"
+  },
+  {
+    "createdAt": "2026-06-11T06:05:29Z",
+    "stars": 979,
+    "name": "loc567/loc567",
+    "url": "https://github.com/loc567/loc567",
+    "lang": "C",
+    "desc": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com"
+  },
+  {
+    "createdAt": "2026-06-10T05:55:59Z",
+    "stars": 966,
+    "name": "levy-street/world-of-claudecraft",
+    "url": "https://github.com/levy-street/world-of-claudecraft",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-10T16:04:20Z",
+    "stars": 861,
+    "name": "BuilderIO/skills",
+    "url": "https://github.com/BuilderIO/skills",
+    "lang": "JavaScript",
+    "desc": "Skills for coding agents"
+  },
+  {
+    "createdAt": "2026-06-12T21:45:48Z",
+    "stars": 769,
+    "name": "orange2ai/renwei-writing",
+    "url": "https://github.com/orange2ai/renwei-writing",
+    "lang": "",
+    "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them"
+  },
+  {
+    "createdAt": "2026-06-12T04:25:17Z",
+    "stars": 709,
+    "name": "nolangz/pixel2motion",
+    "url": "https://github.com/nolangz/pixel2motion",
+    "lang": "Python",
+    "desc": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence."
+  },
+  {
+    "createdAt": "2026-06-10T01:53:01Z",
+    "stars": 649,
+    "name": "coder/boo",
+    "url": "https://github.com/coder/boo",
+    "lang": "Zig",
+    "desc": "A GNU screen style terminal multiplexer built on libghostty."
+  },
+  {
+    "createdAt": "2026-06-11T15:10:51Z",
+    "stars": 647,
+    "name": "joeseesun/qiaomu-goal-meta-skill",
+    "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+    "lang": "Python",
+    "desc": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide"
+  },
+  {
+    "createdAt": "2026-06-10T01:01:42Z",
+    "stars": 622,
+    "name": "alchaincyf/fanbox",
+    "url": "https://github.com/alchaincyf/fanbox",
+    "lang": "JavaScript",
+    "desc": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between."
+  },
+  {
+    "createdAt": "2026-06-15T05:27:07Z",
+    "stars": 616,
+    "name": "alchaincyf/loop-engineering-orange-book",
+    "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+    "lang": "",
+    "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free."
+  },
+  {
+    "createdAt": "2026-06-12T15:25:43Z",
+    "stars": 592,
+    "name": "vorssaint/vorssaint-utils",
+    "url": "https://github.com/vorssaint/vorssaint-utils",
+    "lang": "Swift",
+    "desc": "Vorssaint macOS app"
+  },
+  {
+    "createdAt": "2026-06-16T10:51:20Z",
+    "stars": 589,
+    "name": "vercel/eve",
+    "url": "https://github.com/vercel/eve",
+    "lang": "TypeScript",
+    "desc": "The Framework for Building Agents"
+  },
+  {
+    "createdAt": "2026-06-12T16:07:27Z",
+    "stars": 528,
+    "name": "SunJaycy/GoldenEye-Recomp",
+    "url": "https://github.com/SunJaycy/GoldenEye-Recomp",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-11T01:03:12Z",
+    "stars": 517,
+    "name": "MSNightmare/GreatXML",
+    "url": "https://github.com/MSNightmare/GreatXML",
+    "lang": "",
+    "desc": "GreatXML bitlocker bypass vulnerability"
+  },
+  {
+    "createdAt": "2026-06-12T01:54:12Z",
+    "stars": 500,
+    "name": "DanMcInerney/architect-loop",
+    "url": "https://github.com/DanMcInerney/architect-loop",
+    "lang": "HTML",
+    "desc": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop"
+  },
+  {
+    "createdAt": "2026-06-17T05:27:09Z",
+    "stars": 499,
+    "name": "Plaer1/junction",
+    "url": "https://github.com/Plaer1/junction",
+    "lang": "TypeScript",
+    "desc": "VS Code chat sidebar for local AI coding agents"
+  },
+  {
+    "createdAt": "2026-06-12T14:55:53Z",
+    "stars": 481,
+    "name": "fguzman82/gateGPT",
+    "url": "https://github.com/fguzman82/gateGPT",
+    "lang": "Verilog",
+    "desc": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second."
+  },
+  {
+    "createdAt": "2026-06-13T05:33:14Z",
+    "stars": 466,
+    "name": "mrtooher/fable-mode",
+    "url": "https://github.com/mrtooher/fable-mode",
+    "lang": "",
+    "desc": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification."
+  },
+  {
+    "createdAt": "2026-06-14T04:12:26Z",
+    "stars": 449,
+    "name": "royalbhati/sqltoerdiagram",
+    "url": "https://github.com/royalbhati/sqltoerdiagram",
+    "lang": "JavaScript",
+    "desc": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded"
+  },
+  {
+    "createdAt": "2026-06-14T05:49:06Z",
+    "stars": 432,
+    "name": "fivetaku/fablize",
+    "url": "https://github.com/fivetaku/fablize",
+    "lang": "Shell",
+    "desc": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable."
+  },
+  {
+    "createdAt": "2026-06-11T10:44:15Z",
+    "stars": 400,
+    "name": "TestSprite/testsprite-cli",
+    "url": "https://github.com/TestSprite/testsprite-cli",
+    "lang": "TypeScript",
+    "desc": "Official TestSprite CLI — AI-powered automated testing from your terminal"
+  },
+  {
+    "createdAt": "2026-06-11T08:49:42Z",
+    "stars": 389,
+    "name": "LearnPrompt/luban-skill",
+    "url": "https://github.com/LearnPrompt/luban-skill",
+    "lang": "Shell",
+    "desc": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉"
+  },
+  {
+    "createdAt": "2026-06-12T05:58:40Z",
+    "stars": 378,
+    "name": "skydoves/compose-nav-graph",
+    "url": "https://github.com/skydoves/compose-nav-graph",
+    "lang": "Kotlin",
+    "desc": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions."
+  },
+  {
+    "createdAt": "2026-06-12T00:46:23Z",
+    "stars": 375,
+    "name": "NO6KIKO/gorest-2d-animation-spritesheet-generator",
+    "url": "https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator",
+    "lang": "TypeScript",
+    "desc": "Codex-assisted local 2D animation spritesheet generator and scene compositing workspace."
+  },
+  {
+    "createdAt": "2026-06-12T07:44:56Z",
+    "stars": 352,
+    "name": "Nanako0129/coralline",
+    "url": "https://github.com/Nanako0129/coralline",
+    "lang": "Shell",
+    "desc": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it"
+  },
+  {
+    "createdAt": "2026-06-13T23:24:39Z",
+    "stars": 345,
+    "name": "duolahypercho/fusion-fable",
+    "url": "https://github.com/duolahypercho/fusion-fable",
+    "lang": "Shell",
+    "desc": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill."
+  },
+  {
+    "createdAt": "2026-06-13T14:38:25Z",
+    "stars": 327,
+    "name": "bjarneo/ku",
+    "url": "https://github.com/bjarneo/ku",
+    "lang": "Go",
+    "desc": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. "
+  },
+  {
+    "createdAt": "2026-06-11T09:20:28Z",
+    "stars": 324,
+    "name": "MiniMax-AI/MSA",
+    "url": "https://github.com/MiniMax-AI/MSA",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-10T02:05:05Z",
+    "stars": 322,
+    "name": "gajus/zod-compiler",
+    "url": "https://github.com/gajus/zod-compiler",
+    "lang": "TypeScript",
+    "desc": "Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc"
+  },
+  {
+    "createdAt": "2026-06-13T13:49:56Z",
+    "stars": 304,
+    "name": "privatenumber/mac-ocr",
+    "url": "https://github.com/privatenumber/mac-ocr",
+    "lang": "Swift",
+    "desc": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework."
+  },
+  {
+    "createdAt": "2026-06-12T10:58:35Z",
+    "stars": 304,
+    "name": "buynao/aipath",
+    "url": "https://github.com/buynao/aipath",
+    "lang": "JavaScript",
+    "desc": "Interactive AI General Education Course — 30 Lessons, Zero Math"
+  },
+  {
+    "createdAt": "2026-06-10T16:31:48Z",
+    "stars": 304,
+    "name": "inbrainfun/inbrain",
+    "url": "https://github.com/inbrainfun/inbrain",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-13T03:15:46Z",
+    "stars": 293,
+    "name": "eli-labz/Third-Eye",
+    "url": "https://github.com/eli-labz/Third-Eye",
+    "lang": "TypeScript",
+    "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains."
+  },
+  {
+    "createdAt": "2026-06-10T23:58:59Z",
+    "stars": 278,
+    "name": "orange2ai/orange-line-illustration",
+    "url": "https://github.com/orange2ai/orange-line-illustration",
+    "lang": "",
+    "desc": "🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for closed-source."
+  },
+  {
+    "createdAt": "2026-06-13T16:32:57Z",
+    "stars": 276,
+    "name": "joeseesun/qiaomu-novel-generator",
+    "url": "https://github.com/joeseesun/qiaomu-novel-generator",
+    "lang": "Python",
+    "desc": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks."
+  },
+  {
+    "createdAt": "2026-06-11T10:30:19Z",
+    "stars": 266,
+    "name": "jd-opensource/JoyAI-VL-Interaction",
+    "url": "https://github.com/jd-opensource/JoyAI-VL-Interaction",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-10T14:36:44Z",
+    "stars": 265,
+    "name": "pulkitxm/claude-directory",
+    "url": "https://github.com/pulkitxm/claude-directory",
+    "lang": "TypeScript",
+    "desc": "Experimentation projects with Anthropic's new Claude models (Fable 5 / Mythos)"
+  },
+  {
+    "createdAt": "2026-06-14T01:32:29Z",
+    "stars": 263,
+    "name": "rotejin/tomari-guruguru",
+    "url": "https://github.com/rotejin/tomari-guruguru",
+    "lang": "JavaScript",
+    "desc": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター"
+  },
+  {
+    "createdAt": "2026-06-14T13:11:00Z",
+    "stars": 262,
+    "name": "baskduf/FableCodex",
+    "url": "https://github.com/baskduf/FableCodex",
+    "lang": "Python",
+    "desc": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable."
+  },
+  {
+    "createdAt": "2026-06-15T06:28:04Z",
+    "stars": 261,
+    "name": "dongshuyan/compass-skills",
+    "url": "https://github.com/dongshuyan/compass-skills",
+    "lang": "Python",
+    "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents"
+  },
+  {
+    "createdAt": "2026-06-11T06:05:34Z",
+    "stars": 248,
+    "name": "athcagithub/SlideSmith",
+    "url": "https://github.com/athcagithub/SlideSmith",
+    "lang": "TypeScript",
+    "desc": "TikTok Slideshow Generator"
+  },
+  {
+    "createdAt": "2026-06-14T04:06:26Z",
+    "stars": 234,
+    "name": "majidmanzarpour/threejs-game-skills",
+    "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+    "lang": "Python",
+    "desc": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets."
+  },
+  {
+    "createdAt": "2026-06-16T21:22:43Z",
+    "stars": 231,
+    "name": "rebel0789/codexpro",
+    "url": "https://github.com/rebel0789/codexpro",
+    "lang": "JavaScript",
+    "desc": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP."
+  }
+]
