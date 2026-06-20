@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-06-14T11:21:55Z",
+    "stars": 2162,
+    "name": "tamnd/kage",
+    "url": "https://github.com/tamnd/kage",
+    "lang": "Go",
+    "desc": "Shadow any website for offline viewing, with the JavaScript stripped out"
+  },
+  {
+    "createdAt": "2026-06-16T10:51:20Z",
+    "stars": 1855,
+    "name": "vercel/eve",
+    "url": "https://github.com/vercel/eve",
+    "lang": "TypeScript",
+    "desc": "The Framework for Building Agents"
+  },
+  {
+    "createdAt": "2026-06-14T16:57:27Z",
+    "stars": 1616,
+    "name": "Waishnav/devspace",
+    "url": "https://github.com/Waishnav/devspace",
+    "lang": "TypeScript",
+    "desc": "Turn ChatGPT into Codex"
+  },
+  {
+    "createdAt": "2026-06-13T08:32:39Z",
+    "stars": 1136,
+    "name": "EEliberto/IPA-Download",
+    "url": "https://github.com/EEliberto/IPA-Download",
+    "lang": "Swift",
+    "desc": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。"
+  },
+  {
+    "createdAt": "2026-06-15T05:27:07Z",
+    "stars": 717,
+    "name": "alchaincyf/loop-engineering-orange-book",
+    "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+    "lang": "",
+    "desc": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free."
+  },
+  {
+    "createdAt": "2026-06-13T03:15:46Z",
+    "stars": 652,
+    "name": "eli-labz/Third-Eye",
+    "url": "https://github.com/eli-labz/Third-Eye",
+    "lang": "TypeScript",
+    "desc": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains."
+  },
+  {
+    "createdAt": "2026-06-16T21:22:43Z",
+    "stars": 535,
+    "name": "rebel0789/codexpro",
+    "url": "https://github.com/rebel0789/codexpro",
+    "lang": "JavaScript",
+    "desc": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP."
+  },
+  {
+    "createdAt": "2026-06-14T05:49:06Z",
+    "stars": 531,
+    "name": "fivetaku/fablize",
+    "url": "https://github.com/fivetaku/fablize",
+    "lang": "Python",
+    "desc": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable."
+  },
+  {
+    "createdAt": "2026-06-13T05:33:14Z",
+    "stars": 525,
+    "name": "mrtooher/fable-mode",
+    "url": "https://github.com/mrtooher/fable-mode",
+    "lang": "",
+    "desc": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification."
+  },
+  {
+    "createdAt": "2026-06-17T05:27:09Z",
+    "stars": 516,
+    "name": "Plaer1/junction",
+    "url": "https://github.com/Plaer1/junction",
+    "lang": "TypeScript",
+    "desc": "VS Code chat sidebar for local AI coding agents"
+  },
+  {
+    "createdAt": "2026-06-19T16:19:37Z",
+    "stars": 514,
+    "name": "Forsy-AI/agent-apprenticeship",
+    "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+    "lang": "",
+    "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange."
+  },
+  {
+    "createdAt": "2026-06-14T04:12:26Z",
+    "stars": 493,
+    "name": "royalbhati/sqltoerdiagram",
+    "url": "https://github.com/royalbhati/sqltoerdiagram",
+    "lang": "HTML",
+    "desc": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded"
+  },
+  {
+    "createdAt": "2026-06-13T14:22:28Z",
+    "stars": 444,
+    "name": "dzcmemory-web/bazi-ziwei-skill",
+    "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+    "lang": "TypeScript",
+    "desc": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。"
+  },
+  {
+    "createdAt": "2026-06-13T13:49:56Z",
+    "stars": 399,
+    "name": "privatenumber/mac-ocr",
+    "url": "https://github.com/privatenumber/mac-ocr",
+    "lang": "Swift",
+    "desc": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework"
+  },
+  {
+    "createdAt": "2026-06-15T06:28:04Z",
+    "stars": 397,
+    "name": "dongshuyan/compass-skills",
+    "url": "https://github.com/dongshuyan/compass-skills",
+    "lang": "Python",
+    "desc": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents"
+  },
+  {
+    "createdAt": "2026-06-13T14:38:25Z",
+    "stars": 390,
+    "name": "bjarneo/ku",
+    "url": "https://github.com/bjarneo/ku",
+    "lang": "Go",
+    "desc": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. "
+  },
+  {
+    "createdAt": "2026-06-13T23:24:39Z",
+    "stars": 385,
+    "name": "duolahypercho/fusion-fable",
+    "url": "https://github.com/duolahypercho/fusion-fable",
+    "lang": "Shell",
+    "desc": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill."
+  },
+  {
+    "createdAt": "2026-06-14T04:06:26Z",
+    "stars": 379,
+    "name": "majidmanzarpour/threejs-game-skills",
+    "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+    "lang": "Python",
+    "desc": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets."
+  },
+  {
+    "createdAt": "2026-06-18T05:56:44Z",
+    "stars": 352,
+    "name": "MstKail/polymarket-trading-bot-services-polyedge365",
+    "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+    "lang": "",
+    "desc": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot"
+  },
+  {
+    "createdAt": "2026-06-16T14:59:20Z",
+    "stars": 351,
+    "name": "boogu-project/Boogu-Image",
+    "url": "https://github.com/boogu-project/Boogu-Image",
+    "lang": "Python",
+    "desc": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data."
+  },
+  {
+    "createdAt": "2026-06-16T16:52:34Z",
+    "stars": 337,
+    "name": "ngrok/webernetes",
+    "url": "https://github.com/ngrok/webernetes",
+    "lang": "TypeScript",
+    "desc": "Kubernetes in the browser."
+  },
+  {
+    "createdAt": "2026-06-17T09:46:11Z",
+    "stars": 333,
+    "name": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+    "url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+    "lang": "",
+    "desc": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore"
+  },
+  {
+    "createdAt": "2026-06-17T10:16:06Z",
+    "stars": 332,
+    "name": "nnecrkvenuOX/formcms",
+    "url": "https://github.com/nnecrkvenuOX/formcms",
+    "lang": "C#",
+    "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer."
+  },
+  {
+    "createdAt": "2026-06-14T13:11:00Z",
+    "stars": 324,
+    "name": "baskduf/FableCodex",
+    "url": "https://github.com/baskduf/FableCodex",
+    "lang": "Python",
+    "desc": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable."
+  },
+  {
+    "createdAt": "2026-06-13T16:32:57Z",
+    "stars": 305,
+    "name": "joeseesun/qiaomu-novel-generator",
+    "url": "https://github.com/joeseesun/qiaomu-novel-generator",
+    "lang": "Python",
+    "desc": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks."
+  },
+  {
+    "createdAt": "2026-06-19T06:30:39Z",
+    "stars": 304,
+    "name": "MstKail/wc2026-crypto-sportsbook",
+    "url": "https://github.com/MstKail/wc2026-crypto-sportsbook",
+    "lang": "TypeScript",
+    "desc": "2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlement engine | world cup 2026 betting | WC2026 predictions odds markets | blockchain crypto wallet sportsbook"
+  },
+  {
+    "createdAt": "2026-06-14T04:23:45Z",
+    "stars": 300,
+    "name": "gykim80/perfectpixel-studio",
+    "url": "https://github.com/gykim80/perfectpixel-studio",
+    "lang": "Go",
+    "desc": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)"
+  },
+  {
+    "createdAt": "2026-06-14T01:32:29Z",
+    "stars": 287,
+    "name": "rotejin/tomari-guruguru",
+    "url": "https://github.com/rotejin/tomari-guruguru",
+    "lang": "JavaScript",
+    "desc": "25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター"
+  },
+  {
+    "createdAt": "2026-06-15T14:21:44Z",
+    "stars": 268,
+    "name": "fendouai/best-humanizer-handbook",
+    "url": "https://github.com/fendouai/best-humanizer-handbook",
+    "lang": "",
+    "desc": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human"
+  },
+  {
+    "createdAt": "2026-06-15T21:31:07Z",
+    "stars": 259,
+    "name": "leyten/shard",
+    "url": "https://github.com/leyten/shard",
+    "lang": "Python",
+    "desc": "Pipeline-parallel LLM inference across GPUs on separate machines."
+  },
+  {
+    "createdAt": "2026-06-13T18:29:11Z",
+    "stars": 251,
+    "name": "ruvnet/agent-harness-generator",
+    "url": "https://github.com/ruvnet/agent-harness-generator",
+    "lang": "TypeScript",
+    "desc": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox)."
+  },
+  {
+    "createdAt": "2026-06-14T00:11:35Z",
+    "stars": 243,
+    "name": "Jeidoban/Ironsmith",
+    "url": "https://github.com/Jeidoban/Ironsmith",
+    "lang": "Swift",
+    "desc": "Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs"
+  },
+  {
+    "createdAt": "2026-06-16T14:49:50Z",
+    "stars": 243,
+    "name": "anthropics/launch-your-agent",
+    "url": "https://github.com/anthropics/launch-your-agent",
+    "lang": "HTML",
+    "desc": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate, and schedule it"
+  },
+  {
+    "createdAt": "2026-06-15T19:22:32Z",
+    "stars": 230,
+    "name": "SubBoost/subboost",
+    "url": "https://github.com/SubBoost/subboost",
+    "lang": "TypeScript",
+    "desc": "Clash/Mihomo 订阅转换、增强和管理工具。通过 UI 可视化，一键实现链式代理、精确分流、防 DNS 泄露和多订阅聚合等高级功能。"
+  },
+  {
+    "createdAt": "2026-06-17T14:03:06Z",
+    "stars": 229,
+    "name": "ApothecarySeize/Maya-2026-Animation-Workflow",
+    "url": "https://github.com/ApothecarySeize/Maya-2026-Animation-Workflow",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-17T06:53:59Z",
+    "stars": 229,
+    "name": "rpanigrahi222/intruth-factcheck",
+    "url": "https://github.com/rpanigrahi222/intruth-factcheck",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-17T12:08:33Z",
+    "stars": 227,
+    "name": "Tyxy-R/codex-referral-risk-research",
+    "url": "https://github.com/Tyxy-R/codex-referral-risk-research",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-13T09:02:27Z",
+    "stars": 224,
+    "name": "localai-org/privacy-filter.cpp",
+    "url": "https://github.com/localai-org/privacy-filter.cpp",
+    "lang": "C++",
+    "desc": "OpenAI's privacy filter NER model architecture implemented in a minimal C++/GGML runtime"
+  },
+  {
+    "createdAt": "2026-06-16T05:43:13Z",
+    "stars": 220,
+    "name": "Liunian06/ko-lesson",
+    "url": "https://github.com/Liunian06/ko-lesson",
+    "lang": "",
+    "desc": "一个期末赶制的一个屎山skill，将清朝老PPT复活为能看的资料"
+  },
+  {
+    "createdAt": "2026-06-17T10:02:02Z",
+    "stars": 216,
+    "name": "aresyn/codex-control-plane-mcp",
+    "url": "https://github.com/aresyn/codex-control-plane-mcp",
+    "lang": "Python",
+    "desc": "Durable MCP control plane for long-running Codex Desktop tasks"
+  },
+  {
+    "createdAt": "2026-06-15T15:38:37Z",
+    "stars": 215,
+    "name": "FeijiangHan/PaperForge",
+    "url": "https://github.com/FeijiangHan/PaperForge",
+    "lang": "",
+    "desc": "An active paper-reading skill that reconstructs author reasoning, explains methods mechanistically, stress-tests assumptions, and generates follow-up research ideas."
+  },
+  {
+    "createdAt": "2026-06-19T19:46:29Z",
+    "stars": 201,
+    "name": "aidenybai/cnfast",
+    "url": "https://github.com/aidenybai/cnfast",
+    "lang": "TypeScript",
+    "desc": "Fast drop in replacement for `cn`"
+  },
+  {
+    "createdAt": "2026-06-13T16:49:17Z",
+    "stars": 198,
+    "name": "IO-ZetZor/Visor-BootManager",
+    "url": "https://github.com/IO-ZetZor/Visor-BootManager",
+    "lang": "C",
+    "desc": "A minimal, fast, graphical UEFI boot manager written in C. no external dependencies — just a config file :)"
+  },
+  {
+    "createdAt": "2026-06-17T03:12:36Z",
+    "stars": 193,
+    "name": "world-action-models/awesome-world-action-models",
+    "url": "https://github.com/world-action-models/awesome-world-action-models",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-15T06:55:04Z",
+    "stars": 192,
+    "name": "joeseesun/qiaomu-app-review-insights",
+    "url": "https://github.com/joeseesun/qiaomu-app-review-insights",
+    "lang": "TypeScript",
+    "desc": "把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks."
+  },
+  {
+    "createdAt": "2026-06-14T23:00:30Z",
+    "stars": 189,
+    "name": "oalanicolas/claude-design-premium",
+    "url": "https://github.com/oalanicolas/claude-design-premium",
+    "lang": "JavaScript",
+    "desc": "Claude Design starter kit for premium design systems"
+  },
+  {
+    "createdAt": "2026-06-13T13:44:35Z",
+    "stars": 186,
+    "name": "kernelstub/Ferrum",
+    "url": "https://github.com/kernelstub/Ferrum",
+    "lang": "Go",
+    "desc": "Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeration."
+  },
+  {
+    "createdAt": "2026-06-16T06:15:37Z",
+    "stars": 184,
+    "name": "halfof8/patterngen-oss",
+    "url": "https://github.com/halfof8/patterngen-oss",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-17T19:10:00Z",
+    "stars": 183,
+    "name": "Verdi38/Silent-Crypto-Miner",
+    "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
+    "lang": "Python",
+    "desc": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows."
+  },
+  {
+    "createdAt": "2026-06-16T11:07:55Z",
+    "stars": 178,
+    "name": "r3xmax/PhantomCtx",
+    "url": "https://github.com/r3xmax/PhantomCtx",
+    "lang": "C",
+    "desc": "Activation Context Hijacking Evasion Tool"
+  }
+]
