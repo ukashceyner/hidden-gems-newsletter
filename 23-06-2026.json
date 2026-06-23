@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-06-18T08:40:15Z",
+    "stars": 3379,
+    "name": "baidu/Unlimited-OCR",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "lang": "Python",
+    "desc": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing."
+  },
+  {
+    "createdAt": "2026-06-16T10:51:20Z",
+    "stars": 2421,
+    "name": "vercel/eve",
+    "url": "https://github.com/vercel/eve",
+    "lang": "TypeScript",
+    "desc": "The Framework for Building Agents"
+  },
+  {
+    "createdAt": "2026-06-18T16:08:30Z",
+    "stars": 2345,
+    "name": "zhongerxin/Cowart",
+    "url": "https://github.com/zhongerxin/Cowart",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-20T04:27:07Z",
+    "stars": 910,
+    "name": "lyra81604/zhengxi-views",
+    "url": "https://github.com/lyra81604/zhengxi-views",
+    "lang": "Python",
+    "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！"
+  },
+  {
+    "createdAt": "2026-06-19T16:19:37Z",
+    "stars": 847,
+    "name": "Forsy-AI/agent-apprenticeship",
+    "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+    "lang": "",
+    "desc": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange."
+  },
+  {
+    "createdAt": "2026-06-19T19:46:29Z",
+    "stars": 780,
+    "name": "aidenybai/cnfast",
+    "url": "https://github.com/aidenybai/cnfast",
+    "lang": "TypeScript",
+    "desc": "Fast drop in replacement for `cn`"
+  },
+  {
+    "createdAt": "2026-06-16T21:22:43Z",
+    "stars": 777,
+    "name": "rebel0789/codexpro",
+    "url": "https://github.com/rebel0789/codexpro",
+    "lang": "JavaScript",
+    "desc": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP."
+  },
+  {
+    "createdAt": "2026-06-21T13:57:28Z",
+    "stars": 713,
+    "name": "kanavtwtgg/birds.cafe",
+    "url": "https://github.com/kanavtwtgg/birds.cafe",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-16T16:52:34Z",
+    "stars": 607,
+    "name": "ngrok/webernetes",
+    "url": "https://github.com/ngrok/webernetes",
+    "lang": "TypeScript",
+    "desc": "Kubernetes in the browser."
+  },
+  {
+    "createdAt": "2026-06-17T05:27:09Z",
+    "stars": 531,
+    "name": "Plaer1/junction",
+    "url": "https://github.com/Plaer1/junction",
+    "lang": "TypeScript",
+    "desc": "VS Code chat sidebar for local AI coding agents"
+  },
+  {
+    "createdAt": "2026-06-19T13:24:44Z",
+    "stars": 519,
+    "name": "sums001/Windows-Copilot-API",
+    "url": "https://github.com/sums001/Windows-Copilot-API",
+    "lang": "Python",
+    "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing."
+  },
+  {
+    "createdAt": "2026-06-16T14:59:20Z",
+    "stars": 519,
+    "name": "boogu-project/Boogu-Image",
+    "url": "https://github.com/boogu-project/Boogu-Image",
+    "lang": "Python",
+    "desc": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data."
+  },
+  {
+    "createdAt": "2026-06-18T14:08:44Z",
+    "stars": 483,
+    "name": "cloudflare/security-audit-skill",
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "lang": "JavaScript",
+    "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings"
+  },
+  {
+    "createdAt": "2026-06-16T14:49:50Z",
+    "stars": 457,
+    "name": "anthropics/launch-your-agent",
+    "url": "https://github.com/anthropics/launch-your-agent",
+    "lang": "HTML",
+    "desc": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate, and schedule it"
+  },
+  {
+    "createdAt": "2026-06-23T02:36:54Z",
+    "stars": 432,
+    "name": "bozhouDev/codex-orange-book",
+    "url": "https://github.com/bozhouDev/codex-orange-book",
+    "lang": "HTML",
+    "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）"
+  },
+  {
+    "createdAt": "2026-06-19T20:36:41Z",
+    "stars": 407,
+    "name": "raiyanyahya/recall",
+    "url": "https://github.com/raiyanyahya/recall",
+    "lang": "Python",
+    "desc": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline."
+  },
+  {
+    "createdAt": "2026-06-20T10:16:22Z",
+    "stars": 405,
+    "name": "yo-WASSUP/Good-Badminton",
+    "url": "https://github.com/yo-WASSUP/Good-Badminton",
+    "lang": "Python",
+    "desc": "🏸  AI Badminton Hawk-Eye System"
+  },
+  {
+    "createdAt": "2026-06-17T10:16:06Z",
+    "stars": 397,
+    "name": "nnecrkvenuOX/formcms",
+    "url": "https://github.com/nnecrkvenuOX/formcms",
+    "lang": "C#",
+    "desc": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer."
+  },
+  {
+    "createdAt": "2026-06-17T09:46:11Z",
+    "stars": 397,
+    "name": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+    "url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+    "lang": "",
+    "desc": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore"
+  },
+  {
+    "createdAt": "2026-06-20T17:39:59Z",
+    "stars": 376,
+    "name": "overflowy/make-look-scanned",
+    "url": "https://github.com/overflowy/make-look-scanned",
+    "lang": "Go",
+    "desc": "Makes PDFs look scanned (CLI or in the browser via WASM)"
+  },
+  {
+    "createdAt": "2026-06-17T15:56:01Z",
+    "stars": 348,
+    "name": "SakanaAI/fugu",
+    "url": "https://github.com/SakanaAI/fugu",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-17T06:53:59Z",
+    "stars": 343,
+    "name": "rpanigrahi222/intruth-factcheck",
+    "url": "https://github.com/rpanigrahi222/intruth-factcheck",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-19T19:24:47Z",
+    "stars": 319,
+    "name": "eooce/transfer-api",
+    "url": "https://github.com/eooce/transfer-api",
+    "lang": "JavaScript",
+    "desc": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes."
+  },
+  {
+    "createdAt": "2026-06-16T06:15:37Z",
+    "stars": 306,
+    "name": "halfof8/patterngen-oss",
+    "url": "https://github.com/halfof8/patterngen-oss",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-22T04:08:03Z",
+    "stars": 304,
+    "name": "HKUDS/AgentSpace",
+    "url": "https://github.com/HKUDS/AgentSpace",
+    "lang": "TypeScript",
+    "desc": "\"AgentSpace: Human + Agents. One Team. One Workspace\""
+  },
+  {
+    "createdAt": "2026-06-16T08:52:27Z",
+    "stars": 290,
+    "name": "hustvl/Moebius",
+    "url": "https://github.com/hustvl/Moebius",
+    "lang": "Python",
+    "desc": "[ECCV 2026] Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance"
+  },
+  {
+    "createdAt": "2026-06-16T05:43:13Z",
+    "stars": 260,
+    "name": "Liunian06/ko-lesson",
+    "url": "https://github.com/Liunian06/ko-lesson",
+    "lang": "",
+    "desc": "一个帮助大学牲期末复习的skill，能将清朝老PPT复活为能看的资料"
+  },
+  {
+    "createdAt": "2026-06-16T19:36:36Z",
+    "stars": 253,
+    "name": "latent-spaces/brag",
+    "url": "https://github.com/latent-spaces/brag",
+    "lang": "Python",
+    "desc": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command."
+  },
+  {
+    "createdAt": "2026-06-16T11:07:55Z",
+    "stars": 248,
+    "name": "r3xmax/PhantomCtx",
+    "url": "https://github.com/r3xmax/PhantomCtx",
+    "lang": "C",
+    "desc": "Activation Context Hijacking Evasion Tool"
+  },
+  {
+    "createdAt": "2026-06-17T03:12:36Z",
+    "stars": 243,
+    "name": "world-action-models/awesome-world-action-models",
+    "url": "https://github.com/world-action-models/awesome-world-action-models",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-17T10:40:21Z",
+    "stars": 233,
+    "name": "shadcn-labs/agentcn",
+    "url": "https://github.com/shadcn-labs/agentcn",
+    "lang": "TypeScript",
+    "desc": "shadcn/ui, but for building agents. 🤖"
+  },
+  {
+    "createdAt": "2026-06-17T12:08:33Z",
+    "stars": 231,
+    "name": "Tyxy-R/codex-referral-risk-research",
+    "url": "https://github.com/Tyxy-R/codex-referral-risk-research",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-17T10:02:02Z",
+    "stars": 222,
+    "name": "aresyn/codex-control-plane-mcp",
+    "url": "https://github.com/aresyn/codex-control-plane-mcp",
+    "lang": "Python",
+    "desc": "Durable MCP control plane for long-running Codex Desktop tasks"
+  },
+  {
+    "createdAt": "2026-06-18T19:44:20Z",
+    "stars": 211,
+    "name": "ksimback/looper",
+    "url": "https://github.com/ksimback/looper",
+    "lang": "Python",
+    "desc": "Design visual, review-gated agent loops for Claude Code before you run them."
+  },
+  {
+    "createdAt": "2026-06-22T23:31:35Z",
+    "stars": 209,
+    "name": "samasante/liquid-glass",
+    "url": "https://github.com/samasante/liquid-glass",
+    "lang": "TypeScript",
+    "desc": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies."
+  },
+  {
+    "createdAt": "2026-06-21T13:00:22Z",
+    "stars": 208,
+    "name": "SarkAzia/baiyueguang-learning-skill",
+    "url": "https://github.com/SarkAzia/baiyueguang-learning-skill",
+    "lang": "",
+    "desc": "用视奸前任白月光的方式学数学以及任何学科"
+  },
+  {
+    "createdAt": "2026-06-17T04:16:05Z",
+    "stars": 197,
+    "name": "Kato-Shoko705/Phoebe-Hub",
+    "url": "https://github.com/Kato-Shoko705/Phoebe-Hub",
+    "lang": "JavaScript",
+    "desc": "全球最可爱的鸣潮角色菲比表情包收集站"
+  },
+  {
+    "createdAt": "2026-06-16T08:17:33Z",
+    "stars": 194,
+    "name": "JCarterJohnson/vibecoded-design-tells",
+    "url": "https://github.com/JCarterJohnson/vibecoded-design-tells",
+    "lang": "Python",
+    "desc": "Reddit-mined data ranking the visual tells of vibe-coded (AI-built) sites: 3.2M posts scanned across 47 subreddits, with scripts, raw data, and charts."
+  },
+  {
+    "createdAt": "2026-06-17T20:40:15Z",
+    "stars": 193,
+    "name": "yeet-src/httpinspect",
+    "url": "https://github.com/yeet-src/httpinspect",
+    "lang": "JavaScript",
+    "desc": "top, but for the HTTP endpoints on your host — a live dashboard of the most active plaintext HTTP endpoints, right in the terminal."
+  },
+  {
+    "createdAt": "2026-06-16T15:43:27Z",
+    "stars": 191,
+    "name": "yolfinance/yolfi-agent",
+    "url": "https://github.com/yolfinance/yolfi-agent",
+    "lang": "JavaScript",
+    "desc": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents."
+  },
+  {
+    "createdAt": "2026-06-16T06:01:05Z",
+    "stars": 190,
+    "name": "dososo/chinese-traditional-patterns",
+    "url": "https://github.com/dososo/chinese-traditional-patterns",
+    "lang": "",
+    "desc": "开源的中国传统纹样图录项目 · 100 高清纹样(规划 800) · 中英日韩双语 · CC BY-NC 4.0 · https://wenyang.net"
+  },
+  {
+    "createdAt": "2026-06-17T14:31:38Z",
+    "stars": 185,
+    "name": "LING71671/open-reverselab",
+    "url": "https://github.com/LING71671/open-reverselab",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-17T19:10:00Z",
+    "stars": 183,
+    "name": "Verdi38/Silent-Crypto-Miner",
+    "url": "https://github.com/Verdi38/Silent-Crypto-Miner",
+    "lang": "Python",
+    "desc": "Cryptocurrency mining toolkit with multi-algorithm CPU/GPU support, resource management, thermal throttling, activity-based pausing, scheduled mining, pool failover, hashrate optimization, real-time monitoring, and cross-platform builds for Windows, Linux, and macOS. Supports XMR, ETC, KAS, RVN, ERG, and BTG mining workflows."
+  },
+  {
+    "createdAt": "2026-06-17T07:08:24Z",
+    "stars": 182,
+    "name": "zeropl/2FA",
+    "url": "https://github.com/zeropl/2FA",
+    "lang": "HTML",
+    "desc": "Easy2FA turns a 2FA secret into its live 6-digit code, entirely in your browser. There's no server, no sign-up, and no database — each \"account\" is just a bookmarkable URL with the secret in its #fragment (which browsers never send over the network)."
+  },
+  {
+    "createdAt": "2026-06-16T17:15:06Z",
+    "stars": 182,
+    "name": "Sorathiya123/claude-ai-free-desktop-app",
+    "url": "https://github.com/Sorathiya123/claude-ai-free-desktop-app",
+    "lang": "TypeScript",
+    "desc": "free claude code ai github  desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode extension jetbrains cli terminal coding assistant"
+  },
+  {
+    "createdAt": "2026-06-20T17:28:01Z",
+    "stars": 182,
+    "name": "pixelgridhub-coder/Gothic-Remake-Lockpick-Solver",
+    "url": "https://github.com/pixelgridhub-coder/Gothic-Remake-Lockpick-Solver",
+    "lang": "C#",
+    "desc": "Gothic Remake Lockpick Solver chest gate puzzle combination sequence pin plate slider helper assistant unreal pc steam alkimia thq colony break logic calculator ue5 turn door pattern"
+  },
+  {
+    "createdAt": "2026-06-23T03:37:12Z",
+    "stars": 178,
+    "name": "goehou/tabbit-toy",
+    "url": "https://github.com/goehou/tabbit-toy",
+    "lang": "JavaScript",
+    "desc": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型"
+  },
+  {
+    "createdAt": "2026-06-18T04:26:20Z",
+    "stars": 177,
+    "name": "yin-yizhen/sonic-topography",
+    "url": "https://github.com/yin-yizhen/sonic-topography",
+    "lang": "TypeScript",
+    "desc": "随音乐产生交互的棋盘式海浪，支持网易云搜索"
+  },
+  {
+    "createdAt": "2026-06-16T17:02:25Z",
+    "stars": 176,
+    "name": "EURICO55/download-tor-browser",
+    "url": "https://github.com/EURICO55/download-tor-browser",
+    "lang": "C#",
+    "desc": "tor browser github onion  vpn brave  official download onion routing dark web privacy anonymity security censorship circumvention tracker blocker encrypted traffic .onion sites open source firefox based windows macos linux android portable secure web browsing"
+  },
+  {
+    "createdAt": "2026-06-22T12:56:54Z",
+    "stars": 168,
+    "name": "BohemiaInteractive/CWR",
+    "url": "https://github.com/BohemiaInteractive/CWR",
+    "lang": "C++",
+    "desc": "Arma: Cold War Assault Remastered Source Code Repository."
+  }
+]
