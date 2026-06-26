@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-06-23T02:36:54Z",
+    "stars": 2131,
+    "name": "bozhouDev/codex-orange-book",
+    "url": "https://github.com/bozhouDev/codex-orange-book",
+    "lang": "HTML",
+    "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）"
+  },
+  {
+    "createdAt": "2026-06-20T04:27:07Z",
+    "stars": 1059,
+    "name": "lyra81604/zhengxi-views",
+    "url": "https://github.com/lyra81604/zhengxi-views",
+    "lang": "Python",
+    "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！"
+  },
+  {
+    "createdAt": "2026-06-19T16:19:37Z",
+    "stars": 972,
+    "name": "Forsy-AI/agent-apprenticeship",
+    "url": "https://github.com/Forsy-AI/agent-apprenticeship",
+    "lang": "",
+    "desc": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents."
+  },
+  {
+    "createdAt": "2026-06-19T19:46:29Z",
+    "stars": 960,
+    "name": "aidenybai/cnfast",
+    "url": "https://github.com/aidenybai/cnfast",
+    "lang": "TypeScript",
+    "desc": "Fast drop in replacement for `cn`"
+  },
+  {
+    "createdAt": "2026-06-19T13:24:44Z",
+    "stars": 804,
+    "name": "sums001/Windows-Copilot-API",
+    "url": "https://github.com/sums001/Windows-Copilot-API",
+    "lang": "Python",
+    "desc": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing."
+  },
+  {
+    "createdAt": "2026-06-21T13:57:28Z",
+    "stars": 735,
+    "name": "kanavtwtgg/birds.cafe",
+    "url": "https://github.com/kanavtwtgg/birds.cafe",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-22T12:56:54Z",
+    "stars": 617,
+    "name": "BohemiaInteractive/CWR",
+    "url": "https://github.com/BohemiaInteractive/CWR",
+    "lang": "C++",
+    "desc": "Arma: Cold War Assault Remastered Source Code Repository."
+  },
+  {
+    "createdAt": "2026-06-19T20:36:41Z",
+    "stars": 570,
+    "name": "raiyanyahya/recall",
+    "url": "https://github.com/raiyanyahya/recall",
+    "lang": "Python",
+    "desc": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline."
+  },
+  {
+    "createdAt": "2026-06-22T13:48:37Z",
+    "stars": 564,
+    "name": "QwenLM/Qwen-AgentWorld",
+    "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+    "lang": "Python",
+    "desc": "Qwen-AgentWorld: Language World Models for General Agents"
+  },
+  {
+    "createdAt": "2026-06-20T10:16:22Z",
+    "stars": 548,
+    "name": "yo-WASSUP/Good-Badminton",
+    "url": "https://github.com/yo-WASSUP/Good-Badminton",
+    "lang": "Python",
+    "desc": "🏸  AI Badminton Hawk-Eye System"
+  },
+  {
+    "createdAt": "2026-06-24T08:10:33Z",
+    "stars": 456,
+    "name": "benchflow-ai/awesome-evals",
+    "url": "https://github.com/benchflow-ai/awesome-evals",
+    "lang": "",
+    "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow."
+  },
+  {
+    "createdAt": "2026-06-22T04:08:03Z",
+    "stars": 453,
+    "name": "HKUDS/AgentSpace",
+    "url": "https://github.com/HKUDS/AgentSpace",
+    "lang": "TypeScript",
+    "desc": "\"AgentSpace: Human + Agents. One Team. One Workspace\""
+  },
+  {
+    "createdAt": "2026-06-25T07:42:50Z",
+    "stars": 445,
+    "name": "winsznx/theeleven",
+    "url": "https://github.com/winsznx/theeleven",
+    "lang": "TypeScript",
+    "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking."
+  },
+  {
+    "createdAt": "2026-06-24T06:15:30Z",
+    "stars": 443,
+    "name": "Yu9191/wloc",
+    "url": "https://github.com/Yu9191/wloc",
+    "lang": "JavaScript",
+    "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位"
+  },
+  {
+    "createdAt": "2026-06-20T17:39:59Z",
+    "stars": 424,
+    "name": "overflowy/make-look-scanned",
+    "url": "https://github.com/overflowy/make-look-scanned",
+    "lang": "Go",
+    "desc": "Makes PDFs look scanned (CLI or in the browser via WASM)"
+  },
+  {
+    "createdAt": "2026-06-19T19:24:47Z",
+    "stars": 384,
+    "name": "eooce/transfer-api",
+    "url": "https://github.com/eooce/transfer-api",
+    "lang": "JavaScript",
+    "desc": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes."
+  },
+  {
+    "createdAt": "2026-06-21T18:02:49Z",
+    "stars": 355,
+    "name": "m1ckc3s/claude-status-bar",
+    "url": "https://github.com/m1ckc3s/claude-status-bar",
+    "lang": "Swift",
+    "desc": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle."
+  },
+  {
+    "createdAt": "2026-06-21T10:43:18Z",
+    "stars": 340,
+    "name": "Th0rgal/open_oura",
+    "url": "https://github.com/Th0rgal/open_oura",
+    "lang": "Rust",
+    "desc": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally."
+  },
+  {
+    "createdAt": "2026-06-22T23:31:35Z",
+    "stars": 317,
+    "name": "samasante/liquid-glass",
+    "url": "https://github.com/samasante/liquid-glass",
+    "lang": "TypeScript",
+    "desc": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies."
+  },
+  {
+    "createdAt": "2026-06-23T03:37:12Z",
+    "stars": 313,
+    "name": "goehou/tabbit-toy",
+    "url": "https://github.com/goehou/tabbit-toy",
+    "lang": "JavaScript",
+    "desc": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型"
+  },
+  {
+    "createdAt": "2026-06-22T21:41:41Z",
+    "stars": 304,
+    "name": "krea-ai/krea-2",
+    "url": "https://github.com/krea-ai/krea-2",
+    "lang": "Python",
+    "desc": "Official inference code for Krea 2"
+  },
+  {
+    "createdAt": "2026-06-22T12:04:23Z",
+    "stars": 301,
+    "name": "WangJunqing-coder/huasheng13-skill",
+    "url": "https://github.com/WangJunqing-coder/huasheng13-skill",
+    "lang": "",
+    "desc": "基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。"
+  },
+  {
+    "createdAt": "2026-06-24T08:05:12Z",
+    "stars": 291,
+    "name": "amplifthq/opentag",
+    "url": "https://github.com/amplifthq/opentag",
+    "lang": "TypeScript",
+    "desc": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
+  },
+  {
+    "createdAt": "2026-06-21T13:00:22Z",
+    "stars": 291,
+    "name": "SarkAzia/baiyueguang-learning-skill",
+    "url": "https://github.com/SarkAzia/baiyueguang-learning-skill",
+    "lang": "",
+    "desc": "用视奸前任白月光的方式学数学以及任何学科"
+  },
+  {
+    "createdAt": "2026-06-24T15:42:58Z",
+    "stars": 280,
+    "name": "PMTraderAdam/pm-adam-trader",
+    "url": "https://github.com/PMTraderAdam/pm-adam-trader",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-23T12:17:48Z",
+    "stars": 263,
+    "name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
+    "url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance",
+    "lang": "Python",
+    "desc": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model."
+  },
+  {
+    "createdAt": "2026-06-22T11:37:21Z",
+    "stars": 251,
+    "name": "trotsky1997/OpenFugu",
+    "url": "https://github.com/trotsky1997/OpenFugu",
+    "lang": "Python",
+    "desc": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve."
+  },
+  {
+    "createdAt": "2026-06-19T17:01:10Z",
+    "stars": 235,
+    "name": "dmmulroy/skills",
+    "url": "https://github.com/dmmulroy/skills",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-23T08:26:29Z",
+    "stars": 215,
+    "name": "dama-cyber/Casting-Workflow",
+    "url": "https://github.com/dama-cyber/Casting-Workflow",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-22T11:13:55Z",
+    "stars": 215,
+    "name": "byJoey/cfnew-deployer",
+    "url": "https://github.com/byJoey/cfnew-deployer",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-22T12:40:08Z",
+    "stars": 211,
+    "name": "iart-ai/motion-skills",
+    "url": "https://github.com/iart-ai/motion-skills",
+    "lang": "HTML",
+    "desc": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent."
+  },
+  {
+    "createdAt": "2026-06-22T14:25:22Z",
+    "stars": 206,
+    "name": "iebb/mithka",
+    "url": "https://github.com/iebb/mithka",
+    "lang": "Dart",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-25T01:49:15Z",
+    "stars": 201,
+    "name": "maria-rcks/dinorip",
+    "url": "https://github.com/maria-rcks/dinorip",
+    "lang": "TypeScript",
+    "desc": "Free & Open Source Texture Ripper"
+  },
+  {
+    "createdAt": "2026-06-19T06:34:06Z",
+    "stars": 199,
+    "name": "Karovia/fullstack-ai-agent-roadmap",
+    "url": "https://github.com/Karovia/fullstack-ai-agent-roadmap",
+    "lang": "",
+    "desc": "🎯 从零基础到 AI Agent 全栈工程师 · 110 个详细教程 · 58 万字 · 400+ GitHub 项目精选 · Obsidian 友好 · 中文"
+  },
+  {
+    "createdAt": "2026-06-22T13:08:10Z",
+    "stars": 196,
+    "name": "JayWebtech/autoshorts",
+    "url": "https://github.com/JayWebtech/autoshorts",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-19T13:23:11Z",
+    "stars": 196,
+    "name": "QuantML-Research/wq-alpha-research",
+    "url": "https://github.com/QuantML-Research/wq-alpha-research",
+    "lang": "Python",
+    "desc": "A self-evolving WorldQuant BRAIN alpha research skill."
+  },
+  {
+    "createdAt": "2026-06-20T18:47:23Z",
+    "stars": 195,
+    "name": "FFF686868/proxypin-wloc-spoofer",
+    "url": "https://github.com/FFF686868/proxypin-wloc-spoofer",
+    "lang": "JavaScript",
+    "desc": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests"
+  },
+  {
+    "createdAt": "2026-06-23T12:54:29Z",
+    "stars": 193,
+    "name": "FlavioAdamo/openfit",
+    "url": "https://github.com/FlavioAdamo/openfit",
+    "lang": "TypeScript",
+    "desc": "Desktop dashboard and Codex-powered assistant for Fitbit data"
+  },
+  {
+    "createdAt": "2026-06-19T08:50:48Z",
+    "stars": 192,
+    "name": "Accio-Lab/Dressage",
+    "url": "https://github.com/Accio-Lab/Dressage",
+    "lang": "Python",
+    "desc": "Scalable RL framework for Any Agent and Sandbox."
+  },
+  {
+    "createdAt": "2026-06-26T05:50:51Z",
+    "stars": 192,
+    "name": "Pluviobyte/video-production-skills",
+    "url": "https://github.com/Pluviobyte/video-production-skills",
+    "lang": "Python",
+    "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA."
+  },
+  {
+    "createdAt": "2026-06-22T14:43:10Z",
+    "stars": 189,
+    "name": "i5ting/learn-ai-practice",
+    "url": "https://github.com/i5ting/learn-ai-practice",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-19T10:08:01Z",
+    "stars": 187,
+    "name": "cote-tony/walletgen",
+    "url": "https://github.com/cote-tony/walletgen",
+    "lang": "C++",
+    "desc": "Seed phrase generator / checker for Bitcoin & Ethereum crypto wallets. Recovery your BTC or ETH wallet via seed phrase / private key bruteforce finding or brain wallet generator."
+  },
+  {
+    "createdAt": "2026-06-20T11:34:58Z",
+    "stars": 186,
+    "name": "Radiant303/SpringNote",
+    "url": "https://github.com/Radiant303/SpringNote",
+    "lang": "Dart",
+    "desc": "懒人实习记录工具"
+  },
+  {
+    "createdAt": "2026-06-21T18:36:56Z",
+    "stars": 185,
+    "name": "haowang02/codex-candy-eval",
+    "url": "https://github.com/haowang02/codex-candy-eval",
+    "lang": "Python",
+    "desc": "Codex 降智测试"
+  },
+  {
+    "createdAt": "2026-06-21T14:02:36Z",
+    "stars": 180,
+    "name": "manojd23625/Steam-Tools",
+    "url": "https://github.com/manojd23625/Steam-Tools",
+    "lang": "C#",
+    "desc": "steamtools steam download manifest steamtools manifest steamdb steamtools lua steamtools games steam download manifest steam steam manifest client tool utility script file manager app library pc game"
+  },
+  {
+    "createdAt": "2026-06-22T13:43:13Z",
+    "stars": 178,
+    "name": "Johell1NS/browser-search",
+    "url": "https://github.com/Johell1NS/browser-search",
+    "lang": "JavaScript",
+    "desc": "A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited."
+  },
+  {
+    "createdAt": "2026-06-20T06:20:02Z",
+    "stars": 173,
+    "name": "qwer-xyz/incudal",
+    "url": "https://github.com/qwer-xyz/incudal",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-22T09:38:19Z",
+    "stars": 167,
+    "name": "ccrpRepo/robot_retargeter",
+    "url": "https://github.com/ccrpRepo/robot_retargeter",
+    "lang": "Python",
+    "desc": "Motion retargeting pipeline from SMPL-X / source robots to target humanoid robots."
+  },
+  {
+    "createdAt": "2026-06-20T15:20:52Z",
+    "stars": 166,
+    "name": "Env-Kit/envkit-releases",
+    "url": "https://github.com/Env-Kit/envkit-releases",
+    "lang": "Shell",
+    "desc": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB,   PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control.   A Laragon/XAMPP/Herd alternative."
+  },
+  {
+    "createdAt": "2026-06-22T17:58:21Z",
+    "stars": 165,
+    "name": "pipilikam/pro-dc-reader-pdf-editor",
+    "url": "https://github.com/pipilikam/pro-dc-reader-pdf-editor",
+    "lang": "",
+    "desc": " pro reader pdf editor converter merge split sign fill document ocr compress page extract form stamp comment tools creator software suite application desktop print scan digital secure web"
+  }
+]
