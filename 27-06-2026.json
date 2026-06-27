@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-06-23T02:36:54Z",
+    "stars": 2209,
+    "name": "bozhouDev/codex-orange-book",
+    "url": "https://github.com/bozhouDev/codex-orange-book",
+    "lang": "HTML",
+    "desc": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）"
+  },
+  {
+    "createdAt": "2026-06-26T12:36:05Z",
+    "stars": 1242,
+    "name": "deepseek-ai/DeepSpec",
+    "url": "https://github.com/deepseek-ai/DeepSpec",
+    "lang": "Python",
+    "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms"
+  },
+  {
+    "createdAt": "2026-06-23T05:14:11Z",
+    "stars": 1095,
+    "name": "bikini/exploitarium",
+    "url": "https://github.com/bikini/exploitarium",
+    "lang": "Python",
+    "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way."
+  },
+  {
+    "createdAt": "2026-06-20T04:27:07Z",
+    "stars": 1077,
+    "name": "lyra81604/zhengxi-views",
+    "url": "https://github.com/lyra81604/zhengxi-views",
+    "lang": "Python",
+    "desc": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！"
+  },
+  {
+    "createdAt": "2026-06-21T13:57:28Z",
+    "stars": 736,
+    "name": "kanavtwtgg/birds.cafe",
+    "url": "https://github.com/kanavtwtgg/birds.cafe",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-22T12:56:54Z",
+    "stars": 661,
+    "name": "BohemiaInteractive/CWR",
+    "url": "https://github.com/BohemiaInteractive/CWR",
+    "lang": "C++",
+    "desc": "Arma: Cold War Assault Remastered Source Code Repository."
+  },
+  {
+    "createdAt": "2026-06-25T07:42:50Z",
+    "stars": 633,
+    "name": "winsznx/theeleven",
+    "url": "https://github.com/winsznx/theeleven",
+    "lang": "TypeScript",
+    "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking."
+  },
+  {
+    "createdAt": "2026-06-24T06:15:30Z",
+    "stars": 631,
+    "name": "Yu9191/wloc",
+    "url": "https://github.com/Yu9191/wloc",
+    "lang": "JavaScript",
+    "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位"
+  },
+  {
+    "createdAt": "2026-06-22T13:48:37Z",
+    "stars": 591,
+    "name": "QwenLM/Qwen-AgentWorld",
+    "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+    "lang": "Python",
+    "desc": "Qwen-AgentWorld: Language World Models for General Agents"
+  },
+  {
+    "createdAt": "2026-06-20T10:16:22Z",
+    "stars": 560,
+    "name": "yo-WASSUP/Good-Badminton",
+    "url": "https://github.com/yo-WASSUP/Good-Badminton",
+    "lang": "Python",
+    "desc": "🏸  AI Badminton Hawk-Eye System"
+  },
+  {
+    "createdAt": "2026-06-24T08:10:33Z",
+    "stars": 530,
+    "name": "benchflow-ai/awesome-evals",
+    "url": "https://github.com/benchflow-ai/awesome-evals",
+    "lang": "",
+    "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow."
+  },
+  {
+    "createdAt": "2026-06-22T04:08:03Z",
+    "stars": 477,
+    "name": "HKUDS/AgentSpace",
+    "url": "https://github.com/HKUDS/AgentSpace",
+    "lang": "TypeScript",
+    "desc": "\"AgentSpace: Human + Agents. One Team. One Workspace\""
+  },
+  {
+    "createdAt": "2026-06-20T17:39:59Z",
+    "stars": 432,
+    "name": "overflowy/make-look-scanned",
+    "url": "https://github.com/overflowy/make-look-scanned",
+    "lang": "Go",
+    "desc": "Makes PDFs look scanned (CLI or in the browser via WASM)"
+  },
+  {
+    "createdAt": "2026-06-21T18:02:49Z",
+    "stars": 369,
+    "name": "m1ckc3s/claude-status-bar",
+    "url": "https://github.com/m1ckc3s/claude-status-bar",
+    "lang": "Swift",
+    "desc": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle."
+  },
+  {
+    "createdAt": "2026-06-23T03:37:12Z",
+    "stars": 364,
+    "name": "goehou/tabbit-toy",
+    "url": "https://github.com/goehou/tabbit-toy",
+    "lang": "JavaScript",
+    "desc": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型"
+  },
+  {
+    "createdAt": "2026-06-26T22:59:46Z",
+    "stars": 354,
+    "name": "playPlumtown/Plumtown",
+    "url": "https://github.com/playPlumtown/Plumtown",
+    "lang": "JavaScript",
+    "desc": "The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser."
+  },
+  {
+    "createdAt": "2026-06-21T10:43:18Z",
+    "stars": 350,
+    "name": "Th0rgal/open_oura",
+    "url": "https://github.com/Th0rgal/open_oura",
+    "lang": "Rust",
+    "desc": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally."
+  },
+  {
+    "createdAt": "2026-06-22T12:04:23Z",
+    "stars": 350,
+    "name": "WangJunqing-coder/huasheng13-skill",
+    "url": "https://github.com/WangJunqing-coder/huasheng13-skill",
+    "lang": "",
+    "desc": "基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。"
+  },
+  {
+    "createdAt": "2026-06-22T23:31:35Z",
+    "stars": 339,
+    "name": "samasante/liquid-glass",
+    "url": "https://github.com/samasante/liquid-glass",
+    "lang": "TypeScript",
+    "desc": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies."
+  },
+  {
+    "createdAt": "2026-06-22T21:41:41Z",
+    "stars": 329,
+    "name": "krea-ai/krea-2",
+    "url": "https://github.com/krea-ai/krea-2",
+    "lang": "Python",
+    "desc": "Official inference code for Krea 2"
+  },
+  {
+    "createdAt": "2026-06-24T08:05:12Z",
+    "stars": 328,
+    "name": "amplifthq/opentag",
+    "url": "https://github.com/amplifthq/opentag",
+    "lang": "TypeScript",
+    "desc": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
+  },
+  {
+    "createdAt": "2026-06-26T05:50:51Z",
+    "stars": 318,
+    "name": "Pluviobyte/video-production-skills",
+    "url": "https://github.com/Pluviobyte/video-production-skills",
+    "lang": "Python",
+    "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA."
+  },
+  {
+    "createdAt": "2026-06-21T01:25:20Z",
+    "stars": 313,
+    "name": "fancydirty/mediary-scout",
+    "url": "https://github.com/fancydirty/mediary-scout",
+    "lang": "TypeScript",
+    "desc": "Agent-driven media library for your cloud drives (115 / Quark / 光鸭 GuangYaPan)."
+  },
+  {
+    "createdAt": "2026-06-24T12:34:36Z",
+    "stars": 307,
+    "name": "AlexandrosGounis/pdfx",
+    "url": "https://github.com/AlexandrosGounis/pdfx",
+    "lang": "TypeScript",
+    "desc": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata"
+  },
+  {
+    "createdAt": "2026-06-24T15:42:58Z",
+    "stars": 304,
+    "name": "PMTraderAdam/pm-adam-trader",
+    "url": "https://github.com/PMTraderAdam/pm-adam-trader",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-21T13:00:22Z",
+    "stars": 303,
+    "name": "SarkAzia/baiyueguang-learning-skill",
+    "url": "https://github.com/SarkAzia/baiyueguang-learning-skill",
+    "lang": "",
+    "desc": "用视奸前任白月光的方式学数学以及任何学科"
+  },
+  {
+    "createdAt": "2026-06-23T12:17:48Z",
+    "stars": 278,
+    "name": "nova452/ComfyUI-Conditioning-Rebalance",
+    "url": "https://github.com/nova452/ComfyUI-Conditioning-Rebalance",
+    "lang": "Python",
+    "desc": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model."
+  },
+  {
+    "createdAt": "2026-06-22T14:25:22Z",
+    "stars": 274,
+    "name": "iebb/mithka",
+    "url": "https://github.com/iebb/mithka",
+    "lang": "Dart",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-22T11:37:21Z",
+    "stars": 266,
+    "name": "trotsky1997/OpenFugu",
+    "url": "https://github.com/trotsky1997/OpenFugu",
+    "lang": "Python",
+    "desc": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve."
+  },
+  {
+    "createdAt": "2026-06-22T11:13:55Z",
+    "stars": 249,
+    "name": "byJoey/cfnew-deployer",
+    "url": "https://github.com/byJoey/cfnew-deployer",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-23T08:26:29Z",
+    "stars": 248,
+    "name": "dama-cyber/Casting-Workflow",
+    "url": "https://github.com/dama-cyber/Casting-Workflow",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-24T16:33:29Z",
+    "stars": 248,
+    "name": "PMTraderAdam/pm-copy-trader",
+    "url": "https://github.com/PMTraderAdam/pm-copy-trader",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-24T02:20:56Z",
+    "stars": 244,
+    "name": "abundantbeing/hermes-browser-extension",
+    "url": "https://github.com/abundantbeing/hermes-browser-extension",
+    "lang": "JavaScript",
+    "desc": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime."
+  },
+  {
+    "createdAt": "2026-06-24T17:05:46Z",
+    "stars": 243,
+    "name": "slimopump/sillygoose",
+    "url": "https://github.com/slimopump/sillygoose",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-24T15:42:53Z",
+    "stars": 241,
+    "name": "MalcolmMcGough/polymarket-trading-bot-scalping",
+    "url": "https://github.com/MalcolmMcGough/polymarket-trading-bot-scalping",
+    "lang": "TypeScript",
+    "desc": "polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot | polymarket trading bot "
+  },
+  {
+    "createdAt": "2026-06-26T11:52:40Z",
+    "stars": 241,
+    "name": "xxniiinxx/coinflip-casino",
+    "url": "https://github.com/xxniiinxx/coinflip-casino",
+    "lang": "TypeScript",
+    "desc": "A full-stack, peer-to-peer coinflip betting game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB. "
+  },
+  {
+    "createdAt": "2026-06-27T00:56:36Z",
+    "stars": 225,
+    "name": "eli-labz/Godcoder",
+    "url": "https://github.com/eli-labz/Godcoder",
+    "lang": "Rust",
+    "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider"
+  },
+  {
+    "createdAt": "2026-06-25T01:49:15Z",
+    "stars": 223,
+    "name": "maria-rcks/dinorip",
+    "url": "https://github.com/maria-rcks/dinorip",
+    "lang": "TypeScript",
+    "desc": "Free & Open Source Texture Ripper"
+  },
+  {
+    "createdAt": "2026-06-24T04:33:55Z",
+    "stars": 218,
+    "name": "tutusagi/ai-fishing-game",
+    "url": "https://github.com/tutusagi/ai-fishing-game",
+    "lang": "Python",
+    "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼"
+  },
+  {
+    "createdAt": "2026-06-22T12:40:08Z",
+    "stars": 217,
+    "name": "iart-ai/motion-skills",
+    "url": "https://github.com/iart-ai/motion-skills",
+    "lang": "HTML",
+    "desc": "50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent."
+  },
+  {
+    "createdAt": "2026-06-26T06:22:39Z",
+    "stars": 212,
+    "name": "ivorpad/mercadona-cli",
+    "url": "https://github.com/ivorpad/mercadona-cli",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-24T18:19:06Z",
+    "stars": 208,
+    "name": "uphiago/recon-skills",
+    "url": "https://github.com/uphiago/recon-skills",
+    "lang": "Python",
+    "desc": "144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with web enum, email sec, google dorks, cloud IAM, WordPress full compromise chains."
+  },
+  {
+    "createdAt": "2026-06-22T13:08:10Z",
+    "stars": 206,
+    "name": "JayWebtech/autoshorts",
+    "url": "https://github.com/JayWebtech/autoshorts",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-26T03:26:03Z",
+    "stars": 204,
+    "name": "FossPrime/Steam-Controller-Auto-Charge",
+    "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+    "lang": "Vue",
+    "desc": "Slam the controller into the magnetic puck until it charges"
+  },
+  {
+    "createdAt": "2026-06-23T15:40:46Z",
+    "stars": 203,
+    "name": "0xShug0/audio.cpp",
+    "url": "https://github.com/0xShug0/audio.cpp",
+    "lang": "C++",
+    "desc": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency."
+  },
+  {
+    "createdAt": "2026-06-23T12:54:29Z",
+    "stars": 203,
+    "name": "FlavioAdamo/openfit",
+    "url": "https://github.com/FlavioAdamo/openfit",
+    "lang": "TypeScript",
+    "desc": "Desktop dashboard and Codex-powered assistant for Fitbit data"
+  },
+  {
+    "createdAt": "2026-06-26T09:29:51Z",
+    "stars": 201,
+    "name": "cclank/lanshu-animated-architecture-diagram",
+    "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+    "lang": "Python",
+    "desc": "Premium hand-drawn animated architecture diagram Codex skill"
+  },
+  {
+    "createdAt": "2026-06-20T11:34:58Z",
+    "stars": 200,
+    "name": "Radiant303/SpringNote",
+    "url": "https://github.com/Radiant303/SpringNote",
+    "lang": "Dart",
+    "desc": "懒人实习记录工具"
+  },
+  {
+    "createdAt": "2026-06-20T18:47:23Z",
+    "stars": 197,
+    "name": "FFF686868/proxypin-wloc-spoofer",
+    "url": "https://github.com/FFF686868/proxypin-wloc-spoofer",
+    "lang": "JavaScript",
+    "desc": "ProxyPin script for authorized iOS Apple WLOC response rewriting tests"
+  },
+  {
+    "createdAt": "2026-06-26T04:34:01Z",
+    "stars": 194,
+    "name": "CopilotKit/OpenTag",
+    "url": "https://github.com/CopilotKit/OpenTag",
+    "lang": "TypeScript",
+    "desc": "OpenTag"
+  }
+]
