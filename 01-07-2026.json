@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-06-26T12:36:05Z",
+    "stars": 5741,
+    "name": "deepseek-ai/DeepSpec",
+    "url": "https://github.com/deepseek-ai/DeepSpec",
+    "lang": "Python",
+    "desc": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms"
+  },
+  {
+    "createdAt": "2026-06-24T06:15:30Z",
+    "stars": 2324,
+    "name": "Yu9191/wloc",
+    "url": "https://github.com/Yu9191/wloc",
+    "lang": "JavaScript",
+    "desc": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位"
+  },
+  {
+    "createdAt": "2026-06-25T12:37:15Z",
+    "stars": 2284,
+    "name": "baairon/torlink",
+    "url": "https://github.com/baairon/torlink",
+    "lang": "TypeScript",
+    "desc": "A sleek, zero-setup torrent finder and downloader that lives right in your terminal."
+  },
+  {
+    "createdAt": "2026-06-28T07:08:15Z",
+    "stars": 1330,
+    "name": "Krishnagangwal/CS-Fundamentals",
+    "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+    "lang": "",
+    "desc": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering"
+  },
+  {
+    "createdAt": "2026-06-28T10:24:42Z",
+    "stars": 1005,
+    "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+    "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-28T19:30:36Z",
+    "stars": 739,
+    "name": "Kulaxyz/self-learning-skills",
+    "url": "https://github.com/Kulaxyz/self-learning-skills",
+    "lang": "",
+    "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time."
+  },
+  {
+    "createdAt": "2026-06-30T01:04:13Z",
+    "stars": 717,
+    "name": "TianhangZhuzth/Fundamental-Ava",
+    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+    "lang": "Python",
+    "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
+  },
+  {
+    "createdAt": "2026-06-25T07:42:50Z",
+    "stars": 681,
+    "name": "winsznx/theeleven",
+    "url": "https://github.com/winsznx/theeleven",
+    "lang": "TypeScript",
+    "desc": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking."
+  },
+  {
+    "createdAt": "2026-06-24T12:34:36Z",
+    "stars": 633,
+    "name": "AlexandrosGounis/pdfx",
+    "url": "https://github.com/AlexandrosGounis/pdfx",
+    "lang": "TypeScript",
+    "desc": "An extension of the traditional PDF standard, allowing multiple files to be stored in a single file via metadata"
+  },
+  {
+    "createdAt": "2026-06-24T08:10:33Z",
+    "stars": 622,
+    "name": "benchflow-ai/awesome-evals",
+    "url": "https://github.com/benchflow-ai/awesome-evals",
+    "lang": "",
+    "desc": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow."
+  },
+  {
+    "createdAt": "2026-06-30T11:20:30Z",
+    "stars": 613,
+    "name": "mekos2772/ios-location-spoofer",
+    "url": "https://github.com/mekos2772/ios-location-spoofer",
+    "lang": "JavaScript",
+    "desc": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module."
+  },
+  {
+    "createdAt": "2026-06-28T07:13:52Z",
+    "stars": 571,
+    "name": "aquace/CVE-2026-41940-PoC",
+    "url": "https://github.com/aquace/CVE-2026-41940-PoC",
+    "lang": "Python",
+    "desc": "CVE-2026-41940 authentication bypass vulnerability proof-of-concept"
+  },
+  {
+    "createdAt": "2026-06-24T08:05:12Z",
+    "stars": 525,
+    "name": "amplifthq/opentag",
+    "url": "https://github.com/amplifthq/opentag",
+    "lang": "TypeScript",
+    "desc": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread."
+  },
+  {
+    "createdAt": "2026-06-26T05:50:51Z",
+    "stars": 492,
+    "name": "Pluviobyte/video-production-skills",
+    "url": "https://github.com/Pluviobyte/video-production-skills",
+    "lang": "Python",
+    "desc": "Reusable AI video production skills library for creation, recreation, motion design, openers, and QA."
+  },
+  {
+    "createdAt": "2026-06-26T04:34:01Z",
+    "stars": 486,
+    "name": "CopilotKit/OpenTag",
+    "url": "https://github.com/CopilotKit/OpenTag",
+    "lang": "TypeScript",
+    "desc": "OpenTag"
+  },
+  {
+    "createdAt": "2026-06-25T22:02:07Z",
+    "stars": 452,
+    "name": "tdeverx/contained-app",
+    "url": "https://github.com/tdeverx/contained-app",
+    "lang": "Swift",
+    "desc": "A native macOS app for Apple's Container CLI"
+  },
+  {
+    "createdAt": "2026-06-27T23:06:00Z",
+    "stars": 435,
+    "name": "diinki/linux-antiquity",
+    "url": "https://github.com/diinki/linux-antiquity",
+    "lang": "QML",
+    "desc": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology."
+  },
+  {
+    "createdAt": "2026-06-24T02:20:56Z",
+    "stars": 424,
+    "name": "abundantbeing/hermes-browser-extension",
+    "url": "https://github.com/abundantbeing/hermes-browser-extension",
+    "lang": "JavaScript",
+    "desc": "Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime."
+  },
+  {
+    "createdAt": "2026-06-26T08:05:42Z",
+    "stars": 418,
+    "name": "Leron-X/leronx",
+    "url": "https://github.com/Leron-X/leronx",
+    "lang": "Python",
+    "desc": "LeronX — AI Image & Video Generation Platform"
+  },
+  {
+    "createdAt": "2026-06-26T09:29:51Z",
+    "stars": 404,
+    "name": "cclank/lanshu-animated-architecture-diagram",
+    "url": "https://github.com/cclank/lanshu-animated-architecture-diagram",
+    "lang": "Python",
+    "desc": "Premium hand-drawn animated architecture diagram Codex skill"
+  },
+  {
+    "createdAt": "2026-06-26T05:59:56Z",
+    "stars": 395,
+    "name": "lycorp-jp/sim-use",
+    "url": "https://github.com/lycorp-jp/sim-use",
+    "lang": "Swift",
+    "desc": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices."
+  },
+  {
+    "createdAt": "2026-06-27T15:02:46Z",
+    "stars": 380,
+    "name": "wlzh/dji-4g-vohive-mac",
+    "url": "https://github.com/wlzh/dji-4g-vohive-mac",
+    "lang": "",
+    "desc": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤"
+  },
+  {
+    "createdAt": "2026-06-28T04:38:07Z",
+    "stars": 375,
+    "name": "Jia-Ethan/codex-keysmith",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith",
+    "lang": "Python",
+    "desc": "Codex CLI instruction-file installer for local configuration"
+  },
+  {
+    "createdAt": "2026-06-24T17:05:46Z",
+    "stars": 360,
+    "name": "slimopump/sillygoose",
+    "url": "https://github.com/slimopump/sillygoose",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-26T18:37:27Z",
+    "stars": 355,
+    "name": "ricccrd/dd",
+    "url": "https://github.com/ricccrd/dd",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-26T14:37:26Z",
+    "stars": 354,
+    "name": "Einsia/Browser-BC",
+    "url": "https://github.com/Einsia/Browser-BC",
+    "lang": "TypeScript",
+    "desc": "Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting."
+  },
+  {
+    "createdAt": "2026-06-24T16:33:29Z",
+    "stars": 352,
+    "name": "PMTraderAdam/500-per-day-trading-bot",
+    "url": "https://github.com/PMTraderAdam/500-per-day-trading-bot",
+    "lang": "TypeScript",
+    "desc": "polymarket trading bot polymarket bot polymarket arbitrage bot polymarket bot polymarket copy trading bot polymarket copytrading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket bot polymarket bot"
+  },
+  {
+    "createdAt": "2026-06-26T11:52:40Z",
+    "stars": 346,
+    "name": "xxniiinxx/coinflip-casino-game",
+    "url": "https://github.com/xxniiinxx/coinflip-casino-game",
+    "lang": "TypeScript",
+    "desc": "A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB. "
+  },
+  {
+    "createdAt": "2026-06-24T04:33:55Z",
+    "stars": 345,
+    "name": "tutusagi/ai-fishing-game",
+    "url": "https://github.com/tutusagi/ai-fishing-game",
+    "lang": "Python",
+    "desc": "🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼"
+  },
+  {
+    "createdAt": "2026-06-27T04:54:21Z",
+    "stars": 343,
+    "name": "downclash/clash",
+    "url": "https://github.com/downclash/clash",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-26T22:59:46Z",
+    "stars": 334,
+    "name": "blknoiz0632/CandyDrop",
+    "url": "https://github.com/blknoiz0632/CandyDrop",
+    "lang": "JavaScript",
+    "desc": "Cut the rope. Feed the monster. Earn real Solana. A skill-based play-to-earn puzzle on @Solana — play, stack $CANDY, claim SOL. No wagers. Just skill."
+  },
+  {
+    "createdAt": "2026-06-28T22:56:13Z",
+    "stars": 329,
+    "name": "offchainthoughts/Amber",
+    "url": "https://github.com/offchainthoughts/Amber",
+    "lang": "Python",
+    "desc": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be."
+  },
+  {
+    "createdAt": "2026-06-24T18:19:06Z",
+    "stars": 289,
+    "name": "uphiago/recon-skills",
+    "url": "https://github.com/uphiago/recon-skills",
+    "lang": "Python",
+    "desc": "144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with web enum, email sec, google dorks, cloud IAM, WordPress full compromise chains."
+  },
+  {
+    "createdAt": "2026-06-26T06:22:39Z",
+    "stars": 289,
+    "name": "ivorpad/mercadona-cli",
+    "url": "https://github.com/ivorpad/mercadona-cli",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-27T00:56:36Z",
+    "stars": 265,
+    "name": "eli-labz/Godcoder",
+    "url": "https://github.com/eli-labz/Godcoder",
+    "lang": "Rust",
+    "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes."
+  },
+  {
+    "createdAt": "2026-06-24T02:32:21Z",
+    "stars": 257,
+    "name": "crazyykhllc-bit/CyberPPT",
+    "url": "https://github.com/crazyykhllc-bit/CyberPPT",
+    "lang": "Python",
+    "desc": "一个用于生成高密度、可编辑、咨询风格 PowerPoint 的 Codex Skill，支持 SCR 叙事、风格确认和 PPTX 质量检查。"
+  },
+  {
+    "createdAt": "2026-06-25T01:49:15Z",
+    "stars": 253,
+    "name": "maria-rcks/dinorip",
+    "url": "https://github.com/maria-rcks/dinorip",
+    "lang": "TypeScript",
+    "desc": "Free & Open Source Texture Ripper"
+  },
+  {
+    "createdAt": "2026-06-26T03:26:03Z",
+    "stars": 243,
+    "name": "FossPrime/Steam-Controller-Auto-Charge",
+    "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+    "lang": "TypeScript",
+    "desc": "Slam the controller into the magnetic puck until it charges"
+  },
+  {
+    "createdAt": "2026-06-27T17:08:18Z",
+    "stars": 240,
+    "name": "JasonLiu0826/ackem",
+    "url": "https://github.com/JasonLiu0826/ackem",
+    "lang": "TypeScript",
+    "desc": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0"
+  },
+  {
+    "createdAt": "2026-06-24T03:33:06Z",
+    "stars": 240,
+    "name": "hanlinwenyuan/hlwy-ai-checker",
+    "url": "https://github.com/hanlinwenyuan/hlwy-ai-checker",
+    "lang": "HTML",
+    "desc": "检查第三方AI API是否掺假以及渠道一致"
+  },
+  {
+    "createdAt": "2026-06-26T08:14:46Z",
+    "stars": 239,
+    "name": "origamidottech/hyperliquid-trading-bot",
+    "url": "https://github.com/origamidottech/hyperliquid-trading-bot",
+    "lang": "TypeScript",
+    "desc": "Hyperliquid/Perps copy trading bot copy trading bot, Hip-3 trading bot, perp trading bot, hyperliquid trading bot, Hyperliquid/Perps copy trading bot copy trading bot, Hip-4 trading bot, perp trading bot, hyperliquid trading bot, Hyperliquid/Perps copy trading bot copy trading bot, Hip-3/4 trading bot, perp trading bot, hyperliquid trading bot"
+  },
+  {
+    "createdAt": "2026-06-28T12:02:16Z",
+    "stars": 237,
+    "name": "revfactory/webtoon-harness",
+    "url": "https://github.com/revfactory/webtoon-harness",
+    "lang": "HTML",
+    "desc": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스"
+  },
+  {
+    "createdAt": "2026-06-26T04:12:52Z",
+    "stars": 233,
+    "name": "gemtoast/solana-trading-bot",
+    "url": "https://github.com/gemtoast/solana-trading-bot",
+    "lang": "TypeScript",
+    "desc": "Solana trading bot pumpfun pumpdotfun trading/copy-trading bot, pumpswap and raydium trading bot sniper bot, copy trading bot, trading bot, Solana trading bot pumpfun pumpdotfun trading/copy-trading bot, pumpswap and raydium trading bot sniper bot, copy trading bot, trading bot, Solana trading bot pumpfun pumpdotfun trading/copy-trading bot"
+  },
+  {
+    "createdAt": "2026-06-26T08:39:46Z",
+    "stars": 233,
+    "name": "ik190/macos-chatgpt-overlay-bar",
+    "url": "https://github.com/ik190/macos-chatgpt-overlay-bar",
+    "lang": "",
+    "desc": "ChatGPT for Mac, living in your menubar."
+  },
+  {
+    "createdAt": "2026-06-27T15:00:12Z",
+    "stars": 232,
+    "name": "kui123456789/cdk-redeem-only-extension",
+    "url": "https://github.com/kui123456789/cdk-redeem-only-extension",
+    "lang": "JavaScript",
+    "desc": "UPI redeem only extension"
+  },
+  {
+    "createdAt": "2026-07-01T00:20:06Z",
+    "stars": 226,
+    "name": "StephanoEscobarLoayza/Spotify_Playlist_Booster",
+    "url": "https://github.com/StephanoEscobarLoayza/Spotify_Playlist_Booster",
+    "lang": "Python",
+    "desc": "Increase followers, playlist streams, and auto-like songs. Play songs on loop, get fake followers, like all songs, and create playlists automatically. Grow your Spotify presence."
+  },
+  {
+    "createdAt": "2026-07-01T00:20:51Z",
+    "stars": 225,
+    "name": "zhujingqi/Twitter_Engagement_Tool",
+    "url": "https://github.com/zhujingqi/Twitter_Engagement_Tool",
+    "lang": "Python",
+    "desc": "Auto-tweet, follow/unfollow, and like/retweet scheduler. Schedule tweets, gain followers, like tweets, and reply to mentions. Grow your Twitter audience."
+  },
+  {
+    "createdAt": "2026-06-29T05:33:18Z",
+    "stars": 224,
+    "name": "spiritov/ds.css",
+    "url": "https://github.com/spiritov/ds.css",
+    "lang": "CSS",
+    "desc": "A css framework recreating the DS / DS Lite's UI"
+  },
+  {
+    "createdAt": "2026-07-01T00:20:09Z",
+    "stars": 223,
+    "name": "Zeeshan2899/System_Backup___Restore",
+    "url": "https://github.com/Zeeshan2899/System_Backup___Restore",
+    "lang": "Python",
+    "desc": "Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system backup."
+  },
+  {
+    "createdAt": "2026-07-01T00:20:56Z",
+    "stars": 223,
+    "name": "SrSCK/Virtual_Machine_Manager",
+    "url": "https://github.com/SrSCK/Virtual_Machine_Manager",
+    "lang": "Python",
+    "desc": "Run and manage virtual machines with ease. Supports VMware, VirtualBox, and Hyper-V. Create, start, and stop VMs."
+  }
+]
