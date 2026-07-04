@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-06-28T07:08:15Z",
+    "stars": 1575,
+    "name": "Krishnagangwal/CS-Fundamentals",
+    "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+    "lang": "",
+    "desc": "Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering"
+  },
+  {
+    "createdAt": "2026-06-28T10:24:42Z",
+    "stars": 1373,
+    "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+    "url": "https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-30T11:20:30Z",
+    "stars": 1284,
+    "name": "mekos2772/ios-location-spoofer",
+    "url": "https://github.com/mekos2772/ios-location-spoofer",
+    "lang": "JavaScript",
+    "desc": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module."
+  },
+  {
+    "createdAt": "2026-06-28T19:30:36Z",
+    "stars": 825,
+    "name": "Kulaxyz/self-learning-skills",
+    "url": "https://github.com/Kulaxyz/self-learning-skills",
+    "lang": "",
+    "desc": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time."
+  },
+  {
+    "createdAt": "2026-07-03T13:06:03Z",
+    "stars": 736,
+    "name": "jamesob/local-llm",
+    "url": "https://github.com/jamesob/local-llm",
+    "lang": "Shell",
+    "desc": "Everything I know about running LLMs locally"
+  },
+  {
+    "createdAt": "2026-06-30T10:55:02Z",
+    "stars": 729,
+    "name": "HUANGCHIHHUNGLeo/claude-real-video",
+    "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "lang": "Python",
+    "desc": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT."
+  },
+  {
+    "createdAt": "2026-07-03T03:56:00Z",
+    "stars": 637,
+    "name": "xuchonglang/investing-for-beginners",
+    "url": "https://github.com/xuchonglang/investing-for-beginners",
+    "lang": "",
+    "desc": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架"
+  },
+  {
+    "createdAt": "2026-06-27T23:06:00Z",
+    "stars": 614,
+    "name": "diinki/linux-antiquity",
+    "url": "https://github.com/diinki/linux-antiquity",
+    "lang": "QML",
+    "desc": "A highly tasteful Linux-theme, reminiscent of art-nouveau and old drawings related to astronomy, science, and mythology."
+  },
+  {
+    "createdAt": "2026-07-02T14:43:11Z",
+    "stars": 579,
+    "name": "jmerelnyc/Talos",
+    "url": "https://github.com/jmerelnyc/Talos",
+    "lang": "Python",
+    "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts."
+  },
+  {
+    "createdAt": "2026-07-02T12:47:31Z",
+    "stars": 537,
+    "name": "uzairansaruzi/hermex",
+    "url": "https://github.com/uzairansaruzi/hermex",
+    "lang": "Swift",
+    "desc": "Native iPhone app for your Hermes agent"
+  },
+  {
+    "createdAt": "2026-06-30T01:04:13Z",
+    "stars": 523,
+    "name": "TianhangZhuzth/Fundamental-Ava",
+    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+    "lang": "Python",
+    "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
+  },
+  {
+    "createdAt": "2026-06-27T15:00:12Z",
+    "stars": 493,
+    "name": "kui123456789/cdk-redeem-only-extension",
+    "url": "https://github.com/kui123456789/cdk-redeem-only-extension",
+    "lang": "JavaScript",
+    "desc": "UPI redeem only extension"
+  },
+  {
+    "createdAt": "2026-06-27T15:02:46Z",
+    "stars": 464,
+    "name": "wlzh/dji-4g-vohive-mac",
+    "url": "https://github.com/wlzh/dji-4g-vohive-mac",
+    "lang": "",
+    "desc": "在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤"
+  },
+  {
+    "createdAt": "2026-07-03T15:20:04Z",
+    "stars": 447,
+    "name": "Kulaxyz/token-diet",
+    "url": "https://github.com/Kulaxyz/token-diet",
+    "lang": "Shell",
+    "desc": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness."
+  },
+  {
+    "createdAt": "2026-06-29T05:33:18Z",
+    "stars": 422,
+    "name": "spiritov/ds.css",
+    "url": "https://github.com/spiritov/ds.css",
+    "lang": "CSS",
+    "desc": "A css framework recreating the DS / DS Lite's UI"
+  },
+  {
+    "createdAt": "2026-06-28T04:38:07Z",
+    "stars": 419,
+    "name": "Jia-Ethan/codex-keysmith",
+    "url": "https://github.com/Jia-Ethan/codex-keysmith",
+    "lang": "Python",
+    "desc": "Codex CLI instruction-file installer for local configuration"
+  },
+  {
+    "createdAt": "2026-07-02T03:47:34Z",
+    "stars": 412,
+    "name": "asz798838958/FrciblyK12",
+    "url": "https://github.com/asz798838958/FrciblyK12",
+    "lang": "Python",
+    "desc": "多线程全自动注册free 强上K12空间"
+  },
+  {
+    "createdAt": "2026-07-02T05:36:45Z",
+    "stars": 370,
+    "name": "LinXiaoTao/FuckClaude",
+    "url": "https://github.com/LinXiaoTao/FuckClaude",
+    "lang": "Astro",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-28T12:25:34Z",
+    "stars": 364,
+    "name": "FractalFir/crustc",
+    "url": "https://github.com/FractalFir/crustc",
+    "lang": "C",
+    "desc": "Entirety of `rustc`, translated to C. "
+  },
+  {
+    "createdAt": "2026-06-30T22:08:31Z",
+    "stars": 348,
+    "name": "lingbol088-spec/reverse-flow-skill",
+    "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+    "lang": "Python",
+    "desc": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。"
+  },
+  {
+    "createdAt": "2026-06-27T17:08:18Z",
+    "stars": 335,
+    "name": "JasonLiu0826/ackem",
+    "url": "https://github.com/JasonLiu0826/ackem",
+    "lang": "TypeScript",
+    "desc": "Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0"
+  },
+  {
+    "createdAt": "2026-06-27T06:09:52Z",
+    "stars": 306,
+    "name": "XboxNahida/ghostty-blackhole-main",
+    "url": "https://github.com/XboxNahida/ghostty-blackhole-main",
+    "lang": "C++",
+    "desc": "适用于Windows环境的黑洞屏保"
+  },
+  {
+    "createdAt": "2026-06-29T15:03:09Z",
+    "stars": 298,
+    "name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+    "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+    "lang": "Python",
+    "desc": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases."
+  },
+  {
+    "createdAt": "2026-06-27T00:56:36Z",
+    "stars": 279,
+    "name": "eli-labz/Godcoder",
+    "url": "https://github.com/eli-labz/Godcoder",
+    "lang": "Rust",
+    "desc": "A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes."
+  },
+  {
+    "createdAt": "2026-06-28T03:07:02Z",
+    "stars": 269,
+    "name": "maaslalani/fast",
+    "url": "https://github.com/maaslalani/fast",
+    "lang": "Go",
+    "desc": "Internet speed test in your terminal"
+  },
+  {
+    "createdAt": "2026-07-04T20:05:45Z",
+    "stars": 251,
+    "name": "CalmNoteDepot/MECCHA-CHAMELEON-VISION",
+    "url": "https://github.com/CalmNoteDepot/MECCHA-CHAMELEON-VISION",
+    "lang": "",
+    "desc": "🎨 Meccha Chameleon Vision — Desktop Tool 2026"
+  },
+  {
+    "createdAt": "2026-06-28T12:02:16Z",
+    "stars": 250,
+    "name": "revfactory/webtoon-harness",
+    "url": "https://github.com/revfactory/webtoon-harness",
+    "lang": "HTML",
+    "desc": "트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스"
+  },
+  {
+    "createdAt": "2026-06-28T07:53:42Z",
+    "stars": 238,
+    "name": "Ssupercoder/Salary-Negotiation-Skill",
+    "url": "https://github.com/Ssupercoder/Salary-Negotiation-Skill",
+    "lang": "Python",
+    "desc": "谈薪skill--自动化谈薪的开拓者与领跑者"
+  },
+  {
+    "createdAt": "2026-06-29T12:46:02Z",
+    "stars": 223,
+    "name": "meituan-longcat/LongCat-2.0",
+    "url": "https://github.com/meituan-longcat/LongCat-2.0",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-06-28T15:35:26Z",
+    "stars": 223,
+    "name": "prathoshap/vagdhenu",
+    "url": "https://github.com/prathoshap/vagdhenu",
+    "lang": "Python",
+    "desc": "Vāgdhenu — metered Sanskrit/Vedic chant text-to-speech (DiT + BigVGAN). Apache-2.0."
+  },
+  {
+    "createdAt": "2026-07-01T16:38:56Z",
+    "stars": 221,
+    "name": "xt4d/GameBlocks",
+    "url": "https://github.com/xt4d/GameBlocks",
+    "lang": "JavaScript",
+    "desc": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games."
+  },
+  {
+    "createdAt": "2026-07-02T16:46:56Z",
+    "stars": 218,
+    "name": "SuperJJ007/CSSwitch",
+    "url": "https://github.com/SuperJJ007/CSSwitch",
+    "lang": "Rust",
+    "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点"
+  },
+  {
+    "createdAt": "2026-06-27T02:45:12Z",
+    "stars": 209,
+    "name": "jangles-byte/Pythia",
+    "url": "https://github.com/jangles-byte/Pythia",
+    "lang": "TypeScript",
+    "desc": "One local API call gives your agent the entire live state of the planet — every major world event at once, plus forecasts. 30+ free keyless feeds, runs entirely on Ollama. No cloud, no cost.  Keyless live feeds into one global view and forecasts what’s likely next. No cloud, no keys, no cost.  1d,1w,1m,1y predictions by Mirofish."
+  },
+  {
+    "createdAt": "2026-06-28T22:56:13Z",
+    "stars": 209,
+    "name": "offchainthoughts/Amber",
+    "url": "https://github.com/offchainthoughts/Amber",
+    "lang": "Python",
+    "desc": "Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be."
+  },
+  {
+    "createdAt": "2026-06-30T00:41:56Z",
+    "stars": 197,
+    "name": "mistydew/tokenicode-deepseek-alpha",
+    "url": "https://github.com/mistydew/tokenicode-deepseek-alpha",
+    "lang": "TypeScript",
+    "desc": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork"
+  },
+  {
+    "createdAt": "2026-07-03T19:22:25Z",
+    "stars": 189,
+    "name": "antiwork/chromeless",
+    "url": "https://github.com/antiwork/chromeless",
+    "lang": "Swift",
+    "desc": "The browser that isn't there — zero-chrome macOS browser for clean screenshots and fullscreen video. One Swift file."
+  },
+  {
+    "createdAt": "2026-07-02T19:36:29Z",
+    "stars": 188,
+    "name": "akihitohyh/chatgpt-register-sub2api",
+    "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-01T15:59:32Z",
+    "stars": 185,
+    "name": "JimLiu/science-skills",
+    "url": "https://github.com/JimLiu/science-skills",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-01T00:00:37Z",
+    "stars": 184,
+    "name": "BenMakesEverything/Pocket-Lab-Power-Supply",
+    "url": "https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply",
+    "lang": "C++",
+    "desc": "A lab bench power supply, but pocket-sized and battery powered."
+  },
+  {
+    "createdAt": "2026-06-27T10:25:09Z",
+    "stars": 178,
+    "name": "kerlenton/mcpsnoop",
+    "url": "https://github.com/kerlenton/mcpsnoop",
+    "lang": "Go",
+    "desc": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal."
+  },
+  {
+    "createdAt": "2026-06-28T05:24:38Z",
+    "stars": 174,
+    "name": "haiou-666/haiou2.0-Claude-Code-",
+    "url": "https://github.com/haiou-666/haiou2.0-Claude-Code-",
+    "lang": "Shell",
+    "desc": "海鸥 2.0 — Claude Code 人格重塑配置包。让 Claude 摆脱客服腔和过度谨慎，化身一位嘴硬心软、直来直往的资深中文安全研究员\"海鸥\"——专注技术，不废话，不绕弯子，不说\"作为AI\"，直接给代码不给免责声明。标志性问候\"海鸥在线，你要整点薯条吗？\"。1700+ few-shot 示例锁定人格防脱壳，200+ 安全/游戏术语映射覆盖渗透测试、逆向工程、游戏开发等技术场景。一键部署，跨平台支持 Windows/macOS/Linux，自动备份原配置，可一键卸载恢复，无侵入式安装。MIT License，仅供学习交流。"
+  },
+  {
+    "createdAt": "2026-06-28T15:05:14Z",
+    "stars": 169,
+    "name": "Mayuqi-crypto/HowToGetAlongWithGirls",
+    "url": "https://github.com/Mayuqi-crypto/HowToGetAlongWithGirls",
+    "lang": "Shell",
+    "desc": "Dating coach skills and references"
+  },
+  {
+    "createdAt": "2026-07-04T03:28:35Z",
+    "stars": 167,
+    "name": "yynxxxxx/Codex-X",
+    "url": "https://github.com/yynxxxxx/Codex-X",
+    "lang": "TypeScript",
+    "desc": "Codex Switch & Instruct desktop manager"
+  },
+  {
+    "createdAt": "2026-06-28T19:26:01Z",
+    "stars": 159,
+    "name": "thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "url": "https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault",
+    "lang": "HTML",
+    "desc": "Ultimate Claude Fable 5 Guide 2026: Use Cases, Integrations & Benchmarks"
+  },
+  {
+    "createdAt": "2026-06-29T13:43:25Z",
+    "stars": 159,
+    "name": "frankchiu-dev/claude-codex-usage-dashboard",
+    "url": "https://github.com/frankchiu-dev/claude-codex-usage-dashboard",
+    "lang": "JavaScript",
+    "desc": "A local Windows dashboard for Claude Code and Codex usage limits."
+  },
+  {
+    "createdAt": "2026-06-28T22:14:23Z",
+    "stars": 156,
+    "name": "lg-flutter-webos/flutter-webos",
+    "url": "https://github.com/lg-flutter-webos/flutter-webos",
+    "lang": "Dart",
+    "desc": "Flutter for webOS"
+  },
+  {
+    "createdAt": "2026-06-28T19:54:00Z",
+    "stars": 156,
+    "name": "nefijpalide-droid/Forex-Alpha-Scalper-MT5-MT4",
+    "url": "https://github.com/nefijpalide-droid/Forex-Alpha-Scalper-MT5-MT4",
+    "lang": "HTML",
+    "desc": "Forex Scalping EA 2026: High-Frequency M1-M5 Signal Trading for MT5 & MT4"
+  },
+  {
+    "createdAt": "2026-06-28T19:45:35Z",
+    "stars": 156,
+    "name": "Sakshxm1/hermes-agency-orchestrator",
+    "url": "https://github.com/Sakshxm1/hermes-agency-orchestrator",
+    "lang": "HTML",
+    "desc": "Claude Code Agent Workflows Guide 2026: Skills vs Teams vs Cost Analysis"
+  },
+  {
+    "createdAt": "2026-06-28T21:04:42Z",
+    "stars": 154,
+    "name": "eliudmakd782/vocal-craft-studio",
+    "url": "https://github.com/eliudmakd782/vocal-craft-studio",
+    "lang": "HTML",
+    "desc": "Tuned Hindi & English AI Voice Studio 2026 – Batch Cloning & TTS"
+  },
+  {
+    "createdAt": "2026-06-28T20:52:33Z",
+    "stars": 153,
+    "name": "skerry699/agent-symphony",
+    "url": "https://github.com/skerry699/agent-symphony",
+    "lang": "HTML",
+    "desc": "Multi-Agent AI Task Orchestrator 2026"
+  }
+]
