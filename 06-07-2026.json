@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-02T17:53:55Z",
+    "stars": 2597,
+    "name": "elder-plinius/T3MP3ST",
+    "url": "https://github.com/elder-plinius/T3MP3ST",
+    "lang": "TypeScript",
+    "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness"
+  },
+  {
+    "createdAt": "2026-06-30T11:20:30Z",
+    "stars": 1429,
+    "name": "mekos2772/ios-location-spoofer",
+    "url": "https://github.com/mekos2772/ios-location-spoofer",
+    "lang": "JavaScript",
+    "desc": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module."
+  },
+  {
+    "createdAt": "2026-06-30T10:55:02Z",
+    "stars": 1232,
+    "name": "HUANGCHIHHUNGLeo/claude-real-video",
+    "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+    "lang": "Python",
+    "desc": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT."
+  },
+  {
+    "createdAt": "2026-07-04T02:59:39Z",
+    "stars": 1134,
+    "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+    "lang": "C++",
+    "desc": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included."
+  },
+  {
+    "createdAt": "2026-07-03T13:06:03Z",
+    "stars": 1064,
+    "name": "jamesob/local-llm",
+    "url": "https://github.com/jamesob/local-llm",
+    "lang": "Shell",
+    "desc": "Everything I know about running LLMs locally"
+  },
+  {
+    "createdAt": "2026-07-03T15:06:45Z",
+    "stars": 750,
+    "name": "synthetic-sciences/openscience",
+    "url": "https://github.com/synthetic-sciences/openscience",
+    "lang": "TypeScript",
+    "desc": "The open-source AI workbench for scientific research"
+  },
+  {
+    "createdAt": "2026-07-03T03:56:00Z",
+    "stars": 737,
+    "name": "xuchonglang/investing-for-beginners",
+    "url": "https://github.com/xuchonglang/investing-for-beginners",
+    "lang": "",
+    "desc": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架"
+  },
+  {
+    "createdAt": "2026-07-02T14:43:11Z",
+    "stars": 722,
+    "name": "jmerelnyc/Talos",
+    "url": "https://github.com/jmerelnyc/Talos",
+    "lang": "Python",
+    "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts."
+  },
+  {
+    "createdAt": "2026-07-02T12:47:31Z",
+    "stars": 655,
+    "name": "uzairansaruzi/hermex",
+    "url": "https://github.com/uzairansaruzi/hermex",
+    "lang": "Swift",
+    "desc": "Native iPhone app for your Hermes agent"
+  },
+  {
+    "createdAt": "2026-07-03T15:20:04Z",
+    "stars": 597,
+    "name": "Kulaxyz/token-diet",
+    "url": "https://github.com/Kulaxyz/token-diet",
+    "lang": "Shell",
+    "desc": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness."
+  },
+  {
+    "createdAt": "2026-07-02T05:36:45Z",
+    "stars": 594,
+    "name": "LinXiaoTao/FuckClaude",
+    "url": "https://github.com/LinXiaoTao/FuckClaude",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-05T01:03:37Z",
+    "stars": 531,
+    "name": "514-labs/dnsglobe",
+    "url": "https://github.com/514-labs/dnsglobe",
+    "lang": "Rust",
+    "desc": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal"
+  },
+  {
+    "createdAt": "2026-06-30T01:04:13Z",
+    "stars": 527,
+    "name": "TianhangZhuzth/Fundamental-Ava",
+    "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+    "lang": "Python",
+    "desc": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump"
+  },
+  {
+    "createdAt": "2026-06-29T10:49:36Z",
+    "stars": 516,
+    "name": "oomol-lab/open-connector",
+    "url": "https://github.com/oomol-lab/open-connector",
+    "lang": "TypeScript",
+    "desc": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI."
+  },
+  {
+    "createdAt": "2026-07-01T10:17:37Z",
+    "stars": 508,
+    "name": "HKUDS/OpenOPC",
+    "url": "https://github.com/HKUDS/OpenOPC",
+    "lang": "Python",
+    "desc": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown"
+  },
+  {
+    "createdAt": "2026-07-02T03:47:34Z",
+    "stars": 487,
+    "name": "asz798838958/FrciblyK12",
+    "url": "https://github.com/asz798838958/FrciblyK12",
+    "lang": "Python",
+    "desc": "多线程全自动注册free 强上K12空间"
+  },
+  {
+    "createdAt": "2026-06-29T05:33:18Z",
+    "stars": 486,
+    "name": "spiritov/ds.css",
+    "url": "https://github.com/spiritov/ds.css",
+    "lang": "CSS",
+    "desc": "A css framework recreating the DS / DS Lite's UI"
+  },
+  {
+    "createdAt": "2026-07-02T10:24:16Z",
+    "stars": 454,
+    "name": "dzhng/skills",
+    "url": "https://github.com/dzhng/skills",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-05T15:48:08Z",
+    "stars": 421,
+    "name": "MaximeRivest/riddle",
+    "url": "https://github.com/MaximeRivest/riddle",
+    "lang": "Rust",
+    "desc": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand"
+  },
+  {
+    "createdAt": "2026-06-30T22:08:31Z",
+    "stars": 415,
+    "name": "lingbol088-spec/reverse-flow-skill",
+    "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+    "lang": "Python",
+    "desc": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。"
+  },
+  {
+    "createdAt": "2026-06-30T08:46:55Z",
+    "stars": 380,
+    "name": "Archive228/loopkit",
+    "url": "https://github.com/Archive228/loopkit",
+    "lang": "JavaScript",
+    "desc": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI)."
+  },
+  {
+    "createdAt": "2026-07-04T03:28:35Z",
+    "stars": 377,
+    "name": "yynxxxxx/Codex-X",
+    "url": "https://github.com/yynxxxxx/Codex-X",
+    "lang": "Rust",
+    "desc": "Codex Switch & Instruct desktop manager"
+  },
+  {
+    "createdAt": "2026-06-29T12:46:02Z",
+    "stars": 329,
+    "name": "meituan-longcat/LongCat-2.0",
+    "url": "https://github.com/meituan-longcat/LongCat-2.0",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-01T16:38:56Z",
+    "stars": 323,
+    "name": "xt4d/GameBlocks",
+    "url": "https://github.com/xt4d/GameBlocks",
+    "lang": "JavaScript",
+    "desc": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games."
+  },
+  {
+    "createdAt": "2026-07-04T18:43:42Z",
+    "stars": 318,
+    "name": "Pluviobyte/rnskill",
+    "url": "https://github.com/Pluviobyte/rnskill",
+    "lang": "",
+    "desc": "雪踏乌云的 AI Agent Skills 集合"
+  },
+  {
+    "createdAt": "2026-07-05T09:53:10Z",
+    "stars": 310,
+    "name": "nagisanzenin/engram",
+    "url": "https://github.com/nagisanzenin/engram",
+    "lang": "Python",
+    "desc": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it."
+  },
+  {
+    "createdAt": "2026-06-29T15:03:09Z",
+    "stars": 303,
+    "name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+    "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+    "lang": "Python",
+    "desc": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases."
+  },
+  {
+    "createdAt": "2026-07-02T20:39:23Z",
+    "stars": 295,
+    "name": "funador/claude-code-merge-queue",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "lang": "TypeScript",
+    "desc": "The local merge queue for parallel Claude Code agents. "
+  },
+  {
+    "createdAt": "2026-07-04T01:47:38Z",
+    "stars": 286,
+    "name": "lxh77721/k12-reg",
+    "url": "https://github.com/lxh77721/k12-reg",
+    "lang": "TypeScript",
+    "desc": "多线程全自动注册free 强上K12空间 gmail版"
+  },
+  {
+    "createdAt": "2026-07-02T16:46:56Z",
+    "stars": 284,
+    "name": "SuperJJ007/CSSwitch",
+    "url": "https://github.com/SuperJJ007/CSSwitch",
+    "lang": "Rust",
+    "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点"
+  },
+  {
+    "createdAt": "2026-07-01T00:00:37Z",
+    "stars": 274,
+    "name": "BenMakesEverything/Pocket-Lab-Power-Supply",
+    "url": "https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply",
+    "lang": "C++",
+    "desc": "A lab bench power supply, but pocket-sized and battery powered."
+  },
+  {
+    "createdAt": "2026-07-02T17:32:21Z",
+    "stars": 248,
+    "name": "tomicz/fable-5-train-opus-skills-after-it-retires",
+    "url": "https://github.com/tomicz/fable-5-train-opus-skills-after-it-retires",
+    "lang": "",
+    "desc": "Thsis is a prompt that will create skills by Fable 5 before it retires and your cheaper models can use those skills. "
+  },
+  {
+    "createdAt": "2026-07-05T21:15:08Z",
+    "stars": 246,
+    "name": "majidmanzarpour/threejs-procedural-dungeon",
+    "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
+    "lang": "JavaScript",
+    "desc": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline."
+  },
+  {
+    "createdAt": "2026-07-02T19:36:29Z",
+    "stars": 244,
+    "name": "akihitohyh/chatgpt-register-sub2api",
+    "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-03T19:22:25Z",
+    "stars": 239,
+    "name": "antiwork/chromeless",
+    "url": "https://github.com/antiwork/chromeless",
+    "lang": "Swift",
+    "desc": "The browser that isn't there — zero-chrome macOS browser for clean screenshots and fullscreen video. One Swift file."
+  },
+  {
+    "createdAt": "2026-07-03T07:28:28Z",
+    "stars": 233,
+    "name": "pocket-stack/pocketjs",
+    "url": "https://github.com/pocket-stack/pocketjs",
+    "lang": "TypeScript",
+    "desc": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
+  },
+  {
+    "createdAt": "2026-07-03T09:22:31Z",
+    "stars": 230,
+    "name": "ai4s-research/open-science",
+    "url": "https://github.com/ai4s-research/open-science",
+    "lang": "TypeScript",
+    "desc": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills."
+  },
+  {
+    "createdAt": "2026-07-02T11:53:32Z",
+    "stars": 225,
+    "name": "lzh-phd/topic-feasibility-screener",
+    "url": "https://github.com/lzh-phd/topic-feasibility-screener",
+    "lang": "Python",
+    "desc": "有大致的想法不知道怎么选题？只要给这个skills扔点数据，他能自动帮你延伸出多个idea，检索文献，并帮你跑初步回归验证实证可行性和理论可行性，最后打分排名，让你的科研第一步不再难堪！"
+  },
+  {
+    "createdAt": "2026-06-30T00:41:56Z",
+    "stars": 222,
+    "name": "mistydew/tokenicode-deepseek-alpha",
+    "url": "https://github.com/mistydew/tokenicode-deepseek-alpha",
+    "lang": "TypeScript",
+    "desc": "TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork"
+  },
+  {
+    "createdAt": "2026-07-02T02:35:30Z",
+    "stars": 212,
+    "name": "Xingyu-Zheng/MrFlow",
+    "url": "https://github.com/Xingyu-Zheng/MrFlow",
+    "lang": "Python",
+    "desc": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling"
+  },
+  {
+    "createdAt": "2026-06-30T14:30:58Z",
+    "stars": 212,
+    "name": "neteroster/CodexCont",
+    "url": "https://github.com/neteroster/CodexCont",
+    "lang": "Python",
+    "desc": "Continue-thinking middleware for Codex / OpenAI Responses-compatible APIs."
+  },
+  {
+    "createdAt": "2026-06-29T02:41:58Z",
+    "stars": 207,
+    "name": "adam-s/car-diagnosis",
+    "url": "https://github.com/adam-s/car-diagnosis",
+    "lang": "Python",
+    "desc": "Diagnose a car fault from its sound — an honest, end-to-end audio-ML pipeline (scrape → clean → CLAP → calibrated triage). Proof of concept."
+  },
+  {
+    "createdAt": "2026-07-01T15:59:32Z",
+    "stars": 201,
+    "name": "JimLiu/science-skills",
+    "url": "https://github.com/JimLiu/science-skills",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-02T07:20:04Z",
+    "stars": 196,
+    "name": "frecodecasti/polymarket-weather-trading-bot",
+    "url": "https://github.com/frecodecasti/polymarket-weather-trading-bot",
+    "lang": "TypeScript",
+    "desc": "Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot | Polymarket weather trading bot"
+  },
+  {
+    "createdAt": "2026-07-02T06:55:17Z",
+    "stars": 195,
+    "name": "rolekkona/Polymarket-Arbitrage-Trading-Bot",
+    "url": "https://github.com/rolekkona/Polymarket-Arbitrage-Trading-Bot",
+    "lang": "TypeScript",
+    "desc": "A 🍴 of a 🔊 Text-Prompted Generative Audio Model"
+  },
+  {
+    "createdAt": "2026-07-02T17:33:30Z",
+    "stars": 192,
+    "name": "Oft3r/agentic-trading-desk",
+    "url": "https://github.com/Oft3r/agentic-trading-desk",
+    "lang": "Python",
+    "desc": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend · Momentum · Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order."
+  },
+  {
+    "createdAt": "2026-07-02T12:48:04Z",
+    "stars": 179,
+    "name": "Tencent-Hunyuan/Hy3",
+    "url": "https://github.com/Tencent-Hunyuan/Hy3",
+    "lang": "Python",
+    "desc": "Hy3 (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency."
+  },
+  {
+    "createdAt": "2026-07-01T06:57:21Z",
+    "stars": 172,
+    "name": "easylink-ai-open/agent-runtime",
+    "url": "https://github.com/easylink-ai-open/agent-runtime",
+    "lang": "Python",
+    "desc": "Standalone agent runtime core with neutral LLM types, provider clients, tool loop, and extension protocols."
+  },
+  {
+    "createdAt": "2026-07-03T13:59:17Z",
+    "stars": 171,
+    "name": "loyal-studio/Honami-Animation-System",
+    "url": "https://github.com/loyal-studio/Honami-Animation-System",
+    "lang": "C#",
+    "desc": "Honami Animation System is a complete, from-scratch alternative to Unity's built-in Animator. Designed for Unity 6, it gives you a powerful node-graph editor, built-in procedural rigging and seamless Timeline integration - all at zero runtime allocation cost."
+  },
+  {
+    "createdAt": "2026-07-03T20:51:19Z",
+    "stars": 168,
+    "name": "Spotui/Spotui",
+    "url": "https://github.com/Spotui/Spotui",
+    "lang": "Kotlin",
+    "desc": "Spotify clone with deep integration "
+  }
+]
