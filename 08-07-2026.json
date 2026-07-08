@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-02T17:53:55Z",
+    "stars": 3853,
+    "name": "elder-plinius/T3MP3ST",
+    "url": "https://github.com/elder-plinius/T3MP3ST",
+    "lang": "TypeScript",
+    "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness"
+  },
+  {
+    "createdAt": "2026-07-04T06:43:51Z",
+    "stars": 2411,
+    "name": "x4gKing/X4G",
+    "url": "https://github.com/x4gKing/X4G",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-03T15:06:45Z",
+    "stars": 1736,
+    "name": "synthetic-sciences/openscience",
+    "url": "https://github.com/synthetic-sciences/openscience",
+    "lang": "TypeScript",
+    "desc": "The open-source AI workbench for scientific research"
+  },
+  {
+    "createdAt": "2026-07-01T04:28:03Z",
+    "stars": 1498,
+    "name": "isjiamu/gzh-design-skill",
+    "url": "https://github.com/isjiamu/gzh-design-skill",
+    "lang": "HTML",
+    "desc": "把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML."
+  },
+  {
+    "createdAt": "2026-07-06T15:06:06Z",
+    "stars": 1392,
+    "name": "Shpigford/knockoff",
+    "url": "https://github.com/Shpigford/knockoff",
+    "lang": "JavaScript",
+    "desc": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands."
+  },
+  {
+    "createdAt": "2026-07-04T02:59:39Z",
+    "stars": 1358,
+    "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+    "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
+    "lang": "C++",
+    "desc": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included."
+  },
+  {
+    "createdAt": "2026-07-03T13:06:03Z",
+    "stars": 1272,
+    "name": "jamesob/local-llm",
+    "url": "https://github.com/jamesob/local-llm",
+    "lang": "Shell",
+    "desc": "Everything I know about running LLMs locally"
+  },
+  {
+    "createdAt": "2026-07-05T15:48:08Z",
+    "stars": 1199,
+    "name": "MaximeRivest/riddle",
+    "url": "https://github.com/MaximeRivest/riddle",
+    "lang": "Rust",
+    "desc": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand"
+  },
+  {
+    "createdAt": "2026-07-03T03:56:00Z",
+    "stars": 1178,
+    "name": "xuchonglang/investing-for-beginners",
+    "url": "https://github.com/xuchonglang/investing-for-beginners",
+    "lang": "",
+    "desc": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架"
+  },
+  {
+    "createdAt": "2026-07-02T20:30:04Z",
+    "stars": 849,
+    "name": "anthropics/jacobian-lens",
+    "url": "https://github.com/anthropics/jacobian-lens",
+    "lang": "Python",
+    "desc": " Companion code for the global workspace interpretability paper"
+  },
+  {
+    "createdAt": "2026-07-02T14:43:11Z",
+    "stars": 776,
+    "name": "jmerelnyc/Talos",
+    "url": "https://github.com/jmerelnyc/Talos",
+    "lang": "Python",
+    "desc": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts."
+  },
+  {
+    "createdAt": "2026-07-05T01:03:37Z",
+    "stars": 732,
+    "name": "514-labs/dnsglobe",
+    "url": "https://github.com/514-labs/dnsglobe",
+    "lang": "Rust",
+    "desc": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal"
+  },
+  {
+    "createdAt": "2026-07-02T12:47:31Z",
+    "stars": 696,
+    "name": "uzairansaruzi/hermex",
+    "url": "https://github.com/uzairansaruzi/hermex",
+    "lang": "Swift",
+    "desc": "Native iPhone app for your Hermes agent"
+  },
+  {
+    "createdAt": "2026-07-02T05:36:45Z",
+    "stars": 693,
+    "name": "LinXiaoTao/FuckClaude",
+    "url": "https://github.com/LinXiaoTao/FuckClaude",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-01T10:17:37Z",
+    "stars": 598,
+    "name": "HKUDS/OpenOPC",
+    "url": "https://github.com/HKUDS/OpenOPC",
+    "lang": "Python",
+    "desc": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown"
+  },
+  {
+    "createdAt": "2026-07-04T03:28:35Z",
+    "stars": 591,
+    "name": "yynxxxxx/Codex-X",
+    "url": "https://github.com/yynxxxxx/Codex-X",
+    "lang": "Rust",
+    "desc": "Codex Switch & Instruct desktop manager"
+  },
+  {
+    "createdAt": "2026-07-03T15:20:04Z",
+    "stars": 566,
+    "name": "Kulaxyz/token-diet",
+    "url": "https://github.com/Kulaxyz/token-diet",
+    "lang": "Shell",
+    "desc": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness."
+  },
+  {
+    "createdAt": "2026-07-05T06:30:55Z",
+    "stars": 549,
+    "name": "simonlin1212/Vibe-Research",
+    "url": "https://github.com/simonlin1212/Vibe-Research",
+    "lang": "TypeScript",
+    "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。"
+  },
+  {
+    "createdAt": "2026-07-04T16:50:17Z",
+    "stars": 548,
+    "name": "wouterdebie/davit",
+    "url": "https://github.com/wouterdebie/davit",
+    "lang": "Swift",
+    "desc": "A native macOS UI for Apple's platform"
+  },
+  {
+    "createdAt": "2026-07-02T10:24:16Z",
+    "stars": 545,
+    "name": "dzhng/skills",
+    "url": "https://github.com/dzhng/skills",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-02T03:47:34Z",
+    "stars": 499,
+    "name": "asz798838958/FrciblyK12",
+    "url": "https://github.com/asz798838958/FrciblyK12",
+    "lang": "Python",
+    "desc": "多线程全自动注册free 强上K12空间"
+  },
+  {
+    "createdAt": "2026-07-06T14:09:42Z",
+    "stars": 481,
+    "name": "Robbyant/lingbot-vision",
+    "url": "https://github.com/Robbyant/lingbot-vision",
+    "lang": "Python",
+    "desc": "Self-supervised learning for spatial perception"
+  },
+  {
+    "createdAt": "2026-07-03T07:28:28Z",
+    "stars": 431,
+    "name": "pocket-stack/pocketjs",
+    "url": "https://github.com/pocket-stack/pocketjs",
+    "lang": "TypeScript",
+    "desc": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget."
+  },
+  {
+    "createdAt": "2026-07-05T09:53:10Z",
+    "stars": 430,
+    "name": "nagisanzenin/engram",
+    "url": "https://github.com/nagisanzenin/engram",
+    "lang": "Python",
+    "desc": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it."
+  },
+  {
+    "createdAt": "2026-07-02T06:55:17Z",
+    "stars": 409,
+    "name": "rolekkona/Polymarket-Arbitrage-Trading-Bot",
+    "url": "https://github.com/rolekkona/Polymarket-Arbitrage-Trading-Bot",
+    "lang": "TypeScript",
+    "desc": "polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot | | polymarket arbitrage trading Bot"
+  },
+  {
+    "createdAt": "2026-07-06T15:35:00Z",
+    "stars": 390,
+    "name": "V4bel/Januscape",
+    "url": "https://github.com/V4bel/Januscape",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-02T16:44:07Z",
+    "stars": 388,
+    "name": "can1357/pon",
+    "url": "https://github.com/can1357/pon",
+    "lang": "Rust",
+    "desc": "Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython."
+  },
+  {
+    "createdAt": "2026-07-03T09:22:31Z",
+    "stars": 388,
+    "name": "ai4s-research/open-science",
+    "url": "https://github.com/ai4s-research/open-science",
+    "lang": "TypeScript",
+    "desc": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills."
+  },
+  {
+    "createdAt": "2026-07-04T18:43:42Z",
+    "stars": 382,
+    "name": "Pluviobyte/rnskill",
+    "url": "https://github.com/Pluviobyte/rnskill",
+    "lang": "Python",
+    "desc": "雪踏乌云的 AI Agent Skills 集合"
+  },
+  {
+    "createdAt": "2026-07-04T01:47:38Z",
+    "stars": 358,
+    "name": "lxh77721/k12-reg",
+    "url": "https://github.com/lxh77721/k12-reg",
+    "lang": "TypeScript",
+    "desc": "多线程全自动注册free 强上K12空间 gmail版"
+  },
+  {
+    "createdAt": "2026-07-02T12:48:04Z",
+    "stars": 352,
+    "name": "Tencent-Hunyuan/Hy3",
+    "url": "https://github.com/Tencent-Hunyuan/Hy3",
+    "lang": "Python",
+    "desc": "Hy3 (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency."
+  },
+  {
+    "createdAt": "2026-07-01T08:55:52Z",
+    "stars": 350,
+    "name": "NebuSec/CyberMeowfia",
+    "url": "https://github.com/NebuSec/CyberMeowfia",
+    "lang": "C",
+    "desc": "PoCs and exploits for CVEs discovered by VEGA. "
+  },
+  {
+    "createdAt": "2026-07-05T21:15:08Z",
+    "stars": 342,
+    "name": "majidmanzarpour/threejs-procedural-dungeon",
+    "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
+    "lang": "JavaScript",
+    "desc": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline."
+  },
+  {
+    "createdAt": "2026-07-01T16:38:56Z",
+    "stars": 328,
+    "name": "xt4d/GameBlocks",
+    "url": "https://github.com/xt4d/GameBlocks",
+    "lang": "JavaScript",
+    "desc": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games."
+  },
+  {
+    "createdAt": "2026-07-01T11:03:04Z",
+    "stars": 322,
+    "name": "OStudi/short-video-generator-AI",
+    "url": "https://github.com/OStudi/short-video-generator-AI",
+    "lang": "Python",
+    "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content."
+  },
+  {
+    "createdAt": "2026-07-01T00:00:37Z",
+    "stars": 317,
+    "name": "BenMakesEverything/Pocket-Lab-Power-Supply",
+    "url": "https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply",
+    "lang": "C++",
+    "desc": "A lab bench power supply, but pocket-sized and battery powered."
+  },
+  {
+    "createdAt": "2026-07-02T17:32:21Z",
+    "stars": 314,
+    "name": "tomicz/fable-5-train-opus-skills-after-it-retires",
+    "url": "https://github.com/tomicz/fable-5-train-opus-skills-after-it-retires",
+    "lang": "",
+    "desc": "Thsis is a prompt that will create skills by Fable 5 before it retires and your cheaper models can use those skills. "
+  },
+  {
+    "createdAt": "2026-07-02T16:46:56Z",
+    "stars": 314,
+    "name": "SuperJJ007/CSSwitch",
+    "url": "https://github.com/SuperJJ007/CSSwitch",
+    "lang": "Rust",
+    "desc": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点"
+  },
+  {
+    "createdAt": "2026-07-06T14:56:20Z",
+    "stars": 296,
+    "name": "nexu-io/motion-anything",
+    "url": "https://github.com/nexu-io/motion-anything",
+    "lang": "JavaScript",
+    "desc": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation."
+  },
+  {
+    "createdAt": "2026-07-07T13:57:13Z",
+    "stars": 296,
+    "name": "op7418/guizang-material-illustration",
+    "url": "https://github.com/op7418/guizang-material-illustration",
+    "lang": "",
+    "desc": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。"
+  },
+  {
+    "createdAt": "2026-07-02T20:39:23Z",
+    "stars": 293,
+    "name": "funador/claude-code-merge-queue",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "lang": "TypeScript",
+    "desc": "The local merge queue for parallel Claude Code agents. "
+  },
+  {
+    "createdAt": "2026-07-05T08:41:59Z",
+    "stars": 287,
+    "name": "mira-wm/mira",
+    "url": "https://github.com/mira-wm/mira",
+    "lang": "Python",
+    "desc": "Code for MIRA: Multiplayer Interactive World Models with Representation Autoencoders"
+  },
+  {
+    "createdAt": "2026-07-04T10:37:51Z",
+    "stars": 275,
+    "name": "x4gKing/3x-ui",
+    "url": "https://github.com/x4gKing/3x-ui",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-05T21:25:55Z",
+    "stars": 273,
+    "name": "eli-labz/Cognitive-Core-Skills",
+    "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
+    "lang": "Python",
+    "desc": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI."
+  },
+  {
+    "createdAt": "2026-07-07T16:48:56Z",
+    "stars": 268,
+    "name": "Robbyant/lingbot-vla-v2",
+    "url": "https://github.com/Robbyant/lingbot-vla-v2",
+    "lang": "Python",
+    "desc": "From Foundation to Application"
+  },
+  {
+    "createdAt": "2026-07-06T04:42:54Z",
+    "stars": 266,
+    "name": "SmtimesIWndr/gdid-reversal",
+    "url": "https://github.com/SmtimesIWndr/gdid-reversal",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-06T01:52:14Z",
+    "stars": 259,
+    "name": "jiguang132/storyai-3d-director-desk",
+    "url": "https://github.com/jiguang132/storyai-3d-director-desk",
+    "lang": "TypeScript",
+    "desc": "A browser-based 3D director desk demo built with React, Vite, and Three.js."
+  },
+  {
+    "createdAt": "2026-07-05T20:45:33Z",
+    "stars": 257,
+    "name": "avifenesh/bw24",
+    "url": "https://github.com/avifenesh/bw24",
+    "lang": "Rust",
+    "desc": "From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a)."
+  },
+  {
+    "createdAt": "2026-07-02T11:53:32Z",
+    "stars": 256,
+    "name": "lzh-phd/topic-feasibility-screener",
+    "url": "https://github.com/lzh-phd/topic-feasibility-screener",
+    "lang": "Python",
+    "desc": "有大致的想法不知道怎么选题？只要给这个skills扔点数据，他能自动帮你延伸出多个idea，检索文献，并帮你跑初步回归验证实证可行性和理论可行性，最后打分排名，让你的科研第一步不再难堪！"
+  },
+  {
+    "createdAt": "2026-07-02T19:36:29Z",
+    "stars": 256,
+    "name": "akihitohyh/chatgpt-register-sub2api",
+    "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
+    "lang": "Python",
+    "desc": ""
+  }
+]
