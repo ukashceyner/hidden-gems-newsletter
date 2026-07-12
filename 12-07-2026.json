@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-08T09:27:48Z",
+    "stars": 2674,
+    "name": "withmarbleapp/os-taxonomy",
+    "url": "https://github.com/withmarbleapp/os-taxonomy",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-06T15:06:06Z",
+    "stars": 1821,
+    "name": "Shpigford/knockoff",
+    "url": "https://github.com/Shpigford/knockoff",
+    "lang": "JavaScript",
+    "desc": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands."
+  },
+  {
+    "createdAt": "2026-07-05T15:48:08Z",
+    "stars": 1465,
+    "name": "MaximeRivest/riddle",
+    "url": "https://github.com/MaximeRivest/riddle",
+    "lang": "Rust",
+    "desc": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand"
+  },
+  {
+    "createdAt": "2026-07-06T21:28:58Z",
+    "stars": 1218,
+    "name": "oso95/scroll-world",
+    "url": "https://github.com/oso95/scroll-world",
+    "lang": "JavaScript",
+    "desc": "A skill that turn any brand into a scrollable 3D world"
+  },
+  {
+    "createdAt": "2026-07-08T09:24:50Z",
+    "stars": 915,
+    "name": "Robbyant/lingbot-world-v2",
+    "url": "https://github.com/Robbyant/lingbot-world-v2",
+    "lang": "Python",
+    "desc": "Infinite Worlds with Versatile Interactions"
+  },
+  {
+    "createdAt": "2026-07-08T06:13:23Z",
+    "stars": 882,
+    "name": "x4gKing/3x-ui-Upgrade",
+    "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-05T01:03:37Z",
+    "stars": 842,
+    "name": "514-labs/dnsglobe",
+    "url": "https://github.com/514-labs/dnsglobe",
+    "lang": "Rust",
+    "desc": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal"
+  },
+  {
+    "createdAt": "2026-07-05T06:30:55Z",
+    "stars": 756,
+    "name": "simonlin1212/Vibe-Research",
+    "url": "https://github.com/simonlin1212/Vibe-Research",
+    "lang": "TypeScript",
+    "desc": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。"
+  },
+  {
+    "createdAt": "2026-07-08T13:52:08Z",
+    "stars": 710,
+    "name": "Robbyant/lingbot-video",
+    "url": "https://github.com/Robbyant/lingbot-video",
+    "lang": "Python",
+    "desc": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
+  },
+  {
+    "createdAt": "2026-07-06T14:09:42Z",
+    "stars": 672,
+    "name": "Robbyant/lingbot-vision",
+    "url": "https://github.com/Robbyant/lingbot-vision",
+    "lang": "Python",
+    "desc": "Self-supervised learning for spatial perception"
+  },
+  {
+    "createdAt": "2026-07-05T09:53:10Z",
+    "stars": 639,
+    "name": "nagisanzenin/engram",
+    "url": "https://github.com/nagisanzenin/engram",
+    "lang": "Python",
+    "desc": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it."
+  },
+  {
+    "createdAt": "2026-07-12T10:35:44Z",
+    "stars": 638,
+    "name": "mereyabdenbekuly-ctrl/clodex-ide",
+    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "lang": "TypeScript",
+    "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development."
+  },
+  {
+    "createdAt": "2026-07-07T13:57:13Z",
+    "stars": 584,
+    "name": "op7418/guizang-material-illustration",
+    "url": "https://github.com/op7418/guizang-material-illustration",
+    "lang": "",
+    "desc": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。"
+  },
+  {
+    "createdAt": "2026-07-09T16:23:29Z",
+    "stars": 562,
+    "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "lang": "Python",
+    "desc": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
+  },
+  {
+    "createdAt": "2026-07-05T18:55:14Z",
+    "stars": 528,
+    "name": "x4gKing/PasarGuard",
+    "url": "https://github.com/x4gKing/PasarGuard",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-07T12:11:18Z",
+    "stars": 487,
+    "name": "xiaotianfotos/homerail",
+    "url": "https://github.com/xiaotianfotos/homerail",
+    "lang": "TypeScript",
+    "desc": "Voice-first local agent orchestration runtime for auditable DAG workflows."
+  },
+  {
+    "createdAt": "2026-07-06T07:02:26Z",
+    "stars": 484,
+    "name": "x4gKing/PasarGuard-Node",
+    "url": "https://github.com/x4gKing/PasarGuard-Node",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-06T15:35:00Z",
+    "stars": 479,
+    "name": "V4bel/Januscape",
+    "url": "https://github.com/V4bel/Januscape",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-07T16:48:56Z",
+    "stars": 467,
+    "name": "Robbyant/lingbot-vla-v2",
+    "url": "https://github.com/Robbyant/lingbot-vla-v2",
+    "lang": "Python",
+    "desc": "From Foundation to Application"
+  },
+  {
+    "createdAt": "2026-07-06T14:56:20Z",
+    "stars": 417,
+    "name": "nexu-io/motion-anything",
+    "url": "https://github.com/nexu-io/motion-anything",
+    "lang": "JavaScript",
+    "desc": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation."
+  },
+  {
+    "createdAt": "2026-07-06T09:39:01Z",
+    "stars": 416,
+    "name": "yusukebe/ax",
+    "url": "https://github.com/yusukebe/ax",
+    "lang": "TypeScript",
+    "desc": "The AI-era curl"
+  },
+  {
+    "createdAt": "2026-07-08T17:08:34Z",
+    "stars": 413,
+    "name": "gostonx/uninstally",
+    "url": "https://github.com/gostonx/uninstally",
+    "lang": "Swift",
+    "desc": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension."
+  },
+  {
+    "createdAt": "2026-07-06T01:52:14Z",
+    "stars": 399,
+    "name": "jiguang132/storyai-3d-director-desk",
+    "url": "https://github.com/jiguang132/storyai-3d-director-desk",
+    "lang": "TypeScript",
+    "desc": "A browser-based 3D director desk demo built with React, Vite, and Three.js."
+  },
+  {
+    "createdAt": "2026-07-05T21:15:08Z",
+    "stars": 395,
+    "name": "majidmanzarpour/threejs-procedural-dungeon",
+    "url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
+    "lang": "JavaScript",
+    "desc": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline."
+  },
+  {
+    "createdAt": "2026-07-08T10:53:34Z",
+    "stars": 384,
+    "name": "Nanako0129/pilotfish",
+    "url": "https://github.com/Nanako0129/pilotfish",
+    "lang": "",
+    "desc": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install."
+  },
+  {
+    "createdAt": "2026-07-08T09:23:53Z",
+    "stars": 377,
+    "name": "Raymondhou0917/speak-human-tw",
+    "url": "https://github.com/Raymondhou0917/speak-human-tw",
+    "lang": "",
+    "desc": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。"
+  },
+  {
+    "createdAt": "2026-07-05T08:41:59Z",
+    "stars": 371,
+    "name": "mira-wm/mira",
+    "url": "https://github.com/mira-wm/mira",
+    "lang": "Python",
+    "desc": "Code for MIRA: Multiplayer Interactive World Models with Representation Autoencoders"
+  },
+  {
+    "createdAt": "2026-07-08T08:12:17Z",
+    "stars": 366,
+    "name": "Doriandarko/texts-to-transformer",
+    "url": "https://github.com/Doriandarko/texts-to-transformer",
+    "lang": "Python",
+    "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac."
+  },
+  {
+    "createdAt": "2026-07-06T16:18:57Z",
+    "stars": 364,
+    "name": "ronak-create/FableCut",
+    "url": "https://github.com/ronak-create/FableCut",
+    "lang": "JavaScript",
+    "desc": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI"
+  },
+  {
+    "createdAt": "2026-07-06T04:42:54Z",
+    "stars": 364,
+    "name": "SmtimesIWndr/gdid-reversal",
+    "url": "https://github.com/SmtimesIWndr/gdid-reversal",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-10T05:57:02Z",
+    "stars": 361,
+    "name": "CoscoAI/luxy-aisre",
+    "url": "https://github.com/CoscoAI/luxy-aisre",
+    "lang": "Python",
+    "desc": "AISRE for Cosco"
+  },
+  {
+    "createdAt": "2026-07-07T18:33:14Z",
+    "stars": 310,
+    "name": "WeZZard/jlens-qwen36",
+    "url": "https://github.com/WeZZard/jlens-qwen36",
+    "lang": "Python",
+    "desc": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX"
+  },
+  {
+    "createdAt": "2026-07-09T11:41:46Z",
+    "stars": 309,
+    "name": "cosmtrek/mindwalk",
+    "url": "https://github.com/cosmtrek/mindwalk",
+    "lang": "Go",
+    "desc": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase."
+  },
+  {
+    "createdAt": "2026-07-10T08:59:16Z",
+    "stars": 301,
+    "name": "yetone/kill-ai-slop",
+    "url": "https://github.com/yetone/kill-ai-slop",
+    "lang": "TypeScript",
+    "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com"
+  },
+  {
+    "createdAt": "2026-07-06T22:35:18Z",
+    "stars": 285,
+    "name": "Sahir619/fable-method",
+    "url": "https://github.com/Sahir619/fable-method",
+    "lang": "JavaScript",
+    "desc": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove."
+  },
+  {
+    "createdAt": "2026-07-06T07:30:10Z",
+    "stars": 281,
+    "name": "wassermanproductions/motion-previs-studio",
+    "url": "https://github.com/wassermanproductions/motion-previs-studio",
+    "lang": "JavaScript",
+    "desc": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization."
+  },
+  {
+    "createdAt": "2026-07-08T06:06:31Z",
+    "stars": 281,
+    "name": "bkingfilm/lapian-notes",
+    "url": "https://github.com/bkingfilm/lapian-notes",
+    "lang": "TypeScript",
+    "desc": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆"
+  },
+  {
+    "createdAt": "2026-07-07T10:31:29Z",
+    "stars": 279,
+    "name": "Liquid4All/antidoom",
+    "url": "https://github.com/Liquid4All/antidoom",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-05T21:25:55Z",
+    "stars": 275,
+    "name": "eli-labz/Cognitive-Core-Skills",
+    "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
+    "lang": "Python",
+    "desc": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI."
+  },
+  {
+    "createdAt": "2026-07-07T17:15:20Z",
+    "stars": 274,
+    "name": "AlayaLab/AlayaWorld",
+    "url": "https://github.com/AlayaLab/AlayaWorld",
+    "lang": "",
+    "desc": "Full-stack open-source interactive long-horizon world model."
+  },
+  {
+    "createdAt": "2026-07-06T07:46:16Z",
+    "stars": 273,
+    "name": "kuskhan/jetendard",
+    "url": "https://github.com/kuskhan/jetendard",
+    "lang": "Python",
+    "desc": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
+  },
+  {
+    "createdAt": "2026-07-08T18:22:38Z",
+    "stars": 272,
+    "name": "DexCrancer/pm-ninesoulx",
+    "url": "https://github.com/DexCrancer/pm-ninesoulx",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-07T09:28:50Z",
+    "stars": 267,
+    "name": "zerosupercycIe/risk-free-sniper",
+    "url": "https://github.com/zerosupercycIe/risk-free-sniper",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-05T20:45:33Z",
+    "stars": 263,
+    "name": "avifenesh/bw24",
+    "url": "https://github.com/avifenesh/bw24",
+    "lang": "Rust",
+    "desc": "From-scratch Rust+CUDA inference engine, bit-exact by construction — NVFP4, MoE, MTP speculative decoding, tuned against measured limits of one RTX 5090 Laptop (sm_120a)."
+  },
+  {
+    "createdAt": "2026-07-05T06:13:49Z",
+    "stars": 259,
+    "name": "karola3vax/CS2FOW",
+    "url": "https://github.com/karola3vax/CS2FOW",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-09T03:24:59Z",
+    "stars": 256,
+    "name": "thatmagicalcat/txm",
+    "url": "https://github.com/thatmagicalcat/txm",
+    "lang": "Rust",
+    "desc": "Terminal Math rendering engine"
+  },
+  {
+    "createdAt": "2026-07-08T04:29:05Z",
+    "stars": 250,
+    "name": "Moore-developers/moore-wechat-article-downloader",
+    "url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
+    "lang": "Python",
+    "desc": "本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。"
+  },
+  {
+    "createdAt": "2026-07-06T21:12:03Z",
+    "stars": 249,
+    "name": "OmarH-creator/Autonomous-Forge",
+    "url": "https://github.com/OmarH-creator/Autonomous-Forge",
+    "lang": "Python",
+    "desc": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself."
+  },
+  {
+    "createdAt": "2026-07-08T15:22:14Z",
+    "stars": 248,
+    "name": "PitShipwrightGraph/MecchaPhantom",
+    "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+    "lang": "Python",
+    "desc": "🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Dominate the hide-and-seek battlefield!"
+  },
+  {
+    "createdAt": "2026-07-07T20:28:43Z",
+    "stars": 247,
+    "name": "osama-fawad/Pekingman",
+    "url": "https://github.com/osama-fawad/Pekingman",
+    "lang": "HTML",
+    "desc": ""
+  }
+]
