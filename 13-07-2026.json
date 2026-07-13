@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-08T09:27:48Z",
+    "stars": 2900,
+    "name": "withmarbleapp/os-taxonomy",
+    "url": "https://github.com/withmarbleapp/os-taxonomy",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-06T15:06:06Z",
+    "stars": 1868,
+    "name": "Shpigford/knockoff",
+    "url": "https://github.com/Shpigford/knockoff",
+    "lang": "JavaScript",
+    "desc": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands."
+  },
+  {
+    "createdAt": "2026-07-06T21:28:58Z",
+    "stars": 1581,
+    "name": "oso95/scroll-world",
+    "url": "https://github.com/oso95/scroll-world",
+    "lang": "JavaScript",
+    "desc": "A skill that turn any brand into a scrollable 3D world"
+  },
+  {
+    "createdAt": "2026-07-08T09:24:50Z",
+    "stars": 1025,
+    "name": "Robbyant/lingbot-world-v2",
+    "url": "https://github.com/Robbyant/lingbot-world-v2",
+    "lang": "Python",
+    "desc": "Infinite Worlds with Versatile Interactions"
+  },
+  {
+    "createdAt": "2026-07-08T06:13:23Z",
+    "stars": 949,
+    "name": "x4gKing/3x-ui-Upgrade",
+    "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-09T16:23:29Z",
+    "stars": 842,
+    "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "lang": "Python",
+    "desc": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
+  },
+  {
+    "createdAt": "2026-07-08T13:52:08Z",
+    "stars": 754,
+    "name": "Robbyant/lingbot-video",
+    "url": "https://github.com/Robbyant/lingbot-video",
+    "lang": "Python",
+    "desc": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
+  },
+  {
+    "createdAt": "2026-07-06T14:09:42Z",
+    "stars": 737,
+    "name": "Robbyant/lingbot-vision",
+    "url": "https://github.com/Robbyant/lingbot-vision",
+    "lang": "Python",
+    "desc": "Self-supervised learning for spatial perception"
+  },
+  {
+    "createdAt": "2026-07-12T10:35:44Z",
+    "stars": 696,
+    "name": "mereyabdenbekuly-ctrl/clodex-ide",
+    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "lang": "TypeScript",
+    "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development."
+  },
+  {
+    "createdAt": "2026-07-11T09:44:24Z",
+    "stars": 652,
+    "name": "MDX-Tom/gpt-5.6-instruct",
+    "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+    "lang": "Python",
+    "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。"
+  },
+  {
+    "createdAt": "2026-07-13T05:13:00Z",
+    "stars": 636,
+    "name": "littledivy/mimic",
+    "url": "https://github.com/littledivy/mimic",
+    "lang": "Python",
+    "desc": "Intercept any app, then call it from Python like a library"
+  },
+  {
+    "createdAt": "2026-07-07T13:57:13Z",
+    "stars": 628,
+    "name": "op7418/guizang-material-illustration",
+    "url": "https://github.com/op7418/guizang-material-illustration",
+    "lang": "",
+    "desc": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。"
+  },
+  {
+    "createdAt": "2026-07-06T07:02:26Z",
+    "stars": 534,
+    "name": "x4gKing/PasarGuard-Node",
+    "url": "https://github.com/x4gKing/PasarGuard-Node",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-10T05:57:02Z",
+    "stars": 531,
+    "name": "William-Lu-stack/LuxyAI",
+    "url": "https://github.com/William-Lu-stack/LuxyAI",
+    "lang": "Python",
+    "desc": "AgenticOps for Kubernetes and cloud infrastructure."
+  },
+  {
+    "createdAt": "2026-07-07T16:48:56Z",
+    "stars": 514,
+    "name": "Robbyant/lingbot-vla-v2",
+    "url": "https://github.com/Robbyant/lingbot-vla-v2",
+    "lang": "Python",
+    "desc": "From Foundation to Application"
+  },
+  {
+    "createdAt": "2026-07-07T12:11:18Z",
+    "stars": 506,
+    "name": "xiaotianfotos/homerail",
+    "url": "https://github.com/xiaotianfotos/homerail",
+    "lang": "TypeScript",
+    "desc": "Voice-first local agent orchestration runtime for auditable DAG workflows."
+  },
+  {
+    "createdAt": "2026-07-06T15:35:00Z",
+    "stars": 486,
+    "name": "V4bel/Januscape",
+    "url": "https://github.com/V4bel/Januscape",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-09T11:41:46Z",
+    "stars": 479,
+    "name": "cosmtrek/mindwalk",
+    "url": "https://github.com/cosmtrek/mindwalk",
+    "lang": "Go",
+    "desc": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase."
+  },
+  {
+    "createdAt": "2026-07-08T09:23:53Z",
+    "stars": 474,
+    "name": "Raymondhou0917/speak-human-tw",
+    "url": "https://github.com/Raymondhou0917/speak-human-tw",
+    "lang": "",
+    "desc": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。"
+  },
+  {
+    "createdAt": "2026-07-06T09:39:01Z",
+    "stars": 472,
+    "name": "yusukebe/ax",
+    "url": "https://github.com/yusukebe/ax",
+    "lang": "TypeScript",
+    "desc": "The AI-era curl"
+  },
+  {
+    "createdAt": "2026-07-10T04:13:51Z",
+    "stars": 466,
+    "name": "AlephAITech/WorkBuddyGuide",
+    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+    "lang": "Python",
+    "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。"
+  },
+  {
+    "createdAt": "2026-07-08T17:08:34Z",
+    "stars": 450,
+    "name": "gostonx/uninstally",
+    "url": "https://github.com/gostonx/uninstally",
+    "lang": "Swift",
+    "desc": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension."
+  },
+  {
+    "createdAt": "2026-07-06T14:56:20Z",
+    "stars": 447,
+    "name": "nexu-io/motion-anything",
+    "url": "https://github.com/nexu-io/motion-anything",
+    "lang": "JavaScript",
+    "desc": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation."
+  },
+  {
+    "createdAt": "2026-07-12T22:22:09Z",
+    "stars": 442,
+    "name": "x4gKing/Marzban-Panel",
+    "url": "https://github.com/x4gKing/Marzban-Panel",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-08T10:53:34Z",
+    "stars": 425,
+    "name": "Nanako0129/pilotfish",
+    "url": "https://github.com/Nanako0129/pilotfish",
+    "lang": "Python",
+    "desc": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install."
+  },
+  {
+    "createdAt": "2026-07-06T01:52:14Z",
+    "stars": 423,
+    "name": "jiguang132/storyai-3d-director-desk",
+    "url": "https://github.com/jiguang132/storyai-3d-director-desk",
+    "lang": "TypeScript",
+    "desc": "A browser-based 3D director desk demo built with React, Vite, and Three.js."
+  },
+  {
+    "createdAt": "2026-07-06T16:18:57Z",
+    "stars": 410,
+    "name": "ronak-create/FableCut",
+    "url": "https://github.com/ronak-create/FableCut",
+    "lang": "JavaScript",
+    "desc": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI"
+  },
+  {
+    "createdAt": "2026-07-10T08:59:16Z",
+    "stars": 398,
+    "name": "yetone/kill-ai-slop",
+    "url": "https://github.com/yetone/kill-ai-slop",
+    "lang": "TypeScript",
+    "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com"
+  },
+  {
+    "createdAt": "2026-07-08T08:12:17Z",
+    "stars": 383,
+    "name": "Doriandarko/texts-to-transformer",
+    "url": "https://github.com/Doriandarko/texts-to-transformer",
+    "lang": "Python",
+    "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac."
+  },
+  {
+    "createdAt": "2026-07-06T04:42:54Z",
+    "stars": 383,
+    "name": "SmtimesIWndr/gdid-reversal",
+    "url": "https://github.com/SmtimesIWndr/gdid-reversal",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-12T22:22:51Z",
+    "stars": 376,
+    "name": "x4gKing/Marzban-Node",
+    "url": "https://github.com/x4gKing/Marzban-Node",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-06T22:35:18Z",
+    "stars": 332,
+    "name": "Sahir619/fable-method",
+    "url": "https://github.com/Sahir619/fable-method",
+    "lang": "JavaScript",
+    "desc": "The Fable Workflow: how Claude Fable 5 worked, distilled into skills any model can run, with the eval that keeps it honest. Think / act / prove."
+  },
+  {
+    "createdAt": "2026-07-07T18:33:14Z",
+    "stars": 315,
+    "name": "WeZZard/jlens-qwen36",
+    "url": "https://github.com/WeZZard/jlens-qwen36",
+    "lang": "Python",
+    "desc": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX"
+  },
+  {
+    "createdAt": "2026-07-08T06:06:31Z",
+    "stars": 310,
+    "name": "bkingfilm/lapian-notes",
+    "url": "https://github.com/bkingfilm/lapian-notes",
+    "lang": "TypeScript",
+    "desc": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆"
+  },
+  {
+    "createdAt": "2026-07-07T20:28:43Z",
+    "stars": 305,
+    "name": "osama-fawad/Pekingman",
+    "url": "https://github.com/osama-fawad/Pekingman",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-06T07:46:16Z",
+    "stars": 304,
+    "name": "kuskhan/jetendard",
+    "url": "https://github.com/kuskhan/jetendard",
+    "lang": "Python",
+    "desc": "JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced Hangul monospace rendering."
+  },
+  {
+    "createdAt": "2026-07-07T10:31:29Z",
+    "stars": 290,
+    "name": "Liquid4All/antidoom",
+    "url": "https://github.com/Liquid4All/antidoom",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-06T07:30:10Z",
+    "stars": 287,
+    "name": "wassermanproductions/motion-previs-studio",
+    "url": "https://github.com/wassermanproductions/motion-previs-studio",
+    "lang": "JavaScript",
+    "desc": "Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization."
+  },
+  {
+    "createdAt": "2026-07-07T17:15:20Z",
+    "stars": 284,
+    "name": "AlayaLab/AlayaWorld",
+    "url": "https://github.com/AlayaLab/AlayaWorld",
+    "lang": "",
+    "desc": "Full-stack open-source interactive long-horizon world model."
+  },
+  {
+    "createdAt": "2026-07-10T15:10:00Z",
+    "stars": 284,
+    "name": "pengchujin/jzsub",
+    "url": "https://github.com/pengchujin/jzsub",
+    "lang": "Python",
+    "desc": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。"
+  },
+  {
+    "createdAt": "2026-07-09T03:24:59Z",
+    "stars": 280,
+    "name": "thatmagicalcat/txm",
+    "url": "https://github.com/thatmagicalcat/txm",
+    "lang": "Rust",
+    "desc": "Terminal Math rendering engine"
+  },
+  {
+    "createdAt": "2026-07-10T08:58:36Z",
+    "stars": 275,
+    "name": "jakubkrehel/skills",
+    "url": "https://github.com/jakubkrehel/skills",
+    "lang": "",
+    "desc": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors."
+  },
+  {
+    "createdAt": "2026-07-06T21:30:38Z",
+    "stars": 270,
+    "name": "clawkwork/clawk",
+    "url": "https://github.com/clawkwork/clawk",
+    "lang": "Go",
+    "desc": "Disposable, network-restricted Linux VMs for AI coding agents"
+  },
+  {
+    "createdAt": "2026-07-12T14:24:33Z",
+    "stars": 262,
+    "name": "Kappaemme-git/codex-first-customer-finder-skill",
+    "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+    "lang": "Python",
+    "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals."
+  },
+  {
+    "createdAt": "2026-07-08T04:29:05Z",
+    "stars": 253,
+    "name": "Moore-developers/moore-wechat-article-downloader",
+    "url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
+    "lang": "Python",
+    "desc": "本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。"
+  },
+  {
+    "createdAt": "2026-07-06T21:12:03Z",
+    "stars": 251,
+    "name": "OmarH-creator/Autonomous-Forge",
+    "url": "https://github.com/OmarH-creator/Autonomous-Forge",
+    "lang": "Python",
+    "desc": "This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself."
+  },
+  {
+    "createdAt": "2026-07-08T03:29:48Z",
+    "stars": 248,
+    "name": "opencoredev/login-with-chatgpt",
+    "url": "https://github.com/opencoredev/login-with-chatgpt",
+    "lang": "TypeScript",
+    "desc": "A simple SDK that lets your users log in with their ChatGPT account."
+  },
+  {
+    "createdAt": "2026-07-08T18:22:38Z",
+    "stars": 248,
+    "name": "DexCrancer/AdelanSoulx-PM-Trading-Bot",
+    "url": "https://github.com/DexCrancer/AdelanSoulx-PM-Trading-Bot",
+    "lang": "Python",
+    "desc": "PM: tail-end / endcycle sniper opportunities"
+  },
+  {
+    "createdAt": "2026-07-07T09:28:50Z",
+    "stars": 245,
+    "name": "zerosupercycIe/risk-free-sniper",
+    "url": "https://github.com/zerosupercycIe/risk-free-sniper",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-07T21:51:14Z",
+    "stars": 236,
+    "name": "sunflower-of-parchman/codex-hygiene",
+    "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
+    "lang": "Shell",
+    "desc": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces"
+  }
+]
