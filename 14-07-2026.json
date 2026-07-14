@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-08T09:27:48Z",
+    "stars": 3045,
+    "name": "withmarbleapp/os-taxonomy",
+    "url": "https://github.com/withmarbleapp/os-taxonomy",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-08T09:24:50Z",
+    "stars": 1106,
+    "name": "Robbyant/lingbot-world-v2",
+    "url": "https://github.com/Robbyant/lingbot-world-v2",
+    "lang": "Python",
+    "desc": "Infinite Worlds with Versatile Interactions"
+  },
+  {
+    "createdAt": "2026-07-08T06:13:23Z",
+    "stars": 1028,
+    "name": "x4gKing/3x-ui-Upgrade",
+    "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-11T09:44:24Z",
+    "stars": 992,
+    "name": "MDX-Tom/gpt-5.6-instruct",
+    "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+    "lang": "Python",
+    "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。"
+  },
+  {
+    "createdAt": "2026-07-09T16:23:29Z",
+    "stars": 964,
+    "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "lang": "Python",
+    "desc": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
+  },
+  {
+    "createdAt": "2026-07-13T05:13:00Z",
+    "stars": 904,
+    "name": "littledivy/mimic",
+    "url": "https://github.com/littledivy/mimic",
+    "lang": "Python",
+    "desc": "Intercept any app, then call it from Python like a library"
+  },
+  {
+    "createdAt": "2026-07-12T10:35:44Z",
+    "stars": 801,
+    "name": "mereyabdenbekuly-ctrl/clodex-ide",
+    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "lang": "TypeScript",
+    "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development."
+  },
+  {
+    "createdAt": "2026-07-08T13:52:08Z",
+    "stars": 784,
+    "name": "Robbyant/lingbot-video",
+    "url": "https://github.com/Robbyant/lingbot-video",
+    "lang": "Python",
+    "desc": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
+  },
+  {
+    "createdAt": "2026-07-10T04:13:51Z",
+    "stars": 680,
+    "name": "AlephAITech/WorkBuddyGuide",
+    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+    "lang": "Python",
+    "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。"
+  },
+  {
+    "createdAt": "2026-07-07T13:57:13Z",
+    "stars": 655,
+    "name": "op7418/guizang-material-illustration",
+    "url": "https://github.com/op7418/guizang-material-illustration",
+    "lang": "",
+    "desc": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。"
+  },
+  {
+    "createdAt": "2026-07-12T22:22:09Z",
+    "stars": 653,
+    "name": "x4gKing/Marzban-Panel",
+    "url": "https://github.com/x4gKing/Marzban-Panel",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-10T05:57:02Z",
+    "stars": 616,
+    "name": "William-Lu-stack/Flawless",
+    "url": "https://github.com/William-Lu-stack/Flawless",
+    "lang": "Python",
+    "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure."
+  },
+  {
+    "createdAt": "2026-07-08T04:33:09Z",
+    "stars": 602,
+    "name": "modiqo/waggle",
+    "url": "https://github.com/modiqo/waggle",
+    "lang": "Rust",
+    "desc": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world."
+  },
+  {
+    "createdAt": "2026-07-12T14:24:33Z",
+    "stars": 589,
+    "name": "Kappaemme-git/codex-first-customer-finder-skill",
+    "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+    "lang": "Python",
+    "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals."
+  },
+  {
+    "createdAt": "2026-07-09T11:41:46Z",
+    "stars": 572,
+    "name": "cosmtrek/mindwalk",
+    "url": "https://github.com/cosmtrek/mindwalk",
+    "lang": "Go",
+    "desc": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase."
+  },
+  {
+    "createdAt": "2026-07-12T22:22:51Z",
+    "stars": 554,
+    "name": "x4gKing/Marzban-Node",
+    "url": "https://github.com/x4gKing/Marzban-Node",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-07T16:48:56Z",
+    "stars": 534,
+    "name": "Robbyant/lingbot-vla-v2",
+    "url": "https://github.com/Robbyant/lingbot-vla-v2",
+    "lang": "Python",
+    "desc": "From Foundation to Application"
+  },
+  {
+    "createdAt": "2026-07-07T12:11:18Z",
+    "stars": 529,
+    "name": "xiaotianfotos/homerail",
+    "url": "https://github.com/xiaotianfotos/homerail",
+    "lang": "TypeScript",
+    "desc": "Voice-first local agent orchestration runtime for auditable DAG workflows."
+  },
+  {
+    "createdAt": "2026-07-10T15:10:00Z",
+    "stars": 513,
+    "name": "pengchujin/jzsub",
+    "url": "https://github.com/pengchujin/jzsub",
+    "lang": "Python",
+    "desc": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。"
+  },
+  {
+    "createdAt": "2026-07-08T09:23:53Z",
+    "stars": 503,
+    "name": "Raymondhou0917/speak-human-tw",
+    "url": "https://github.com/Raymondhou0917/speak-human-tw",
+    "lang": "",
+    "desc": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。"
+  },
+  {
+    "createdAt": "2026-07-08T17:08:34Z",
+    "stars": 467,
+    "name": "gostonx/uninstally",
+    "url": "https://github.com/gostonx/uninstally",
+    "lang": "Swift",
+    "desc": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension."
+  },
+  {
+    "createdAt": "2026-07-08T10:53:34Z",
+    "stars": 450,
+    "name": "Nanako0129/pilotfish",
+    "url": "https://github.com/Nanako0129/pilotfish",
+    "lang": "Python",
+    "desc": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install."
+  },
+  {
+    "createdAt": "2026-07-10T08:59:16Z",
+    "stars": 435,
+    "name": "yetone/kill-ai-slop",
+    "url": "https://github.com/yetone/kill-ai-slop",
+    "lang": "TypeScript",
+    "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com"
+  },
+  {
+    "createdAt": "2026-07-08T08:12:17Z",
+    "stars": 394,
+    "name": "Doriandarko/texts-to-transformer",
+    "url": "https://github.com/Doriandarko/texts-to-transformer",
+    "lang": "Python",
+    "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac."
+  },
+  {
+    "createdAt": "2026-07-07T20:28:43Z",
+    "stars": 364,
+    "name": "osama-fawad/Pekingman",
+    "url": "https://github.com/osama-fawad/Pekingman",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-08T06:06:31Z",
+    "stars": 327,
+    "name": "bkingfilm/lapian-notes",
+    "url": "https://github.com/bkingfilm/lapian-notes",
+    "lang": "TypeScript",
+    "desc": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地"
+  },
+  {
+    "createdAt": "2026-07-10T08:58:36Z",
+    "stars": 326,
+    "name": "jakubkrehel/skills",
+    "url": "https://github.com/jakubkrehel/skills",
+    "lang": "",
+    "desc": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors."
+  },
+  {
+    "createdAt": "2026-07-07T18:33:14Z",
+    "stars": 321,
+    "name": "WeZZard/jlens-qwen36",
+    "url": "https://github.com/WeZZard/jlens-qwen36",
+    "lang": "Python",
+    "desc": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX"
+  },
+  {
+    "createdAt": "2026-07-07T10:31:29Z",
+    "stars": 298,
+    "name": "Liquid4All/antidoom",
+    "url": "https://github.com/Liquid4All/antidoom",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-07T17:15:20Z",
+    "stars": 296,
+    "name": "AlayaLab/AlayaWorld",
+    "url": "https://github.com/AlayaLab/AlayaWorld",
+    "lang": "",
+    "desc": "Full-stack open-source interactive long-horizon world model."
+  },
+  {
+    "createdAt": "2026-07-09T03:24:59Z",
+    "stars": 289,
+    "name": "thatmagicalcat/txm",
+    "url": "https://github.com/thatmagicalcat/txm",
+    "lang": "Rust",
+    "desc": "Terminal Math rendering engine"
+  },
+  {
+    "createdAt": "2026-07-09T17:01:06Z",
+    "stars": 283,
+    "name": "JexTradesLab/scaling-octo-engine",
+    "url": "https://github.com/JexTradesLab/scaling-octo-engine",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-12T16:03:52Z",
+    "stars": 273,
+    "name": "opencoredev/domain-sdk",
+    "url": "https://github.com/opencoredev/domain-sdk",
+    "lang": "TypeScript",
+    "desc": "Add, verify, monitor, and remove customer domains with one TypeScript API."
+  },
+  {
+    "createdAt": "2026-07-11T09:46:31Z",
+    "stars": 263,
+    "name": "Git-creat7/grokRegister-cpa",
+    "url": "https://github.com/Git-creat7/grokRegister-cpa",
+    "lang": "Python",
+    "desc": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传"
+  },
+  {
+    "createdAt": "2026-07-08T04:29:05Z",
+    "stars": 260,
+    "name": "Moore-developers/moore-wechat-article-downloader",
+    "url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
+    "lang": "Python",
+    "desc": "本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。"
+  },
+  {
+    "createdAt": "2026-07-08T03:29:48Z",
+    "stars": 257,
+    "name": "opencoredev/login-with-chatgpt",
+    "url": "https://github.com/opencoredev/login-with-chatgpt",
+    "lang": "TypeScript",
+    "desc": "A simple SDK that lets your users log in with their ChatGPT account."
+  },
+  {
+    "createdAt": "2026-07-10T05:50:11Z",
+    "stars": 248,
+    "name": "Jane-xiaoer/paper-collage-ad-codex",
+    "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+    "lang": "JavaScript",
+    "desc": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC"
+  },
+  {
+    "createdAt": "2026-07-07T09:28:50Z",
+    "stars": 245,
+    "name": "zerosupercycIe/risk-free-sniper",
+    "url": "https://github.com/zerosupercycIe/risk-free-sniper",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-07T21:51:14Z",
+    "stars": 240,
+    "name": "sunflower-of-parchman/codex-hygiene",
+    "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
+    "lang": "Shell",
+    "desc": "Codex skill for auditing and tuning Codex Desktop context/tool surfaces"
+  },
+  {
+    "createdAt": "2026-07-10T16:10:25Z",
+    "stars": 238,
+    "name": "Intuition-Lab/personal-model",
+    "url": "https://github.com/Intuition-Lab/personal-model",
+    "lang": "Python",
+    "desc": "Build your HUMAN.md."
+  },
+  {
+    "createdAt": "2026-07-08T11:15:29Z",
+    "stars": 238,
+    "name": "CWS6206/EasyLastSkill",
+    "url": "https://github.com/CWS6206/EasyLastSkill",
+    "lang": "Python",
+    "desc": "EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten Bericht mit Quellen, Relevanzscore und Unsicherheiten."
+  },
+  {
+    "createdAt": "2026-07-09T08:33:45Z",
+    "stars": 232,
+    "name": "change-42-yhmm/quota-float",
+    "url": "https://github.com/change-42-yhmm/quota-float",
+    "lang": "TypeScript",
+    "desc": "A plug-in for easy viewing of credit limits"
+  },
+  {
+    "createdAt": "2026-07-07T21:02:32Z",
+    "stars": 230,
+    "name": "RoboDojo-Benchmark/RoboDojo",
+    "url": "https://github.com/RoboDojo-Benchmark/RoboDojo",
+    "lang": "Python",
+    "desc": "Official Repo of RoboDojo"
+  },
+  {
+    "createdAt": "2026-07-10T10:36:31Z",
+    "stars": 224,
+    "name": "dongguatanglinux/grok-build-auth",
+    "url": "https://github.com/dongguatanglinux/grok-build-auth",
+    "lang": "Python",
+    "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)"
+  },
+  {
+    "createdAt": "2026-07-10T04:33:07Z",
+    "stars": 221,
+    "name": "Cjbuilds/Codex-Orchestration",
+    "url": "https://github.com/Cjbuilds/Codex-Orchestration",
+    "lang": "Python",
+    "desc": "Bring any model to Codex, assign them any role, use them in /goal or any workflow."
+  },
+  {
+    "createdAt": "2026-07-12T12:36:58Z",
+    "stars": 220,
+    "name": "BloxHubSSS/Game-Copier",
+    "url": "https://github.com/BloxHubSSS/Game-Copier",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-07T07:36:26Z",
+    "stars": 217,
+    "name": "adriflex/autoremesher-blender-bridge",
+    "url": "https://github.com/adriflex/autoremesher-blender-bridge",
+    "lang": "Python",
+    "desc": "Blender bridge for AutoRemesher"
+  },
+  {
+    "createdAt": "2026-07-11T17:39:07Z",
+    "stars": 211,
+    "name": "BryanLunduke/LCOS",
+    "url": "https://github.com/BryanLunduke/LCOS",
+    "lang": "",
+    "desc": "The Lunduke Computer Operating System"
+  },
+  {
+    "createdAt": "2026-07-08T05:58:21Z",
+    "stars": 210,
+    "name": "GiMi-Xiaomi/gimi-illustration-skill",
+    "url": "https://github.com/GiMi-Xiaomi/gimi-illustration-skill",
+    "lang": "",
+    "desc": "配图 skill"
+  },
+  {
+    "createdAt": "2026-07-09T15:28:47Z",
+    "stars": 197,
+    "name": "xiaolongbao0709/ai-virtual-phone",
+    "url": "https://github.com/xiaolongbao0709/ai-virtual-phone",
+    "lang": "TypeScript",
+    "desc": ""
+  }
+]
