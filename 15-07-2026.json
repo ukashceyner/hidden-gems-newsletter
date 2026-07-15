@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-08T09:27:48Z",
+    "stars": 3118,
+    "name": "withmarbleapp/os-taxonomy",
+    "url": "https://github.com/withmarbleapp/os-taxonomy",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-14T20:04:23Z",
+    "stars": 1641,
+    "name": "xai-org/grok-build",
+    "url": "https://github.com/xai-org/grok-build",
+    "lang": "Rust",
+    "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible."
+  },
+  {
+    "createdAt": "2026-07-11T09:44:24Z",
+    "stars": 1317,
+    "name": "MDX-Tom/gpt-5.6-instruct",
+    "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+    "lang": "Python",
+    "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。"
+  },
+  {
+    "createdAt": "2026-07-08T09:24:50Z",
+    "stars": 1179,
+    "name": "Robbyant/lingbot-world-v2",
+    "url": "https://github.com/Robbyant/lingbot-world-v2",
+    "lang": "Python",
+    "desc": "Infinite Worlds with Versatile Interactions"
+  },
+  {
+    "createdAt": "2026-07-08T06:13:23Z",
+    "stars": 1065,
+    "name": "x4gKing/3x-ui-Upgrade",
+    "url": "https://github.com/x4gKing/3x-ui-Upgrade",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-13T05:13:00Z",
+    "stars": 1009,
+    "name": "littledivy/mimic",
+    "url": "https://github.com/littledivy/mimic",
+    "lang": "Python",
+    "desc": "Intercept any app, then call it from Python like a library"
+  },
+  {
+    "createdAt": "2026-07-09T16:23:29Z",
+    "stars": 1009,
+    "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "lang": "Python",
+    "desc": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models."
+  },
+  {
+    "createdAt": "2026-07-12T10:35:44Z",
+    "stars": 810,
+    "name": "mereyabdenbekuly-ctrl/clodex-ide",
+    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "lang": "TypeScript",
+    "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development."
+  },
+  {
+    "createdAt": "2026-07-08T13:52:08Z",
+    "stars": 801,
+    "name": "Robbyant/lingbot-video",
+    "url": "https://github.com/Robbyant/lingbot-video",
+    "lang": "Python",
+    "desc": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence"
+  },
+  {
+    "createdAt": "2026-07-10T04:13:51Z",
+    "stars": 784,
+    "name": "AlephAITech/WorkBuddyGuide",
+    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+    "lang": "Python",
+    "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。"
+  },
+  {
+    "createdAt": "2026-07-12T22:22:09Z",
+    "stars": 767,
+    "name": "x4gKing/Marzban-Panel",
+    "url": "https://github.com/x4gKing/Marzban-Panel",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-08T04:33:09Z",
+    "stars": 743,
+    "name": "modiqo/waggle",
+    "url": "https://github.com/modiqo/waggle",
+    "lang": "Rust",
+    "desc": "Attributed, resolvable artifact references for agent handoffs — a ~30-byte token instead of pasted context. MCP-native; the reference layer for the agent-harness world."
+  },
+  {
+    "createdAt": "2026-07-12T14:24:33Z",
+    "stars": 706,
+    "name": "Kappaemme-git/codex-first-customer-finder-skill",
+    "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+    "lang": "Python",
+    "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals."
+  },
+  {
+    "createdAt": "2026-07-09T11:41:46Z",
+    "stars": 679,
+    "name": "cosmtrek/mindwalk",
+    "url": "https://github.com/cosmtrek/mindwalk",
+    "lang": "Go",
+    "desc": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase."
+  },
+  {
+    "createdAt": "2026-07-10T15:10:00Z",
+    "stars": 672,
+    "name": "pengchujin/jzsub",
+    "url": "https://github.com/pengchujin/jzsub",
+    "lang": "Python",
+    "desc": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。"
+  },
+  {
+    "createdAt": "2026-07-12T22:22:51Z",
+    "stars": 661,
+    "name": "x4gKing/Marzban-Node",
+    "url": "https://github.com/x4gKing/Marzban-Node",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-10T05:57:02Z",
+    "stars": 632,
+    "name": "William-Lu-stack/Flawless",
+    "url": "https://github.com/William-Lu-stack/Flawless",
+    "lang": "Python",
+    "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure."
+  },
+  {
+    "createdAt": "2026-07-13T07:31:56Z",
+    "stars": 540,
+    "name": "oil-oil/beautify-github-readme",
+    "url": "https://github.com/oil-oil/beautify-github-readme",
+    "lang": "Python",
+    "desc": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown"
+  },
+  {
+    "createdAt": "2026-07-14T14:20:44Z",
+    "stars": 529,
+    "name": "CluvexStudio/Aether",
+    "url": "https://github.com/CluvexStudio/Aether",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-08T09:23:53Z",
+    "stars": 529,
+    "name": "Raymondhou0917/speak-human-tw",
+    "url": "https://github.com/Raymondhou0917/speak-human-tw",
+    "lang": "",
+    "desc": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。"
+  },
+  {
+    "createdAt": "2026-07-08T17:08:34Z",
+    "stars": 487,
+    "name": "gostonx/uninstally",
+    "url": "https://github.com/gostonx/uninstally",
+    "lang": "Swift",
+    "desc": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension."
+  },
+  {
+    "createdAt": "2026-07-13T07:42:51Z",
+    "stars": 467,
+    "name": "pixel-point/aval",
+    "url": "https://github.com/pixel-point/aval",
+    "lang": "TypeScript",
+    "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency."
+  },
+  {
+    "createdAt": "2026-07-08T10:53:34Z",
+    "stars": 463,
+    "name": "Nanako0129/pilotfish",
+    "url": "https://github.com/Nanako0129/pilotfish",
+    "lang": "Python",
+    "desc": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install."
+  },
+  {
+    "createdAt": "2026-07-10T08:59:16Z",
+    "stars": 459,
+    "name": "yetone/kill-ai-slop",
+    "url": "https://github.com/yetone/kill-ai-slop",
+    "lang": "TypeScript",
+    "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com"
+  },
+  {
+    "createdAt": "2026-07-08T08:12:17Z",
+    "stars": 395,
+    "name": "Doriandarko/texts-to-transformer",
+    "url": "https://github.com/Doriandarko/texts-to-transformer",
+    "lang": "Python",
+    "desc": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac."
+  },
+  {
+    "createdAt": "2026-07-10T08:58:36Z",
+    "stars": 388,
+    "name": "jakubkrehel/skills",
+    "url": "https://github.com/jakubkrehel/skills",
+    "lang": "",
+    "desc": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors."
+  },
+  {
+    "createdAt": "2026-07-14T20:13:18Z",
+    "stars": 352,
+    "name": "MatinSenPai/Aether-GUI",
+    "url": "https://github.com/MatinSenPai/Aether-GUI",
+    "lang": "TypeScript",
+    "desc": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust"
+  },
+  {
+    "createdAt": "2026-07-08T06:06:31Z",
+    "stars": 339,
+    "name": "bkingfilm/lapian-notes",
+    "url": "https://github.com/bkingfilm/lapian-notes",
+    "lang": "TypeScript",
+    "desc": "AI 辅助的电影拉片工具：导入影片，AI 拆出剧情泳道时间轴、结构树、观众情绪曲线，边播边写你的拉片笔记。免费开源，数据全在本地"
+  },
+  {
+    "createdAt": "2026-07-09T17:01:06Z",
+    "stars": 331,
+    "name": "JexTradesLab/scaling-octo-engine",
+    "url": "https://github.com/JexTradesLab/scaling-octo-engine",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-10T16:10:25Z",
+    "stars": 326,
+    "name": "Intuition-Lab/personal-model",
+    "url": "https://github.com/Intuition-Lab/personal-model",
+    "lang": "Python",
+    "desc": "Build your HUMAN.md."
+  },
+  {
+    "createdAt": "2026-07-08T15:40:28Z",
+    "stars": 312,
+    "name": "nv-tlabs/ardy",
+    "url": "https://github.com/nv-tlabs/ardy",
+    "lang": "Python",
+    "desc": "Official implementation of ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation (SIGGRAPH 2026)."
+  },
+  {
+    "createdAt": "2026-07-14T04:53:39Z",
+    "stars": 310,
+    "name": "QuantumByteOSS/quantumbyte",
+    "url": "https://github.com/QuantumByteOSS/quantumbyte",
+    "lang": "Python",
+    "desc": "Open-source app builder engine — intent to working app"
+  },
+  {
+    "createdAt": "2026-07-11T09:46:31Z",
+    "stars": 294,
+    "name": "Git-creat7/grokRegister-cpa",
+    "url": "https://github.com/Git-creat7/grokRegister-cpa",
+    "lang": "Python",
+    "desc": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传"
+  },
+  {
+    "createdAt": "2026-07-12T16:03:52Z",
+    "stars": 294,
+    "name": "opencoredev/domain-sdk",
+    "url": "https://github.com/opencoredev/domain-sdk",
+    "lang": "TypeScript",
+    "desc": "Add, verify, monitor, and remove customer domains with one TypeScript API."
+  },
+  {
+    "createdAt": "2026-07-09T03:24:59Z",
+    "stars": 293,
+    "name": "thatmagicalcat/txm",
+    "url": "https://github.com/thatmagicalcat/txm",
+    "lang": "Rust",
+    "desc": "Terminal Math rendering engine"
+  },
+  {
+    "createdAt": "2026-07-13T16:15:15Z",
+    "stars": 280,
+    "name": "WAYLON/ashare-quant-strategies",
+    "url": "https://github.com/WAYLON/ashare-quant-strategies",
+    "lang": "Python",
+    "desc": "A-share quant strategies research corpus: 119 Python strategy articles for learning"
+  },
+  {
+    "createdAt": "2026-07-12T12:36:58Z",
+    "stars": 277,
+    "name": "BloxHubSSS/Game-Copier",
+    "url": "https://github.com/BloxHubSSS/Game-Copier",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-10T04:33:07Z",
+    "stars": 273,
+    "name": "Cjbuilds/Codex-Orchestration",
+    "url": "https://github.com/Cjbuilds/Codex-Orchestration",
+    "lang": "Python",
+    "desc": "Bring any model to Codex, assign them any role, use them in /goal or any workflow."
+  },
+  {
+    "createdAt": "2026-07-10T05:50:11Z",
+    "stars": 269,
+    "name": "Jane-xiaoer/paper-collage-ad-codex",
+    "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+    "lang": "JavaScript",
+    "desc": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC"
+  },
+  {
+    "createdAt": "2026-07-08T03:29:48Z",
+    "stars": 266,
+    "name": "opencoredev/login-with-chatgpt",
+    "url": "https://github.com/opencoredev/login-with-chatgpt",
+    "lang": "TypeScript",
+    "desc": "A simple SDK that lets your users log in with their ChatGPT account."
+  },
+  {
+    "createdAt": "2026-07-08T04:29:05Z",
+    "stars": 265,
+    "name": "Moore-developers/moore-wechat-article-downloader",
+    "url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
+    "lang": "Python",
+    "desc": "本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。"
+  },
+  {
+    "createdAt": "2026-07-14T03:31:47Z",
+    "stars": 256,
+    "name": "TobiasLee/Rebuttal-Skill",
+    "url": "https://github.com/TobiasLee/Rebuttal-Skill",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-15T14:04:21Z",
+    "stars": 256,
+    "name": "gabriel-azara/hyperliquid-tracker",
+    "url": "https://github.com/gabriel-azara/hyperliquid-tracker",
+    "lang": "TypeScript",
+    "desc": "Get notified when big trades happen on Hyperliquid."
+  },
+  {
+    "createdAt": "2026-07-09T08:33:45Z",
+    "stars": 247,
+    "name": "change-42-yhmm/quota-float",
+    "url": "https://github.com/change-42-yhmm/quota-float",
+    "lang": "TypeScript",
+    "desc": "A plug-in for easy viewing of credit limits"
+  },
+  {
+    "createdAt": "2026-07-08T11:15:29Z",
+    "stars": 238,
+    "name": "CWS6206/EasyLastSkill",
+    "url": "https://github.com/CWS6206/EasyLastSkill",
+    "lang": "Python",
+    "desc": "EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und erstellt einen kompakten Bericht mit Quellen, Relevanzscore und Unsicherheiten."
+  },
+  {
+    "createdAt": "2026-07-10T10:36:31Z",
+    "stars": 237,
+    "name": "dongguatanglinux/grok-build-auth",
+    "url": "https://github.com/dongguatanglinux/grok-build-auth",
+    "lang": "Python",
+    "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)"
+  },
+  {
+    "createdAt": "2026-07-15T00:08:09Z",
+    "stars": 235,
+    "name": "my-take-dev/inspired-mino-design-skills",
+    "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
+    "lang": "Shell",
+    "desc": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル"
+  },
+  {
+    "createdAt": "2026-07-09T19:29:39Z",
+    "stars": 228,
+    "name": "HM2899/grokcli-2api",
+    "url": "https://github.com/HM2899/grokcli-2api",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-13T21:10:36Z",
+    "stars": 221,
+    "name": "vybenetwork/solana-pyth-api",
+    "url": "https://github.com/vybenetwork/solana-pyth-api",
+    "lang": "CSS",
+    "desc": "Solana Pyth API"
+  },
+  {
+    "createdAt": "2026-07-09T21:17:40Z",
+    "stars": 220,
+    "name": "vybenetwork/solana-defi-positions-api",
+    "url": "https://github.com/vybenetwork/solana-defi-positions-api",
+    "lang": "JavaScript",
+    "desc": "Solana DeFi Positions API"
+  }
+]
