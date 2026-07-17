@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-14T20:04:23Z",
+    "stars": 16301,
+    "name": "xai-org/grok-build",
+    "url": "https://github.com/xai-org/grok-build",
+    "lang": "Rust",
+    "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible."
+  },
+  {
+    "createdAt": "2026-07-15T12:34:51Z",
+    "stars": 8644,
+    "name": "Fei-Away/Codex-Dream-Skin",
+    "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "lang": "JavaScript",
+    "desc": "Codex Dream Skin"
+  },
+  {
+    "createdAt": "2026-07-11T09:44:24Z",
+    "stars": 1873,
+    "name": "MDX-Tom/gpt-5.6-instruct",
+    "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+    "lang": "Python",
+    "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。"
+  },
+  {
+    "createdAt": "2026-07-13T07:42:51Z",
+    "stars": 1161,
+    "name": "pixel-point/aval",
+    "url": "https://github.com/pixel-point/aval",
+    "lang": "TypeScript",
+    "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency."
+  },
+  {
+    "createdAt": "2026-07-13T05:13:00Z",
+    "stars": 1148,
+    "name": "littledivy/mimic",
+    "url": "https://github.com/littledivy/mimic",
+    "lang": "Python",
+    "desc": "Intercept any app, then call it from Python like a library"
+  },
+  {
+    "createdAt": "2026-07-14T14:20:44Z",
+    "stars": 1132,
+    "name": "CluvexStudio/Aether",
+    "url": "https://github.com/CluvexStudio/Aether",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-10T04:13:51Z",
+    "stars": 1046,
+    "name": "AlephAITech/WorkBuddyGuide",
+    "url": "https://github.com/AlephAITech/WorkBuddyGuide",
+    "lang": "Python",
+    "desc": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。"
+  },
+  {
+    "createdAt": "2026-07-12T22:22:09Z",
+    "stars": 910,
+    "name": "x4gKing/Marzban-Panel",
+    "url": "https://github.com/x4gKing/Marzban-Panel",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-16T06:17:00Z",
+    "stars": 885,
+    "name": "tandpfun/wardrobe",
+    "url": "https://github.com/tandpfun/wardrobe",
+    "lang": "JavaScript",
+    "desc": "Your clothes, extracted and organized with gpt-image."
+  },
+  {
+    "createdAt": "2026-07-12T10:35:44Z",
+    "stars": 833,
+    "name": "mereyabdenbekuly-ctrl/clodex-ide",
+    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "lang": "TypeScript",
+    "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development."
+  },
+  {
+    "createdAt": "2026-07-12T14:24:33Z",
+    "stars": 786,
+    "name": "Kappaemme-git/codex-first-customer-finder-skill",
+    "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+    "lang": "Python",
+    "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals."
+  },
+  {
+    "createdAt": "2026-07-12T22:22:51Z",
+    "stars": 773,
+    "name": "x4gKing/Marzban-Node",
+    "url": "https://github.com/x4gKing/Marzban-Node",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-13T07:31:56Z",
+    "stars": 751,
+    "name": "oil-oil/beautify-github-readme",
+    "url": "https://github.com/oil-oil/beautify-github-readme",
+    "lang": "Python",
+    "desc": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown"
+  },
+  {
+    "createdAt": "2026-07-10T15:10:00Z",
+    "stars": 739,
+    "name": "pengchujin/jzsub",
+    "url": "https://github.com/pengchujin/jzsub",
+    "lang": "Python",
+    "desc": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。"
+  },
+  {
+    "createdAt": "2026-07-10T05:57:02Z",
+    "stars": 707,
+    "name": "William-Lu-stack/Flawless",
+    "url": "https://github.com/William-Lu-stack/Flawless",
+    "lang": "Python",
+    "desc": "AI SRE AgenticOps for Kubernetes and cloud infrastructure."
+  },
+  {
+    "createdAt": "2026-07-10T16:10:25Z",
+    "stars": 658,
+    "name": "Intuition-Lab/personal-model",
+    "url": "https://github.com/Intuition-Lab/personal-model",
+    "lang": "Python",
+    "desc": "Build your HUMAN.md."
+  },
+  {
+    "createdAt": "2026-07-13T23:32:54Z",
+    "stars": 643,
+    "name": "KubeezMedia/kubeez-scroll-world-video",
+    "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+    "lang": "JavaScript",
+    "desc": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video"
+  },
+  {
+    "createdAt": "2026-07-10T08:59:16Z",
+    "stars": 598,
+    "name": "yetone/kill-ai-slop",
+    "url": "https://github.com/yetone/kill-ai-slop",
+    "lang": "TypeScript",
+    "desc": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com"
+  },
+  {
+    "createdAt": "2026-07-10T08:58:36Z",
+    "stars": 549,
+    "name": "jakubkrehel/skills",
+    "url": "https://github.com/jakubkrehel/skills",
+    "lang": "",
+    "desc": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors."
+  },
+  {
+    "createdAt": "2026-07-14T20:13:18Z",
+    "stars": 527,
+    "name": "MatinSenPai/Aether-GUI",
+    "url": "https://github.com/MatinSenPai/Aether-GUI",
+    "lang": "TypeScript",
+    "desc": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust"
+  },
+  {
+    "createdAt": "2026-07-16T15:02:10Z",
+    "stars": 478,
+    "name": "PengZhang64/circuit-framework",
+    "url": "https://github.com/PengZhang64/circuit-framework",
+    "lang": "Python",
+    "desc": "Circuit Framework — multi-agent LLM trading research system"
+  },
+  {
+    "createdAt": "2026-07-15T22:17:25Z",
+    "stars": 477,
+    "name": "Blueturboguy07/cue",
+    "url": "https://github.com/Blueturboguy07/cue",
+    "lang": "JavaScript",
+    "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key."
+  },
+  {
+    "createdAt": "2026-07-16T07:06:09Z",
+    "stars": 400,
+    "name": "pablostanley/yoinks",
+    "url": "https://github.com/pablostanley/yoinks",
+    "lang": "TypeScript",
+    "desc": "yoink any video from your terminal. no shady ads."
+  },
+  {
+    "createdAt": "2026-07-10T04:33:07Z",
+    "stars": 380,
+    "name": "Cjbuilds/Codex-Orchestration",
+    "url": "https://github.com/Cjbuilds/Codex-Orchestration",
+    "lang": "Python",
+    "desc": "Bring any model to Codex, assign them any role, use them in /goal or any workflow."
+  },
+  {
+    "createdAt": "2026-07-11T09:46:31Z",
+    "stars": 362,
+    "name": "Git-creat7/grokRegister-cpa",
+    "url": "https://github.com/Git-creat7/grokRegister-cpa",
+    "lang": "Python",
+    "desc": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传"
+  },
+  {
+    "createdAt": "2026-07-14T07:45:44Z",
+    "stars": 334,
+    "name": "vshulcz/deja-vu",
+    "url": "https://github.com/vshulcz/deja-vu",
+    "lang": "Go",
+    "desc": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary."
+  },
+  {
+    "createdAt": "2026-07-14T04:53:39Z",
+    "stars": 323,
+    "name": "QuantumByteOSS/quantumbyte",
+    "url": "https://github.com/QuantumByteOSS/quantumbyte",
+    "lang": "Python",
+    "desc": "Open-source app builder engine — intent to working app"
+  },
+  {
+    "createdAt": "2026-07-12T13:24:42Z",
+    "stars": 322,
+    "name": "Shadow-Weave/HMS",
+    "url": "https://github.com/Shadow-Weave/HMS",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-12T16:03:52Z",
+    "stars": 316,
+    "name": "opencoredev/domain-sdk",
+    "url": "https://github.com/opencoredev/domain-sdk",
+    "lang": "TypeScript",
+    "desc": "Add, verify, monitor, and remove customer domains with one TypeScript API."
+  },
+  {
+    "createdAt": "2026-07-14T03:31:47Z",
+    "stars": 306,
+    "name": "TobiasLee/Rebuttal-Skill",
+    "url": "https://github.com/TobiasLee/Rebuttal-Skill",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-13T08:40:07Z",
+    "stars": 298,
+    "name": "Wan-Video/Wan-Dancer",
+    "url": "https://github.com/Wan-Video/Wan-Dancer",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-14T18:23:27Z",
+    "stars": 298,
+    "name": "stackblitz/bolt-slides",
+    "url": "https://github.com/stackblitz/bolt-slides",
+    "lang": "TypeScript",
+    "desc": "Use any agent to create stunning, interactive presentations"
+  },
+  {
+    "createdAt": "2026-07-13T16:15:15Z",
+    "stars": 296,
+    "name": "WAYLON/ashare-quant-strategies",
+    "url": "https://github.com/WAYLON/ashare-quant-strategies",
+    "lang": "Python",
+    "desc": "A-share quant strategies research corpus: 119 Python strategy articles for learning"
+  },
+  {
+    "createdAt": "2026-07-15T00:08:09Z",
+    "stars": 290,
+    "name": "my-take-dev/inspired-mino-design-skills",
+    "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
+    "lang": "Shell",
+    "desc": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル"
+  },
+  {
+    "createdAt": "2026-07-10T05:50:11Z",
+    "stars": 282,
+    "name": "Jane-xiaoer/paper-collage-ad-codex",
+    "url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex",
+    "lang": "JavaScript",
+    "desc": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC"
+  },
+  {
+    "createdAt": "2026-07-10T12:20:50Z",
+    "stars": 269,
+    "name": "ShenSeanChen/waku-agent",
+    "url": "https://github.com/ShenSeanChen/waku-agent",
+    "lang": "Python",
+    "desc": "Waku Waku! Waku agent is your personal AI agent, on your own laptop, in code you can read in an afternoon — harness + loop + memory + eval"
+  },
+  {
+    "createdAt": "2026-07-15T12:45:47Z",
+    "stars": 266,
+    "name": "pyang5166/gbro-collage-broll",
+    "url": "https://github.com/pyang5166/gbro-collage-broll",
+    "lang": "Python",
+    "desc": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
+  },
+  {
+    "createdAt": "2026-07-10T10:36:31Z",
+    "stars": 258,
+    "name": "dongguatanglinux/grok-build-auth",
+    "url": "https://github.com/dongguatanglinux/grok-build-auth",
+    "lang": "Python",
+    "desc": "Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)"
+  },
+  {
+    "createdAt": "2026-07-16T05:41:44Z",
+    "stars": 252,
+    "name": "robinhood-ape/robinhood-sniper-bot",
+    "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
+    "lang": "TypeScript",
+    "desc": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss"
+  },
+  {
+    "createdAt": "2026-07-16T05:41:33Z",
+    "stars": 250,
+    "name": "robinhood-ape/robinhood-noxa-bundler",
+    "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+    "lang": "TypeScript",
+    "desc": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers"
+  },
+  {
+    "createdAt": "2026-07-15T13:05:27Z",
+    "stars": 249,
+    "name": "oversecured/Samsung_Vulnerabilities",
+    "url": "https://github.com/oversecured/Samsung_Vulnerabilities",
+    "lang": "Java",
+    "desc": "176 vulnerabilities in Samsung preinstalled Android apps"
+  },
+  {
+    "createdAt": "2026-07-10T09:00:58Z",
+    "stars": 237,
+    "name": "myfanhua/turb-gpt-free-register",
+    "url": "https://github.com/myfanhua/turb-gpt-free-register",
+    "lang": "Python",
+    "desc": "纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权"
+  },
+  {
+    "createdAt": "2026-07-10T03:55:38Z",
+    "stars": 233,
+    "name": "Yuliang-Liu/MonkeyOCRv2",
+    "url": "https://github.com/Yuliang-Liu/MonkeyOCRv2",
+    "lang": "Python",
+    "desc": "MonkeyOCRv2 Vision Encoder — A Document-Native Visual Backbone"
+  },
+  {
+    "createdAt": "2026-07-13T15:44:06Z",
+    "stars": 233,
+    "name": "nihe0909/xiaohongshu-ai-workbench",
+    "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+    "lang": "Python",
+    "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations"
+  },
+  {
+    "createdAt": "2026-07-10T08:31:18Z",
+    "stars": 231,
+    "name": "basileus-labs/polymarket-resolution-sniper",
+    "url": "https://github.com/basileus-labs/polymarket-resolution-sniper",
+    "lang": "TypeScript",
+    "desc": "Polymarket resolution sniping bot on bitcoin 5min Up or Down market"
+  },
+  {
+    "createdAt": "2026-07-13T18:34:29Z",
+    "stars": 231,
+    "name": "khr898/ntfsmac",
+    "url": "https://github.com/khr898/ntfsmac",
+    "lang": "Swift",
+    "desc": "NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification."
+  },
+  {
+    "createdAt": "2026-07-11T17:39:07Z",
+    "stars": 229,
+    "name": "BryanLunduke/LCOS",
+    "url": "https://github.com/BryanLunduke/LCOS",
+    "lang": "",
+    "desc": "The Lunduke Computer Operating System"
+  },
+  {
+    "createdAt": "2026-07-14T05:27:18Z",
+    "stars": 226,
+    "name": "MSNightmare/LegacyHive",
+    "url": "https://github.com/MSNightmare/LegacyHive",
+    "lang": "C++",
+    "desc": "N/A"
+  },
+  {
+    "createdAt": "2026-07-11T08:33:33Z",
+    "stars": 226,
+    "name": "Subhan-code/Amicro--Micro-transitions-",
+    "url": "https://github.com/Subhan-code/Amicro--Micro-transitions-",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-13T21:10:36Z",
+    "stars": 222,
+    "name": "vybenetwork/solana-pyth-api",
+    "url": "https://github.com/vybenetwork/solana-pyth-api",
+    "lang": "CSS",
+    "desc": "Solana Pyth API"
+  }
+]
