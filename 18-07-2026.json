@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-14T20:04:23Z",
+    "stars": 18679,
+    "name": "xai-org/grok-build",
+    "url": "https://github.com/xai-org/grok-build",
+    "lang": "Rust",
+    "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible."
+  },
+  {
+    "createdAt": "2026-07-15T12:34:51Z",
+    "stars": 9726,
+    "name": "Fei-Away/Codex-Dream-Skin",
+    "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "lang": "JavaScript",
+    "desc": "Codex Dream Skin"
+  },
+  {
+    "createdAt": "2026-07-11T09:44:24Z",
+    "stars": 2034,
+    "name": "MDX-Tom/gpt-5.6-instruct",
+    "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+    "lang": "Python",
+    "desc": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。"
+  },
+  {
+    "createdAt": "2026-07-14T14:20:44Z",
+    "stars": 1252,
+    "name": "CluvexStudio/Aether",
+    "url": "https://github.com/CluvexStudio/Aether",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-13T07:42:51Z",
+    "stars": 1208,
+    "name": "pixel-point/aval",
+    "url": "https://github.com/pixel-point/aval",
+    "lang": "TypeScript",
+    "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency."
+  },
+  {
+    "createdAt": "2026-07-13T05:13:00Z",
+    "stars": 1167,
+    "name": "littledivy/mimic",
+    "url": "https://github.com/littledivy/mimic",
+    "lang": "Python",
+    "desc": "Intercept any app, then call it from Python like a library"
+  },
+  {
+    "createdAt": "2026-07-16T06:17:00Z",
+    "stars": 1044,
+    "name": "tandpfun/wardrobe",
+    "url": "https://github.com/tandpfun/wardrobe",
+    "lang": "JavaScript",
+    "desc": "Your clothes, extracted and organized with gpt-image."
+  },
+  {
+    "createdAt": "2026-07-12T22:22:09Z",
+    "stars": 871,
+    "name": "x4gKing/Marzban-Panel",
+    "url": "https://github.com/x4gKing/Marzban-Panel",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-12T10:35:44Z",
+    "stars": 838,
+    "name": "mereyabdenbekuly-ctrl/clodex-ide",
+    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "lang": "TypeScript",
+    "desc": "Local-first, zero-trust agentic IDE for verifiable autonomous software development."
+  },
+  {
+    "createdAt": "2026-07-12T14:24:33Z",
+    "stars": 817,
+    "name": "Kappaemme-git/codex-first-customer-finder-skill",
+    "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+    "lang": "Python",
+    "desc": "A Codex skill that finds evidence-backed potential first customers from recent public signals."
+  },
+  {
+    "createdAt": "2026-07-13T07:31:56Z",
+    "stars": 810,
+    "name": "oil-oil/beautify-github-readme",
+    "url": "https://github.com/oil-oil/beautify-github-readme",
+    "lang": "Python",
+    "desc": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown"
+  },
+  {
+    "createdAt": "2026-07-12T22:22:51Z",
+    "stars": 749,
+    "name": "x4gKing/Marzban-Node",
+    "url": "https://github.com/x4gKing/Marzban-Node",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-17T04:58:22Z",
+    "stars": 686,
+    "name": "nethical6/conversation-steganography",
+    "url": "https://github.com/nethical6/conversation-steganography",
+    "lang": "Go",
+    "desc": "Use LLMs to hide messages inside normal looking conversations"
+  },
+  {
+    "createdAt": "2026-07-13T23:32:54Z",
+    "stars": 653,
+    "name": "KubeezMedia/kubeez-scroll-world-video",
+    "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+    "lang": "JavaScript",
+    "desc": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video"
+  },
+  {
+    "createdAt": "2026-07-14T20:13:18Z",
+    "stars": 595,
+    "name": "MatinSenPai/Aether-GUI",
+    "url": "https://github.com/MatinSenPai/Aether-GUI",
+    "lang": "TypeScript",
+    "desc": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust"
+  },
+  {
+    "createdAt": "2026-07-16T07:06:09Z",
+    "stars": 554,
+    "name": "pablostanley/yoinks",
+    "url": "https://github.com/pablostanley/yoinks",
+    "lang": "TypeScript",
+    "desc": "yoink any video from your terminal. no shady ads."
+  },
+  {
+    "createdAt": "2026-07-15T22:17:25Z",
+    "stars": 543,
+    "name": "Blueturboguy07/cue",
+    "url": "https://github.com/Blueturboguy07/cue",
+    "lang": "JavaScript",
+    "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key."
+  },
+  {
+    "createdAt": "2026-07-16T15:02:10Z",
+    "stars": 480,
+    "name": "PengZhang64/circuit-framework",
+    "url": "https://github.com/PengZhang64/circuit-framework",
+    "lang": "Python",
+    "desc": "Circuit Framework — multi-agent LLM trading research system"
+  },
+  {
+    "createdAt": "2026-07-11T09:46:31Z",
+    "stars": 387,
+    "name": "Git-creat7/grokRegister-cpa",
+    "url": "https://github.com/Git-creat7/grokRegister-cpa",
+    "lang": "Python",
+    "desc": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传"
+  },
+  {
+    "createdAt": "2026-07-14T18:23:27Z",
+    "stars": 379,
+    "name": "stackblitz/bolt-slides",
+    "url": "https://github.com/stackblitz/bolt-slides",
+    "lang": "TypeScript",
+    "desc": "Use any agent to create stunning, interactive presentations"
+  },
+  {
+    "createdAt": "2026-07-14T07:45:44Z",
+    "stars": 364,
+    "name": "vshulcz/deja-vu",
+    "url": "https://github.com/vshulcz/deja-vu",
+    "lang": "Go",
+    "desc": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary."
+  },
+  {
+    "createdAt": "2026-07-12T13:24:42Z",
+    "stars": 358,
+    "name": "Shadow-Weave/HMS",
+    "url": "https://github.com/Shadow-Weave/HMS",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-15T12:45:47Z",
+    "stars": 352,
+    "name": "pyang5166/gbro-collage-broll",
+    "url": "https://github.com/pyang5166/gbro-collage-broll",
+    "lang": "Python",
+    "desc": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
+  },
+  {
+    "createdAt": "2026-07-14T04:53:39Z",
+    "stars": 326,
+    "name": "QuantumByteOSS/quantumbyte",
+    "url": "https://github.com/QuantumByteOSS/quantumbyte",
+    "lang": "Python",
+    "desc": "Open-source app builder engine — intent to working app"
+  },
+  {
+    "createdAt": "2026-07-12T16:03:52Z",
+    "stars": 318,
+    "name": "opencoredev/domain-sdk",
+    "url": "https://github.com/opencoredev/domain-sdk",
+    "lang": "TypeScript",
+    "desc": "Add, verify, monitor, and remove customer domains with one TypeScript API."
+  },
+  {
+    "createdAt": "2026-07-13T08:40:07Z",
+    "stars": 310,
+    "name": "Wan-Video/Wan-Dancer",
+    "url": "https://github.com/Wan-Video/Wan-Dancer",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-14T03:31:47Z",
+    "stars": 308,
+    "name": "TobiasLee/Rebuttal-Skill",
+    "url": "https://github.com/TobiasLee/Rebuttal-Skill",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-16T11:37:15Z",
+    "stars": 308,
+    "name": "PromptPartner/agentsmith",
+    "url": "https://github.com/PromptPartner/agentsmith",
+    "lang": "Shell",
+    "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script."
+  },
+  {
+    "createdAt": "2026-07-13T16:15:15Z",
+    "stars": 302,
+    "name": "WAYLON/ashare-quant-strategies",
+    "url": "https://github.com/WAYLON/ashare-quant-strategies",
+    "lang": "Python",
+    "desc": "A-share quant strategies research corpus: 119 Python strategy articles for learning"
+  },
+  {
+    "createdAt": "2026-07-17T09:45:22Z",
+    "stars": 300,
+    "name": "MIgHTy-alIeN/Trading-Bot",
+    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+    "lang": "Solidity",
+    "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation."
+  },
+  {
+    "createdAt": "2026-07-15T00:08:09Z",
+    "stars": 293,
+    "name": "my-take-dev/inspired-mino-design-skills",
+    "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
+    "lang": "Shell",
+    "desc": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル"
+  },
+  {
+    "createdAt": "2026-07-17T17:48:08Z",
+    "stars": 289,
+    "name": "JustinGamer191/Holo",
+    "url": "https://github.com/JustinGamer191/Holo",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-14T14:37:23Z",
+    "stars": 271,
+    "name": "andyhuo520/MacCheck",
+    "url": "https://github.com/andyhuo520/MacCheck",
+    "lang": "Swift",
+    "desc": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具"
+  },
+  {
+    "createdAt": "2026-07-11T08:33:33Z",
+    "stars": 266,
+    "name": "Subhan-code/Amicro--Micro-transitions-",
+    "url": "https://github.com/Subhan-code/Amicro--Micro-transitions-",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-15T13:05:27Z",
+    "stars": 254,
+    "name": "oversecured/Samsung_Vulnerabilities",
+    "url": "https://github.com/oversecured/Samsung_Vulnerabilities",
+    "lang": "Java",
+    "desc": "176 vulnerabilities in Samsung preinstalled Android apps"
+  },
+  {
+    "createdAt": "2026-07-16T05:41:44Z",
+    "stars": 252,
+    "name": "robinhood-ape/robinhood-sniper-bot",
+    "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
+    "lang": "TypeScript",
+    "desc": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss"
+  },
+  {
+    "createdAt": "2026-07-16T05:41:33Z",
+    "stars": 250,
+    "name": "robinhood-ape/robinhood-noxa-bundler",
+    "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+    "lang": "TypeScript",
+    "desc": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers"
+  },
+  {
+    "createdAt": "2026-07-15T10:24:07Z",
+    "stars": 249,
+    "name": "HeiGeAi/heige-codex-skin-studio",
+    "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
+    "lang": "JavaScript",
+    "desc": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)"
+  },
+  {
+    "createdAt": "2026-07-15T13:53:48Z",
+    "stars": 244,
+    "name": "yuwen-cool/yuwen-publish-precheck",
+    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+    "lang": "Python",
+    "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。"
+  },
+  {
+    "createdAt": "2026-07-16T07:08:49Z",
+    "stars": 243,
+    "name": "thesysdev/appless",
+    "url": "https://github.com/thesysdev/appless",
+    "lang": "TypeScript",
+    "desc": "What if your phone had no apps"
+  },
+  {
+    "createdAt": "2026-07-13T18:34:29Z",
+    "stars": 240,
+    "name": "khr898/ntfsmac",
+    "url": "https://github.com/khr898/ntfsmac",
+    "lang": "Swift",
+    "desc": "NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification."
+  },
+  {
+    "createdAt": "2026-07-13T15:44:06Z",
+    "stars": 240,
+    "name": "nihe0909/xiaohongshu-ai-workbench",
+    "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+    "lang": "Python",
+    "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations"
+  },
+  {
+    "createdAt": "2026-07-14T05:27:18Z",
+    "stars": 239,
+    "name": "MSNightmare/LegacyHive",
+    "url": "https://github.com/MSNightmare/LegacyHive",
+    "lang": "C++",
+    "desc": "N/A"
+  },
+  {
+    "createdAt": "2026-07-15T16:05:48Z",
+    "stars": 233,
+    "name": "kitlangton/skills",
+    "url": "https://github.com/kitlangton/skills",
+    "lang": "",
+    "desc": "Here are some skills I use. Maybe you'll find them useful. Maybe not. Goodbye."
+  },
+  {
+    "createdAt": "2026-07-11T17:39:07Z",
+    "stars": 231,
+    "name": "BryanLunduke/LCOS",
+    "url": "https://github.com/BryanLunduke/LCOS",
+    "lang": "",
+    "desc": "The Lunduke Computer Operating System"
+  },
+  {
+    "createdAt": "2026-07-13T21:10:36Z",
+    "stars": 223,
+    "name": "vybenetwork/solana-pyth-api",
+    "url": "https://github.com/vybenetwork/solana-pyth-api",
+    "lang": "CSS",
+    "desc": "Solana Pyth API"
+  },
+  {
+    "createdAt": "2026-07-11T14:38:25Z",
+    "stars": 211,
+    "name": "barretlee/agent-pulse",
+    "url": "https://github.com/barretlee/agent-pulse",
+    "lang": "TypeScript",
+    "desc": "Evidence-backed AI industry intelligence — trends, source updates, daily data refreshes, and weekly decision briefs."
+  },
+  {
+    "createdAt": "2026-07-17T20:18:33Z",
+    "stars": 209,
+    "name": "Icex0/wp2shell-poc",
+    "url": "https://github.com/Icex0/wp2shell-poc",
+    "lang": "Python",
+    "desc": "wp2shell (CVE-2026-63030) - full RCE chain"
+  },
+  {
+    "createdAt": "2026-07-13T07:06:42Z",
+    "stars": 207,
+    "name": "JimLiu/baocut",
+    "url": "https://github.com/JimLiu/baocut",
+    "lang": "Shell",
+    "desc": "Open-source Agent Skill that drives the BaoCut macOS app CLI (transcribe · subtitle · translate · cut) from Claude Code, Codex, and other agents"
+  },
+  {
+    "createdAt": "2026-07-11T20:11:17Z",
+    "stars": 207,
+    "name": "GameDevGrzesiek/GameFunds",
+    "url": "https://github.com/GameDevGrzesiek/GameFunds",
+    "lang": "",
+    "desc": "A catalogue of publishers, investors, VCs and other grants to fund your game!"
+  }
+]
