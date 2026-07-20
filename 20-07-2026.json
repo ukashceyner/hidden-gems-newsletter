@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-14T20:04:23Z",
+    "stars": 20762,
+    "name": "xai-org/grok-build",
+    "url": "https://github.com/xai-org/grok-build",
+    "lang": "Rust",
+    "desc": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible."
+  },
+  {
+    "createdAt": "2026-07-15T12:34:51Z",
+    "stars": 11055,
+    "name": "Fei-Away/Codex-Dream-Skin",
+    "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "lang": "JavaScript",
+    "desc": "Codex Dream Skin"
+  },
+  {
+    "createdAt": "2026-07-14T14:20:44Z",
+    "stars": 1393,
+    "name": "CluvexStudio/Aether",
+    "url": "https://github.com/CluvexStudio/Aether",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-13T05:13:00Z",
+    "stars": 1362,
+    "name": "littledivy/mimic",
+    "url": "https://github.com/littledivy/mimic",
+    "lang": "Python",
+    "desc": "Intercept any app, then call it from Python like a library"
+  },
+  {
+    "createdAt": "2026-07-13T07:42:51Z",
+    "stars": 1256,
+    "name": "pixel-point/aval",
+    "url": "https://github.com/pixel-point/aval",
+    "lang": "TypeScript",
+    "desc": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency."
+  },
+  {
+    "createdAt": "2026-07-16T06:17:00Z",
+    "stars": 1213,
+    "name": "tandpfun/wardrobe",
+    "url": "https://github.com/tandpfun/wardrobe",
+    "lang": "JavaScript",
+    "desc": "Your clothes, extracted and organized with gpt-image."
+  },
+  {
+    "createdAt": "2026-07-15T02:58:39Z",
+    "stars": 961,
+    "name": "hoainho/img2threejs",
+    "url": "https://github.com/hoainho/img2threejs",
+    "lang": "Python",
+    "desc": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D."
+  },
+  {
+    "createdAt": "2026-07-13T07:31:56Z",
+    "stars": 887,
+    "name": "oil-oil/beautify-github-readme",
+    "url": "https://github.com/oil-oil/beautify-github-readme",
+    "lang": "Python",
+    "desc": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown"
+  },
+  {
+    "createdAt": "2026-07-17T04:58:22Z",
+    "stars": 875,
+    "name": "nethical6/conversation-steganography",
+    "url": "https://github.com/nethical6/conversation-steganography",
+    "lang": "Go",
+    "desc": "Use LLMs to hide messages inside normal looking conversations"
+  },
+  {
+    "createdAt": "2026-07-16T07:06:09Z",
+    "stars": 857,
+    "name": "pablostanley/yoinks",
+    "url": "https://github.com/pablostanley/yoinks",
+    "lang": "TypeScript",
+    "desc": "yoink any video from your terminal. no shady ads."
+  },
+  {
+    "createdAt": "2026-07-18T21:42:28Z",
+    "stars": 702,
+    "name": "lopopolo/harness-engineering",
+    "url": "https://github.com/lopopolo/harness-engineering",
+    "lang": "Python",
+    "desc": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering"
+  },
+  {
+    "createdAt": "2026-07-14T20:13:18Z",
+    "stars": 664,
+    "name": "MatinSenPai/Aether-GUI",
+    "url": "https://github.com/MatinSenPai/Aether-GUI",
+    "lang": "TypeScript",
+    "desc": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust"
+  },
+  {
+    "createdAt": "2026-07-15T22:17:25Z",
+    "stars": 657,
+    "name": "Blueturboguy07/cue",
+    "url": "https://github.com/Blueturboguy07/cue",
+    "lang": "JavaScript",
+    "desc": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key."
+  },
+  {
+    "createdAt": "2026-07-13T23:32:54Z",
+    "stars": 631,
+    "name": "KubeezMedia/kubeez-scroll-world-video",
+    "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
+    "lang": "JavaScript",
+    "desc": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video"
+  },
+  {
+    "createdAt": "2026-07-16T12:25:48Z",
+    "stars": 621,
+    "name": "v-modal/vmodal_sdk_flutter",
+    "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+    "lang": "Dart",
+    "desc": "V- Modal AI: Search anything anywhere SDK Flutter"
+  },
+  {
+    "createdAt": "2026-07-14T18:23:27Z",
+    "stars": 499,
+    "name": "stackblitz/bolt-slides",
+    "url": "https://github.com/stackblitz/bolt-slides",
+    "lang": "TypeScript",
+    "desc": "Use any agent to create stunning, interactive presentations"
+  },
+  {
+    "createdAt": "2026-07-18T06:51:05Z",
+    "stars": 487,
+    "name": "xiejunjie524/handdraw-story-video",
+    "url": "https://github.com/xiejunjie524/handdraw-story-video",
+    "lang": "Python",
+    "desc": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames."
+  },
+  {
+    "createdAt": "2026-07-16T15:02:10Z",
+    "stars": 486,
+    "name": "EthanXiang777/circuit-framework",
+    "url": "https://github.com/EthanXiang777/circuit-framework",
+    "lang": "Python",
+    "desc": "Circuit Framework — multi-agent LLM trading research system"
+  },
+  {
+    "createdAt": "2026-07-15T12:45:47Z",
+    "stars": 468,
+    "name": "pyang5166/gbro-collage-broll",
+    "url": "https://github.com/pyang5166/gbro-collage-broll",
+    "lang": "Python",
+    "desc": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill"
+  },
+  {
+    "createdAt": "2026-07-17T09:45:22Z",
+    "stars": 467,
+    "name": "MIgHTy-alIeN/Trading-Bot",
+    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+    "lang": "Solidity",
+    "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation."
+  },
+  {
+    "createdAt": "2026-07-13T03:31:47Z",
+    "stars": 464,
+    "name": "OpenBMB/StaffDeck",
+    "url": "https://github.com/OpenBMB/StaffDeck",
+    "lang": "Python",
+    "desc": "Enterprise Digital Employee Platform"
+  },
+  {
+    "createdAt": "2026-07-14T07:45:44Z",
+    "stars": 422,
+    "name": "vshulcz/deja-vu",
+    "url": "https://github.com/vshulcz/deja-vu",
+    "lang": "Go",
+    "desc": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local."
+  },
+  {
+    "createdAt": "2026-07-17T20:18:33Z",
+    "stars": 413,
+    "name": "Icex0/wp2shell-poc",
+    "url": "https://github.com/Icex0/wp2shell-poc",
+    "lang": "Python",
+    "desc": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain"
+  },
+  {
+    "createdAt": "2026-07-14T14:37:23Z",
+    "stars": 410,
+    "name": "andyhuo520/MacCheck",
+    "url": "https://github.com/andyhuo520/MacCheck",
+    "lang": "Swift",
+    "desc": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具"
+  },
+  {
+    "createdAt": "2026-07-14T14:45:23Z",
+    "stars": 388,
+    "name": "erickong/penecho",
+    "url": "https://github.com/erickong/penecho",
+    "lang": "JavaScript",
+    "desc": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning."
+  },
+  {
+    "createdAt": "2026-07-17T17:48:08Z",
+    "stars": 379,
+    "name": "JustinGamer191/Holo",
+    "url": "https://github.com/JustinGamer191/Holo",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-15T13:53:48Z",
+    "stars": 349,
+    "name": "yuwen-cool/yuwen-publish-precheck",
+    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+    "lang": "Python",
+    "desc": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。"
+  },
+  {
+    "createdAt": "2026-07-13T08:40:07Z",
+    "stars": 347,
+    "name": "Wan-Video/Wan-Dancer",
+    "url": "https://github.com/Wan-Video/Wan-Dancer",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-14T04:53:39Z",
+    "stars": 334,
+    "name": "QuantumByteOSS/quantumbyte",
+    "url": "https://github.com/QuantumByteOSS/quantumbyte",
+    "lang": "Python",
+    "desc": "Open-source app builder engine — intent to working app"
+  },
+  {
+    "createdAt": "2026-07-14T22:11:37Z",
+    "stars": 321,
+    "name": "OlegSotnikov/sallyport",
+    "url": "https://github.com/OlegSotnikov/sallyport",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-14T03:31:47Z",
+    "stars": 318,
+    "name": "TobiasLee/Rebuttal-Skill",
+    "url": "https://github.com/TobiasLee/Rebuttal-Skill",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-13T16:15:15Z",
+    "stars": 318,
+    "name": "WAYLON/ashare-quant-strategies",
+    "url": "https://github.com/WAYLON/ashare-quant-strategies",
+    "lang": "Python",
+    "desc": "A-share quant strategies research corpus: 119 Python strategy articles for learning"
+  },
+  {
+    "createdAt": "2026-07-16T11:37:15Z",
+    "stars": 310,
+    "name": "PromptPartner/agentsmith",
+    "url": "https://github.com/PromptPartner/agentsmith",
+    "lang": "Shell",
+    "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script."
+  },
+  {
+    "createdAt": "2026-07-14T01:32:23Z",
+    "stars": 299,
+    "name": "arcships/light-ocr",
+    "url": "https://github.com/arcships/light-ocr",
+    "lang": "Python",
+    "desc": "C++17 PP-OCRv6 small OCR core with an asynchronous Node-API adapter"
+  },
+  {
+    "createdAt": "2026-07-16T07:08:49Z",
+    "stars": 298,
+    "name": "thesysdev/appless",
+    "url": "https://github.com/thesysdev/appless",
+    "lang": "TypeScript",
+    "desc": "What if your phone had no apps"
+  },
+  {
+    "createdAt": "2026-07-15T00:08:09Z",
+    "stars": 295,
+    "name": "my-take-dev/inspired-mino-design-skills",
+    "url": "https://github.com/my-take-dev/inspired-mino-design-skills",
+    "lang": "Shell",
+    "desc": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル"
+  },
+  {
+    "createdAt": "2026-07-17T12:36:15Z",
+    "stars": 285,
+    "name": "thebuggeddev/football-stadium",
+    "url": "https://github.com/thebuggeddev/football-stadium",
+    "lang": "HTML",
+    "desc": "A 3D football stadium to visualize where you sit in the seat before you buy it"
+  },
+  {
+    "createdAt": "2026-07-15T10:24:07Z",
+    "stars": 285,
+    "name": "HeiGeAi/heige-codex-skin-studio",
+    "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
+    "lang": "JavaScript",
+    "desc": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)"
+  },
+  {
+    "createdAt": "2026-07-15T13:05:27Z",
+    "stars": 273,
+    "name": "oversecured/Samsung_Vulnerabilities",
+    "url": "https://github.com/oversecured/Samsung_Vulnerabilities",
+    "lang": "Java",
+    "desc": "176 vulnerabilities in Samsung preinstalled Android apps"
+  },
+  {
+    "createdAt": "2026-07-20T12:41:33Z",
+    "stars": 269,
+    "name": "paxlabs-inc/machine-genome",
+    "url": "https://github.com/paxlabs-inc/machine-genome",
+    "lang": "Go",
+    "desc": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them."
+  },
+  {
+    "createdAt": "2026-07-17T15:22:53Z",
+    "stars": 261,
+    "name": "smixs/pohuy",
+    "url": "https://github.com/smixs/pohuy",
+    "lang": "",
+    "desc": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+"
+  },
+  {
+    "createdAt": "2026-07-14T05:27:18Z",
+    "stars": 257,
+    "name": "MSNightmare/LegacyHive",
+    "url": "https://github.com/MSNightmare/LegacyHive",
+    "lang": "C++",
+    "desc": "N/A"
+  },
+  {
+    "createdAt": "2026-07-13T18:34:29Z",
+    "stars": 254,
+    "name": "khr898/ntfsmac",
+    "url": "https://github.com/khr898/ntfsmac",
+    "lang": "Swift",
+    "desc": "NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification."
+  },
+  {
+    "createdAt": "2026-07-13T07:06:42Z",
+    "stars": 253,
+    "name": "JimLiu/baocut",
+    "url": "https://github.com/JimLiu/baocut",
+    "lang": "Shell",
+    "desc": "Open-source Agent Skill that drives the BaoCut macOS app CLI (transcribe · subtitle · translate · cut) from Claude Code, Codex, and other agents"
+  },
+  {
+    "createdAt": "2026-07-16T05:41:44Z",
+    "stars": 252,
+    "name": "robinhood-ape/robinhood-sniper-bot",
+    "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
+    "lang": "TypeScript",
+    "desc": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss"
+  },
+  {
+    "createdAt": "2026-07-13T15:44:06Z",
+    "stars": 251,
+    "name": "nihe0909/xiaohongshu-ai-workbench",
+    "url": "https://github.com/nihe0909/xiaohongshu-ai-workbench",
+    "lang": "Python",
+    "desc": "《小红书运营手册 · AI工作台》: free Codex Skills for Xiaohongshu operations"
+  },
+  {
+    "createdAt": "2026-07-16T05:41:33Z",
+    "stars": 250,
+    "name": "robinhood-ape/robinhood-noxa-bundler",
+    "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+    "lang": "TypeScript",
+    "desc": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers"
+  },
+  {
+    "createdAt": "2026-07-15T16:05:48Z",
+    "stars": 242,
+    "name": "kitlangton/skills",
+    "url": "https://github.com/kitlangton/skills",
+    "lang": "",
+    "desc": "Here are some skills I use. Maybe you'll find them useful. Maybe not. Goodbye."
+  },
+  {
+    "createdAt": "2026-07-14T18:15:38Z",
+    "stars": 234,
+    "name": "perplexityai/wandr",
+    "url": "https://github.com/perplexityai/wandr",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-14T19:09:52Z",
+    "stars": 228,
+    "name": "SAGAR-TAMANG/ultron-by-sagar-builds",
+    "url": "https://github.com/SAGAR-TAMANG/ultron-by-sagar-builds",
+    "lang": "TypeScript",
+    "desc": "Ultron."
+  }
+]
