@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-18T21:42:28Z",
+    "stars": 2269,
+    "name": "lopopolo/harness-engineering",
+    "url": "https://github.com/lopopolo/harness-engineering",
+    "lang": "Python",
+    "desc": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering"
+  },
+  {
+    "createdAt": "2026-07-16T06:17:00Z",
+    "stars": 1406,
+    "name": "tandpfun/wardrobe",
+    "url": "https://github.com/tandpfun/wardrobe",
+    "lang": "JavaScript",
+    "desc": "Your clothes, extracted and organized with gpt-image."
+  },
+  {
+    "createdAt": "2026-07-17T09:45:22Z",
+    "stars": 1190,
+    "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "lang": "Solidity",
+    "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation."
+  },
+  {
+    "createdAt": "2026-07-16T07:06:09Z",
+    "stars": 1083,
+    "name": "pablostanley/yoinks",
+    "url": "https://github.com/pablostanley/yoinks",
+    "lang": "TypeScript",
+    "desc": "yoink any video from your terminal. no shady ads."
+  },
+  {
+    "createdAt": "2026-07-17T04:58:22Z",
+    "stars": 1071,
+    "name": "nethical6/conversation-steganography",
+    "url": "https://github.com/nethical6/conversation-steganography",
+    "lang": "Go",
+    "desc": "Use LLMs to hide messages inside normal looking conversations"
+  },
+  {
+    "createdAt": "2026-07-17T16:55:09Z",
+    "stars": 1060,
+    "name": "nyblnet/bento",
+    "url": "https://github.com/nyblnet/bento",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-20T01:52:32Z",
+    "stars": 916,
+    "name": "andrewyng/openworker",
+    "url": "https://github.com/andrewyng/openworker",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-16T12:25:48Z",
+    "stars": 908,
+    "name": "v-modal/vmodal_sdk_flutter",
+    "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+    "lang": "Dart",
+    "desc": "V- Modal AI: Search anything anywhere SDK Flutter"
+  },
+  {
+    "createdAt": "2026-07-19T11:44:41Z",
+    "stars": 889,
+    "name": "Vincentwei1021/video-shotcraft",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "lang": "TypeScript",
+    "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template"
+  },
+  {
+    "createdAt": "2026-07-16T13:38:20Z",
+    "stars": 855,
+    "name": "DavidHDev/canvas-ui",
+    "url": "https://github.com/DavidHDev/canvas-ui",
+    "lang": "TypeScript",
+    "desc": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla."
+  },
+  {
+    "createdAt": "2026-07-21T07:01:53Z",
+    "stars": 819,
+    "name": "Jakubantalik/thinking-orbs",
+    "url": "https://github.com/Jakubantalik/thinking-orbs",
+    "lang": "TypeScript",
+    "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light"
+  },
+  {
+    "createdAt": "2026-07-20T15:37:29Z",
+    "stars": 808,
+    "name": "Blaizzy/nativ",
+    "url": "https://github.com/Blaizzy/nativ",
+    "lang": "Swift",
+    "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app."
+  },
+  {
+    "createdAt": "2026-07-16T07:09:47Z",
+    "stars": 672,
+    "name": "mesamirh/MovieBox-Tui",
+    "url": "https://github.com/mesamirh/MovieBox-Tui",
+    "lang": "Rust",
+    "desc": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform."
+  },
+  {
+    "createdAt": "2026-07-20T09:34:24Z",
+    "stars": 652,
+    "name": "pireel/pireel",
+    "url": "https://github.com/pireel/pireel",
+    "lang": "TypeScript",
+    "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP."
+  },
+  {
+    "createdAt": "2026-07-20T14:58:48Z",
+    "stars": 645,
+    "name": "powerycy/goutoujunshi",
+    "url": "https://github.com/powerycy/goutoujunshi",
+    "lang": "Python",
+    "desc": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。"
+  },
+  {
+    "createdAt": "2026-07-18T06:51:05Z",
+    "stars": 634,
+    "name": "xiejunjie524/handdraw-story-video",
+    "url": "https://github.com/xiejunjie524/handdraw-story-video",
+    "lang": "Python",
+    "desc": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames."
+  },
+  {
+    "createdAt": "2026-07-17T15:22:53Z",
+    "stars": 581,
+    "name": "smixs/pohuy",
+    "url": "https://github.com/smixs/pohuy",
+    "lang": "",
+    "desc": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+"
+  },
+  {
+    "createdAt": "2026-07-21T08:54:45Z",
+    "stars": 544,
+    "name": "gnipbao/story-to-handdrawn-video",
+    "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+    "lang": "JavaScript",
+    "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track)."
+  },
+  {
+    "createdAt": "2026-07-21T14:24:08Z",
+    "stars": 504,
+    "name": "0xhype/hyperliquid-tracker",
+    "url": "https://github.com/0xhype/hyperliquid-tracker",
+    "lang": "TypeScript",
+    "desc": "Get notified when big trades happen on Hyperliquid."
+  },
+  {
+    "createdAt": "2026-07-17T20:18:33Z",
+    "stars": 501,
+    "name": "Icex0/wp2shell-poc",
+    "url": "https://github.com/Icex0/wp2shell-poc",
+    "lang": "Python",
+    "desc": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain"
+  },
+  {
+    "createdAt": "2026-07-17T17:48:08Z",
+    "stars": 479,
+    "name": "JustinGamer191/Holo",
+    "url": "https://github.com/JustinGamer191/Holo",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-16T15:02:10Z",
+    "stars": 397,
+    "name": "EthanXiang777/circuit-framework",
+    "url": "https://github.com/EthanXiang777/circuit-framework",
+    "lang": "Python",
+    "desc": "Circuit Framework — multi-agent LLM trading research system"
+  },
+  {
+    "createdAt": "2026-07-19T06:09:52Z",
+    "stars": 393,
+    "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+    "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+    "lang": "",
+    "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents."
+  },
+  {
+    "createdAt": "2026-07-17T03:05:57Z",
+    "stars": 379,
+    "name": "yc-duan/fastctx",
+    "url": "https://github.com/yc-duan/fastctx",
+    "lang": "Rust",
+    "desc": "Fast, context-efficient repository tools for AI agents (MCP)"
+  },
+  {
+    "createdAt": "2026-07-20T20:26:24Z",
+    "stars": 357,
+    "name": "Kritt-ai/open-kritt",
+    "url": "https://github.com/Kritt-ai/open-kritt",
+    "lang": "JavaScript",
+    "desc": "Orchestrate AI agents to find real vulnerabilities in code."
+  },
+  {
+    "createdAt": "2026-07-20T17:13:15Z",
+    "stars": 344,
+    "name": "CatsJuice/sticker-forge",
+    "url": "https://github.com/CatsJuice/sticker-forge",
+    "lang": "JavaScript",
+    "desc": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics."
+  },
+  {
+    "createdAt": "2026-07-20T14:23:19Z",
+    "stars": 336,
+    "name": "AdelanSoulX/PM-Sniper",
+    "url": "https://github.com/AdelanSoulX/PM-Sniper",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-21T07:28:23Z",
+    "stars": 333,
+    "name": "AdelanSupport/adelan-support",
+    "url": "https://github.com/AdelanSupport/adelan-support",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-17T12:36:15Z",
+    "stars": 330,
+    "name": "thebuggeddev/football-stadium",
+    "url": "https://github.com/thebuggeddev/football-stadium",
+    "lang": "HTML",
+    "desc": "A 3D football stadium to visualize where you sit in the seat before you buy it"
+  },
+  {
+    "createdAt": "2026-07-16T07:08:49Z",
+    "stars": 327,
+    "name": "thesysdev/appless",
+    "url": "https://github.com/thesysdev/appless",
+    "lang": "TypeScript",
+    "desc": "What if your phone had no apps"
+  },
+  {
+    "createdAt": "2026-07-16T06:04:37Z",
+    "stars": 307,
+    "name": "syabro/neat-annotations",
+    "url": "https://github.com/syabro/neat-annotations",
+    "lang": "HTML",
+    "desc": "Hand-drawn CSS annotations for inline content"
+  },
+  {
+    "createdAt": "2026-07-18T07:27:32Z",
+    "stars": 293,
+    "name": "SeanJ1ang/design-judge-skills",
+    "url": "https://github.com/SeanJ1ang/design-judge-skills",
+    "lang": "Python",
+    "desc": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness."
+  },
+  {
+    "createdAt": "2026-07-22T22:26:08Z",
+    "stars": 290,
+    "name": "berabuddies/redis-poc",
+    "url": "https://github.com/berabuddies/redis-poc",
+    "lang": "Python",
+    "desc": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0"
+  },
+  {
+    "createdAt": "2026-07-20T16:35:09Z",
+    "stars": 287,
+    "name": "Charles-0509/Grok-Register",
+    "url": "https://github.com/Charles-0509/Grok-Register",
+    "lang": "Go",
+    "desc": "Grok free-register CLI: register → OAuth → CPA JSON (Go)"
+  },
+  {
+    "createdAt": "2026-07-18T16:43:58Z",
+    "stars": 285,
+    "name": "Gheat1/tuistore",
+    "url": "https://github.com/Gheat1/tuistore",
+    "lang": "Python",
+    "desc": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis."
+  },
+  {
+    "createdAt": "2026-07-19T10:41:16Z",
+    "stars": 274,
+    "name": "lyu0805/OpenBrowser",
+    "url": "https://github.com/lyu0805/OpenBrowser",
+    "lang": "JavaScript",
+    "desc": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA"
+  },
+  {
+    "createdAt": "2026-07-17T11:38:10Z",
+    "stars": 268,
+    "name": "KlaatAI/klaatcode",
+    "url": "https://github.com/KlaatAI/klaatcode",
+    "lang": "TypeScript",
+    "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more."
+  },
+  {
+    "createdAt": "2026-07-20T18:46:29Z",
+    "stars": 265,
+    "name": "dacnay816y62-hub/cinema-dna-21x9x3",
+    "url": "https://github.com/dacnay816y62-hub/cinema-dna-21x9x3",
+    "lang": "",
+    "desc": "高级感电影画面生成"
+  },
+  {
+    "createdAt": "2026-07-21T01:33:21Z",
+    "stars": 260,
+    "name": "realfishsam/agent-notch",
+    "url": "https://github.com/realfishsam/agent-notch",
+    "lang": "Swift",
+    "desc": "The open-source alternative to vibe-island"
+  },
+  {
+    "createdAt": "2026-07-16T11:37:15Z",
+    "stars": 255,
+    "name": "PromptPartner/agentsmith",
+    "url": "https://github.com/PromptPartner/agentsmith",
+    "lang": "Shell",
+    "desc": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script."
+  },
+  {
+    "createdAt": "2026-07-16T05:41:44Z",
+    "stars": 253,
+    "name": "robinhood-ape/robinhood-sniper-bot",
+    "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
+    "lang": "TypeScript",
+    "desc": "NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss"
+  },
+  {
+    "createdAt": "2026-07-18T20:00:46Z",
+    "stars": 252,
+    "name": "joeseesun/qiaomu-cut-skill",
+    "url": "https://github.com/joeseesun/qiaomu-cut-skill",
+    "lang": "JavaScript",
+    "desc": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering"
+  },
+  {
+    "createdAt": "2026-07-16T05:41:33Z",
+    "stars": 250,
+    "name": "robinhood-ape/robinhood-noxa-bundler",
+    "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+    "lang": "TypeScript",
+    "desc": "NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers"
+  },
+  {
+    "createdAt": "2026-07-16T06:28:46Z",
+    "stars": 244,
+    "name": "bytedoger/awesome-OpenPrice",
+    "url": "https://github.com/bytedoger/awesome-OpenPrice",
+    "lang": "TypeScript",
+    "desc": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格"
+  },
+  {
+    "createdAt": "2026-07-16T16:43:25Z",
+    "stars": 235,
+    "name": "h9-tec/Awesome_ai_learning",
+    "url": "https://github.com/h9-tec/Awesome_ai_learning",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-18T19:35:23Z",
+    "stars": 232,
+    "name": "OpenBMB/MiniCPM-Robot",
+    "url": "https://github.com/OpenBMB/MiniCPM-Robot",
+    "lang": "Python",
+    "desc": "A Smarter and Faster On-Device AI Brain for Robots"
+  },
+  {
+    "createdAt": "2026-07-18T14:11:04Z",
+    "stars": 228,
+    "name": "RinDig/icm-architect",
+    "url": "https://github.com/RinDig/icm-architect",
+    "lang": "",
+    "desc": "Claude skill: design any process, idea, or problem into an ICM workspace (folder structure as agent architecture), or restructure an existing folder into one"
+  },
+  {
+    "createdAt": "2026-07-19T04:37:53Z",
+    "stars": 219,
+    "name": "chenjin-cmd/xhs-virtual-product",
+    "url": "https://github.com/chenjin-cmd/xhs-virtual-product",
+    "lang": "",
+    "desc": "xhs-virtual-product"
+  },
+  {
+    "createdAt": "2026-07-19T15:09:48Z",
+    "stars": 216,
+    "name": "rjx18/codor",
+    "url": "https://github.com/rjx18/codor",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-20T05:09:52Z",
+    "stars": 214,
+    "name": "nicechunk/game",
+    "url": "https://github.com/nicechunk/game",
+    "lang": "JavaScript",
+    "desc": "NiceChunk game client"
+  }
+]
