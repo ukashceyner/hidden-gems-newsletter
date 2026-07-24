@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-20T01:52:32Z",
+    "stars": 3326,
+    "name": "andrewyng/openworker",
+    "url": "https://github.com/andrewyng/openworker",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-18T21:42:28Z",
+    "stars": 2320,
+    "name": "lopopolo/harness-engineering",
+    "url": "https://github.com/lopopolo/harness-engineering",
+    "lang": "Python",
+    "desc": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering"
+  },
+  {
+    "createdAt": "2026-07-17T09:45:22Z",
+    "stars": 1440,
+    "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "lang": "Solidity",
+    "desc": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation."
+  },
+  {
+    "createdAt": "2026-07-19T11:44:41Z",
+    "stars": 1408,
+    "name": "Vincentwei1021/video-shotcraft",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "lang": "TypeScript",
+    "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template"
+  },
+  {
+    "createdAt": "2026-07-17T16:55:09Z",
+    "stars": 1407,
+    "name": "nyblnet/bento",
+    "url": "https://github.com/nyblnet/bento",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-17T04:58:22Z",
+    "stars": 1088,
+    "name": "nethical6/conversation-steganography",
+    "url": "https://github.com/nethical6/conversation-steganography",
+    "lang": "Go",
+    "desc": "Use LLMs to hide messages inside normal looking conversations"
+  },
+  {
+    "createdAt": "2026-07-21T07:01:53Z",
+    "stars": 928,
+    "name": "Jakubantalik/thinking-orbs",
+    "url": "https://github.com/Jakubantalik/thinking-orbs",
+    "lang": "TypeScript",
+    "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light"
+  },
+  {
+    "createdAt": "2026-07-20T15:37:29Z",
+    "stars": 859,
+    "name": "Blaizzy/nativ",
+    "url": "https://github.com/Blaizzy/nativ",
+    "lang": "Swift",
+    "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app."
+  },
+  {
+    "createdAt": "2026-07-20T14:58:48Z",
+    "stars": 800,
+    "name": "powerycy/goutoujunshi",
+    "url": "https://github.com/powerycy/goutoujunshi",
+    "lang": "Python",
+    "desc": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。"
+  },
+  {
+    "createdAt": "2026-07-20T09:34:24Z",
+    "stars": 708,
+    "name": "pireel/pireel",
+    "url": "https://github.com/pireel/pireel",
+    "lang": "TypeScript",
+    "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP."
+  },
+  {
+    "createdAt": "2026-07-18T06:51:05Z",
+    "stars": 640,
+    "name": "xiejunjie524/handdraw-story-video",
+    "url": "https://github.com/xiejunjie524/handdraw-story-video",
+    "lang": "Python",
+    "desc": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames."
+  },
+  {
+    "createdAt": "2026-07-17T15:22:53Z",
+    "stars": 621,
+    "name": "smixs/pohuy",
+    "url": "https://github.com/smixs/pohuy",
+    "lang": "",
+    "desc": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+"
+  },
+  {
+    "createdAt": "2026-07-21T08:54:45Z",
+    "stars": 606,
+    "name": "gnipbao/story-to-handdrawn-video",
+    "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+    "lang": "JavaScript",
+    "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track)."
+  },
+  {
+    "createdAt": "2026-07-20T17:13:15Z",
+    "stars": 519,
+    "name": "CatsJuice/sticker-forge",
+    "url": "https://github.com/CatsJuice/sticker-forge",
+    "lang": "JavaScript",
+    "desc": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics."
+  },
+  {
+    "createdAt": "2026-07-17T20:18:33Z",
+    "stars": 513,
+    "name": "Icex0/wp2shell-poc",
+    "url": "https://github.com/Icex0/wp2shell-poc",
+    "lang": "Python",
+    "desc": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain"
+  },
+  {
+    "createdAt": "2026-07-21T14:24:08Z",
+    "stars": 509,
+    "name": "0xhype/hyperliquid-tracker",
+    "url": "https://github.com/0xhype/hyperliquid-tracker",
+    "lang": "TypeScript",
+    "desc": "Get notified when big trades happen on Hyperliquid."
+  },
+  {
+    "createdAt": "2026-07-17T17:48:08Z",
+    "stars": 489,
+    "name": "JustinGamer191/Holo",
+    "url": "https://github.com/JustinGamer191/Holo",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-17T03:05:57Z",
+    "stars": 442,
+    "name": "yc-duan/fastctx",
+    "url": "https://github.com/yc-duan/fastctx",
+    "lang": "Rust",
+    "desc": "Fast, context-efficient repository tools for AI agents (MCP)"
+  },
+  {
+    "createdAt": "2026-07-20T16:35:09Z",
+    "stars": 424,
+    "name": "Charles-0509/Grok-Register",
+    "url": "https://github.com/Charles-0509/Grok-Register",
+    "lang": "Go",
+    "desc": "Grok free-register CLI: register → OAuth → CPA JSON (Go)"
+  },
+  {
+    "createdAt": "2026-07-19T06:09:52Z",
+    "stars": 406,
+    "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+    "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+    "lang": "",
+    "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents."
+  },
+  {
+    "createdAt": "2026-07-18T09:31:32Z",
+    "stars": 381,
+    "name": "egoist/kero",
+    "url": "https://github.com/egoist/kero",
+    "lang": "Swift",
+    "desc": "A native terminal workspace for macOS."
+  },
+  {
+    "createdAt": "2026-07-22T22:26:08Z",
+    "stars": 380,
+    "name": "berabuddies/redis-poc",
+    "url": "https://github.com/berabuddies/redis-poc",
+    "lang": "Python",
+    "desc": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0"
+  },
+  {
+    "createdAt": "2026-07-20T14:23:19Z",
+    "stars": 377,
+    "name": "AdelanSoulX/PM-Sniper",
+    "url": "https://github.com/AdelanSoulX/PM-Sniper",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-21T07:28:23Z",
+    "stars": 376,
+    "name": "AdelanSupport/adelan-support",
+    "url": "https://github.com/AdelanSupport/adelan-support",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-20T20:26:24Z",
+    "stars": 373,
+    "name": "Kritt-ai/open-kritt",
+    "url": "https://github.com/Kritt-ai/open-kritt",
+    "lang": "JavaScript",
+    "desc": "Orchestrate AI agents to find real vulnerabilities in code."
+  },
+  {
+    "createdAt": "2026-07-23T14:53:51Z",
+    "stars": 372,
+    "name": "slvDev/esp32-ai",
+    "url": "https://github.com/slvDev/esp32-ai",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-18T07:27:32Z",
+    "stars": 336,
+    "name": "SeanJ1ang/design-judge-skills",
+    "url": "https://github.com/SeanJ1ang/design-judge-skills",
+    "lang": "Python",
+    "desc": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness."
+  },
+  {
+    "createdAt": "2026-07-17T12:36:15Z",
+    "stars": 335,
+    "name": "thebuggeddev/football-stadium",
+    "url": "https://github.com/thebuggeddev/football-stadium",
+    "lang": "HTML",
+    "desc": "A 3D football stadium to visualize where you sit in the seat before you buy it"
+  },
+  {
+    "createdAt": "2026-07-20T18:46:29Z",
+    "stars": 319,
+    "name": "dacnay816y62-hub/cinema-dna-21x9x3",
+    "url": "https://github.com/dacnay816y62-hub/cinema-dna-21x9x3",
+    "lang": "",
+    "desc": "高级感电影画面生成"
+  },
+  {
+    "createdAt": "2026-07-19T10:41:16Z",
+    "stars": 306,
+    "name": "lyu0805/OpenBrowser",
+    "url": "https://github.com/lyu0805/OpenBrowser",
+    "lang": "JavaScript",
+    "desc": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA"
+  },
+  {
+    "createdAt": "2026-07-18T16:43:58Z",
+    "stars": 297,
+    "name": "Gheat1/tuistore",
+    "url": "https://github.com/Gheat1/tuistore",
+    "lang": "Python",
+    "desc": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis."
+  },
+  {
+    "createdAt": "2026-07-17T11:38:10Z",
+    "stars": 287,
+    "name": "KlaatAI/klaatcode",
+    "url": "https://github.com/KlaatAI/klaatcode",
+    "lang": "TypeScript",
+    "desc": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more."
+  },
+  {
+    "createdAt": "2026-07-21T01:33:21Z",
+    "stars": 266,
+    "name": "realfishsam/agent-notch",
+    "url": "https://github.com/realfishsam/agent-notch",
+    "lang": "Swift",
+    "desc": "The open-source alternative to vibe-island"
+  },
+  {
+    "createdAt": "2026-07-18T20:00:46Z",
+    "stars": 265,
+    "name": "joeseesun/qiaomu-cut-skill",
+    "url": "https://github.com/joeseesun/qiaomu-cut-skill",
+    "lang": "JavaScript",
+    "desc": "乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 | Agent-native video director with governed sourcing and verifiable rendering"
+  },
+  {
+    "createdAt": "2026-07-18T14:11:04Z",
+    "stars": 256,
+    "name": "RinDig/icm-architect",
+    "url": "https://github.com/RinDig/icm-architect",
+    "lang": "",
+    "desc": "Claude skill: design any process, idea, or problem into an ICM workspace (folder structure as agent architecture), or restructure an existing folder into one"
+  },
+  {
+    "createdAt": "2026-07-18T19:35:23Z",
+    "stars": 242,
+    "name": "OpenBMB/MiniCPM-Robot",
+    "url": "https://github.com/OpenBMB/MiniCPM-Robot",
+    "lang": "Python",
+    "desc": "A Smarter and Faster On-Device AI Brain for Robots"
+  },
+  {
+    "createdAt": "2026-07-23T16:43:40Z",
+    "stars": 240,
+    "name": "RongleCat/grok-app",
+    "url": "https://github.com/RongleCat/grok-app",
+    "lang": "TypeScript",
+    "desc": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)"
+  },
+  {
+    "createdAt": "2026-07-19T15:09:48Z",
+    "stars": 225,
+    "name": "rjx18/codor",
+    "url": "https://github.com/rjx18/codor",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-19T04:37:53Z",
+    "stars": 224,
+    "name": "chenjin-cmd/xhs-virtual-product",
+    "url": "https://github.com/chenjin-cmd/xhs-virtual-product",
+    "lang": "",
+    "desc": "xhs-virtual-product"
+  },
+  {
+    "createdAt": "2026-07-20T10:47:56Z",
+    "stars": 216,
+    "name": "TryCaspian/caspian-sdk",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "lang": "Python",
+    "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI."
+  },
+  {
+    "createdAt": "2026-07-20T05:09:52Z",
+    "stars": 215,
+    "name": "nicechunk/game",
+    "url": "https://github.com/nicechunk/game",
+    "lang": "JavaScript",
+    "desc": "NiceChunk game client"
+  },
+  {
+    "createdAt": "2026-07-20T12:41:33Z",
+    "stars": 213,
+    "name": "paxlabs-inc/machine-genome",
+    "url": "https://github.com/paxlabs-inc/machine-genome",
+    "lang": "Go",
+    "desc": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them."
+  },
+  {
+    "createdAt": "2026-07-17T15:57:54Z",
+    "stars": 213,
+    "name": "drumih/turbo-fieldfare",
+    "url": "https://github.com/drumih/turbo-fieldfare",
+    "lang": "Swift",
+    "desc": "Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook"
+  },
+  {
+    "createdAt": "2026-07-18T18:54:06Z",
+    "stars": 207,
+    "name": "MatheuZSecurity/Furtex",
+    "url": "https://github.com/MatheuZSecurity/Furtex",
+    "lang": "C",
+    "desc": "Post-exploitation and evasion research toolkit for Linux."
+  },
+  {
+    "createdAt": "2026-07-24T18:16:29Z",
+    "stars": 205,
+    "name": "melloworchid8rr6g/TG-Polymarket-bot",
+    "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
+    "lang": "JavaScript",
+    "desc": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel."
+  },
+  {
+    "createdAt": "2026-07-18T23:17:55Z",
+    "stars": 205,
+    "name": "livetennisapi/livetennisapi-mcp",
+    "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+    "lang": "JavaScript",
+    "desc": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability"
+  },
+  {
+    "createdAt": "2026-07-19T23:16:41Z",
+    "stars": 204,
+    "name": "duolahypercho/codex-router",
+    "url": "https://github.com/duolahypercho/codex-router",
+    "lang": "JavaScript",
+    "desc": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback."
+  },
+  {
+    "createdAt": "2026-07-17T07:41:30Z",
+    "stars": 200,
+    "name": "cursor/minisqlite",
+    "url": "https://github.com/cursor/minisqlite",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-19T06:27:45Z",
+    "stars": 195,
+    "name": "hassancs91/claude-youtube-editor",
+    "url": "https://github.com/hassancs91/claude-youtube-editor",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-20T11:37:49Z",
+    "stars": 195,
+    "name": "zeus-panel/ZEUS-PANEL",
+    "url": "https://github.com/zeus-panel/ZEUS-PANEL",
+    "lang": "JavaScript",
+    "desc": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database."
+  }
+]
