@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-20T01:52:32Z",
+    "stars": 6608,
+    "name": "andrewyng/openworker",
+    "url": "https://github.com/andrewyng/openworker",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-19T11:44:41Z",
+    "stars": 1894,
+    "name": "Vincentwei1021/video-shotcraft",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft",
+    "lang": "TypeScript",
+    "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template"
+  },
+  {
+    "createdAt": "2026-07-23T14:53:51Z",
+    "stars": 1312,
+    "name": "slvDev/esp32-ai",
+    "url": "https://github.com/slvDev/esp32-ai",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-21T07:01:53Z",
+    "stars": 1091,
+    "name": "Jakubantalik/thinking-orbs",
+    "url": "https://github.com/Jakubantalik/thinking-orbs",
+    "lang": "TypeScript",
+    "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light"
+  },
+  {
+    "createdAt": "2026-07-20T14:58:48Z",
+    "stars": 936,
+    "name": "powerycy/goutoujunshi",
+    "url": "https://github.com/powerycy/goutoujunshi",
+    "lang": "Python",
+    "desc": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。"
+  },
+  {
+    "createdAt": "2026-07-20T15:37:29Z",
+    "stars": 914,
+    "name": "Blaizzy/nativ",
+    "url": "https://github.com/Blaizzy/nativ",
+    "lang": "Swift",
+    "desc": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app."
+  },
+  {
+    "createdAt": "2026-07-24T19:52:13Z",
+    "stars": 848,
+    "name": "mikiarlo3/ai-copywriter",
+    "url": "https://github.com/mikiarlo3/ai-copywriter",
+    "lang": "Python",
+    "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone."
+  },
+  {
+    "createdAt": "2026-07-20T09:34:24Z",
+    "stars": 770,
+    "name": "pireel/pireel",
+    "url": "https://github.com/pireel/pireel",
+    "lang": "TypeScript",
+    "desc": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP."
+  },
+  {
+    "createdAt": "2026-07-21T08:54:45Z",
+    "stars": 653,
+    "name": "gnipbao/story-to-handdrawn-video",
+    "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+    "lang": "JavaScript",
+    "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track)."
+  },
+  {
+    "createdAt": "2026-07-25T19:32:36Z",
+    "stars": 625,
+    "name": "mshumer/Claude-of-Duty",
+    "url": "https://github.com/mshumer/Claude-of-Duty",
+    "lang": "JavaScript",
+    "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt."
+  },
+  {
+    "createdAt": "2026-07-20T17:13:15Z",
+    "stars": 593,
+    "name": "CatsJuice/sticker-forge",
+    "url": "https://github.com/CatsJuice/sticker-forge",
+    "lang": "JavaScript",
+    "desc": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics."
+  },
+  {
+    "createdAt": "2026-07-20T11:37:49Z",
+    "stars": 593,
+    "name": "zeus-panel/ZEUS-PANEL",
+    "url": "https://github.com/zeus-panel/ZEUS-PANEL",
+    "lang": "JavaScript",
+    "desc": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database."
+  },
+  {
+    "createdAt": "2026-07-21T14:24:08Z",
+    "stars": 511,
+    "name": "0xhype/hyperliquid-tracker",
+    "url": "https://github.com/0xhype/hyperliquid-tracker",
+    "lang": "TypeScript",
+    "desc": "Get notified when big trades happen on Hyperliquid."
+  },
+  {
+    "createdAt": "2026-07-20T16:35:09Z",
+    "stars": 470,
+    "name": "Charles-0509/Grok-Register",
+    "url": "https://github.com/Charles-0509/Grok-Register",
+    "lang": "Go",
+    "desc": "Grok free-register CLI: register → OAuth → CPA JSON (Go)"
+  },
+  {
+    "createdAt": "2026-07-22T22:26:08Z",
+    "stars": 434,
+    "name": "berabuddies/redis-poc",
+    "url": "https://github.com/berabuddies/redis-poc",
+    "lang": "Python",
+    "desc": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1"
+  },
+  {
+    "createdAt": "2026-07-21T04:17:35Z",
+    "stars": 424,
+    "name": "hahhforest/pi-textbook",
+    "url": "https://github.com/hahhforest/pi-textbook",
+    "lang": "TypeScript",
+    "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent"
+  },
+  {
+    "createdAt": "2026-07-19T06:09:52Z",
+    "stars": 422,
+    "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+    "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+    "lang": "",
+    "desc": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents."
+  },
+  {
+    "createdAt": "2026-07-22T17:49:34Z",
+    "stars": 417,
+    "name": "makecindy/cindy",
+    "url": "https://github.com/makecindy/cindy",
+    "lang": "TypeScript",
+    "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+  },
+  {
+    "createdAt": "2026-07-20T14:23:19Z",
+    "stars": 412,
+    "name": "AdelanSoulX/PM-Sniper",
+    "url": "https://github.com/AdelanSoulX/PM-Sniper",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-20T20:26:24Z",
+    "stars": 411,
+    "name": "Kritt-ai/open-kritt",
+    "url": "https://github.com/Kritt-ai/open-kritt",
+    "lang": "JavaScript",
+    "desc": "Orchestrate AI agents to find real vulnerabilities in code."
+  },
+  {
+    "createdAt": "2026-07-21T07:28:23Z",
+    "stars": 409,
+    "name": "AdelanSupport/adelan-support",
+    "url": "https://github.com/AdelanSupport/adelan-support",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-26T11:29:43Z",
+    "stars": 401,
+    "name": "dr-Crimson-Smoke39/Discord-Nitro-Generator",
+    "url": "https://github.com/dr-Crimson-Smoke39/Discord-Nitro-Generator",
+    "lang": "",
+    "desc": "🚀 Advanced Discord Nitro Generator and Checker (2026). Fast, multi-threaded, and proxy-supported free Discord Nitro gift code generator & checker."
+  },
+  {
+    "createdAt": "2026-07-24T18:16:29Z",
+    "stars": 390,
+    "name": "melloworchid8rr6g/TG-Polymarket-bot",
+    "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot",
+    "lang": "JavaScript",
+    "desc": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel."
+  },
+  {
+    "createdAt": "2026-07-20T18:46:29Z",
+    "stars": 376,
+    "name": "dacnay816y62-hub/cinema-dna-21x9x3",
+    "url": "https://github.com/dacnay816y62-hub/cinema-dna-21x9x3",
+    "lang": "",
+    "desc": "高级感电影画面生成"
+  },
+  {
+    "createdAt": "2026-07-24T16:28:06Z",
+    "stars": 374,
+    "name": "mikehasa/agentacct",
+    "url": "https://github.com/mikehasa/agentacct",
+    "lang": "Python",
+    "desc": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard."
+  },
+  {
+    "createdAt": "2026-07-19T10:41:16Z",
+    "stars": 324,
+    "name": "lyu0805/OpenBrowser",
+    "url": "https://github.com/lyu0805/OpenBrowser",
+    "lang": "JavaScript",
+    "desc": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA"
+  },
+  {
+    "createdAt": "2026-07-25T12:41:34Z",
+    "stars": 313,
+    "name": "rustyharbor308774/Ethereum-bot",
+    "url": "https://github.com/rustyharbor308774/Ethereum-bot",
+    "lang": "Solidity",
+    "desc": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle."
+  },
+  {
+    "createdAt": "2026-07-22T09:47:19Z",
+    "stars": 300,
+    "name": "danilo-znamerovszkij/draw-your-font",
+    "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+    "lang": "JavaScript",
+    "desc": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill."
+  },
+  {
+    "createdAt": "2026-07-23T16:43:40Z",
+    "stars": 282,
+    "name": "RongleCat/grok-app",
+    "url": "https://github.com/RongleCat/grok-app",
+    "lang": "TypeScript",
+    "desc": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)"
+  },
+  {
+    "createdAt": "2026-07-21T01:33:21Z",
+    "stars": 278,
+    "name": "realfishsam/agent-notch",
+    "url": "https://github.com/realfishsam/agent-notch",
+    "lang": "Swift",
+    "desc": "The open-source alternative to vibe-island"
+  },
+  {
+    "createdAt": "2026-07-22T23:04:54Z",
+    "stars": 275,
+    "name": "vercel-labs/scriptc",
+    "url": "https://github.com/vercel-labs/scriptc",
+    "lang": "TypeScript",
+    "desc": "TypeScript-to-Native Compiler"
+  },
+  {
+    "createdAt": "2026-07-20T15:48:25Z",
+    "stars": 263,
+    "name": "NVIDIA-NeMo/labs-OO-Agents",
+    "url": "https://github.com/NVIDIA-NeMo/labs-OO-Agents",
+    "lang": "Python",
+    "desc": "labs-OO-agents"
+  },
+  {
+    "createdAt": "2026-07-19T04:37:53Z",
+    "stars": 248,
+    "name": "chenjin-cmd/xhs-virtual-product",
+    "url": "https://github.com/chenjin-cmd/xhs-virtual-product",
+    "lang": "",
+    "desc": "xhs-virtual-product"
+  },
+  {
+    "createdAt": "2026-07-20T13:57:11Z",
+    "stars": 248,
+    "name": "next-state/open-dreamer",
+    "url": "https://github.com/next-state/open-dreamer",
+    "lang": "Python",
+    "desc": "Open-source Dreamer world-model implementation in JAX"
+  },
+  {
+    "createdAt": "2026-07-25T16:58:43Z",
+    "stars": 248,
+    "name": "VictorTaelin/OptMem",
+    "url": "https://github.com/VictorTaelin/OptMem",
+    "lang": "Python",
+    "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play."
+  },
+  {
+    "createdAt": "2026-07-20T10:47:56Z",
+    "stars": 247,
+    "name": "TryCaspian/caspian-sdk",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "lang": "Python",
+    "desc": "One identity for your AI agent across Slack, Discord, Telegram, WhatsApp, Instagram, email, SMS, X — a single on_message handler. Open-source channel adapters + bot SDK (Python & TypeScript) + CLI."
+  },
+  {
+    "createdAt": "2026-07-19T15:09:48Z",
+    "stars": 234,
+    "name": "rjx18/codor",
+    "url": "https://github.com/rjx18/codor",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-24T09:35:39Z",
+    "stars": 233,
+    "name": "anton-hq96g4/Meccha-Medusa",
+    "url": "https://github.com/anton-hq96g4/Meccha-Medusa",
+    "lang": "",
+    "desc": "Meccha Chameleon: ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint"
+  },
+  {
+    "createdAt": "2026-07-20T15:55:18Z",
+    "stars": 232,
+    "name": "MobAI-App/simslim",
+    "url": "https://github.com/MobAI-App/simslim",
+    "lang": "Go",
+    "desc": "Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need"
+  },
+  {
+    "createdAt": "2026-07-22T14:30:56Z",
+    "stars": 226,
+    "name": "didriksg/Crisp",
+    "url": "https://github.com/didriksg/Crisp",
+    "lang": "Swift",
+    "desc": "A free, open-source alternative to BetterDisplay and Lunar. Every display control macOS hides in one menu bar panel: external monitor brightness (DDC or software), HiDPI scaling, XDR presets, virtual displays, color, and arrangement. Feels like it shipped with your Mac."
+  },
+  {
+    "createdAt": "2026-07-22T17:18:43Z",
+    "stars": 224,
+    "name": "davidmokos/expo-glass-tabs",
+    "url": "https://github.com/davidmokos/expo-glass-tabs",
+    "lang": "TypeScript",
+    "desc": "Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, progressive edge blur"
+  },
+  {
+    "createdAt": "2026-07-21T21:49:54Z",
+    "stars": 224,
+    "name": "Role1776/netmon",
+    "url": "https://github.com/Role1776/netmon",
+    "lang": "Python",
+    "desc": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord."
+  },
+  {
+    "createdAt": "2026-07-22T16:48:50Z",
+    "stars": 217,
+    "name": "finna/Finn-loop",
+    "url": "https://github.com/finna/Finn-loop",
+    "lang": "JavaScript",
+    "desc": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge."
+  },
+  {
+    "createdAt": "2026-07-20T05:09:52Z",
+    "stars": 216,
+    "name": "nicechunk/game",
+    "url": "https://github.com/nicechunk/game",
+    "lang": "JavaScript",
+    "desc": "NiceChunk game client"
+  },
+  {
+    "createdAt": "2026-07-20T12:41:33Z",
+    "stars": 213,
+    "name": "paxlabs-inc/machine-genome",
+    "url": "https://github.com/paxlabs-inc/machine-genome",
+    "lang": "Go",
+    "desc": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them."
+  },
+  {
+    "createdAt": "2026-07-19T06:27:45Z",
+    "stars": 211,
+    "name": "hassancs91/claude-youtube-editor",
+    "url": "https://github.com/hassancs91/claude-youtube-editor",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-19T23:16:41Z",
+    "stars": 211,
+    "name": "duolahypercho/codex-router",
+    "url": "https://github.com/duolahypercho/codex-router",
+    "lang": "JavaScript",
+    "desc": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback."
+  },
+  {
+    "createdAt": "2026-07-22T08:12:41Z",
+    "stars": 208,
+    "name": "yokel1121/muyang-flat-animation",
+    "url": "https://github.com/yokel1121/muyang-flat-animation",
+    "lang": "Python",
+    "desc": "将中文观点转成纸上钢笔线稿与彩铅风格的知识讲解动画素材"
+  },
+  {
+    "createdAt": "2026-07-23T18:54:34Z",
+    "stars": 207,
+    "name": "aniqfakhrul/CVE-2026-54121",
+    "url": "https://github.com/aniqfakhrul/CVE-2026-54121",
+    "lang": "Python",
+    "desc": "Certighost POC"
+  },
+  {
+    "createdAt": "2026-07-20T22:34:45Z",
+    "stars": 202,
+    "name": "0xwilliamortiz/agents-council",
+    "url": "https://github.com/0xwilliamortiz/agents-council",
+    "lang": "JavaScript",
+    "desc": "Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives"
+  }
+]
