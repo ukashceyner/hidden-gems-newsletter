@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-27T08:01:37Z",
+    "stars": 3345,
+    "name": "MoonshotAI/Kimi-K3",
+    "url": "https://github.com/MoonshotAI/Kimi-K3",
+    "lang": "",
+    "desc": "Open Frontier Intelligence"
+  },
+  {
+    "createdAt": "2026-07-22T23:04:54Z",
+    "stars": 2106,
+    "name": "vercel-labs/scriptc",
+    "url": "https://github.com/vercel-labs/scriptc",
+    "lang": "TypeScript",
+    "desc": "TypeScript-to-Native Compiler"
+  },
+  {
+    "createdAt": "2026-07-23T14:53:51Z",
+    "stars": 2041,
+    "name": "slvDev/esp32-ai",
+    "url": "https://github.com/slvDev/esp32-ai",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-25T19:32:36Z",
+    "stars": 1673,
+    "name": "mshumer/Claude-of-Duty",
+    "url": "https://github.com/mshumer/Claude-of-Duty",
+    "lang": "JavaScript",
+    "desc": "A Call of Duty-quality FPS in Three.js, built from a single prompt."
+  },
+  {
+    "createdAt": "2026-07-23T02:48:07Z",
+    "stars": 1416,
+    "name": "kvcache-ai/AgentENV",
+    "url": "https://github.com/kvcache-ai/AgentENV",
+    "lang": "Rust",
+    "desc": "AgentENV (AENV) is a distributed platform for running agent environments at scale."
+  },
+  {
+    "createdAt": "2026-07-21T07:01:53Z",
+    "stars": 1213,
+    "name": "Jakubantalik/thinking-orbs",
+    "url": "https://github.com/Jakubantalik/thinking-orbs",
+    "lang": "TypeScript",
+    "desc": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light"
+  },
+  {
+    "createdAt": "2026-07-22T17:49:34Z",
+    "stars": 990,
+    "name": "makecindy/cindy",
+    "url": "https://github.com/makecindy/cindy",
+    "lang": "TypeScript",
+    "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+  },
+  {
+    "createdAt": "2026-07-24T19:52:13Z",
+    "stars": 990,
+    "name": "mikiarlo3/ai-copywriter",
+    "url": "https://github.com/mikiarlo3/ai-copywriter",
+    "lang": "Python",
+    "desc": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone."
+  },
+  {
+    "createdAt": "2026-07-25T16:58:43Z",
+    "stars": 794,
+    "name": "VictorTaelin/OptMem",
+    "url": "https://github.com/VictorTaelin/OptMem",
+    "lang": "Python",
+    "desc": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play."
+  },
+  {
+    "createdAt": "2026-07-24T09:07:21Z",
+    "stars": 775,
+    "name": "MoonshotAI/MoonEP",
+    "url": "https://github.com/MoonshotAI/MoonEP",
+    "lang": "Python",
+    "desc": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts"
+  },
+  {
+    "createdAt": "2026-07-21T08:54:45Z",
+    "stars": 686,
+    "name": "gnipbao/story-to-handdrawn-video",
+    "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+    "lang": "JavaScript",
+    "desc": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track)."
+  },
+  {
+    "createdAt": "2026-07-21T04:17:35Z",
+    "stars": 631,
+    "name": "hahhforest/pi-textbook",
+    "url": "https://github.com/hahhforest/pi-textbook",
+    "lang": "TypeScript",
+    "desc": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent"
+  },
+  {
+    "createdAt": "2026-07-26T01:14:17Z",
+    "stars": 626,
+    "name": "fuadmefleh/Shared-Claude-Chats",
+    "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
+    "lang": "Python",
+    "desc": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it."
+  },
+  {
+    "createdAt": "2026-07-26T21:58:28Z",
+    "stars": 580,
+    "name": "0xwilliamortiz/openclaude-improved",
+    "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+    "lang": "TypeScript",
+    "desc": "runs anywhere. uses anything"
+  },
+  {
+    "createdAt": "2026-07-21T22:34:47Z",
+    "stars": 576,
+    "name": "0xwilliamortiz/andrej-karpathy-skills",
+    "url": "https://github.com/0xwilliamortiz/andrej-karpathy-skills",
+    "lang": "",
+    "desc": "Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field notes on where LLMs go wrong when they write software."
+  },
+  {
+    "createdAt": "2026-07-24T16:28:06Z",
+    "stars": 518,
+    "name": "mikehasa/agentacct",
+    "url": "https://github.com/mikehasa/agentacct",
+    "lang": "Python",
+    "desc": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard."
+  },
+  {
+    "createdAt": "2026-07-21T14:24:08Z",
+    "stars": 512,
+    "name": "0xhype/hyperliquid-tracker",
+    "url": "https://github.com/0xhype/hyperliquid-tracker",
+    "lang": "TypeScript",
+    "desc": "Get notified when big trades happen on Hyperliquid."
+  },
+  {
+    "createdAt": "2026-07-21T12:50:49Z",
+    "stars": 495,
+    "name": "RykoTheDev/GodotHub",
+    "url": "https://github.com/RykoTheDev/GodotHub",
+    "lang": "TypeScript",
+    "desc": "What if Unity Hub and Github Desktop had a Baby but its Adopted? Yeah.. "
+  },
+  {
+    "createdAt": "2026-07-24T23:31:27Z",
+    "stars": 488,
+    "name": "digimata/quill",
+    "url": "https://github.com/digimata/quill",
+    "lang": "Swift",
+    "desc": "Ultraminimalist macOS recording + transcription."
+  },
+  {
+    "createdAt": "2026-07-22T14:30:56Z",
+    "stars": 487,
+    "name": "didriksg/Crisp",
+    "url": "https://github.com/didriksg/Crisp",
+    "lang": "Swift",
+    "desc": "Free, open-source macOS alternative to BetterDisplay and Lunar: a lightweight menu bar app with sharp HiDPI/Retina scaling for external monitors (no more blurry or tiny text), plus brightness (DDC), virtual displays, presets, and color."
+  },
+  {
+    "createdAt": "2026-07-21T12:30:35Z",
+    "stars": 480,
+    "name": "QoderAI/better-harness",
+    "url": "https://github.com/QoderAI/better-harness",
+    "lang": "JavaScript",
+    "desc": "Make your coding agents better at getting better."
+  },
+  {
+    "createdAt": "2026-07-22T22:26:08Z",
+    "stars": 467,
+    "name": "berabuddies/redis-poc",
+    "url": "https://github.com/berabuddies/redis-poc",
+    "lang": "Python",
+    "desc": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1"
+  },
+  {
+    "createdAt": "2026-07-23T06:07:23Z",
+    "stars": 445,
+    "name": "XYZ-AI-Lab/axrl",
+    "url": "https://github.com/XYZ-AI-Lab/axrl",
+    "lang": "Python",
+    "desc": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows."
+  },
+  {
+    "createdAt": "2026-07-22T09:47:19Z",
+    "stars": 436,
+    "name": "danilo-znamerovszkij/draw-your-font",
+    "url": "https://github.com/danilo-znamerovszkij/draw-your-font",
+    "lang": "JavaScript",
+    "desc": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill."
+  },
+  {
+    "createdAt": "2026-07-21T07:28:23Z",
+    "stars": 410,
+    "name": "AdelanSupport/adelan-support",
+    "url": "https://github.com/AdelanSupport/adelan-support",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-22T19:33:59Z",
+    "stars": 388,
+    "name": "AARomanov1985/Audio-Cassette-Simulation",
+    "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+    "lang": "Shell",
+    "desc": "This project simulates cassette tape audio profiles using ffmpeg"
+  },
+  {
+    "createdAt": "2026-07-28T14:16:19Z",
+    "stars": 371,
+    "name": "0xwilliamortiz/ponytail-improved",
+    "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+    "lang": "JavaScript",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+  },
+  {
+    "createdAt": "2026-07-23T16:43:40Z",
+    "stars": 364,
+    "name": "RongleCat/grok-app",
+    "url": "https://github.com/RongleCat/grok-app",
+    "lang": "TypeScript",
+    "desc": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)"
+  },
+  {
+    "createdAt": "2026-07-23T04:03:31Z",
+    "stars": 348,
+    "name": "XYZ-AI-Lab/AxisAgentic",
+    "url": "https://github.com/XYZ-AI-Lab/AxisAgentic",
+    "lang": "Python",
+    "desc": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents."
+  },
+  {
+    "createdAt": "2026-07-22T21:43:31Z",
+    "stars": 334,
+    "name": "MarcosSete/awesome-free-ai-books",
+    "url": "https://github.com/MarcosSete/awesome-free-ai-books",
+    "lang": "",
+    "desc": "A curated list of free, legitimate AI/ML books"
+  },
+  {
+    "createdAt": "2026-07-23T12:38:50Z",
+    "stars": 326,
+    "name": "daimon3332/OutlookRegister",
+    "url": "https://github.com/daimon3332/OutlookRegister",
+    "lang": "Python",
+    "desc": "Outlook/Hotmail account batch registration tool.                          Outlook / Hotmail 账号批量注册工具，支持自动获取 OAuth2 refresh_token"
+  },
+  {
+    "createdAt": "2026-07-26T04:20:50Z",
+    "stars": 319,
+    "name": "deerwork-ai/deer-workflow",
+    "url": "https://github.com/deerwork-ai/deer-workflow",
+    "lang": "TypeScript",
+    "desc": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes."
+  },
+  {
+    "createdAt": "2026-07-24T18:16:06Z",
+    "stars": 311,
+    "name": "Eversmile12/leaked-llm-prompts",
+    "url": "https://github.com/Eversmile12/leaked-llm-prompts",
+    "lang": "",
+    "desc": "collections-of-leaked-prompts"
+  },
+  {
+    "createdAt": "2026-07-25T22:15:09Z",
+    "stars": 311,
+    "name": "NikolayS/PGSimCity",
+    "url": "https://github.com/NikolayS/PGSimCity",
+    "lang": "TypeScript",
+    "desc": "An explorable 3D city that shows how Postgres actually works"
+  },
+  {
+    "createdAt": "2026-07-23T04:13:21Z",
+    "stars": 307,
+    "name": "sunny-glow/Auto-BenchMax",
+    "url": "https://github.com/sunny-glow/Auto-BenchMax",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-22T06:20:17Z",
+    "stars": 300,
+    "name": "yanhua1010/self-media-content-workflow",
+    "url": "https://github.com/yanhua1010/self-media-content-workflow",
+    "lang": "Python",
+    "desc": "通用、模块化的自媒体内容生产与经营 Skills / A modular, tool-agnostic self-media content skill suite"
+  },
+  {
+    "createdAt": "2026-07-22T06:22:34Z",
+    "stars": 296,
+    "name": "ddcat-ai/open-ai-canvas",
+    "url": "https://github.com/ddcat-ai/open-ai-canvas",
+    "lang": "TypeScript",
+    "desc": "面向 AI 影视创作的开源无限画布工作台，集成多模态生成、分镜编排、素材管理与 Agent 工作流。"
+  },
+  {
+    "createdAt": "2026-07-21T01:33:21Z",
+    "stars": 290,
+    "name": "realfishsam/agent-notch",
+    "url": "https://github.com/realfishsam/agent-notch",
+    "lang": "Swift",
+    "desc": "The open-source alternative to vibe-island"
+  },
+  {
+    "createdAt": "2026-07-26T22:43:11Z",
+    "stars": 289,
+    "name": "wassgha/rescript",
+    "url": "https://github.com/wassgha/rescript",
+    "lang": "TypeScript",
+    "desc": "🎬 Open source, transcript-based video/audio editor that lives in the browser."
+  },
+  {
+    "createdAt": "2026-07-23T09:27:59Z",
+    "stars": 277,
+    "name": "edaywalid/undo",
+    "url": "https://github.com/edaywalid/undo",
+    "lang": "Go",
+    "desc": "Undo what the last shell command did to the filesystem"
+  },
+  {
+    "createdAt": "2026-07-23T18:54:34Z",
+    "stars": 273,
+    "name": "aniqfakhrul/CVE-2026-54121",
+    "url": "https://github.com/aniqfakhrul/CVE-2026-54121",
+    "lang": "Python",
+    "desc": "Certighost POC"
+  },
+  {
+    "createdAt": "2026-07-21T21:49:54Z",
+    "stars": 256,
+    "name": "Role1776/netmon",
+    "url": "https://github.com/Role1776/netmon",
+    "lang": "Python",
+    "desc": "Self-hosted network monitor - hourly speed tests, LAN device counts via ARP scan, and sarcastic AI-generated reports delivered to Telegram or Discord."
+  },
+  {
+    "createdAt": "2026-07-22T08:50:00Z",
+    "stars": 240,
+    "name": "neural-maze/production-ocr-course",
+    "url": "https://github.com/neural-maze/production-ocr-course",
+    "lang": "Rust",
+    "desc": "Build, deploy, and scale a production-grade OCR pipeline using Rust, vLLM, Redis, KEDA, and Kubernetes."
+  },
+  {
+    "createdAt": "2026-07-22T17:18:43Z",
+    "stars": 239,
+    "name": "davidmokos/expo-glass-tabs",
+    "url": "https://github.com/davidmokos/expo-glass-tabs",
+    "lang": "TypeScript",
+    "desc": "Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding highlight, finger scrubbing with haptics, progressive edge blur"
+  },
+  {
+    "createdAt": "2026-07-24T07:40:35Z",
+    "stars": 237,
+    "name": "chrissotraidis/harkinianpad",
+    "url": "https://github.com/chrissotraidis/harkinianpad",
+    "lang": "Shell",
+    "desc": "Ocarina of Time native on iOS and iPadOS via Ship of Harkinian with Metal rendering, touch controls, controller support, and ROM-free reproducible builds."
+  },
+  {
+    "createdAt": "2026-07-23T23:34:40Z",
+    "stars": 237,
+    "name": "FrigadeHQ/yap",
+    "url": "https://github.com/FrigadeHQ/yap",
+    "lang": "Swift",
+    "desc": "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud, no API keys, no account."
+  },
+  {
+    "createdAt": "2026-07-22T08:12:41Z",
+    "stars": 232,
+    "name": "yokel1121/muyang-flat-animation",
+    "url": "https://github.com/yokel1121/muyang-flat-animation",
+    "lang": "Python",
+    "desc": "将中文观点转成纸上钢笔线稿与彩铅风格的知识讲解动画素材"
+  },
+  {
+    "createdAt": "2026-07-22T16:48:50Z",
+    "stars": 231,
+    "name": "finna/Finn-loop",
+    "url": "https://github.com/finna/Finn-loop",
+    "lang": "JavaScript",
+    "desc": "The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, review. Humans merge."
+  },
+  {
+    "createdAt": "2026-07-25T16:38:04Z",
+    "stars": 227,
+    "name": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+    "url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+    "lang": "Python",
+    "desc": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。"
+  },
+  {
+    "createdAt": "2026-07-23T14:11:41Z",
+    "stars": 220,
+    "name": "iximiuz/shellgym",
+    "url": "https://github.com/iximiuz/shellgym",
+    "lang": "Go",
+    "desc": "Shell Gym - an Interactive Linux Command-Line Trainer"
+  }
+]
