@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-07-29T20:03:08Z",
+    "stars": 11108,
+    "name": "yc-software/qm",
+    "url": "https://github.com/yc-software/qm",
+    "lang": "TypeScript",
+    "desc": "Multiplayer agent harness for work"
+  },
+  {
+    "createdAt": "2026-07-31T21:38:51Z",
+    "stars": 4602,
+    "name": "trycompai/crm",
+    "url": "https://github.com/trycompai/crm",
+    "lang": "TypeScript",
+    "desc": "An open-source, agentic-first CRM."
+  },
+  {
+    "createdAt": "2026-07-30T18:17:54Z",
+    "stars": 4532,
+    "name": "bashalarmistalt/decimen-optical-transfer",
+    "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-30T05:39:38Z",
+    "stars": 2875,
+    "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "lang": "",
+    "desc": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）"
+  },
+  {
+    "createdAt": "2026-08-01T09:29:38Z",
+    "stars": 1978,
+    "name": "FareedKhan-dev/kimi-k3-in-c",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "lang": "C",
+    "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU."
+  },
+  {
+    "createdAt": "2026-07-29T18:16:14Z",
+    "stars": 1757,
+    "name": "microsoft/skill-recorder",
+    "url": "https://github.com/microsoft/skill-recorder",
+    "lang": "TypeScript",
+    "desc": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio."
+  },
+  {
+    "createdAt": "2026-07-28T20:56:00Z",
+    "stars": 1669,
+    "name": "sqliteai/waste",
+    "url": "https://github.com/sqliteai/waste",
+    "lang": "C",
+    "desc": "Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine."
+  },
+  {
+    "createdAt": "2026-08-01T17:20:54Z",
+    "stars": 1635,
+    "name": "imsai-sh/zhuzhiliao",
+    "url": "https://github.com/imsai-sh/zhuzhiliao",
+    "lang": "HTML",
+    "desc": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。"
+  },
+  {
+    "createdAt": "2026-08-01T13:56:43Z",
+    "stars": 1298,
+    "name": "DannyMac180/sol-advisor",
+    "url": "https://github.com/DannyMac180/sol-advisor",
+    "lang": "Shell",
+    "desc": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review."
+  },
+  {
+    "createdAt": "2026-07-31T09:40:58Z",
+    "stars": 1292,
+    "name": "genspark-ai/genoffice",
+    "url": "https://github.com/genspark-ai/genoffice",
+    "lang": "TypeScript",
+    "desc": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF."
+  },
+  {
+    "createdAt": "2026-08-03T16:36:14Z",
+    "stars": 1200,
+    "name": "firecrawl/anydoc",
+    "url": "https://github.com/firecrawl/anydoc",
+    "lang": "Rust",
+    "desc": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings."
+  },
+  {
+    "createdAt": "2026-08-02T11:15:16Z",
+    "stars": 1191,
+    "name": "thebuggeddev/anatomy",
+    "url": "https://github.com/thebuggeddev/anatomy",
+    "lang": "TypeScript",
+    "desc": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol"
+  },
+  {
+    "createdAt": "2026-07-31T07:53:54Z",
+    "stars": 900,
+    "name": "WilonityDev/WilonityLoader",
+    "url": "https://github.com/WilonityDev/WilonityLoader",
+    "lang": "",
+    "desc": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread."
+  },
+  {
+    "createdAt": "2026-07-28T11:40:19Z",
+    "stars": 832,
+    "name": "xikhar/persona",
+    "url": "https://github.com/xikhar/persona",
+    "lang": "JavaScript",
+    "desc": "Bringing real-time voice to life."
+  },
+  {
+    "createdAt": "2026-08-01T12:34:51Z",
+    "stars": 692,
+    "name": "x4gKing/3x-ui-multi",
+    "url": "https://github.com/x4gKing/3x-ui-multi",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-29T07:56:49Z",
+    "stars": 687,
+    "name": "talivia-group/talivia",
+    "url": "https://github.com/talivia-group/talivia",
+    "lang": "TypeScript",
+    "desc": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative"
+  },
+  {
+    "createdAt": "2026-07-28T01:01:23Z",
+    "stars": 674,
+    "name": "gavamedia/deltafin",
+    "url": "https://github.com/gavamedia/deltafin",
+    "lang": "Rust",
+    "desc": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents."
+  },
+  {
+    "createdAt": "2026-07-28T14:16:19Z",
+    "stars": 587,
+    "name": "0xwilliamortiz/ponytail-improved",
+    "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+    "lang": "JavaScript",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+  },
+  {
+    "createdAt": "2026-08-01T20:36:27Z",
+    "stars": 569,
+    "name": "0xwilliamortiz/humanizer-cli",
+    "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+    "lang": "JavaScript",
+    "desc": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies."
+  },
+  {
+    "createdAt": "2026-08-01T15:22:27Z",
+    "stars": 553,
+    "name": "brookfacehe2421/flashloan-scalper-bot",
+    "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+    "lang": "JavaScript",
+    "desc": "Quick profit scalper using flashloan mechanics"
+  },
+  {
+    "createdAt": "2026-07-31T13:32:12Z",
+    "stars": 492,
+    "name": "s1dashu/animated-voiceover",
+    "url": "https://github.com/s1dashu/animated-voiceover",
+    "lang": "",
+    "desc": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows."
+  },
+  {
+    "createdAt": "2026-07-28T19:01:58Z",
+    "stars": 485,
+    "name": "Noniv/snowflow_demo",
+    "url": "https://github.com/Noniv/snowflow_demo",
+    "lang": "JavaScript",
+    "desc": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets."
+  },
+  {
+    "createdAt": "2026-07-30T18:20:18Z",
+    "stars": 484,
+    "name": "ddoemonn/interior",
+    "url": "https://github.com/ddoemonn/interior",
+    "lang": "TypeScript",
+    "desc": "micro-interactions for react, built for the half-second after a click"
+  },
+  {
+    "createdAt": "2026-08-01T06:10:06Z",
+    "stars": 470,
+    "name": "openai/ten-proofs",
+    "url": "https://github.com/openai/ten-proofs",
+    "lang": "Lean",
+    "desc": "Lean certificates accompanying proofs in mathematics and theoretical computer science"
+  },
+  {
+    "createdAt": "2026-07-31T17:54:30Z",
+    "stars": 430,
+    "name": "0xwilliamortiz/ratchet",
+    "url": "https://github.com/0xwilliamortiz/ratchet",
+    "lang": "JavaScript",
+    "desc": "Your agent reads the rules. This checks whether it followed them."
+  },
+  {
+    "createdAt": "2026-07-29T09:25:01Z",
+    "stars": 423,
+    "name": "lij768423-svg/grok-register-panel",
+    "url": "https://github.com/lij768423-svg/grok-register-panel",
+    "lang": "Python",
+    "desc": "Grok register engine (Camoufox) + live web monitor panel"
+  },
+  {
+    "createdAt": "2026-07-29T06:43:16Z",
+    "stars": 422,
+    "name": "elayadesign/ai-design-skills",
+    "url": "https://github.com/elayadesign/ai-design-skills",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-31T04:32:13Z",
+    "stars": 393,
+    "name": "deedy/qr-data-transfer",
+    "url": "https://github.com/deedy/qr-data-transfer",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-02T21:58:43Z",
+    "stars": 387,
+    "name": "sophiamyang/finger-frame-effect-ai",
+    "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-03T11:36:49Z",
+    "stars": 378,
+    "name": "MarcosSete/awesome-free-ai-course-notes",
+    "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+    "lang": "",
+    "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available."
+  },
+  {
+    "createdAt": "2026-08-01T08:15:09Z",
+    "stars": 371,
+    "name": "guillermolg00/morphicons",
+    "url": "https://github.com/guillermolg00/morphicons",
+    "lang": "TypeScript",
+    "desc": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip."
+  },
+  {
+    "createdAt": "2026-08-03T12:23:26Z",
+    "stars": 357,
+    "name": "HaidarJbeily7/cargo-frisk",
+    "url": "https://github.com/HaidarJbeily7/cargo-frisk",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-02T17:41:00Z",
+    "stars": 347,
+    "name": "disler/super-simple-software-factory",
+    "url": "https://github.com/disler/super-simple-software-factory",
+    "lang": "Python",
+    "desc": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it."
+  },
+  {
+    "createdAt": "2026-08-04T00:52:35Z",
+    "stars": 344,
+    "name": "Packets/Vanta",
+    "url": "https://github.com/Packets/Vanta",
+    "lang": "Solidity",
+    "desc": "A two-faction battle royale. Own what you earn. The $VANTA war begins 2026. "
+  },
+  {
+    "createdAt": "2026-08-01T11:47:05Z",
+    "stars": 343,
+    "name": "MengTo/complete-shelf",
+    "url": "https://github.com/MengTo/complete-shelf",
+    "lang": "HTML",
+    "desc": "An original single-file Three.js library of seven interactive clothbound hardcovers."
+  },
+  {
+    "createdAt": "2026-07-29T03:58:19Z",
+    "stars": 340,
+    "name": "Audio8-AI/Audio8_TTS",
+    "url": "https://github.com/Audio8-AI/Audio8_TTS",
+    "lang": "Python",
+    "desc": "SOTA-Class TTS at Compact Scale"
+  },
+  {
+    "createdAt": "2026-08-03T13:03:37Z",
+    "stars": 332,
+    "name": "leonickson1/Swiftlet",
+    "url": "https://github.com/leonickson1/Swiftlet",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-28T04:04:22Z",
+    "stars": 328,
+    "name": "H-EmbodVis/TurboVLA",
+    "url": "https://github.com/H-EmbodVis/TurboVLA",
+    "lang": "Python",
+    "desc": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM"
+  },
+  {
+    "createdAt": "2026-07-29T07:09:18Z",
+    "stars": 314,
+    "name": "Infatoshi/netherite",
+    "url": "https://github.com/Infatoshi/netherite",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-07-29T07:51:43Z",
+    "stars": 312,
+    "name": "aigclink/geolook",
+    "url": "https://github.com/aigclink/geolook",
+    "lang": "Python",
+    "desc": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification"
+  },
+  {
+    "createdAt": "2026-07-31T04:18:54Z",
+    "stars": 304,
+    "name": "elder-plinius/GL4SS",
+    "url": "https://github.com/elder-plinius/GL4SS",
+    "lang": "TypeScript",
+    "desc": "the looking glass — spatiotemporal image + video engine"
+  },
+  {
+    "createdAt": "2026-07-28T22:59:24Z",
+    "stars": 304,
+    "name": "aws/context-ontology-accelerator",
+    "url": "https://github.com/aws/context-ontology-accelerator",
+    "lang": "Python",
+    "desc": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions."
+  },
+  {
+    "createdAt": "2026-07-29T22:06:17Z",
+    "stars": 304,
+    "name": "Kenton-GMI/sakura-crossing",
+    "url": "https://github.com/Kenton-GMI/sakura-crossing",
+    "lang": "JavaScript",
+    "desc": "An explorable Japanese suburban railway-crossing neighbourhood on a small planet, rendered 3D-to-2D as a cel-shaded anime background. Three.js, no image assets."
+  },
+  {
+    "createdAt": "2026-08-01T13:03:29Z",
+    "stars": 300,
+    "name": "1mm-module/PNGAL",
+    "url": "https://github.com/1mm-module/PNGAL",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-02T13:02:26Z",
+    "stars": 288,
+    "name": "patchy631/time-to-first-token",
+    "url": "https://github.com/patchy631/time-to-first-token",
+    "lang": "HTML",
+    "desc": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking."
+  },
+  {
+    "createdAt": "2026-07-28T04:31:38Z",
+    "stars": 284,
+    "name": "starling-build/starling",
+    "url": "https://github.com/starling-build/starling",
+    "lang": "Swift",
+    "desc": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps"
+  },
+  {
+    "createdAt": "2026-08-01T10:00:13Z",
+    "stars": 273,
+    "name": "Anionex/codex-vision-proxy",
+    "url": "https://github.com/Anionex/codex-vision-proxy",
+    "lang": "Python",
+    "desc": "让纯文本模型在 Codex 中无障碍看图(view_image)的更优方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  A superior approach for enabling text-only models to seamlessly use Codex’s built-in view_image, plus a vision toolkit & skill designed for pure-text LLMs."
+  },
+  {
+    "createdAt": "2026-08-03T09:57:25Z",
+    "stars": 264,
+    "name": "joeseesun/qiaomu-seo",
+    "url": "https://github.com/joeseesun/qiaomu-seo",
+    "lang": "Python",
+    "desc": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, "
+  },
+  {
+    "createdAt": "2026-07-28T00:26:39Z",
+    "stars": 255,
+    "name": "TanStack/charts",
+    "url": "https://github.com/TanStack/charts",
+    "lang": "TypeScript",
+    "desc": "A tiny TypeScript visualization grammar for responsive, accessible, server-rendered charts—powered by granular D3 primitives."
+  },
+  {
+    "createdAt": "2026-07-30T03:42:47Z",
+    "stars": 250,
+    "name": "0rangec3t/Black-cat",
+    "url": "https://github.com/0rangec3t/Black-cat",
+    "lang": "Python",
+    "desc": "Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红队skill"
+  }
+]
