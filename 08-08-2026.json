@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-08-03T16:36:14Z",
+    "stars": 12064,
+    "name": "firecrawl/anydoc",
+    "url": "https://github.com/firecrawl/anydoc",
+    "lang": "Rust",
+    "desc": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings."
+  },
+  {
+    "createdAt": "2026-08-01T09:29:38Z",
+    "stars": 3760,
+    "name": "FareedKhan-dev/kimi-k3-in-c",
+    "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+    "lang": "C",
+    "desc": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU."
+  },
+  {
+    "createdAt": "2026-08-01T17:20:54Z",
+    "stars": 2483,
+    "name": "imsai-sh/zhuzhiliao",
+    "url": "https://github.com/imsai-sh/zhuzhiliao",
+    "lang": "HTML",
+    "desc": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。"
+  },
+  {
+    "createdAt": "2026-08-02T11:15:16Z",
+    "stars": 2031,
+    "name": "thebuggeddev/anatomy",
+    "url": "https://github.com/thebuggeddev/anatomy",
+    "lang": "TypeScript",
+    "desc": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol"
+  },
+  {
+    "createdAt": "2026-08-05T01:19:41Z",
+    "stars": 1985,
+    "name": "KKKKhazix/human-writing",
+    "url": "https://github.com/KKKKhazix/human-writing",
+    "lang": "Python",
+    "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。"
+  },
+  {
+    "createdAt": "2026-08-01T13:56:43Z",
+    "stars": 1828,
+    "name": "DannyMac180/sol-advisor",
+    "url": "https://github.com/DannyMac180/sol-advisor",
+    "lang": "TypeScript",
+    "desc": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review."
+  },
+  {
+    "createdAt": "2026-08-04T09:35:31Z",
+    "stars": 1712,
+    "name": "ZzzLc0405/photo-abstract-editorial",
+    "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-05T07:30:56Z",
+    "stars": 1588,
+    "name": "Binaryify/open-kimi-ppt-skill",
+    "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+    "lang": "",
+    "desc": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor"
+  },
+  {
+    "createdAt": "2026-08-01T15:50:05Z",
+    "stars": 1342,
+    "name": "Zeejay0/gathered-scenes-zine-skill",
+    "url": "https://github.com/Zeejay0/gathered-scenes-zine-skill",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-02T05:38:38Z",
+    "stars": 1042,
+    "name": "Accio-org/RealReplicaBench",
+    "url": "https://github.com/Accio-org/RealReplicaBench",
+    "lang": "HTML",
+    "desc": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services"
+  },
+  {
+    "createdAt": "2026-08-01T12:34:51Z",
+    "stars": 962,
+    "name": "x4gKing/3x-ui-multi",
+    "url": "https://github.com/x4gKing/3x-ui-multi",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-01T08:15:09Z",
+    "stars": 893,
+    "name": "guillermolg00/morphicons",
+    "url": "https://github.com/guillermolg00/morphicons",
+    "lang": "TypeScript",
+    "desc": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip."
+  },
+  {
+    "createdAt": "2026-08-04T19:45:15Z",
+    "stars": 763,
+    "name": "mikiarlo3/awesome-growth-hacking-skills",
+    "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+    "lang": "Shell",
+    "desc": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot"
+  },
+  {
+    "createdAt": "2026-08-02T14:03:55Z",
+    "stars": 727,
+    "name": "magicrew/doc7",
+    "url": "https://github.com/magicrew/doc7",
+    "lang": "Go",
+    "desc": "Turn documents into AI-ready Markdown with visual understanding"
+  },
+  {
+    "createdAt": "2026-08-05T16:54:36Z",
+    "stars": 681,
+    "name": "0xwilliamortiz/claude-red",
+    "url": "https://github.com/0xwilliamortiz/claude-red",
+    "lang": "JavaScript",
+    "desc": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development."
+  },
+  {
+    "createdAt": "2026-08-02T21:58:43Z",
+    "stars": 620,
+    "name": "sophiamyang/finger-frame-effect-ai",
+    "url": "https://github.com/sophiamyang/finger-frame-effect-ai",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-01T20:36:27Z",
+    "stars": 586,
+    "name": "0xwilliamortiz/humanizer-cli",
+    "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+    "lang": "JavaScript",
+    "desc": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies."
+  },
+  {
+    "createdAt": "2026-08-03T05:46:34Z",
+    "stars": 567,
+    "name": "wumingqi60/lingxi",
+    "url": "https://github.com/wumingqi60/lingxi",
+    "lang": "TypeScript",
+    "desc": "灵犀跨境-开源共建版"
+  },
+  {
+    "createdAt": "2026-08-03T18:50:34Z",
+    "stars": 563,
+    "name": "google-gemma/gemma-translator",
+    "url": "https://github.com/google-gemma/gemma-translator",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-03T11:36:49Z",
+    "stars": 560,
+    "name": "MarcosSete/awesome-free-ai-course-notes",
+    "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes",
+    "lang": "",
+    "desc": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available."
+  },
+  {
+    "createdAt": "2026-08-01T15:22:27Z",
+    "stars": 558,
+    "name": "brookfacehe2421/flashloan-scalper-bot",
+    "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot",
+    "lang": "JavaScript",
+    "desc": "Quick profit scalper using flashloan mechanics"
+  },
+  {
+    "createdAt": "2026-08-06T00:08:06Z",
+    "stars": 537,
+    "name": "xoreaxeaxeax/asm-hall-of-shame",
+    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "lang": "C",
+    "desc": "Racing to the bottom of CPU performance"
+  },
+  {
+    "createdAt": "2026-08-03T10:17:31Z",
+    "stars": 525,
+    "name": "yuhuangerdi/InduSecAgent",
+    "url": "https://github.com/yuhuangerdi/InduSecAgent",
+    "lang": "Vue",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-03T10:42:50Z",
+    "stars": 521,
+    "name": "nfzerox/VirtualMacOniPad",
+    "url": "https://github.com/nfzerox/VirtualMacOniPad",
+    "lang": "Objective-C",
+    "desc": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1."
+  },
+  {
+    "createdAt": "2026-08-04T08:22:24Z",
+    "stars": 513,
+    "name": "jd-opensource/JoyAI-Video-Edit",
+    "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+    "lang": "Python",
+    "desc": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion"
+  },
+  {
+    "createdAt": "2026-08-02T17:41:00Z",
+    "stars": 513,
+    "name": "disler/super-simple-software-factory",
+    "url": "https://github.com/disler/super-simple-software-factory",
+    "lang": "Python",
+    "desc": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it."
+  },
+  {
+    "createdAt": "2026-08-01T11:47:05Z",
+    "stars": 494,
+    "name": "MengTo/complete-shelf",
+    "url": "https://github.com/MengTo/complete-shelf",
+    "lang": "HTML",
+    "desc": "An original single-file Three.js library of seven interactive clothbound hardcovers."
+  },
+  {
+    "createdAt": "2026-08-05T15:30:15Z",
+    "stars": 456,
+    "name": "T8mars/comfyui-minimax-h3-audio-T8",
+    "url": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-03T13:03:37Z",
+    "stars": 456,
+    "name": "leonickson1/Swiftlet",
+    "url": "https://github.com/leonickson1/Swiftlet",
+    "lang": "Swift",
+    "desc": "Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM, including on iPhone."
+  },
+  {
+    "createdAt": "2026-08-03T15:53:30Z",
+    "stars": 443,
+    "name": "zqxwce/vphone-ws",
+    "url": "https://github.com/zqxwce/vphone-ws",
+    "lang": "Swift",
+    "desc": "A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window."
+  },
+  {
+    "createdAt": "2026-08-04T07:32:11Z",
+    "stars": 439,
+    "name": "fuxicodex/Fuxi",
+    "url": "https://github.com/fuxicodex/Fuxi",
+    "lang": "",
+    "desc": "FuXi is a fast, self-contained AI developer terminal"
+  },
+  {
+    "createdAt": "2026-08-04T12:47:38Z",
+    "stars": 425,
+    "name": "SandAI-org/MAGI-2-preview",
+    "url": "https://github.com/SandAI-org/MAGI-2-preview",
+    "lang": "Python",
+    "desc": "MAGI-2-preview: Scaling Video Generation Models Efficiently"
+  },
+  {
+    "createdAt": "2026-08-04T15:55:03Z",
+    "stars": 419,
+    "name": "criptogus/HermesOffice",
+    "url": "https://github.com/criptogus/HermesOffice",
+    "lang": "TypeScript",
+    "desc": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI"
+  },
+  {
+    "createdAt": "2026-08-04T04:30:58Z",
+    "stars": 411,
+    "name": "AMAP-ML/LongHorizon-Harness",
+    "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+    "lang": "Python",
+    "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration."
+  },
+  {
+    "createdAt": "2026-08-04T10:39:02Z",
+    "stars": 406,
+    "name": "huangserva/ComfyUI_MiniMaxH3_Director",
+    "url": "https://github.com/huangserva/ComfyUI_MiniMaxH3_Director",
+    "lang": "",
+    "desc": "ComfyUI MiniMax H3 Director workflow"
+  },
+  {
+    "createdAt": "2026-08-03T15:08:51Z",
+    "stars": 386,
+    "name": "openTrinity/mycontext",
+    "url": "https://github.com/openTrinity/mycontext",
+    "lang": "TypeScript",
+    "desc": "MyContext is a local-first desktop app for everyday communication and knowledge work"
+  },
+  {
+    "createdAt": "2026-08-03T20:51:37Z",
+    "stars": 382,
+    "name": "xmarre/ComfyUI-Spectrum-MiniMax-H3",
+    "url": "https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3",
+    "lang": "Python",
+    "desc": "Spectrum-based acceleration for ComfyUI’s native MiniMax H3 audio-video model. Forecasts post-transformer features with Chebyshev ridge regression to skip selected transformer evaluations, with adaptive scheduling, sampler-aware safeguards, CPU/VRAM history storage, and native fallbacks."
+  },
+  {
+    "createdAt": "2026-08-01T10:00:13Z",
+    "stars": 359,
+    "name": "Anionex/agent-vision-toolkit",
+    "url": "https://github.com/Anionex/agent-vision-toolkit",
+    "lang": "Python",
+    "desc": "为纯文本模型\"看图“设计更好的视觉工具箱和技能，支持多图理解，图片问答，前端UI还原、GUI 自动化等，并可选无缝接入多个主流agent，直接识别粘贴图片｜ A vision toolkit and skill designed for text-only llms — image Q&A, long-screenshot OCR, frontend UI restoration, and GUI automation, with optional seamless integration for Codex, Claude Code, Pi, Oh My Pi, and OpenCode"
+  },
+  {
+    "createdAt": "2026-08-05T12:48:03Z",
+    "stars": 351,
+    "name": "sowarma/wp2shell-PoC",
+    "url": "https://github.com/sowarma/wp2shell-PoC",
+    "lang": "Python",
+    "desc": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept"
+  },
+  {
+    "createdAt": "2026-08-02T13:02:26Z",
+    "stars": 348,
+    "name": "patchy631/time-to-first-token",
+    "url": "https://github.com/patchy631/time-to-first-token",
+    "lang": "HTML",
+    "desc": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking."
+  },
+  {
+    "createdAt": "2026-08-03T09:57:25Z",
+    "stars": 325,
+    "name": "joeseesun/qiaomu-seo",
+    "url": "https://github.com/joeseesun/qiaomu-seo",
+    "lang": "Python",
+    "desc": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, "
+  },
+  {
+    "createdAt": "2026-08-01T13:03:29Z",
+    "stars": 319,
+    "name": "1mm-module/PNGAL",
+    "url": "https://github.com/1mm-module/PNGAL",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-03T00:16:56Z",
+    "stars": 295,
+    "name": "xweiba/location-spoofer",
+    "url": "https://github.com/xweiba/location-spoofer",
+    "lang": "Swift",
+    "desc": "面向 iOS 定位服务行为研究和开发测试的虚拟定位工具，支持地图选点、本地与第三方代理、WGS-84 / GCJ-02 双坐标、环境检测和问题诊断。"
+  },
+  {
+    "createdAt": "2026-08-03T12:57:22Z",
+    "stars": 292,
+    "name": "alexan0618/zkky",
+    "url": "https://github.com/alexan0618/zkky",
+    "lang": "Python",
+    "desc": "直卡开源"
+  },
+  {
+    "createdAt": "2026-08-06T06:43:28Z",
+    "stars": 292,
+    "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+    "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-03T12:23:26Z",
+    "stars": 279,
+    "name": "HaidarJbeily7/cargo-frisk",
+    "url": "https://github.com/HaidarJbeily7/cargo-frisk",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-04T09:19:13Z",
+    "stars": 274,
+    "name": "oil-oil/codex-deepseek-subagent",
+    "url": "https://github.com/oil-oil/codex-deepseek-subagent",
+    "lang": "Python",
+    "desc": "Configure DeepSeek as a native Codex subagent with automated setup and verified routing."
+  },
+  {
+    "createdAt": "2026-08-02T07:40:51Z",
+    "stars": 271,
+    "name": "alikon-art/DeterminFlow",
+    "url": "https://github.com/alikon-art/DeterminFlow",
+    "lang": "Python",
+    "desc": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。"
+  },
+  {
+    "createdAt": "2026-08-03T07:44:33Z",
+    "stars": 268,
+    "name": "kaomei/stickman-video-director",
+    "url": "https://github.com/kaomei/stickman-video-director",
+    "lang": "Shell",
+    "desc": "Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages."
+  },
+  {
+    "createdAt": "2026-08-02T07:28:24Z",
+    "stars": 267,
+    "name": "inspatio/querysplat",
+    "url": "https://github.com/inspatio/querysplat",
+    "lang": "Python",
+    "desc": "repo for QuerySplat"
+  }
+]
