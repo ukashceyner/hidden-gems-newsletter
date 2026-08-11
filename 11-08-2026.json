@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-08-04T09:35:31Z",
+    "stars": 2507,
+    "name": "ZzzLc0405/photo-abstract-editorial",
+    "url": "https://github.com/ZzzLc0405/photo-abstract-editorial",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-05T01:19:41Z",
+    "stars": 2406,
+    "name": "KKKKhazix/human-writing",
+    "url": "https://github.com/KKKKhazix/human-writing",
+    "lang": "Python",
+    "desc": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。"
+  },
+  {
+    "createdAt": "2026-08-05T07:30:56Z",
+    "stars": 1603,
+    "name": "Binaryify/open-kimi-ppt-skill",
+    "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+    "lang": "",
+    "desc": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor"
+  },
+  {
+    "createdAt": "2026-08-07T22:28:53Z",
+    "stars": 1491,
+    "name": "ShawnPana/phone-harness",
+    "url": "https://github.com/ShawnPana/phone-harness",
+    "lang": "Python",
+    "desc": "let your agent control your phone"
+  },
+  {
+    "createdAt": "2026-08-07T12:36:33Z",
+    "stars": 1477,
+    "name": "oil-oil/oil-motion",
+    "url": "https://github.com/oil-oil/oil-motion",
+    "lang": "Python",
+    "desc": "Create smooth, responsive interactive web animations."
+  },
+  {
+    "createdAt": "2026-08-10T09:06:43Z",
+    "stars": 1407,
+    "name": "SMNETSTUDIO/WeChat-AI",
+    "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-09T09:12:47Z",
+    "stars": 1210,
+    "name": "antirez/h3.c",
+    "url": "https://github.com/antirez/h3.c",
+    "lang": "C",
+    "desc": "MiniMax H3 inference engine for Mac computers"
+  },
+  {
+    "createdAt": "2026-08-06T10:38:49Z",
+    "stars": 859,
+    "name": "eternityspring/shuohao-skills",
+    "url": "https://github.com/eternityspring/shuohao-skills",
+    "lang": "JavaScript",
+    "desc": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex."
+  },
+  {
+    "createdAt": "2026-08-11T18:17:18Z",
+    "stars": 835,
+    "name": "sohaibdevv/youtube-music",
+    "url": "https://github.com/sohaibdevv/youtube-music",
+    "lang": "TypeScript",
+    "desc": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API."
+  },
+  {
+    "createdAt": "2026-08-04T19:45:15Z",
+    "stars": 826,
+    "name": "mikiarlo3/awesome-growth-hacking-skills",
+    "url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills",
+    "lang": "Shell",
+    "desc": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot"
+  },
+  {
+    "createdAt": "2026-08-04T08:22:24Z",
+    "stars": 823,
+    "name": "jd-opensource/JoyAI-Video-Edit",
+    "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+    "lang": "Python",
+    "desc": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion"
+  },
+  {
+    "createdAt": "2026-08-08T07:05:07Z",
+    "stars": 817,
+    "name": "MengTo/kage",
+    "url": "https://github.com/MengTo/kage",
+    "lang": "HTML",
+    "desc": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js."
+  },
+  {
+    "createdAt": "2026-08-06T00:08:06Z",
+    "stars": 768,
+    "name": "xoreaxeaxeax/asm-hall-of-shame",
+    "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "lang": "C",
+    "desc": "Racing to the bottom of CPU performance"
+  },
+  {
+    "createdAt": "2026-08-04T12:59:02Z",
+    "stars": 683,
+    "name": "pathwaycom/arc-task-gen",
+    "url": "https://github.com/pathwaycom/arc-task-gen",
+    "lang": "Python",
+    "desc": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set."
+  },
+  {
+    "createdAt": "2026-08-07T09:37:32Z",
+    "stars": 643,
+    "name": "Flaminis/Dalaran",
+    "url": "https://github.com/Flaminis/Dalaran",
+    "lang": "Rust",
+    "desc": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun."
+  },
+  {
+    "createdAt": "2026-08-05T15:30:15Z",
+    "stars": 617,
+    "name": "T8mars/comfyui-minimax-h3-audio-T8",
+    "url": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-07T11:13:26Z",
+    "stars": 613,
+    "name": "sv-number/mcp-server",
+    "url": "https://github.com/sv-number/mcp-server",
+    "lang": "JavaScript",
+    "desc": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call."
+  },
+  {
+    "createdAt": "2026-08-04T04:30:58Z",
+    "stars": 581,
+    "name": "AMAP-ML/LongHorizon-Harness",
+    "url": "https://github.com/AMAP-ML/LongHorizon-Harness",
+    "lang": "Python",
+    "desc": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration."
+  },
+  {
+    "createdAt": "2026-08-09T12:15:30Z",
+    "stars": 514,
+    "name": "SaladDay/pi-from-scratch",
+    "url": "https://github.com/SaladDay/pi-from-scratch",
+    "lang": "TypeScript",
+    "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent"
+  },
+  {
+    "createdAt": "2026-08-04T10:39:02Z",
+    "stars": 484,
+    "name": "huangserva/ComfyUI_MiniMaxH3_Director",
+    "url": "https://github.com/huangserva/ComfyUI_MiniMaxH3_Director",
+    "lang": "",
+    "desc": "ComfyUI MiniMax H3 Director workflow"
+  },
+  {
+    "createdAt": "2026-08-08T12:44:52Z",
+    "stars": 452,
+    "name": "Appllama/top-welcome-screens",
+    "url": "https://github.com/Appllama/top-welcome-screens",
+    "lang": "TypeScript",
+    "desc": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo."
+  },
+  {
+    "createdAt": "2026-08-04T07:32:11Z",
+    "stars": 450,
+    "name": "fuxicodex/Fuxi",
+    "url": "https://github.com/fuxicodex/Fuxi",
+    "lang": "",
+    "desc": "FuXi is a fast, self-contained AI developer terminal"
+  },
+  {
+    "createdAt": "2026-08-04T12:47:38Z",
+    "stars": 449,
+    "name": "SandAI-org/MAGI-2-preview",
+    "url": "https://github.com/SandAI-org/MAGI-2-preview",
+    "lang": "Python",
+    "desc": "MAGI-2-preview: Scaling Video Generation Models Efficiently"
+  },
+  {
+    "createdAt": "2026-08-07T07:10:40Z",
+    "stars": 434,
+    "name": "mewamew/my_ai_town",
+    "url": "https://github.com/mewamew/my_ai_town",
+    "lang": "GDScript",
+    "desc": "我的AI小镇"
+  },
+  {
+    "createdAt": "2026-08-04T15:55:03Z",
+    "stars": 430,
+    "name": "criptogus/HermesOffice",
+    "url": "https://github.com/criptogus/HermesOffice",
+    "lang": "TypeScript",
+    "desc": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI"
+  },
+  {
+    "createdAt": "2026-08-10T18:32:23Z",
+    "stars": 418,
+    "name": "gvzdv/claudish-to-english",
+    "url": "https://github.com/gvzdv/claudish-to-english",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-07T01:18:37Z",
+    "stars": 410,
+    "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+    "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+    "lang": "Python",
+    "desc": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins"
+  },
+  {
+    "createdAt": "2026-08-04T15:01:54Z",
+    "stars": 406,
+    "name": "s010s/prehistoric-animal-museum",
+    "url": "https://github.com/s010s/prehistoric-animal-museum",
+    "lang": "TypeScript",
+    "desc": "A calm, parent-and-child 3D prehistoric animal museum."
+  },
+  {
+    "createdAt": "2026-08-06T06:43:28Z",
+    "stars": 392,
+    "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+    "url": "https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-04T11:07:30Z",
+    "stars": 385,
+    "name": "crawfordxx/xiaoma-durex-copywriter",
+    "url": "https://github.com/crawfordxx/xiaoma-durex-copywriter",
+    "lang": "Python",
+    "desc": "杜蕾斯式文案与海报 Skill for Claude Code —— 双层语义方法论 + 8 个文案公式 + 从 260 张原始海报拆解的视觉系统 + AI 出图/代码排版管线"
+  },
+  {
+    "createdAt": "2026-08-11T11:53:02Z",
+    "stars": 383,
+    "name": "shadcn-ui/chatbot-template",
+    "url": "https://github.com/shadcn-ui/chatbot-template",
+    "lang": "TypeScript",
+    "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway."
+  },
+  {
+    "createdAt": "2026-08-06T21:35:08Z",
+    "stars": 368,
+    "name": "jmarshall23/Quake_4_Alpha",
+    "url": "https://github.com/jmarshall23/Quake_4_Alpha",
+    "lang": "C++",
+    "desc": "Quake 4 alpha released for preservation purposes only. "
+  },
+  {
+    "createdAt": "2026-08-09T06:57:08Z",
+    "stars": 357,
+    "name": "Sateezg/codex-bridge",
+    "url": "https://github.com/Sateezg/codex-bridge",
+    "lang": "Shell",
+    "desc": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key."
+  },
+  {
+    "createdAt": "2026-08-05T12:48:03Z",
+    "stars": 351,
+    "name": "sowarma/wp2shell-PoC",
+    "url": "https://github.com/sowarma/wp2shell-PoC",
+    "lang": "Python",
+    "desc": "CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept"
+  },
+  {
+    "createdAt": "2026-08-04T07:20:22Z",
+    "stars": 345,
+    "name": "waiterve/wai-play",
+    "url": "https://github.com/waiterve/wai-play",
+    "lang": "Python",
+    "desc": "WAI Play - AI web game testing and quality evaluation platform"
+  },
+  {
+    "createdAt": "2026-08-07T22:46:51Z",
+    "stars": 339,
+    "name": "tanishqkancharla/calldiff",
+    "url": "https://github.com/tanishqkancharla/calldiff",
+    "lang": "TypeScript",
+    "desc": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review."
+  },
+  {
+    "createdAt": "2026-08-06T22:44:53Z",
+    "stars": 317,
+    "name": "achrefelouafi/LinearAbiltyCastingThreeJS",
+    "url": "https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-04T09:19:13Z",
+    "stars": 314,
+    "name": "oil-oil/codex-deepseek-subagent",
+    "url": "https://github.com/oil-oil/codex-deepseek-subagent",
+    "lang": "Python",
+    "desc": "Configure DeepSeek as a native Codex subagent with automated setup and verified routing."
+  },
+  {
+    "createdAt": "2026-08-04T14:52:33Z",
+    "stars": 313,
+    "name": "531149627/MonsterDeleter",
+    "url": "https://github.com/531149627/MonsterDeleter",
+    "lang": "Python",
+    "desc": "召唤一个大将怪兽帮你删除文件的桌面宠物"
+  },
+  {
+    "createdAt": "2026-08-05T10:26:26Z",
+    "stars": 300,
+    "name": "UditAkhourii/neuroarxiv",
+    "url": "https://github.com/UditAkhourii/neuroarxiv",
+    "lang": "TypeScript",
+    "desc": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture."
+  },
+  {
+    "createdAt": "2026-08-04T04:20:36Z",
+    "stars": 296,
+    "name": "AIMixer/ComfyUI_MiniMaxH3_Director",
+    "url": "https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director",
+    "lang": "JavaScript",
+    "desc": "Multi-segment MiniMax H3 Director for official ComfyUI MiniMax-H3"
+  },
+  {
+    "createdAt": "2026-08-05T06:05:38Z",
+    "stars": 289,
+    "name": "pengchujin/tower",
+    "url": "https://github.com/pengchujin/tower",
+    "lang": "Swift",
+    "desc": "塔台 — 原生 SwiftUI iOS App，在本机管理机场订阅与自有节点，生成 Surge / Clash / Shadowrocket / Loon / Quantumult X 配置"
+  },
+  {
+    "createdAt": "2026-08-05T05:28:08Z",
+    "stars": 286,
+    "name": "robonuggets/gauntlet-loop",
+    "url": "https://github.com/robonuggets/gauntlet-loop",
+    "lang": "",
+    "desc": "Turn any goal into a short prompt that makes your agent set a real quality bar, run builder and critic pairs, compare blind, and loop until it wins."
+  },
+  {
+    "createdAt": "2026-08-04T03:35:55Z",
+    "stars": 281,
+    "name": "stanuwu/d2-prebl-explorer-info",
+    "url": "https://github.com/stanuwu/d2-prebl-explorer-info",
+    "lang": "",
+    "desc": "Information"
+  },
+  {
+    "createdAt": "2026-08-04T23:20:01Z",
+    "stars": 280,
+    "name": "alexgreensh/attention-span",
+    "url": "https://github.com/alexgreensh/attention-span",
+    "lang": "Python",
+    "desc": "Make your agents talk human. ADHD-friendly output styles for Claude Code. So you can pay attention, not tokens."
+  },
+  {
+    "createdAt": "2026-08-06T08:24:58Z",
+    "stars": 279,
+    "name": "ruudkoeyvoets/polymarket-trading-bot-twap",
+    "url": "https://github.com/ruudkoeyvoets/polymarket-trading-bot-twap",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-05T11:45:52Z",
+    "stars": 276,
+    "name": "nkxx188/ComfyUI-MiniMaxH3-Easy",
+    "url": "https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy",
+    "lang": "JavaScript",
+    "desc": "The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last-frame, and reference video generation, with a unified multi-media input, powerful @ references, and inline dialogue blocks. Less wiring. More creative control."
+  },
+  {
+    "createdAt": "2026-08-08T02:51:36Z",
+    "stars": 275,
+    "name": "Kylin010/tcpfit",
+    "url": "https://github.com/Kylin010/tcpfit",
+    "lang": "Shell",
+    "desc": "按每台机器实测推导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点"
+  },
+  {
+    "createdAt": "2026-08-06T15:00:59Z",
+    "stars": 269,
+    "name": "jmarshall23/msword",
+    "url": "https://github.com/jmarshall23/msword",
+    "lang": "C",
+    "desc": "Port of Microsoft Word 1.1a to x64 with extra features for research purposes."
+  },
+  {
+    "createdAt": "2026-08-05T11:39:27Z",
+    "stars": 268,
+    "name": "Tencent-Hunyuan/Hunyuan3D-WorldClaw",
+    "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw",
+    "lang": "",
+    "desc": ""
+  }
+]
