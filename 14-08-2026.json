@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-08-13T11:56:32Z",
+    "stars": 94836,
+    "name": "deepseek-ai/deepseek-harness",
+    "url": "https://github.com/deepseek-ai/deepseek-harness",
+    "lang": "TypeScript",
+    "desc": "DeepSeek Harness: Everything is a Plugin."
+  },
+  {
+    "createdAt": "2026-08-11T16:32:38Z",
+    "stars": 7982,
+    "name": "guillaumemeyer/watermarks-remover",
+    "url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "lang": "Python",
+    "desc": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD"
+  },
+  {
+    "createdAt": "2026-08-12T05:15:20Z",
+    "stars": 1922,
+    "name": "zhu1090093659/dsh-web-ui",
+    "url": "https://github.com/zhu1090093659/dsh-web-ui",
+    "lang": "TypeScript",
+    "desc": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center."
+  },
+  {
+    "createdAt": "2026-08-09T09:12:47Z",
+    "stars": 1847,
+    "name": "antirez/h3.c",
+    "url": "https://github.com/antirez/h3.c",
+    "lang": "C",
+    "desc": "MiniMax H3 inference engine for Mac computers"
+  },
+  {
+    "createdAt": "2026-08-07T22:28:53Z",
+    "stars": 1759,
+    "name": "ShawnPana/phone-harness",
+    "url": "https://github.com/ShawnPana/phone-harness",
+    "lang": "Python",
+    "desc": "let your agent control your phone"
+  },
+  {
+    "createdAt": "2026-08-13T16:30:50Z",
+    "stars": 1749,
+    "name": "anywhere-labs/deepseek-harness-desktop",
+    "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+    "lang": "TypeScript",
+    "desc": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验"
+  },
+  {
+    "createdAt": "2026-08-07T12:36:33Z",
+    "stars": 1723,
+    "name": "oil-oil/oil-motion",
+    "url": "https://github.com/oil-oil/oil-motion",
+    "lang": "Python",
+    "desc": "Create smooth, responsive interactive web animations."
+  },
+  {
+    "createdAt": "2026-08-10T09:06:43Z",
+    "stars": 1709,
+    "name": "SMNETSTUDIO/WeChat-AI",
+    "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-13T13:50:42Z",
+    "stars": 1554,
+    "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "lang": "C",
+    "desc": "Unlocking _everything_ on the CPU with DRAM scrambling"
+  },
+  {
+    "createdAt": "2026-08-13T09:53:33Z",
+    "stars": 1297,
+    "name": "cordiverse/paper",
+    "url": "https://github.com/cordiverse/paper",
+    "lang": "",
+    "desc": "A Programming Paradigm for Spatiotemporal Composability"
+  },
+  {
+    "createdAt": "2026-08-10T18:32:23Z",
+    "stars": 1087,
+    "name": "gvzdv/claudish-to-english",
+    "url": "https://github.com/gvzdv/claudish-to-english",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-13T13:55:31Z",
+    "stars": 1067,
+    "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+    "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+    "lang": "Python",
+    "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表"
+  },
+  {
+    "createdAt": "2026-08-13T13:15:23Z",
+    "stars": 1063,
+    "name": "Leutenegger/book-to-skill",
+    "url": "https://github.com/Leutenegger/book-to-skill",
+    "lang": "Python",
+    "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work."
+  },
+  {
+    "createdAt": "2026-08-09T12:15:30Z",
+    "stars": 976,
+    "name": "SaladDay/pi-from-scratch",
+    "url": "https://github.com/SaladDay/pi-from-scratch",
+    "lang": "TypeScript",
+    "desc": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent"
+  },
+  {
+    "createdAt": "2026-08-07T09:37:32Z",
+    "stars": 962,
+    "name": "Flaminis/Dalaran",
+    "url": "https://github.com/Flaminis/Dalaran",
+    "lang": "Rust",
+    "desc": "Dalaran — Apache-2.0, robotics-first visualization and data infrastructure for multimodal time-series. ROS 2 native, reads existing .rrd recordings. A hard fork of Rerun."
+  },
+  {
+    "createdAt": "2026-08-08T07:05:07Z",
+    "stars": 957,
+    "name": "MengTo/kage",
+    "url": "https://github.com/MengTo/kage",
+    "lang": "HTML",
+    "desc": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js."
+  },
+  {
+    "createdAt": "2026-08-11T18:58:55Z",
+    "stars": 912,
+    "name": "milind-soni/OpenMausBot",
+    "url": "https://github.com/milind-soni/OpenMausBot",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-13T12:49:31Z",
+    "stars": 889,
+    "name": "ccch1mneyyy/dsh-TUI",
+    "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+    "lang": "TypeScript",
+    "desc": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。"
+  },
+  {
+    "createdAt": "2026-08-11T18:17:18Z",
+    "stars": 857,
+    "name": "sohaibdevv/youtube-music",
+    "url": "https://github.com/sohaibdevv/youtube-music",
+    "lang": "TypeScript",
+    "desc": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API."
+  },
+  {
+    "createdAt": "2026-08-07T16:04:00Z",
+    "stars": 763,
+    "name": "omdsh-dev/DSH-better-sidebar",
+    "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
+    "lang": "TypeScript",
+    "desc": "一个侧边栏的完整工作台，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理"
+  },
+  {
+    "createdAt": "2026-08-12T07:12:05Z",
+    "stars": 712,
+    "name": "Hisn00w/ASu-skills",
+    "url": "https://github.com/Hisn00w/ASu-skills",
+    "lang": "HTML",
+    "desc": "简历包装"
+  },
+  {
+    "createdAt": "2026-08-12T13:48:50Z",
+    "stars": 704,
+    "name": "dmmulroy/anti-slop",
+    "url": "https://github.com/dmmulroy/anti-slop",
+    "lang": "TypeScript",
+    "desc": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns"
+  },
+  {
+    "createdAt": "2026-08-11T11:53:02Z",
+    "stars": 672,
+    "name": "shadcn-ui/chatbot-template",
+    "url": "https://github.com/shadcn-ui/chatbot-template",
+    "lang": "TypeScript",
+    "desc": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway."
+  },
+  {
+    "createdAt": "2026-08-13T13:02:14Z",
+    "stars": 594,
+    "name": "Small-tailqwq/dsh-deep-whale",
+    "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+    "lang": "TypeScript",
+    "desc": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0"
+  },
+  {
+    "createdAt": "2026-08-07T11:13:26Z",
+    "stars": 587,
+    "name": "sv-number/mcp-server",
+    "url": "https://github.com/sv-number/mcp-server",
+    "lang": "JavaScript",
+    "desc": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call."
+  },
+  {
+    "createdAt": "2026-08-14T03:14:33Z",
+    "stars": 568,
+    "name": "alchaincyf/deepseek-harness-orange-book",
+    "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+    "lang": "HTML",
+    "desc": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载"
+  },
+  {
+    "createdAt": "2026-08-07T19:41:20Z",
+    "stars": 564,
+    "name": "keslr/keslr_connect",
+    "url": "https://github.com/keslr/keslr_connect",
+    "lang": "TypeScript",
+    "desc": "Connect your service to Keslr: sign in with Keslr and read the verification claim that proves a user is a real, vouched-for human — plus run services reachable only by Keslr members."
+  },
+  {
+    "createdAt": "2026-08-12T12:34:43Z",
+    "stars": 562,
+    "name": "vercel-labs/eve-software-factory-template",
+    "url": "https://github.com/vercel-labs/eve-software-factory-template",
+    "lang": "TypeScript",
+    "desc": "Meet Foreman, an eve Software Factory."
+  },
+  {
+    "createdAt": "2026-08-07T01:18:37Z",
+    "stars": 541,
+    "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+    "url": "https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context",
+    "lang": "Python",
+    "desc": "Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue across joins"
+  },
+  {
+    "createdAt": "2026-08-11T19:35:37Z",
+    "stars": 540,
+    "name": "MSNightmare/ShieldBreak",
+    "url": "https://github.com/MSNightmare/ShieldBreak",
+    "lang": "C++",
+    "desc": "Windows Defender 0day vulnerability"
+  },
+  {
+    "createdAt": "2026-08-07T07:10:40Z",
+    "stars": 537,
+    "name": "mewamew/my_ai_town",
+    "url": "https://github.com/mewamew/my_ai_town",
+    "lang": "GDScript",
+    "desc": "我的AI小镇"
+  },
+  {
+    "createdAt": "2026-08-08T12:44:52Z",
+    "stars": 479,
+    "name": "Appllama/top-welcome-screens",
+    "url": "https://github.com/Appllama/top-welcome-screens",
+    "lang": "TypeScript",
+    "desc": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo."
+  },
+  {
+    "createdAt": "2026-08-10T09:23:06Z",
+    "stars": 468,
+    "name": "ayi-ai/nie-grassroots-logic",
+    "url": "https://github.com/ayi-ai/nie-grassroots-logic",
+    "lang": "HTML",
+    "desc": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）"
+  },
+  {
+    "createdAt": "2026-08-11T11:55:41Z",
+    "stars": 453,
+    "name": "shadcn-labs/pdfcn",
+    "url": "https://github.com/shadcn-labs/pdfcn",
+    "lang": "TypeScript",
+    "desc": "Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup."
+  },
+  {
+    "createdAt": "2026-08-10T19:03:10Z",
+    "stars": 439,
+    "name": "0xnyn/airship",
+    "url": "https://github.com/0xnyn/airship",
+    "lang": "TypeScript",
+    "desc": "Figma like visual editor built for Claude Code, Codex and OpenCode"
+  },
+  {
+    "createdAt": "2026-08-12T04:03:15Z",
+    "stars": 409,
+    "name": "DrHazemAli/enterprise-system-design",
+    "url": "https://github.com/DrHazemAli/enterprise-system-design",
+    "lang": "",
+    "desc": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure."
+  },
+  {
+    "createdAt": "2026-08-13T06:28:56Z",
+    "stars": 407,
+    "name": "elie222/rakazo",
+    "url": "https://github.com/elie222/rakazo",
+    "lang": "TypeScript",
+    "desc": "Open-source Grok Bot alternative. Choose your own model and sandbox."
+  },
+  {
+    "createdAt": "2026-08-07T22:46:51Z",
+    "stars": 404,
+    "name": "tanishqkancharla/calldiff",
+    "url": "https://github.com/tanishqkancharla/calldiff",
+    "lang": "TypeScript",
+    "desc": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review."
+  },
+  {
+    "createdAt": "2026-08-08T02:51:36Z",
+    "stars": 398,
+    "name": "Kylin010/tcpfit",
+    "url": "https://github.com/Kylin010/tcpfit",
+    "lang": "Shell",
+    "desc": "按每台机器实测推导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点"
+  },
+  {
+    "createdAt": "2026-08-11T13:14:49Z",
+    "stars": 397,
+    "name": "0xsline/awesome-deepseek-harness",
+    "url": "https://github.com/0xsline/awesome-deepseek-harness",
+    "lang": "Python",
+    "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic."
+  },
+  {
+    "createdAt": "2026-08-12T11:56:57Z",
+    "stars": 374,
+    "name": "xinxinshuhao-create/grok-register",
+    "url": "https://github.com/xinxinshuhao-create/grok-register",
+    "lang": "Python",
+    "desc": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon"
+  },
+  {
+    "createdAt": "2026-08-13T21:36:19Z",
+    "stars": 369,
+    "name": "decionis/agent-safe-pipeline",
+    "url": "https://github.com/decionis/agent-safe-pipeline",
+    "lang": "TypeScript",
+    "desc": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant."
+  },
+  {
+    "createdAt": "2026-08-09T06:43:49Z",
+    "stars": 365,
+    "name": "MengMengCode/VoCat",
+    "url": "https://github.com/MengMengCode/VoCat",
+    "lang": "Go",
+    "desc": "Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service."
+  },
+  {
+    "createdAt": "2026-08-13T16:40:20Z",
+    "stars": 364,
+    "name": "NousResearch/Hermes-Bot-Mode",
+    "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+    "lang": "JavaScript",
+    "desc": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches."
+  },
+  {
+    "createdAt": "2026-08-08T06:57:06Z",
+    "stars": 359,
+    "name": "liyue-aigc/xianxia-visual-director",
+    "url": "https://github.com/liyue-aigc/xianxia-visual-director",
+    "lang": "",
+    "desc": "Codex Skill for cinematic Eastern xianxia stills, celestial realms and sky megastructures."
+  },
+  {
+    "createdAt": "2026-08-08T15:49:55Z",
+    "stars": 352,
+    "name": "i3T4AN/KADATH",
+    "url": "https://github.com/i3T4AN/KADATH",
+    "lang": "Python",
+    "desc": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal."
+  },
+  {
+    "createdAt": "2026-08-12T02:54:15Z",
+    "stars": 352,
+    "name": "RadishXN/run-abroad",
+    "url": "https://github.com/RadishXN/run-abroad",
+    "lang": "JavaScript",
+    "desc": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么"
+  },
+  {
+    "createdAt": "2026-08-11T05:37:17Z",
+    "stars": 349,
+    "name": "frs0n/GestaltEdit",
+    "url": "https://github.com/frs0n/GestaltEdit",
+    "lang": "Swift",
+    "desc": "iOS 27 MobileGestalt editor"
+  },
+  {
+    "createdAt": "2026-08-12T21:14:16Z",
+    "stars": 337,
+    "name": "gfodor/legal-skills",
+    "url": "https://github.com/gfodor/legal-skills",
+    "lang": "Python",
+    "desc": "Replacing lawyers with markdown files"
+  },
+  {
+    "createdAt": "2026-08-09T19:06:36Z",
+    "stars": 334,
+    "name": "Nagi-ovo/dsh-ads",
+    "url": "https://github.com/Nagi-ovo/dsh-ads",
+    "lang": "TypeScript",
+    "desc": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI"
+  }
+]
