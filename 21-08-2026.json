@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-08-14T21:20:55Z",
+    "stars": 6559,
+    "name": "yjh051108/dsh-routing-suite",
+    "url": "https://github.com/yjh051108/dsh-routing-suite",
+    "lang": "PowerShell",
+    "desc": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23)."
+  },
+  {
+    "createdAt": "2026-08-14T14:06:39Z",
+    "stars": 3696,
+    "name": "xiaobright/dsh-anchored-standard",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "lang": "JavaScript",
+    "desc": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)"
+  },
+  {
+    "createdAt": "2026-08-18T13:59:23Z",
+    "stars": 3475,
+    "name": "s1dashu/ip-as-logo-skill",
+    "url": "https://github.com/s1dashu/ip-as-logo-skill",
+    "lang": "",
+    "desc": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos."
+  },
+  {
+    "createdAt": "2026-08-17T09:13:52Z",
+    "stars": 2857,
+    "name": "yetone/cumora",
+    "url": "https://github.com/yetone/cumora",
+    "lang": "TypeScript",
+    "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains."
+  },
+  {
+    "createdAt": "2026-08-17T00:44:59Z",
+    "stars": 2104,
+    "name": "CopilotKit/OpenBot",
+    "url": "https://github.com/CopilotKit/OpenBot",
+    "lang": "TypeScript",
+    "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+  },
+  {
+    "createdAt": "2026-08-14T04:58:15Z",
+    "stars": 1647,
+    "name": "dsh-market/dsh-market",
+    "url": "https://github.com/dsh-market/dsh-market",
+    "lang": "TypeScript",
+    "desc": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场"
+  },
+  {
+    "createdAt": "2026-08-17T11:42:31Z",
+    "stars": 1203,
+    "name": "cinderline/northcinder",
+    "url": "https://github.com/cinderline/northcinder",
+    "lang": "JavaScript",
+    "desc": "Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, signed purchase mandates, and a local audit trail."
+  },
+  {
+    "createdAt": "2026-08-14T06:47:26Z",
+    "stars": 1178,
+    "name": "ZSvirt/zsvirt",
+    "url": "https://github.com/ZSvirt/zsvirt",
+    "lang": "Java",
+    "desc": "Core IaaS engine and cloud infrastructure foundation of ZSvirt"
+  },
+  {
+    "createdAt": "2026-08-14T03:14:33Z",
+    "stars": 1124,
+    "name": "alchaincyf/deepseek-harness-orange-book",
+    "url": "https://github.com/alchaincyf/deepseek-harness-orange-book",
+    "lang": "HTML",
+    "desc": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载"
+  },
+  {
+    "createdAt": "2026-08-14T16:29:54Z",
+    "stars": 1093,
+    "name": "zouyuxuan122/Deepseek-Harness-EAC",
+    "url": "https://github.com/zouyuxuan122/Deepseek-Harness-EAC",
+    "lang": "JavaScript",
+    "desc": "DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CLI, one-click launch, 10 built-in UI skins. EAC: Embracing All Creation 揽尽万象"
+  },
+  {
+    "createdAt": "2026-08-16T11:38:42Z",
+    "stars": 1036,
+    "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "lang": "",
+    "desc": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4 (Flash/Pro)."
+  },
+  {
+    "createdAt": "2026-08-18T04:08:11Z",
+    "stars": 1009,
+    "name": "wang2122/sprix-sage-router",
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "lang": "Python",
+    "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks."
+  },
+  {
+    "createdAt": "2026-08-18T13:25:45Z",
+    "stars": 980,
+    "name": "vvxw/deploy-vercel",
+    "url": "https://github.com/vvxw/deploy-vercel",
+    "lang": "JavaScript",
+    "desc": "Install Command：npm install"
+  },
+  {
+    "createdAt": "2026-08-19T15:20:24Z",
+    "stars": 929,
+    "name": "Leutenegger/watermarks-remover",
+    "url": "https://github.com/Leutenegger/watermarks-remover",
+    "lang": "Python",
+    "desc": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files"
+  },
+  {
+    "createdAt": "2026-08-14T02:36:29Z",
+    "stars": 846,
+    "name": "hairyf/deepseek-harness-desktop",
+    "url": "https://github.com/hairyf/deepseek-harness-desktop",
+    "lang": "Rust",
+    "desc": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux."
+  },
+  {
+    "createdAt": "2026-08-21T00:42:33Z",
+    "stars": 803,
+    "name": "Leutenegger/vanity-eth",
+    "url": "https://github.com/Leutenegger/vanity-eth",
+    "lang": "Python",
+    "desc": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55)."
+  },
+  {
+    "createdAt": "2026-08-14T08:23:28Z",
+    "stars": 762,
+    "name": "bowenliang123/dsh-context",
+    "url": "https://github.com/bowenliang123/dsh-context",
+    "lang": "TypeScript",
+    "desc": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。"
+  },
+  {
+    "createdAt": "2026-08-17T00:22:20Z",
+    "stars": 683,
+    "name": "browser-use/macos-harness",
+    "url": "https://github.com/browser-use/macos-harness",
+    "lang": "Python",
+    "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac."
+  },
+  {
+    "createdAt": "2026-08-18T17:29:17Z",
+    "stars": 675,
+    "name": "DenisSergeevitch/desktop-fly",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "lang": "Swift",
+    "desc": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome"
+  },
+  {
+    "createdAt": "2026-08-17T04:25:26Z",
+    "stars": 666,
+    "name": "SigmanticAI/apex-inference-chip",
+    "url": "https://github.com/SigmanticAI/apex-inference-chip",
+    "lang": "Python",
+    "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail."
+  },
+  {
+    "createdAt": "2026-08-15T11:51:19Z",
+    "stars": 652,
+    "name": "Alain00/blobatar",
+    "url": "https://github.com/Alain00/blobatar",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-15T13:21:23Z",
+    "stars": 611,
+    "name": "jeremy-prt/bloub",
+    "url": "https://github.com/jeremy-prt/bloub",
+    "lang": "TypeScript",
+    "desc": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame."
+  },
+  {
+    "createdAt": "2026-08-20T23:14:34Z",
+    "stars": 608,
+    "name": "Leutenegger/coldcard-airgap",
+    "url": "https://github.com/Leutenegger/coldcard-airgap",
+    "lang": "Python",
+    "desc": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite."
+  },
+  {
+    "createdAt": "2026-08-15T18:51:26Z",
+    "stars": 602,
+    "name": "Nervercc/gpt_nerver",
+    "url": "https://github.com/Nervercc/gpt_nerver",
+    "lang": "Python",
+    "desc": "ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows"
+  },
+  {
+    "createdAt": "2026-08-19T06:55:39Z",
+    "stars": 592,
+    "name": "missuo/herdrm",
+    "url": "https://github.com/missuo/herdrm",
+    "lang": "Swift",
+    "desc": "Native macOS console for herdr — all your coding agents and their live terminals, across devices"
+  },
+  {
+    "createdAt": "2026-08-17T22:40:47Z",
+    "stars": 580,
+    "name": "Spielewoy/autoprompt-skill",
+    "url": "https://github.com/Spielewoy/autoprompt-skill",
+    "lang": "JavaScript",
+    "desc": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks."
+  },
+  {
+    "createdAt": "2026-08-21T20:20:04Z",
+    "stars": 579,
+    "name": "Leutenegger/claudish-to-english",
+    "url": "https://github.com/Leutenegger/claudish-to-english",
+    "lang": "Shell",
+    "desc": "Claude Code plugin that rewrites each assistant message into plain language on screen only. Local ollama by default; also codex CLI, Anthropic, or any OpenAI-compatible API. Fail-open. Optional Markdown rewrite."
+  },
+  {
+    "createdAt": "2026-08-14T13:56:51Z",
+    "stars": 550,
+    "name": "pg83/solo",
+    "url": "https://github.com/pg83/solo",
+    "lang": "C++",
+    "desc": "Portable Linux binaries, solved"
+  },
+  {
+    "createdAt": "2026-08-15T07:30:37Z",
+    "stars": 541,
+    "name": "jaredrhod/barehands",
+    "url": "https://github.com/jaredrhod/barehands",
+    "lang": "HTML",
+    "desc": "Move things on your screen with your bare hands. A webcam-powered, hand-tracked interface for your AI. No headset. No controllers."
+  },
+  {
+    "createdAt": "2026-08-16T18:35:58Z",
+    "stars": 536,
+    "name": "bawadou/ai-data-extractor",
+    "url": "https://github.com/bawadou/ai-data-extractor",
+    "lang": "Python",
+    "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more."
+  },
+  {
+    "createdAt": "2026-08-17T06:46:51Z",
+    "stars": 508,
+    "name": "flaqai/backlink_skills",
+    "url": "https://github.com/flaqai/backlink_skills",
+    "lang": "Python",
+    "desc": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic."
+  },
+  {
+    "createdAt": "2026-08-15T06:10:13Z",
+    "stars": 492,
+    "name": "SheberDavid/v4-flash-godmode-opencode-go",
+    "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+    "lang": "JavaScript",
+    "desc": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset"
+  },
+  {
+    "createdAt": "2026-08-19T12:46:46Z",
+    "stars": 478,
+    "name": "lanicer/cve-2026-41940-PoC",
+    "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+    "lang": "Python",
+    "desc": "A cPanel and WHM authentication bypassing tool"
+  },
+  {
+    "createdAt": "2026-08-15T03:00:06Z",
+    "stars": 433,
+    "name": "fufankeji/deepseek-harness-studio",
+    "url": "https://github.com/fufankeji/deepseek-harness-studio",
+    "lang": "TypeScript",
+    "desc": "DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉增强。"
+  },
+  {
+    "createdAt": "2026-08-14T20:40:06Z",
+    "stars": 406,
+    "name": "xmanrui/dsh-im",
+    "url": "https://github.com/xmanrui/dsh-im",
+    "lang": "JavaScript",
+    "desc": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels)."
+  },
+  {
+    "createdAt": "2026-08-18T09:46:23Z",
+    "stars": 403,
+    "name": "iAmCorey/Wake",
+    "url": "https://github.com/iAmCorey/Wake",
+    "lang": "Rust",
+    "desc": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI."
+  },
+  {
+    "createdAt": "2026-08-15T08:34:56Z",
+    "stars": 397,
+    "name": "Yousuf-developer/Viscose-carousel",
+    "url": "https://github.com/Yousuf-developer/Viscose-carousel",
+    "lang": "JavaScript",
+    "desc": "A wheel of work that never quite sets. Cards fuse as they meet, and draw into threads as they part."
+  },
+  {
+    "createdAt": "2026-08-21T11:56:39Z",
+    "stars": 378,
+    "name": "MengTo/threeui",
+    "url": "https://github.com/MengTo/threeui",
+    "lang": "HTML",
+    "desc": "Open-source ThreeUI Community catalog with live interactive components and complete Community source."
+  },
+  {
+    "createdAt": "2026-08-15T01:49:38Z",
+    "stars": 373,
+    "name": "lencx/Minke",
+    "url": "https://github.com/lencx/Minke",
+    "lang": "TypeScript",
+    "desc": "🐳 DeepSeek Harness Desktop"
+  },
+  {
+    "createdAt": "2026-08-15T09:10:56Z",
+    "stars": 372,
+    "name": "syv-ai/qwen38-27b-rtx3090",
+    "url": "https://github.com/syv-ai/qwen38-27b-rtx3090",
+    "lang": "Python",
+    "desc": "Qwen3.8-27B on a single RTX 3090 with vLLM: ~1,000 tok/s at 64 concurrent (int8 tensor-core GEMMs, fp16 DeltaNet state), ~114 tok/s single-user at default sampling / ~124 greedy (MTP drafts, own-output draft vocab, calibrated int4 lm_head, split-KV verify attention), 150k-262k context; patches, requant scripts, benchmarks"
+  },
+  {
+    "createdAt": "2026-08-16T09:35:21Z",
+    "stars": 367,
+    "name": "b-nnett/codex-subscription-router",
+    "url": "https://github.com/b-nnett/codex-subscription-router",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-18T15:30:17Z",
+    "stars": 367,
+    "name": "amirh00sain/SpiderPanel",
+    "url": "https://github.com/amirh00sain/SpiderPanel",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-14T02:51:55Z",
+    "stars": 363,
+    "name": "YangJiiii/3105",
+    "url": "https://github.com/YangJiiii/3105",
+    "lang": "Swift",
+    "desc": "Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab."
+  },
+  {
+    "createdAt": "2026-08-14T18:14:16Z",
+    "stars": 362,
+    "name": "yjh051108/dsh-router-standard",
+    "url": "https://github.com/yjh051108/dsh-router-standard",
+    "lang": "JavaScript",
+    "desc": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included."
+  },
+  {
+    "createdAt": "2026-08-14T14:10:42Z",
+    "stars": 359,
+    "name": "WYH66666666/DSH-Transparent-UI-Plugin",
+    "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin",
+    "lang": "JavaScript",
+    "desc": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。"
+  },
+  {
+    "createdAt": "2026-08-20T03:45:11Z",
+    "stars": 358,
+    "name": "xdreizein666/getcontact-cli",
+    "url": "https://github.com/xdreizein666/getcontact-cli",
+    "lang": "Python",
+    "desc": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser."
+  },
+  {
+    "createdAt": "2026-08-18T03:13:51Z",
+    "stars": 351,
+    "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "lang": "JavaScript",
+    "desc": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装"
+  },
+  {
+    "createdAt": "2026-08-16T23:55:30Z",
+    "stars": 350,
+    "name": "almendili/skills",
+    "url": "https://github.com/almendili/skills",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-15T09:36:29Z",
+    "stars": 341,
+    "name": "shaobeichen/dsh-pocket",
+    "url": "https://github.com/shaobeichen/dsh-pocket",
+    "lang": "JavaScript",
+    "desc": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）"
+  },
+  {
+    "createdAt": "2026-08-15T08:00:26Z",
+    "stars": 333,
+    "name": "EchoMusicApp/Echo-Music",
+    "url": "https://github.com/EchoMusicApp/Echo-Music",
+    "lang": "Kotlin",
+    "desc": "An YT Music Client"
+  }
+]
