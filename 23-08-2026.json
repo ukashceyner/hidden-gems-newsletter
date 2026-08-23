@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-08-18T13:59:23Z",
+    "stars": 3889,
+    "name": "s1dashu/ip-as-logo-skill",
+    "url": "https://github.com/s1dashu/ip-as-logo-skill",
+    "lang": "",
+    "desc": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos."
+  },
+  {
+    "createdAt": "2026-08-17T09:13:52Z",
+    "stars": 2944,
+    "name": "yetone/cumora",
+    "url": "https://github.com/yetone/cumora",
+    "lang": "TypeScript",
+    "desc": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains."
+  },
+  {
+    "createdAt": "2026-08-21T11:56:39Z",
+    "stars": 2817,
+    "name": "MengTo/threeui",
+    "url": "https://github.com/MengTo/threeui",
+    "lang": "HTML",
+    "desc": "Open-source ThreeUI Community catalog with live interactive components and complete Community source."
+  },
+  {
+    "createdAt": "2026-08-17T00:44:59Z",
+    "stars": 2484,
+    "name": "CopilotKit/OpenBot",
+    "url": "https://github.com/CopilotKit/OpenBot",
+    "lang": "TypeScript",
+    "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent."
+  },
+  {
+    "createdAt": "2026-08-18T04:08:11Z",
+    "stars": 1412,
+    "name": "wang2122/sprix-sage-router",
+    "url": "https://github.com/wang2122/sprix-sage-router",
+    "lang": "Python",
+    "desc": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks."
+  },
+  {
+    "createdAt": "2026-08-18T13:25:45Z",
+    "stars": 1208,
+    "name": "vvxw/deploy-vercel",
+    "url": "https://github.com/vvxw/deploy-vercel",
+    "lang": "JavaScript",
+    "desc": "Install Command：npm install"
+  },
+  {
+    "createdAt": "2026-08-17T11:42:31Z",
+    "stars": 1205,
+    "name": "cinderline/northcinder",
+    "url": "https://github.com/cinderline/northcinder",
+    "lang": "JavaScript",
+    "desc": "Open-source MCP server for comparing products and asking the buyer before purchase."
+  },
+  {
+    "createdAt": "2026-08-16T11:38:42Z",
+    "stars": 1039,
+    "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
+    "lang": "",
+    "desc": "DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-Space reduces capability-realization loss on DeepSeek V4."
+  },
+  {
+    "createdAt": "2026-08-22T14:28:41Z",
+    "stars": 786,
+    "name": "duty1g/x64dbg-mcp-server",
+    "url": "https://github.com/duty1g/x64dbg-mcp-server",
+    "lang": "Zig",
+    "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros"
+  },
+  {
+    "createdAt": "2026-08-17T22:40:47Z",
+    "stars": 766,
+    "name": "Spielewoy/autoprompt-skill",
+    "url": "https://github.com/Spielewoy/autoprompt-skill",
+    "lang": "JavaScript",
+    "desc": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks."
+  },
+  {
+    "createdAt": "2026-08-23T21:14:28Z",
+    "stars": 759,
+    "name": "ShadowAqueduct/watermark-remover",
+    "url": "https://github.com/ShadowAqueduct/watermark-remover",
+    "lang": "Python",
+    "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD."
+  },
+  {
+    "createdAt": "2026-08-17T00:22:20Z",
+    "stars": 727,
+    "name": "browser-use/macos-harness",
+    "url": "https://github.com/browser-use/macos-harness",
+    "lang": "Python",
+    "desc": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac."
+  },
+  {
+    "createdAt": "2026-08-18T03:13:51Z",
+    "stars": 714,
+    "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "lang": "JavaScript",
+    "desc": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装"
+  },
+  {
+    "createdAt": "2026-08-18T17:29:17Z",
+    "stars": 703,
+    "name": "DenisSergeevitch/desktop-fly",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "lang": "Swift",
+    "desc": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome"
+  },
+  {
+    "createdAt": "2026-08-17T04:25:26Z",
+    "stars": 682,
+    "name": "SigmanticAI/apex-inference-chip",
+    "url": "https://github.com/SigmanticAI/apex-inference-chip",
+    "lang": "Python",
+    "desc": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail."
+  },
+  {
+    "createdAt": "2026-08-20T13:40:06Z",
+    "stars": 635,
+    "name": "cclank/lanshu-create-ai-presenter-video",
+    "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+    "lang": "Python",
+    "desc": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image."
+  },
+  {
+    "createdAt": "2026-08-19T06:55:39Z",
+    "stars": 610,
+    "name": "missuo/herdrm",
+    "url": "https://github.com/missuo/herdrm",
+    "lang": "Swift",
+    "desc": "Native macOS console for herdr — all your coding agents and their live terminals, across devices"
+  },
+  {
+    "createdAt": "2026-08-18T15:30:17Z",
+    "stars": 603,
+    "name": "amirh00sain/SpiderPanel",
+    "url": "https://github.com/amirh00sain/SpiderPanel",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-16T18:35:58Z",
+    "stars": 541,
+    "name": "bawadou/ai-data-extractor",
+    "url": "https://github.com/bawadou/ai-data-extractor",
+    "lang": "Python",
+    "desc": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more."
+  },
+  {
+    "createdAt": "2026-08-18T09:46:23Z",
+    "stars": 536,
+    "name": "iAmCorey/Wake",
+    "url": "https://github.com/iAmCorey/Wake",
+    "lang": "Rust",
+    "desc": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI."
+  },
+  {
+    "createdAt": "2026-08-17T06:46:51Z",
+    "stars": 534,
+    "name": "flaqai/backlink_skills",
+    "url": "https://github.com/flaqai/backlink_skills",
+    "lang": "Python",
+    "desc": "Awesome skills for submitting url to free websites. Get more backlinks for your website to get more traffic."
+  },
+  {
+    "createdAt": "2026-08-19T12:46:46Z",
+    "stars": 527,
+    "name": "lanicer/cve-2026-41940-PoC",
+    "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+    "lang": "Python",
+    "desc": "A cPanel and WHM authentication bypassing tool"
+  },
+  {
+    "createdAt": "2026-08-20T03:45:11Z",
+    "stars": 479,
+    "name": "xdreizein666/getcontact-cli",
+    "url": "https://github.com/xdreizein666/getcontact-cli",
+    "lang": "Python",
+    "desc": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser."
+  },
+  {
+    "createdAt": "2026-08-22T15:25:08Z",
+    "stars": 466,
+    "name": "nateherkai/scroll-craft",
+    "url": "https://github.com/nateherkai/scroll-craft",
+    "lang": "JavaScript",
+    "desc": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll."
+  },
+  {
+    "createdAt": "2026-08-18T11:28:59Z",
+    "stars": 461,
+    "name": "PentagonConure42/youtube-downloader-zen",
+    "url": "https://github.com/PentagonConure42/youtube-downloader-zen",
+    "lang": "",
+    "desc": "Youtube Downloader Zen"
+  },
+  {
+    "createdAt": "2026-08-16T09:35:21Z",
+    "stars": 376,
+    "name": "b-nnett/codex-subscription-router",
+    "url": "https://github.com/b-nnett/codex-subscription-router",
+    "lang": "Go",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-16T23:55:30Z",
+    "stars": 358,
+    "name": "almendili/skills",
+    "url": "https://github.com/almendili/skills",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-22T23:06:26Z",
+    "stars": 356,
+    "name": "Forsy-AI/biosecurity-agent",
+    "url": "https://github.com/Forsy-AI/biosecurity-agent",
+    "lang": "TypeScript",
+    "desc": "AI agent that builds a live biosecurity world around any target."
+  },
+  {
+    "createdAt": "2026-08-16T10:01:52Z",
+    "stars": 336,
+    "name": "missuo/kumone",
+    "url": "https://github.com/missuo/kumone",
+    "lang": "Swift",
+    "desc": "雲の音 — Native macOS NetEase Cloud Music client built with SwiftUI"
+  },
+  {
+    "createdAt": "2026-08-19T15:31:34Z",
+    "stars": 314,
+    "name": "amagine-ai/Amagine3D",
+    "url": "https://github.com/amagine-ai/Amagine3D",
+    "lang": "TypeScript",
+    "desc": "Amagine3D: From hardware requirements to editable 3D designs"
+  },
+  {
+    "createdAt": "2026-08-17T13:40:03Z",
+    "stars": 314,
+    "name": "Ariescar/anyCreature",
+    "url": "https://github.com/Ariescar/anyCreature",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-18T03:05:09Z",
+    "stars": 309,
+    "name": "air-embodied-brain/Zetta-Embodiment",
+    "url": "https://github.com/air-embodied-brain/Zetta-Embodiment",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-17T04:00:03Z",
+    "stars": 307,
+    "name": "jaredrhod/fullstack-agent",
+    "url": "https://github.com/jaredrhod/fullstack-agent",
+    "lang": "Shell",
+    "desc": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!"
+  },
+  {
+    "createdAt": "2026-08-18T05:49:14Z",
+    "stars": 304,
+    "name": "MengTo/sylva",
+    "url": "https://github.com/MengTo/sylva",
+    "lang": "HTML",
+    "desc": "An interactive Three.js landscape study with a procedural, pointer-responsive moss world."
+  },
+  {
+    "createdAt": "2026-08-17T15:05:59Z",
+    "stars": 304,
+    "name": "Yuzzyuk/marketing-os",
+    "url": "https://github.com/Yuzzyuk/marketing-os",
+    "lang": "",
+    "desc": "An entire marketing department as one Claude skill. 14 modules: audits scored 0-100, an 18-tactic hook engine, copy graded before you see it, ad diagnosis, GEO, email, launches, pricing. Works in Claude, Codex and Cursor."
+  },
+  {
+    "createdAt": "2026-08-17T05:21:29Z",
+    "stars": 294,
+    "name": "LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+    "url": "https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
+    "lang": "Python",
+    "desc": "Neural latent upscaler for Minimax H3 (24ch). Bypasses costly 5B-param VAE decode/encode. Upscale low-res latents directly, then refine. Accelerates high-res video gen, outperforms naive interp."
+  },
+  {
+    "createdAt": "2026-08-21T10:12:54Z",
+    "stars": 255,
+    "name": "LB623/no-negative-echo",
+    "url": "https://github.com/LB623/no-negative-echo",
+    "lang": "Python",
+    "desc": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。"
+  },
+  {
+    "createdAt": "2026-08-22T20:26:58Z",
+    "stars": 253,
+    "name": "localai-org/kimodo.cpp",
+    "url": "https://github.com/localai-org/kimodo.cpp",
+    "lang": "C++",
+    "desc": "NVIDIA Kimodo ported to C++/GGML"
+  },
+  {
+    "createdAt": "2026-08-17T06:56:42Z",
+    "stars": 252,
+    "name": "op7418/pilot-harness",
+    "url": "https://github.com/op7418/pilot-harness",
+    "lang": "TypeScript",
+    "desc": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux."
+  },
+  {
+    "createdAt": "2026-08-17T09:50:26Z",
+    "stars": 251,
+    "name": "MirroS-Lab/HarnessEval-W",
+    "url": "https://github.com/MirroS-Lab/HarnessEval-W",
+    "lang": "Python",
+    "desc": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds"
+  },
+  {
+    "createdAt": "2026-08-19T13:25:08Z",
+    "stars": 246,
+    "name": "Zyrexnn/Cybermes",
+    "url": "https://github.com/Zyrexnn/Cybermes",
+    "lang": "Python",
+    "desc": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration."
+  },
+  {
+    "createdAt": "2026-08-17T11:00:29Z",
+    "stars": 242,
+    "name": "JetBrains/benjamin-plus-skill",
+    "url": "https://github.com/JetBrains/benjamin-plus-skill",
+    "lang": "Shell",
+    "desc": "Benjamin-Plus: a measured token-efficiency skill for coding agents (−17.9% cost median, quality unchanged). Inject it, don't install it."
+  },
+  {
+    "createdAt": "2026-08-18T09:28:02Z",
+    "stars": 242,
+    "name": "sam70361/emotion-ball",
+    "url": "https://github.com/sam70361/emotion-ball",
+    "lang": "JavaScript",
+    "desc": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。"
+  },
+  {
+    "createdAt": "2026-08-17T00:13:19Z",
+    "stars": 234,
+    "name": "DFarm6/Prism-Browser-Community",
+    "url": "https://github.com/DFarm6/Prism-Browser-Community",
+    "lang": "TypeScript",
+    "desc": "Local-first open-source multi-profile fingerprint browser based on Chromium and Electron"
+  },
+  {
+    "createdAt": "2026-08-17T03:26:10Z",
+    "stars": 231,
+    "name": "BigPengSays/bigpeng-hot-gzh",
+    "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
+    "lang": "",
+    "desc": "从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。"
+  },
+  {
+    "createdAt": "2026-08-16T18:55:06Z",
+    "stars": 230,
+    "name": "disler/fixing-smartass-opus-5",
+    "url": "https://github.com/disler/fixing-smartass-opus-5",
+    "lang": "Just",
+    "desc": "Lean how ONE system prompt turns Opus 5 from a 'load-bearing' smartass into a precise CRACKED senior engineering partner."
+  },
+  {
+    "createdAt": "2026-08-19T10:32:05Z",
+    "stars": 219,
+    "name": "s0lness/awesome-esp32",
+    "url": "https://github.com/s0lness/awesome-esp32",
+    "lang": "",
+    "desc": "Hand-picked ESP32 projects worth building, copying, or watching run"
+  },
+  {
+    "createdAt": "2026-08-19T18:02:50Z",
+    "stars": 218,
+    "name": "ZSeven-W/dsh-ios",
+    "url": "https://github.com/ZSeven-W/dsh-ios",
+    "lang": "TypeScript",
+    "desc": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on."
+  },
+  {
+    "createdAt": "2026-08-18T03:10:26Z",
+    "stars": 216,
+    "name": "amitshekhariitbhu/llm-inference-engineering",
+    "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+    "lang": "Markdown",
+    "desc": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs."
+  },
+  {
+    "createdAt": "2026-08-18T12:46:20Z",
+    "stars": 206,
+    "name": "littledivy/dgit",
+    "url": "https://github.com/littledivy/dgit",
+    "lang": "TypeScript",
+    "desc": "Git forge on Durable Objects"
+  }
+]
