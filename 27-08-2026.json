@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-08-21T11:56:39Z",
+    "stars": 4201,
+    "name": "MengTo/threeui",
+    "url": "https://github.com/MengTo/threeui",
+    "lang": "HTML",
+    "desc": "Open-source ThreeUI Community catalog with live interactive components and complete Community source."
+  },
+  {
+    "createdAt": "2026-08-23T20:53:01Z",
+    "stars": 3070,
+    "name": "b-nnett/grok-bot-0.18-reconstructed",
+    "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+    "lang": "TypeScript",
+    "desc": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS"
+  },
+  {
+    "createdAt": "2026-08-23T22:28:01Z",
+    "stars": 2046,
+    "name": "tobi/walgit",
+    "url": "https://github.com/tobi/walgit",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-22T14:28:41Z",
+    "stars": 1472,
+    "name": "duty1g/x64dbg-mcp-server",
+    "url": "https://github.com/duty1g/x64dbg-mcp-server",
+    "lang": "Zig",
+    "desc": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros"
+  },
+  {
+    "createdAt": "2026-08-22T15:25:08Z",
+    "stars": 1020,
+    "name": "nateherkai/scroll-craft",
+    "url": "https://github.com/nateherkai/scroll-craft",
+    "lang": "JavaScript",
+    "desc": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll."
+  },
+  {
+    "createdAt": "2026-08-22T05:07:35Z",
+    "stars": 984,
+    "name": "ApodexAI/FrontierAgent",
+    "url": "https://github.com/ApodexAI/FrontierAgent",
+    "lang": "Python",
+    "desc": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency."
+  },
+  {
+    "createdAt": "2026-08-20T13:40:06Z",
+    "stars": 943,
+    "name": "cclank/lanshu-create-ai-presenter-video",
+    "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+    "lang": "Python",
+    "desc": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image."
+  },
+  {
+    "createdAt": "2026-08-24T02:14:20Z",
+    "stars": 847,
+    "name": "bryllim/workout-guide",
+    "url": "https://github.com/bryllim/workout-guide",
+    "lang": "Astro",
+    "desc": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim"
+  },
+  {
+    "createdAt": "2026-08-23T21:14:28Z",
+    "stars": 801,
+    "name": "ShadowAqueduct/watermark-remover",
+    "url": "https://github.com/ShadowAqueduct/watermark-remover",
+    "lang": "Python",
+    "desc": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD."
+  },
+  {
+    "createdAt": "2026-08-26T06:09:58Z",
+    "stars": 573,
+    "name": "wide-trace/open-higgsfield",
+    "url": "https://github.com/wide-trace/open-higgsfield",
+    "lang": "TypeScript",
+    "desc": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery."
+  },
+  {
+    "createdAt": "2026-08-23T21:55:30Z",
+    "stars": 553,
+    "name": "themartiano/try-omarchy",
+    "url": "https://github.com/themartiano/try-omarchy",
+    "lang": "Shell",
+    "desc": "Try Omarchy on Apple Silicon without any setup."
+  },
+  {
+    "createdAt": "2026-08-24T16:35:49Z",
+    "stars": 524,
+    "name": "yding-git/personal-edge-proxy",
+    "url": "https://github.com/yding-git/personal-edge-proxy",
+    "lang": "",
+    "desc": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing."
+  },
+  {
+    "createdAt": "2026-08-22T23:06:26Z",
+    "stars": 512,
+    "name": "Forsy-AI/biosecurity-agent",
+    "url": "https://github.com/Forsy-AI/biosecurity-agent",
+    "lang": "TypeScript",
+    "desc": "AI agent that builds a live biosecurity world around any target."
+  },
+  {
+    "createdAt": "2026-08-21T10:12:54Z",
+    "stars": 496,
+    "name": "LB623/no-negative-echo",
+    "url": "https://github.com/LB623/no-negative-echo",
+    "lang": "Python",
+    "desc": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。"
+  },
+  {
+    "createdAt": "2026-08-20T03:45:11Z",
+    "stars": 491,
+    "name": "xdreizein666/getcontact-cli",
+    "url": "https://github.com/xdreizein666/getcontact-cli",
+    "lang": "Python",
+    "desc": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser."
+  },
+  {
+    "createdAt": "2026-08-22T20:26:58Z",
+    "stars": 490,
+    "name": "localai-org/kimodo.cpp",
+    "url": "https://github.com/localai-org/kimodo.cpp",
+    "lang": "C++",
+    "desc": "NVIDIA Kimodo ported to C++/GGML"
+  },
+  {
+    "createdAt": "2026-08-23T23:37:08Z",
+    "stars": 435,
+    "name": "GradientRL/Gradient",
+    "url": "https://github.com/GradientRL/Gradient",
+    "lang": "Python",
+    "desc": "Gradient"
+  },
+  {
+    "createdAt": "2026-08-24T16:45:07Z",
+    "stars": 428,
+    "name": "amosblomqvist/learn",
+    "url": "https://github.com/amosblomqvist/learn",
+    "lang": "TypeScript",
+    "desc": "My AI learning system."
+  },
+  {
+    "createdAt": "2026-08-21T21:12:31Z",
+    "stars": 423,
+    "name": "kunchenguid/backpass",
+    "url": "https://github.com/kunchenguid/backpass",
+    "lang": "JavaScript",
+    "desc": "You don't write AGENTS.md. You train it with gradient descent."
+  },
+  {
+    "createdAt": "2026-08-23T15:17:24Z",
+    "stars": 421,
+    "name": "fzakaria/selfdb",
+    "url": "https://github.com/fzakaria/selfdb",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-22T15:40:51Z",
+    "stars": 419,
+    "name": "kgoedecke/doop",
+    "url": "https://github.com/kgoedecke/doop",
+    "lang": "TypeScript",
+    "desc": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in."
+  },
+  {
+    "createdAt": "2026-08-22T04:11:00Z",
+    "stars": 394,
+    "name": "N4darae/anti-mage",
+    "url": "https://github.com/N4darae/anti-mage",
+    "lang": "Go",
+    "desc": "Test the browser using various methods and algorithms, performing calculations based on multiple parameters"
+  },
+  {
+    "createdAt": "2026-08-22T06:09:53Z",
+    "stars": 367,
+    "name": "halofyai/halofy",
+    "url": "https://github.com/halofyai/halofy",
+    "lang": "TypeScript",
+    "desc": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure."
+  },
+  {
+    "createdAt": "2026-08-23T06:15:15Z",
+    "stars": 361,
+    "name": "rome-os/rome",
+    "url": "https://github.com/rome-os/rome",
+    "lang": "TypeScript",
+    "desc": "Rome is the agentic OS."
+  },
+  {
+    "createdAt": "2026-08-21T02:57:42Z",
+    "stars": 339,
+    "name": "GamePhanes/GamePhanes",
+    "url": "https://github.com/GamePhanes/GamePhanes",
+    "lang": "JavaScript",
+    "desc": "An open-source game coding agent environment and benchmark for Godot."
+  },
+  {
+    "createdAt": "2026-08-20T09:07:59Z",
+    "stars": 335,
+    "name": "larashero3-dotcom/lieflat-less-ai-tone",
+    "url": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+    "lang": "Python",
+    "desc": "一个基于 283 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 2.83-million-character corpus study"
+  },
+  {
+    "createdAt": "2026-08-21T00:50:30Z",
+    "stars": 334,
+    "name": "ChenShuo2004/cs-board",
+    "url": "https://github.com/ChenShuo2004/cs-board",
+    "lang": "Python",
+    "desc": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。"
+  },
+  {
+    "createdAt": "2026-08-20T15:36:48Z",
+    "stars": 329,
+    "name": "inkboard/system-atlas",
+    "url": "https://github.com/inkboard/system-atlas",
+    "lang": "HTML",
+    "desc": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md"
+  },
+  {
+    "createdAt": "2026-08-22T13:42:32Z",
+    "stars": 313,
+    "name": "bam-bam-2/solo-skills",
+    "url": "https://github.com/bam-bam-2/solo-skills",
+    "lang": "Python",
+    "desc": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다"
+  },
+  {
+    "createdAt": "2026-08-24T04:39:07Z",
+    "stars": 311,
+    "name": "lxf746/outlook-auto-register",
+    "url": "https://github.com/lxf746/outlook-auto-register",
+    "lang": "Python",
+    "desc": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）"
+  },
+  {
+    "createdAt": "2026-08-23T05:38:43Z",
+    "stars": 301,
+    "name": "alchaincyf/huashu-excel",
+    "url": "https://github.com/alchaincyf/huashu-excel",
+    "lang": "Python",
+    "desc": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。"
+  },
+  {
+    "createdAt": "2026-08-20T21:13:53Z",
+    "stars": 270,
+    "name": "MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark",
+    "url": "https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark",
+    "lang": "Python",
+    "desc": "DeepSeek v4 Flash EXL3 on one DGX Spark"
+  },
+  {
+    "createdAt": "2026-08-21T21:14:33Z",
+    "stars": 267,
+    "name": "sodiumsun/agenttrail",
+    "url": "https://github.com/sodiumsun/agenttrail",
+    "lang": "HTML",
+    "desc": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time."
+  },
+  {
+    "createdAt": "2026-08-21T07:20:39Z",
+    "stars": 258,
+    "name": "thiagotigaz/ocr-it",
+    "url": "https://github.com/thiagotigaz/ocr-it",
+    "lang": "JavaScript",
+    "desc": "Chrome extension: pin a screen region once, then hotkey your way through a paginated document. OCR runs 100% offline via bundled Tesseract."
+  },
+  {
+    "createdAt": "2026-08-25T03:56:26Z",
+    "stars": 256,
+    "name": "oboroge0/hayamimi",
+    "url": "https://github.com/oboroge0/hayamimi",
+    "lang": "Python",
+    "desc": "早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud."
+  },
+  {
+    "createdAt": "2026-08-23T14:18:14Z",
+    "stars": 241,
+    "name": "TarunTomar122/better-voice",
+    "url": "https://github.com/TarunTomar122/better-voice",
+    "lang": "Swift",
+    "desc": "Voice dictation with the screen context you point at."
+  },
+  {
+    "createdAt": "2026-08-25T02:46:10Z",
+    "stars": 238,
+    "name": "Tencent/WeMM-Embedding",
+    "url": "https://github.com/Tencent/WeMM-Embedding",
+    "lang": "Python",
+    "desc": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval."
+  },
+  {
+    "createdAt": "2026-08-25T15:12:20Z",
+    "stars": 235,
+    "name": "gtlhuyidan-sketch/life-ipo",
+    "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+    "lang": "TypeScript",
+    "desc": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。"
+  },
+  {
+    "createdAt": "2026-08-22T14:16:48Z",
+    "stars": 232,
+    "name": "HanyuanWang/LiveStream-Agent-Studio",
+    "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+    "lang": "Python",
+    "desc": "面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。"
+  },
+  {
+    "createdAt": "2026-08-24T15:11:55Z",
+    "stars": 221,
+    "name": "lvgalvao/projeto-dados-ia-databricks",
+    "url": "https://github.com/lvgalvao/projeto-dados-ia-databricks",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-21T14:18:58Z",
+    "stars": 219,
+    "name": "adnanakil/nobuzz",
+    "url": "https://github.com/adnanakil/nobuzz",
+    "lang": "",
+    "desc": "A Claude Code skill (/debuzz) that pipes Claude's answers through Gemini to remove the BuzzFeed voice"
+  },
+  {
+    "createdAt": "2026-08-23T16:20:13Z",
+    "stars": 217,
+    "name": "blendmaidintrigue/e621",
+    "url": "https://github.com/blendmaidintrigue/e621",
+    "lang": "Ruby",
+    "desc": "An independent community-maintained project based on the open-source \"e621\" codebase."
+  },
+  {
+    "createdAt": "2026-08-22T16:27:39Z",
+    "stars": 214,
+    "name": "programasweights/claudish",
+    "url": "https://github.com/programasweights/claudish",
+    "lang": "Python",
+    "desc": "Translate between English and Claudish with tiny ProgramAsWeights functions."
+  },
+  {
+    "createdAt": "2026-08-23T21:36:25Z",
+    "stars": 208,
+    "name": "truespar/sentio",
+    "url": "https://github.com/truespar/sentio",
+    "lang": "Rust",
+    "desc": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam."
+  },
+  {
+    "createdAt": "2026-08-20T09:51:28Z",
+    "stars": 208,
+    "name": "DEEP-JLU/Awesome-Graph-Engineering",
+    "url": "https://github.com/DEEP-JLU/Awesome-Graph-Engineering",
+    "lang": "",
+    "desc": "A Survey on Ontology Engineering, Graph Engineering, Loop Engineering, Harness Engineering, Context Engineering and Prompt Engineering"
+  },
+  {
+    "createdAt": "2026-08-22T08:14:59Z",
+    "stars": 206,
+    "name": "luke321/vault-graph",
+    "url": "https://github.com/luke321/vault-graph",
+    "lang": "JavaScript",
+    "desc": "Interactive graph of an Obsidian vault as a single self-contained offline HTML file"
+  },
+  {
+    "createdAt": "2026-08-21T16:34:08Z",
+    "stars": 198,
+    "name": "soul-99/SU_IMD",
+    "url": "https://github.com/soul-99/SU_IMD",
+    "lang": "Kotlin",
+    "desc": "Use your blocked apps (banking apps, payment apps...) without turning developer settings, debugging, accessibility services, Display over other apps or Shizuku off-on by hand everytime."
+  },
+  {
+    "createdAt": "2026-08-22T07:27:01Z",
+    "stars": 187,
+    "name": "preporato/claude-certification-guide",
+    "url": "https://github.com/preporato/claude-certification-guide",
+    "lang": "",
+    "desc": "Study guides for all Anthropic Claude certifications: CCA-F, CCDV-F, CCAO-F, and CCAR-P. Exam domains, comparison, study paths, free practice resources."
+  },
+  {
+    "createdAt": "2026-08-22T10:30:10Z",
+    "stars": 184,
+    "name": "zhaoxuya520/MeshLAN",
+    "url": "https://github.com/zhaoxuya520/MeshLAN",
+    "lang": "Go",
+    "desc": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula."
+  },
+  {
+    "createdAt": "2026-08-22T03:27:33Z",
+    "stars": 184,
+    "name": "Weiss-UltimateSavior/Tyranor-Next",
+    "url": "https://github.com/Weiss-UltimateSavior/Tyranor-Next",
+    "lang": "Java",
+    "desc": "根据Tyranor模拟器进行重构的开源版本，基本处于完整状态"
+  }
+]
