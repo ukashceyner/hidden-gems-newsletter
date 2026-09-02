@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-08-27T14:20:58Z",
+    "stars": 6677,
+    "name": "sapientinc/PRAXIST",
+    "url": "https://github.com/sapientinc/PRAXIST",
+    "lang": "Python",
+    "desc": "Autonomous research system for measurable, computer-executable research."
+  },
+  {
+    "createdAt": "2026-08-28T12:57:24Z",
+    "stars": 2273,
+    "name": "XiaoDuoYa/codex-with-chatgpt",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "lang": "TypeScript",
+    "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness."
+  },
+  {
+    "createdAt": "2026-08-27T12:46:32Z",
+    "stars": 2205,
+    "name": "crmne/fastpotify",
+    "url": "https://github.com/crmne/fastpotify",
+    "lang": "Rust",
+    "desc": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows."
+  },
+  {
+    "createdAt": "2026-08-28T05:56:49Z",
+    "stars": 1553,
+    "name": "Nanako0129/sepia",
+    "url": "https://github.com/Nanako0129/sepia",
+    "lang": "Python",
+    "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136)."
+  },
+  {
+    "createdAt": "2026-08-26T06:09:58Z",
+    "stars": 1239,
+    "name": "wide-trace/open-higgsfield",
+    "url": "https://github.com/wide-trace/open-higgsfield",
+    "lang": "TypeScript",
+    "desc": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery."
+  },
+  {
+    "createdAt": "2026-08-28T08:07:10Z",
+    "stars": 1229,
+    "name": "MetaMask-AI/metamask-desktop",
+    "url": "https://github.com/MetaMask-AI/metamask-desktop",
+    "lang": "CSS",
+    "desc": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites"
+  },
+  {
+    "createdAt": "2026-08-27T14:16:09Z",
+    "stars": 1144,
+    "name": "damejan80/tokentab",
+    "url": "https://github.com/damejan80/tokentab",
+    "lang": "Python",
+    "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
+  },
+  {
+    "createdAt": "2026-08-28T18:03:04Z",
+    "stars": 1111,
+    "name": "cbrock84/headcount",
+    "url": "https://github.com/cbrock84/headcount",
+    "lang": "Markdown",
+    "desc": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable."
+  },
+  {
+    "createdAt": "2026-08-27T22:24:31Z",
+    "stars": 949,
+    "name": "jprx/darwin-vm",
+    "url": "https://github.com/jprx/darwin-vm",
+    "lang": "Python",
+    "desc": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported."
+  },
+  {
+    "createdAt": "2026-08-31T00:12:45Z",
+    "stars": 927,
+    "name": "GangTailorUpgrade/undress-service",
+    "url": "https://github.com/GangTailorUpgrade/undress-service",
+    "lang": "Python",
+    "desc": "Dress AI Sponsor"
+  },
+  {
+    "createdAt": "2026-08-27T18:02:35Z",
+    "stars": 858,
+    "name": "tradecatlabs/shulihuazixuecongshu",
+    "url": "https://github.com/tradecatlabs/shulihuazixuecongshu",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-27T04:55:36Z",
+    "stars": 764,
+    "name": "Git-Agni/prod-FARM-IOS-Core",
+    "url": "https://github.com/Git-Agni/prod-FARM-IOS-Core",
+    "lang": "TypeScript",
+    "desc": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0."
+  },
+  {
+    "createdAt": "2026-08-26T01:55:08Z",
+    "stars": 710,
+    "name": "soirihiroka/shrimply",
+    "url": "https://github.com/soirihiroka/shrimply",
+    "lang": "Rust",
+    "desc": "you're telling me a shrimp made this video?"
+  },
+  {
+    "createdAt": "2026-08-27T20:53:42Z",
+    "stars": 702,
+    "name": "brayonpi/hexstellar",
+    "url": "https://github.com/brayonpi/hexstellar",
+    "lang": "Python",
+    "desc": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar"
+  },
+  {
+    "createdAt": "2026-08-28T15:38:33Z",
+    "stars": 686,
+    "name": "chrisgreg/boop",
+    "url": "https://github.com/chrisgreg/boop",
+    "lang": "Go",
+    "desc": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone."
+  },
+  {
+    "createdAt": "2026-08-26T21:58:54Z",
+    "stars": 629,
+    "name": "PAICNI/CFBox",
+    "url": "https://github.com/PAICNI/CFBox",
+    "lang": "JavaScript",
+    "desc": "一个运行在 Cloudflare Workers 上兼容CFnew 与edgetunnel的代理订阅管理面板——既能在 /UUID 路径上输出 VLESS/Trojan/xhttp 多协议订阅，又提供图形化配置界面（KV 存储、改完即生效），并内置延迟测试、流媒体/AI 连通性检测、多客户端订阅生成、多语言等能力。"
+  },
+  {
+    "createdAt": "2026-08-27T17:59:23Z",
+    "stars": 622,
+    "name": "hkqr/my-free-code",
+    "url": "https://github.com/hkqr/my-free-code",
+    "lang": "Python",
+    "desc": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support"
+  },
+  {
+    "createdAt": "2026-08-29T19:52:37Z",
+    "stars": 592,
+    "name": "jlrouzies-fr/DLSS5-Feeder",
+    "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+    "lang": "C++",
+    "desc": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device."
+  },
+  {
+    "createdAt": "2026-08-31T01:02:18Z",
+    "stars": 581,
+    "name": "2akouwu/reverify",
+    "url": "https://github.com/2akouwu/reverify",
+    "lang": "Python",
+    "desc": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated."
+  },
+  {
+    "createdAt": "2026-08-29T23:51:32Z",
+    "stars": 578,
+    "name": "rakanki911/DLSS5-Swapper",
+    "url": "https://github.com/rakanki911/DLSS5-Swapper",
+    "lang": "JavaScript",
+    "desc": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL."
+  },
+  {
+    "createdAt": "2026-08-31T07:04:03Z",
+    "stars": 537,
+    "name": "shadcn-ui/cn",
+    "url": "https://github.com/shadcn-ui/cn",
+    "lang": "TypeScript",
+    "desc": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster."
+  },
+  {
+    "createdAt": "2026-08-26T03:43:14Z",
+    "stars": 532,
+    "name": "POUND0423/AI-drama-pound",
+    "url": "https://github.com/POUND0423/AI-drama-pound",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-26T22:42:48Z",
+    "stars": 502,
+    "name": "s0xDk/refactoring-ui-skill",
+    "url": "https://github.com/s0xDk/refactoring-ui-skill",
+    "lang": "CSS",
+    "desc": "A Claude Code skill that applies the concrete design rules from the book Refactoring UI (Wathan & Schoger) — constrained spacing/type/color/shadow scales, hierarchy through weight and color, and depth through emulated light — to building and fixing interfaces."
+  },
+  {
+    "createdAt": "2026-08-28T10:56:56Z",
+    "stars": 448,
+    "name": "Player-YN/PawWork_ZhuaZhua",
+    "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+    "lang": "JavaScript",
+    "desc": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server."
+  },
+  {
+    "createdAt": "2026-08-27T11:49:48Z",
+    "stars": 427,
+    "name": "mouredev/hello-sdd",
+    "url": "https://github.com/mouredev/hello-sdd",
+    "lang": "Python",
+    "desc": "Curso de SDD (Spec-Driven Development) desde cero"
+  },
+  {
+    "createdAt": "2026-08-27T18:30:44Z",
+    "stars": 416,
+    "name": "OnlyTerp/opengrok",
+    "url": "https://github.com/OnlyTerp/opengrok",
+    "lang": "JavaScript",
+    "desc": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you."
+  },
+  {
+    "createdAt": "2026-08-27T08:32:09Z",
+    "stars": 410,
+    "name": "amap-cvlab/ABot-Recon",
+    "url": "https://github.com/amap-cvlab/ABot-Recon",
+    "lang": "Python",
+    "desc": "Streaming 3D reconstruction from only video input: Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction"
+  },
+  {
+    "createdAt": "2026-08-26T19:10:55Z",
+    "stars": 404,
+    "name": "DavidCarliez/trustmebro",
+    "url": "https://github.com/DavidCarliez/trustmebro",
+    "lang": "Go",
+    "desc": "Bypass llm guardrails by confusing it with fabricated tool output."
+  },
+  {
+    "createdAt": "2026-08-26T23:47:02Z",
+    "stars": 389,
+    "name": "leopard627/fire-your-seo-agency",
+    "url": "https://github.com/leopard627/fire-your-seo-agency",
+    "lang": "",
+    "desc": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다"
+  },
+  {
+    "createdAt": "2026-08-27T17:42:04Z",
+    "stars": 383,
+    "name": "MirroS-Lab/Code-as-World",
+    "url": "https://github.com/MirroS-Lab/Code-as-World",
+    "lang": "Python",
+    "desc": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning"
+  },
+  {
+    "createdAt": "2026-08-27T21:39:36Z",
+    "stars": 365,
+    "name": "KKKKhazix/sun-style-writing",
+    "url": "https://github.com/KKKKhazix/sun-style-writing",
+    "lang": "",
+    "desc": "从孙割19年白月光的痛彻心扉中蒸馏出来的无上心法"
+  },
+  {
+    "createdAt": "2026-08-26T18:00:02Z",
+    "stars": 364,
+    "name": "buaacyw/code-world-model",
+    "url": "https://github.com/buaacyw/code-world-model",
+    "lang": "Python",
+    "desc": "Code World Model  Official Repo"
+  },
+  {
+    "createdAt": "2026-08-31T12:17:01Z",
+    "stars": 361,
+    "name": "subsy/skill-cabinet",
+    "url": "https://github.com/subsy/skill-cabinet",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-28T15:13:58Z",
+    "stars": 348,
+    "name": "lightorigins/LightNav-0",
+    "url": "https://github.com/lightorigins/LightNav-0",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-28T13:42:48Z",
+    "stars": 348,
+    "name": "fanhao375/microduck-replica",
+    "url": "https://github.com/fanhao375/microduck-replica",
+    "lang": "Python",
+    "desc": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck"
+  },
+  {
+    "createdAt": "2026-08-27T09:27:34Z",
+    "stars": 336,
+    "name": "Tencent-Hunyuan/Hy4-preview",
+    "url": "https://github.com/Tencent-Hunyuan/Hy4-preview",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-29T23:37:01Z",
+    "stars": 332,
+    "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+    "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+    "lang": "Shell",
+    "desc": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT."
+  },
+  {
+    "createdAt": "2026-08-26T18:17:34Z",
+    "stars": 332,
+    "name": "saurabhkumar8112/cyclomatic-complexity-skill",
+    "url": "https://github.com/saurabhkumar8112/cyclomatic-complexity-skill",
+    "lang": "",
+    "desc": "Claude skill: refactor code to reduce cyclomatic complexity"
+  },
+  {
+    "createdAt": "2026-08-26T04:57:19Z",
+    "stars": 327,
+    "name": "S1N6H/pentest-harness",
+    "url": "https://github.com/S1N6H/pentest-harness",
+    "lang": "TypeScript",
+    "desc": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local."
+  },
+  {
+    "createdAt": "2026-08-27T16:22:58Z",
+    "stars": 322,
+    "name": "MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks",
+    "url": "https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks",
+    "lang": "Python",
+    "desc": "GLM-5.3 Flash EXL3 for 2x DGX Sparks"
+  },
+  {
+    "createdAt": "2026-08-26T08:01:41Z",
+    "stars": 320,
+    "name": "LYiHub/Card-master-browser-extension-public",
+    "url": "https://github.com/LYiHub/Card-master-browser-extension-public",
+    "lang": "TypeScript",
+    "desc": "一个卡牌游戏浏览器扩展，可以把各种浏览器脚本、扩展做成可游玩的卡牌，还可以用AI自动生成全新卡牌插件"
+  },
+  {
+    "createdAt": "2026-08-27T21:43:06Z",
+    "stars": 318,
+    "name": "nateherkai/snagtime",
+    "url": "https://github.com/nateherkai/snagtime",
+    "lang": "TypeScript",
+    "desc": "Free, self-hostable scheduling app with booking links, Google Calendar sync, SMTP notifications, and Stripe test payments."
+  },
+  {
+    "createdAt": "2026-09-01T12:30:12Z",
+    "stars": 313,
+    "name": "anthropics/commerce-agents",
+    "url": "https://github.com/anthropics/commerce-agents",
+    "lang": "Python",
+    "desc": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included."
+  },
+  {
+    "createdAt": "2026-08-31T02:21:10Z",
+    "stars": 308,
+    "name": "siknet/FreePEP",
+    "url": "https://github.com/siknet/FreePEP",
+    "lang": "Python",
+    "desc": "人教社电子教材下载器"
+  },
+  {
+    "createdAt": "2026-08-29T21:15:31Z",
+    "stars": 302,
+    "name": "aimen08/noty",
+    "url": "https://github.com/aimen08/noty",
+    "lang": "HTML",
+    "desc": "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies."
+  },
+  {
+    "createdAt": "2026-08-26T02:22:48Z",
+    "stars": 301,
+    "name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+    "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
+    "lang": "",
+    "desc": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法"
+  },
+  {
+    "createdAt": "2026-08-26T20:33:31Z",
+    "stars": 287,
+    "name": "MORTEN-BUUR/nordef-matrix-open-control",
+    "url": "https://github.com/MORTEN-BUUR/nordef-matrix-open-control",
+    "lang": "Python",
+    "desc": "NORDEF Matrix Open Control: model-independent AI safety belt with 0/1/2 decisions, Ed25519 root gate, replay protection, evidence chain, and incident-pattern eval bank"
+  },
+  {
+    "createdAt": "2026-08-30T19:45:52Z",
+    "stars": 280,
+    "name": "Merserk/dlss5-visual-enhancer",
+    "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+    "lang": "Python",
+    "desc": "DLSS 5 Neural Video & Image Enhancer"
+  },
+  {
+    "createdAt": "2026-08-29T21:14:31Z",
+    "stars": 274,
+    "name": "useagenthq/useagent",
+    "url": "https://github.com/useagenthq/useagent",
+    "lang": "TypeScript",
+    "desc": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription."
+  },
+  {
+    "createdAt": "2026-08-26T03:56:48Z",
+    "stars": 267,
+    "name": "framepipe-dev/media-inference-worker",
+    "url": "https://github.com/framepipe-dev/media-inference-worker",
+    "lang": "Python",
+    "desc": "Small client for media model inference"
+  }
+]
