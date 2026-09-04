@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-08-28T12:57:24Z",
+    "stars": 2469,
+    "name": "XiaoDuoYa/codex-with-chatgpt",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "lang": "TypeScript",
+    "desc": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness."
+  },
+  {
+    "createdAt": "2026-08-28T05:56:49Z",
+    "stars": 2038,
+    "name": "Nanako0129/sepia",
+    "url": "https://github.com/Nanako0129/sepia",
+    "lang": "Python",
+    "desc": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136)."
+  },
+  {
+    "createdAt": "2026-09-01T12:30:12Z",
+    "stars": 1924,
+    "name": "anthropics/commerce-agents",
+    "url": "https://github.com/anthropics/commerce-agents",
+    "lang": "Python",
+    "desc": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included."
+  },
+  {
+    "createdAt": "2026-09-02T04:36:34Z",
+    "stars": 1875,
+    "name": "lnkiai/m3e-canvas",
+    "url": "https://github.com/lnkiai/m3e-canvas",
+    "lang": "TypeScript",
+    "desc": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts."
+  },
+  {
+    "createdAt": "2026-08-29T23:51:32Z",
+    "stars": 1485,
+    "name": "rakanki911/DLSS5-Swapper",
+    "url": "https://github.com/rakanki911/DLSS5-Swapper",
+    "lang": "JavaScript",
+    "desc": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL."
+  },
+  {
+    "createdAt": "2026-08-28T18:03:04Z",
+    "stars": 1243,
+    "name": "cbrock84/headcount",
+    "url": "https://github.com/cbrock84/headcount",
+    "lang": "Markdown",
+    "desc": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable."
+  },
+  {
+    "createdAt": "2026-08-28T08:07:10Z",
+    "stars": 1230,
+    "name": "MetaMask-AI/metamask-desktop",
+    "url": "https://github.com/MetaMask-AI/metamask-desktop",
+    "lang": "CSS",
+    "desc": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites"
+  },
+  {
+    "createdAt": "2026-08-31T07:04:03Z",
+    "stars": 1103,
+    "name": "shadcn-ui/cn",
+    "url": "https://github.com/shadcn-ui/cn",
+    "lang": "TypeScript",
+    "desc": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster."
+  },
+  {
+    "createdAt": "2026-08-31T00:12:45Z",
+    "stars": 1053,
+    "name": "GangTailorUpgrade/undress-service",
+    "url": "https://github.com/GangTailorUpgrade/undress-service",
+    "lang": "Python",
+    "desc": "Dress AI Sponsor"
+  },
+  {
+    "createdAt": "2026-08-28T10:56:56Z",
+    "stars": 1024,
+    "name": "Player-YN/PawWork_ZhuaZhua",
+    "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+    "lang": "JavaScript",
+    "desc": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server."
+  },
+  {
+    "createdAt": "2026-08-31T01:02:18Z",
+    "stars": 878,
+    "name": "2akouwu/reverify",
+    "url": "https://github.com/2akouwu/reverify",
+    "lang": "Python",
+    "desc": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI."
+  },
+  {
+    "createdAt": "2026-08-29T19:52:37Z",
+    "stars": 716,
+    "name": "jlrouzies-fr/DLSS5-Feeder",
+    "url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+    "lang": "C++",
+    "desc": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device."
+  },
+  {
+    "createdAt": "2026-08-28T15:38:33Z",
+    "stars": 715,
+    "name": "chrisgreg/boop",
+    "url": "https://github.com/chrisgreg/boop",
+    "lang": "Go",
+    "desc": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone."
+  },
+  {
+    "createdAt": "2026-09-02T17:00:13Z",
+    "stars": 551,
+    "name": "nahrek/polyledger",
+    "url": "https://github.com/nahrek/polyledger",
+    "lang": "Python",
+    "desc": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL"
+  },
+  {
+    "createdAt": "2026-09-03T02:48:22Z",
+    "stars": 498,
+    "name": "MSNightmare/FalconFlank",
+    "url": "https://github.com/MSNightmare/FalconFlank",
+    "lang": "C",
+    "desc": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability"
+  },
+  {
+    "createdAt": "2026-08-30T19:45:52Z",
+    "stars": 488,
+    "name": "Merserk/dlss5-visual-enhancer",
+    "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+    "lang": "Python",
+    "desc": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation"
+  },
+  {
+    "createdAt": "2026-09-02T21:48:23Z",
+    "stars": 466,
+    "name": "codejunkie99/fable-orchestrator",
+    "url": "https://github.com/codejunkie99/fable-orchestrator",
+    "lang": "Shell",
+    "desc": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement."
+  },
+  {
+    "createdAt": "2026-08-29T23:37:01Z",
+    "stars": 458,
+    "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
+    "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+    "lang": "Shell",
+    "desc": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT."
+  },
+  {
+    "createdAt": "2026-08-28T13:42:48Z",
+    "stars": 455,
+    "name": "fanhao375/microduck-replica",
+    "url": "https://github.com/fanhao375/microduck-replica",
+    "lang": "Python",
+    "desc": "Microduck 复刻 · 从官方 MJCF 与 Rust 源码反推出的装配图、CAD 装配体与完整电控方案 | Mechanical + electronics reconstruction of Pollen Robotics' Microduck"
+  },
+  {
+    "createdAt": "2026-09-03T00:42:03Z",
+    "stars": 440,
+    "name": "danielblnc/DLSS-NR-on-AMD",
+    "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+    "lang": "",
+    "desc": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!"
+  },
+  {
+    "createdAt": "2026-09-02T18:19:55Z",
+    "stars": 425,
+    "name": "PhiloLabs/fable51-worlds",
+    "url": "https://github.com/PhiloLabs/fable51-worlds",
+    "lang": "JavaScript",
+    "desc": "worlds via code, from fable 5.1"
+  },
+  {
+    "createdAt": "2026-08-28T15:13:58Z",
+    "stars": 418,
+    "name": "lightorigins/LightNav-0",
+    "url": "https://github.com/lightorigins/LightNav-0",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-31T01:39:18Z",
+    "stars": 415,
+    "name": "Human-Agent-Society/reef",
+    "url": "https://github.com/Human-Agent-Society/reef",
+    "lang": "Python",
+    "desc": "Continual learning infra for self-improving agents"
+  },
+  {
+    "createdAt": "2026-09-03T15:55:54Z",
+    "stars": 400,
+    "name": "Albert-Weasker/niubigeo",
+    "url": "https://github.com/Albert-Weasker/niubigeo",
+    "lang": "TypeScript",
+    "desc": "Open-source AI brand visibility and competitor reports"
+  },
+  {
+    "createdAt": "2026-08-31T12:17:01Z",
+    "stars": 389,
+    "name": "subsy/skill-cabinet",
+    "url": "https://github.com/subsy/skill-cabinet",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-31T02:12:29Z",
+    "stars": 381,
+    "name": "faisalkindi/DLSS5oneclick",
+    "url": "https://github.com/faisalkindi/DLSS5oneclick",
+    "lang": "Rust",
+    "desc": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe."
+  },
+  {
+    "createdAt": "2026-08-29T21:15:31Z",
+    "stars": 366,
+    "name": "aimen08/noty",
+    "url": "https://github.com/aimen08/noty",
+    "lang": "HTML",
+    "desc": "Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKit, local-only with encrypted note bodies."
+  },
+  {
+    "createdAt": "2026-08-28T02:22:27Z",
+    "stars": 349,
+    "name": "ZJU-REAL/Easel",
+    "url": "https://github.com/ZJU-REAL/Easel",
+    "lang": "Python",
+    "desc": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。"
+  },
+  {
+    "createdAt": "2026-08-31T02:21:10Z",
+    "stars": 332,
+    "name": "siknet/FreePEP",
+    "url": "https://github.com/siknet/FreePEP",
+    "lang": "Python",
+    "desc": "人教社电子教材下载器"
+  },
+  {
+    "createdAt": "2026-09-03T10:34:30Z",
+    "stars": 322,
+    "name": "ahujasid/camera-to-blender",
+    "url": "https://github.com/ahujasid/camera-to-blender",
+    "lang": "JavaScript",
+    "desc": "Take a photo of real objects, and paste them in Blender"
+  },
+  {
+    "createdAt": "2026-08-29T17:00:46Z",
+    "stars": 313,
+    "name": "dashdogy/RTX40MFG-Unlock",
+    "url": "https://github.com/dashdogy/RTX40MFG-Unlock",
+    "lang": "C++",
+    "desc": "Experimental DLSS Multi Frame Generation controls for any supported MFG title on RTX 40 series GPUs"
+  },
+  {
+    "createdAt": "2026-09-02T11:54:57Z",
+    "stars": 313,
+    "name": "op7418/guizang-yingzao-skill",
+    "url": "https://github.com/op7418/guizang-yingzao-skill",
+    "lang": "Python",
+    "desc": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报"
+  },
+  {
+    "createdAt": "2026-09-01T02:30:25Z",
+    "stars": 306,
+    "name": "kydlikebtc/awesome-grokbot",
+    "url": "https://github.com/kydlikebtc/awesome-grokbot",
+    "lang": "Python",
+    "desc": "440 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site."
+  },
+  {
+    "createdAt": "2026-09-02T06:38:31Z",
+    "stars": 297,
+    "name": "dreamers-laboratory/image-to-3d-pipeline",
+    "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline",
+    "lang": "JavaScript",
+    "desc": "Reconstruct 3D meshes from images with several open-source models and score which did it best."
+  },
+  {
+    "createdAt": "2026-08-29T06:04:35Z",
+    "stars": 294,
+    "name": "LAMDA-NeSy/Research-Starter-Kit",
+    "url": "https://github.com/LAMDA-NeSy/Research-Starter-Kit",
+    "lang": "",
+    "desc": "从0开始，掌握做科研、写论文的基本流程。"
+  },
+  {
+    "createdAt": "2026-08-28T06:42:21Z",
+    "stars": 288,
+    "name": "carloslfu/slotstream",
+    "url": "https://github.com/carloslfu/slotstream",
+    "lang": "Swift",
+    "desc": "Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API."
+  },
+  {
+    "createdAt": "2026-08-29T21:14:31Z",
+    "stars": 284,
+    "name": "useagenthq/useagent",
+    "url": "https://github.com/useagenthq/useagent",
+    "lang": "TypeScript",
+    "desc": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription."
+  },
+  {
+    "createdAt": "2026-09-01T17:36:22Z",
+    "stars": 278,
+    "name": "LunarXuan/image-prompt-reverse",
+    "url": "https://github.com/LunarXuan/image-prompt-reverse",
+    "lang": "",
+    "desc": "High-fidelity AI image prompt reverse-engineering skill for Codex"
+  },
+  {
+    "createdAt": "2026-08-29T07:46:09Z",
+    "stars": 274,
+    "name": "TetreesEX/TetreesAgent_EX",
+    "url": "https://github.com/TetreesEX/TetreesAgent_EX",
+    "lang": "JavaScript",
+    "desc": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX "
+  },
+  {
+    "createdAt": "2026-08-31T09:22:41Z",
+    "stars": 269,
+    "name": "yilujian/easy-writing",
+    "url": "https://github.com/yilujian/easy-writing",
+    "lang": "Vue",
+    "desc": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。"
+  },
+  {
+    "createdAt": "2026-09-02T02:46:14Z",
+    "stars": 266,
+    "name": "thisisgm/flea",
+    "url": "https://github.com/thisisgm/flea",
+    "lang": "Shell",
+    "desc": "A fast, keyboard-first file manager for Omarchy: Quickshell front end, Rust backend."
+  },
+  {
+    "createdAt": "2026-09-04T14:21:04Z",
+    "stars": 260,
+    "name": "anthropics/fermats-last-theorem",
+    "url": "https://github.com/anthropics/fermats-last-theorem",
+    "lang": "Lean",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-02T04:52:07Z",
+    "stars": 257,
+    "name": "OpenVDN/vdn-minimax-h3",
+    "url": "https://github.com/OpenVDN/vdn-minimax-h3",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-08-31T01:56:25Z",
+    "stars": 251,
+    "name": "mizorewww/course2md",
+    "url": "https://github.com/mizorewww/course2md",
+    "lang": "Rust",
+    "desc": "Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrated Markdown and HTML lecture notes."
+  },
+  {
+    "createdAt": "2026-08-28T21:01:35Z",
+    "stars": 251,
+    "name": "MSNightmare/HardBreacher",
+    "url": "https://github.com/MSNightmare/HardBreacher",
+    "lang": "C",
+    "desc": "Kaspersky Antivirus For Endpoint ZeroDay Elevation of Privileges Vulnerability"
+  },
+  {
+    "createdAt": "2026-09-01T01:23:41Z",
+    "stars": 249,
+    "name": "btsouth/omakade",
+    "url": "https://github.com/btsouth/omakade",
+    "lang": "C++",
+    "desc": "A beautiful, local-first game library built for Omarchy."
+  },
+  {
+    "createdAt": "2026-09-02T12:35:50Z",
+    "stars": 237,
+    "name": "aaronyi97/image-story-video-wizard",
+    "url": "https://github.com/aaronyi97/image-story-video-wizard",
+    "lang": "Python",
+    "desc": "A confirmation-gated Codex and WorkBuddy skill for audio-first image-story video production."
+  },
+  {
+    "createdAt": "2026-08-31T06:13:54Z",
+    "stars": 234,
+    "name": "blendi-remade/interdimensional-game",
+    "url": "https://github.com/blendi-remade/interdimensional-game",
+    "lang": "TypeScript",
+    "desc": "Create your own adventure with realtime video!"
+  },
+  {
+    "createdAt": "2026-08-28T23:23:56Z",
+    "stars": 232,
+    "name": "NIGos/dlss5-bridge",
+    "url": "https://github.com/NIGos/dlss5-bridge",
+    "lang": "C++",
+    "desc": "DLSS 5 Neural Rendering in DirectX 11 and Vulkan games, and optionally in games with no DLSS via NVIDIA Optical Flow (lower quality). A ReShade add-on."
+  },
+  {
+    "createdAt": "2026-09-01T10:12:00Z",
+    "stars": 230,
+    "name": "LIUFelix2004/God-minmax-H3",
+    "url": "https://github.com/LIUFelix2004/God-minmax-H3",
+    "lang": "Shell",
+    "desc": ""
+  }
+]
