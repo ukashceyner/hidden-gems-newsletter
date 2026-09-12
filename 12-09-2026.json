@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-09-05T00:24:43Z",
+    "stars": 3282,
+    "name": "ashemag/human-atlas",
+    "url": "https://github.com/ashemag/human-atlas",
+    "lang": "TypeScript",
+    "desc": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views."
+  },
+  {
+    "createdAt": "2026-09-07T16:16:48Z",
+    "stars": 2172,
+    "name": "sdli1995/dlssg_for_sm86",
+    "url": "https://github.com/sdli1995/dlssg_for_sm86",
+    "lang": "",
+    "desc": "Here is a dlssg for RTX30 Series GPU "
+  },
+  {
+    "createdAt": "2026-09-08T10:53:38Z",
+    "stars": 1822,
+    "name": "openai/NavierStokesAndEuler",
+    "url": "https://github.com/openai/NavierStokesAndEuler",
+    "lang": "Lean",
+    "desc": "Lean certificates accompanying Navier-Stokes and Euler results"
+  },
+  {
+    "createdAt": "2026-09-05T21:57:22Z",
+    "stars": 1583,
+    "name": "yang0/handraw-style",
+    "url": "https://github.com/yang0/handraw-style",
+    "lang": "HTML",
+    "desc": "手绘风格编号画廊与双语提示词 Skill"
+  },
+  {
+    "createdAt": "2026-09-05T14:55:35Z",
+    "stars": 1504,
+    "name": "vinzdg/codenotch",
+    "url": "https://github.com/vinzdg/codenotch",
+    "lang": "Swift",
+    "desc": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge."
+  },
+  {
+    "createdAt": "2026-09-07T00:41:18Z",
+    "stars": 1467,
+    "name": "EverettFish/holo-card-studio",
+    "url": "https://github.com/EverettFish/holo-card-studio",
+    "lang": "Python",
+    "desc": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project."
+  },
+  {
+    "createdAt": "2026-09-08T13:41:47Z",
+    "stars": 1445,
+    "name": "Edge0-AI/Edge0",
+    "url": "https://github.com/Edge0-AI/Edge0",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-08T17:19:54Z",
+    "stars": 1055,
+    "name": "Vincentwei1021/anything2explainer",
+    "url": "https://github.com/Vincentwei1021/anything2explainer",
+    "lang": "TypeScript",
+    "desc": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion."
+  },
+  {
+    "createdAt": "2026-09-05T16:03:06Z",
+    "stars": 1053,
+    "name": "donvito/codex-astra-luna-orchestrator",
+    "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+    "lang": "Python",
+    "desc": "Use Astra as orchestrator and Luna for subagents in Codex"
+  },
+  {
+    "createdAt": "2026-09-07T14:19:20Z",
+    "stars": 921,
+    "name": "achimala/dream-loop",
+    "url": "https://github.com/achimala/dream-loop",
+    "lang": "JavaScript",
+    "desc": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic"
+  },
+  {
+    "createdAt": "2026-09-11T02:13:29Z",
+    "stars": 921,
+    "name": "Faizpi/bank-sampah",
+    "url": "https://github.com/Faizpi/bank-sampah",
+    "lang": "PHP",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-05T06:20:08Z",
+    "stars": 907,
+    "name": "iamzulx/crypto-rag",
+    "url": "https://github.com/iamzulx/crypto-rag",
+    "lang": "Python",
+    "desc": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis"
+  },
+  {
+    "createdAt": "2026-09-06T12:28:23Z",
+    "stars": 877,
+    "name": "jtydhr88/screenwriting-skills",
+    "url": "https://github.com/jtydhr88/screenwriting-skills",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-08T05:02:01Z",
+    "stars": 787,
+    "name": "gazijarin/itsgiving",
+    "url": "https://github.com/gazijarin/itsgiving",
+    "lang": "Python",
+    "desc": "Express yourself in meetings (with memes, of course)."
+  },
+  {
+    "createdAt": "2026-09-10T18:55:39Z",
+    "stars": 684,
+    "name": "sumimakito/Mac-Duo",
+    "url": "https://github.com/sumimakito/Mac-Duo",
+    "lang": "Swift",
+    "desc": "Wish you could bring the iPhone Duo effect to your MacBook?"
+  },
+  {
+    "createdAt": "2026-09-05T23:29:13Z",
+    "stars": 665,
+    "name": "Jarvis322/macos-sysdata",
+    "url": "https://github.com/Jarvis322/macos-sysdata",
+    "lang": "Swift",
+    "desc": "See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs."
+  },
+  {
+    "createdAt": "2026-09-08T15:28:28Z",
+    "stars": 636,
+    "name": "SpaceDudem/text-humanizer",
+    "url": "https://github.com/SpaceDudem/text-humanizer",
+    "lang": "Python",
+    "desc": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero"
+  },
+  {
+    "createdAt": "2026-09-08T14:55:47Z",
+    "stars": 631,
+    "name": "Colafornia/short-video-generator-AI",
+    "url": "https://github.com/Colafornia/short-video-generator-AI",
+    "lang": "Python",
+    "desc": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content."
+  },
+  {
+    "createdAt": "2026-09-05T21:26:04Z",
+    "stars": 604,
+    "name": "okf-memory/okf-agent-memory",
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "lang": "Go",
+    "desc": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go."
+  },
+  {
+    "createdAt": "2026-09-08T08:50:53Z",
+    "stars": 586,
+    "name": "truanayangi-com/truanayangi",
+    "url": "https://github.com/truanayangi-com/truanayangi",
+    "lang": "TypeScript",
+    "desc": "Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required."
+  },
+  {
+    "createdAt": "2026-09-10T09:39:06Z",
+    "stars": 581,
+    "name": "angusdevgo/IDM_Pro_Tool",
+    "url": "https://github.com/angusdevgo/IDM_Pro_Tool",
+    "lang": "C#",
+    "desc": "IDM激活与状态维护工具"
+  },
+  {
+    "createdAt": "2026-09-06T06:21:09Z",
+    "stars": 551,
+    "name": "OpenWAM-Official/OpenWAM",
+    "url": "https://github.com/OpenWAM-Official/OpenWAM",
+    "lang": "Python",
+    "desc": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\"."
+  },
+  {
+    "createdAt": "2026-09-07T17:18:31Z",
+    "stars": 546,
+    "name": "crwdla/tokentab",
+    "url": "https://github.com/crwdla/tokentab",
+    "lang": "Python",
+    "desc": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day."
+  },
+  {
+    "createdAt": "2026-09-06T14:22:19Z",
+    "stars": 541,
+    "name": "perseval-BLR/DLSS5-NeuralScreen",
+    "url": "https://github.com/perseval-BLR/DLSS5-NeuralScreen",
+    "lang": "Python",
+    "desc": "DLSS 5 Neural Rendering on your whole Windows desktop, in real time. RTX 30/40/50, 12 languages, user presets, recording with audio, one-window mode."
+  },
+  {
+    "createdAt": "2026-09-09T10:04:14Z",
+    "stars": 532,
+    "name": "mizzlelover/gongwen-gbt9704-skill",
+    "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill",
+    "lang": "JavaScript",
+    "desc": "中文公文排版 Skill：按 GB/T 9704-2012 生成可编辑 DOCX。配套 CEB 文件转换：https://github.com/mizzlelover/CEB"
+  },
+  {
+    "createdAt": "2026-09-07T10:05:28Z",
+    "stars": 484,
+    "name": "lfzk550/fanzha-ai-proxy",
+    "url": "https://github.com/lfzk550/fanzha-ai-proxy",
+    "lang": "",
+    "desc": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途"
+  },
+  {
+    "createdAt": "2026-09-08T17:26:48Z",
+    "stars": 471,
+    "name": "henryzawadzki6542/cloudflare-turnstile-bypass",
+    "url": "https://github.com/henryzawadzki6542/cloudflare-turnstile-bypass",
+    "lang": "Python",
+    "desc": "Work with Cloudflare Turnstile in Python: find the sitekey, get a valid cf-turnstile-response token in seconds. Dependency-free library + CLI, built for CI and automation."
+  },
+  {
+    "createdAt": "2026-09-06T23:32:39Z",
+    "stars": 468,
+    "name": "Sadpainy/Stuxnet",
+    "url": "https://github.com/Sadpainy/Stuxnet",
+    "lang": "C",
+    "desc": "Stuxnet, Here reproduced by me, Only researchs for educations purposes. It set work on Windows XP and Windows 7 only."
+  },
+  {
+    "createdAt": "2026-09-09T06:58:25Z",
+    "stars": 460,
+    "name": "ArasTey/lunel",
+    "url": "https://github.com/ArasTey/lunel",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-05T23:32:00Z",
+    "stars": 457,
+    "name": "wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+    "url": "https://github.com/wilsjo2/OptiScaler-DLSSNR-PreSR-Multipass",
+    "lang": "C++",
+    "desc": "A game mod that uses NVIDIA AI to change lighting, detail and colour, with controls for strength and performance."
+  },
+  {
+    "createdAt": "2026-09-07T17:22:54Z",
+    "stars": 449,
+    "name": "Sophomoresty/turnstile-bypass",
+    "url": "https://github.com/Sophomoresty/turnstile-bypass",
+    "lang": "Python",
+    "desc": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)"
+  },
+  {
+    "createdAt": "2026-09-07T18:16:23Z",
+    "stars": 443,
+    "name": "LBEILC/RhineLabUI",
+    "url": "https://github.com/LBEILC/RhineLabUI",
+    "lang": "TypeScript",
+    "desc": "Rhine Lab archive interface built with TypeScript and Three.js"
+  },
+  {
+    "createdAt": "2026-09-10T02:40:30Z",
+    "stars": 436,
+    "name": "nftechie/stonkfly",
+    "url": "https://github.com/nftechie/stonkfly",
+    "lang": "Python",
+    "desc": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions."
+  },
+  {
+    "createdAt": "2026-09-07T06:28:54Z",
+    "stars": 426,
+    "name": "sitimas9/cdcrafthh",
+    "url": "https://github.com/sitimas9/cdcrafthh",
+    "lang": "Python",
+    "desc": "CodeCraft-style account farm — OAuth + coupon + API key harvest"
+  },
+  {
+    "createdAt": "2026-09-08T10:34:32Z",
+    "stars": 401,
+    "name": "jnz/INSLIB",
+    "url": "https://github.com/jnz/INSLIB",
+    "lang": "C",
+    "desc": "Open Source Inertial Navigation Library"
+  },
+  {
+    "createdAt": "2026-09-05T16:46:07Z",
+    "stars": 388,
+    "name": "i-am-manware/Manware-s-AI-Learning-Toolkit",
+    "url": "https://github.com/i-am-manware/Manware-s-AI-Learning-Toolkit",
+    "lang": "",
+    "desc": "An AI toolkit that turns agents into teachers rather than code yapping machines"
+  },
+  {
+    "createdAt": "2026-09-10T10:50:03Z",
+    "stars": 386,
+    "name": "unstablebuild/rune",
+    "url": "https://github.com/unstablebuild/rune",
+    "lang": "Go",
+    "desc": "the development environment for pros"
+  },
+  {
+    "createdAt": "2026-09-10T02:19:02Z",
+    "stars": 359,
+    "name": "kevinzakka/mjbatch",
+    "url": "https://github.com/kevinzakka/mjbatch",
+    "lang": "Python",
+    "desc": "A Python library for running thousands of MuJoCo simulations in parallel on CPU"
+  },
+  {
+    "createdAt": "2026-09-05T20:27:24Z",
+    "stars": 355,
+    "name": "BagasRizkyHarySaputra/SIAPIN",
+    "url": "https://github.com/BagasRizkyHarySaputra/SIAPIN",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-05T07:41:00Z",
+    "stars": 355,
+    "name": "34306/vphone-web",
+    "url": "https://github.com/34306/vphone-web",
+    "lang": "HTML",
+    "desc": "vphone-cli but you can use your mac as a host and control it over the web"
+  },
+  {
+    "createdAt": "2026-09-10T02:46:34Z",
+    "stars": 354,
+    "name": "yureii1996/cek-probe-model",
+    "url": "https://github.com/yureii1996/cek-probe-model",
+    "lang": "Python",
+    "desc": "Untuk cek model apakah maskingan atau bukan"
+  },
+  {
+    "createdAt": "2026-09-07T00:30:36Z",
+    "stars": 331,
+    "name": "yappologistic/Spun",
+    "url": "https://github.com/yappologistic/Spun",
+    "lang": "C++",
+    "desc": "A CD-shaped music player for Linux, with local playback and Cider integration."
+  },
+  {
+    "createdAt": "2026-09-10T01:25:00Z",
+    "stars": 327,
+    "name": "yudaprasetya007/routeVSCODE",
+    "url": "https://github.com/yudaprasetya007/routeVSCODE",
+    "lang": "JavaScript",
+    "desc": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router"
+  },
+  {
+    "createdAt": "2026-09-05T18:29:18Z",
+    "stars": 317,
+    "name": "FeiZhuLulu/real-api-pricing",
+    "url": "https://github.com/FeiZhuLulu/real-api-pricing",
+    "lang": "HTML",
+    "desc": "真实 API 定价：订阅月费 ÷ 实际可用 token，含额度、单价与分榜帕累托图。Real API pricing: subscription fee ÷ usable tokens, with allowance, unit-price, and leaderboard Pareto charts."
+  },
+  {
+    "createdAt": "2026-09-06T14:58:51Z",
+    "stars": 317,
+    "name": "biusberline/cloudflare-turnstile-solver",
+    "url": "https://github.com/biusberline/cloudflare-turnstile-solver",
+    "lang": "Python",
+    "desc": "A small Python library and CLI for working with Cloudflare Turnstile on your own pages - read the sitekey, build the token, verify the result."
+  },
+  {
+    "createdAt": "2026-09-09T14:38:04Z",
+    "stars": 317,
+    "name": "deepseek-ai/DeepSelect",
+    "url": "https://github.com/deepseek-ai/DeepSelect",
+    "lang": "Cuda",
+    "desc": "DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers"
+  },
+  {
+    "createdAt": "2026-09-10T05:36:48Z",
+    "stars": 313,
+    "name": "deepseek-ai/deepseek-recipe",
+    "url": "https://github.com/deepseek-ai/deepseek-recipe",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-11T04:55:49Z",
+    "stars": 313,
+    "name": "eternityspring/reelbench-skills",
+    "url": "https://github.com/eternityspring/reelbench-skills",
+    "lang": "JavaScript",
+    "desc": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill"
+  },
+  {
+    "createdAt": "2026-09-11T10:54:31Z",
+    "stars": 311,
+    "name": "DefiLeoo/YOINK",
+    "url": "https://github.com/DefiLeoo/YOINK",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-06T02:53:31Z",
+    "stars": 308,
+    "name": "kunchenguid/kun",
+    "url": "https://github.com/kunchenguid/kun",
+    "lang": "",
+    "desc": "Think and build like a principal engineer. Leverage Kun's experience, knowledge, tools, workflows, and skills to help you get shit done."
+  }
+]
