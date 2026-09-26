@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-09-20T12:01:16Z",
+    "stars": 6771,
+    "name": "zai-org/ZCode",
+    "url": "https://github.com/zai-org/ZCode",
+    "lang": "TypeScript",
+    "desc": "Z.ai's coding agent harness. Powerful, intelligent, extensible."
+  },
+  {
+    "createdAt": "2026-09-21T11:12:53Z",
+    "stars": 6507,
+    "name": "jev-chat/jev-chat-jarvis",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "lang": "Kotlin",
+    "desc": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。"
+  },
+  {
+    "createdAt": "2026-09-19T13:50:26Z",
+    "stars": 6335,
+    "name": "mizorewww/laya-mlx",
+    "url": "https://github.com/mizorewww/laya-mlx",
+    "lang": "Python",
+    "desc": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API."
+  },
+  {
+    "createdAt": "2026-09-21T23:14:02Z",
+    "stars": 1939,
+    "name": "unreallabsai/unreal-agent",
+    "url": "https://github.com/unreallabsai/unreal-agent",
+    "lang": "Go",
+    "desc": "Async-first agent harness"
+  },
+  {
+    "createdAt": "2026-09-20T10:29:47Z",
+    "stars": 1803,
+    "name": "driceroland/Search",
+    "url": "https://github.com/driceroland/Search",
+    "lang": "Swift",
+    "desc": "A small, fast WebKit browser for macOS, by Office Commun."
+  },
+  {
+    "createdAt": "2026-09-19T23:14:13Z",
+    "stars": 1465,
+    "name": "mizorewww/laya-coreml",
+    "url": "https://github.com/mizorewww/laya-coreml",
+    "lang": "Python",
+    "desc": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks."
+  },
+  {
+    "createdAt": "2026-09-19T13:12:54Z",
+    "stars": 1464,
+    "name": "newliver666/apk-reverse",
+    "url": "https://github.com/newliver666/apk-reverse",
+    "lang": "Python",
+    "desc": "Suitable for Android APK reverse engineering analysis"
+  },
+  {
+    "createdAt": "2026-09-23T19:29:56Z",
+    "stars": 1261,
+    "name": "Contrastive-LM/CLM",
+    "url": "https://github.com/Contrastive-LM/CLM",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-19T04:14:43Z",
+    "stars": 1109,
+    "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "lang": "Markdown",
+    "desc": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers."
+  },
+  {
+    "createdAt": "2026-09-21T02:12:24Z",
+    "stars": 1020,
+    "name": "deepopen-com/deepopen",
+    "url": "https://github.com/deepopen-com/deepopen",
+    "lang": "Python",
+    "desc": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. "
+  },
+  {
+    "createdAt": "2026-09-23T13:37:26Z",
+    "stars": 949,
+    "name": "mikehasa/golive-skill",
+    "url": "https://github.com/mikehasa/golive-skill",
+    "lang": "TypeScript",
+    "desc": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry."
+  },
+  {
+    "createdAt": "2026-09-24T20:56:29Z",
+    "stars": 905,
+    "name": "tobi/disktree",
+    "url": "https://github.com/tobi/disktree",
+    "lang": "Rust",
+    "desc": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI."
+  },
+  {
+    "createdAt": "2026-09-22T23:32:19Z",
+    "stars": 884,
+    "name": "JohnHeibel/PDoomVideo",
+    "url": "https://github.com/JohnHeibel/PDoomVideo",
+    "lang": "JavaScript",
+    "desc": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)"
+  },
+  {
+    "createdAt": "2026-09-19T05:14:36Z",
+    "stars": 832,
+    "name": "heyjunpenn/awesome-jev",
+    "url": "https://github.com/heyjunpenn/awesome-jev",
+    "lang": "Astro",
+    "desc": "A verified, community-maintained catalog of 916 open-source projects built with Jev."
+  },
+  {
+    "createdAt": "2026-09-22T16:10:23Z",
+    "stars": 818,
+    "name": "kryvora-network/kryvora-node",
+    "url": "https://github.com/kryvora-network/kryvora-node",
+    "lang": "Go",
+    "desc": "Reference client daemon and verification worker for Kryvora Network nodes."
+  },
+  {
+    "createdAt": "2026-09-23T16:22:35Z",
+    "stars": 799,
+    "name": "yetone/magpie",
+    "url": "https://github.com/yetone/magpie",
+    "lang": "Go",
+    "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar."
+  },
+  {
+    "createdAt": "2026-09-23T06:31:00Z",
+    "stars": 796,
+    "name": "riba2534/claude-opus-5-5-demo",
+    "url": "https://github.com/riba2534/claude-opus-5-5-demo",
+    "lang": "JavaScript",
+    "desc": "claude-opus-5-5-demo"
+  },
+  {
+    "createdAt": "2026-09-19T09:22:23Z",
+    "stars": 773,
+    "name": "Mak5er/AirCard-iOS",
+    "url": "https://github.com/Mak5er/AirCard-iOS",
+    "lang": "Swift",
+    "desc": " Apple Wallet card skins and lock screen passcode themes on iOS 27. "
+  },
+  {
+    "createdAt": "2026-09-19T00:25:59Z",
+    "stars": 768,
+    "name": "volotat/mini-AGI",
+    "url": "https://github.com/volotat/mini-AGI",
+    "lang": "Python",
+    "desc": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data."
+  },
+  {
+    "createdAt": "2026-09-19T16:48:59Z",
+    "stars": 720,
+    "name": "v-modal/awesome-jev-tools",
+    "url": "https://github.com/v-modal/awesome-jev-tools",
+    "lang": "",
+    "desc": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions."
+  },
+  {
+    "createdAt": "2026-09-21T02:54:51Z",
+    "stars": 715,
+    "name": "freestylefly/WeChatBridge",
+    "url": "https://github.com/freestylefly/WeChatBridge",
+    "lang": "Swift",
+    "desc": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具"
+  },
+  {
+    "createdAt": "2026-09-21T05:55:40Z",
+    "stars": 701,
+    "name": "nokia-applied-research/AnyJev",
+    "url": "https://github.com/nokia-applied-research/AnyJev",
+    "lang": "Python",
+    "desc": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating)"
+  },
+  {
+    "createdAt": "2026-09-22T08:52:32Z",
+    "stars": 631,
+    "name": "anishfn/shapeshift",
+    "url": "https://github.com/anishfn/shapeshift",
+    "lang": "TypeScript",
+    "desc": "An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline."
+  },
+  {
+    "createdAt": "2026-09-23T21:40:29Z",
+    "stars": 614,
+    "name": "dgreenheck/tidewater",
+    "url": "https://github.com/dgreenheck/tidewater",
+    "lang": "JavaScript",
+    "desc": "Coastal town built with Opus 5.5"
+  },
+  {
+    "createdAt": "2026-09-23T18:11:57Z",
+    "stars": 609,
+    "name": "yukitorido/short-video-generator-AI",
+    "url": "https://github.com/yukitorido/short-video-generator-AI",
+    "lang": "Python",
+    "desc": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing"
+  },
+  {
+    "createdAt": "2026-09-23T17:32:37Z",
+    "stars": 587,
+    "name": "asokurasu/text-humanizer",
+    "url": "https://github.com/asokurasu/text-humanizer",
+    "lang": "Python",
+    "desc": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. "
+  },
+  {
+    "createdAt": "2026-09-21T14:37:14Z",
+    "stars": 558,
+    "name": "jev-chat/jev-chat-windows",
+    "url": "https://github.com/jev-chat/jev-chat-windows",
+    "lang": "Python",
+    "desc": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动"
+  },
+  {
+    "createdAt": "2026-09-20T03:59:03Z",
+    "stars": 554,
+    "name": "taeold/djev-run",
+    "url": "https://github.com/taeold/djev-run",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-20T08:58:08Z",
+    "stars": 548,
+    "name": "Haleclipse/CometixCode",
+    "url": "https://github.com/Haleclipse/CometixCode",
+    "lang": "Rust",
+    "desc": "An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, built on iocraft"
+  },
+  {
+    "createdAt": "2026-09-20T05:05:12Z",
+    "stars": 546,
+    "name": "rmalde/minecraft-agent",
+    "url": "https://github.com/rmalde/minecraft-agent",
+    "lang": "JavaScript",
+    "desc": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification."
+  },
+  {
+    "createdAt": "2026-09-22T04:28:59Z",
+    "stars": 495,
+    "name": "rgem227/knoweldge-base",
+    "url": "https://github.com/rgem227/knoweldge-base",
+    "lang": "Python",
+    "desc": "Personal or team knowledge base, supports MCP API calls."
+  },
+  {
+    "createdAt": "2026-09-21T00:00:02Z",
+    "stars": 492,
+    "name": "Rizzo-AI-Academy/rizzo-flow",
+    "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+    "lang": "Python",
+    "desc": "The open, local take on Jev: typed decisions from an LLM, without generating a single token"
+  },
+  {
+    "createdAt": "2026-09-20T02:35:26Z",
+    "stars": 490,
+    "name": "wuyoscar/jev-skill",
+    "url": "https://github.com/wuyoscar/jev-skill",
+    "lang": "Python",
+    "desc": "An awesome collection of Jev use cases, workflows, and agent skills."
+  },
+  {
+    "createdAt": "2026-09-19T15:30:52Z",
+    "stars": 475,
+    "name": "receptron/laya",
+    "url": "https://github.com/receptron/laya",
+    "lang": "TypeScript",
+    "desc": "Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime"
+  },
+  {
+    "createdAt": "2026-09-19T17:17:03Z",
+    "stars": 452,
+    "name": "jerryjliu/docjev",
+    "url": "https://github.com/jerryjliu/docjev",
+    "lang": "Python",
+    "desc": "A very fast document classifier/splitter using Jev "
+  },
+  {
+    "createdAt": "2026-09-23T18:04:25Z",
+    "stars": 434,
+    "name": "samyost1/3dicon",
+    "url": "https://github.com/samyost1/3dicon",
+    "lang": "Python",
+    "desc": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill."
+  },
+  {
+    "createdAt": "2026-09-20T06:13:22Z",
+    "stars": 430,
+    "name": "mabdulre9/electrical-engineering",
+    "url": "https://github.com/mabdulre9/electrical-engineering",
+    "lang": "",
+    "desc": "🎓 Path to a free self-taught education in Electrical Engineering"
+  },
+  {
+    "createdAt": "2026-09-23T04:04:13Z",
+    "stars": 424,
+    "name": "852wa/JIZURA",
+    "url": "https://github.com/852wa/JIZURA",
+    "lang": "HTML",
+    "desc": "歌詞から文字PVを自動で組み立てるブラウザアプリ"
+  },
+  {
+    "createdAt": "2026-09-19T10:48:59Z",
+    "stars": 410,
+    "name": "LSPosed/ZygiskNext",
+    "url": "https://github.com/LSPosed/ZygiskNext",
+    "lang": "C",
+    "desc": "Standalone implementation of Zygisk"
+  },
+  {
+    "createdAt": "2026-09-23T13:20:08Z",
+    "stars": 410,
+    "name": "Aureliengmz/clearwater",
+    "url": "https://github.com/Aureliengmz/clearwater",
+    "lang": "HTML",
+    "desc": "Real-time, photoreal shallow water in a single HTML file. WebGL2, no libraries, no build step."
+  },
+  {
+    "createdAt": "2026-09-20T22:35:35Z",
+    "stars": 397,
+    "name": "maanHimself/OpenDLSS-NR",
+    "url": "https://github.com/maanHimself/OpenDLSS-NR",
+    "lang": "JavaScript",
+    "desc": "A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the original."
+  },
+  {
+    "createdAt": "2026-09-21T11:39:32Z",
+    "stars": 397,
+    "name": "jev-chat/jev-chat-jarvis-mac",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+    "lang": "Python",
+    "desc": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。"
+  },
+  {
+    "createdAt": "2026-09-20T13:48:09Z",
+    "stars": 383,
+    "name": "minorun365/minorun-marp-skill",
+    "url": "https://github.com/minorun365/minorun-marp-skill",
+    "lang": "Python",
+    "desc": "Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール"
+  },
+  {
+    "createdAt": "2026-09-20T12:06:40Z",
+    "stars": 377,
+    "name": "caxete/crypto-tax-calculator",
+    "url": "https://github.com/caxete/crypto-tax-calculator",
+    "lang": "Python",
+    "desc": "A comprehensive crypto tax solution supporting leading wallets, exchanges, and blockchain explorers."
+  },
+  {
+    "createdAt": "2026-09-22T02:22:54Z",
+    "stars": 351,
+    "name": "kydlikebtc/awesome-jev",
+    "url": "https://github.com/kydlikebtc/awesome-jev",
+    "lang": "Python",
+    "desc": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility."
+  },
+  {
+    "createdAt": "2026-09-19T09:53:27Z",
+    "stars": 342,
+    "name": "joeseesun/qiaomu-download",
+    "url": "https://github.com/joeseesun/qiaomu-download",
+    "lang": "Python",
+    "desc": "通用在线视频下载与媒体提取技能。用户提供 YouTube/youtu.be、B站/bilibili/b23.tv、X/Twitter、Vimeo、TikTok、Instagram、Facebook、Twitch、Reddit 或其他 yt-dlp 支持的视频链接，并要求下载/保存视频、提取 audio/MP3、下载字幕、查看视频信息或更新 yt-dlp 时使用。微信视频号 weixin.qq.com/sph 链接转交 qiaomu-wx-video，绝不自动化操作微信客户端。"
+  },
+  {
+    "createdAt": "2026-09-19T09:36:13Z",
+    "stars": 338,
+    "name": "JamesKInner/Covalent-MAS",
+    "url": "https://github.com/JamesKInner/Covalent-MAS",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-19T10:59:33Z",
+    "stars": 334,
+    "name": "Yinsongxu/LLM2Jev",
+    "url": "https://github.com/Yinsongxu/LLM2Jev",
+    "lang": "Python",
+    "desc": "Turn local language models into Jev-style structured decision models. Get results from text and images with prefill alone—no token-by-token decoding required."
+  },
+  {
+    "createdAt": "2026-09-20T20:12:13Z",
+    "stars": 334,
+    "name": "Zefan-Cai/Open-Jev",
+    "url": "https://github.com/Zefan-Cai/Open-Jev",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-20T07:54:30Z",
+    "stars": 316,
+    "name": "Inkloom-art/inkloom",
+    "url": "https://github.com/Inkloom-art/inkloom",
+    "lang": "TypeScript",
+    "desc": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open."
+  }
+]
