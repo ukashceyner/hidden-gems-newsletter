@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-09-28T23:40:05Z",
+    "stars": 5399,
+    "name": "KKKKhazix/AIHOT",
+    "url": "https://github.com/KKKKhazix/AIHOT",
+    "lang": "TypeScript",
+    "desc": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。"
+  },
+  {
+    "createdAt": "2026-09-27T21:54:12Z",
+    "stars": 3222,
+    "name": "Louis-CFM/coucou",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "lang": "Swift",
+    "desc": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more."
+  },
+  {
+    "createdAt": "2026-09-30T05:00:35Z",
+    "stars": 2629,
+    "name": "rehan-remade/universal-modder",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "lang": "Python",
+    "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
+  },
+  {
+    "createdAt": "2026-09-29T23:06:00Z",
+    "stars": 2573,
+    "name": "feder-cr/dots",
+    "url": "https://github.com/feder-cr/dots",
+    "lang": "Python",
+    "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked."
+  },
+  {
+    "createdAt": "2026-09-29T17:13:58Z",
+    "stars": 2494,
+    "name": "CopilotKit/OpenDots",
+    "url": "https://github.com/CopilotKit/OpenDots",
+    "lang": "TypeScript",
+    "desc": "Your always-on AI coworkers that move between text, calls, and Slack."
+  },
+  {
+    "createdAt": "2026-09-27T06:19:36Z",
+    "stars": 1568,
+    "name": "yihui-dev/awesome-opus5-5-videos",
+    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+    "lang": "",
+    "desc": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly."
+  },
+  {
+    "createdAt": "2026-09-29T02:57:30Z",
+    "stars": 1361,
+    "name": "wy51ai/floorplan-3d",
+    "url": "https://github.com/wy51ai/floorplan-3d",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-28T16:18:39Z",
+    "stars": 1350,
+    "name": "firelex/jeff",
+    "url": "https://github.com/firelex/jeff",
+    "lang": "Python",
+    "desc": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware."
+  },
+  {
+    "createdAt": "2026-09-30T11:49:32Z",
+    "stars": 1312,
+    "name": "nanaism/yomiyasu",
+    "url": "https://github.com/nanaism/yomiyasu",
+    "lang": "Python",
+    "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese"
+  },
+  {
+    "createdAt": "2026-09-28T19:14:59Z",
+    "stars": 1094,
+    "name": "edenfunf/reelmimic",
+    "url": "https://github.com/edenfunf/reelmimic",
+    "lang": "JavaScript",
+    "desc": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you."
+  },
+  {
+    "createdAt": "2026-09-30T10:20:07Z",
+    "stars": 981,
+    "name": "CAPCOM-TD-OSS/REDox",
+    "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+    "lang": "C#",
+    "desc": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine."
+  },
+  {
+    "createdAt": "2026-09-27T14:11:14Z",
+    "stars": 980,
+    "name": "echris6/motion-video-kit",
+    "url": "https://github.com/echris6/motion-video-kit",
+    "lang": "Python",
+    "desc": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts"
+  },
+  {
+    "createdAt": "2026-10-02T18:21:23Z",
+    "stars": 843,
+    "name": "facebookincubator/muse-gadget-sdk",
+    "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+    "lang": "C",
+    "desc": "Open source SDK to build Muse gadgets"
+  },
+  {
+    "createdAt": "2026-09-30T16:40:20Z",
+    "stars": 754,
+    "name": "chasmlol/SkyCraft",
+    "url": "https://github.com/chasmlol/SkyCraft",
+    "lang": "C++",
+    "desc": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod)."
+  },
+  {
+    "createdAt": "2026-09-29T00:45:42Z",
+    "stars": 726,
+    "name": "openai/mcp-extensions",
+    "url": "https://github.com/openai/mcp-extensions",
+    "lang": "TypeScript",
+    "desc": "Build plugins that feel like native, first-class features of ChatGPT."
+  },
+  {
+    "createdAt": "2026-09-29T01:29:57Z",
+    "stars": 695,
+    "name": "nykooi1/vibe-wise",
+    "url": "https://github.com/nykooi1/vibe-wise",
+    "lang": "Python",
+    "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code."
+  },
+  {
+    "createdAt": "2026-09-27T23:47:01Z",
+    "stars": 693,
+    "name": "chasmlol/2010-rust-rewrite-mashup",
+    "url": "https://github.com/chasmlol/2010-rust-rewrite-mashup",
+    "lang": "Rust",
+    "desc": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map"
+  },
+  {
+    "createdAt": "2026-09-30T12:52:24Z",
+    "stars": 666,
+    "name": "Edwardxlai/easyread",
+    "url": "https://github.com/Edwardxlai/easyread",
+    "lang": "Python",
+    "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese."
+  },
+  {
+    "createdAt": "2026-09-27T20:36:30Z",
+    "stars": 560,
+    "name": "JoasASantos/Offensive-Security-AI-Models",
+    "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+    "lang": "",
+    "desc": "Uncensored AI models or those fine-tuned for cybersecurity tasks."
+  },
+  {
+    "createdAt": "2026-09-30T03:35:45Z",
+    "stars": 560,
+    "name": "OpSafari/hypoarena",
+    "url": "https://github.com/OpSafari/hypoarena",
+    "lang": "Python",
+    "desc": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra."
+  },
+  {
+    "createdAt": "2026-09-29T02:19:22Z",
+    "stars": 541,
+    "name": "fsiaonma/elpis",
+    "url": "https://github.com/fsiaonma/elpis",
+    "lang": "TypeScript",
+    "desc": "elpis"
+  },
+  {
+    "createdAt": "2026-09-27T06:56:59Z",
+    "stars": 532,
+    "name": "PSRben/VisionHOPE",
+    "url": "https://github.com/PSRben/VisionHOPE",
+    "lang": "Python",
+    "desc": "Official PyTorch implementation of VisionHOPE: Visual Backbones as Self-Modifying Learning Systems."
+  },
+  {
+    "createdAt": "2026-09-29T16:34:16Z",
+    "stars": 507,
+    "name": "composio-community/open-dot",
+    "url": "https://github.com/composio-community/open-dot",
+    "lang": "TypeScript",
+    "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio."
+  },
+  {
+    "createdAt": "2026-09-29T15:49:55Z",
+    "stars": 491,
+    "name": "deepseek-ai/DeepGEMM-Ascend",
+    "url": "https://github.com/deepseek-ai/DeepGEMM-Ascend",
+    "lang": "C++",
+    "desc": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs"
+  },
+  {
+    "createdAt": "2026-09-27T05:55:36Z",
+    "stars": 478,
+    "name": "xikhar/spiderbench",
+    "url": "https://github.com/xikhar/spiderbench",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-28T08:50:16Z",
+    "stars": 461,
+    "name": "ESPARGOS/esp-sdr",
+    "url": "https://github.com/ESPARGOS/esp-sdr",
+    "lang": "C",
+    "desc": "ESP-SDR uses the undocumented raw I/Q capture functionality of ESP32 family chips to turn them into (low-duty-cycle) Software Defined Radios"
+  },
+  {
+    "createdAt": "2026-09-29T20:05:06Z",
+    "stars": 446,
+    "name": "amywork777/lipflow",
+    "url": "https://github.com/amywork777/lipflow",
+    "lang": "Python",
+    "desc": "Wispr Flow for your lips: hold a key, silently mouth words, and they're typed at your cursor. Runs locally on your Mac."
+  },
+  {
+    "createdAt": "2026-09-28T21:28:48Z",
+    "stars": 437,
+    "name": "elliotttate/Wind-Waker-Recomp",
+    "url": "https://github.com/elliotttate/Wind-Waker-Recomp",
+    "lang": "C",
+    "desc": "Personal source fork of BlueWake for The Wind Waker on iPhone and iPad"
+  },
+  {
+    "createdAt": "2026-09-30T04:03:37Z",
+    "stars": 405,
+    "name": "ZacharyZhang-NY/Ely-GPUI-Components",
+    "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+    "lang": "Rust",
+    "desc": "A component library for GPUI, in light and dark. Every component runs live in the browser."
+  },
+  {
+    "createdAt": "2026-09-29T09:56:47Z",
+    "stars": 402,
+    "name": "PostHog/jeeves",
+    "url": "https://github.com/PostHog/jeeves",
+    "lang": "Python",
+    "desc": "Jeeves – Reasoning improves Jev-like decision models"
+  },
+  {
+    "createdAt": "2026-09-27T04:06:05Z",
+    "stars": 395,
+    "name": "zhuyansen/awesome-claude-video-skills",
+    "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
+    "lang": "",
+    "desc": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文."
+  },
+  {
+    "createdAt": "2026-09-27T21:48:33Z",
+    "stars": 392,
+    "name": "moguzbulbul/blueprint-animation",
+    "url": "https://github.com/moguzbulbul/blueprint-animation",
+    "lang": "JavaScript",
+    "desc": "Claude Design skill: animated before → after UX redesign, explained step by step through a blueprint drawing. By @moguzbulbul."
+  },
+  {
+    "createdAt": "2026-09-27T19:15:46Z",
+    "stars": 379,
+    "name": "ng-native/ng-native",
+    "url": "https://github.com/ng-native/ng-native",
+    "lang": "TypeScript",
+    "desc": "Angular apps, rendered as real native iOS and Android views, on React Native's Fabric renderer."
+  },
+  {
+    "createdAt": "2026-09-29T05:22:13Z",
+    "stars": 379,
+    "name": "fulldiagnose/antigravity-fixer",
+    "url": "https://github.com/fulldiagnose/antigravity-fixer",
+    "lang": "Python",
+    "desc": "Fix Antigravity 'not eligible' error - diagnose, clean credentials, auto-fix"
+  },
+  {
+    "createdAt": "2026-09-30T13:37:48Z",
+    "stars": 368,
+    "name": "storytold/photocraft",
+    "url": "https://github.com/storytold/photocraft",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-30T10:26:35Z",
+    "stars": 347,
+    "name": "pengchujin/livecanvas",
+    "url": "https://github.com/pengchujin/livecanvas",
+    "lang": "Swift",
+    "desc": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation."
+  },
+  {
+    "createdAt": "2026-09-29T23:00:37Z",
+    "stars": 340,
+    "name": "MisakaZentai/world-execute-me-dsh-pv",
+    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
+    "lang": "Python",
+    "desc": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork."
+  },
+  {
+    "createdAt": "2026-10-02T09:38:41Z",
+    "stars": 339,
+    "name": "sganggs/Stronghold-Protocol",
+    "url": "https://github.com/sganggs/Stronghold-Protocol",
+    "lang": "JavaScript",
+    "desc": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）"
+  },
+  {
+    "createdAt": "2026-09-27T04:24:34Z",
+    "stars": 336,
+    "name": "brainbrick-trades/The-Quant-Trading-Vault",
+    "url": "https://github.com/brainbrick-trades/The-Quant-Trading-Vault",
+    "lang": "",
+    "desc": "5800+ trading strategies unlocked."
+  },
+  {
+    "createdAt": "2026-09-27T22:21:06Z",
+    "stars": 331,
+    "name": "openOMSI-Project/openOMSI",
+    "url": "https://github.com/openOMSI-Project/openOMSI",
+    "lang": "Rust",
+    "desc": "OMSI 2 recreated from scratch in Rust, compatible with every map and mod (requires the original OMSI 2)"
+  },
+  {
+    "createdAt": "2026-09-28T18:47:06Z",
+    "stars": 330,
+    "name": "alpcanaydin/tusk",
+    "url": "https://github.com/alpcanaydin/tusk",
+    "lang": "Rust",
+    "desc": "A fast, native, keyboard-driven database client for macOS. 20 databases, an AI assistant that shows its work, free and open source."
+  },
+  {
+    "createdAt": "2026-09-30T02:15:33Z",
+    "stars": 312,
+    "name": "blackbearreloaded/ProsperoEden",
+    "url": "https://github.com/blackbearreloaded/ProsperoEden",
+    "lang": "C++",
+    "desc": "Experimental Eden port for PS5"
+  },
+  {
+    "createdAt": "2026-09-30T03:55:35Z",
+    "stars": 312,
+    "name": "oil-oil/oil-ui",
+    "url": "https://github.com/oil-oil/oil-ui",
+    "lang": "Python",
+    "desc": "把 AI 的 UI 设计能力推到极限。"
+  },
+  {
+    "createdAt": "2026-10-02T09:57:40Z",
+    "stars": 309,
+    "name": "QingYunA/answer-me-with-html",
+    "url": "https://github.com/QingYunA/answer-me-with-html",
+    "lang": "JavaScript",
+    "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+  },
+  {
+    "createdAt": "2026-09-28T03:35:08Z",
+    "stars": 297,
+    "name": "openJiuwen-ai/iCode",
+    "url": "https://github.com/openJiuwen-ai/iCode",
+    "lang": "Python",
+    "desc": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows."
+  },
+  {
+    "createdAt": "2026-09-29T16:36:38Z",
+    "stars": 293,
+    "name": "strands-labs/strands-decider",
+    "url": "https://github.com/strands-labs/strands-decider",
+    "lang": "Python",
+    "desc": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision."
+  },
+  {
+    "createdAt": "2026-09-29T20:54:42Z",
+    "stars": 267,
+    "name": "extend-hq/jevbox",
+    "url": "https://github.com/extend-hq/jevbox",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-02T11:56:18Z",
+    "stars": 264,
+    "name": "x4gpanell/SuperJinX",
+    "url": "https://github.com/x4gpanell/SuperJinX",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-27T14:59:35Z",
+    "stars": 262,
+    "name": "luxine/CalcKernel",
+    "url": "https://github.com/luxine/CalcKernel",
+    "lang": "Rust",
+    "desc": "CalcKernel compiler, runtime, tests, examples, documentation, and public releases"
+  },
+  {
+    "createdAt": "2026-10-02T13:50:42Z",
+    "stars": 258,
+    "name": "whirlchat/whirl",
+    "url": "https://github.com/whirlchat/whirl",
+    "lang": "TypeScript",
+    "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools."
+  }
+]
