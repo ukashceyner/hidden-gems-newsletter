@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-09-30T05:00:35Z",
+    "stars": 3862,
+    "name": "rehan-remade/universal-modder",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "lang": "Python",
+    "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
+  },
+  {
+    "createdAt": "2026-09-29T17:13:58Z",
+    "stars": 3690,
+    "name": "CopilotKit/OpenDots",
+    "url": "https://github.com/CopilotKit/OpenDots",
+    "lang": "TypeScript",
+    "desc": "Your always-on AI coworkers that move between text, calls, and Slack."
+  },
+  {
+    "createdAt": "2026-09-29T23:06:00Z",
+    "stars": 2619,
+    "name": "feder-cr/dots",
+    "url": "https://github.com/feder-cr/dots",
+    "lang": "Python",
+    "desc": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked."
+  },
+  {
+    "createdAt": "2026-09-30T13:37:48Z",
+    "stars": 2140,
+    "name": "storytold/photocraft",
+    "url": "https://github.com/storytold/photocraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust"
+  },
+  {
+    "createdAt": "2026-09-29T11:02:39Z",
+    "stars": 2096,
+    "name": "omlahore/RemoveMacAI",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "lang": "Swift",
+    "desc": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible."
+  },
+  {
+    "createdAt": "2026-09-29T01:29:57Z",
+    "stars": 1802,
+    "name": "nykooi1/vibe-wise",
+    "url": "https://github.com/nykooi1/vibe-wise",
+    "lang": "Python",
+    "desc": "A Claude Code plugin that helps you learn how to build while AI writes the code."
+  },
+  {
+    "createdAt": "2026-09-30T11:49:32Z",
+    "stars": 1520,
+    "name": "nanaism/yomiyasu",
+    "url": "https://github.com/nanaism/yomiyasu",
+    "lang": "Python",
+    "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese"
+  },
+  {
+    "createdAt": "2026-10-02T09:57:40Z",
+    "stars": 1490,
+    "name": "QingYunA/answer-me-with-html",
+    "url": "https://github.com/QingYunA/answer-me-with-html",
+    "lang": "JavaScript",
+    "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+  },
+  {
+    "createdAt": "2026-10-04T10:55:58Z",
+    "stars": 1463,
+    "name": "kargulstudio/sales-crm",
+    "url": "https://github.com/kargulstudio/sales-crm",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-02T18:21:23Z",
+    "stars": 1438,
+    "name": "facebookincubator/muse-gadget-sdk",
+    "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+    "lang": "C",
+    "desc": "Open source SDK to build Muse gadgets"
+  },
+  {
+    "createdAt": "2026-09-29T02:57:30Z",
+    "stars": 1424,
+    "name": "wy51ai/floorplan-3d",
+    "url": "https://github.com/wy51ai/floorplan-3d",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-30T10:20:07Z",
+    "stars": 1079,
+    "name": "CAPCOM-TD-OSS/REDox",
+    "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+    "lang": "C#",
+    "desc": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine."
+  },
+  {
+    "createdAt": "2026-09-30T16:40:20Z",
+    "stars": 982,
+    "name": "chasmlol/SkyCraft",
+    "url": "https://github.com/chasmlol/SkyCraft",
+    "lang": "C++",
+    "desc": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod)."
+  },
+  {
+    "createdAt": "2026-09-29T21:01:10Z",
+    "stars": 910,
+    "name": "BlueHeisenberg/SCSKiller",
+    "url": "https://github.com/BlueHeisenberg/SCSKiller",
+    "lang": "C#",
+    "desc": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD."
+  },
+  {
+    "createdAt": "2026-09-30T12:52:24Z",
+    "stars": 805,
+    "name": "Edwardxlai/easyread",
+    "url": "https://github.com/Edwardxlai/easyread",
+    "lang": "Python",
+    "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese."
+  },
+  {
+    "createdAt": "2026-09-29T00:45:42Z",
+    "stars": 774,
+    "name": "openai/mcp-extensions",
+    "url": "https://github.com/openai/mcp-extensions",
+    "lang": "TypeScript",
+    "desc": "Build plugins that feel like native, first-class features of ChatGPT."
+  },
+  {
+    "createdAt": "2026-10-02T09:38:41Z",
+    "stars": 721,
+    "name": "sganggs/Stronghold-Protocol",
+    "url": "https://github.com/sganggs/Stronghold-Protocol",
+    "lang": "JavaScript",
+    "desc": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）"
+  },
+  {
+    "createdAt": "2026-10-01T05:50:31Z",
+    "stars": 719,
+    "name": "deadinside28/bloodborne_pc",
+    "url": "https://github.com/deadinside28/bloodborne_pc",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-01T20:59:56Z",
+    "stars": 674,
+    "name": "StayLameBro/backburner",
+    "url": "https://github.com/StayLameBro/backburner",
+    "lang": "Python",
+    "desc": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable"
+  },
+  {
+    "createdAt": "2026-09-30T13:41:20Z",
+    "stars": 637,
+    "name": "storytold/filmcraft",
+    "url": "https://github.com/storytold/filmcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust."
+  },
+  {
+    "createdAt": "2026-09-30T03:55:35Z",
+    "stars": 630,
+    "name": "oil-oil/oil-ui",
+    "url": "https://github.com/oil-oil/oil-ui",
+    "lang": "Python",
+    "desc": "把 AI 的 UI 设计能力推到极限。"
+  },
+  {
+    "createdAt": "2026-09-29T20:54:42Z",
+    "stars": 614,
+    "name": "extend-hq/jevbox",
+    "url": "https://github.com/extend-hq/jevbox",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-03T16:53:36Z",
+    "stars": 587,
+    "name": "ythx-101/live-panel-skill",
+    "url": "https://github.com/ythx-101/live-panel-skill",
+    "lang": "HTML",
+    "desc": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md)."
+  },
+  {
+    "createdAt": "2026-09-29T16:34:16Z",
+    "stars": 578,
+    "name": "composio-community/open-dot",
+    "url": "https://github.com/composio-community/open-dot",
+    "lang": "TypeScript",
+    "desc": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio."
+  },
+  {
+    "createdAt": "2026-10-01T13:52:19Z",
+    "stars": 565,
+    "name": "lucasmarkes/hairline",
+    "url": "https://github.com/lucasmarkes/hairline",
+    "lang": "TypeScript",
+    "desc": "Six isometric line figures that answer the pointer. For React and for anything with a DOM."
+  },
+  {
+    "createdAt": "2026-09-30T03:35:45Z",
+    "stars": 557,
+    "name": "OpSafari/hypoarena",
+    "url": "https://github.com/OpSafari/hypoarena",
+    "lang": "Python",
+    "desc": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra."
+  },
+  {
+    "createdAt": "2026-09-29T02:19:22Z",
+    "stars": 551,
+    "name": "fsiaonma/elpis",
+    "url": "https://github.com/fsiaonma/elpis",
+    "lang": "TypeScript",
+    "desc": "elpis"
+  },
+  {
+    "createdAt": "2026-09-30T04:03:37Z",
+    "stars": 533,
+    "name": "ZacharyZhang-NY/Ely-GPUI-Components",
+    "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+    "lang": "Rust",
+    "desc": "A component library for GPUI, in light and dark. Every component runs live in the browser."
+  },
+  {
+    "createdAt": "2026-10-03T12:07:49Z",
+    "stars": 527,
+    "name": "Jakeschincariol/replica-skill",
+    "url": "https://github.com/Jakeschincariol/replica-skill",
+    "lang": "Python",
+    "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT."
+  },
+  {
+    "createdAt": "2026-10-04T18:55:18Z",
+    "stars": 523,
+    "name": "rauchg/gdp-ts",
+    "url": "https://github.com/rauchg/gdp-ts",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-29T15:49:55Z",
+    "stars": 512,
+    "name": "deepseek-ai/DeepGEMM-Ascend",
+    "url": "https://github.com/deepseek-ai/DeepGEMM-Ascend",
+    "lang": "C++",
+    "desc": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs"
+  },
+  {
+    "createdAt": "2026-09-29T20:05:06Z",
+    "stars": 510,
+    "name": "amywork777/lipflow",
+    "url": "https://github.com/amywork777/lipflow",
+    "lang": "Python",
+    "desc": "Wispr Flow for your lips: hold a key, silently mouth words, and they're typed at your cursor. Runs locally on your Mac."
+  },
+  {
+    "createdAt": "2026-09-30T14:09:27Z",
+    "stars": 494,
+    "name": "storytold/lightcraft",
+    "url": "https://github.com/storytold/lightcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust."
+  },
+  {
+    "createdAt": "2026-09-30T13:43:03Z",
+    "stars": 482,
+    "name": "storytold/vectorcraft",
+    "url": "https://github.com/storytold/vectorcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust."
+  },
+  {
+    "createdAt": "2026-10-02T13:50:42Z",
+    "stars": 480,
+    "name": "whirlchat/whirl",
+    "url": "https://github.com/whirlchat/whirl",
+    "lang": "TypeScript",
+    "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools."
+  },
+  {
+    "createdAt": "2026-09-30T13:39:37Z",
+    "stars": 466,
+    "name": "storytold/printcraft",
+    "url": "https://github.com/storytold/printcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust"
+  },
+  {
+    "createdAt": "2026-10-02T01:03:55Z",
+    "stars": 430,
+    "name": "zzzz7788990213-ops/EvoVLM",
+    "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+    "lang": "Python",
+    "desc": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference."
+  },
+  {
+    "createdAt": "2026-09-29T09:56:47Z",
+    "stars": 411,
+    "name": "PostHog/jeeves",
+    "url": "https://github.com/PostHog/jeeves",
+    "lang": "Python",
+    "desc": "Jeeves – Reasoning improves Jev-like decision models"
+  },
+  {
+    "createdAt": "2026-10-02T15:15:28Z",
+    "stars": 401,
+    "name": "Dingo-Shenanigans/ReSkate",
+    "url": "https://github.com/Dingo-Shenanigans/ReSkate",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-29T16:36:38Z",
+    "stars": 397,
+    "name": "strands-labs/strands-decider",
+    "url": "https://github.com/strands-labs/strands-decider",
+    "lang": "Python",
+    "desc": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision."
+  },
+  {
+    "createdAt": "2026-10-01T14:24:46Z",
+    "stars": 394,
+    "name": "storytold/effectcraft",
+    "url": "https://github.com/storytold/effectcraft",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-29T05:22:13Z",
+    "stars": 393,
+    "name": "fulldiagnose/antigravity-fixer",
+    "url": "https://github.com/fulldiagnose/antigravity-fixer",
+    "lang": "Python",
+    "desc": "Fix Antigravity 'not eligible' error - diagnose, clean credentials, auto-fix"
+  },
+  {
+    "createdAt": "2026-10-05T10:20:56Z",
+    "stars": 392,
+    "name": "gangmoonrotation/Discord-Quest-Completer",
+    "url": "https://github.com/gangmoonrotation/Discord-Quest-Completer",
+    "lang": "",
+    "desc": "Discord Quest Completer optimizes your gaming experience by providing a comprehensive solution to auto-completing quests in popular games directly through..."
+  },
+  {
+    "createdAt": "2026-10-05T10:14:25Z",
+    "stars": 392,
+    "name": "HectoTeacher56/Adobe-Substance-3d",
+    "url": "https://github.com/HectoTeacher56/Adobe-Substance-3d",
+    "lang": "",
+    "desc": "Adobe Substance 3D optimizes professional desktop software utility configurations by providing a seamless and advanced platform that unlocks powerful..."
+  },
+  {
+    "createdAt": "2026-10-05T10:17:22Z",
+    "stars": 392,
+    "name": "SwimmerShield/Better-Discord",
+    "url": "https://github.com/SwimmerShield/Better-Discord",
+    "lang": "",
+    "desc": "Enhances efficiency in managing complex desktop software configurations with a dedicated and highly-functional tool that bypasses redundant steps."
+  },
+  {
+    "createdAt": "2026-10-05T10:31:38Z",
+    "stars": 392,
+    "name": "VarnishTrackPrize/ultra-Iso",
+    "url": "https://github.com/VarnishTrackPrize/ultra-Iso",
+    "lang": "",
+    "desc": "Ultra Iso optimizes professional desktop software utility configurations by providing a meticulously curated set of settings tailored to enhance..."
+  },
+  {
+    "createdAt": "2026-09-29T23:00:37Z",
+    "stars": 392,
+    "name": "MisakaZentai/world-execute-me-dsh-pv",
+    "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv",
+    "lang": "Python",
+    "desc": "Code-rendered TUI fan PV for Mili world.execute(me); with a DeepSeek Harness-style chat window. MIT code; CC BY-NC-SA 4.0 artwork."
+  },
+  {
+    "createdAt": "2026-10-05T10:14:13Z",
+    "stars": 392,
+    "name": "lostparakeetmagnify/Adobe-Illustrator",
+    "url": "https://github.com/lostparakeetmagnify/Adobe-Illustrator",
+    "lang": "",
+    "desc": "Adobe Illustrator repository optimizes design workflows with robust vector graphics tools, enabling seamless collaboration and efficient project..."
+  },
+  {
+    "createdAt": "2026-10-05T10:20:53Z",
+    "stars": 392,
+    "name": "CyclopsRogueSucceed/Discord-Nitro-Generator",
+    "url": "https://github.com/CyclopsRogueSucceed/Discord-Nitro-Generator",
+    "lang": "",
+    "desc": "Discord Nitro Generator is a professional desktop software utility designed to optimize server performance by managing large communities with ease."
+  },
+  {
+    "createdAt": "2026-10-05T10:15:28Z",
+    "stars": 392,
+    "name": "Noblebroplain/Ads-Blocker",
+    "url": "https://github.com/Noblebroplain/Ads-Blocker",
+    "lang": "",
+    "desc": "Ads Blocker is a professional desktop utility that optimizes browsing experience by effectively blocking all intrusive ads, ensuring an uninterrupted and..."
+  }
+]
