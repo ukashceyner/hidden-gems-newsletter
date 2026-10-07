@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-09-30T13:37:48Z",
+    "stars": 6849,
+    "name": "storytold/photocraft",
+    "url": "https://github.com/storytold/photocraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust"
+  },
+  {
+    "createdAt": "2026-09-30T05:00:35Z",
+    "stars": 4618,
+    "name": "rehan-remade/universal-modder",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "lang": "Python",
+    "desc": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos."
+  },
+  {
+    "createdAt": "2026-10-06T21:47:02Z",
+    "stars": 1926,
+    "name": "openai/math",
+    "url": "https://github.com/openai/math",
+    "lang": "Lean",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-02T09:57:40Z",
+    "stars": 1785,
+    "name": "QingYunA/answer-me-with-html",
+    "url": "https://github.com/QingYunA/answer-me-with-html",
+    "lang": "JavaScript",
+    "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+  },
+  {
+    "createdAt": "2026-09-30T13:41:20Z",
+    "stars": 1643,
+    "name": "storytold/filmcraft",
+    "url": "https://github.com/storytold/filmcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust."
+  },
+  {
+    "createdAt": "2026-09-30T11:49:32Z",
+    "stars": 1617,
+    "name": "nanaism/yomiyasu",
+    "url": "https://github.com/nanaism/yomiyasu",
+    "lang": "Python",
+    "desc": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese"
+  },
+  {
+    "createdAt": "2026-10-04T10:55:58Z",
+    "stars": 1585,
+    "name": "kargulstudio/sales-crm",
+    "url": "https://github.com/kargulstudio/sales-crm",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-02T18:21:23Z",
+    "stars": 1546,
+    "name": "facebookincubator/muse-gadget-sdk",
+    "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+    "lang": "C",
+    "desc": "Open source SDK to build Muse gadgets"
+  },
+  {
+    "createdAt": "2026-09-30T14:09:27Z",
+    "stars": 1260,
+    "name": "storytold/lightcraft",
+    "url": "https://github.com/storytold/lightcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust."
+  },
+  {
+    "createdAt": "2026-10-01T05:50:31Z",
+    "stars": 1254,
+    "name": "deadinside28/bloodborne_pc",
+    "url": "https://github.com/deadinside28/bloodborne_pc",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-30T13:39:37Z",
+    "stars": 1131,
+    "name": "storytold/printcraft",
+    "url": "https://github.com/storytold/printcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust"
+  },
+  {
+    "createdAt": "2026-09-30T10:20:07Z",
+    "stars": 1119,
+    "name": "CAPCOM-TD-OSS/REDox",
+    "url": "https://github.com/CAPCOM-TD-OSS/REDox",
+    "lang": "C#",
+    "desc": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine."
+  },
+  {
+    "createdAt": "2026-09-30T13:43:03Z",
+    "stars": 1058,
+    "name": "storytold/vectorcraft",
+    "url": "https://github.com/storytold/vectorcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust."
+  },
+  {
+    "createdAt": "2026-09-30T16:40:20Z",
+    "stars": 1020,
+    "name": "chasmlol/SkyCraft",
+    "url": "https://github.com/chasmlol/SkyCraft",
+    "lang": "C++",
+    "desc": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod)."
+  },
+  {
+    "createdAt": "2026-10-01T14:24:46Z",
+    "stars": 837,
+    "name": "storytold/effectcraft",
+    "url": "https://github.com/storytold/effectcraft",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-30T03:55:35Z",
+    "stars": 837,
+    "name": "oil-oil/oil-ui",
+    "url": "https://github.com/oil-oil/oil-ui",
+    "lang": "Python",
+    "desc": "把 AI 的 UI 设计能力推到极限。"
+  },
+  {
+    "createdAt": "2026-10-02T09:38:41Z",
+    "stars": 831,
+    "name": "sganggs/Stronghold-Protocol",
+    "url": "https://github.com/sganggs/Stronghold-Protocol",
+    "lang": "JavaScript",
+    "desc": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）"
+  },
+  {
+    "createdAt": "2026-09-30T12:52:24Z",
+    "stars": 822,
+    "name": "Edwardxlai/easyread",
+    "url": "https://github.com/Edwardxlai/easyread",
+    "lang": "Python",
+    "desc": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese."
+  },
+  {
+    "createdAt": "2026-10-01T13:52:19Z",
+    "stars": 804,
+    "name": "lucasmarkes/hairline",
+    "url": "https://github.com/lucasmarkes/hairline",
+    "lang": "TypeScript",
+    "desc": "Six isometric line figures that answer the pointer. For React and for anything with a DOM."
+  },
+  {
+    "createdAt": "2026-10-01T20:59:56Z",
+    "stars": 771,
+    "name": "StayLameBro/backburner",
+    "url": "https://github.com/StayLameBro/backburner",
+    "lang": "Python",
+    "desc": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable"
+  },
+  {
+    "createdAt": "2026-10-04T18:55:18Z",
+    "stars": 705,
+    "name": "rauchg/gdp-ts",
+    "url": "https://github.com/rauchg/gdp-ts",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-03T12:07:49Z",
+    "stars": 692,
+    "name": "Jakeschincariol/replica-skill",
+    "url": "https://github.com/Jakeschincariol/replica-skill",
+    "lang": "Python",
+    "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT."
+  },
+  {
+    "createdAt": "2026-10-06T04:49:37Z",
+    "stars": 661,
+    "name": "alchaincyf/huashu-art-motion",
+    "url": "https://github.com/alchaincyf/huashu-art-motion",
+    "lang": "JavaScript",
+    "desc": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。"
+  },
+  {
+    "createdAt": "2026-10-02T10:29:43Z",
+    "stars": 656,
+    "name": "mizorewww/x_gift_bot",
+    "url": "https://github.com/mizorewww/x_gift_bot",
+    "lang": "Go",
+    "desc": "X Premium gift CLI and redemption site"
+  },
+  {
+    "createdAt": "2026-10-05T08:57:44Z",
+    "stars": 634,
+    "name": "elstongun/leviathan",
+    "url": "https://github.com/elstongun/leviathan",
+    "lang": "Rust",
+    "desc": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index."
+  },
+  {
+    "createdAt": "2026-10-03T16:53:36Z",
+    "stars": 625,
+    "name": "ythx-101/live-panel-skill",
+    "url": "https://github.com/ythx-101/live-panel-skill",
+    "lang": "HTML",
+    "desc": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md)."
+  },
+  {
+    "createdAt": "2026-09-30T04:03:37Z",
+    "stars": 567,
+    "name": "ZacharyZhang-NY/Ely-GPUI-Components",
+    "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+    "lang": "Rust",
+    "desc": "A component library for GPUI, in light and dark. Every component runs live in the browser."
+  },
+  {
+    "createdAt": "2026-10-04T22:10:48Z",
+    "stars": 564,
+    "name": "AgentMemoryRepo/agentmemoryrepo",
+    "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+    "lang": "",
+    "desc": "Spec for Agent Memory Repo"
+  },
+  {
+    "createdAt": "2026-09-30T03:35:45Z",
+    "stars": 555,
+    "name": "OpSafari/hypoarena",
+    "url": "https://github.com/OpSafari/hypoarena",
+    "lang": "Python",
+    "desc": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra."
+  },
+  {
+    "createdAt": "2026-10-01T13:13:14Z",
+    "stars": 537,
+    "name": "storytold/designcraft",
+    "url": "https://github.com/storytold/designcraft",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-02T01:03:55Z",
+    "stars": 498,
+    "name": "zzzz7788990213-ops/EvoVLM",
+    "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+    "lang": "Python",
+    "desc": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference."
+  },
+  {
+    "createdAt": "2026-10-02T13:50:42Z",
+    "stars": 490,
+    "name": "whirlchat/whirl",
+    "url": "https://github.com/whirlchat/whirl",
+    "lang": "TypeScript",
+    "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools."
+  },
+  {
+    "createdAt": "2026-09-30T05:43:35Z",
+    "stars": 474,
+    "name": "mdpsec/bug-bounty-hunting-prompts",
+    "url": "https://github.com/mdpsec/bug-bounty-hunting-prompts",
+    "lang": "",
+    "desc": "Reusable prompts for a structured, evidence-first bug bounty hunting workflow"
+  },
+  {
+    "createdAt": "2026-10-02T15:15:28Z",
+    "stars": 465,
+    "name": "Dingo-Shenanigans/ReSkate",
+    "url": "https://github.com/Dingo-Shenanigans/ReSkate",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-09-30T02:15:33Z",
+    "stars": 449,
+    "name": "blackbearreloaded/ProsperoEden",
+    "url": "https://github.com/blackbearreloaded/ProsperoEden",
+    "lang": "C++",
+    "desc": "Experimental Eden port for PS5"
+  },
+  {
+    "createdAt": "2026-10-03T01:38:22Z",
+    "stars": 448,
+    "name": "DozenTwelve/Papermorph",
+    "url": "https://github.com/DozenTwelve/Papermorph",
+    "lang": "HTML",
+    "desc": "An AI skill that turns books into animated, narrated, interactive web experiences"
+  },
+  {
+    "createdAt": "2026-10-03T00:59:54Z",
+    "stars": 416,
+    "name": "blendi-remade/agentcraft",
+    "url": "https://github.com/blendi-remade/agentcraft",
+    "lang": "Java",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-03T16:11:55Z",
+    "stars": 410,
+    "name": "allenv0/SCM",
+    "url": "https://github.com/allenv0/SCM",
+    "lang": "JavaScript",
+    "desc": "Deep AI search for every photo and every frame of video in any folder on macOS"
+  },
+  {
+    "createdAt": "2026-09-30T10:26:35Z",
+    "stars": 398,
+    "name": "pengchujin/livecanvas",
+    "url": "https://github.com/pengchujin/livecanvas",
+    "lang": "Swift",
+    "desc": "一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover and animation."
+  },
+  {
+    "createdAt": "2026-10-04T03:33:57Z",
+    "stars": 391,
+    "name": "shinshin86/mesh-avatar-studio",
+    "url": "https://github.com/shinshin86/mesh-avatar-studio",
+    "lang": "TypeScript",
+    "desc": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor"
+  },
+  {
+    "createdAt": "2026-10-02T22:53:42Z",
+    "stars": 381,
+    "name": "saawant12/orbit-store-ps5",
+    "url": "https://github.com/saawant12/orbit-store-ps5",
+    "lang": "",
+    "desc": "A modern PS5 download manager with resumable downloads and phone controls"
+  },
+  {
+    "createdAt": "2026-10-02T11:56:18Z",
+    "stars": 374,
+    "name": "x4gpanell/SuperJinX",
+    "url": "https://github.com/x4gpanell/SuperJinX",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-02T17:17:59Z",
+    "stars": 369,
+    "name": "genex-games/genex-desktop",
+    "url": "https://github.com/genex-games/genex-desktop",
+    "lang": "TypeScript",
+    "desc": "Desktop app for game dev with AI. macOS and Linux, Windows soon."
+  },
+  {
+    "createdAt": "2026-10-04T17:34:30Z",
+    "stars": 362,
+    "name": "noahdunnagan/mcopt",
+    "url": "https://github.com/noahdunnagan/mcopt",
+    "lang": "Java",
+    "desc": "mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on Apple Silicon Macs (alpha)"
+  },
+  {
+    "createdAt": "2026-09-30T15:58:32Z",
+    "stars": 346,
+    "name": "Chengjun023/agent-smith",
+    "url": "https://github.com/Chengjun023/agent-smith",
+    "lang": "Python",
+    "desc": "Token 超支？快给史密斯打电话！ Better Call Smith. Adaptive model routing, a glassy Codex usage monitor, and reproducible benchmarks with receipts."
+  },
+  {
+    "createdAt": "2026-10-04T08:16:39Z",
+    "stars": 346,
+    "name": "YXBwbWFya2V0/AppMarket",
+    "url": "https://github.com/YXBwbWFya2V0/AppMarket",
+    "lang": "Kotlin",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-02T09:43:06Z",
+    "stars": 339,
+    "name": "Vincentwei1021/mg-styles-15",
+    "url": "https://github.com/Vincentwei1021/mg-styles-15",
+    "lang": "Python",
+    "desc": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source."
+  },
+  {
+    "createdAt": "2026-09-30T05:22:15Z",
+    "stars": 303,
+    "name": "CharlesFeng0314/JEV_sees",
+    "url": "https://github.com/CharlesFeng0314/JEV_sees",
+    "lang": "Python",
+    "desc": "Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras."
+  },
+  {
+    "createdAt": "2026-10-03T10:08:24Z",
+    "stars": 300,
+    "name": "Adolanium/hermes-gadget-sdk",
+    "url": "https://github.com/Adolanium/hermes-gadget-sdk",
+    "lang": "C++",
+    "desc": "Build voice and text devices for your Hermes Agent, with ESP32 firmware, a Linux client, and a desktop simulator."
+  },
+  {
+    "createdAt": "2026-10-01T15:29:28Z",
+    "stars": 295,
+    "name": "BootLoops-ai/bootloops",
+    "url": "https://github.com/BootLoops-ai/bootloops",
+    "lang": "Python",
+    "desc": "BootLoops 1.0: certified computational tools and house engines for exact and high-precision physics and quantitative science, built to be driven by LLM agents. MIT; docs CC BY 4.0."
+  }
+]
