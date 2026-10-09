@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-10-06T21:47:02Z",
+    "stars": 12145,
+    "name": "openai/math",
+    "url": "https://github.com/openai/math",
+    "lang": "Lean",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-06T04:49:37Z",
+    "stars": 2468,
+    "name": "alchaincyf/huashu-art-motion",
+    "url": "https://github.com/alchaincyf/huashu-art-motion",
+    "lang": "JavaScript",
+    "desc": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。"
+  },
+  {
+    "createdAt": "2026-10-02T09:57:40Z",
+    "stars": 2326,
+    "name": "QingYunA/answer-me-with-html",
+    "url": "https://github.com/QingYunA/answer-me-with-html",
+    "lang": "JavaScript",
+    "desc": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。"
+  },
+  {
+    "createdAt": "2026-10-02T18:21:23Z",
+    "stars": 1798,
+    "name": "facebookincubator/muse-gadget-sdk",
+    "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+    "lang": "C",
+    "desc": "Open source SDK to build Muse gadgets"
+  },
+  {
+    "createdAt": "2026-10-04T10:55:58Z",
+    "stars": 1658,
+    "name": "kargulstudio/sales-crm",
+    "url": "https://github.com/kargulstudio/sales-crm",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-07T08:13:12Z",
+    "stars": 1114,
+    "name": "nullmoth/nvidia-macos-driver",
+    "url": "https://github.com/nullmoth/nvidia-macos-driver",
+    "lang": "Rust",
+    "desc": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included."
+  },
+  {
+    "createdAt": "2026-10-03T12:07:49Z",
+    "stars": 1091,
+    "name": "Jakeschincariol/replica-skill",
+    "url": "https://github.com/Jakeschincariol/replica-skill",
+    "lang": "Python",
+    "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT."
+  },
+  {
+    "createdAt": "2026-10-02T10:29:43Z",
+    "stars": 1084,
+    "name": "mizorewww/x_gift_bot",
+    "url": "https://github.com/mizorewww/x_gift_bot",
+    "lang": "Go",
+    "desc": "X Premium gift CLI and redemption site"
+  },
+  {
+    "createdAt": "2026-10-07T01:29:54Z",
+    "stars": 1018,
+    "name": "alejandrobujan/tendedero",
+    "url": "https://github.com/alejandrobujan/tendedero",
+    "lang": "Swift",
+    "desc": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen."
+  },
+  {
+    "createdAt": "2026-10-02T09:38:41Z",
+    "stars": 1004,
+    "name": "sganggs/Stronghold-Protocol",
+    "url": "https://github.com/sganggs/Stronghold-Protocol",
+    "lang": "JavaScript",
+    "desc": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）"
+  },
+  {
+    "createdAt": "2026-10-07T09:33:31Z",
+    "stars": 998,
+    "name": "LoreanXavier/pt-pc",
+    "url": "https://github.com/LoreanXavier/pt-pc",
+    "lang": "C++",
+    "desc": "Native PC port of P.T. (runs from your own PS4 game files)"
+  },
+  {
+    "createdAt": "2026-10-07T08:34:24Z",
+    "stars": 840,
+    "name": "storytold/wordcraft",
+    "url": "https://github.com/storytold/wordcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
+  },
+  {
+    "createdAt": "2026-10-08T05:33:06Z",
+    "stars": 796,
+    "name": "mhtsec/ARTEX",
+    "url": "https://github.com/mhtsec/ARTEX",
+    "lang": "Go",
+    "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目"
+  },
+  {
+    "createdAt": "2026-10-07T05:22:31Z",
+    "stars": 780,
+    "name": "storytold/cadcraft",
+    "url": "https://github.com/storytold/cadcraft",
+    "lang": "Rust",
+    "desc": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
+  },
+  {
+    "createdAt": "2026-10-04T18:55:18Z",
+    "stars": 761,
+    "name": "rauchg/gdp-ts",
+    "url": "https://github.com/rauchg/gdp-ts",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-07T08:37:15Z",
+    "stars": 729,
+    "name": "shadany7824/playgta5",
+    "url": "https://github.com/shadany7824/playgta5",
+    "lang": "JavaScript",
+    "desc": "A source code for playgta5.com."
+  },
+  {
+    "createdAt": "2026-10-07T05:17:07Z",
+    "stars": 701,
+    "name": "pingdotgg/ts-rust",
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "lang": "Rust",
+    "desc": "An experimental Rust port of the TypeScript 7 compiler (tsc)"
+  },
+  {
+    "createdAt": "2026-10-06T20:14:19Z",
+    "stars": 699,
+    "name": "LosaLosSantos/aurelio-finance",
+    "url": "https://github.com/LosaLosSantos/aurelio-finance",
+    "lang": "Python",
+    "desc": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React."
+  },
+  {
+    "createdAt": "2026-10-03T14:49:48Z",
+    "stars": 697,
+    "name": "jiwoochris/artex-ko",
+    "url": "https://github.com/jiwoochris/artex-ko",
+    "lang": "Go",
+    "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)"
+  },
+  {
+    "createdAt": "2026-10-05T08:57:44Z",
+    "stars": 695,
+    "name": "elstongun/leviathan",
+    "url": "https://github.com/elstongun/leviathan",
+    "lang": "Rust",
+    "desc": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index."
+  },
+  {
+    "createdAt": "2026-10-03T16:53:36Z",
+    "stars": 659,
+    "name": "ythx-101/live-panel-skill",
+    "url": "https://github.com/ythx-101/live-panel-skill",
+    "lang": "HTML",
+    "desc": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md)."
+  },
+  {
+    "createdAt": "2026-10-04T22:10:48Z",
+    "stars": 649,
+    "name": "AgentMemoryRepo/agentmemoryrepo",
+    "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+    "lang": "",
+    "desc": "Spec for Agent Memory Repo"
+  },
+  {
+    "createdAt": "2026-10-02T15:15:28Z",
+    "stars": 645,
+    "name": "Dingo-Shenanigans/ReSkate",
+    "url": "https://github.com/Dingo-Shenanigans/ReSkate",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-07T06:48:54Z",
+    "stars": 603,
+    "name": "bas3line/ascii",
+    "url": "https://github.com/bas3line/ascii",
+    "lang": "TypeScript",
+    "desc": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag"
+  },
+  {
+    "createdAt": "2026-10-03T01:38:22Z",
+    "stars": 585,
+    "name": "DozenTwelve/Papermorph",
+    "url": "https://github.com/DozenTwelve/Papermorph",
+    "lang": "HTML",
+    "desc": "An AI skill that turns books into animated, narrated, interactive web experiences"
+  },
+  {
+    "createdAt": "2026-10-03T00:59:54Z",
+    "stars": 584,
+    "name": "blendi-remade/agentcraft",
+    "url": "https://github.com/blendi-remade/agentcraft",
+    "lang": "Java",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-07T05:18:16Z",
+    "stars": 574,
+    "name": "storytold/gridcraft",
+    "url": "https://github.com/storytold/gridcraft",
+    "lang": "Rust",
+    "desc": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft."
+  },
+  {
+    "createdAt": "2026-10-05T11:03:06Z",
+    "stars": 558,
+    "name": "szabadkai/c64-keyboard-font",
+    "url": "https://github.com/szabadkai/c64-keyboard-font",
+    "lang": "Python",
+    "desc": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen."
+  },
+  {
+    "createdAt": "2026-10-07T08:31:31Z",
+    "stars": 552,
+    "name": "storytold/soundcraft",
+    "url": "https://github.com/storytold/soundcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust"
+  },
+  {
+    "createdAt": "2026-10-04T05:57:06Z",
+    "stars": 535,
+    "name": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+    "url": "https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+    "lang": "Python",
+    "desc": "Real-time browser demo for Talk Like You"
+  },
+  {
+    "createdAt": "2026-10-02T01:03:55Z",
+    "stars": 508,
+    "name": "zzzz7788990213-ops/EvoVLM",
+    "url": "https://github.com/zzzz7788990213-ops/EvoVLM",
+    "lang": "Python",
+    "desc": "Evolving Multimodal Inference Programs: LLM-guided evolutionary search for accurate and efficient vision-language inference."
+  },
+  {
+    "createdAt": "2026-10-04T03:33:57Z",
+    "stars": 507,
+    "name": "shinshin86/mesh-avatar-studio",
+    "url": "https://github.com/shinshin86/mesh-avatar-studio",
+    "lang": "TypeScript",
+    "desc": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor"
+  },
+  {
+    "createdAt": "2026-10-02T13:50:42Z",
+    "stars": 502,
+    "name": "whirlchat/whirl",
+    "url": "https://github.com/whirlchat/whirl",
+    "lang": "TypeScript",
+    "desc": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools."
+  },
+  {
+    "createdAt": "2026-10-02T09:43:06Z",
+    "stars": 489,
+    "name": "Vincentwei1021/mg-styles-15",
+    "url": "https://github.com/Vincentwei1021/mg-styles-15",
+    "lang": "Python",
+    "desc": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source."
+  },
+  {
+    "createdAt": "2026-10-07T05:27:21Z",
+    "stars": 483,
+    "name": "storytold/deckcraft",
+    "url": "https://github.com/storytold/deckcraft",
+    "lang": "Rust",
+    "desc": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps."
+  },
+  {
+    "createdAt": "2026-10-08T17:50:33Z",
+    "stars": 483,
+    "name": "noahdunnagan/fsearch",
+    "url": "https://github.com/noahdunnagan/fsearch",
+    "lang": "Rust",
+    "desc": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files."
+  },
+  {
+    "createdAt": "2026-10-02T22:53:42Z",
+    "stars": 472,
+    "name": "saawant12/orbit-store-ps5",
+    "url": "https://github.com/saawant12/orbit-store-ps5",
+    "lang": "",
+    "desc": "A modern PS5 download manager with resumable downloads and phone controls"
+  },
+  {
+    "createdAt": "2026-10-05T15:15:13Z",
+    "stars": 466,
+    "name": "GTKottman/mortiflix-oss",
+    "url": "https://github.com/GTKottman/mortiflix-oss",
+    "lang": "JavaScript",
+    "desc": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key."
+  },
+  {
+    "createdAt": "2026-10-02T17:17:59Z",
+    "stars": 461,
+    "name": "genex-games/genex-desktop",
+    "url": "https://github.com/genex-games/genex-desktop",
+    "lang": "TypeScript",
+    "desc": "Desktop app for game dev with AI. macOS and Linux, Windows soon."
+  },
+  {
+    "createdAt": "2026-10-03T16:11:55Z",
+    "stars": 446,
+    "name": "allenv0/SCM",
+    "url": "https://github.com/allenv0/SCM",
+    "lang": "JavaScript",
+    "desc": "Deep AI search for every photo and every frame of video in any folder on macOS"
+  },
+  {
+    "createdAt": "2026-10-02T06:19:06Z",
+    "stars": 425,
+    "name": "openqodex/openqodex",
+    "url": "https://github.com/openqodex/openqodex",
+    "lang": "TypeScript",
+    "desc": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on the lines you changed, then a separate reviewer process that checks every scanner finding and is given every changed line. No other API key."
+  },
+  {
+    "createdAt": "2026-10-02T11:56:18Z",
+    "stars": 412,
+    "name": "x4gpanell/SuperJinX",
+    "url": "https://github.com/x4gpanell/SuperJinX",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-04T17:34:30Z",
+    "stars": 402,
+    "name": "noahdunnagan/mcopt",
+    "url": "https://github.com/noahdunnagan/mcopt",
+    "lang": "Java",
+    "desc": "mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on Apple Silicon Macs (alpha)"
+  },
+  {
+    "createdAt": "2026-10-06T15:09:33Z",
+    "stars": 381,
+    "name": "zhongerxin/iPhone-use",
+    "url": "https://github.com/zhongerxin/iPhone-use",
+    "lang": "Python",
+    "desc": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。"
+  },
+  {
+    "createdAt": "2026-10-04T08:16:39Z",
+    "stars": 379,
+    "name": "YXBwbWFya2V0/AppMarket",
+    "url": "https://github.com/YXBwbWFya2V0/AppMarket",
+    "lang": "Kotlin",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-03T11:48:59Z",
+    "stars": 362,
+    "name": "trevaintdead/ai-game-modding-guides",
+    "url": "https://github.com/trevaintdead/ai-game-modding-guides",
+    "lang": "",
+    "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting."
+  },
+  {
+    "createdAt": "2026-10-02T12:09:30Z",
+    "stars": 341,
+    "name": "hugelton/Felucca",
+    "url": "https://github.com/hugelton/Felucca",
+    "lang": "C",
+    "desc": "Custom firmware for M-VAVE FM-1"
+  },
+  {
+    "createdAt": "2026-10-07T11:44:07Z",
+    "stars": 336,
+    "name": "gr8rstudio/gr8r-studio",
+    "url": "https://github.com/gr8rstudio/gr8r-studio",
+    "lang": "JavaScript",
+    "desc": "Gr8r Studio: a calm, structured project management workspace. Vite + plain ES modules."
+  },
+  {
+    "createdAt": "2026-10-03T10:08:24Z",
+    "stars": 336,
+    "name": "Adolanium/hermes-gadget-sdk",
+    "url": "https://github.com/Adolanium/hermes-gadget-sdk",
+    "lang": "C++",
+    "desc": "Build voice and text devices for your Hermes Agent, with ESP32 firmware, a Linux client, and a desktop simulator."
+  },
+  {
+    "createdAt": "2026-10-02T20:52:53Z",
+    "stars": 335,
+    "name": "gatewai-dev/framefields",
+    "url": "https://github.com/gatewai-dev/framefields",
+    "lang": "TypeScript",
+    "desc": "Code-first video, rendered natively on WebGPU."
+  }
+]
