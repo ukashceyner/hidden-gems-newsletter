@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-10-06T21:47:02Z",
+    "stars": 13088,
+    "name": "openai/math",
+    "url": "https://github.com/openai/math",
+    "lang": "Lean",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-06T04:49:37Z",
+    "stars": 2883,
+    "name": "alchaincyf/huashu-art-motion",
+    "url": "https://github.com/alchaincyf/huashu-art-motion",
+    "lang": "JavaScript",
+    "desc": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。"
+  },
+  {
+    "createdAt": "2026-10-08T05:33:06Z",
+    "stars": 2202,
+    "name": "mhtsec/ARTEX",
+    "url": "https://github.com/mhtsec/ARTEX",
+    "lang": "Go",
+    "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目"
+  },
+  {
+    "createdAt": "2026-10-07T08:34:24Z",
+    "stars": 1893,
+    "name": "storytold/wordcraft",
+    "url": "https://github.com/storytold/wordcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust"
+  },
+  {
+    "createdAt": "2026-10-07T08:13:12Z",
+    "stars": 1868,
+    "name": "nullmoth/nvidia-macos-driver",
+    "url": "https://github.com/nullmoth/nvidia-macos-driver",
+    "lang": "Rust",
+    "desc": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included."
+  },
+  {
+    "createdAt": "2026-10-06T15:09:33Z",
+    "stars": 1785,
+    "name": "zhongerxin/iPhone-use",
+    "url": "https://github.com/zhongerxin/iPhone-use",
+    "lang": "Python",
+    "desc": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。"
+  },
+  {
+    "createdAt": "2026-10-04T10:55:58Z",
+    "stars": 1676,
+    "name": "kargulstudio/sales-crm",
+    "url": "https://github.com/kargulstudio/sales-crm",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-06T20:14:19Z",
+    "stars": 1555,
+    "name": "LosaLosSantos/aurelio-finance",
+    "url": "https://github.com/LosaLosSantos/aurelio-finance",
+    "lang": "Python",
+    "desc": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer."
+  },
+  {
+    "createdAt": "2026-10-03T12:07:49Z",
+    "stars": 1384,
+    "name": "Jakeschincariol/replica-skill",
+    "url": "https://github.com/Jakeschincariol/replica-skill",
+    "lang": "Python",
+    "desc": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT."
+  },
+  {
+    "createdAt": "2026-10-07T05:22:31Z",
+    "stars": 1380,
+    "name": "storytold/cadcraft",
+    "url": "https://github.com/storytold/cadcraft",
+    "lang": "Rust",
+    "desc": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust"
+  },
+  {
+    "createdAt": "2026-10-07T09:33:31Z",
+    "stars": 1207,
+    "name": "LoreanXavier/pt-pc",
+    "url": "https://github.com/LoreanXavier/pt-pc",
+    "lang": "C++",
+    "desc": "Native PC port of P.T. (runs from your own PS4 game files)"
+  },
+  {
+    "createdAt": "2026-10-07T05:18:16Z",
+    "stars": 1193,
+    "name": "storytold/gridcraft",
+    "url": "https://github.com/storytold/gridcraft",
+    "lang": "Rust",
+    "desc": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft."
+  },
+  {
+    "createdAt": "2026-10-07T01:29:54Z",
+    "stars": 1184,
+    "name": "alejandrobujan/tendedero",
+    "url": "https://github.com/alejandrobujan/tendedero",
+    "lang": "Swift",
+    "desc": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen."
+  },
+  {
+    "createdAt": "2026-10-08T17:50:33Z",
+    "stars": 1179,
+    "name": "noahdunnagan/fsearch",
+    "url": "https://github.com/noahdunnagan/fsearch",
+    "lang": "Rust",
+    "desc": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files."
+  },
+  {
+    "createdAt": "2026-10-07T08:37:15Z",
+    "stars": 1020,
+    "name": "shadany7824/playgta5",
+    "url": "https://github.com/shadany7824/playgta5",
+    "lang": "JavaScript",
+    "desc": "A source code for playgta5.com."
+  },
+  {
+    "createdAt": "2026-10-07T05:27:21Z",
+    "stars": 973,
+    "name": "storytold/deckcraft",
+    "url": "https://github.com/storytold/deckcraft",
+    "lang": "Rust",
+    "desc": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps."
+  },
+  {
+    "createdAt": "2026-10-07T08:31:31Z",
+    "stars": 967,
+    "name": "storytold/soundcraft",
+    "url": "https://github.com/storytold/soundcraft",
+    "lang": "Rust",
+    "desc": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust"
+  },
+  {
+    "createdAt": "2026-10-03T14:49:48Z",
+    "stars": 857,
+    "name": "jiwoochris/artex-ko",
+    "url": "https://github.com/jiwoochris/artex-ko",
+    "lang": "Go",
+    "desc": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크 현지화 (upstream: Autumn-27/ARTEX, AGPL-3.0)"
+  },
+  {
+    "createdAt": "2026-10-07T05:17:07Z",
+    "stars": 818,
+    "name": "pingdotgg/ts-rust",
+    "url": "https://github.com/pingdotgg/ts-rust",
+    "lang": "Rust",
+    "desc": "An experimental Rust port of the TypeScript 7 compiler (tsc)"
+  },
+  {
+    "createdAt": "2026-10-04T18:55:18Z",
+    "stars": 770,
+    "name": "rauchg/gdp-ts",
+    "url": "https://github.com/rauchg/gdp-ts",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-05T08:57:44Z",
+    "stars": 711,
+    "name": "elstongun/leviathan",
+    "url": "https://github.com/elstongun/leviathan",
+    "lang": "Rust",
+    "desc": "Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index."
+  },
+  {
+    "createdAt": "2026-10-03T16:53:36Z",
+    "stars": 671,
+    "name": "ythx-101/live-panel-skill",
+    "url": "https://github.com/ythx-101/live-panel-skill",
+    "lang": "HTML",
+    "desc": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md)."
+  },
+  {
+    "createdAt": "2026-10-04T22:10:48Z",
+    "stars": 670,
+    "name": "AgentMemoryRepo/agentmemoryrepo",
+    "url": "https://github.com/AgentMemoryRepo/agentmemoryrepo",
+    "lang": "",
+    "desc": "Spec for Agent Memory Repo"
+  },
+  {
+    "createdAt": "2026-10-07T06:48:54Z",
+    "stars": 667,
+    "name": "bas3line/ascii",
+    "url": "https://github.com/bas3line/ascii",
+    "lang": "TypeScript",
+    "desc": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag"
+  },
+  {
+    "createdAt": "2026-10-03T00:59:54Z",
+    "stars": 655,
+    "name": "blendi-remade/agentcraft",
+    "url": "https://github.com/blendi-remade/agentcraft",
+    "lang": "Java",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-03T01:38:22Z",
+    "stars": 633,
+    "name": "DozenTwelve/Papermorph",
+    "url": "https://github.com/DozenTwelve/Papermorph",
+    "lang": "HTML",
+    "desc": "An AI skill that turns books into animated, narrated, interactive web experiences"
+  },
+  {
+    "createdAt": "2026-10-09T13:53:07Z",
+    "stars": 614,
+    "name": "KindStatesman/KMS-Pico",
+    "url": "https://github.com/KindStatesman/KMS-Pico",
+    "lang": "",
+    "desc": "Kms Pico Free optimizes your professional desktop environment by providing a tailored utility configuration that enhances workflow efficiency.' This..."
+  },
+  {
+    "createdAt": "2026-10-09T13:50:18Z",
+    "stars": 611,
+    "name": "VarnishSerpentBurn/Discord-Quest-Completer",
+    "url": "https://github.com/VarnishSerpentBurn/Discord-Quest-Completer",
+    "lang": "",
+    "desc": "Discord Quest Completer optimizes user experience by providing a comprehensive solution to automate and streamline repetitive tasks within popular quests..."
+  },
+  {
+    "createdAt": "2026-10-04T05:57:06Z",
+    "stars": 607,
+    "name": "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+    "url": "https://github.com/BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo",
+    "lang": "Python",
+    "desc": "Real-time browser demo for Talk Like You"
+  },
+  {
+    "createdAt": "2026-10-09T13:50:19Z",
+    "stars": 605,
+    "name": "navyofficerpipe/Discord-Server-Raider",
+    "url": "https://github.com/navyofficerpipe/Discord-Server-Raider",
+    "lang": "",
+    "desc": "Discord Server Raider\", an AI-driven solution designed to streamline server management tasks on GitHub without any mention of Apple or mobile devices; it..."
+  },
+  {
+    "createdAt": "2026-10-08T16:38:51Z",
+    "stars": 588,
+    "name": "ToiCF/CF-Workers-TGProxy",
+    "url": "https://github.com/ToiCF/CF-Workers-TGProxy",
+    "lang": "",
+    "desc": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。"
+  },
+  {
+    "createdAt": "2026-10-05T11:03:06Z",
+    "stars": 584,
+    "name": "szabadkai/c64-keyboard-font",
+    "url": "https://github.com/szabadkai/c64-keyboard-font",
+    "lang": "Python",
+    "desc": "Photo-based reconstruction of classic Commodore 64 keycap lettering, with desktop fonts, webfont, editable outlines, and a specimen."
+  },
+  {
+    "createdAt": "2026-10-07T05:10:45Z",
+    "stars": 577,
+    "name": "HelixDB/helix-foundry",
+    "url": "https://github.com/HelixDB/helix-foundry",
+    "lang": "TypeScript",
+    "desc": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB."
+  },
+  {
+    "createdAt": "2026-10-04T03:33:57Z",
+    "stars": 566,
+    "name": "shinshin86/mesh-avatar-studio",
+    "url": "https://github.com/shinshin86/mesh-avatar-studio",
+    "lang": "TypeScript",
+    "desc": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor"
+  },
+  {
+    "createdAt": "2026-10-08T17:44:43Z",
+    "stars": 528,
+    "name": "ThariqS/ai-newtab",
+    "url": "https://github.com/ThariqS/ai-newtab",
+    "lang": "TypeScript",
+    "desc": "Claude generates a daily new tab page based on your browser history."
+  },
+  {
+    "createdAt": "2026-10-09T13:44:57Z",
+    "stars": 510,
+    "name": "passrhymegazebo/AnyUnlock",
+    "url": "https://github.com/passrhymegazebo/AnyUnlock",
+    "lang": "",
+    "desc": "Anyunlock optimizes your workflow by providing a comprehensive desktop utility configuration that streamlines processes and boosts efficiency without..."
+  },
+  {
+    "createdAt": "2026-10-09T13:50:20Z",
+    "stars": 509,
+    "name": "Clawfitzfilter/Display-Fusion",
+    "url": "https://github.com/Clawfitzfilter/Display-Fusion",
+    "lang": "",
+    "desc": "Display Fusion optimizes desktop software utility configurations by providing a robust and efficient management system that enhances productivity without..."
+  },
+  {
+    "createdAt": "2026-10-09T13:58:25Z",
+    "stars": 504,
+    "name": "powderdiverpillar/Total-Commander",
+    "url": "https://github.com/powderdiverpillar/Total-Commander",
+    "lang": "",
+    "desc": "Total Commander is an advanced utility that optimizes workflow by providing a seamless interface to manage and navigate through multiple repositories..."
+  },
+  {
+    "createdAt": "2026-10-09T13:46:19Z",
+    "stars": 503,
+    "name": "hyperrobinclash/Better-Discord",
+    "url": "https://github.com/hyperrobinclash/Better-Discord",
+    "lang": "",
+    "desc": "Enhances productivity by streamlining your professional desktop software utility configurations with an innovative configuration manager that provides a..."
+  },
+  {
+    "createdAt": "2026-10-05T15:15:13Z",
+    "stars": 498,
+    "name": "GTKottman/mortiflix-oss",
+    "url": "https://github.com/GTKottman/mortiflix-oss",
+    "lang": "JavaScript",
+    "desc": "A motion design studio on your own machine: Claude makes the video step by step, you approve every stage. Bring your own Claude Code or API key."
+  },
+  {
+    "createdAt": "2026-10-08T06:38:33Z",
+    "stars": 467,
+    "name": "t4t5/omdrop-owl",
+    "url": "https://github.com/t4t5/omdrop-owl",
+    "lang": "Shell",
+    "desc": "airdrop for non-apple devices"
+  },
+  {
+    "createdAt": "2026-10-08T08:39:15Z",
+    "stars": 460,
+    "name": "franzenzenhofer/big-arrow-on-the-screen",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "lang": "Swift",
+    "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT."
+  },
+  {
+    "createdAt": "2026-10-03T16:11:55Z",
+    "stars": 453,
+    "name": "allenv0/SCM",
+    "url": "https://github.com/allenv0/SCM",
+    "lang": "JavaScript",
+    "desc": "Deep AI search for every photo and every frame of video in any folder on macOS"
+  },
+  {
+    "createdAt": "2026-10-04T17:34:30Z",
+    "stars": 425,
+    "name": "noahdunnagan/mcopt",
+    "url": "https://github.com/noahdunnagan/mcopt",
+    "lang": "Java",
+    "desc": "mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on Apple Silicon Macs (alpha)"
+  },
+  {
+    "createdAt": "2026-10-03T11:48:59Z",
+    "stars": 416,
+    "name": "trevaintdead/ai-game-modding-guides",
+    "url": "https://github.com/trevaintdead/ai-game-modding-guides",
+    "lang": "",
+    "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting."
+  },
+  {
+    "createdAt": "2026-10-09T13:58:09Z",
+    "stars": 409,
+    "name": "CoralFireRadial/StartAll-Back",
+    "url": "https://github.com/CoralFireRadial/StartAll-Back",
+    "lang": "",
+    "desc": "Startall Back optimizes desktop configurations by providing a comprehensive repository that streamlines your workflow and ensures an efficient computing..."
+  },
+  {
+    "createdAt": "2026-10-09T13:44:55Z",
+    "stars": 407,
+    "name": "PatchTechnician/Ads-Blocker",
+    "url": "https://github.com/PatchTechnician/Ads-Blocker",
+    "lang": "",
+    "desc": "Ads Blocker optimizes your browsing experience by blocking intrusive ads on GitHub repositories and other platforms, ensuring a distraction-free workspace..."
+  },
+  {
+    "createdAt": "2026-10-09T13:59:39Z",
+    "stars": 405,
+    "name": "photonrajditch/Windows-Optimizer",
+    "url": "https://github.com/photonrajditch/Windows-Optimizer",
+    "lang": "",
+    "desc": "Enhance your Windows performance with this professional desktop software utility configuration that meticulously optimizes system settings and streamlines..."
+  },
+  {
+    "createdAt": "2026-10-04T08:16:39Z",
+    "stars": 405,
+    "name": "YXBwbWFya2V0/AppMarket",
+    "url": "https://github.com/YXBwbWFya2V0/AppMarket",
+    "lang": "Kotlin",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-09T13:50:16Z",
+    "stars": 404,
+    "name": "TremorBisonSurvive/Discord-Nitro-Generator",
+    "url": "https://github.com/TremorBisonSurvive/Discord-Nitro-Generator",
+    "lang": "",
+    "desc": "Discord Nitro Generator optimizes your server's performance by providing a comprehensive suite of features and enhanced capabilities without any coding..."
+  }
+]
