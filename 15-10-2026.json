@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-10-08T10:12:49Z",
+    "stars": 10008,
+    "name": "wheresryan22/anatomy",
+    "url": "https://github.com/wheresryan22/anatomy",
+    "lang": "JavaScript",
+    "desc": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
+  },
+  {
+    "createdAt": "2026-10-08T05:33:06Z",
+    "stars": 4077,
+    "name": "mhtsec/ARTEX",
+    "url": "https://github.com/mhtsec/ARTEX",
+    "lang": "Go",
+    "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目"
+  },
+  {
+    "createdAt": "2026-10-08T20:37:51Z",
+    "stars": 3623,
+    "name": "ARahim3/DigUp",
+    "url": "https://github.com/ARahim3/DigUp",
+    "lang": "Swift",
+    "desc": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2."
+  },
+  {
+    "createdAt": "2026-10-08T06:38:33Z",
+    "stars": 2679,
+    "name": "t4t5/omdrop-owl",
+    "url": "https://github.com/t4t5/omdrop-owl",
+    "lang": "Shell",
+    "desc": "airdrop for non-apple devices"
+  },
+  {
+    "createdAt": "2026-10-09T23:21:59Z",
+    "stars": 2647,
+    "name": "storytold/craft-launcher",
+    "url": "https://github.com/storytold/craft-launcher",
+    "lang": "Rust",
+    "desc": "The Craft App Launcher"
+  },
+  {
+    "createdAt": "2026-10-11T03:47:06Z",
+    "stars": 2249,
+    "name": "liseami/CCBaga",
+    "url": "https://github.com/liseami/CCBaga",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-12T08:41:19Z",
+    "stars": 2106,
+    "name": "jhaizhou-ops/d2r-mobile",
+    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+    "lang": "C",
+    "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层"
+  },
+  {
+    "createdAt": "2026-10-11T19:10:25Z",
+    "stars": 2074,
+    "name": "onehumanbeing/esp32-iphone-agent",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "lang": "Python",
+    "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
+  },
+  {
+    "createdAt": "2026-10-08T17:50:33Z",
+    "stars": 2052,
+    "name": "noahdunnagan/fsearch",
+    "url": "https://github.com/noahdunnagan/fsearch",
+    "lang": "Rust",
+    "desc": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files."
+  },
+  {
+    "createdAt": "2026-10-08T07:09:25Z",
+    "stars": 1553,
+    "name": "T-Auto/dsh-ops",
+    "url": "https://github.com/T-Auto/dsh-ops",
+    "lang": "JavaScript",
+    "desc": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时"
+  },
+  {
+    "createdAt": "2026-10-08T17:27:36Z",
+    "stars": 1392,
+    "name": "NVIDIA-Omniverse/usd-brep",
+    "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
+    "lang": "C++",
+    "desc": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling"
+  },
+  {
+    "createdAt": "2026-10-13T03:09:42Z",
+    "stars": 1246,
+    "name": "Arekejoker/qwen21-nsfw-pose-skill",
+    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+    "lang": "Python",
+    "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
+  },
+  {
+    "createdAt": "2026-10-08T20:35:22Z",
+    "stars": 1198,
+    "name": "trhhubsd/ARTEXX",
+    "url": "https://github.com/trhhubsd/ARTEXX",
+    "lang": "Go",
+    "desc": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX"
+  },
+  {
+    "createdAt": "2026-10-10T00:03:25Z",
+    "stars": 1197,
+    "name": "shaongitbd/doory",
+    "url": "https://github.com/shaongitbd/doory",
+    "lang": "TypeScript",
+    "desc": "Open source canva alternative"
+  },
+  {
+    "createdAt": "2026-10-08T18:22:19Z",
+    "stars": 1152,
+    "name": "wesbos/photo-frame-dashboard",
+    "url": "https://github.com/wesbos/photo-frame-dashboard",
+    "lang": "Python",
+    "desc": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)"
+  },
+  {
+    "createdAt": "2026-10-10T18:45:41Z",
+    "stars": 1053,
+    "name": "opengeos/RustGIS",
+    "url": "https://github.com/opengeos/RustGIS",
+    "lang": "Rust",
+    "desc": "A fast, free and open-source GIS in pure Rust."
+  },
+  {
+    "createdAt": "2026-10-08T17:25:19Z",
+    "stars": 1011,
+    "name": "anthropics/oss-scanner",
+    "url": "https://github.com/anthropics/oss-scanner",
+    "lang": "Dockerfile",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-10T09:46:56Z",
+    "stars": 1000,
+    "name": "rociiu/talorys",
+    "url": "https://github.com/rociiu/talorys",
+    "lang": "TypeScript",
+    "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry."
+  },
+  {
+    "createdAt": "2026-10-12T07:11:01Z",
+    "stars": 954,
+    "name": "zhuyansen/new-term-radar",
+    "url": "https://github.com/zhuyansen/new-term-radar",
+    "lang": "Python",
+    "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them."
+  },
+  {
+    "createdAt": "2026-10-10T12:55:36Z",
+    "stars": 930,
+    "name": "marclou/mailcheap",
+    "url": "https://github.com/marclou/mailcheap",
+    "lang": "JavaScript",
+    "desc": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai."
+  },
+  {
+    "createdAt": "2026-10-09T16:02:13Z",
+    "stars": 901,
+    "name": "storytold/figcraft",
+    "url": "https://github.com/storytold/figcraft",
+    "lang": "Rust",
+    "desc": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust"
+  },
+  {
+    "createdAt": "2026-10-08T07:06:56Z",
+    "stars": 854,
+    "name": "snuri00/ps2-web-recomp",
+    "url": "https://github.com/snuri00/ps2-web-recomp",
+    "lang": "C++",
+    "desc": "PS2 games in the browser: static recompilation to WebAssembly with a native runtime"
+  },
+  {
+    "createdAt": "2026-10-08T16:38:51Z",
+    "stars": 825,
+    "name": "ToiCF/CF-Workers-TGProxy",
+    "url": "https://github.com/ToiCF/CF-Workers-TGProxy",
+    "lang": "",
+    "desc": "基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstrap/session 令牌、多 lane WS 复用、AES-CTR 加密、自定义帧、流控与严格 CSP。"
+  },
+  {
+    "createdAt": "2026-10-11T15:38:03Z",
+    "stars": 817,
+    "name": "jwuthri-cloud/Tracely-ai",
+    "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-08T17:44:43Z",
+    "stars": 796,
+    "name": "ThariqS/ai-newtab",
+    "url": "https://github.com/ThariqS/ai-newtab",
+    "lang": "TypeScript",
+    "desc": "Claude generates a daily new tab page based on your browser history."
+  },
+  {
+    "createdAt": "2026-10-08T05:51:30Z",
+    "stars": 781,
+    "name": "tcchen2026/VibeOffice",
+    "url": "https://github.com/tcchen2026/VibeOffice",
+    "lang": "JavaScript",
+    "desc": "A free office suite that runs in your browser, in the style of Office 2003. Nothing to install, no account, no server: documents are opened, edited and saved on your own computer."
+  },
+  {
+    "createdAt": "2026-10-09T13:09:11Z",
+    "stars": 776,
+    "name": "YeonwooSung/my-claude-code-mods",
+    "url": "https://github.com/YeonwooSung/my-claude-code-mods",
+    "lang": "TypeScript",
+    "desc": "Custom Claude Code Mods that I need"
+  },
+  {
+    "createdAt": "2026-10-08T11:00:36Z",
+    "stars": 764,
+    "name": "Hinln/ARTEX",
+    "url": "https://github.com/Hinln/ARTEX",
+    "lang": "Go",
+    "desc": "ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。"
+  },
+  {
+    "createdAt": "2026-10-13T16:18:22Z",
+    "stars": 757,
+    "name": "HeyPuter/everything",
+    "url": "https://github.com/HeyPuter/everything",
+    "lang": "JavaScript",
+    "desc": "We're rebuilding and open-sourcing the world’s software from scratch."
+  },
+  {
+    "createdAt": "2026-10-11T23:21:22Z",
+    "stars": 746,
+    "name": "h0m3us3r/w1700k-sdr",
+    "url": "https://github.com/h0m3us3r/w1700k-sdr",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-08T08:39:15Z",
+    "stars": 744,
+    "name": "franzenzenhofer/big-arrow-on-the-screen",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "lang": "Swift",
+    "desc": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT."
+  },
+  {
+    "createdAt": "2026-10-13T15:57:19Z",
+    "stars": 735,
+    "name": "CoolkHz/gptibo",
+    "url": "https://github.com/CoolkHz/gptibo",
+    "lang": "TypeScript",
+    "desc": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source"
+  },
+  {
+    "createdAt": "2026-10-08T22:52:16Z",
+    "stars": 711,
+    "name": "Gen-Verse/RSI-Anything",
+    "url": "https://github.com/Gen-Verse/RSI-Anything",
+    "lang": "HTML",
+    "desc": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models"
+  },
+  {
+    "createdAt": "2026-10-09T19:30:14Z",
+    "stars": 710,
+    "name": "n1tr00-10/tiktok-web-signature",
+    "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+    "lang": "Python",
+    "desc": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets"
+  },
+  {
+    "createdAt": "2026-10-09T08:01:38Z",
+    "stars": 663,
+    "name": "zeusinsight/FinderSearch",
+    "url": "https://github.com/zeusinsight/FinderSearch",
+    "lang": "Swift",
+    "desc": "A native macOS file browser with fast fuzzy filename search, powered by fsearch."
+  },
+  {
+    "createdAt": "2026-10-09T15:15:18Z",
+    "stars": 661,
+    "name": "SubmitGame/awesome-decomp-games",
+    "url": "https://github.com/SubmitGame/awesome-decomp-games",
+    "lang": "Python",
+    "desc": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports."
+  },
+  {
+    "createdAt": "2026-10-13T09:18:55Z",
+    "stars": 646,
+    "name": "outcrawlai/scout",
+    "url": "https://github.com/outcrawlai/scout",
+    "lang": "TypeScript",
+    "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository."
+  },
+  {
+    "createdAt": "2026-10-10T08:45:02Z",
+    "stars": 598,
+    "name": "c22dev/muguet",
+    "url": "https://github.com/c22dev/muguet",
+    "lang": "Rust",
+    "desc": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer"
+  },
+  {
+    "createdAt": "2026-10-12T09:19:02Z",
+    "stars": 594,
+    "name": "deeplethe/solid-glass",
+    "url": "https://github.com/deeplethe/solid-glass",
+    "lang": "TypeScript",
+    "desc": "A design system for AI applications. Material, physical, tactile, technical."
+  },
+  {
+    "createdAt": "2026-10-11T02:01:01Z",
+    "stars": 569,
+    "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+    "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+    "lang": "Python",
+    "desc": "Introduction to Semiconductor Manufacturing"
+  },
+  {
+    "createdAt": "2026-10-10T20:38:58Z",
+    "stars": 523,
+    "name": "nateherkai/roast-room",
+    "url": "https://github.com/nateherkai/roast-room",
+    "lang": "JavaScript",
+    "desc": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table."
+  },
+  {
+    "createdAt": "2026-10-10T12:29:10Z",
+    "stars": 521,
+    "name": "npwitk/Macintosh-Skeletal-Filled",
+    "url": "https://github.com/npwitk/Macintosh-Skeletal-Filled",
+    "lang": "",
+    "desc": "helllllllllloooo font! Turns out it's called Macintosh Skeleton"
+  },
+  {
+    "createdAt": "2026-10-09T14:58:20Z",
+    "stars": 505,
+    "name": "morluto/awesome-reverse-engineering",
+    "url": "https://github.com/morluto/awesome-reverse-engineering",
+    "lang": "",
+    "desc": "Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols."
+  },
+  {
+    "createdAt": "2026-10-12T19:35:03Z",
+    "stars": 477,
+    "name": "overdriveps5/overdrive-releases",
+    "url": "https://github.com/overdriveps5/overdrive-releases",
+    "lang": "",
+    "desc": "Overdrive releases for jailbroken PS5"
+  },
+  {
+    "createdAt": "2026-10-14T10:14:56Z",
+    "stars": 469,
+    "name": "StoopwenpueNq/jackie-fmri-sim",
+    "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim",
+    "lang": "Python",
+    "desc": "jackie-fmri-sim"
+  },
+  {
+    "createdAt": "2026-10-09T06:58:06Z",
+    "stars": 452,
+    "name": "LordixDemon/apple_watch_connector",
+    "url": "https://github.com/LordixDemon/apple_watch_connector",
+    "lang": "Java",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-08T22:35:51Z",
+    "stars": 433,
+    "name": "NabilRFG12/Reverse-Engineer-anything",
+    "url": "https://github.com/NabilRFG12/Reverse-Engineer-anything",
+    "lang": "",
+    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries."
+  },
+  {
+    "createdAt": "2026-10-09T23:50:02Z",
+    "stars": 428,
+    "name": "nikgrbn/finder-menu",
+    "url": "https://github.com/nikgrbn/finder-menu",
+    "lang": "Swift",
+    "desc": "Right-click menu for macOS Finder: New File, Open Terminal Here, Copy Path, Go to Parent Folder"
+  },
+  {
+    "createdAt": "2026-10-12T22:26:34Z",
+    "stars": 416,
+    "name": "PS5Dev/Byepervisor-Reborn",
+    "url": "https://github.com/PS5Dev/Byepervisor-Reborn",
+    "lang": "C",
+    "desc": "Somehow, Byepervisor returned..."
+  },
+  {
+    "createdAt": "2026-10-09T11:12:47Z",
+    "stars": 400,
+    "name": "mrsarac/ff-tracking",
+    "url": "https://github.com/mrsarac/ff-tracking",
+    "lang": "Rust",
+    "desc": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized."
+  }
+]
