@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-10-12T08:41:19Z",
+    "stars": 3528,
+    "name": "jhaizhou-ops/d2r-mobile",
+    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+    "lang": "C",
+    "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层"
+  },
+  {
+    "createdAt": "2026-10-11T19:10:25Z",
+    "stars": 2852,
+    "name": "onehumanbeing/esp32-iphone-agent",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "lang": "C",
+    "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
+  },
+  {
+    "createdAt": "2026-10-13T03:09:42Z",
+    "stars": 2514,
+    "name": "Arekejoker/qwen21-nsfw-pose-skill",
+    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+    "lang": "Python",
+    "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
+  },
+  {
+    "createdAt": "2026-10-11T03:47:06Z",
+    "stars": 2402,
+    "name": "liseami/CCBaga",
+    "url": "https://github.com/liseami/CCBaga",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-13T16:18:22Z",
+    "stars": 1725,
+    "name": "HeyPuter/everything",
+    "url": "https://github.com/HeyPuter/everything",
+    "lang": "JavaScript",
+    "desc": "We're rebuilding and open-sourcing the world’s software from scratch."
+  },
+  {
+    "createdAt": "2026-10-14T19:33:56Z",
+    "stars": 1553,
+    "name": "ahwootech/BRUTAL",
+    "url": "https://github.com/ahwootech/BRUTAL",
+    "lang": "C#",
+    "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine."
+  },
+  {
+    "createdAt": "2026-10-15T02:15:09Z",
+    "stars": 1548,
+    "name": "chenglou/handwired",
+    "url": "https://github.com/chenglou/handwired",
+    "lang": "TypeScript",
+    "desc": "Turn your regular JavaScript code into a neural net."
+  },
+  {
+    "createdAt": "2026-10-10T00:03:25Z",
+    "stars": 1424,
+    "name": "shaongitbd/doory",
+    "url": "https://github.com/shaongitbd/doory",
+    "lang": "TypeScript",
+    "desc": "Open source canva alternative"
+  },
+  {
+    "createdAt": "2026-10-12T09:19:02Z",
+    "stars": 1365,
+    "name": "deeplethe/solid-glass",
+    "url": "https://github.com/deeplethe/solid-glass",
+    "lang": "TypeScript",
+    "desc": "A design system for AI applications. Material, physical, tactile, technical."
+  },
+  {
+    "createdAt": "2026-10-10T18:45:41Z",
+    "stars": 1348,
+    "name": "opengeos/RustGIS",
+    "url": "https://github.com/opengeos/RustGIS",
+    "lang": "Rust",
+    "desc": "A fast, free and open-source GIS in pure Rust."
+  },
+  {
+    "createdAt": "2026-10-10T09:46:56Z",
+    "stars": 1254,
+    "name": "rociiu/talorys",
+    "url": "https://github.com/rociiu/talorys",
+    "lang": "TypeScript",
+    "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry."
+  },
+  {
+    "createdAt": "2026-10-10T12:55:36Z",
+    "stars": 1156,
+    "name": "marclou/mailcheap",
+    "url": "https://github.com/marclou/mailcheap",
+    "lang": "JavaScript",
+    "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai."
+  },
+  {
+    "createdAt": "2026-10-12T07:11:01Z",
+    "stars": 1065,
+    "name": "zhuyansen/new-term-radar",
+    "url": "https://github.com/zhuyansen/new-term-radar",
+    "lang": "Python",
+    "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them."
+  },
+  {
+    "createdAt": "2026-10-15T13:12:02Z",
+    "stars": 1057,
+    "name": "feder-cr/git-ai",
+    "url": "https://github.com/feder-cr/git-ai",
+    "lang": "Go",
+    "desc": "Git designed for AI agents."
+  },
+  {
+    "createdAt": "2026-10-10T14:30:03Z",
+    "stars": 1033,
+    "name": "fyzugx/DEsk",
+    "url": "https://github.com/fyzugx/DEsk",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-15T00:17:23Z",
+    "stars": 1006,
+    "name": "Supermedo/uncharted_pc",
+    "url": "https://github.com/Supermedo/uncharted_pc",
+    "lang": "C++",
+    "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo"
+  },
+  {
+    "createdAt": "2026-10-14T14:05:05Z",
+    "stars": 1005,
+    "name": "Caho1/open-claude-ui",
+    "url": "https://github.com/Caho1/open-claude-ui",
+    "lang": "TypeScript",
+    "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。"
+  },
+  {
+    "createdAt": "2026-10-11T02:01:01Z",
+    "stars": 997,
+    "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+    "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+    "lang": "Python",
+    "desc": "Introduction to Semiconductor Manufacturing"
+  },
+  {
+    "createdAt": "2026-10-13T09:18:55Z",
+    "stars": 894,
+    "name": "outcrawlai/scout",
+    "url": "https://github.com/outcrawlai/scout",
+    "lang": "TypeScript",
+    "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository."
+  },
+  {
+    "createdAt": "2026-10-12T13:11:53Z",
+    "stars": 871,
+    "name": "AjncSystem/ShadowOfTheColossus-PC",
+    "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+    "lang": "C++",
+    "desc": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC."
+  },
+  {
+    "createdAt": "2026-10-11T15:38:03Z",
+    "stars": 829,
+    "name": "jwuthri-cloud/Tracely-ai",
+    "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-11T23:21:22Z",
+    "stars": 814,
+    "name": "h0m3us3r/w1700k-sdr",
+    "url": "https://github.com/h0m3us3r/w1700k-sdr",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-13T15:57:19Z",
+    "stars": 812,
+    "name": "CoolkHz/gptibo",
+    "url": "https://github.com/CoolkHz/gptibo",
+    "lang": "TypeScript",
+    "desc": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source"
+  },
+  {
+    "createdAt": "2026-10-10T20:38:58Z",
+    "stars": 679,
+    "name": "nateherkai/roast-room",
+    "url": "https://github.com/nateherkai/roast-room",
+    "lang": "JavaScript",
+    "desc": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table."
+  },
+  {
+    "createdAt": "2026-10-12T12:16:18Z",
+    "stars": 639,
+    "name": "threerocks/sweety-handdraw-video",
+    "url": "https://github.com/threerocks/sweety-handdraw-video",
+    "lang": "JavaScript",
+    "desc": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。"
+  },
+  {
+    "createdAt": "2026-10-10T08:45:02Z",
+    "stars": 633,
+    "name": "c22dev/muguet",
+    "url": "https://github.com/c22dev/muguet",
+    "lang": "Rust",
+    "desc": "A native Mach-O port for iOS/macOS of GTA V, with multiplayer"
+  },
+  {
+    "createdAt": "2026-10-13T13:47:31Z",
+    "stars": 598,
+    "name": "Zfinix/eleven",
+    "url": "https://github.com/Zfinix/eleven",
+    "lang": "TypeScript",
+    "desc": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you."
+  },
+  {
+    "createdAt": "2026-10-12T19:35:03Z",
+    "stars": 586,
+    "name": "overdriveps5/overdrive-releases",
+    "url": "https://github.com/overdriveps5/overdrive-releases",
+    "lang": "",
+    "desc": "Overdrive releases for jailbroken PS5"
+  },
+  {
+    "createdAt": "2026-10-10T12:29:10Z",
+    "stars": 553,
+    "name": "npwitk/Macintosh-Skeletal-Filled",
+    "url": "https://github.com/npwitk/Macintosh-Skeletal-Filled",
+    "lang": "",
+    "desc": "helllllllllloooo font! Turns out it's called Macintosh Skeleton"
+  },
+  {
+    "createdAt": "2026-10-14T12:32:21Z",
+    "stars": 520,
+    "name": "0xProbabillity/house-control",
+    "url": "https://github.com/0xProbabillity/house-control",
+    "lang": "Swift",
+    "desc": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home."
+  },
+  {
+    "createdAt": "2026-10-14T00:07:08Z",
+    "stars": 489,
+    "name": "MyLuxy/overdrive",
+    "url": "https://github.com/MyLuxy/overdrive",
+    "lang": "C++",
+    "desc": "Overdrive, a PS5 homebrew game store with 1,800+ games."
+  },
+  {
+    "createdAt": "2026-10-11T05:43:14Z",
+    "stars": 471,
+    "name": "rayytor/desktop_gifs",
+    "url": "https://github.com/rayytor/desktop_gifs",
+    "lang": "JavaScript",
+    "desc": "Post GIFs in YouTube comments and replies from a desktop browser. Extension for Chrome and Firefox."
+  },
+  {
+    "createdAt": "2026-10-14T10:14:56Z",
+    "stars": 469,
+    "name": "StoopwenpueNq/jackie-fmri-sim",
+    "url": "https://github.com/StoopwenpueNq/jackie-fmri-sim",
+    "lang": "Python",
+    "desc": "jackie-fmri-sim"
+  },
+  {
+    "createdAt": "2026-10-13T08:19:01Z",
+    "stars": 460,
+    "name": "i12bp8/decomp.wtf",
+    "url": "https://github.com/i12bp8/decomp.wtf",
+    "lang": "Python",
+    "desc": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally."
+  },
+  {
+    "createdAt": "2026-10-12T22:26:34Z",
+    "stars": 458,
+    "name": "PS5Dev/Byepervisor-Reborn",
+    "url": "https://github.com/PS5Dev/Byepervisor-Reborn",
+    "lang": "C",
+    "desc": "Somehow, Byepervisor returned..."
+  },
+  {
+    "createdAt": "2026-10-13T11:07:11Z",
+    "stars": 444,
+    "name": "datalab-to/indra",
+    "url": "https://github.com/datalab-to/indra",
+    "lang": "Python",
+    "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown"
+  },
+  {
+    "createdAt": "2026-10-13T19:35:48Z",
+    "stars": 443,
+    "name": "solana-classic/solana-classic",
+    "url": "https://github.com/solana-classic/solana-classic",
+    "lang": "Rust",
+    "desc": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live."
+  },
+  {
+    "createdAt": "2026-10-12T09:15:11Z",
+    "stars": 408,
+    "name": "yeyuxin777/baoyan-agent-benchmark",
+    "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+    "lang": "Python",
+    "desc": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning."
+  },
+  {
+    "createdAt": "2026-10-13T21:48:17Z",
+    "stars": 395,
+    "name": "HayatoG/iss_pc",
+    "url": "https://github.com/HayatoG/iss_pc",
+    "lang": "C++",
+    "desc": "Native PC port (Linux/Windows) of inFAMOUS Second Son (PS4, CUSA00223) — in development, playable; runs your own game dump; no game or firmware files included. Motion sensor emulation. | Port nativo para PC de inFAMOUS Second Son (em desenvolvimento) — usa o seu próprio dump."
+  },
+  {
+    "createdAt": "2026-10-10T18:36:47Z",
+    "stars": 380,
+    "name": "kevinerikjs/gta5-ios-port",
+    "url": "https://github.com/kevinerikjs/gta5-ios-port",
+    "lang": "Swift",
+    "desc": "GTA V natively on iPhone: build it yourself from your own game files. Fan project, no game files included."
+  },
+  {
+    "createdAt": "2026-10-12T15:24:23Z",
+    "stars": 380,
+    "name": "GetLostIn/CTR-NitroFueled-PC",
+    "url": "https://github.com/GetLostIn/CTR-NitroFueled-PC",
+    "lang": "C++",
+    "desc": "Crash Team Racing: Nitro-Fueled (PS4) running natively on Windows 10/11. Windows fork of SacredFire, built on bbport and shadPS4. No game files included."
+  },
+  {
+    "createdAt": "2026-10-10T08:11:27Z",
+    "stars": 377,
+    "name": "eyalgolan/statecraft-israel",
+    "url": "https://github.com/eyalgolan/statecraft-israel",
+    "lang": "C#",
+    "desc": "A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim."
+  },
+  {
+    "createdAt": "2026-10-12T00:07:32Z",
+    "stars": 375,
+    "name": "juliobsz/skills",
+    "url": "https://github.com/juliobsz/skills",
+    "lang": "TypeScript",
+    "desc": "An agent skill that builds award-caliber websites from one line"
+  },
+  {
+    "createdAt": "2026-10-11T07:15:07Z",
+    "stars": 374,
+    "name": "bbylw/rea-cn",
+    "url": "https://github.com/bbylw/rea-cn",
+    "lang": "Astro",
+    "desc": "REA：逆向一切 通过一个 MCP 服务，逆向分析二进制文件、应用程序和运行时行为。 看到喜欢的功能，弄清它的工作原理，深入到二进制层面。"
+  },
+  {
+    "createdAt": "2026-10-10T12:59:19Z",
+    "stars": 369,
+    "name": "Ayzzz123/mcd-coupon-strategist",
+    "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
+    "lang": "Python",
+    "desc": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。"
+  },
+  {
+    "createdAt": "2026-10-13T23:46:21Z",
+    "stars": 355,
+    "name": "BaruqueRodrigues/llm-legislativo",
+    "url": "https://github.com/BaruqueRodrigues/llm-legislativo",
+    "lang": "Python",
+    "desc": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro."
+  },
+  {
+    "createdAt": "2026-10-14T22:03:26Z",
+    "stars": 342,
+    "name": "pro-vi/cc-stretch",
+    "url": "https://github.com/pro-vi/cc-stretch",
+    "lang": "TypeScript",
+    "desc": "Stretchtext replies for Claude Code: short by default, each phrase grows in place when you click it"
+  },
+  {
+    "createdAt": "2026-10-15T13:06:56Z",
+    "stars": 337,
+    "name": "Tencent-Hunyuan/Hy-Memory",
+    "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-12T09:45:08Z",
+    "stars": 331,
+    "name": "w16638771062/mccarbon",
+    "url": "https://github.com/w16638771062/mccarbon",
+    "lang": "Python",
+    "desc": "麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP"
+  },
+  {
+    "createdAt": "2026-10-15T06:52:46Z",
+    "stars": 322,
+    "name": "Leonxlnx/earshot",
+    "url": "https://github.com/Leonxlnx/earshot",
+    "lang": "Python",
+    "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source."
+  }
+]
