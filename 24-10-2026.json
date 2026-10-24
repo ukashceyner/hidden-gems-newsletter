@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-10-17T08:12:35Z",
+    "stars": 27908,
+    "name": "Gathin23/cleanyourtv",
+    "url": "https://github.com/Gathin23/cleanyourtv",
+    "lang": "Java",
+    "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+  },
+  {
+    "createdAt": "2026-10-17T19:52:00Z",
+    "stars": 4896,
+    "name": "ly05010419/MacNativeGames",
+    "url": "https://github.com/ly05010419/MacNativeGames",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-19T19:29:01Z",
+    "stars": 3954,
+    "name": "simbasjungles/free-my-tv",
+    "url": "https://github.com/simbasjungles/free-my-tv",
+    "lang": "Java",
+    "desc": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo."
+  },
+  {
+    "createdAt": "2026-10-20T09:13:06Z",
+    "stars": 3815,
+    "name": "pengchujin/aerial-tv",
+    "url": "https://github.com/pengchujin/aerial-tv",
+    "lang": "Kotlin",
+    "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs."
+  },
+  {
+    "createdAt": "2026-10-18T09:04:43Z",
+    "stars": 2800,
+    "name": "xiaoyang111222/cn-math-taxonomy",
+    "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "lang": "Python",
+    "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。"
+  },
+  {
+    "createdAt": "2026-10-17T02:53:24Z",
+    "stars": 1821,
+    "name": "aicodeking/leanrea",
+    "url": "https://github.com/aicodeking/leanrea",
+    "lang": "Python",
+    "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper."
+  },
+  {
+    "createdAt": "2026-10-19T22:20:47Z",
+    "stars": 1729,
+    "name": "JoasASantos/REA-Prompts",
+    "url": "https://github.com/JoasASantos/REA-Prompts",
+    "lang": "",
+    "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program"
+  },
+  {
+    "createdAt": "2026-10-21T07:55:16Z",
+    "stars": 1694,
+    "name": "ikow/php2shell-poc",
+    "url": "https://github.com/ikow/php2shell-poc",
+    "lang": "Python",
+    "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research."
+  },
+  {
+    "createdAt": "2026-10-19T10:07:58Z",
+    "stars": 1564,
+    "name": "EthanArbuckle/fairplay-decrypt",
+    "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+    "lang": "C",
+    "desc": "Offline FairPlay App Store IPA decryption with independent key derivation"
+  },
+  {
+    "createdAt": "2026-10-18T12:19:27Z",
+    "stars": 1538,
+    "name": "alchaincyf/huashu-motion",
+    "url": "https://github.com/alchaincyf/huashu-motion",
+    "lang": "JavaScript",
+    "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it."
+  },
+  {
+    "createdAt": "2026-10-18T17:04:12Z",
+    "stars": 1391,
+    "name": "humblemuzzu/dumbtv",
+    "url": "https://github.com/humblemuzzu/dumbtv",
+    "lang": "Java",
+    "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen."
+  },
+  {
+    "createdAt": "2026-10-18T06:42:29Z",
+    "stars": 1381,
+    "name": "Ansub/tv-detox",
+    "url": "https://github.com/Ansub/tv-detox",
+    "lang": "Java",
+    "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up"
+  },
+  {
+    "createdAt": "2026-10-21T11:11:57Z",
+    "stars": 1253,
+    "name": "9bie/php2shell-bypass-aslr-exp",
+    "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+    "lang": "Python",
+    "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory."
+  },
+  {
+    "createdAt": "2026-10-21T00:29:12Z",
+    "stars": 1165,
+    "name": "openai/php2shell-checker",
+    "url": "https://github.com/openai/php2shell-checker",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-22T06:20:11Z",
+    "stars": 1084,
+    "name": "oosexgang/hackios-xnu-kernel",
+    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-21T19:38:50Z",
+    "stars": 1076,
+    "name": "wesbos/3d-model-anything",
+    "url": "https://github.com/wesbos/3d-model-anything",
+    "lang": "Swift",
+    "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser."
+  },
+  {
+    "createdAt": "2026-10-21T00:16:54Z",
+    "stars": 1050,
+    "name": "colinhacks/reylo",
+    "url": "https://github.com/colinhacks/reylo",
+    "lang": "Rust",
+    "desc": "Import .sql files into TypeScript with full type inference and zero codegen."
+  },
+  {
+    "createdAt": "2026-10-21T08:31:43Z",
+    "stars": 968,
+    "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+    "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+    "lang": "Shell",
+    "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only."
+  },
+  {
+    "createdAt": "2026-10-21T17:29:28Z",
+    "stars": 963,
+    "name": "xevrion/hatchzip",
+    "url": "https://github.com/xevrion/hatchzip",
+    "lang": "Rust",
+    "desc": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives."
+  },
+  {
+    "createdAt": "2026-10-20T14:03:04Z",
+    "stars": 950,
+    "name": "eagle-hq/EAGLE-4",
+    "url": "https://github.com/eagle-hq/EAGLE-4",
+    "lang": "Python",
+    "desc": "Official Inference Code of EAGLE-4"
+  },
+  {
+    "createdAt": "2026-10-19T23:04:42Z",
+    "stars": 926,
+    "name": "ELY-Open-Source/ElyOffice",
+    "url": "https://github.com/ELY-Open-Source/ElyOffice",
+    "lang": "Rust",
+    "desc": "Ely Office: offline-first desktop apps in Rust and GPUI"
+  },
+  {
+    "createdAt": "2026-10-19T10:46:55Z",
+    "stars": 856,
+    "name": "UniXNU/UniXNU",
+    "url": "https://github.com/UniXNU/UniXNU",
+    "lang": "Python",
+    "desc": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI."
+  },
+  {
+    "createdAt": "2026-10-20T14:17:54Z",
+    "stars": 851,
+    "name": "Jakeschincariol/day-trader-skill",
+    "url": "https://github.com/Jakeschincariol/day-trader-skill",
+    "lang": "Python",
+    "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar."
+  },
+  {
+    "createdAt": "2026-10-19T21:54:19Z",
+    "stars": 790,
+    "name": "stackedlol/ascii-sharks",
+    "url": "https://github.com/stackedlol/ascii-sharks",
+    "lang": "TypeScript",
+    "desc": "ascii shark components in typescript"
+  },
+  {
+    "createdAt": "2026-10-22T01:40:05Z",
+    "stars": 756,
+    "name": "Snapintosh/Snapintosh",
+    "url": "https://github.com/Snapintosh/Snapintosh",
+    "lang": "Python",
+    "desc": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack"
+  },
+  {
+    "createdAt": "2026-10-19T13:26:45Z",
+    "stars": 640,
+    "name": "Hugo-Dz/spritefusion-sprite-normals",
+    "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
+    "lang": "Rust",
+    "desc": "A tool to generate normal maps from any sprite and animated sprite sheet."
+  },
+  {
+    "createdAt": "2026-10-20T17:09:40Z",
+    "stars": 627,
+    "name": "NVIDIA/flare-local-inference",
+    "url": "https://github.com/NVIDIA/flare-local-inference",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-18T02:21:29Z",
+    "stars": 593,
+    "name": "aicodeking/pandacode",
+    "url": "https://github.com/aicodeking/pandacode",
+    "lang": "Rust",
+    "desc": "PandaCode: a calm desktop workspace for coding agents"
+  },
+  {
+    "createdAt": "2026-10-20T10:39:43Z",
+    "stars": 591,
+    "name": "dominikmartn/harp",
+    "url": "https://github.com/dominikmartn/harp",
+    "lang": "Rust",
+    "desc": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp."
+  },
+  {
+    "createdAt": "2026-10-19T15:26:48Z",
+    "stars": 582,
+    "name": "VictorTaelin/uniichat",
+    "url": "https://github.com/VictorTaelin/uniichat",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-18T13:22:34Z",
+    "stars": 542,
+    "name": "interplains/zero-breach",
+    "url": "https://github.com/interplains/zero-breach",
+    "lang": "Python",
+    "desc": "Zero Breach — local, read-only scanner that checks a computer for indicators of the AdFection / Candiru ad-delivered spyware campaign. No network, no admin, no dependencies."
+  },
+  {
+    "createdAt": "2026-10-18T01:28:31Z",
+    "stars": 522,
+    "name": "Zagitta/gpu-unlock",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "lang": "C",
+    "desc": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents"
+  },
+  {
+    "createdAt": "2026-10-20T04:40:07Z",
+    "stars": 514,
+    "name": "nthnclrk/CleanFrame",
+    "url": "https://github.com/nthnclrk/CleanFrame",
+    "lang": "JavaScript",
+    "desc": "A personal home screen for Samsung The Frame. A starting point to fork and adapt."
+  },
+  {
+    "createdAt": "2026-10-19T06:49:32Z",
+    "stars": 499,
+    "name": "timhengc/mai-shen-zai-ci",
+    "url": "https://github.com/timhengc/mai-shen-zai-ci",
+    "lang": "Python",
+    "desc": "麦门封神榜｜你在麦门算老几？领取你的麦门专属身份"
+  },
+  {
+    "createdAt": "2026-10-18T04:22:18Z",
+    "stars": 488,
+    "name": "realskyrin/ns-game-apple-arm-port",
+    "url": "https://github.com/realskyrin/ns-game-apple-arm-port",
+    "lang": "",
+    "desc": "Agent skill for native Nintendo Switch game porting to Apple Silicon macOS, iPadOS and iOS with Rust and Metal"
+  },
+  {
+    "createdAt": "2026-10-17T14:29:01Z",
+    "stars": 487,
+    "name": "Domainsun/awesome-chinese-secondhand-slang",
+    "url": "https://github.com/Domainsun/awesome-chinese-secondhand-slang",
+    "lang": "",
+    "desc": "🐟 中国二手交易暗语全书与避坑合规指南 (闲鱼 / 转转 / 小红书 4,476+ 条实战暗号变体、卖家潜台词透视与买家验货防割指南)"
+  },
+  {
+    "createdAt": "2026-10-21T14:44:06Z",
+    "stars": 477,
+    "name": "Alejandros17487/ai-jailbreaks",
+    "url": "https://github.com/Alejandros17487/ai-jailbreaks",
+    "lang": "",
+    "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing."
+  },
+  {
+    "createdAt": "2026-10-22T03:53:20Z",
+    "stars": 469,
+    "name": "assetnote/php2shell-scanner",
+    "url": "https://github.com/assetnote/php2shell-scanner",
+    "lang": "Python",
+    "desc": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)"
+  },
+  {
+    "createdAt": "2026-10-17T14:25:48Z",
+    "stars": 463,
+    "name": "QAQLeonard/a7c2-fl23-research",
+    "url": "https://github.com/QAQLeonard/a7c2-fl23-research",
+    "lang": "Python",
+    "desc": "Desktop tool for Sony A7C II (ILCE-7CM2) firmware 2.01: one-click FL2/FL3, custom Creative Looks (LUT/DCP), electronic shutter sound, Vertical Display and factory restore. Windows/macOS. | Sony A7C II 固件 2.01 桌面工具：一键安装 FL2/FL3、自定义创意外观、电子快门声、竖屏显示，并可一键恢复原厂。"
+  },
+  {
+    "createdAt": "2026-10-18T11:13:56Z",
+    "stars": 462,
+    "name": "kanaworksai-hue/audio-studio-mcp",
+    "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
+    "lang": "Python",
+    "desc": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key."
+  },
+  {
+    "createdAt": "2026-10-19T03:29:08Z",
+    "stars": 445,
+    "name": "opentrap/opentrap",
+    "url": "https://github.com/opentrap/opentrap",
+    "lang": "Java",
+    "desc": "A free, open-source alternative to Burp Suite: an intercepting proxy and web app security testing suite with Repeater, Intruder, Collaborator and a built-in OWASP ZAP scanner. Linux, AGPL-3.0."
+  },
+  {
+    "createdAt": "2026-10-20T19:44:10Z",
+    "stars": 433,
+    "name": "torrentplayer/torrentplayer",
+    "url": "https://github.com/torrentplayer/torrentplayer",
+    "lang": "Rust",
+    "desc": "Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry."
+  },
+  {
+    "createdAt": "2026-10-18T09:27:46Z",
+    "stars": 430,
+    "name": "justrach/nanoui",
+    "url": "https://github.com/justrach/nanoui",
+    "lang": "Zig",
+    "desc": "Desktop apps in Zig, with native UI drawn on the GPU or a web frontend"
+  },
+  {
+    "createdAt": "2026-10-18T20:12:18Z",
+    "stars": 424,
+    "name": "mihirgupta0900/tv-home",
+    "url": "https://github.com/mihirgupta0900/tv-home",
+    "lang": "Java",
+    "desc": "Debloat a slow, ad-filled Android TV over Wi-Fi and give it a fast Apple TV-style home screen. One prompt for Claude Code, or do it by hand."
+  },
+  {
+    "createdAt": "2026-10-21T01:35:52Z",
+    "stars": 423,
+    "name": "WoYun520/dsh-purge",
+    "url": "https://github.com/WoYun520/dsh-purge",
+    "lang": "JavaScript",
+    "desc": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。"
+  },
+  {
+    "createdAt": "2026-10-21T17:29:28Z",
+    "stars": 421,
+    "name": "zita-ch/supermimic_vibed",
+    "url": "https://github.com/zita-ch/supermimic_vibed",
+    "lang": "Python",
+    "desc": "vibe coded supermimic within 1h, LAFAN passed within 1.5 gpuh training"
+  },
+  {
+    "createdAt": "2026-10-20T10:12:05Z",
+    "stars": 413,
+    "name": "lesnolie/Tigris",
+    "url": "https://github.com/lesnolie/Tigris",
+    "lang": "Kotlin",
+    "desc": "Tigris — tvOS 26 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable."
+  },
+  {
+    "createdAt": "2026-10-19T17:48:58Z",
+    "stars": 412,
+    "name": "typecraft-dev/oma-cast",
+    "url": "https://github.com/typecraft-dev/oma-cast",
+    "lang": "JavaScript",
+    "desc": "omarchy rebuild of raycast"
+  },
+  {
+    "createdAt": "2026-10-17T09:17:49Z",
+    "stars": 404,
+    "name": "Apolinario-coder/SkyRecomp",
+    "url": "https://github.com/Apolinario-coder/SkyRecomp",
+    "lang": "C",
+    "desc": "Static recompilation of The Legend of Zelda: Skyward Sword for PC"
+  },
+  {
+    "createdAt": "2026-10-17T14:28:10Z",
+    "stars": 402,
+    "name": "LTSharpe/OblivionRemasteredPerformanceFix",
+    "url": "https://github.com/LTSharpe/OblivionRemasteredPerformanceFix",
+    "lang": "C++",
+    "desc": "Engine-level performance fix for Oblivion Remastered (UE5): higher fps in towns, far fewer travel hitches, same image. Source, benchmark and docs."
+  }
+]
