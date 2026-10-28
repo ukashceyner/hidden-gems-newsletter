@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-10-23T21:00:53Z",
+    "stars": 4275,
+    "name": "JustAResearcher/gpu-unlock-ada",
+    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+    "lang": "C",
+    "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally"
+  },
+  {
+    "createdAt": "2026-10-24T05:35:47Z",
+    "stars": 3300,
+    "name": "rddmwmddr/android-ad-cleaner",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "lang": "Python",
+    "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+  },
+  {
+    "createdAt": "2026-10-25T08:27:22Z",
+    "stars": 2485,
+    "name": "designfuchen/word-atlas",
+    "url": "https://github.com/designfuchen/word-atlas",
+    "lang": "TypeScript",
+    "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset."
+  },
+  {
+    "createdAt": "2026-10-25T16:04:09Z",
+    "stars": 2292,
+    "name": "unclebob/ub-mode",
+    "url": "https://github.com/unclebob/ub-mode",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-21T19:38:50Z",
+    "stars": 2217,
+    "name": "wesbos/3d-model-anything",
+    "url": "https://github.com/wesbos/3d-model-anything",
+    "lang": "Swift",
+    "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser."
+  },
+  {
+    "createdAt": "2026-10-21T17:29:28Z",
+    "stars": 2176,
+    "name": "xevrion/hatchzip",
+    "url": "https://github.com/xevrion/hatchzip",
+    "lang": "Rust",
+    "desc": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI."
+  },
+  {
+    "createdAt": "2026-10-24T05:00:20Z",
+    "stars": 2004,
+    "name": "t3dotgg/tstack",
+    "url": "https://github.com/t3dotgg/tstack",
+    "lang": "Python",
+    "desc": "The agent skills I use every day. Works with Claude Code and Codex."
+  },
+  {
+    "createdAt": "2026-10-21T07:55:16Z",
+    "stars": 1867,
+    "name": "ikow/php2shell-poc",
+    "url": "https://github.com/ikow/php2shell-poc",
+    "lang": "Python",
+    "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research."
+  },
+  {
+    "createdAt": "2026-10-22T06:20:11Z",
+    "stars": 1818,
+    "name": "oosexgang/hackios-xnu-kernel",
+    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-21T11:11:57Z",
+    "stars": 1498,
+    "name": "9bie/php2shell-bypass-aslr-exp",
+    "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+    "lang": "Python",
+    "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory."
+  },
+  {
+    "createdAt": "2026-10-21T04:09:05Z",
+    "stars": 1475,
+    "name": "lyramakesmusic/neuron-explorer",
+    "url": "https://github.com/lyramakesmusic/neuron-explorer",
+    "lang": "Python",
+    "desc": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results"
+  },
+  {
+    "createdAt": "2026-10-21T00:29:12Z",
+    "stars": 1438,
+    "name": "openai/php2shell-checker",
+    "url": "https://github.com/openai/php2shell-checker",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-21T00:16:54Z",
+    "stars": 1341,
+    "name": "colinhacks/reylo",
+    "url": "https://github.com/colinhacks/reylo",
+    "lang": "Rust",
+    "desc": "Import .sql files into TypeScript with full type inference and zero codegen."
+  },
+  {
+    "createdAt": "2026-10-23T03:01:11Z",
+    "stars": 1310,
+    "name": "morganlinton/BeautifulRust",
+    "url": "https://github.com/morganlinton/BeautifulRust",
+    "lang": "Python",
+    "desc": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI."
+  },
+  {
+    "createdAt": "2026-10-23T12:20:16Z",
+    "stars": 1250,
+    "name": "enesozturk/dimensional-drawing",
+    "url": "https://github.com/enesozturk/dimensional-drawing",
+    "lang": "HTML",
+    "desc": "Create Apple style dimensional drawings of UI components."
+  },
+  {
+    "createdAt": "2026-10-26T04:34:09Z",
+    "stars": 1077,
+    "name": "andyhuo520/digital-human-koubo",
+    "url": "https://github.com/andyhuo520/digital-human-koubo",
+    "lang": "TypeScript",
+    "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …"
+  },
+  {
+    "createdAt": "2026-10-25T10:05:56Z",
+    "stars": 1056,
+    "name": "DenisSergeevitch/ex-ussr-kinship-research",
+    "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+    "lang": "Python",
+    "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language."
+  },
+  {
+    "createdAt": "2026-10-21T08:31:43Z",
+    "stars": 1031,
+    "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+    "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+    "lang": "Shell",
+    "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only."
+  },
+  {
+    "createdAt": "2026-10-22T01:40:05Z",
+    "stars": 1012,
+    "name": "Snapintosh/Snapintosh",
+    "url": "https://github.com/Snapintosh/Snapintosh",
+    "lang": "Python",
+    "desc": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack"
+  },
+  {
+    "createdAt": "2026-10-25T21:48:32Z",
+    "stars": 957,
+    "name": "KillaBoi/StealMyBitcoin-PoC",
+    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+    "lang": "Python",
+    "desc": "A public release of the Steal My Bitcoin challenge"
+  },
+  {
+    "createdAt": "2026-10-22T03:53:20Z",
+    "stars": 947,
+    "name": "assetnote/php2shell-scanner",
+    "url": "https://github.com/assetnote/php2shell-scanner",
+    "lang": "Python",
+    "desc": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)"
+  },
+  {
+    "createdAt": "2026-10-21T12:42:09Z",
+    "stars": 904,
+    "name": "udhaykumarbala/cleanyourtv-app",
+    "url": "https://github.com/udhaykumarbala/cleanyourtv-app",
+    "lang": "Kotlin",
+    "desc": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled."
+  },
+  {
+    "createdAt": "2026-10-25T05:52:22Z",
+    "stars": 750,
+    "name": "mizorewww/gdirect",
+    "url": "https://github.com/mizorewww/gdirect",
+    "lang": "Rust",
+    "desc": "Rust Google Drive direct downloader using pinned libaria2"
+  },
+  {
+    "createdAt": "2026-10-23T19:27:24Z",
+    "stars": 707,
+    "name": "surendrapandar/minilytics",
+    "url": "https://github.com/surendrapandar/minilytics",
+    "lang": "TypeScript",
+    "desc": "Opensource Revenue-first analytics for indie hackers & solo founders "
+  },
+  {
+    "createdAt": "2026-10-27T19:27:47Z",
+    "stars": 699,
+    "name": "DLSS-5-Swaper-New/.github",
+    "url": "https://github.com/DLSS-5-Swaper-New/.github",
+    "lang": "",
+    "desc": "DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing compatible graphics components and exploring rendering configurations."
+  },
+  {
+    "createdAt": "2026-10-25T14:41:34Z",
+    "stars": 674,
+    "name": "interplains/Zero-Breach-Toolkit",
+    "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+    "lang": "Python",
+    "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Tested with Windows computers and Android phone collections."
+  },
+  {
+    "createdAt": "2026-10-25T21:22:20Z",
+    "stars": 659,
+    "name": "DrWhax/unfairplay",
+    "url": "https://github.com/DrWhax/unfairplay",
+    "lang": "Go",
+    "desc": "Decrypt IPA's on MacOS"
+  },
+  {
+    "createdAt": "2026-10-21T17:29:28Z",
+    "stars": 655,
+    "name": "zita-ch/supermimic_vibed",
+    "url": "https://github.com/zita-ch/supermimic_vibed",
+    "lang": "Python",
+    "desc": "vibe coded supermimic within 1h, LAFAN passed within 1.5 gpuh training"
+  },
+  {
+    "createdAt": "2026-10-26T18:38:56Z",
+    "stars": 615,
+    "name": "kargulstudio/calender-app-design",
+    "url": "https://github.com/kargulstudio/calender-app-design",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-26T03:12:45Z",
+    "stars": 599,
+    "name": "yaojingang/GEOInflow",
+    "url": "https://github.com/yaojingang/GEOInflow",
+    "lang": "TypeScript",
+    "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed."
+  },
+  {
+    "createdAt": "2026-10-25T06:06:02Z",
+    "stars": 584,
+    "name": "ZiChuanLan/agent-purge",
+    "url": "https://github.com/ZiChuanLan/agent-purge",
+    "lang": "JavaScript",
+    "desc": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console."
+  },
+  {
+    "createdAt": "2026-10-22T03:33:03Z",
+    "stars": 532,
+    "name": "rossark0/rossark-motion-skill",
+    "url": "https://github.com/rossark0/rossark-motion-skill",
+    "lang": "Swift",
+    "desc": "Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI."
+  },
+  {
+    "createdAt": "2026-10-24T16:58:15Z",
+    "stars": 514,
+    "name": "wangrongding/tv-fresh",
+    "url": "https://github.com/wangrongding/tv-fresh",
+    "lang": "Shell",
+    "desc": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本"
+  },
+  {
+    "createdAt": "2026-10-25T17:33:04Z",
+    "stars": 513,
+    "name": "stormydayy/halo-overlay",
+    "url": "https://github.com/stormydayy/halo-overlay",
+    "lang": "Python",
+    "desc": "Lightweight opensource AI overlay for live conversations. Hears, sees, suggests."
+  },
+  {
+    "createdAt": "2026-10-21T13:40:04Z",
+    "stars": 511,
+    "name": "agharsallah/esp-labs-web",
+    "url": "https://github.com/agharsallah/esp-labs-web",
+    "lang": "TypeScript",
+    "desc": "The ESP32-S3 bench guide as a React app: live pinout, lessons with interactive simulators, a code reader for the esp-labs firmware, and the bench log. In 11 languages."
+  },
+  {
+    "createdAt": "2026-10-21T14:44:06Z",
+    "stars": 508,
+    "name": "Alejandros17487/ai-jailbreaks",
+    "url": "https://github.com/Alejandros17487/ai-jailbreaks",
+    "lang": "",
+    "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing."
+  },
+  {
+    "createdAt": "2026-10-24T11:32:36Z",
+    "stars": 503,
+    "name": "songjianyang/xss-audit",
+    "url": "https://github.com/songjianyang/xss-audit",
+    "lang": "",
+    "desc": "Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaScript projects."
+  },
+  {
+    "createdAt": "2026-10-23T21:03:11Z",
+    "stars": 500,
+    "name": "Marker284/yandex-station-extended",
+    "url": "https://github.com/Marker284/yandex-station-extended",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-26T06:58:45Z",
+    "stars": 494,
+    "name": "Motionsites-AI/claude-skill",
+    "url": "https://github.com/Motionsites-AI/claude-skill",
+    "lang": "Python",
+    "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites."
+  },
+  {
+    "createdAt": "2026-10-24T17:13:42Z",
+    "stars": 494,
+    "name": "mirkobrombin/raven",
+    "url": "https://github.com/mirkobrombin/raven",
+    "lang": "C++",
+    "desc": "A Windows your apps recognize."
+  },
+  {
+    "createdAt": "2026-10-21T19:43:59Z",
+    "stars": 486,
+    "name": "CopilotKit/OpenDuet",
+    "url": "https://github.com/CopilotKit/OpenDuet",
+    "lang": "TypeScript",
+    "desc": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop."
+  },
+  {
+    "createdAt": "2026-10-25T14:12:41Z",
+    "stars": 476,
+    "name": "misshexa66/OunceCake",
+    "url": "https://github.com/misshexa66/OunceCake",
+    "lang": "JavaScript",
+    "desc": "Tool to dump unencrypted romFS and exeFS for Switch 2 games"
+  },
+  {
+    "createdAt": "2026-10-21T01:35:52Z",
+    "stars": 456,
+    "name": "WoYun520/dsh-purge",
+    "url": "https://github.com/WoYun520/dsh-purge",
+    "lang": "JavaScript",
+    "desc": "DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。"
+  },
+  {
+    "createdAt": "2026-10-26T13:08:12Z",
+    "stars": 443,
+    "name": "martinkeith700/ruyiJS",
+    "url": "https://github.com/martinkeith700/ruyiJS",
+    "lang": "C++",
+    "desc": "Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler , get the data and token you want"
+  },
+  {
+    "createdAt": "2026-10-26T16:07:05Z",
+    "stars": 440,
+    "name": "blakeandersonw/ai-app-playbook",
+    "url": "https://github.com/blakeandersonw/ai-app-playbook",
+    "lang": "TypeScript",
+    "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md."
+  },
+  {
+    "createdAt": "2026-10-22T10:23:29Z",
+    "stars": 435,
+    "name": "huaxialucaicaizi/ai-startup-skills",
+    "url": "https://github.com/huaxialucaicaizi/ai-startup-skills",
+    "lang": "Python",
+    "desc": "创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。"
+  },
+  {
+    "createdAt": "2026-10-24T22:34:43Z",
+    "stars": 421,
+    "name": "hevnsnt/CVEngine",
+    "url": "https://github.com/hevnsnt/CVEngine",
+    "lang": "Python",
+    "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration."
+  },
+  {
+    "createdAt": "2026-10-27T12:24:37Z",
+    "stars": 419,
+    "name": "anhao/ai-pose-gallery-zh",
+    "url": "https://github.com/anhao/ai-pose-gallery-zh",
+    "lang": "HTML",
+    "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
+  },
+  {
+    "createdAt": "2026-10-21T01:39:43Z",
+    "stars": 419,
+    "name": "KardDev/dsh-plugins",
+    "url": "https://github.com/KardDev/dsh-plugins",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-22T08:15:03Z",
+    "stars": 418,
+    "name": "zengshuangzi/mcd-money-saver",
+    "url": "https://github.com/zengshuangzi/mcd-money-saver",
+    "lang": "Python",
+    "desc": "基于麦当劳MCP的智能省钱助手"
+  }
+]
