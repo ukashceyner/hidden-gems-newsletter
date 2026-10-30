@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-10-24T05:35:47Z",
+    "stars": 4739,
+    "name": "rddmwmddr/android-ad-cleaner",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "lang": "Python",
+    "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。"
+  },
+  {
+    "createdAt": "2026-10-25T16:04:09Z",
+    "stars": 4728,
+    "name": "unclebob/ub-mode",
+    "url": "https://github.com/unclebob/ub-mode",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-23T21:00:53Z",
+    "stars": 4519,
+    "name": "JustAResearcher/gpu-unlock-ada",
+    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+    "lang": "C",
+    "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally"
+  },
+  {
+    "createdAt": "2026-10-25T14:41:34Z",
+    "stars": 3622,
+    "name": "interplains/Zero-Breach-Toolkit",
+    "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+    "lang": "Python",
+    "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups."
+  },
+  {
+    "createdAt": "2026-10-25T08:27:22Z",
+    "stars": 3238,
+    "name": "designfuchen/word-atlas",
+    "url": "https://github.com/designfuchen/word-atlas",
+    "lang": "TypeScript",
+    "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset."
+  },
+  {
+    "createdAt": "2026-10-27T12:24:37Z",
+    "stars": 3190,
+    "name": "anhao/ai-pose-gallery-zh",
+    "url": "https://github.com/anhao/ai-pose-gallery-zh",
+    "lang": "HTML",
+    "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊"
+  },
+  {
+    "createdAt": "2026-10-24T05:00:20Z",
+    "stars": 2399,
+    "name": "t3dotgg/tstack",
+    "url": "https://github.com/t3dotgg/tstack",
+    "lang": "Python",
+    "desc": "The agent skills I use every day. Works with Claude Code and Codex."
+  },
+  {
+    "createdAt": "2026-10-23T12:20:16Z",
+    "stars": 1568,
+    "name": "enesozturk/dimensional-drawing",
+    "url": "https://github.com/enesozturk/dimensional-drawing",
+    "lang": "HTML",
+    "desc": "Create Apple style dimensional drawings of UI components."
+  },
+  {
+    "createdAt": "2026-10-26T04:34:09Z",
+    "stars": 1469,
+    "name": "andyhuo520/digital-human-koubo",
+    "url": "https://github.com/andyhuo520/digital-human-koubo",
+    "lang": "TypeScript",
+    "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …"
+  },
+  {
+    "createdAt": "2026-10-23T03:01:11Z",
+    "stars": 1417,
+    "name": "morganlinton/BeautifulRust",
+    "url": "https://github.com/morganlinton/BeautifulRust",
+    "lang": "Python",
+    "desc": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI."
+  },
+  {
+    "createdAt": "2026-10-25T10:05:56Z",
+    "stars": 1269,
+    "name": "DenisSergeevitch/ex-ussr-kinship-research",
+    "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+    "lang": "Python",
+    "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language."
+  },
+  {
+    "createdAt": "2026-10-26T06:58:45Z",
+    "stars": 1091,
+    "name": "Motionsites-AI/claude-skill",
+    "url": "https://github.com/Motionsites-AI/claude-skill",
+    "lang": "Python",
+    "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites."
+  },
+  {
+    "createdAt": "2026-10-25T21:48:32Z",
+    "stars": 1006,
+    "name": "KillaBoi/StealMyBitcoin-PoC",
+    "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+    "lang": "Python",
+    "desc": "A public release of the Steal My Bitcoin challenge"
+  },
+  {
+    "createdAt": "2026-10-27T20:40:05Z",
+    "stars": 953,
+    "name": "aschmelyun/print-my-profile-pic",
+    "url": "https://github.com/aschmelyun/print-my-profile-pic",
+    "lang": "",
+    "desc": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer."
+  },
+  {
+    "createdAt": "2026-10-28T04:29:29Z",
+    "stars": 947,
+    "name": "smithjohn78390/tongjiang-lab",
+    "url": "https://github.com/smithjohn78390/tongjiang-lab",
+    "lang": "HTML",
+    "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app"
+  },
+  {
+    "createdAt": "2026-10-25T06:06:02Z",
+    "stars": 876,
+    "name": "ZiChuanLan/agent-purge",
+    "url": "https://github.com/ZiChuanLan/agent-purge",
+    "lang": "JavaScript",
+    "desc": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console."
+  },
+  {
+    "createdAt": "2026-10-26T18:38:56Z",
+    "stars": 806,
+    "name": "kargulstudio/calender-app-design",
+    "url": "https://github.com/kargulstudio/calender-app-design",
+    "lang": "TypeScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-25T05:25:45Z",
+    "stars": 787,
+    "name": "qybaihe/bla",
+    "url": "https://github.com/qybaihe/bla",
+    "lang": "TypeScript",
+    "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate."
+  },
+  {
+    "createdAt": "2026-10-24T08:44:36Z",
+    "stars": 784,
+    "name": "daveebbelaar/bama",
+    "url": "https://github.com/daveebbelaar/bama",
+    "lang": "Swift",
+    "desc": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI."
+  },
+  {
+    "createdAt": "2026-10-23T19:27:24Z",
+    "stars": 776,
+    "name": "surendrapandar/minilytics",
+    "url": "https://github.com/surendrapandar/minilytics",
+    "lang": "TypeScript",
+    "desc": "Opensource Revenue-first analytics for indie hackers & solo founders "
+  },
+  {
+    "createdAt": "2026-10-25T21:22:20Z",
+    "stars": 774,
+    "name": "DrWhax/unfairplay",
+    "url": "https://github.com/DrWhax/unfairplay",
+    "lang": "Go",
+    "desc": "Decrypt IPA's on MacOS"
+  },
+  {
+    "createdAt": "2026-10-24T19:12:41Z",
+    "stars": 769,
+    "name": "anonnerdfrenzy/survival-llm",
+    "url": "https://github.com/anonnerdfrenzy/survival-llm",
+    "lang": "Python",
+    "desc": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer."
+  },
+  {
+    "createdAt": "2026-10-25T05:52:22Z",
+    "stars": 765,
+    "name": "mizorewww/gdirect",
+    "url": "https://github.com/mizorewww/gdirect",
+    "lang": "Rust",
+    "desc": "Rust Google Drive direct downloader using pinned libaria2"
+  },
+  {
+    "createdAt": "2026-10-26T03:12:45Z",
+    "stars": 726,
+    "name": "yaojingang/GEOInflow",
+    "url": "https://github.com/yaojingang/GEOInflow",
+    "lang": "TypeScript",
+    "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed."
+  },
+  {
+    "createdAt": "2026-10-23T21:03:11Z",
+    "stars": 627,
+    "name": "Marker284/yandex-station-extended",
+    "url": "https://github.com/Marker284/yandex-station-extended",
+    "lang": "Shell",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-26T16:07:05Z",
+    "stars": 579,
+    "name": "blakeandersonw/ai-app-playbook",
+    "url": "https://github.com/blakeandersonw/ai-app-playbook",
+    "lang": "TypeScript",
+    "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md."
+  },
+  {
+    "createdAt": "2026-10-26T12:13:47Z",
+    "stars": 557,
+    "name": "deepopen-com/deepopen-3d-webs",
+    "url": "https://github.com/deepopen-com/deepopen-3d-webs",
+    "lang": "Python",
+    "desc": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统"
+  },
+  {
+    "createdAt": "2026-10-24T17:13:42Z",
+    "stars": 545,
+    "name": "mirkobrombin/raven",
+    "url": "https://github.com/mirkobrombin/raven",
+    "lang": "C++",
+    "desc": "A Windows your apps recognize."
+  },
+  {
+    "createdAt": "2026-10-24T11:32:36Z",
+    "stars": 536,
+    "name": "songjianyang/xss-audit",
+    "url": "https://github.com/songjianyang/xss-audit",
+    "lang": "",
+    "desc": "Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaScript projects."
+  },
+  {
+    "createdAt": "2026-10-25T14:12:41Z",
+    "stars": 528,
+    "name": "misshexa66/OunceCake",
+    "url": "https://github.com/misshexa66/OunceCake",
+    "lang": "JavaScript",
+    "desc": "Tool to dump unencrypted romFS and exeFS for Switch 2 games"
+  },
+  {
+    "createdAt": "2026-10-24T16:58:15Z",
+    "stars": 526,
+    "name": "wangrongding/tv-fresh",
+    "url": "https://github.com/wangrongding/tv-fresh",
+    "lang": "Shell",
+    "desc": "tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键脚本"
+  },
+  {
+    "createdAt": "2026-10-29T12:32:46Z",
+    "stars": 525,
+    "name": "valentderah/totk-pc-recomp",
+    "url": "https://github.com/valentderah/totk-pc-recomp",
+    "lang": "C",
+    "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included."
+  },
+  {
+    "createdAt": "2026-10-27T13:22:00Z",
+    "stars": 523,
+    "name": "OpenBMB/MiniCPM-OCR",
+    "url": "https://github.com/OpenBMB/MiniCPM-OCR",
+    "lang": "TypeScript",
+    "desc": "Fast, accurate OCR with correctness assessment."
+  },
+  {
+    "createdAt": "2026-10-24T07:25:39Z",
+    "stars": 512,
+    "name": "zeabur-oss/zeabur",
+    "url": "https://github.com/zeabur-oss/zeabur",
+    "lang": "Rust",
+    "desc": "Self-hosted PaaS on your own Kubernetes."
+  },
+  {
+    "createdAt": "2026-10-26T09:20:06Z",
+    "stars": 490,
+    "name": "konlu/story-studio",
+    "url": "https://github.com/konlu/story-studio",
+    "lang": "Python",
+    "desc": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill"
+  },
+  {
+    "createdAt": "2026-10-24T22:34:43Z",
+    "stars": 486,
+    "name": "hevnsnt/CVEngine",
+    "url": "https://github.com/hevnsnt/CVEngine",
+    "lang": "Python",
+    "desc": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration."
+  },
+  {
+    "createdAt": "2026-10-26T06:04:48Z",
+    "stars": 478,
+    "name": "Fractal-Compute-Orchestrations/.github",
+    "url": "https://github.com/Fractal-Compute-Orchestrations/.github",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-24T03:17:43Z",
+    "stars": 460,
+    "name": "zgx949/ai-pojia",
+    "url": "https://github.com/zgx949/ai-pojia",
+    "lang": "Python",
+    "desc": "破甲CodeX。面向小白的实用 Skills 与插件，可直接破甲CodeX发挥出模型最大的潜能，附完整教程和示例。"
+  },
+  {
+    "createdAt": "2026-10-25T00:04:08Z",
+    "stars": 433,
+    "name": "kuraeow/ultratears",
+    "url": "https://github.com/kuraeow/ultratears",
+    "lang": "C",
+    "desc": "Unofficial native Windows port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included."
+  },
+  {
+    "createdAt": "2026-10-27T22:00:47Z",
+    "stars": 428,
+    "name": "ChannelCooperStart/capri-ai",
+    "url": "https://github.com/ChannelCooperStart/capri-ai",
+    "lang": "",
+    "desc": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more."
+  },
+  {
+    "createdAt": "2026-10-27T08:00:42Z",
+    "stars": 421,
+    "name": "patch-gg/anymove",
+    "url": "https://github.com/patch-gg/anymove",
+    "lang": "Python",
+    "desc": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out."
+  },
+  {
+    "createdAt": "2026-10-28T02:17:41Z",
+    "stars": 417,
+    "name": "MiniMax-AI/mcode-stack",
+    "url": "https://github.com/MiniMax-AI/mcode-stack",
+    "lang": "Python",
+    "desc": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use."
+  },
+  {
+    "createdAt": "2026-10-25T09:07:06Z",
+    "stars": 412,
+    "name": "mochiiwuff/capri-desktop",
+    "url": "https://github.com/mochiiwuff/capri-desktop",
+    "lang": "JavaScript",
+    "desc": "Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing."
+  },
+  {
+    "createdAt": "2026-10-24T13:51:36Z",
+    "stars": 396,
+    "name": "routerhubSI/glm-5.3-abliterated",
+    "url": "https://github.com/routerhubSI/glm-5.3-abliterated",
+    "lang": "Python",
+    "desc": "GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak prompt links, compare GLM models, and find SDK examples, coding-tool setup, pricing, and evaluation guides."
+  },
+  {
+    "createdAt": "2026-10-27T12:03:01Z",
+    "stars": 393,
+    "name": "haydenschmitty/floorplan",
+    "url": "https://github.com/haydenschmitty/floorplan",
+    "lang": "JavaScript",
+    "desc": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex."
+  },
+  {
+    "createdAt": "2026-10-27T23:23:07Z",
+    "stars": 393,
+    "name": "NotRexed/SkyboundTotk",
+    "url": "https://github.com/NotRexed/SkyboundTotk",
+    "lang": "C++",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-25T20:47:02Z",
+    "stars": 379,
+    "name": "mxhm11cr/LinuxRunner",
+    "url": "https://github.com/mxhm11cr/LinuxRunner",
+    "lang": "C",
+    "desc": "Run ARM64 Linux userspace and desktop applications on iPhone and iPad."
+  },
+  {
+    "createdAt": "2026-10-24T12:03:38Z",
+    "stars": 369,
+    "name": "Jestions-dev/BlueFatFish",
+    "url": "https://github.com/Jestions-dev/BlueFatFish",
+    "lang": "JavaScript",
+    "desc": "蓝色大肥鱼的新标签页：蓝底玩具箱 + 自定义壁纸/标签，纯本地，断网也能用"
+  },
+  {
+    "createdAt": "2026-10-24T16:55:17Z",
+    "stars": 368,
+    "name": "routerhubSI/uncensored-ai-api",
+    "url": "https://github.com/routerhubSI/uncensored-ai-api",
+    "lang": "",
+    "desc": "Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, with uncensored and abliterated variants where available. OpenAI- and Anthropic-compatible. Pay per token."
+  },
+  {
+    "createdAt": "2026-10-25T01:18:54Z",
+    "stars": 367,
+    "name": "KohakuBlueleaf/KohakUnlock",
+    "url": "https://github.com/KohakuBlueleaf/KohakUnlock",
+    "lang": "C",
+    "desc": "Experimental NVIDIA tensor-compute unlock research: guarded TU102 initramfs port, offline tests, and Ampere reproduction notes"
+  }
+]
