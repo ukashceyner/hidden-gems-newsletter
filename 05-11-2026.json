@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-10-31T09:32:46Z",
+    "stars": 18628,
+    "name": "deepseek-ai/dsh-superagent-prototype",
+    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "lang": "TypeScript",
+    "desc": "Towards a More Autonomous Agent System"
+  },
+  {
+    "createdAt": "2026-10-31T14:50:00Z",
+    "stars": 11990,
+    "name": "storytold/craft-anything",
+    "url": "https://github.com/storytold/craft-anything",
+    "lang": "Rust",
+    "desc": "Craft Anything: understand how any software works, and craft your own."
+  },
+  {
+    "createdAt": "2026-10-29T15:41:21Z",
+    "stars": 8706,
+    "name": "heydamir/unslop",
+    "url": "https://github.com/heydamir/unslop",
+    "lang": "JavaScript",
+    "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface"
+  },
+  {
+    "createdAt": "2026-10-29T14:34:07Z",
+    "stars": 6668,
+    "name": "wangzan101/Mika",
+    "url": "https://github.com/wangzan101/Mika",
+    "lang": "Kotlin",
+    "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you."
+  },
+  {
+    "createdAt": "2026-10-29T12:32:46Z",
+    "stars": 4873,
+    "name": "valentderah/totk-pc-recomp",
+    "url": "https://github.com/valentderah/totk-pc-recomp",
+    "lang": "C",
+    "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included."
+  },
+  {
+    "createdAt": "2026-10-30T06:43:25Z",
+    "stars": 4744,
+    "name": "patch-gg/pixelfx",
+    "url": "https://github.com/patch-gg/pixelfx",
+    "lang": "JavaScript",
+    "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
+  },
+  {
+    "createdAt": "2026-10-29T00:25:18Z",
+    "stars": 3729,
+    "name": "Djihads80/Eglantine",
+    "url": "https://github.com/Djihads80/Eglantine",
+    "lang": "C++",
+    "desc": "VERY experimental Nintendo Switch 2 emulator"
+  },
+  {
+    "createdAt": "2026-10-29T11:28:43Z",
+    "stars": 3660,
+    "name": "BryceYuuu/RUN",
+    "url": "https://github.com/BryceYuuu/RUN",
+    "lang": "Python",
+    "desc": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）"
+  },
+  {
+    "createdAt": "2026-11-03T08:02:11Z",
+    "stars": 2586,
+    "name": "KKKKhazix/agent-autoloop",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "lang": "TypeScript",
+    "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+  },
+  {
+    "createdAt": "2026-10-29T06:08:00Z",
+    "stars": 2206,
+    "name": "paipiange/nvzhuang",
+    "url": "https://github.com/paipiange/nvzhuang",
+    "lang": "HTML",
+    "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang"
+  },
+  {
+    "createdAt": "2026-10-31T21:34:39Z",
+    "stars": 2051,
+    "name": "Verlintas/NOIR",
+    "url": "https://github.com/Verlintas/NOIR",
+    "lang": "Kotlin",
+    "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes."
+  },
+  {
+    "createdAt": "2026-10-30T09:29:01Z",
+    "stars": 1919,
+    "name": "elvarofficial/teardown",
+    "url": "https://github.com/elvarofficial/teardown",
+    "lang": "JavaScript",
+    "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart"
+  },
+  {
+    "createdAt": "2026-11-01T05:35:12Z",
+    "stars": 1757,
+    "name": "caru-ini/stack-diagram",
+    "url": "https://github.com/caru-ini/stack-diagram",
+    "lang": "TypeScript",
+    "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos"
+  },
+  {
+    "createdAt": "2026-10-29T17:08:59Z",
+    "stars": 1641,
+    "name": "Pika-Labs/Pika-H3-Flex",
+    "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+    "lang": "Python",
+    "desc": "Pika H3 Flex: video and audio generation inference"
+  },
+  {
+    "createdAt": "2026-11-03T03:22:56Z",
+    "stars": 1563,
+    "name": "govijr/terminal-mac",
+    "url": "https://github.com/govijr/terminal-mac",
+    "lang": "Swift",
+    "desc": "Entire MacOS running in your terminal."
+  },
+  {
+    "createdAt": "2026-11-01T05:50:38Z",
+    "stars": 1530,
+    "name": "mromidev/claude-animated-shorts",
+    "url": "https://github.com/mromidev/claude-animated-shorts",
+    "lang": "TypeScript",
+    "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion"
+  },
+  {
+    "createdAt": "2026-10-30T19:40:45Z",
+    "stars": 1509,
+    "name": "Arjun-Ingole/hop",
+    "url": "https://github.com/Arjun-Ingole/hop",
+    "lang": "PowerShell",
+    "desc": "Install Linux next to Windows without a USB stick"
+  },
+  {
+    "createdAt": "2026-10-30T07:49:05Z",
+    "stars": 1426,
+    "name": "kevinraymond/florilegium",
+    "url": "https://github.com/kevinraymond/florilegium",
+    "lang": "TeX",
+    "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua"
+  },
+  {
+    "createdAt": "2026-10-29T06:20:59Z",
+    "stars": 1178,
+    "name": "NiazMorshed2007/reanimate",
+    "url": "https://github.com/NiazMorshed2007/reanimate",
+    "lang": "JavaScript",
+    "desc": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same."
+  },
+  {
+    "createdAt": "2026-11-01T05:41:23Z",
+    "stars": 1163,
+    "name": "wquguru/cicada",
+    "url": "https://github.com/wquguru/cicada",
+    "lang": "Swift",
+    "desc": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac."
+  },
+  {
+    "createdAt": "2026-10-29T16:15:01Z",
+    "stars": 1062,
+    "name": "JuneYaooo/rea-video",
+    "url": "https://github.com/JuneYaooo/rea-video",
+    "lang": "Python",
+    "desc": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot."
+  },
+  {
+    "createdAt": "2026-10-29T04:17:30Z",
+    "stars": 926,
+    "name": "RikiyaT/lm_understand-logs",
+    "url": "https://github.com/RikiyaT/lm_understand-logs",
+    "lang": "Python",
+    "desc": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'"
+  },
+  {
+    "createdAt": "2026-10-30T15:12:35Z",
+    "stars": 871,
+    "name": "N1nEmAn/sapper-v2",
+    "url": "https://github.com/N1nEmAn/sapper-v2",
+    "lang": "Python",
+    "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow."
+  },
+  {
+    "createdAt": "2026-10-31T14:17:26Z",
+    "stars": 848,
+    "name": "zortos293/Lichii",
+    "url": "https://github.com/zortos293/Lichii",
+    "lang": "C++",
+    "desc": "VERY experimental Nintendo Switch 2 emulator"
+  },
+  {
+    "createdAt": "2026-10-29T17:16:13Z",
+    "stars": 814,
+    "name": "hyz317/HairDeck",
+    "url": "https://github.com/hyz317/HairDeck",
+    "lang": "Python",
+    "desc": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image"
+  },
+  {
+    "createdAt": "2026-10-30T19:29:59Z",
+    "stars": 798,
+    "name": "anthropics/FlashProve",
+    "url": "https://github.com/anthropics/FlashProve",
+    "lang": "Lean",
+    "desc": "A research prototype for zero-knowledge proofs of AI inference. Not maintained."
+  },
+  {
+    "createdAt": "2026-11-02T00:40:47Z",
+    "stars": 753,
+    "name": "AssassinCreator/steam-stash-value-report-card",
+    "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+    "lang": "Python",
+    "desc": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account."
+  },
+  {
+    "createdAt": "2026-11-03T14:04:27Z",
+    "stars": 740,
+    "name": "Minireel/HGhub",
+    "url": "https://github.com/Minireel/HGhub",
+    "lang": "TypeScript",
+    "desc": "YellowFruit third-party client"
+  },
+  {
+    "createdAt": "2026-10-31T01:48:19Z",
+    "stars": 728,
+    "name": "joeblau/subvox",
+    "url": "https://github.com/joeblau/subvox",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-30T03:47:28Z",
+    "stars": 716,
+    "name": "ramenvr/autopilot",
+    "url": "https://github.com/ramenvr/autopilot",
+    "lang": "Python",
+    "desc": "Play any game"
+  },
+  {
+    "createdAt": "2026-10-29T15:28:16Z",
+    "stars": 715,
+    "name": "sleepy-zone/ai-ref-library-cn",
+    "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+    "lang": "JavaScript",
+    "desc": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）"
+  },
+  {
+    "createdAt": "2026-11-01T20:53:34Z",
+    "stars": 694,
+    "name": "UncensoredLabs/uncensored-ai-api",
+    "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+    "lang": "JavaScript",
+    "desc": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides."
+  },
+  {
+    "createdAt": "2026-10-29T16:09:54Z",
+    "stars": 675,
+    "name": "rerun-build/rerun",
+    "url": "https://github.com/rerun-build/rerun",
+    "lang": "TypeScript",
+    "desc": "AI coworkers that run your work. Self-hostable, AGPL-3.0."
+  },
+  {
+    "createdAt": "2026-10-29T22:05:35Z",
+    "stars": 648,
+    "name": "hongye007/open-pose-costume",
+    "url": "https://github.com/hongye007/open-pose-costume",
+    "lang": "TypeScript",
+    "desc": "A bilingual reference studio for poses, costumes, and AI character creation."
+  },
+  {
+    "createdAt": "2026-10-30T05:19:33Z",
+    "stars": 647,
+    "name": "alchaincyf/huashu-bird-sticker",
+    "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+    "lang": "",
+    "desc": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data"
+  },
+  {
+    "createdAt": "2026-11-04T14:54:56Z",
+    "stars": 613,
+    "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "lang": "Python",
+    "desc": "Google_AI_Pro_2Year_ZeroCost_Auto"
+  },
+  {
+    "createdAt": "2026-11-01T14:22:53Z",
+    "stars": 609,
+    "name": "s1dashu/quiet-md",
+    "url": "https://github.com/s1dashu/quiet-md",
+    "lang": "Rust",
+    "desc": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。"
+  },
+  {
+    "createdAt": "2026-11-01T17:19:30Z",
+    "stars": 601,
+    "name": "Balanov/uncut",
+    "url": "https://github.com/Balanov/uncut",
+    "lang": "Go",
+    "desc": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts."
+  },
+  {
+    "createdAt": "2026-11-01T04:50:41Z",
+    "stars": 592,
+    "name": "Minglink/dsh-jailbreak-workflow",
+    "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+    "lang": "TypeScript",
+    "desc": "DSH 破甲词制作作工作流 "
+  },
+  {
+    "createdAt": "2026-10-31T19:21:27Z",
+    "stars": 587,
+    "name": "arpanjot-coding/AVault",
+    "url": "https://github.com/arpanjot-coding/AVault",
+    "lang": "Kotlin",
+    "desc": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup."
+  },
+  {
+    "createdAt": "2026-11-03T16:47:18Z",
+    "stars": 583,
+    "name": "brightsongwrath/personal-data-deletor-osint",
+    "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+    "lang": "JavaScript",
+    "desc": "Ask 970 data brokers to delete your data. Free, local, no account, no server."
+  },
+  {
+    "createdAt": "2026-11-01T13:30:59Z",
+    "stars": 583,
+    "name": "Gezine/CivSwitch",
+    "url": "https://github.com/Gezine/CivSwitch",
+    "lang": "JavaScript",
+    "desc": "Nintendo Switch userland code execution using Civilization 7 game cartridge"
+  },
+  {
+    "createdAt": "2026-10-31T21:25:37Z",
+    "stars": 581,
+    "name": "jyotipmahes/ML-Interview-Prep",
+    "url": "https://github.com/jyotipmahes/ML-Interview-Prep",
+    "lang": "Jupyter Notebook",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-31T03:22:12Z",
+    "stars": 571,
+    "name": "zhanghao123vip/ai-manju-skills",
+    "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+    "lang": "",
+    "desc": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek"
+  },
+  {
+    "createdAt": "2026-10-29T10:45:47Z",
+    "stars": 532,
+    "name": "XiaoyeCodes/code-animation-prompts",
+    "url": "https://github.com/XiaoyeCodes/code-animation-prompts",
+    "lang": "HTML",
+    "desc": "341 种代码动画风格提示词、196 张参考静帧与离线挑选器，封装为 Claude Code / Codex Skill，支持一键导入与 HTML 视频渲染。"
+  },
+  {
+    "createdAt": "2026-10-29T05:20:26Z",
+    "stars": 519,
+    "name": "MarkBlah/smsofdeath",
+    "url": "https://github.com/MarkBlah/smsofdeath",
+    "lang": "Java",
+    "desc": "remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup."
+  },
+  {
+    "createdAt": "2026-11-03T17:45:18Z",
+    "stars": 496,
+    "name": "andrew-babo/muse4ai",
+    "url": "https://github.com/andrew-babo/muse4ai",
+    "lang": "TypeScript",
+    "desc": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth."
+  },
+  {
+    "createdAt": "2026-10-30T23:54:20Z",
+    "stars": 494,
+    "name": "ashayas/icloud-s3",
+    "url": "https://github.com/ashayas/icloud-s3",
+    "lang": "Rust",
+    "desc": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole."
+  },
+  {
+    "createdAt": "2026-10-30T03:46:44Z",
+    "stars": 485,
+    "name": "gothamor/gta-vcs-recomp",
+    "url": "https://github.com/gothamor/gta-vcs-recomp",
+    "lang": "C++",
+    "desc": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++"
+  },
+  {
+    "createdAt": "2026-10-31T15:00:55Z",
+    "stars": 461,
+    "name": "smarkyie/NSP-Box",
+    "url": "https://github.com/smarkyie/NSP-Box",
+    "lang": "Python",
+    "desc": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching."
+  }
+]
