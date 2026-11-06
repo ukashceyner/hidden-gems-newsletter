@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-10-31T09:32:46Z",
+    "stars": 19542,
+    "name": "deepseek-ai/dsh-superagent-prototype",
+    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "lang": "TypeScript",
+    "desc": "Towards a More Autonomous Agent System"
+  },
+  {
+    "createdAt": "2026-10-31T14:50:00Z",
+    "stars": 15180,
+    "name": "storytold/craft-anything",
+    "url": "https://github.com/storytold/craft-anything",
+    "lang": "Rust",
+    "desc": "Craft Anything: understand how any software works, and craft your own."
+  },
+  {
+    "createdAt": "2026-10-30T06:43:25Z",
+    "stars": 5287,
+    "name": "patch-gg/pixelfx",
+    "url": "https://github.com/patch-gg/pixelfx",
+    "lang": "JavaScript",
+    "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own."
+  },
+  {
+    "createdAt": "2026-11-03T08:02:11Z",
+    "stars": 3270,
+    "name": "KKKKhazix/agent-autoloop",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "lang": "TypeScript",
+    "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+  },
+  {
+    "createdAt": "2026-10-31T21:34:39Z",
+    "stars": 2508,
+    "name": "Verlintas/NOIR",
+    "url": "https://github.com/Verlintas/NOIR",
+    "lang": "Kotlin",
+    "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes."
+  },
+  {
+    "createdAt": "2026-11-04T14:54:56Z",
+    "stars": 2406,
+    "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "lang": "Python",
+    "desc": "Google_AI_Pro_2Year_ZeroCost_Auto"
+  },
+  {
+    "createdAt": "2026-10-31T14:17:26Z",
+    "stars": 2355,
+    "name": "zortos293/Lichii",
+    "url": "https://github.com/zortos293/Lichii",
+    "lang": "C++",
+    "desc": "VERY experimental Nintendo Switch 2 emulator"
+  },
+  {
+    "createdAt": "2026-10-30T09:29:01Z",
+    "stars": 2195,
+    "name": "elvarofficial/teardown",
+    "url": "https://github.com/elvarofficial/teardown",
+    "lang": "JavaScript",
+    "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart"
+  },
+  {
+    "createdAt": "2026-11-03T03:22:56Z",
+    "stars": 1971,
+    "name": "govijr/terminal-mac",
+    "url": "https://github.com/govijr/terminal-mac",
+    "lang": "Swift",
+    "desc": "Entire MacOS running in your terminal."
+  },
+  {
+    "createdAt": "2026-11-01T05:35:12Z",
+    "stars": 1870,
+    "name": "caru-ini/stack-diagram",
+    "url": "https://github.com/caru-ini/stack-diagram",
+    "lang": "TypeScript",
+    "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos"
+  },
+  {
+    "createdAt": "2026-11-01T05:50:38Z",
+    "stars": 1769,
+    "name": "mromidev/claude-animated-shorts",
+    "url": "https://github.com/mromidev/claude-animated-shorts",
+    "lang": "TypeScript",
+    "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion"
+  },
+  {
+    "createdAt": "2026-10-30T19:40:45Z",
+    "stars": 1533,
+    "name": "Arjun-Ingole/hop",
+    "url": "https://github.com/Arjun-Ingole/hop",
+    "lang": "PowerShell",
+    "desc": "Install Linux next to Windows without a USB stick"
+  },
+  {
+    "createdAt": "2026-11-01T05:41:23Z",
+    "stars": 1494,
+    "name": "wquguru/cicada",
+    "url": "https://github.com/wquguru/cicada",
+    "lang": "Swift",
+    "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android."
+  },
+  {
+    "createdAt": "2026-10-30T07:49:05Z",
+    "stars": 1460,
+    "name": "kevinraymond/florilegium",
+    "url": "https://github.com/kevinraymond/florilegium",
+    "lang": "TeX",
+    "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX"
+  },
+  {
+    "createdAt": "2026-10-30T15:12:35Z",
+    "stars": 1360,
+    "name": "N1nEmAn/sapper-v2",
+    "url": "https://github.com/N1nEmAn/sapper-v2",
+    "lang": "Python",
+    "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow."
+  },
+  {
+    "createdAt": "2026-11-03T14:04:27Z",
+    "stars": 1146,
+    "name": "Minireel/HGhub",
+    "url": "https://github.com/Minireel/HGhub",
+    "lang": "TypeScript",
+    "desc": "YellowFruit third-party client"
+  },
+  {
+    "createdAt": "2026-11-01T14:22:53Z",
+    "stars": 1071,
+    "name": "s1dashu/quiet-md",
+    "url": "https://github.com/s1dashu/quiet-md",
+    "lang": "Rust",
+    "desc": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML."
+  },
+  {
+    "createdAt": "2026-10-30T19:29:59Z",
+    "stars": 910,
+    "name": "anthropics/FlashProve",
+    "url": "https://github.com/anthropics/FlashProve",
+    "lang": "Lean",
+    "desc": "A research prototype for zero-knowledge proofs of AI inference. Not maintained."
+  },
+  {
+    "createdAt": "2026-11-01T20:53:34Z",
+    "stars": 865,
+    "name": "UncensoredLabs/uncensored-ai-api",
+    "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+    "lang": "JavaScript",
+    "desc": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides."
+  },
+  {
+    "createdAt": "2026-11-03T17:45:18Z",
+    "stars": 828,
+    "name": "andrew-babo/muse4ai",
+    "url": "https://github.com/andrew-babo/muse4ai",
+    "lang": "TypeScript",
+    "desc": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth."
+  },
+  {
+    "createdAt": "2026-11-02T00:40:47Z",
+    "stars": 810,
+    "name": "AssassinCreator/steam-stash-value-report-card",
+    "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+    "lang": "Python",
+    "desc": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account."
+  },
+  {
+    "createdAt": "2026-10-30T03:47:28Z",
+    "stars": 782,
+    "name": "ramenvr/autopilot",
+    "url": "https://github.com/ramenvr/autopilot",
+    "lang": "Python",
+    "desc": "Play any game"
+  },
+  {
+    "createdAt": "2026-10-31T01:48:19Z",
+    "stars": 748,
+    "name": "joeblau/subvox",
+    "url": "https://github.com/joeblau/subvox",
+    "lang": "Swift",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-01T04:50:41Z",
+    "stars": 680,
+    "name": "Minglink/dsh-jailbreak-workflow",
+    "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+    "lang": "TypeScript",
+    "desc": "DSH 破甲词制作作工作流 "
+  },
+  {
+    "createdAt": "2026-10-30T05:19:33Z",
+    "stars": 676,
+    "name": "alchaincyf/huashu-bird-sticker",
+    "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+    "lang": "",
+    "desc": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data"
+  },
+  {
+    "createdAt": "2026-11-03T16:47:18Z",
+    "stars": 650,
+    "name": "brightsongwrath/personal-data-deletor-osint",
+    "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+    "lang": "JavaScript",
+    "desc": "Ask 970 data brokers to delete your data. Free, local, no account, no server."
+  },
+  {
+    "createdAt": "2026-11-01T13:30:59Z",
+    "stars": 616,
+    "name": "Gezine/CivSwitch",
+    "url": "https://github.com/Gezine/CivSwitch",
+    "lang": "JavaScript",
+    "desc": "Nintendo Switch userland code execution using Civilization 7 game cartridge"
+  },
+  {
+    "createdAt": "2026-11-01T17:19:30Z",
+    "stars": 608,
+    "name": "Balanov/uncut",
+    "url": "https://github.com/Balanov/uncut",
+    "lang": "Go",
+    "desc": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts."
+  },
+  {
+    "createdAt": "2026-10-31T19:21:27Z",
+    "stars": 601,
+    "name": "arpanjot-coding/AVault",
+    "url": "https://github.com/arpanjot-coding/AVault",
+    "lang": "Kotlin",
+    "desc": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup."
+  },
+  {
+    "createdAt": "2026-10-31T21:25:37Z",
+    "stars": 597,
+    "name": "jyotipmahes/ML-Interview-Prep",
+    "url": "https://github.com/jyotipmahes/ML-Interview-Prep",
+    "lang": "Jupyter Notebook",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-10-31T03:22:12Z",
+    "stars": 588,
+    "name": "zhanghao123vip/ai-manju-skills",
+    "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+    "lang": "",
+    "desc": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek"
+  },
+  {
+    "createdAt": "2026-11-01T12:54:27Z",
+    "stars": 566,
+    "name": "jxy333967/jianxunyun",
+    "url": "https://github.com/jxy333967/jianxunyun",
+    "lang": "",
+    "desc": "简讯云  最好的vpn服务"
+  },
+  {
+    "createdAt": "2026-10-31T13:33:04Z",
+    "stars": 500,
+    "name": "sqlpxc/airhand",
+    "url": "https://github.com/sqlpxc/airhand",
+    "lang": "Rust",
+    "desc": "High-performance remote desktop over QUIC · Rust + Tauri + React"
+  },
+  {
+    "createdAt": "2026-10-30T03:46:44Z",
+    "stars": 497,
+    "name": "gothamor/gta-vcs-recomp",
+    "url": "https://github.com/gothamor/gta-vcs-recomp",
+    "lang": "C++",
+    "desc": "A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++"
+  },
+  {
+    "createdAt": "2026-10-30T23:54:20Z",
+    "stars": 497,
+    "name": "ashayas/icloud-s3",
+    "url": "https://github.com/ashayas/icloud-s3",
+    "lang": "Rust",
+    "desc": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole."
+  },
+  {
+    "createdAt": "2026-10-31T15:00:55Z",
+    "stars": 495,
+    "name": "smarkyie/NSP-Box",
+    "url": "https://github.com/smarkyie/NSP-Box",
+    "lang": "Python",
+    "desc": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching."
+  },
+  {
+    "createdAt": "2026-11-01T05:16:00Z",
+    "stars": 491,
+    "name": "kevintngo/looseleaf",
+    "url": "https://github.com/kevintngo/looseleaf",
+    "lang": "TypeScript",
+    "desc": "shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry."
+  },
+  {
+    "createdAt": "2026-10-30T14:45:30Z",
+    "stars": 488,
+    "name": "op7418/dsh-guizang-design",
+    "url": "https://github.com/op7418/dsh-guizang-design",
+    "lang": "HTML",
+    "desc": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案"
+  },
+  {
+    "createdAt": "2026-10-31T07:48:17Z",
+    "stars": 473,
+    "name": "parallelpan/hongguo-downloader",
+    "url": "https://github.com/parallelpan/hongguo-downloader",
+    "lang": "",
+    "desc": "红果短剧下载工具：红果短剧 / 红果免费短剧 全集下载、批量下载与整剧打包 ZIP，粘贴分享链接即云端处理、按集取件，免安装网页版。Hongguo downloader — short drama downloader for cdrama & duanju: paste a link, fetch every episode online, pay per episode, no install."
+  },
+  {
+    "createdAt": "2026-11-02T17:54:29Z",
+    "stars": 463,
+    "name": "Balanov/shim",
+    "url": "https://github.com/Balanov/shim",
+    "lang": "Go",
+    "desc": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT."
+  },
+  {
+    "createdAt": "2026-10-31T13:30:34Z",
+    "stars": 460,
+    "name": "yetone/alma-relay",
+    "url": "https://github.com/yetone/alma-relay",
+    "lang": "JavaScript",
+    "desc": "Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, anywhere. Docker or Cloudflare Workers."
+  },
+  {
+    "createdAt": "2026-10-30T17:00:28Z",
+    "stars": 457,
+    "name": "0xCodez/DuoDesk",
+    "url": "https://github.com/0xCodez/DuoDesk",
+    "lang": "JavaScript",
+    "desc": "All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0"
+  },
+  {
+    "createdAt": "2026-10-30T19:04:54Z",
+    "stars": 453,
+    "name": "JaceThings/DiaTweaks",
+    "url": "https://github.com/JaceThings/DiaTweaks",
+    "lang": "Objective-C",
+    "desc": "Unofficial tweaks for the Dia browser, kept in place across updates"
+  },
+  {
+    "createdAt": "2026-11-01T15:31:22Z",
+    "stars": 447,
+    "name": "chadyi/StudyOnTV",
+    "url": "https://github.com/chadyi/StudyOnTV",
+    "lang": "Kotlin",
+    "desc": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later."
+  },
+  {
+    "createdAt": "2026-11-02T03:10:30Z",
+    "stars": 443,
+    "name": "drakolordx7/switch2-recomp",
+    "url": "https://github.com/drakolordx7/switch2-recomp",
+    "lang": "C++",
+    "desc": "Nintendo Switch 2 games recompiled to run natively on PC."
+  },
+  {
+    "createdAt": "2026-11-02T09:22:02Z",
+    "stars": 442,
+    "name": "mhfed/vn-law-check",
+    "url": "https://github.com/mhfed/vn-law-check",
+    "lang": "Shell",
+    "desc": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline"
+  },
+  {
+    "createdAt": "2026-11-05T05:20:24Z",
+    "stars": 429,
+    "name": "AtomIllusionistDwell/watson-username-footprint-finder",
+    "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
+    "lang": "TypeScript",
+    "desc": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report."
+  },
+  {
+    "createdAt": "2026-11-05T06:48:59Z",
+    "stars": 426,
+    "name": "TagPhaseArcade/tiktok-uploader",
+    "url": "https://github.com/TagPhaseArcade/tiktok-uploader",
+    "lang": "Python",
+    "desc": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform"
+  },
+  {
+    "createdAt": "2026-11-05T05:16:01Z",
+    "stars": 426,
+    "name": "dragonwolfshovel/youtube-uploader",
+    "url": "https://github.com/dragonwolfshovel/youtube-uploader",
+    "lang": "Python",
+    "desc": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first"
+  },
+  {
+    "createdAt": "2026-11-04T04:53:31Z",
+    "stars": 426,
+    "name": "Lostuaexpand/windows-animated-wallpapers",
+    "url": "https://github.com/Lostuaexpand/windows-animated-wallpapers",
+    "lang": "",
+    "desc": "High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable"
+  }
+]
