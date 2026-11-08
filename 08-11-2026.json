@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-11-03T08:02:11Z",
+    "stars": 3960,
+    "name": "KKKKhazix/agent-autoloop",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "lang": "TypeScript",
+    "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+  },
+  {
+    "createdAt": "2026-11-04T14:54:56Z",
+    "stars": 3056,
+    "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "lang": "Python",
+    "desc": "Google_AI_Pro_2Year_ZeroCost_Auto"
+  },
+  {
+    "createdAt": "2026-11-03T14:04:27Z",
+    "stars": 2317,
+    "name": "Minireel/HGhub",
+    "url": "https://github.com/Minireel/HGhub",
+    "lang": "TypeScript",
+    "desc": "YellowFruit third-party client"
+  },
+  {
+    "createdAt": "2026-11-03T03:22:56Z",
+    "stars": 2244,
+    "name": "govijr/terminal-mac",
+    "url": "https://github.com/govijr/terminal-mac",
+    "lang": "Swift",
+    "desc": "Entire MacOS running in your terminal."
+  },
+  {
+    "createdAt": "2026-11-01T05:50:38Z",
+    "stars": 2229,
+    "name": "mromidev/claude-animated-shorts",
+    "url": "https://github.com/mromidev/claude-animated-shorts",
+    "lang": "TypeScript",
+    "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion"
+  },
+  {
+    "createdAt": "2026-11-01T05:35:12Z",
+    "stars": 2073,
+    "name": "caru-ini/stack-diagram",
+    "url": "https://github.com/caru-ini/stack-diagram",
+    "lang": "TypeScript",
+    "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos"
+  },
+  {
+    "createdAt": "2026-11-05T12:18:58Z",
+    "stars": 1836,
+    "name": "NotRexed/Hookshot",
+    "url": "https://github.com/NotRexed/Hookshot",
+    "lang": "C++",
+    "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake"
+  },
+  {
+    "createdAt": "2026-11-06T09:28:09Z",
+    "stars": 1668,
+    "name": "JenkinWoo/sheeridVerify",
+    "url": "https://github.com/JenkinWoo/sheeridVerify",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-01T05:41:23Z",
+    "stars": 1624,
+    "name": "wquguru/cicada",
+    "url": "https://github.com/wquguru/cicada",
+    "lang": "Swift",
+    "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android."
+  },
+  {
+    "createdAt": "2026-11-01T14:22:53Z",
+    "stars": 1270,
+    "name": "s1dashu/quiet-md",
+    "url": "https://github.com/s1dashu/quiet-md",
+    "lang": "Rust",
+    "desc": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML."
+  },
+  {
+    "createdAt": "2026-11-04T03:28:33Z",
+    "stars": 1200,
+    "name": "livliv-dev/player",
+    "url": "https://github.com/livliv-dev/player",
+    "lang": "TypeScript",
+    "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking."
+  },
+  {
+    "createdAt": "2026-11-05T04:52:28Z",
+    "stars": 1140,
+    "name": "mmdoctor/google-pro-helper",
+    "url": "https://github.com/mmdoctor/google-pro-helper",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-03T08:23:03Z",
+    "stars": 1055,
+    "name": "Sandflow-ai/sand3d",
+    "url": "https://github.com/Sandflow-ai/sand3d",
+    "lang": "HTML",
+    "desc": "3D modeling in Python, built for LLMs."
+  },
+  {
+    "createdAt": "2026-11-05T22:37:07Z",
+    "stars": 878,
+    "name": "voyager-so/vork",
+    "url": "https://github.com/voyager-so/vork",
+    "lang": "Rust",
+    "desc": "Headless 3D and VFX engine for agents. Research preview."
+  },
+  {
+    "createdAt": "2026-11-02T16:11:30Z",
+    "stars": 852,
+    "name": "libracoder/kiri",
+    "url": "https://github.com/libracoder/kiri",
+    "lang": "Rust",
+    "desc": "A small, fast container runtime for macOS, Windows and Linux"
+  },
+  {
+    "createdAt": "2026-11-01T15:31:22Z",
+    "stars": 846,
+    "name": "chadyi/StudyOnTV",
+    "url": "https://github.com/chadyi/StudyOnTV",
+    "lang": "Kotlin",
+    "desc": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later."
+  },
+  {
+    "createdAt": "2026-11-03T10:08:16Z",
+    "stars": 800,
+    "name": "sarpstar/cinecode",
+    "url": "https://github.com/sarpstar/cinecode",
+    "lang": "Python",
+    "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4."
+  },
+  {
+    "createdAt": "2026-11-06T22:24:03Z",
+    "stars": 792,
+    "name": "sostenesfreitas/ocarina-recomp",
+    "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+    "lang": "C",
+    "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included."
+  },
+  {
+    "createdAt": "2026-11-02T00:40:47Z",
+    "stars": 791,
+    "name": "AssassinCreator/steam-stash-value-report-card",
+    "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+    "lang": "Python",
+    "desc": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account."
+  },
+  {
+    "createdAt": "2026-11-02T01:13:51Z",
+    "stars": 779,
+    "name": "Leviidev/Henge",
+    "url": "https://github.com/Leviidev/Henge",
+    "lang": "C",
+    "desc": "Emulate macOS on iOS and iPadOS"
+  },
+  {
+    "createdAt": "2026-11-04T13:27:14Z",
+    "stars": 763,
+    "name": "egoist/mygo-music",
+    "url": "https://github.com/egoist/mygo-music",
+    "lang": "Go",
+    "desc": "A native music player you extend with plugins"
+  },
+  {
+    "createdAt": "2026-11-01T04:50:41Z",
+    "stars": 746,
+    "name": "Minglink/dsh-jailbreak-workflow",
+    "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+    "lang": "TypeScript",
+    "desc": "DSH 破甲词制作作工作流 "
+  },
+  {
+    "createdAt": "2026-11-03T02:00:54Z",
+    "stars": 731,
+    "name": "CzJam/gjgjxweb",
+    "url": "https://github.com/CzJam/gjgjxweb",
+    "lang": "HTML",
+    "desc": "《搞机工具箱》Web移植版"
+  },
+  {
+    "createdAt": "2026-11-01T13:30:59Z",
+    "stars": 644,
+    "name": "Gezine/CivSwitch",
+    "url": "https://github.com/Gezine/CivSwitch",
+    "lang": "JavaScript",
+    "desc": "Nintendo Switch userland code execution using Civilization 7 game cartridge"
+  },
+  {
+    "createdAt": "2026-11-05T04:08:24Z",
+    "stars": 624,
+    "name": "WoYun520/gif-factory",
+    "url": "https://github.com/WoYun520/gif-factory",
+    "lang": "Python",
+    "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。"
+  },
+  {
+    "createdAt": "2026-11-01T05:16:00Z",
+    "stars": 541,
+    "name": "kevintngo/looseleaf",
+    "url": "https://github.com/kevintngo/looseleaf",
+    "lang": "TypeScript",
+    "desc": "shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry."
+  },
+  {
+    "createdAt": "2026-11-03T00:49:34Z",
+    "stars": 523,
+    "name": "shanselman/gputaskman",
+    "url": "https://github.com/shanselman/gputaskman",
+    "lang": "Python",
+    "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA)."
+  },
+  {
+    "createdAt": "2026-11-05T15:04:31Z",
+    "stars": 508,
+    "name": "JosssphZhou/poki",
+    "url": "https://github.com/JosssphZhou/poki",
+    "lang": "JavaScript",
+    "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware."
+  },
+  {
+    "createdAt": "2026-11-05T05:28:37Z",
+    "stars": 505,
+    "name": "majorminorlabs/hermes-voice",
+    "url": "https://github.com/majorminorlabs/hermes-voice",
+    "lang": "Python",
+    "desc": "Talk to a Hermes Agent profile through Home Assistant Assist"
+  },
+  {
+    "createdAt": "2026-11-03T17:47:08Z",
+    "stars": 504,
+    "name": "zeekk0/OpenAmika",
+    "url": "https://github.com/zeekk0/OpenAmika",
+    "lang": "Python",
+    "desc": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain."
+  },
+  {
+    "createdAt": "2026-11-02T03:10:30Z",
+    "stars": 491,
+    "name": "drakolordx7/switch2-recomp",
+    "url": "https://github.com/drakolordx7/switch2-recomp",
+    "lang": "C++",
+    "desc": "Nintendo Switch 2 games recompiled to run natively on PC."
+  },
+  {
+    "createdAt": "2026-11-01T02:53:31Z",
+    "stars": 486,
+    "name": "artemnovitckii/claude-animation-skills",
+    "url": "https://github.com/artemnovitckii/claude-animation-skills",
+    "lang": "JavaScript",
+    "desc": "Six Claude Code skills that make animations for reels, no footage needed: 3D cartoon explainer, stick figure, minimal line art, 3D map route, exploded view, line graph."
+  },
+  {
+    "createdAt": "2026-11-03T04:25:22Z",
+    "stars": 474,
+    "name": "Renly1994/xiaotang-daozai",
+    "url": "https://github.com/Renly1994/xiaotang-daozai",
+    "lang": "Rust",
+    "desc": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。"
+  },
+  {
+    "createdAt": "2026-11-05T14:47:29Z",
+    "stars": 474,
+    "name": "riyadhHDA/wichforks",
+    "url": "https://github.com/riyadhHDA/wichforks",
+    "lang": "Python",
+    "desc": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports."
+  },
+  {
+    "createdAt": "2026-11-02T09:22:02Z",
+    "stars": 471,
+    "name": "mhfed/vn-law-check",
+    "url": "https://github.com/mhfed/vn-law-check",
+    "lang": "Shell",
+    "desc": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline"
+  },
+  {
+    "createdAt": "2026-11-01T13:32:34Z",
+    "stars": 462,
+    "name": "SAOS-3624/dsh-see-now",
+    "url": "https://github.com/SAOS-3624/dsh-see-now",
+    "lang": "JavaScript",
+    "desc": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token"
+  },
+  {
+    "createdAt": "2026-11-07T16:09:41Z",
+    "stars": 442,
+    "name": "Th0rgal/satmux",
+    "url": "https://github.com/Th0rgal/satmux",
+    "lang": "Python",
+    "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)"
+  },
+  {
+    "createdAt": "2026-11-02T04:49:29Z",
+    "stars": 433,
+    "name": "woniuniuniu/dsh-media-desk",
+    "url": "https://github.com/woniuniuniu/dsh-media-desk",
+    "lang": "JavaScript",
+    "desc": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜"
+  },
+  {
+    "createdAt": "2026-11-05T06:48:59Z",
+    "stars": 430,
+    "name": "TagPhaseArcade/tiktok-uploader",
+    "url": "https://github.com/TagPhaseArcade/tiktok-uploader",
+    "lang": "Python",
+    "desc": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform"
+  },
+  {
+    "createdAt": "2026-11-05T05:16:01Z",
+    "stars": 429,
+    "name": "dragonwolfshovel/youtube-uploader",
+    "url": "https://github.com/dragonwolfshovel/youtube-uploader",
+    "lang": "Python",
+    "desc": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first"
+  },
+  {
+    "createdAt": "2026-11-06T06:16:35Z",
+    "stars": 427,
+    "name": "HerdBuilderEstimate/roblox-studio-mcp",
+    "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
+    "lang": "Python",
+    "desc": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight"
+  },
+  {
+    "createdAt": "2026-11-06T08:03:46Z",
+    "stars": 426,
+    "name": "PulverizeLink/roblox-performance-tool",
+    "url": "https://github.com/PulverizeLink/roblox-performance-tool",
+    "lang": "Python",
+    "desc": "Lightweight performance utility for Roblox on Windows. Boosts FPS, fixes stutter, reduces input lag, and allows custom frame limits. Safe, offline, and open-source"
+  },
+  {
+    "createdAt": "2026-11-06T09:58:59Z",
+    "stars": 426,
+    "name": "Lowbetweentrim/crypto-portfolio-tracker",
+    "url": "https://github.com/Lowbetweentrim/crypto-portfolio-tracker",
+    "lang": "Python",
+    "desc": "Self-hosted, privacy-first crypto portfolio tracker. Import transactions via CSV, track real-time PnL, and manage your assets locally. No cloud, no subscriptions. Open-source"
+  },
+  {
+    "createdAt": "2026-11-04T04:53:31Z",
+    "stars": 426,
+    "name": "Lostuaexpand/windows-animated-wallpapers",
+    "url": "https://github.com/Lostuaexpand/windows-animated-wallpapers",
+    "lang": "",
+    "desc": "High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Open-source and portable"
+  },
+  {
+    "createdAt": "2026-11-04T17:10:56Z",
+    "stars": 426,
+    "name": "fjordostrichhose/Steam-Points-Tools-2026",
+    "url": "https://github.com/fjordostrichhose/Steam-Points-Tools-2026",
+    "lang": "Python",
+    "desc": "Professional desktop application for Steam users. Smart tools for points management, community engagement, activity tracking and profile optimization. Clean interface, regularly updated."
+  },
+  {
+    "createdAt": "2026-11-07T20:26:32Z",
+    "stars": 425,
+    "name": "Poltergeistlunagrid/Steam-Idler",
+    "url": "https://github.com/Poltergeistlunagrid/Steam-Idler",
+    "lang": "Python",
+    "desc": "Steam Idler, Card Farmer & Playtime Booster. Idle multiple games to farm trading cards, boost playtime hours, and manage multiple accounts. Lightweight, open-source, and easy to use."
+  },
+  {
+    "createdAt": "2026-11-06T12:01:51Z",
+    "stars": 425,
+    "name": "phaseboulderfetter/discord-quest-completer",
+    "url": "https://github.com/phaseboulderfetter/discord-quest-completer",
+    "lang": "Python",
+    "desc": "Auto-complete Discord Quests without installing games. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source"
+  },
+  {
+    "createdAt": "2026-11-07T18:07:44Z",
+    "stars": 425,
+    "name": "sentinelsoldierprize/Minecraft-AFK-Bot",
+    "url": "https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot",
+    "lang": "Python",
+    "desc": "Lightweight Minecraft Anti-AFK bot with a web dashboard. Keeps your account online 24/7, simulates activity to avoid kicks, and supports auto-reconnect. Perfect for Aternos and survival servers."
+  },
+  {
+    "createdAt": "2026-11-02T02:15:29Z",
+    "stars": 424,
+    "name": "wideeyededi/uncensored-nsfw-ai-video-api",
+    "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
+    "lang": "",
+    "desc": "Uncensored NSFW API for AI video generation — Seedance Spicy & Wan NSFW docs: 18+ text-to-video / image-to-video, async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。"
+  },
+  {
+    "createdAt": "2026-11-02T23:54:01Z",
+    "stars": 420,
+    "name": "1337isnot1337/DOPPLERGEIST",
+    "url": "https://github.com/1337isnot1337/DOPPLERGEIST",
+    "lang": "Python",
+    "desc": "Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)"
+  }
+]
