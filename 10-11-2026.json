@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-11-03T14:04:27Z",
+    "stars": 6746,
+    "name": "Minireel/HGhub",
+    "url": "https://github.com/Minireel/HGhub",
+    "lang": "TypeScript",
+    "desc": "YellowFruit third-party client"
+  },
+  {
+    "createdAt": "2026-11-05T12:18:58Z",
+    "stars": 5268,
+    "name": "NotRexed/Hookshot",
+    "url": "https://github.com/NotRexed/Hookshot",
+    "lang": "C++",
+    "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake"
+  },
+  {
+    "createdAt": "2026-11-03T08:02:11Z",
+    "stars": 4315,
+    "name": "KKKKhazix/agent-autoloop",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "lang": "TypeScript",
+    "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。"
+  },
+  {
+    "createdAt": "2026-11-03T03:22:56Z",
+    "stars": 2520,
+    "name": "govijr/terminal-mac",
+    "url": "https://github.com/govijr/terminal-mac",
+    "lang": "Swift",
+    "desc": "Entire MacOS running in your terminal."
+  },
+  {
+    "createdAt": "2026-11-07T10:01:23Z",
+    "stars": 2477,
+    "name": "tangerineturtle1/NX2navi",
+    "url": "https://github.com/tangerineturtle1/NX2navi",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-09T05:15:48Z",
+    "stars": 2358,
+    "name": "huamidev/GestaltX",
+    "url": "https://github.com/huamidev/GestaltX",
+    "lang": "Swift",
+    "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages."
+  },
+  {
+    "createdAt": "2026-11-03T16:50:21Z",
+    "stars": 2319,
+    "name": "janestreet/agent_skills",
+    "url": "https://github.com/janestreet/agent_skills",
+    "lang": "",
+    "desc": "Agent skills"
+  },
+  {
+    "createdAt": "2026-11-08T05:49:46Z",
+    "stars": 1965,
+    "name": "jhaizhou-ops/S2Arm",
+    "url": "https://github.com/jhaizhou-ops/S2Arm",
+    "lang": "C#",
+    "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。"
+  },
+  {
+    "createdAt": "2026-11-06T09:28:09Z",
+    "stars": 1951,
+    "name": "JenkinWoo/sheeridVerify",
+    "url": "https://github.com/JenkinWoo/sheeridVerify",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-03T10:08:16Z",
+    "stars": 1935,
+    "name": "sarpstar/cinecode",
+    "url": "https://github.com/sarpstar/cinecode",
+    "lang": "Python",
+    "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4."
+  },
+  {
+    "createdAt": "2026-11-03T08:23:03Z",
+    "stars": 1645,
+    "name": "Sandflow-ai/sand3d",
+    "url": "https://github.com/Sandflow-ai/sand3d",
+    "lang": "HTML",
+    "desc": "3D modeling in Python, built for LLMs."
+  },
+  {
+    "createdAt": "2026-11-03T00:49:34Z",
+    "stars": 1509,
+    "name": "shanselman/gputaskman",
+    "url": "https://github.com/shanselman/gputaskman",
+    "lang": "Python",
+    "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA)."
+  },
+  {
+    "createdAt": "2026-11-06T16:53:14Z",
+    "stars": 1488,
+    "name": "DIYgod/pinky",
+    "url": "https://github.com/DIYgod/pinky",
+    "lang": "Go",
+    "desc": "Let AI agents use your phone, with you in the loop."
+  },
+  {
+    "createdAt": "2026-11-03T02:00:54Z",
+    "stars": 1488,
+    "name": "CzJam/gjgjxweb",
+    "url": "https://github.com/CzJam/gjgjxweb",
+    "lang": "HTML",
+    "desc": "《搞机工具箱》Web移植版"
+  },
+  {
+    "createdAt": "2026-11-05T16:16:41Z",
+    "stars": 1476,
+    "name": "IainKay/ram-altman",
+    "url": "https://github.com/IainKay/ram-altman",
+    "lang": "Shell",
+    "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI."
+  },
+  {
+    "createdAt": "2026-11-05T04:52:28Z",
+    "stars": 1456,
+    "name": "mmdoctor/google-pro-helper",
+    "url": "https://github.com/mmdoctor/google-pro-helper",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-04T03:28:33Z",
+    "stars": 1413,
+    "name": "livliv-dev/player",
+    "url": "https://github.com/livliv-dev/player",
+    "lang": "TypeScript",
+    "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking."
+  },
+  {
+    "createdAt": "2026-11-05T22:37:07Z",
+    "stars": 1300,
+    "name": "voyager-so/vork",
+    "url": "https://github.com/voyager-so/vork",
+    "lang": "Rust",
+    "desc": "Headless 3D and VFX engine for agents. Research preview."
+  },
+  {
+    "createdAt": "2026-11-05T19:10:42Z",
+    "stars": 1272,
+    "name": "jamesondh/chimera-vocal-synth",
+    "url": "https://github.com/jamesondh/chimera-vocal-synth",
+    "lang": "Rust",
+    "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more"
+  },
+  {
+    "createdAt": "2026-11-04T13:27:14Z",
+    "stars": 1128,
+    "name": "egoist/mygo-music",
+    "url": "https://github.com/egoist/mygo-music",
+    "lang": "Go",
+    "desc": "A native music player you extend with plugins"
+  },
+  {
+    "createdAt": "2026-11-06T22:24:03Z",
+    "stars": 1064,
+    "name": "sostenesfreitas/ocarina-recomp",
+    "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+    "lang": "C",
+    "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included."
+  },
+  {
+    "createdAt": "2026-11-05T04:08:24Z",
+    "stars": 1037,
+    "name": "WoYun520/gif-factory",
+    "url": "https://github.com/WoYun520/gif-factory",
+    "lang": "Python",
+    "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。"
+  },
+  {
+    "createdAt": "2026-11-07T16:09:41Z",
+    "stars": 1014,
+    "name": "Th0rgal/satmux",
+    "url": "https://github.com/Th0rgal/satmux",
+    "lang": "Python",
+    "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)"
+  },
+  {
+    "createdAt": "2026-11-05T15:04:31Z",
+    "stars": 788,
+    "name": "JosssphZhou/poki",
+    "url": "https://github.com/JosssphZhou/poki",
+    "lang": "Swift",
+    "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware."
+  },
+  {
+    "createdAt": "2026-11-05T04:50:13Z",
+    "stars": 742,
+    "name": "sassiestrhihno/boxshelf-beta",
+    "url": "https://github.com/sassiestrhihno/boxshelf-beta",
+    "lang": "",
+    "desc": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps."
+  },
+  {
+    "createdAt": "2026-11-05T08:18:08Z",
+    "stars": 738,
+    "name": "yappologistic/CUI",
+    "url": "https://github.com/yappologistic/CUI",
+    "lang": "C",
+    "desc": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies."
+  },
+  {
+    "createdAt": "2026-11-05T05:20:24Z",
+    "stars": 695,
+    "name": "AtomIllusionistDwell/watson-username-footprint-finder",
+    "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
+    "lang": "TypeScript",
+    "desc": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report."
+  },
+  {
+    "createdAt": "2026-11-05T05:28:37Z",
+    "stars": 625,
+    "name": "majorminorlabs/hermes-voice",
+    "url": "https://github.com/majorminorlabs/hermes-voice",
+    "lang": "Python",
+    "desc": "Talk to a Hermes Agent profile through Home Assistant Assist"
+  },
+  {
+    "createdAt": "2026-11-03T09:52:39Z",
+    "stars": 589,
+    "name": "kubai087/kubai-icons",
+    "url": "https://github.com/kubai087/kubai-icons",
+    "lang": "JavaScript",
+    "desc": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse them."
+  },
+  {
+    "createdAt": "2026-11-03T17:47:08Z",
+    "stars": 578,
+    "name": "zeekk0/OpenAmika",
+    "url": "https://github.com/zeekk0/OpenAmika",
+    "lang": "Python",
+    "desc": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain."
+  },
+  {
+    "createdAt": "2026-11-03T04:25:22Z",
+    "stars": 561,
+    "name": "Renly1994/xiaotang-daozai",
+    "url": "https://github.com/Renly1994/xiaotang-daozai",
+    "lang": "Rust",
+    "desc": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。"
+  },
+  {
+    "createdAt": "2026-11-05T14:47:29Z",
+    "stars": 546,
+    "name": "riyadhHDA/wichforks",
+    "url": "https://github.com/riyadhHDA/wichforks",
+    "lang": "Python",
+    "desc": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports."
+  },
+  {
+    "createdAt": "2026-11-04T08:07:13Z",
+    "stars": 545,
+    "name": "CityPulso/PulsoIcon",
+    "url": "https://github.com/CityPulso/PulsoIcon",
+    "lang": "Kotlin",
+    "desc": "Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion."
+  },
+  {
+    "createdAt": "2026-11-07T01:28:30Z",
+    "stars": 541,
+    "name": "lxe/phoneuse",
+    "url": "https://github.com/lxe/phoneuse",
+    "lang": "Python",
+    "desc": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents."
+  },
+  {
+    "createdAt": "2026-11-06T07:02:30Z",
+    "stars": 494,
+    "name": "devvmhq/devvm",
+    "url": "https://github.com/devvmhq/devvm",
+    "lang": "Go",
+    "desc": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding"
+  },
+  {
+    "createdAt": "2026-11-06T21:23:09Z",
+    "stars": 481,
+    "name": "mahmoudtawfik1998/secure-pdf-document-processor",
+    "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+    "lang": "HTML",
+    "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop"
+  },
+  {
+    "createdAt": "2026-11-06T20:58:36Z",
+    "stars": 481,
+    "name": "abhijot11/fabfilter-total",
+    "url": "https://github.com/abhijot11/fabfilter-total",
+    "lang": "HTML",
+    "desc": "Fabfilter Total 2026 security assessment toolkit with full feature validation and installer verifica"
+  },
+  {
+    "createdAt": "2026-11-06T21:33:17Z",
+    "stars": 481,
+    "name": "dhruvthakur11/youtube-ai-video-editing-system",
+    "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
+    "lang": "HTML",
+    "desc": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow"
+  },
+  {
+    "createdAt": "2026-11-06T20:33:06Z",
+    "stars": 481,
+    "name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+    "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
+    "lang": "HTML",
+    "desc": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer"
+  },
+  {
+    "createdAt": "2026-11-06T21:06:03Z",
+    "stars": 481,
+    "name": "AbhramJohn/instagram-engagement-bot",
+    "url": "https://github.com/AbhramJohn/instagram-engagement-bot",
+    "lang": "HTML",
+    "desc": "Community-driven Instagram Liker Bot with advanced automation for desktop"
+  },
+  {
+    "createdAt": "2026-11-06T21:29:20Z",
+    "stars": 480,
+    "name": "shammahcharumbira/universal-neural-injector-center",
+    "url": "https://github.com/shammahcharumbira/universal-neural-injector-center",
+    "lang": "HTML",
+    "desc": "Universal Neural DLSS 5 Injector and Game Center for All RTX Titles"
+  },
+  {
+    "createdAt": "2026-11-06T21:04:00Z",
+    "stars": 480,
+    "name": "jmanalabe/hwid-spoofer",
+    "url": "https://github.com/jmanalabe/hwid-spoofer",
+    "lang": "TypeScript",
+    "desc": "Full working HWID spoofer installer with all features enabled, ready to run"
+  },
+  {
+    "createdAt": "2026-11-06T20:44:12Z",
+    "stars": 480,
+    "name": "MrsanjayYT/cellebrite-ufed-forensic-suite",
+    "url": "https://github.com/MrsanjayYT/cellebrite-ufed-forensic-suite",
+    "lang": "HTML",
+    "desc": "Cellebrite UFED 2026 standalone installer with pre-configured toolset for forensic workflows"
+  },
+  {
+    "createdAt": "2026-11-06T21:09:36Z",
+    "stars": 480,
+    "name": "RolandoV3/metatrader-5-bot",
+    "url": "https://github.com/RolandoV3/metatrader-5-bot",
+    "lang": "TypeScript",
+    "desc": "Community-driven MetaTrader 5 bot with full features ready for desktop use"
+  },
+  {
+    "createdAt": "2026-11-06T20:30:52Z",
+    "stars": 480,
+    "name": "nabilaolivia2104-commits/adobe-indesign-deployment-pipeline",
+    "url": "https://github.com/nabilaolivia2104-commits/adobe-indesign-deployment-pipeline",
+    "lang": "HTML",
+    "desc": "Adobe InDesign Desktop Build: Secure Digital Asset Deployment Pipeline"
+  },
+  {
+    "createdAt": "2026-11-06T20:45:00Z",
+    "stars": 480,
+    "name": "thiagoaureliomartins-programador/chief-architect-premier",
+    "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
+    "lang": "Rust",
+    "desc": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled"
+  },
+  {
+    "createdAt": "2026-11-06T20:36:35Z",
+    "stars": 480,
+    "name": "marcoscarrillo26/audio-workbench-desktop",
+    "url": "https://github.com/marcoscarrillo26/audio-workbench-desktop",
+    "lang": "HTML",
+    "desc": "Advanced Audio Workbench 2023 Standalone Desktop Setup with Secure Asset Deployment Pipeline"
+  },
+  {
+    "createdAt": "2026-11-06T21:23:44Z",
+    "stars": 480,
+    "name": "Dipanshu9997/seedphrase-audit",
+    "url": "https://github.com/Dipanshu9997/seedphrase-audit",
+    "lang": "HTML",
+    "desc": "seedphrasegenerator: full-feature desktop installer for security research and testing"
+  },
+  {
+    "createdAt": "2026-11-06T20:30:42Z",
+    "stars": 480,
+    "name": "radim-hossain94/abbyy-finereader-pdf",
+    "url": "https://github.com/radim-hossain94/abbyy-finereader-pdf",
+    "lang": "HTML",
+    "desc": "ABBYY FineReader PDF: Full-Featured Desktop OCR and Document Conversion Installer"
+  },
+  {
+    "createdAt": "2026-11-06T21:26:24Z",
+    "stars": 480,
+    "name": "Thormass007/substance-3d-alt-access",
+    "url": "https://github.com/Thormass007/substance-3d-alt-access",
+    "lang": "HTML",
+    "desc": "adobe-substance-3d: Secure Digital Asset Deployment Pipeline for Desktop"
+  }
+]
