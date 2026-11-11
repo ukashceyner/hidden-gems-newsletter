@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-11-05T12:18:58Z",
+    "stars": 6595,
+    "name": "NotRexed/Hookshot",
+    "url": "https://github.com/NotRexed/Hookshot",
+    "lang": "C++",
+    "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake"
+  },
+  {
+    "createdAt": "2026-11-09T05:15:48Z",
+    "stars": 4841,
+    "name": "huamidev/GestaltX",
+    "url": "https://github.com/huamidev/GestaltX",
+    "lang": "Swift",
+    "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages."
+  },
+  {
+    "createdAt": "2026-11-07T10:01:23Z",
+    "stars": 2901,
+    "name": "tangerineturtle1/NX2navi",
+    "url": "https://github.com/tangerineturtle1/NX2navi",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-08T05:49:46Z",
+    "stars": 2393,
+    "name": "jhaizhou-ops/S2Arm",
+    "url": "https://github.com/jhaizhou-ops/S2Arm",
+    "lang": "C#",
+    "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。"
+  },
+  {
+    "createdAt": "2026-11-06T09:28:09Z",
+    "stars": 2008,
+    "name": "JenkinWoo/sheeridVerify",
+    "url": "https://github.com/JenkinWoo/sheeridVerify",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-05T16:16:41Z",
+    "stars": 1827,
+    "name": "IainKay/ram-altman",
+    "url": "https://github.com/IainKay/ram-altman",
+    "lang": "Shell",
+    "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI."
+  },
+  {
+    "createdAt": "2026-11-05T19:10:42Z",
+    "stars": 1705,
+    "name": "jamesondh/chimera-vocal-synth",
+    "url": "https://github.com/jamesondh/chimera-vocal-synth",
+    "lang": "Rust",
+    "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more"
+  },
+  {
+    "createdAt": "2026-11-06T16:53:14Z",
+    "stars": 1693,
+    "name": "DIYgod/pinky",
+    "url": "https://github.com/DIYgod/pinky",
+    "lang": "Go",
+    "desc": "Let AI agents use your phone, with you in the loop."
+  },
+  {
+    "createdAt": "2026-11-05T04:52:28Z",
+    "stars": 1651,
+    "name": "mmdoctor/google-pro-helper",
+    "url": "https://github.com/mmdoctor/google-pro-helper",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-04T03:28:33Z",
+    "stars": 1462,
+    "name": "livliv-dev/player",
+    "url": "https://github.com/livliv-dev/player",
+    "lang": "TypeScript",
+    "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking."
+  },
+  {
+    "createdAt": "2026-11-05T22:37:07Z",
+    "stars": 1357,
+    "name": "voyager-so/vork",
+    "url": "https://github.com/voyager-so/vork",
+    "lang": "Rust",
+    "desc": "Headless 3D and VFX engine for agents. Research preview."
+  },
+  {
+    "createdAt": "2026-11-04T13:27:14Z",
+    "stars": 1192,
+    "name": "egoist/mygo-music",
+    "url": "https://github.com/egoist/mygo-music",
+    "lang": "Go",
+    "desc": "A native music player you extend with plugins"
+  },
+  {
+    "createdAt": "2026-11-05T04:08:24Z",
+    "stars": 1090,
+    "name": "WoYun520/gif-factory",
+    "url": "https://github.com/WoYun520/gif-factory",
+    "lang": "Python",
+    "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。"
+  },
+  {
+    "createdAt": "2026-11-06T22:24:03Z",
+    "stars": 1089,
+    "name": "sostenesfreitas/ocarina-recomp",
+    "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+    "lang": "C",
+    "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included."
+  },
+  {
+    "createdAt": "2026-11-10T02:37:31Z",
+    "stars": 1065,
+    "name": "Kianuni/Erosion-CN",
+    "url": "https://github.com/Kianuni/Erosion-CN",
+    "lang": "Swift",
+    "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）"
+  },
+  {
+    "createdAt": "2026-11-07T16:09:41Z",
+    "stars": 1034,
+    "name": "Th0rgal/satmux",
+    "url": "https://github.com/Th0rgal/satmux",
+    "lang": "Python",
+    "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)"
+  },
+  {
+    "createdAt": "2026-11-05T15:04:31Z",
+    "stars": 921,
+    "name": "JosssphZhou/poki",
+    "url": "https://github.com/JosssphZhou/poki",
+    "lang": "Swift",
+    "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware."
+  },
+  {
+    "createdAt": "2026-11-05T08:18:08Z",
+    "stars": 877,
+    "name": "yappologistic/CUI",
+    "url": "https://github.com/yappologistic/CUI",
+    "lang": "C",
+    "desc": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies."
+  },
+  {
+    "createdAt": "2026-11-05T04:50:13Z",
+    "stars": 819,
+    "name": "sassiestrhihno/boxshelf-beta",
+    "url": "https://github.com/sassiestrhihno/boxshelf-beta",
+    "lang": "",
+    "desc": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps."
+  },
+  {
+    "createdAt": "2026-11-06T20:45:00Z",
+    "stars": 775,
+    "name": "thiagoaureliomartins-programador/chief-architect-premier",
+    "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
+    "lang": "Rust",
+    "desc": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled"
+  },
+  {
+    "createdAt": "2026-11-06T20:47:00Z",
+    "stars": 773,
+    "name": "woo20080623-cell/cinebench-desktop",
+    "url": "https://github.com/woo20080623-cell/cinebench-desktop",
+    "lang": "HTML",
+    "desc": "Cinebench 2026 Standalone Desktop Setup with Pre-Activated Features"
+  },
+  {
+    "createdAt": "2026-11-06T21:20:42Z",
+    "stars": 773,
+    "name": "rdeepak-wq121/quicken-deluxe-installer",
+    "url": "https://github.com/rdeepak-wq121/quicken-deluxe-installer",
+    "lang": "TypeScript",
+    "desc": "Quicken Deluxe Desktop Installer with Full Feature Set Enabled"
+  },
+  {
+    "createdAt": "2026-11-06T21:23:09Z",
+    "stars": 773,
+    "name": "mahmoudtawfik1998/secure-pdf-document-processor",
+    "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+    "lang": "HTML",
+    "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop"
+  },
+  {
+    "createdAt": "2026-11-06T21:21:20Z",
+    "stars": 773,
+    "name": "SK-Dev666/rust-external-trainer-tool",
+    "url": "https://github.com/SK-Dev666/rust-external-trainer-tool",
+    "lang": "TypeScript",
+    "desc": "Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run"
+  },
+  {
+    "createdAt": "2026-11-06T21:03:36Z",
+    "stars": 773,
+    "name": "shayannazar84-hero/honkai-star-rail-companion-suite",
+    "url": "https://github.com/shayannazar84-hero/honkai-star-rail-companion-suite",
+    "lang": "HTML",
+    "desc": "Honkai Star Rail 2026 Trainer Tool: Complete Standalone Setup, Ready to Run"
+  },
+  {
+    "createdAt": "2026-11-06T20:30:50Z",
+    "stars": 773,
+    "name": "bipro45/actual-multi-display-configurator",
+    "url": "https://github.com/bipro45/actual-multi-display-configurator",
+    "lang": "HTML",
+    "desc": "Multi-Monitor Desktop Configuration Installer with Enhanced Display Options"
+  },
+  {
+    "createdAt": "2026-11-06T21:09:49Z",
+    "stars": 773,
+    "name": "daiphu2708-crypto/melodyne-5-desktop-setup",
+    "url": "https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup",
+    "lang": "HTML",
+    "desc": "Melodyne-5: Professional Audio Editing Desktop Suite with Full Feature Set"
+  },
+  {
+    "createdAt": "2026-11-06T21:14:39Z",
+    "stars": 773,
+    "name": "Eriazeri/on1-photo-raw-max-config",
+    "url": "https://github.com/Eriazeri/on1-photo-raw-max-config",
+    "lang": "HTML",
+    "desc": "on1-photo-raw-max: complete standalone setup with advanced image tools"
+  },
+  {
+    "createdAt": "2026-11-06T21:04:22Z",
+    "stars": 773,
+    "name": "leanislizarzado/ibm-spss-desktop-suite",
+    "url": "https://github.com/leanislizarzado/ibm-spss-desktop-suite",
+    "lang": "HTML",
+    "desc": "IBM SPSS Statistics 2026 Standalone Setup with Full Feature Configuration"
+  },
+  {
+    "createdAt": "2026-11-06T21:24:56Z",
+    "stars": 773,
+    "name": "manjushree-iyer/soundpad-audio-suite",
+    "url": "https://github.com/manjushree-iyer/soundpad-audio-suite",
+    "lang": "Go",
+    "desc": "Soundpad: Advanced Audio Processing for Professional DAW Workflows"
+  },
+  {
+    "createdAt": "2026-11-06T21:09:36Z",
+    "stars": 773,
+    "name": "RolandoV3/metatrader-5-bot",
+    "url": "https://github.com/RolandoV3/metatrader-5-bot",
+    "lang": "TypeScript",
+    "desc": "Community-driven MetaTrader 5 bot with full features ready for desktop use"
+  },
+  {
+    "createdAt": "2026-11-06T21:23:56Z",
+    "stars": 773,
+    "name": "Malik-825/sketchup-pro-desktop",
+    "url": "https://github.com/Malik-825/sketchup-pro-desktop",
+    "lang": "HTML",
+    "desc": "Sketchup Pro 2026 Complete Standalone Desktop Setup with All Features Pre-Activated"
+  },
+  {
+    "createdAt": "2026-11-06T20:49:17Z",
+    "stars": 773,
+    "name": "ayanprob/coreldraw-desktop-installer",
+    "url": "https://github.com/ayanprob/coreldraw-desktop-installer",
+    "lang": "HTML",
+    "desc": "CorelDraw 2026 Professional Desktop Installer with Ready-to-Run Utility Configuration"
+  },
+  {
+    "createdAt": "2026-11-06T21:28:52Z",
+    "stars": 773,
+    "name": "Forgavin/ultra-iso-desktop-setup",
+    "url": "https://github.com/Forgavin/ultra-iso-desktop-setup",
+    "lang": "HTML",
+    "desc": "Ultra Iso 2026 desktop application with complete standalone setup and all features pre-configured fo"
+  },
+  {
+    "createdAt": "2026-11-06T20:46:25Z",
+    "stars": 773,
+    "name": "angelonyn/chimera-desktop-suite",
+    "url": "https://github.com/angelonyn/chimera-desktop-suite",
+    "lang": "HTML",
+    "desc": "Chimera: Pre-configured Desktop Utility Suite with Full Installer"
+  },
+  {
+    "createdAt": "2026-11-06T21:29:41Z",
+    "stars": 773,
+    "name": "arthurrossetocampos1-crypto/uttorent-desktop",
+    "url": "https://github.com/arthurrossetocampos1-crypto/uttorent-desktop",
+    "lang": "HTML",
+    "desc": "Uttorent 2026: Desktop Installer for Seamless Torrent Management"
+  },
+  {
+    "createdAt": "2026-11-06T20:39:51Z",
+    "stars": 773,
+    "name": "Leno27-Adr/autodesk-revit-2026-standalone",
+    "url": "https://github.com/Leno27-Adr/autodesk-revit-2026-standalone",
+    "lang": "HTML",
+    "desc": "Autodesk Revit 2026 Complete Standalone Setup for Desktop"
+  },
+  {
+    "createdAt": "2026-11-06T21:13:18Z",
+    "stars": 773,
+    "name": "pastebin2019/multiaccountmanager-enhancement",
+    "url": "https://github.com/pastebin2019/multiaccountmanager-enhancement",
+    "lang": "HTML",
+    "desc": "Multiaccountmanager 2026: Complete Standalone Setup, Fully Pre-Activated, Ready to Install"
+  },
+  {
+    "createdAt": "2026-11-06T21:03:58Z",
+    "stars": 773,
+    "name": "hayfa1234/honkai-star-rail-enhancement-suite",
+    "url": "https://github.com/hayfa1234/honkai-star-rail-enhancement-suite",
+    "lang": "HTML",
+    "desc": "Honkai Star Rail 2026: Pre-Activated Standalone Desktop Edition, Ready to Run"
+  },
+  {
+    "createdAt": "2026-11-06T20:44:28Z",
+    "stars": 773,
+    "name": "theonlyoneexocctical-beep/cellebrite-ufed-setup",
+    "url": "https://github.com/theonlyoneexocctical-beep/cellebrite-ufed-setup",
+    "lang": "HTML",
+    "desc": "Cellebrite UFED 2026 Standalone Desktop Setup with Pre-Configured Feature Set"
+  },
+  {
+    "createdAt": "2026-11-06T20:33:06Z",
+    "stars": 773,
+    "name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+    "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
+    "lang": "HTML",
+    "desc": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer"
+  },
+  {
+    "createdAt": "2026-11-06T20:37:01Z",
+    "stars": 773,
+    "name": "App-MonicaWEB/auslogics-audio-studio-desktop",
+    "url": "https://github.com/App-MonicaWEB/auslogics-audio-studio-desktop",
+    "lang": "HTML",
+    "desc": "Auslogics Audio Studio 2026 Desktop Edition: Pre-Activated Standalone Setup"
+  },
+  {
+    "createdAt": "2026-11-06T21:20:39Z",
+    "stars": 773,
+    "name": "tianjanahary05-source/reason-14-installer",
+    "url": "https://github.com/tianjanahary05-source/reason-14-installer",
+    "lang": "HTML",
+    "desc": "reason-14: Full Working Installer for Professional Desktop Software, Ready to Run in 2026"
+  },
+  {
+    "createdAt": "2026-11-06T21:20:48Z",
+    "stars": 773,
+    "name": "Marcian15350/robux-generator-enhancement",
+    "url": "https://github.com/Marcian15350/robux-generator-enhancement",
+    "lang": "TypeScript",
+    "desc": "Robux-Generator: Full Installer, All Features Activated, Desktop-Ready"
+  },
+  {
+    "createdAt": "2026-11-06T21:20:42Z",
+    "stars": 773,
+    "name": "xavier442/pump-fun-desktop",
+    "url": "https://github.com/xavier442/pump-fun-desktop",
+    "lang": "HTML",
+    "desc": "Pump Fun 2026: Complete Desktop Utility Setup with Pre-Activated Features"
+  },
+  {
+    "createdAt": "2026-11-06T21:27:09Z",
+    "stars": 773,
+    "name": "RafliAbdulHaliim/sylenth-1-enhancement-suite",
+    "url": "https://github.com/RafliAbdulHaliim/sylenth-1-enhancement-suite",
+    "lang": "HTML",
+    "desc": "Sylenth 1 configuration utility: standalone desktop setup, ready to run"
+  },
+  {
+    "createdAt": "2026-11-06T21:25:32Z",
+    "stars": 772,
+    "name": "muddinenilakshmilalithaksh-create/sp-flash-tool",
+    "url": "https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool",
+    "lang": "HTML",
+    "desc": "SP-Flash-Tool: Standalone Firmware Flashing Suite with Drivers and Utilities"
+  },
+  {
+    "createdAt": "2026-11-06T20:56:37Z",
+    "stars": 772,
+    "name": "flgomes/dxo-photolab-10-desktop",
+    "url": "https://github.com/flgomes/dxo-photolab-10-desktop",
+    "lang": "HTML",
+    "desc": "DxO PhotoLab 10 desktop build for professional photo processing workflows"
+  },
+  {
+    "createdAt": "2026-11-06T21:07:23Z",
+    "stars": 772,
+    "name": "dikshantghimire321-droid/kontakt-8-config",
+    "url": "https://github.com/dikshantghimire321-droid/kontakt-8-config",
+    "lang": "HTML",
+    "desc": "Kontakt 8 desktop utility config: opinionated dotfiles, ready to run"
+  },
+  {
+    "createdAt": "2026-11-06T21:16:00Z",
+    "stars": 772,
+    "name": "shahnawaz0786/payday-3-enhancement-toolkit",
+    "url": "https://github.com/shahnawaz0786/payday-3-enhancement-toolkit",
+    "lang": "HTML",
+    "desc": "Payday 3 Trainer Tool - Fully Activated Desktop Build, Ready to Play"
+  }
+]
