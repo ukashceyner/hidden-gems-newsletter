@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-11-09T05:15:48Z",
+    "stars": 7335,
+    "name": "huamidev/GestaltX",
+    "url": "https://github.com/huamidev/GestaltX",
+    "lang": "Swift",
+    "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups."
+  },
+  {
+    "createdAt": "2026-11-07T10:01:23Z",
+    "stars": 3906,
+    "name": "tangerineturtle1/NX2navi",
+    "url": "https://github.com/tangerineturtle1/NX2navi",
+    "lang": "C",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-08T05:49:46Z",
+    "stars": 2871,
+    "name": "jhaizhou-ops/S2Arm",
+    "url": "https://github.com/jhaizhou-ops/S2Arm",
+    "lang": "C#",
+    "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。"
+  },
+  {
+    "createdAt": "2026-11-10T02:37:31Z",
+    "stars": 1928,
+    "name": "Kianuni/Erosion-CN",
+    "url": "https://github.com/Kianuni/Erosion-CN",
+    "lang": "Swift",
+    "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）"
+  },
+  {
+    "createdAt": "2026-11-11T04:27:17Z",
+    "stars": 1491,
+    "name": "apex-compute/ANR",
+    "url": "https://github.com/apex-compute/ANR",
+    "lang": "C++",
+    "desc": "Apex Neural Rendering (ANR) by Apex Compute"
+  },
+  {
+    "createdAt": "2026-11-10T10:46:56Z",
+    "stars": 1439,
+    "name": "HybridRobotics/supermimic",
+    "url": "https://github.com/HybridRobotics/supermimic",
+    "lang": "Python",
+    "desc": "Humanoid whole-body motion tracking with one differentiable world model."
+  },
+  {
+    "createdAt": "2026-11-09T00:50:28Z",
+    "stars": 1345,
+    "name": "agentes-chat/agentes-chat",
+    "url": "https://github.com/agentes-chat/agentes-chat",
+    "lang": "TypeScript",
+    "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0."
+  },
+  {
+    "createdAt": "2026-11-10T20:01:01Z",
+    "stars": 1280,
+    "name": "FrigadeHQ/yogurt",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "lang": "TypeScript",
+    "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux."
+  },
+  {
+    "createdAt": "2026-11-09T23:53:25Z",
+    "stars": 1103,
+    "name": "HolyArrs/HolyArrs",
+    "url": "https://github.com/HolyArrs/HolyArrs",
+    "lang": "Go",
+    "desc": "One self-hosted app for your shows, movies and music."
+  },
+  {
+    "createdAt": "2026-11-07T16:09:41Z",
+    "stars": 1074,
+    "name": "Th0rgal/satmux",
+    "url": "https://github.com/Th0rgal/satmux",
+    "lang": "Python",
+    "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)"
+  },
+  {
+    "createdAt": "2026-11-07T12:45:46Z",
+    "stars": 989,
+    "name": "Goblinmine/homelab-diagram",
+    "url": "https://github.com/Goblinmine/homelab-diagram",
+    "lang": "Python",
+    "desc": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude."
+  },
+  {
+    "createdAt": "2026-11-07T01:36:28Z",
+    "stars": 845,
+    "name": "dabingfy-dot/solo-to-team-skills",
+    "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+    "lang": "",
+    "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。"
+  },
+  {
+    "createdAt": "2026-11-09T13:43:40Z",
+    "stars": 804,
+    "name": "kolbicz/WQFiles",
+    "url": "https://github.com/kolbicz/WQFiles",
+    "lang": "Objective-C",
+    "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)"
+  },
+  {
+    "createdAt": "2026-11-12T08:08:19Z",
+    "stars": 790,
+    "name": "deepseek-ai/chat-demo",
+    "url": "https://github.com/deepseek-ai/chat-demo",
+    "lang": "TypeScript",
+    "desc": "Chat Demo"
+  },
+  {
+    "createdAt": "2026-11-09T00:47:33Z",
+    "stars": 751,
+    "name": "serveroshq/panel",
+    "url": "https://github.com/serveroshq/panel",
+    "lang": "PHP",
+    "desc": "The open source ServerOS panel: one place to run the Linux servers you already own."
+  },
+  {
+    "createdAt": "2026-11-09T19:13:52Z",
+    "stars": 738,
+    "name": "alexeyw/lot-map",
+    "url": "https://github.com/alexeyw/lot-map",
+    "lang": "TypeScript",
+    "desc": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages."
+  },
+  {
+    "createdAt": "2026-11-07T21:58:07Z",
+    "stars": 709,
+    "name": "Goldoire/fefw-recomp",
+    "url": "https://github.com/Goldoire/fefw-recomp",
+    "lang": "C++",
+    "desc": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included."
+  },
+  {
+    "createdAt": "2026-11-09T15:40:06Z",
+    "stars": 702,
+    "name": "adriadam10/mkw-recomp",
+    "url": "https://github.com/adriadam10/mkw-recomp",
+    "lang": "C",
+    "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program"
+  },
+  {
+    "createdAt": "2026-11-10T09:25:25Z",
+    "stars": 663,
+    "name": "JDhruv14/line-art-animation",
+    "url": "https://github.com/JDhruv14/line-art-animation",
+    "lang": "TypeScript",
+    "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle."
+  },
+  {
+    "createdAt": "2026-11-07T01:28:30Z",
+    "stars": 649,
+    "name": "lxe/phoneuse",
+    "url": "https://github.com/lxe/phoneuse",
+    "lang": "Python",
+    "desc": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents."
+  },
+  {
+    "createdAt": "2026-11-08T17:00:03Z",
+    "stars": 615,
+    "name": "forcequitOS/worse_query",
+    "url": "https://github.com/forcequitOS/worse_query",
+    "lang": "Objective-C",
+    "desc": "A sandbox escape for iOS 26 and 27, again"
+  },
+  {
+    "createdAt": "2026-11-12T20:49:07Z",
+    "stars": 541,
+    "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+    "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+    "lang": "Visual Basic .NET",
+    "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian."
+  },
+  {
+    "createdAt": "2026-11-07T20:39:55Z",
+    "stars": 519,
+    "name": "LNPANDY/HGhub-MacOS-iOS-Version",
+    "url": "https://github.com/LNPANDY/HGhub-MacOS-iOS-Version",
+    "lang": "",
+    "desc": "HGhub 跨平台客户端 (macOS & iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速"
+  },
+  {
+    "createdAt": "2026-11-12T10:52:32Z",
+    "stars": 499,
+    "name": "AIRzZ90/study-materials-fork",
+    "url": "https://github.com/AIRzZ90/study-materials-fork",
+    "lang": "TypeScript",
+    "desc": "A cross-platform Tauri 2 interface and interaction practice project"
+  },
+  {
+    "createdAt": "2026-11-09T09:02:29Z",
+    "stars": 494,
+    "name": "Robbyant/lingbot-touch",
+    "url": "https://github.com/Robbyant/lingbot-touch",
+    "lang": "Python",
+    "desc": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation"
+  },
+  {
+    "createdAt": "2026-11-08T08:22:48Z",
+    "stars": 493,
+    "name": "luobinger/PerkRadar",
+    "url": "https://github.com/luobinger/PerkRadar",
+    "lang": "TypeScript",
+    "desc": "PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and personal bookmarks."
+  },
+  {
+    "createdAt": "2026-11-09T17:18:59Z",
+    "stars": 490,
+    "name": "Dodaios/ste80-humanizer",
+    "url": "https://github.com/Dodaios/ste80-humanizer",
+    "lang": "Python",
+    "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared."
+  },
+  {
+    "createdAt": "2026-11-11T19:12:58Z",
+    "stars": 486,
+    "name": "makepad/relax",
+    "url": "https://github.com/makepad/relax",
+    "lang": "Rust",
+    "desc": "Relax Rust JIT"
+  },
+  {
+    "createdAt": "2026-11-07T17:45:52Z",
+    "stars": 483,
+    "name": "21stware/bowel",
+    "url": "https://github.com/21stware/bowel",
+    "lang": "Go",
+    "desc": "Bowel is a mihomo client for macOS, Windows, Linux and Android."
+  },
+  {
+    "createdAt": "2026-11-07T00:34:42Z",
+    "stars": 471,
+    "name": "TooonyChen/finallyshell",
+    "url": "https://github.com/TooonyChen/finallyshell",
+    "lang": "Go",
+    "desc": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI"
+  },
+  {
+    "createdAt": "2026-11-12T00:44:12Z",
+    "stars": 438,
+    "name": "rivet-dev/open-orange",
+    "url": "https://github.com/rivet-dev/open-orange",
+    "lang": "TypeScript",
+    "desc": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers."
+  },
+  {
+    "createdAt": "2026-11-08T20:07:38Z",
+    "stars": 437,
+    "name": "paulirish/chrome-capture",
+    "url": "https://github.com/paulirish/chrome-capture",
+    "lang": "TypeScript",
+    "desc": "60-120fps / 2160p tab video/audio capture from Chrome"
+  },
+  {
+    "createdAt": "2026-11-07T14:15:03Z",
+    "stars": 428,
+    "name": "imxieyi/Kernarium",
+    "url": "https://github.com/imxieyi/Kernarium",
+    "lang": "C++",
+    "desc": "Run real Linux kernel natively on iOS"
+  },
+  {
+    "createdAt": "2026-11-09T09:28:22Z",
+    "stars": 411,
+    "name": "yetone/rewind-for-x",
+    "url": "https://github.com/yetone/rewind-for-x",
+    "lang": "JavaScript",
+    "desc": "Chrome extension: look back at posts that scrolled past on your X home timeline"
+  },
+  {
+    "createdAt": "2026-11-09T13:53:03Z",
+    "stars": 409,
+    "name": "TomyJan/SnowLuma",
+    "url": "https://github.com/TomyJan/SnowLuma",
+    "lang": "TypeScript",
+    "desc": "Next Remote Protocol Framework."
+  },
+  {
+    "createdAt": "2026-11-13T04:07:57Z",
+    "stars": 384,
+    "name": "faizfahmi77/ScanDot",
+    "url": "https://github.com/faizfahmi77/ScanDot",
+    "lang": "Kotlin",
+    "desc": "Experimental Android 3D scanning and point-cloud viewer"
+  },
+  {
+    "createdAt": "2026-11-11T19:09:18Z",
+    "stars": 380,
+    "name": "linknimiball1974/ai-texture-forge",
+    "url": "https://github.com/linknimiball1974/ai-texture-forge",
+    "lang": "",
+    "desc": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr"
+  },
+  {
+    "createdAt": "2026-11-10T10:59:31Z",
+    "stars": 365,
+    "name": "aronhy/pibrowse",
+    "url": "https://github.com/aronhy/pibrowse",
+    "lang": "TypeScript",
+    "desc": "Open-source browser profile workspaces"
+  },
+  {
+    "createdAt": "2026-11-08T01:33:12Z",
+    "stars": 354,
+    "name": "lizTheDeveloper/flyover-scrub",
+    "url": "https://github.com/lizTheDeveloper/flyover-scrub",
+    "lang": "Python",
+    "desc": "Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it."
+  },
+  {
+    "createdAt": "2026-11-08T09:56:44Z",
+    "stars": 346,
+    "name": "djyde/dalibre",
+    "url": "https://github.com/djyde/dalibre",
+    "lang": "Go",
+    "desc": "A lightweight Calibre alternative"
+  },
+  {
+    "createdAt": "2026-11-10T19:20:06Z",
+    "stars": 345,
+    "name": "MSNightmare/SignDrop",
+    "url": "https://github.com/MSNightmare/SignDrop",
+    "lang": "C",
+    "desc": "Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability"
+  },
+  {
+    "createdAt": "2026-11-09T17:11:00Z",
+    "stars": 341,
+    "name": "MiniMax-AI/MiniMax-H3-Image",
+    "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+    "lang": "Python",
+    "desc": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing."
+  },
+  {
+    "createdAt": "2026-11-08T00:06:23Z",
+    "stars": 334,
+    "name": "oceanpacificpeace/lichii-shader-sync",
+    "url": "https://github.com/oceanpacificpeace/lichii-shader-sync",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-10T12:33:18Z",
+    "stars": 332,
+    "name": "failsafe-security/artex",
+    "url": "https://github.com/failsafe-security/artex",
+    "lang": "Go",
+    "desc": "Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)"
+  },
+  {
+    "createdAt": "2026-11-09T06:00:11Z",
+    "stars": 326,
+    "name": "xiaoerofficial021-collab/FlowHMR-Windows",
+    "url": "https://github.com/xiaoerofficial021-collab/FlowHMR-Windows",
+    "lang": "Python",
+    "desc": "FlowHMR 的 Windows 桌面版：视频动捕、3D 预览和 FBX 导出。"
+  },
+  {
+    "createdAt": "2026-11-08T08:37:21Z",
+    "stars": 324,
+    "name": "phantomsociallook/auslogics",
+    "url": "https://github.com/phantomsociallook/auslogics",
+    "lang": "",
+    "desc": "Digital Audio Workstation Suite 2026 pre-configured environment, ready for seamless local workstation deployment with optimized audio..."
+  },
+  {
+    "createdAt": "2026-11-07T16:50:04Z",
+    "stars": 323,
+    "name": "drost-ai/tinker-ai-skill",
+    "url": "https://github.com/drost-ai/tinker-ai-skill",
+    "lang": "Python",
+    "desc": "Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode."
+  },
+  {
+    "createdAt": "2026-11-11T16:28:54Z",
+    "stars": 315,
+    "name": "op7418/guizang-game-skill",
+    "url": "https://github.com/op7418/guizang-game-skill",
+    "lang": "JavaScript",
+    "desc": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included."
+  },
+  {
+    "createdAt": "2026-11-10T15:04:30Z",
+    "stars": 307,
+    "name": "realcodebear/saltline-fable-5.2",
+    "url": "https://github.com/realcodebear/saltline-fable-5.2",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-08T08:07:28Z",
+    "stars": 307,
+    "name": "threerocks/article2media",
+    "url": "https://github.com/threerocks/article2media",
+    "lang": "JavaScript",
+    "desc": "把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。"
+  }
+]
