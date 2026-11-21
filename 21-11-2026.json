@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-11-16T12:10:36Z",
+    "stars": 6725,
+    "name": "erkamyaman/rust-anything",
+    "url": "https://github.com/erkamyaman/rust-anything",
+    "lang": "Rust",
+    "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java."
+  },
+  {
+    "createdAt": "2026-11-16T19:28:29Z",
+    "stars": 5353,
+    "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "lang": "C++",
+    "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices."
+  },
+  {
+    "createdAt": "2026-11-17T10:21:54Z",
+    "stars": 2539,
+    "name": "gylive/google-ultra",
+    "url": "https://github.com/gylive/google-ultra",
+    "lang": "Python",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-15T11:16:46Z",
+    "stars": 2032,
+    "name": "Hut-hzf/ung220z-tool",
+    "url": "https://github.com/Hut-hzf/ung220z-tool",
+    "lang": "Python",
+    "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。"
+  },
+  {
+    "createdAt": "2026-11-19T14:43:10Z",
+    "stars": 1804,
+    "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+    "lang": "",
+    "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration."
+  },
+  {
+    "createdAt": "2026-11-14T03:59:22Z",
+    "stars": 1725,
+    "name": "CzzzzzzJ/mdldm-maitian",
+    "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+    "lang": "JavaScript",
+    "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏"
+  },
+  {
+    "createdAt": "2026-11-14T01:24:58Z",
+    "stars": 1700,
+    "name": "duwqijlk/muse-protocol",
+    "url": "https://github.com/duwqijlk/muse-protocol",
+    "lang": "Python",
+    "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）"
+  },
+  {
+    "createdAt": "2026-11-14T07:38:20Z",
+    "stars": 1551,
+    "name": "haziqahmedqasmi/PeakCut",
+    "url": "https://github.com/haziqahmedqasmi/PeakCut",
+    "lang": "Python",
+    "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key."
+  },
+  {
+    "createdAt": "2026-11-16T18:40:04Z",
+    "stars": 1346,
+    "name": "sybil-solutions/inference-optimisation-skill",
+    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "lang": "Python",
+    "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization"
+  },
+  {
+    "createdAt": "2026-11-19T10:00:43Z",
+    "stars": 1260,
+    "name": "iamajmeena/neonclipping",
+    "url": "https://github.com/iamajmeena/neonclipping",
+    "lang": "Python",
+    "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM)."
+  },
+  {
+    "createdAt": "2026-11-15T17:33:42Z",
+    "stars": 1254,
+    "name": "joshpuckett/allo",
+    "url": "https://github.com/joshpuckett/allo",
+    "lang": "Python",
+    "desc": "Allo is your friendly neighborhood typeface, free and open source"
+  },
+  {
+    "createdAt": "2026-11-16T14:43:45Z",
+    "stars": 994,
+    "name": "chuanqisun/spaceship",
+    "url": "https://github.com/chuanqisun/spaceship",
+    "lang": "HTML",
+    "desc": "Steer ideas like a space pilot!"
+  },
+  {
+    "createdAt": "2026-11-16T07:44:00Z",
+    "stars": 879,
+    "name": "siliconjungle/shapeshift-labs-ink-studio",
+    "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+    "lang": "JavaScript",
+    "desc": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats"
+  },
+  {
+    "createdAt": "2026-11-14T16:02:56Z",
+    "stars": 792,
+    "name": "n4ze3m/tiny-voca",
+    "url": "https://github.com/n4ze3m/tiny-voca",
+    "lang": "Python",
+    "desc": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch"
+  },
+  {
+    "createdAt": "2026-11-14T23:56:32Z",
+    "stars": 763,
+    "name": "yetanotherbrowser/yab",
+    "url": "https://github.com/yetanotherbrowser/yab",
+    "lang": "Swift",
+    "desc": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion"
+  },
+  {
+    "createdAt": "2026-11-17T14:27:06Z",
+    "stars": 758,
+    "name": "Lemxy/WinRust",
+    "url": "https://github.com/Lemxy/WinRust",
+    "lang": "Rust",
+    "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe."
+  },
+  {
+    "createdAt": "2026-11-16T15:09:46Z",
+    "stars": 745,
+    "name": "boringmarketer/boring-marketing-skills",
+    "url": "https://github.com/boringmarketer/boring-marketing-skills",
+    "lang": "Python",
+    "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT."
+  },
+  {
+    "createdAt": "2026-11-17T05:39:46Z",
+    "stars": 590,
+    "name": "0xkaka/homeport",
+    "url": "https://github.com/0xkaka/homeport",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-19T12:37:51Z",
+    "stars": 586,
+    "name": "MSNightmare/FastUnlock",
+    "url": "https://github.com/MSNightmare/FastUnlock",
+    "lang": "",
+    "desc": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability"
+  },
+  {
+    "createdAt": "2026-11-14T09:48:23Z",
+    "stars": 572,
+    "name": "mankidev/antialgorithm",
+    "url": "https://github.com/mankidev/antialgorithm",
+    "lang": "Python",
+    "desc": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI."
+  },
+  {
+    "createdAt": "2026-11-15T00:17:40Z",
+    "stars": 537,
+    "name": "nilbuild/stick-scene",
+    "url": "https://github.com/nilbuild/stick-scene",
+    "lang": "JavaScript",
+    "desc": "Skill to draw stick figure animated visuals"
+  },
+  {
+    "createdAt": "2026-11-19T10:40:46Z",
+    "stars": 494,
+    "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "lang": "Python",
+    "desc": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks"
+  },
+  {
+    "createdAt": "2026-11-15T16:48:18Z",
+    "stars": 474,
+    "name": "YellowLaborerMarket/Gemini-Config-Checker-",
+    "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:47:11Z",
+    "stars": 473,
+    "name": "weightcashiercupola/Gemini-Config-Checker-",
+    "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:47:17Z",
+    "stars": 472,
+    "name": "WindGatorRise37/Gemini-Config-Checker-",
+    "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:48:18Z",
+    "stars": 472,
+    "name": "WyrmClimberManacle/Gemini-Config-Checker-",
+    "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:46:04Z",
+    "stars": 472,
+    "name": "TurtleReside/Gemini-Config-Checker-",
+    "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+    "lang": "Go",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:47:11Z",
+    "stars": 472,
+    "name": "weldbladesmithwharf/Gemini-Config-Checker-",
+    "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:47:11Z",
+    "stars": 472,
+    "name": "WerewolfEmuHub/Gemini-Config-Checker-",
+    "url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
+    "lang": "Go",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:47:18Z",
+    "stars": 472,
+    "name": "WindowStaffGate11/Gemini-Config-Checker-",
+    "url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:46:04Z",
+    "stars": 472,
+    "name": "Violetnyudress/Gemini-Config-Checker-",
+    "url": "https://github.com/Violetnyudress/Gemini-Config-Checker-",
+    "lang": "Go",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:46:04Z",
+    "stars": 472,
+    "name": "TrooperFilter/Gemini-Config-Checker-",
+    "url": "https://github.com/TrooperFilter/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:48:18Z",
+    "stars": 472,
+    "name": "wisemeadowlarkspike/Gemini-Config-Checker-",
+    "url": "https://github.com/wisemeadowlarkspike/Gemini-Config-Checker-",
+    "lang": "Go",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:47:11Z",
+    "stars": 472,
+    "name": "Watchlespeed/Gemini-Config-Checker-",
+    "url": "https://github.com/Watchlespeed/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:46:07Z",
+    "stars": 472,
+    "name": "VortexHostFeel/Gemini-Config-Checker-",
+    "url": "https://github.com/VortexHostFeel/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:47:17Z",
+    "stars": 472,
+    "name": "WingDataVacuum/Gemini-Config-Checker-",
+    "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:46:04Z",
+    "stars": 472,
+    "name": "TypeTyrantScheme/Gemini-Config-Checker-",
+    "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:48:15Z",
+    "stars": 472,
+    "name": "WireProvostPucker/Gemini-Config-Checker-",
+    "url": "https://github.com/WireProvostPucker/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:46:04Z",
+    "stars": 472,
+    "name": "VisionWormStudio/Gemini-Config-Checker-",
+    "url": "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
+    "lang": "Go",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:47:12Z",
+    "stars": 472,
+    "name": "WestLocksmithSpout/Gemini-Config-Checker-",
+    "url": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-",
+    "lang": "Go",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:47:12Z",
+    "stars": 472,
+    "name": "WharfBoulderColander/Gemini-Config-Checker-",
+    "url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:46:05Z",
+    "stars": 472,
+    "name": "Visionbeyondtrack/Gemini-Config-Checker-",
+    "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-15T16:47:17Z",
+    "stars": 472,
+    "name": "WinnerSpecialist/Gemini-Config-Checker-",
+    "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+    "lang": "Makefile",
+    "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+  },
+  {
+    "createdAt": "2026-11-17T02:51:06Z",
+    "stars": 464,
+    "name": "replit/datacat",
+    "url": "https://github.com/replit/datacat",
+    "lang": "TypeScript",
+    "desc": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data."
+  },
+  {
+    "createdAt": "2026-11-16T17:46:45Z",
+    "stars": 446,
+    "name": "Illson/RustText",
+    "url": "https://github.com/Illson/RustText",
+    "lang": "C#",
+    "desc": "Portable Windows text editor with Sublime Text-style multi-cursor editing, regex find and replace, split views, and a live viewer for large log files."
+  },
+  {
+    "createdAt": "2026-11-15T21:19:28Z",
+    "stars": 400,
+    "name": "finktheartist/sakuga-vfx",
+    "url": "https://github.com/finktheartist/sakuga-vfx",
+    "lang": "HTML",
+    "desc": "Twelve ordinary UI controls that react like anime. One file each, no dependencies."
+  },
+  {
+    "createdAt": "2026-11-14T14:06:05Z",
+    "stars": 396,
+    "name": "hikaku-io/hikaku-extension",
+    "url": "https://github.com/hikaku-io/hikaku-extension",
+    "lang": "JavaScript",
+    "desc": "Open-source browser extension that flags AI-generated images and video as you browse. Runs entirely on your device. Chrome, Edge and Firefox."
+  },
+  {
+    "createdAt": "2026-11-15T17:30:43Z",
+    "stars": 394,
+    "name": "davidondrej/superbot",
+    "url": "https://github.com/davidondrej/superbot",
+    "lang": "Rust",
+    "desc": "Open-source, self-hosted Grok Bot alternative"
+  },
+  {
+    "createdAt": "2026-11-14T19:16:41Z",
+    "stars": 383,
+    "name": "trackersnailgrip/GitHub-Copilot-app",
+    "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
+    "lang": "",
+    "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. "
+  },
+  {
+    "createdAt": "2026-11-14T19:25:18Z",
+    "stars": 381,
+    "name": "tremorbuffalospire/IPTV_Player_2.0",
+    "url": "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
+    "lang": "Rust",
+    "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. "
+  }
+]
