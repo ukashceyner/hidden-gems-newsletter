@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-11-20T20:07:13Z",
+    "stars": 15537,
+    "name": "ItsNotRexed/Leonida",
+    "url": "https://github.com/ItsNotRexed/Leonida",
+    "lang": "Python",
+    "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6"
+  },
+  {
+    "createdAt": "2026-11-16T12:10:36Z",
+    "stars": 8033,
+    "name": "erkamyaman/rust-anything",
+    "url": "https://github.com/erkamyaman/rust-anything",
+    "lang": "Rust",
+    "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java."
+  },
+  {
+    "createdAt": "2026-11-19T14:43:10Z",
+    "stars": 2749,
+    "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+    "lang": "",
+    "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration."
+  },
+  {
+    "createdAt": "2026-11-19T10:00:43Z",
+    "stars": 2100,
+    "name": "iamajmeena/neonclipping",
+    "url": "https://github.com/iamajmeena/neonclipping",
+    "lang": "Python",
+    "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM)."
+  },
+  {
+    "createdAt": "2026-11-21T14:40:27Z",
+    "stars": 1973,
+    "name": "EL4CTEO/fast-anything",
+    "url": "https://github.com/EL4CTEO/fast-anything",
+    "lang": "Rust",
+    "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
+  },
+  {
+    "createdAt": "2026-11-16T18:40:04Z",
+    "stars": 1966,
+    "name": "sybil-solutions/inference-optimisation-skill",
+    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "lang": "Python",
+    "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization"
+  },
+  {
+    "createdAt": "2026-11-21T08:08:39Z",
+    "stars": 1337,
+    "name": "omonkeyz/xbox-emulator",
+    "url": "https://github.com/omonkeyz/xbox-emulator",
+    "lang": "Rust",
+    "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
+  },
+  {
+    "createdAt": "2026-11-20T17:43:52Z",
+    "stars": 1321,
+    "name": "R0Y00/Xbox2Windows",
+    "url": "https://github.com/R0Y00/Xbox2Windows",
+    "lang": "Python",
+    "desc": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified."
+  },
+  {
+    "createdAt": "2026-11-17T14:27:06Z",
+    "stars": 1246,
+    "name": "Lemxy/WinRust",
+    "url": "https://github.com/Lemxy/WinRust",
+    "lang": "Rust",
+    "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe."
+  },
+  {
+    "createdAt": "2026-11-16T14:43:45Z",
+    "stars": 1047,
+    "name": "chuanqisun/spaceship",
+    "url": "https://github.com/chuanqisun/spaceship",
+    "lang": "HTML",
+    "desc": "Steer ideas like a space pilot!"
+  },
+  {
+    "createdAt": "2026-11-16T07:44:00Z",
+    "stars": 1032,
+    "name": "siliconjungle/shapeshift-labs-ink-studio",
+    "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+    "lang": "JavaScript",
+    "desc": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats"
+  },
+  {
+    "createdAt": "2026-11-16T15:09:46Z",
+    "stars": 796,
+    "name": "boringmarketer/boring-marketing-skills",
+    "url": "https://github.com/boringmarketer/boring-marketing-skills",
+    "lang": "Python",
+    "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT."
+  },
+  {
+    "createdAt": "2026-11-19T12:37:51Z",
+    "stars": 682,
+    "name": "MSNightmare/FastUnlock",
+    "url": "https://github.com/MSNightmare/FastUnlock",
+    "lang": "",
+    "desc": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability"
+  },
+  {
+    "createdAt": "2026-11-20T14:47:49Z",
+    "stars": 638,
+    "name": "leanprover-community/riemann-hypothesis",
+    "url": "https://github.com/leanprover-community/riemann-hypothesis",
+    "lang": "Lean",
+    "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)"
+  },
+  {
+    "createdAt": "2026-11-17T05:39:46Z",
+    "stars": 623,
+    "name": "0xkaka/homeport",
+    "url": "https://github.com/0xkaka/homeport",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-19T10:40:46Z",
+    "stars": 615,
+    "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "lang": "Python",
+    "desc": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks"
+  },
+  {
+    "createdAt": "2026-11-16T19:11:44Z",
+    "stars": 586,
+    "name": "pierridotite/mobile-agent-testers",
+    "url": "https://github.com/pierridotite/mobile-agent-testers",
+    "lang": "Python",
+    "desc": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs"
+  },
+  {
+    "createdAt": "2026-11-17T02:51:06Z",
+    "stars": 557,
+    "name": "replit/datacat",
+    "url": "https://github.com/replit/datacat",
+    "lang": "TypeScript",
+    "desc": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data."
+  },
+  {
+    "createdAt": "2026-11-19T04:58:46Z",
+    "stars": 550,
+    "name": "INK-Q/agy-fast",
+    "url": "https://github.com/INK-Q/agy-fast",
+    "lang": "TypeScript",
+    "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs."
+  },
+  {
+    "createdAt": "2026-11-20T14:59:14Z",
+    "stars": 517,
+    "name": "CocoSgt/riemann-hypothesis-lean",
+    "url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
+    "lang": "Lean",
+    "desc": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge"
+  },
+  {
+    "createdAt": "2026-11-20T15:33:20Z",
+    "stars": 517,
+    "name": "realdody/americas-recomp",
+    "url": "https://github.com/realdody/americas-recomp",
+    "lang": "",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-16T17:46:45Z",
+    "stars": 470,
+    "name": "Illson/RustText",
+    "url": "https://github.com/Illson/RustText",
+    "lang": "C#",
+    "desc": "Portable Windows text editor with Sublime Text-style multi-cursor editing, regex find and replace, split views, and a live viewer for large log files."
+  },
+  {
+    "createdAt": "2026-11-20T14:32:43Z",
+    "stars": 470,
+    "name": "danielwh2/sprite-stacking",
+    "url": "https://github.com/danielwh2/sprite-stacking",
+    "lang": "HTML",
+    "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi."
+  },
+  {
+    "createdAt": "2026-11-16T03:33:57Z",
+    "stars": 465,
+    "name": "CoderL98/hghub-plugins",
+    "url": "https://github.com/CoderL98/hghub-plugins",
+    "lang": "JavaScript",
+    "desc": "HGhub HPP 1.0 单文件插件与订阅源"
+  },
+  {
+    "createdAt": "2026-11-21T01:43:00Z",
+    "stars": 458,
+    "name": "sybil-solutions/skill-distill",
+    "url": "https://github.com/sybil-solutions/skill-distill",
+    "lang": "Python",
+    "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task"
+  },
+  {
+    "createdAt": "2026-11-22T12:05:54Z",
+    "stars": 453,
+    "name": "os6/nospeaker",
+    "url": "https://github.com/os6/nospeaker",
+    "lang": "Swift",
+    "desc": "make your macbook's trackpad talk using its haptic motor"
+  },
+  {
+    "createdAt": "2026-11-19T11:06:16Z",
+    "stars": 431,
+    "name": "duwqijlk/google-trial-tool",
+    "url": "https://github.com/duwqijlk/google-trial-tool",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-20T20:06:20Z",
+    "stars": 430,
+    "name": "ItsNotRexed/Hookshot",
+    "url": "https://github.com/ItsNotRexed/Hookshot",
+    "lang": "C++",
+    "desc": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake"
+  },
+  {
+    "createdAt": "2026-11-20T00:06:24Z",
+    "stars": 408,
+    "name": "ThreatDefence/agentic-attack-detections",
+    "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+    "lang": "Python",
+    "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1."
+  },
+  {
+    "createdAt": "2026-11-21T06:54:24Z",
+    "stars": 401,
+    "name": "w01fb0ss/PiBot",
+    "url": "https://github.com/w01fb0ss/PiBot",
+    "lang": "TypeScript",
+    "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi."
+  },
+  {
+    "createdAt": "2026-11-21T02:36:03Z",
+    "stars": 395,
+    "name": "sshkeda/minecraft-server-on-orange-cloud",
+    "url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
+    "lang": "TypeScript",
+    "desc": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing."
+  },
+  {
+    "createdAt": "2026-11-16T13:45:47Z",
+    "stars": 395,
+    "name": "staryone/motlab",
+    "url": "https://github.com/staryone/motlab",
+    "lang": "JavaScript",
+    "desc": "Video as code: canvas scenes rendered with WebCodecs in headless Chrome, a review viewer, and agent skills that build the video from your references."
+  },
+  {
+    "createdAt": "2026-11-16T09:03:25Z",
+    "stars": 392,
+    "name": "scarletkc/colab-playground",
+    "url": "https://github.com/scarletkc/colab-playground",
+    "lang": "Rust",
+    "desc": "A desktop app for the Google Colab CLI: accounts, GPU sessions with cost guards, port forwarding and plugins."
+  },
+  {
+    "createdAt": "2026-11-17T08:38:53Z",
+    "stars": 385,
+    "name": "nkjDSLcvanv/antigravity-codex-theme",
+    "url": "https://github.com/nkjDSLcvanv/antigravity-codex-theme",
+    "lang": "JavaScript",
+    "desc": "Google Antigravity 的 Codex 风格浅色与深色主题，提供简体中文界面、实时会话状态和每轮 Token 统计。主题、汉化和Token统计模块可按需安装与修改。全程不修改 Antigravity 安装包本体文件。支持右侧旁路提问（Side Question）与 SSH Remote 远端会话。"
+  },
+  {
+    "createdAt": "2026-11-21T14:58:00Z",
+    "stars": 383,
+    "name": "fernandeslokesh10/figma-desktop-win",
+    "url": "https://github.com/fernandeslokesh10/figma-desktop-win",
+    "lang": "",
+    "desc": "Figma - collaborative design and prototyping platform for interface design, vector graphics and team workflows on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T15:40:43Z",
+    "stars": 381,
+    "name": "Snow-clienT-best1/microsoft-excel-vcardconverter-win",
+    "url": "https://github.com/Snow-clienT-best1/microsoft-excel-vcardconverter-win",
+    "lang": "",
+    "desc": "Microsoft Excel Vcardconverter - contact management add-in for vCard import, Excel sheet conversion and batch contact export on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T16:39:14Z",
+    "stars": 380,
+    "name": "deep-patch-true/synchro-arts-revoice-pro-5-win",
+    "url": "https://github.com/deep-patch-true/synchro-arts-revoice-pro-5-win",
+    "lang": "",
+    "desc": "Synchro Arts Revoice Pro 5 - vocal editing and pitch correction software for automatic timing alignment, pitch shifting and double-track generation on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T15:06:43Z",
+    "stars": 380,
+    "name": "birddebug/cinema-4d-win",
+    "url": "https://github.com/birddebug/cinema-4d-win",
+    "lang": "",
+    "desc": "Maxon Cinema 4D - 3D modeling and animation suite for motion graphics, procedural modeling and render pipeline integration on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T16:19:50Z",
+    "stars": 379,
+    "name": "Nilespand/tableau-desktop-win",
+    "url": "https://github.com/Nilespand/tableau-desktop-win",
+    "lang": "",
+    "desc": "Tableau - business intelligence and data visualization platform for interactive dashboards, data blending and calculated analytics on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T15:17:34Z",
+    "stars": 379,
+    "name": "Bagussa998/affinity-designer-2-win",
+    "url": "https://github.com/Bagussa998/affinity-designer-2-win",
+    "lang": "",
+    "desc": "Serif Affinity Designer 2 - vector graphics and illustration software for raster and vector workflows, typography and export on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T15:18:59Z",
+    "stars": 378,
+    "name": "cliblacktech/unreal-5-6-win",
+    "url": "https://github.com/cliblacktech/unreal-5-6-win",
+    "lang": "",
+    "desc": "Epic Games Unreal Engine 5 - real-time 3D creation engine for game development, virtual production and architectural visualization on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T16:21:42Z",
+    "stars": 378,
+    "name": "andrewpandey/total-commander-win",
+    "url": "https://github.com/andrewpandey/total-commander-win",
+    "lang": "",
+    "desc": "Ghisler Software Total Commander - file manager for dual-pane navigation, archive handling and FTP transfers on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T15:40:23Z",
+    "stars": 378,
+    "name": "Mnowak64/iobit-uninstaller-pro-win",
+    "url": "https://github.com/Mnowak64/iobit-uninstaller-pro-win",
+    "lang": "",
+    "desc": "IObit Uninstaller Pro - software uninstallation utility for complete program removal, leftover file cleanup and browser plugin management on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T15:16:50Z",
+    "stars": 377,
+    "name": "cacheapp2003/microsoft-office-win",
+    "url": "https://github.com/cacheapp2003/microsoft-office-win",
+    "lang": "",
+    "desc": "Microsoft Office - productivity suite for document authoring, spreadsheet analysis and presentation design on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T12:02:18Z",
+    "stars": 377,
+    "name": "LongNorth1998/charles-proxy-win",
+    "url": "https://github.com/LongNorth1998/charles-proxy-win",
+    "lang": "",
+    "desc": "Charles Proxy - HTTP debugging proxy for traffic inspection, SSL interception and bandwidth throttling on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T15:17:31Z",
+    "stars": 377,
+    "name": "castro-vivek-31/rhino-8-win",
+    "url": "https://github.com/castro-vivek-31/rhino-8-win",
+    "lang": "",
+    "desc": "McNeel Rhinoceros 3D - NURBS-based 3D modeling software for surface modeling, subdivision geometry and CAD interoperability on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T17:06:29Z",
+    "stars": 377,
+    "name": "G4rdner26/luminar-neo-win",
+    "url": "https://github.com/G4rdner26/luminar-neo-win",
+    "lang": "",
+    "desc": "Skylum Luminar Neo - photo editing software for AI-powered enhancements, layer editing and raw file processing on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T16:19:17Z",
+    "stars": 377,
+    "name": "alexeytarasov8/jetbrains-pycharm-professional-win",
+    "url": "https://github.com/alexeytarasov8/jetbrains-pycharm-professional-win",
+    "lang": "",
+    "desc": "JetBrains PyCharm - Python integrated development environment for scientific computing, web frameworks and data analysis on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T12:31:45Z",
+    "stars": 376,
+    "name": "Mahmoudp06/serato-dj-suite-win",
+    "url": "https://github.com/Mahmoudp06/serato-dj-suite-win",
+    "lang": "",
+    "desc": "Serato - DJ software suite for mixing tracks, beat matching and recording live sets on Windows 10/11"
+  },
+  {
+    "createdAt": "2026-11-21T13:22:39Z",
+    "stars": 376,
+    "name": "BhaveshPham/tableau-prep-win",
+    "url": "https://github.com/BhaveshPham/tableau-prep-win",
+    "lang": "",
+    "desc": "Tableau - data preparation and ETL tool for visual pipeline building, data cleaning and dataset transformation on Windows 10/11"
+  }
+]
