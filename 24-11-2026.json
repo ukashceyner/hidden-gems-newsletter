@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-11-23T21:47:25Z",
+    "stars": 4905,
+    "name": "Marvisak/VIctory",
+    "url": "https://github.com/Marvisak/VIctory",
+    "lang": "Rust",
+    "desc": "An attempt at running GTA VI on PC"
+  },
+  {
+    "createdAt": "2026-11-20T20:03:21Z",
+    "stars": 4319,
+    "name": "ivall/xcl",
+    "url": "https://github.com/ivall/xcl",
+    "lang": "Rust",
+    "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL"
+  },
+  {
+    "createdAt": "2026-11-21T14:40:27Z",
+    "stars": 3263,
+    "name": "EL4CTEO/fast-anything",
+    "url": "https://github.com/EL4CTEO/fast-anything",
+    "lang": "Rust",
+    "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
+  },
+  {
+    "createdAt": "2026-11-20T10:18:31Z",
+    "stars": 2434,
+    "name": "AFK-surf/xnulinux",
+    "url": "https://github.com/AFK-surf/xnulinux",
+    "lang": "Objective-C++",
+    "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)"
+  },
+  {
+    "createdAt": "2026-11-19T10:00:43Z",
+    "stars": 2328,
+    "name": "iamajmeena/neonclipping",
+    "url": "https://github.com/iamajmeena/neonclipping",
+    "lang": "Python",
+    "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM)."
+  },
+  {
+    "createdAt": "2026-11-21T08:08:39Z",
+    "stars": 1717,
+    "name": "omonkeyz/xbox-emulator",
+    "url": "https://github.com/omonkeyz/xbox-emulator",
+    "lang": "Rust",
+    "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
+  },
+  {
+    "createdAt": "2026-11-20T17:43:52Z",
+    "stars": 1640,
+    "name": "R0Y00/Xbox2Windows",
+    "url": "https://github.com/R0Y00/Xbox2Windows",
+    "lang": "Python",
+    "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified."
+  },
+  {
+    "createdAt": "2026-11-22T12:05:54Z",
+    "stars": 1530,
+    "name": "os6/nospeaker",
+    "url": "https://github.com/os6/nospeaker",
+    "lang": "Swift",
+    "desc": "make your macbook's trackpad talk using its haptic motor"
+  },
+  {
+    "createdAt": "2026-11-17T14:27:06Z",
+    "stars": 1401,
+    "name": "Lemxy/WinRust",
+    "url": "https://github.com/Lemxy/WinRust",
+    "lang": "Rust",
+    "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe."
+  },
+  {
+    "createdAt": "2026-11-21T23:16:41Z",
+    "stars": 1080,
+    "name": "4lwayz/portwatch-vi",
+    "url": "https://github.com/4lwayz/portwatch-vi",
+    "lang": "JavaScript",
+    "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
+  },
+  {
+    "createdAt": "2026-11-20T14:47:49Z",
+    "stars": 903,
+    "name": "leanprover-community/riemann-hypothesis",
+    "url": "https://github.com/leanprover-community/riemann-hypothesis",
+    "lang": "Lean",
+    "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)"
+  },
+  {
+    "createdAt": "2026-11-19T04:58:46Z",
+    "stars": 820,
+    "name": "INK-Q/agy-fast",
+    "url": "https://github.com/INK-Q/agy-fast",
+    "lang": "TypeScript",
+    "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs."
+  },
+  {
+    "createdAt": "2026-11-19T10:40:46Z",
+    "stars": 714,
+    "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "lang": "Python",
+    "desc": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks"
+  },
+  {
+    "createdAt": "2026-11-19T12:37:51Z",
+    "stars": 704,
+    "name": "MSNightmare/FastUnlock",
+    "url": "https://github.com/MSNightmare/FastUnlock",
+    "lang": "",
+    "desc": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability"
+  },
+  {
+    "createdAt": "2026-11-20T14:32:43Z",
+    "stars": 692,
+    "name": "danielwh2/sprite-stacking",
+    "url": "https://github.com/danielwh2/sprite-stacking",
+    "lang": "HTML",
+    "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi."
+  },
+  {
+    "createdAt": "2026-11-20T20:06:20Z",
+    "stars": 646,
+    "name": "ItsNotRexed/Hookshot",
+    "url": "https://github.com/ItsNotRexed/Hookshot",
+    "lang": "C++",
+    "desc": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake"
+  },
+  {
+    "createdAt": "2026-11-17T05:39:46Z",
+    "stars": 641,
+    "name": "0xkaka/homeport",
+    "url": "https://github.com/0xkaka/homeport",
+    "lang": "HTML",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-21T17:08:48Z",
+    "stars": 608,
+    "name": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+    "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+    "lang": "HTML",
+    "desc": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers."
+  },
+  {
+    "createdAt": "2026-11-17T02:51:06Z",
+    "stars": 600,
+    "name": "replit/datacat",
+    "url": "https://github.com/replit/datacat",
+    "lang": "TypeScript",
+    "desc": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data."
+  },
+  {
+    "createdAt": "2026-11-20T00:06:24Z",
+    "stars": 577,
+    "name": "ThreatDefence/agentic-attack-detections",
+    "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+    "lang": "Python",
+    "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1."
+  },
+  {
+    "createdAt": "2026-11-20T14:59:14Z",
+    "stars": 551,
+    "name": "CocoSgt/riemann-hypothesis-lean",
+    "url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
+    "lang": "Lean",
+    "desc": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge"
+  },
+  {
+    "createdAt": "2026-11-21T01:43:00Z",
+    "stars": 530,
+    "name": "sybil-solutions/skill-distill",
+    "url": "https://github.com/sybil-solutions/skill-distill",
+    "lang": "Python",
+    "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task"
+  },
+  {
+    "createdAt": "2026-11-22T16:44:10Z",
+    "stars": 521,
+    "name": "erkamyaman/safe-anything",
+    "url": "https://github.com/erkamyaman/safe-anything",
+    "lang": "Rust",
+    "desc": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups."
+  },
+  {
+    "createdAt": "2026-11-21T06:54:24Z",
+    "stars": 513,
+    "name": "w01fb0ss/PiBot",
+    "url": "https://github.com/w01fb0ss/PiBot",
+    "lang": "TypeScript",
+    "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi."
+  },
+  {
+    "createdAt": "2026-11-17T08:38:53Z",
+    "stars": 495,
+    "name": "nkjDSLcvanv/antigravity-codex-theme",
+    "url": "https://github.com/nkjDSLcvanv/antigravity-codex-theme",
+    "lang": "JavaScript",
+    "desc": "Google Antigravity 桌面端增强插件：Codex 昼夜双主题、原生设置页与一键热更新、1,900+ 中文汉化、四态状态灯与实时用量监控（含旁路提问 / SSH 远端）、可选 Tab 下一句预测。不改安装包，模块化按需安装。"
+  },
+  {
+    "createdAt": "2026-11-21T00:29:56Z",
+    "stars": 476,
+    "name": "xikhar/papercraft",
+    "url": "https://github.com/xikhar/papercraft",
+    "lang": "JavaScript",
+    "desc": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style"
+  },
+  {
+    "createdAt": "2026-11-23T23:54:39Z",
+    "stars": 476,
+    "name": "ubiquitarianism/leonida",
+    "url": "https://github.com/ubiquitarianism/leonida",
+    "lang": "Python",
+    "desc": "A continuation of Leonida, the Xbox > PC port of GTA VI"
+  },
+  {
+    "createdAt": "2026-11-17T02:25:25Z",
+    "stars": 452,
+    "name": "JimLiu/open-artifact",
+    "url": "https://github.com/JimLiu/open-artifact",
+    "lang": "TypeScript",
+    "desc": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion."
+  },
+  {
+    "createdAt": "2026-11-19T11:06:16Z",
+    "stars": 450,
+    "name": "duwqijlk/google-trial-tool",
+    "url": "https://github.com/duwqijlk/google-trial-tool",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-18T15:17:53Z",
+    "stars": 439,
+    "name": "hoangsvit/google-ai",
+    "url": "https://github.com/hoangsvit/google-ai",
+    "lang": "Python",
+    "desc": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS."
+  },
+  {
+    "createdAt": "2026-11-21T02:36:03Z",
+    "stars": 422,
+    "name": "sshkeda/minecraft-server-on-orange-cloud",
+    "url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
+    "lang": "TypeScript",
+    "desc": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing."
+  },
+  {
+    "createdAt": "2026-11-17T07:42:18Z",
+    "stars": 421,
+    "name": "hovocope135-tech/DSH-projects",
+    "url": "https://github.com/hovocope135-tech/DSH-projects",
+    "lang": "JavaScript",
+    "desc": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you."
+  },
+  {
+    "createdAt": "2026-11-21T15:49:31Z",
+    "stars": 405,
+    "name": "qianyiai/kurocat",
+    "url": "https://github.com/qianyiai/kurocat",
+    "lang": "TypeScript",
+    "desc": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）"
+  },
+  {
+    "createdAt": "2026-11-20T10:40:33Z",
+    "stars": 391,
+    "name": "tristanbuckmaster/navier-stokes",
+    "url": "https://github.com/tristanbuckmaster/navier-stokes",
+    "lang": "Lean",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-18T17:34:59Z",
+    "stars": 365,
+    "name": "lukendeasy/open-diagram",
+    "url": "https://github.com/lukendeasy/open-diagram",
+    "lang": "Python",
+    "desc": "Python building blocks for dense architecture diagrams that check their own layout"
+  },
+  {
+    "createdAt": "2026-11-20T13:21:21Z",
+    "stars": 348,
+    "name": "GGBondLab/OpenHC",
+    "url": "https://github.com/GGBondLab/OpenHC",
+    "lang": "Kotlin",
+    "desc": "兼容 HICAR 安卓车机接收端"
+  },
+  {
+    "createdAt": "2026-11-20T15:17:55Z",
+    "stars": 346,
+    "name": "tweak-for-me/impulse",
+    "url": "https://github.com/tweak-for-me/impulse",
+    "lang": "Rust",
+    "desc": "Lightweight alternative Windows client for game trainers: hotkeys, overlay and phone control."
+  },
+  {
+    "createdAt": "2026-11-22T05:36:03Z",
+    "stars": 344,
+    "name": "deterministic-machines/deslop-please",
+    "url": "https://github.com/deterministic-machines/deslop-please",
+    "lang": "Rust",
+    "desc": "Bring (back) sanity to your code"
+  },
+  {
+    "createdAt": "2026-11-17T23:06:07Z",
+    "stars": 341,
+    "name": "cuesta4/GOW3rehooked",
+    "url": "https://github.com/cuesta4/GOW3rehooked",
+    "lang": "C++",
+    "desc": "GOW3rehooked - the definitive GOW3 Remastered experience on PC. "
+  },
+  {
+    "createdAt": "2026-11-22T10:53:17Z",
+    "stars": 340,
+    "name": "crhywun/g1-acq",
+    "url": "https://github.com/crhywun/g1-acq",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-21T13:05:46Z",
+    "stars": 340,
+    "name": "juniordroid/better-discord-client",
+    "url": "https://github.com/juniordroid/better-discord-client",
+    "lang": "HTML",
+    "desc": "Better Discord Client: Remastered Desktop Experience for Modders"
+  },
+  {
+    "createdAt": "2026-11-21T12:34:08Z",
+    "stars": 340,
+    "name": "darthvader097br-ctrl/acronis-standalone-bundle",
+    "url": "https://github.com/darthvader097br-ctrl/acronis-standalone-bundle",
+    "lang": "HTML",
+    "desc": "Acronis Bundle: Modular Desktop Suite for Integrated System Management"
+  },
+  {
+    "createdAt": "2026-11-21T17:13:14Z",
+    "stars": 340,
+    "name": "Adabi0304/studioonepro7-release",
+    "url": "https://github.com/Adabi0304/studioonepro7-release",
+    "lang": "HTML",
+    "desc": "Studioonepro7 Release: Complete Desktop Suite with All Features Included"
+  },
+  {
+    "createdAt": "2026-11-21T15:49:27Z",
+    "stars": 340,
+    "name": "vinujak/phantom-blade-zero-modifier",
+    "url": "https://github.com/vinujak/phantom-blade-zero-modifier",
+    "lang": "HTML",
+    "desc": "Phantom Blade Zero Modifier: God Mode, Infinite Health, One-Hit Kill Trainer for Windows"
+  },
+  {
+    "createdAt": "2026-11-21T13:14:54Z",
+    "stars": 340,
+    "name": "Dhruv2710-hub/cellebrite-ufed",
+    "url": "https://github.com/Dhruv2710-hub/cellebrite-ufed",
+    "lang": "HTML",
+    "desc": "Cellebrite UFED: Complete Forensic Suite with Full Toolset, Ready to Run"
+  },
+  {
+    "createdAt": "2026-11-21T13:02:41Z",
+    "stars": 340,
+    "name": "dillithdillith4-cell/autodesk-cfd",
+    "url": "https://github.com/dillithdillith4-cell/autodesk-cfd",
+    "lang": "HTML",
+    "desc": "Autodesk CFD Desktop Setup: Full Computational Fluid Dynamics Toolkit"
+  },
+  {
+    "createdAt": "2026-11-21T15:33:26Z",
+    "stars": 339,
+    "name": "eastspaper6-cmyk/ninjatrader-bot",
+    "url": "https://github.com/eastspaper6-cmyk/ninjatrader-bot",
+    "lang": "HTML",
+    "desc": "Community-Driven NinjaTrader Bot for Discord and Telegram with Rich"
+  },
+  {
+    "createdAt": "2026-11-21T12:59:33Z",
+    "stars": 339,
+    "name": "youssefco1999-hash/aiseesoft-launch-pro",
+    "url": "https://github.com/youssefco1999-hash/aiseesoft-launch-pro",
+    "lang": "HTML",
+    "desc": "Aiseesoft Launch Pro: Desktop Utility for Aiseesoft Unlocker Operations"
+  },
+  {
+    "createdAt": "2026-11-23T15:30:45Z",
+    "stars": 339,
+    "name": "lenguyenkhang816792-arch/gta-6-pc-emulator",
+    "url": "https://github.com/lenguyenkhang816792-arch/gta-6-pc-emulator",
+    "lang": "HTML",
+    "desc": "GTA 6 PC Emulator: Your Portal to Grand Theft Auto VI on Windows"
+  },
+  {
+    "createdAt": "2026-11-21T17:08:58Z",
+    "stars": 339,
+    "name": "cr4zyp4ul/quicken-deluxe",
+    "url": "https://github.com/cr4zyp4ul/quicken-deluxe",
+    "lang": "HTML",
+    "desc": "Quicken Deluxe: Comprehensive Desktop Financial Management with Budgeting and Reporting"
+  }
+]
