@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-11-23T21:47:25Z",
+    "stars": 11587,
+    "name": "Marvisak/VIctory",
+    "url": "https://github.com/Marvisak/VIctory",
+    "lang": "Rust",
+    "desc": "An attempt at running GTA VI on PC"
+  },
+  {
+    "createdAt": "2026-11-20T20:03:21Z",
+    "stars": 7937,
+    "name": "xcl-dev/xcl",
+    "url": "https://github.com/xcl-dev/xcl",
+    "lang": "Rust",
+    "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL"
+  },
+  {
+    "createdAt": "2026-11-21T14:40:27Z",
+    "stars": 3675,
+    "name": "EL4CTEO/fast-anything",
+    "url": "https://github.com/EL4CTEO/fast-anything",
+    "lang": "Rust",
+    "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
+  },
+  {
+    "createdAt": "2026-11-20T10:18:31Z",
+    "stars": 3488,
+    "name": "AFK-surf/xnulinux",
+    "url": "https://github.com/AFK-surf/xnulinux",
+    "lang": "Objective-C++",
+    "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)"
+  },
+  {
+    "createdAt": "2026-11-21T23:16:41Z",
+    "stars": 3032,
+    "name": "4lwayz/portwatch-vi",
+    "url": "https://github.com/4lwayz/portwatch-vi",
+    "lang": "JavaScript",
+    "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
+  },
+  {
+    "createdAt": "2026-11-19T10:00:43Z",
+    "stars": 2509,
+    "name": "iamajmeena/neonclipping",
+    "url": "https://github.com/iamajmeena/neonclipping",
+    "lang": "Python",
+    "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM)."
+  },
+  {
+    "createdAt": "2026-11-24T18:02:37Z",
+    "stars": 2186,
+    "name": "fxceless/victory-fork",
+    "url": "https://github.com/fxceless/victory-fork",
+    "lang": "Rust",
+    "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files."
+  },
+  {
+    "createdAt": "2026-11-23T23:54:39Z",
+    "stars": 1975,
+    "name": "ubiquitarianism/leonida",
+    "url": "https://github.com/ubiquitarianism/leonida",
+    "lang": "Python",
+    "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI"
+  },
+  {
+    "createdAt": "2026-11-20T17:43:52Z",
+    "stars": 1923,
+    "name": "R0Y00/Xbox2Windows",
+    "url": "https://github.com/R0Y00/Xbox2Windows",
+    "lang": "Python",
+    "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified."
+  },
+  {
+    "createdAt": "2026-11-21T08:08:39Z",
+    "stars": 1829,
+    "name": "omonkeyz/xbox-emulator",
+    "url": "https://github.com/omonkeyz/xbox-emulator",
+    "lang": "Rust",
+    "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
+  },
+  {
+    "createdAt": "2026-11-22T12:05:54Z",
+    "stars": 1779,
+    "name": "os6/nospeaker",
+    "url": "https://github.com/os6/nospeaker",
+    "lang": "Swift",
+    "desc": "make your macbook's trackpad talk using its haptic motor"
+  },
+  {
+    "createdAt": "2026-11-19T04:58:46Z",
+    "stars": 1257,
+    "name": "INK-Q/agy-fast",
+    "url": "https://github.com/INK-Q/agy-fast",
+    "lang": "TypeScript",
+    "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs."
+  },
+  {
+    "createdAt": "2026-11-20T14:47:49Z",
+    "stars": 1079,
+    "name": "leanprover-community/riemann-hypothesis",
+    "url": "https://github.com/leanprover-community/riemann-hypothesis",
+    "lang": "Lean",
+    "desc": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community."
+  },
+  {
+    "createdAt": "2026-11-22T18:50:17Z",
+    "stars": 911,
+    "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "lang": "Rust",
+    "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in"
+  },
+  {
+    "createdAt": "2026-11-23T21:30:10Z",
+    "stars": 832,
+    "name": "Indigo-0167/universal-game-mod-manager",
+    "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+    "lang": "Rust",
+    "desc": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods."
+  },
+  {
+    "createdAt": "2026-11-23T21:38:47Z",
+    "stars": 821,
+    "name": "zero5122/offline-file-converter-windows",
+    "url": "https://github.com/zero5122/offline-file-converter-windows",
+    "lang": "Python",
+    "desc": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately."
+  },
+  {
+    "createdAt": "2026-11-23T21:21:35Z",
+    "stars": 821,
+    "name": "rowanbyte3329/stardew-valley-mod-manager",
+    "url": "https://github.com/rowanbyte3329/stardew-valley-mod-manager",
+    "lang": "C#",
+    "desc": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates, and custom mod profiles."
+  },
+  {
+    "createdAt": "2026-11-22T05:36:03Z",
+    "stars": 820,
+    "name": "deterministic-machines/deslop-please",
+    "url": "https://github.com/deterministic-machines/deslop-please",
+    "lang": "Rust",
+    "desc": "Bring (back) sanity to your code"
+  },
+  {
+    "createdAt": "2026-11-23T21:40:15Z",
+    "stars": 807,
+    "name": "Umbra9179/clipboard-history-manager-windows",
+    "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+    "lang": "C#",
+    "desc": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup."
+  },
+  {
+    "createdAt": "2026-11-23T21:31:33Z",
+    "stars": 804,
+    "name": "solv4626/steam-achievement-manager-windows",
+    "url": "https://github.com/solv4626/steam-achievement-manager-windows",
+    "lang": "Rust",
+    "desc": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics."
+  },
+  {
+    "createdAt": "2026-11-20T14:32:43Z",
+    "stars": 803,
+    "name": "danielwh2/sprite-stacking",
+    "url": "https://github.com/danielwh2/sprite-stacking",
+    "lang": "HTML",
+    "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi."
+  },
+  {
+    "createdAt": "2026-11-23T21:32:56Z",
+    "stars": 801,
+    "name": "kai415-debug/ffmpeg-video-audio-converter",
+    "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+    "lang": "C++",
+    "desc": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding."
+  },
+  {
+    "createdAt": "2026-11-21T01:43:00Z",
+    "stars": 739,
+    "name": "sybil-solutions/skill-distill",
+    "url": "https://github.com/sybil-solutions/skill-distill",
+    "lang": "Python",
+    "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task"
+  },
+  {
+    "createdAt": "2026-11-20T11:01:20Z",
+    "stars": 730,
+    "name": "sous-labs/songe",
+    "url": "https://github.com/sous-labs/songe",
+    "lang": "Python",
+    "desc": "A training engine for your local model, using your idle compute"
+  },
+  {
+    "createdAt": "2026-11-19T10:40:46Z",
+    "stars": 730,
+    "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+    "lang": "Python",
+    "desc": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face Landmarks"
+  },
+  {
+    "createdAt": "2026-11-19T12:37:51Z",
+    "stars": 728,
+    "name": "MSNightmare/FastUnlock",
+    "url": "https://github.com/MSNightmare/FastUnlock",
+    "lang": "",
+    "desc": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability"
+  },
+  {
+    "createdAt": "2026-11-23T21:18:03Z",
+    "stars": 722,
+    "name": "olive527/steam-library-manager-windows",
+    "url": "https://github.com/olive527/steam-library-manager-windows",
+    "lang": "C#",
+    "desc": "Free Windows game library manager and backup tool for Steam, Origin and Ubisoft Connect with multi-library support."
+  },
+  {
+    "createdAt": "2026-11-20T20:06:20Z",
+    "stars": 710,
+    "name": "ItsNotRexed/Hookshot",
+    "url": "https://github.com/ItsNotRexed/Hookshot",
+    "lang": "C++",
+    "desc": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake"
+  },
+  {
+    "createdAt": "2026-11-21T17:08:48Z",
+    "stars": 700,
+    "name": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+    "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+    "lang": "HTML",
+    "desc": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers."
+  },
+  {
+    "createdAt": "2026-11-21T15:49:31Z",
+    "stars": 698,
+    "name": "qianyiai/kurocat",
+    "url": "https://github.com/qianyiai/kurocat",
+    "lang": "TypeScript",
+    "desc": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）"
+  },
+  {
+    "createdAt": "2026-11-22T10:53:17Z",
+    "stars": 689,
+    "name": "crhywun/g1-acq",
+    "url": "https://github.com/crhywun/g1-acq",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-23T21:34:14Z",
+    "stars": 685,
+    "name": "Nebula4207/av1-video-encoder-gui",
+    "url": "https://github.com/Nebula4207/av1-video-encoder-gui",
+    "lang": "C#",
+    "desc": "Free Windows AV1 video encoder GUI for aomenc, rav1e, SVT-AV1, NVENC, Quick Sync and VP9 with parallel encoding."
+  },
+  {
+    "createdAt": "2026-11-23T21:19:48Z",
+    "stars": 682,
+    "name": "Basil0879/steam-game-idler",
+    "url": "https://github.com/Basil0879/steam-game-idler",
+    "lang": "TypeScript",
+    "desc": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows."
+  },
+  {
+    "createdAt": "2026-11-22T16:44:10Z",
+    "stars": 640,
+    "name": "erkamyaman/safe-anything",
+    "url": "https://github.com/erkamyaman/safe-anything",
+    "lang": "Rust",
+    "desc": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups."
+  },
+  {
+    "createdAt": "2026-11-20T00:06:24Z",
+    "stars": 639,
+    "name": "ThreatDefence/agentic-attack-detections",
+    "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+    "lang": "Python",
+    "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1."
+  },
+  {
+    "createdAt": "2026-11-21T00:29:56Z",
+    "stars": 631,
+    "name": "xikhar/papercraft",
+    "url": "https://github.com/xikhar/papercraft",
+    "lang": "JavaScript",
+    "desc": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style"
+  },
+  {
+    "createdAt": "2026-11-25T01:12:08Z",
+    "stars": 610,
+    "name": "Zettrox/ztrx",
+    "url": "https://github.com/Zettrox/ztrx",
+    "lang": "Rust",
+    "desc": "Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs"
+  },
+  {
+    "createdAt": "2026-11-21T20:26:12Z",
+    "stars": 571,
+    "name": "Developing-Gamer/agent-sim",
+    "url": "https://github.com/Developing-Gamer/agent-sim",
+    "lang": "Rust",
+    "desc": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim."
+  },
+  {
+    "createdAt": "2026-11-21T06:54:24Z",
+    "stars": 564,
+    "name": "w01fb0ss/PiBot",
+    "url": "https://github.com/w01fb0ss/PiBot",
+    "lang": "TypeScript",
+    "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi."
+  },
+  {
+    "createdAt": "2026-11-20T14:59:14Z",
+    "stars": 562,
+    "name": "CocoSgt/riemann-hypothesis-lean",
+    "url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
+    "lang": "Lean",
+    "desc": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge"
+  },
+  {
+    "createdAt": "2026-11-23T21:37:25Z",
+    "stars": 554,
+    "name": "umbradev315/ffmpeg-video-audio-converter",
+    "url": "https://github.com/umbradev315/ffmpeg-video-audio-converter",
+    "lang": "Kotlin",
+    "desc": "Free open-source FFmpeg GUI for Windows to convert video and audio, batch process media, and analyze quality."
+  },
+  {
+    "createdAt": "2026-11-18T15:17:53Z",
+    "stars": 518,
+    "name": "hoangsvit/google-ai",
+    "url": "https://github.com/hoangsvit/google-ai",
+    "lang": "Python",
+    "desc": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a native Python adapter on macOS."
+  },
+  {
+    "createdAt": "2026-11-23T21:28:46Z",
+    "stars": 514,
+    "name": "peak85-sketch/stardew-valley-mod-manager",
+    "url": "https://github.com/peak85-sketch/stardew-valley-mod-manager",
+    "lang": "C#",
+    "desc": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates and custom profiles."
+  },
+  {
+    "createdAt": "2026-11-19T11:06:16Z",
+    "stars": 462,
+    "name": "duwqijlk/google-trial-tool",
+    "url": "https://github.com/duwqijlk/google-trial-tool",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-20T13:21:21Z",
+    "stars": 448,
+    "name": "GGBondLab/OpenHC",
+    "url": "https://github.com/GGBondLab/OpenHC",
+    "lang": "Kotlin",
+    "desc": "兼容 HICAR 安卓车机接收端"
+  },
+  {
+    "createdAt": "2026-11-23T01:06:18Z",
+    "stars": 432,
+    "name": "chanke17/KuroCat",
+    "url": "https://github.com/chanke17/KuroCat",
+    "lang": "C++",
+    "desc": "🐱 Native macOS & Windows desktop cat pet with full-state keyboard/mouse capture (typing & gaming), 2.5D head tracking, hunting boba eyes, and Black/Siamese skins"
+  },
+  {
+    "createdAt": "2026-11-21T02:36:03Z",
+    "stars": 430,
+    "name": "sshkeda/minecraft-server-on-orange-cloud",
+    "url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
+    "lang": "TypeScript",
+    "desc": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing."
+  },
+  {
+    "createdAt": "2026-11-20T10:40:33Z",
+    "stars": 429,
+    "name": "tristanbuckmaster/navier-stokes",
+    "url": "https://github.com/tristanbuckmaster/navier-stokes",
+    "lang": "Lean",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-20T15:17:55Z",
+    "stars": 410,
+    "name": "tweak-for-me/impulse",
+    "url": "https://github.com/tweak-for-me/impulse",
+    "lang": "Rust",
+    "desc": "Lightweight alternative Windows client for game trainers: hotkeys, overlay and phone control."
+  },
+  {
+    "createdAt": "2026-11-24T02:20:14Z",
+    "stars": 406,
+    "name": "ProjectLeonidaL/leonida",
+    "url": "https://github.com/ProjectLeonidaL/leonida",
+    "lang": "Python",
+    "desc": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation."
+  }
+]
