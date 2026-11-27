@@ -1,0 +1,402 @@
+[
+  {
+    "createdAt": "2026-11-23T21:47:25Z",
+    "stars": 13443,
+    "name": "Marvisak/VIctory",
+    "url": "https://github.com/Marvisak/VIctory",
+    "lang": "Rust",
+    "desc": "An attempt at running GTA VI on PC"
+  },
+  {
+    "createdAt": "2026-11-20T20:03:21Z",
+    "stars": 8628,
+    "name": "xcl-dev/xcl",
+    "url": "https://github.com/xcl-dev/xcl",
+    "lang": "Rust",
+    "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL"
+  },
+  {
+    "createdAt": "2026-11-21T23:16:41Z",
+    "stars": 5958,
+    "name": "4lwayz/portwatch-vi",
+    "url": "https://github.com/4lwayz/portwatch-vi",
+    "lang": "JavaScript",
+    "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily."
+  },
+  {
+    "createdAt": "2026-11-21T14:40:27Z",
+    "stars": 4272,
+    "name": "EL4CTEO/fast-anything",
+    "url": "https://github.com/EL4CTEO/fast-anything",
+    "lang": "Rust",
+    "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same."
+  },
+  {
+    "createdAt": "2026-11-20T10:18:31Z",
+    "stars": 4266,
+    "name": "AFK-surf/xnulinux",
+    "url": "https://github.com/AFK-surf/xnulinux",
+    "lang": "C",
+    "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)"
+  },
+  {
+    "createdAt": "2026-11-24T18:02:37Z",
+    "stars": 3287,
+    "name": "fxceless/victory-fork",
+    "url": "https://github.com/fxceless/victory-fork",
+    "lang": "Rust",
+    "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files."
+  },
+  {
+    "createdAt": "2026-11-25T09:41:37Z",
+    "stars": 3240,
+    "name": "Belobug/VIctory-Belobug-AMD",
+    "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+    "lang": "Rust",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-23T23:54:39Z",
+    "stars": 2546,
+    "name": "ubiquitarianism/leonida",
+    "url": "https://github.com/ubiquitarianism/leonida",
+    "lang": "Python",
+    "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI"
+  },
+  {
+    "createdAt": "2026-11-20T17:43:52Z",
+    "stars": 1969,
+    "name": "R0Y00/Xbox2Windows",
+    "url": "https://github.com/R0Y00/Xbox2Windows",
+    "lang": "Python",
+    "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified."
+  },
+  {
+    "createdAt": "2026-11-22T12:05:54Z",
+    "stars": 1961,
+    "name": "os6/nospeaker",
+    "url": "https://github.com/os6/nospeaker",
+    "lang": "Swift",
+    "desc": "make your macbook's trackpad talk using its haptic motor"
+  },
+  {
+    "createdAt": "2026-11-25T22:18:14Z",
+    "stars": 1856,
+    "name": "avatarmanz/VIctory-7900XTX",
+    "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+    "lang": "Rust",
+    "desc": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files."
+  },
+  {
+    "createdAt": "2026-11-21T08:08:39Z",
+    "stars": 1852,
+    "name": "omonkeyz/xbox-emulator",
+    "url": "https://github.com/omonkeyz/xbox-emulator",
+    "lang": "Rust",
+    "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
+  },
+  {
+    "createdAt": "2026-11-22T10:53:17Z",
+    "stars": 1671,
+    "name": "crhywun/g1-acq",
+    "url": "https://github.com/crhywun/g1-acq",
+    "lang": "JavaScript",
+    "desc": ""
+  },
+  {
+    "createdAt": "2026-11-25T07:28:51Z",
+    "stars": 1630,
+    "name": "alesha-pro/llm.asm",
+    "url": "https://github.com/alesha-pro/llm.asm",
+    "lang": "Assembly",
+    "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies."
+  },
+  {
+    "createdAt": "2026-11-22T18:50:17Z",
+    "stars": 1533,
+    "name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "lang": "Rust",
+    "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in"
+  },
+  {
+    "createdAt": "2026-11-21T15:49:31Z",
+    "stars": 1477,
+    "name": "qianyiai/KuroCat",
+    "url": "https://github.com/qianyiai/KuroCat",
+    "lang": "TypeScript",
+    "desc": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣"
+  },
+  {
+    "createdAt": "2026-11-20T14:47:49Z",
+    "stars": 1473,
+    "name": "leanprover-community/riemann-hypothesis",
+    "url": "https://github.com/leanprover-community/riemann-hypothesis",
+    "lang": "Lean",
+    "desc": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community."
+  },
+  {
+    "createdAt": "2026-11-23T21:30:10Z",
+    "stars": 1301,
+    "name": "Indigo-0167/universal-game-mod-manager",
+    "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+    "lang": "Rust",
+    "desc": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods."
+  },
+  {
+    "createdAt": "2026-11-23T21:40:15Z",
+    "stars": 1265,
+    "name": "Umbra9179/clipboard-history-manager-windows",
+    "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+    "lang": "C#",
+    "desc": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup."
+  },
+  {
+    "createdAt": "2026-11-25T10:35:45Z",
+    "stars": 1209,
+    "name": "nexu-io/opengame",
+    "url": "https://github.com/nexu-io/opengame",
+    "lang": "TypeScript",
+    "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more."
+  },
+  {
+    "createdAt": "2026-11-22T05:36:03Z",
+    "stars": 1156,
+    "name": "deterministic-machines/deslop-please",
+    "url": "https://github.com/deterministic-machines/deslop-please",
+    "lang": "Rust",
+    "desc": "Bring (back) sanity to your code"
+  },
+  {
+    "createdAt": "2026-11-23T21:38:47Z",
+    "stars": 1072,
+    "name": "zero5122/offline-file-converter-windows",
+    "url": "https://github.com/zero5122/offline-file-converter-windows",
+    "lang": "Python",
+    "desc": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately."
+  },
+  {
+    "createdAt": "2026-11-23T21:31:33Z",
+    "stars": 1058,
+    "name": "solv4626/steam-achievement-manager-windows",
+    "url": "https://github.com/solv4626/steam-achievement-manager-windows",
+    "lang": "Rust",
+    "desc": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics."
+  },
+  {
+    "createdAt": "2026-11-20T14:32:43Z",
+    "stars": 1044,
+    "name": "danielwh2/sprite-stacking",
+    "url": "https://github.com/danielwh2/sprite-stacking",
+    "lang": "HTML",
+    "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi."
+  },
+  {
+    "createdAt": "2026-11-23T21:32:56Z",
+    "stars": 1020,
+    "name": "kai415-debug/ffmpeg-video-audio-converter",
+    "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+    "lang": "C++",
+    "desc": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding."
+  },
+  {
+    "createdAt": "2026-11-21T01:43:00Z",
+    "stars": 934,
+    "name": "sybil-solutions/skill-distill",
+    "url": "https://github.com/sybil-solutions/skill-distill",
+    "lang": "Python",
+    "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task"
+  },
+  {
+    "createdAt": "2026-11-25T17:29:48Z",
+    "stars": 929,
+    "name": "Reukix/Reloc",
+    "url": "https://github.com/Reukix/Reloc",
+    "lang": "Swift",
+    "desc": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)"
+  },
+  {
+    "createdAt": "2026-11-25T20:42:55Z",
+    "stars": 916,
+    "name": "lsernau/grh-lean",
+    "url": "https://github.com/lsernau/grh-lean",
+    "lang": "Lean",
+    "desc": "A short Lean 4 proof of the Generalized Riemann Hypothesis"
+  },
+  {
+    "createdAt": "2026-11-20T11:01:20Z",
+    "stars": 909,
+    "name": "sous-labs/songe",
+    "url": "https://github.com/sous-labs/songe",
+    "lang": "Python",
+    "desc": "A training engine for your local model, using your idle compute"
+  },
+  {
+    "createdAt": "2026-11-21T00:29:56Z",
+    "stars": 832,
+    "name": "xikhar/papercraft",
+    "url": "https://github.com/xikhar/papercraft",
+    "lang": "JavaScript",
+    "desc": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style"
+  },
+  {
+    "createdAt": "2026-11-21T17:08:48Z",
+    "stars": 803,
+    "name": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+    "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+    "lang": "HTML",
+    "desc": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers."
+  },
+  {
+    "createdAt": "2026-11-22T16:44:10Z",
+    "stars": 794,
+    "name": "erkamyaman/safe-anything",
+    "url": "https://github.com/erkamyaman/safe-anything",
+    "lang": "Rust",
+    "desc": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups."
+  },
+  {
+    "createdAt": "2026-11-20T20:06:20Z",
+    "stars": 760,
+    "name": "ItsNotRexed/Hookshot",
+    "url": "https://github.com/ItsNotRexed/Hookshot",
+    "lang": "C++",
+    "desc": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake"
+  },
+  {
+    "createdAt": "2026-11-20T00:06:24Z",
+    "stars": 751,
+    "name": "ThreatDefence/agentic-attack-detections",
+    "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+    "lang": "Python",
+    "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1."
+  },
+  {
+    "createdAt": "2026-11-23T21:18:03Z",
+    "stars": 719,
+    "name": "olive527/steam-library-manager-windows",
+    "url": "https://github.com/olive527/steam-library-manager-windows",
+    "lang": "C#",
+    "desc": "Free Windows game library manager and backup tool for Steam, Origin and Ubisoft Connect with multi-library support."
+  },
+  {
+    "createdAt": "2026-11-26T08:48:31Z",
+    "stars": 714,
+    "name": "DoubleGhosty/cool_fox",
+    "url": "https://github.com/DoubleGhosty/cool_fox",
+    "lang": "Rust",
+    "desc": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV"
+  },
+  {
+    "createdAt": "2026-11-23T12:57:17Z",
+    "stars": 710,
+    "name": "zortos293/XSEmu",
+    "url": "https://github.com/zortos293/XSEmu",
+    "lang": "Rust",
+    "desc": "Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL."
+  },
+  {
+    "createdAt": "2026-11-24T09:36:26Z",
+    "stars": 707,
+    "name": "ZigZagBoi1/ScarlettPort",
+    "url": "https://github.com/ZigZagBoi1/ScarlettPort",
+    "lang": "Rust",
+    "desc": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files."
+  },
+  {
+    "createdAt": "2026-11-23T01:06:18Z",
+    "stars": 701,
+    "name": "chanke17/KuroCat",
+    "url": "https://github.com/chanke17/KuroCat",
+    "lang": "C++",
+    "desc": "KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）"
+  },
+  {
+    "createdAt": "2026-11-23T21:19:48Z",
+    "stars": 681,
+    "name": "Basil0879/steam-game-idler",
+    "url": "https://github.com/Basil0879/steam-game-idler",
+    "lang": "TypeScript",
+    "desc": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows."
+  },
+  {
+    "createdAt": "2026-11-23T21:34:14Z",
+    "stars": 681,
+    "name": "Nebula4207/av1-video-encoder-gui",
+    "url": "https://github.com/Nebula4207/av1-video-encoder-gui",
+    "lang": "C#",
+    "desc": "Free Windows AV1 video encoder GUI for aomenc, rav1e, SVT-AV1, NVENC, Quick Sync and VP9 with parallel encoding."
+  },
+  {
+    "createdAt": "2026-11-21T06:54:24Z",
+    "stars": 659,
+    "name": "w01fb0ss/PiBot",
+    "url": "https://github.com/w01fb0ss/PiBot",
+    "lang": "TypeScript",
+    "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi."
+  },
+  {
+    "createdAt": "2026-11-21T20:26:12Z",
+    "stars": 616,
+    "name": "Developing-Gamer/agent-sim",
+    "url": "https://github.com/Developing-Gamer/agent-sim",
+    "lang": "Rust",
+    "desc": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim."
+  },
+  {
+    "createdAt": "2026-11-20T14:59:14Z",
+    "stars": 585,
+    "name": "CocoSgt/riemann-hypothesis-lean",
+    "url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
+    "lang": "Lean",
+    "desc": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge"
+  },
+  {
+    "createdAt": "2026-11-20T13:21:21Z",
+    "stars": 577,
+    "name": "GGBondLab/OpenHC",
+    "url": "https://github.com/GGBondLab/OpenHC",
+    "lang": "Kotlin",
+    "desc": "兼容 HICAR 安卓车机接收端"
+  },
+  {
+    "createdAt": "2026-11-23T21:37:25Z",
+    "stars": 551,
+    "name": "umbradev315/ffmpeg-video-audio-converter",
+    "url": "https://github.com/umbradev315/ffmpeg-video-audio-converter",
+    "lang": "Kotlin",
+    "desc": "Free open-source FFmpeg GUI for Windows to convert video and audio, batch process media, and analyze quality."
+  },
+  {
+    "createdAt": "2026-11-20T15:17:55Z",
+    "stars": 548,
+    "name": "tweak-for-me/impulse",
+    "url": "https://github.com/tweak-for-me/impulse",
+    "lang": "Rust",
+    "desc": "Lightweight alternative Windows client for game trainers: hotkeys, overlay and phone control."
+  },
+  {
+    "createdAt": "2026-11-24T02:20:14Z",
+    "stars": 516,
+    "name": "ProjectLeonidaL/leonida",
+    "url": "https://github.com/ProjectLeonidaL/leonida",
+    "lang": "Rust",
+    "desc": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation."
+  },
+  {
+    "createdAt": "2026-11-23T21:28:46Z",
+    "stars": 509,
+    "name": "peak85-sketch/stardew-valley-mod-manager",
+    "url": "https://github.com/peak85-sketch/stardew-valley-mod-manager",
+    "lang": "C#",
+    "desc": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates and custom profiles."
+  },
+  {
+    "createdAt": "2026-11-25T09:26:33Z",
+    "stars": 469,
+    "name": "Moh4696/inkworks-skill",
+    "url": "https://github.com/Moh4696/inkworks-skill",
+    "lang": "JavaScript",
+    "desc": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet."
+  }
+]
